@@ -10,27 +10,27 @@ Berapakah usia anda?
 
 
 ;16-24
-16-24
+16-24 {ok}
 
 
 ;25-34
-25-34
+25-34 {ok}
 
 
 ;35-44
-35-44
+35-44 {ok}
 
 
 ;45-54
-45-54
+45-54 {ok}
 
 
 ;55-64
-55-64
+55-64 {ok}
 
 
 ;65+
-65+
+65+ {ok}
 
 
 ;Please indicate your gender
@@ -49,23 +49,23 @@ Wanita
 Yang mana dari peramban-peramban di bawah ini yang anda gunakan di komputer desktop anda saat ini, dan juga saat di rumah ataupun di tempat kerja?
 
 ;Apple Safari
-Apple Safari
+Apple Safari {ok}
 
 
 ;Google Chrome
-Google Chrome
+Google Chrome {ok}
 
 
 ;Microsoft Internet Explorer
-Microsoft Internet Explorer
+Microsoft Internet Explorer {ok}
 
 
 ;Mozilla Firefox
-Mozilla Firefox
+Mozilla Firefox {ok}
 
 
 ;Opera
-Opera
+Opera {ok}
 
 
 ;Another browser
@@ -81,7 +81,7 @@ Berapa besar kemungkinan anda merekomendasikan Firefox kepada teman dan rekan an
 
 
 ;I am very likely and would consider making a recommendation without being asked
-Saya lebih baik memberikan rekomendasi tanpa perlu ditanyakan
+Saya akan memberikan rekomendasi tanpa perlu ditanyakan
 
 ;I am quite likely to recommend Firefox and would do so if I was asked
 Saya mungkin akan merekomendasikan Firefox apabila ditanyakan
@@ -123,7 +123,7 @@ Sangat suka
 
 
 ;So overall, taking everything into account, how satisfied or dissatisfied are you with Firefox?
-Jadi secara keseluruhan, seberapa anda puas atau tidak puas dengan Firefox?
+Secara keseluruhan, seberapa anda puas atau tidak puas dengan Firefox?
 
 
 ;Extremely dissatisfied
@@ -159,11 +159,11 @@ Dari pernyataan di bawah ini, bisakah anda menunjukkan yang manakah anda:
 
 
 ;Were aware of this and believe it to be correct
-Sadar akan hal ini dan percaya menjadi benar
+Sadar akan hal ini dan percaya bahwa ini adalah benar
 
 
 ;Have seen this but were unsure if it was right
-Pernah melihat ini tapi tidak yakin bahwa ini benar
+Pernah melihat ini tapi tidak yakin kalau ini benar
 
 
 ;Have not heard of this before today, or I don’t know
@@ -197,7 +197,7 @@ Layanan Firefox yang mana saja yang pernah anda dengar sampai hari ini?
 
 
 ;Firefox Sync
-Firefox Sync
+Firefox Sync {ok}
 
 
 ;A service that gives you secure access to your bookmarks, open tabs, and browsing history from any computer or smartphone with Firefox
@@ -209,18 +209,18 @@ Firefox untuk Android
 
 
 ;The Firefox browser on an Android smartphone or tablet
-Peramban Firefox di ponsel pinter ataupun tablet android
+Peramban Firefox di smartphone ataupun tablet android
 
 
 ;Mozilla Persona
-Mozilla Persona
+Mozilla Persona {ok}
 
 
 ;An identity system that allows you to sign in to sites using an email address you choose.
 Sebuah sistem indentitas yang mengijinkan anda untuk masuk ke dalam berbagai situs dengan menggunakan email yang anda pilih
 
 ;Mozilla Marketplace
-Mozilla Marketplace
+Mozilla Marketplace {ok}
 
 
 ;Mozilla's online store for Open Web apps
@@ -298,7 +298,7 @@ Laptop di tempat kerja
 
 
 ;Smartphone (eg: iPhone, Android phone)
-Ponsel pintar (misal. iPhone, Android)
+Smartphone (misal. iPhone, Android)
 
 
 ;Tablet (eg: iPad)
@@ -348,7 +348,7 @@ Tidak bisa mengisi hanya 1 karakter.
 
 
 ;Illegal characters for multi code input
-Illegal characters for multi code input
+Tidak bisa mengisi dengan multi kode
 
 
 ;Please enter numbers only

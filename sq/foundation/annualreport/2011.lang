@@ -123,6 +123,7 @@ Fuqia unike e Web-it vjen nga fakti që cilido mund të merret dhe të krijojë 
 ;Webmaker tools, projects and events help educators, youth, media-makers and everyday consumers around the world move from using the Web to making the Web. In 2013, Webmaker will mobilize a global community of mentors, instructors and youth to teach and learn together; advance revolutionary Webmaker software tools like <a href="%(popcorn_url)s" rel="external">Popcorn</a> and <a href="%(thimble_url)s" rel="external">Thimble</a>; and work together to build a more Web-literate planet.
 Mjetet, projektet dhe veprimtaritë Webmaker ndihmojnë edukatorët, rininë, krijuesit e mediave dhe konsumatorin e përditshëm anembanë botës të kalojnë nga përdorimi i Web-it në krijim për të. Më 2013, Webmaker do të mobilizojë një bashkësi mbarëbotërore drejtuesish, instruktorësh dhe të rinjsh për t'u mësuar dhe për të nxënë tok; për të shpënë më tej mjete revolucionarizuese software Webmaker, të tillë si <a href="%(popcorn_url)s" rel="external">Popcorn</a> dhe <a href="%(thimble_url)s" rel="external">Thimble</a>; dhe për të punuar tok për të ndërtuar një sferë më të ditur në fushën e Web-it.
 
+
 ;Webmaker: Video
 Webmaker: Video {ok}
 
@@ -143,8 +144,9 @@ Mozilla do të vazhdojë të kontribuojë te standardet Web.
 Mozilla ka kontribuar përherë në standardet Web, që në fillimet e projektit, dhe do të vazhdojë ta bëjë këtë teksa ecën përpara. <a href="%(cofound_url)s" rel="external">Bashkëthemeluam</a> the <a href="%(whatwg_url)s" rel="external">WHAT-WG</a> për t'i dhënë fill <a href="%(html5_url)s" rel="external">HTML5-s</a>. Jemi udhëheqësit te <a href="%(javascript_url)s" rel="external">standardizimi i JavaScript-it</a>. Kemi mes nesh disa nga ekspertët më të zotë në botë për <a href="%(dbaron_url)s" rel="external">CSS</a> dhe <a href="%(ocallahan_url)s" rel="external">layout-e</a>.
 
 
-;Standards are a multi-vendor effort, but Mozilla is proud of the many technologies we have pioneered and submitted to standards bodies to make them interoperable for the Web as a whole. Some examples of these include geolocation, WebGL, the Gamepad API, Web Telephony and IndexDB.
-Standardet janë punë disa prodhuesish njëherazi, por Mozilla është krenare për mjaft nga teknologjitë që ka shpalosur e para dhe parashtruar te organizma standardesh për t'i bërë ato ndërvepruese për Web-in si i tërë. Disa nga shembujt përfshijnë gjeovendndodhjen, WebGL-në, API-n Gamepad, Telefoninë Web dhe IndexDB-në.
+;Standards are a multi-vendor effort, but Mozilla is proud of the many technologies we have pioneered and submitted to standards bodies to make them interoperable for the Web as a whole. Some examples of these include geolocation, WebGL, the Gamepad API, Web Telephony and IndexBD.
+tandardet janë punë disa prodhuesish njëherazi, por Mozilla është krenare për mjaft nga teknologjitë që ka shpalosur e para dhe parashtruar te organizma standardesh për t'i bërë ato ndërvepruese për Web-in si i tërë. Disa nga shembujt përfshijnë gjeovendndodhjen, WebGL-në, API-n Gamepad, Telefoninë Web dhe IndexDB-në.
+
 
 ;Fighting for you: Standing up for your security, privacy and freedom
 Në beteja për të mirën tuaj: Në mbrojtje të sigurisë, privatësisë dhe lirisë suaj
@@ -315,9 +317,17 @@ Lexojeni
 ;Done
 U bë
 
+
 ;At Mozilla, we measure success by how much we are doing to improve the overall health of the Web and advance the interests of users and developers. We succeed when we build products that people love, and when other organizations build the traits and features we care about into competing products. For example, we view Google Chrome's recent implementation of the Do Not Track feature we pioneered to be a success for Mozilla and our mission.
 Te Mozilla suksesin e matim me atë se sa kemi bërë për të përmirësuar shëndetin e Web-it në përgjithësi dhe për të shpënë përpara interesat e përdoruesve dhe programuesve. Jemi të suksesshëm kur krijojmë produkte që njerëzit i duan, dhe kur organizma të tjerë adoptojnë në prodhime konkurruese karakteristika dhe mekanizma që për ne janë të rëndësishëm. Për shembull, sendërtimin tani së fundi në Google Chrome të mekanizmit Mos Më Gjurmo, krijuar së pari prej nesh, ne e shohim  si një sukses për Mozilla-n dhe misionin tonë.
 
 
 ;Mozilla has announced a commercial partnership with Telefónica for Firefox OS. The specific terms of the agreement are subject to traditional confidentiality requirements. We are developing new partnerships with additional <abbr title="Original Equipment Manufacturers">OEMs</abbr> and operators, which will be announced in due course through 2012 and into 2013. We also have numerous arrangements with app publishers who will be included in the Firefox Marketplace.
 Mozilla ka njoftuar për një partneritet tregtar me Telefónica-n, lidhur me Firefox OS-in. Kushtet specifike të marrëveshjes janë subjekt i kërkesave tradicionale të ruajtjes së sekretit. Po ndërtojmë partneritete të reja me të tjerë <abbr title="Original Equipment Manufacturers">OEM-e</abbr> dhe operatorë, të cilat do të njoftohen në kohë të përshtashme përgjatë 2012-s dhe 2013-s. Kemi gjithashtu edhe marrëveshje të shumta me botues zbatimesh që do të përfshihen te Firefox Marketplace-i.
+
+
+# This string is for the page <title> value
+;The State of Mozilla: 2011 Annual Report
+The State of Mozilla: 2011 Annual Report
+
+

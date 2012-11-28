@@ -107,7 +107,7 @@
 
 
 ;Visit Mozilla.com (in English)
-Visit Mozilla.com (US site)
+Visit Mozilla.com (US site) {ok}
 
 
 ;Download Firefox - Free
@@ -143,7 +143,7 @@ Visit Mozilla.com (US site)
 
 
 ;(in English)
-(in English)
+(in English) {ok}
 
 
 ;Download Now - Free
@@ -203,7 +203,7 @@ Firefox ของคุณทันสมัยแล้ว แต่ Flash Play
 
 
 ;MB
-MB
+MB {ok}
 
 
 ;MegaBytes
@@ -343,11 +343,11 @@ Firefox ปรับรุ่นแล้ว
 
 
 ;Download for <span>Android</span>
-Download สำหรับ <span>Android</span>
+ดาวน์โหลดสำหรับ <span>Android</span>
 
 
 ;Free from the Android Market
-ติดตั้งฟรีจาก Android Market
+ฟรีใน Android Market
 
 
 ;Desktop
@@ -367,7 +367,7 @@ Firefox สำหรับอุปกรณ์เคลื่อนที่
 
 
 ;Mozilla Firefox. Bringing the modern Web to XP.
-Mozilla Firefox นำเว็บรุ่นใหม่มาสู่ Windows XP
+Mozilla Firefox. นำเทคโนโลยีเว็บล่าสุดมายัง XP
 
 
 ;Super speed
@@ -375,7 +375,7 @@ Mozilla Firefox นำเว็บรุ่นใหม่มาสู่ Window
 
 
 ;Stunning graphics
-กราฟฟิคตระการตา
+กราฟฟิคสุดประทับใจ
 
 
 ;The latest technologies
@@ -383,15 +383,15 @@ Mozilla Firefox นำเว็บรุ่นใหม่มาสู่ Window
 
 
 ;You're using an old version of Firefox. Get your update to stay safe! <br/> <a href="%s">Download the free upgrade</a> in less than a minute for the latest features, speed and security fixes.
-คุณกำลังใช้งาน Firefox รุ่นเก่า ปรับรุ่นเพื่อให้มั่นใจว่าปลอดภัยอยู่เสมอ! <br /> <a href="%s">ปรับรุ่นฟรี</a> ภายในเวลาไม่กี่นาทีเพื่อรับความสามารถใหม่ล่าสุด การแก้ไขความเร็วและความปลอดภัย
+คุณกำลังใช้ Firefox รุ่นเก่า ปรับรุ่นเพื่อทำให้คุณยังคงปลอดภัย <br/> <a href="%s">ดาวน์โหลดตัวปรับรุ่นฟรี</a> ภายในไม่กี่นาทีเพื่อความสามารถล่าสุด ความเร็วสุดยอดและการปรับปรุงความปลอดภัย
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-คุณจำเป็นต้องปรับรุ่น! มั่นใจว่าปลอดภัยอยู่เสมอภายในเวลาไม่กี่นาที <br /> เริ่มใช้งาน Firefox เพื่อการท่องเว็บและการปรับแต่งที่ดีที่สุด <br /> เร็วและฟรี!
+คุณต้องปรับรุ่น! คงความปลอดภัยไว้ด้วยเวลาไม่กี่นาที <br/> เริ่มใช้ Firefox รุ่นใหม่เพื่อการท่องและปรับแต่งเว็บที่ดีที่สุด <br/>   เร็วและฟรี!
 
 
 ;You're using an older version of Firefox. Get <a href="%s">your update</a> to stay safe! <br/> Experience the latest features, security fixes and the fastest Firefox yet. Download the free upgrade in less than a minute.
-คุณกำลังใช้งาน Firefox รุ่นเก่า <a href="%s">ปรับรุ่น</a> เพื่อรักษาความปลอดภัย! ลองประสบการณ์กับความสามารถล่าสุด, ความปลอดภัยที่ดีและ Firefox ที่เร็วที่สุด ดาวน์โหลดการปรับรุ่นฟรีภายในไม่กี่นาที
+คุณกำลังใช้ Firefox รุ่นเก่ามาก ดาวน์โหลด <a href="%s">การปรับรุ่นของคุณ</a> เพื่อคงความปลอดภัยไว้ <br/> ลองใช้ความสามารถล่าสุด การปรับปรุงความปลอดภัยและ Firefox ที่เร็วที่สุด ดาวน์โหลดการปรับรุ่นฟรีในเวลาไม่กี่นาที
 
 
 ;Upgrade now
@@ -399,8 +399,7 @@ Mozilla Firefox นำเว็บรุ่นใหม่มาสู่ Window
 
 
 ;Update now
-ปรับปรุงทันที
-
+ปรับรุ่นทันที
 
 ;Supported Devices
 อุปกรณ์ที่รองรับ
@@ -408,31 +407,27 @@ Mozilla Firefox นำเว็บรุ่นใหม่มาสู่ Window
 
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 ;What’s New
-What’s New
-
+มีอะไรใหม่
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons
 ;Privacy
-Privacy
+ความเป็นส่วนตัว
 
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+ส่วนหนึ่งของเนื้อหานี้นั้นสงวนลิขสิทธิ์ 1998–%(current_year) โดยผู้มีส่วมร่วมของ mozilla.org แต่ละคน เนื้อหาอยู่ภายใต้ <a href="%(url)s">สัญญาอนุญาตครีเอทีฟคอมมอนส์</a>
 
 
 # Footer string
 ;Contribute to this page
-Contribute to this page
+มีส่วนร่วมกับหน้านี้
 
 
 # Top menu item
 ;Mission
-Mission
-
+เป้าหมาย
 
 # Footer item on some pages to link to a tour of features
 ;Tour
-Tour
-
-
+ท่องดู

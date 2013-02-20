@@ -158,7 +158,7 @@
 Βοηθήστε  μας να διαδώσουμε το πως ο Firefox και άλλα προϊόντα του έργου Mozilla  χτίζουν ένα καλύτερο διαδίκτυο. Μοιραστείτε τον Firefox  με τον υπόλοιπο κόσμο <a href="%(affiliates_url)s">αφού γίνετε μέλος</a> και έπειτα δείτε στο <a href="%(marketing_url)s">Marketing Guide</a> για περισσότερους τρόπους να αναμιχθείτε.
 
 ;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="http://quality.mozilla.org/">other testing opportunities</a>.
-Ο έλεγχος διασφάλισης ποιότητας είναι ένας από τους πιο εύκολους τρόπους να ξεκινήσει κανείς με το έργο Mozilla και ένας εξαιρετικός τρόπος να εξοικειωθεί με τον κώδικα και τα εργαλεία μας. Βοηθήστε μας να <a href="http://quality.mozilla.org/teams/desktop-firefox/">διορθώσουμε σφάλματα</a> στον Firefox, να <a href="http://quality.mozilla.org/teams/web-qa/">κάνουμε δοκιμές στους ιστότοπους του έργου Mozilla</a> ή μάθετε περισσότερα για <a href="http://quality.mozilla.org/">άλλες δυνατότητες δοκιμών</a>.
+Ο έλεγχος διασφάλισης ποιότητας είναι ένας από τους πιο εύκολους τρόπους να ξεκινήσει κανείς με το έργο Mozilla και ένας εξαιρετικός τρόπος να εξοικειωθεί με τον κώδικα και τα εργαλεία μας. Βοηθήστε μας να <a href="%(qa_bugs_url)s">διορθώσουμε σφάλματα</a> στον Firefox, να <a href="%(qa_web_url)s">κάνουμε δοκιμές στους ιστότοπους του έργου Mozilla</a> ή μάθετε περισσότερα για <a href="http://quality.mozilla.org/">άλλες δυνατότητες δοκιμών</a>.
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!
 Πάρτε μέρος στην ερευνητική ομάδα&mdash;είτε θέλετε <a href="%(survey_url)s">να συμμετέχετε σε μια επικείμενη μελέτη</a>, <a href="%(test_email)s">είτε να διεξάγετε δοκιμές χρηστικότητας</a> μόνοι σας, είτε <a href="%(test_pilot)s">να αναλύσετε  δεδομένα του Test Pilot</a>&mdash;θα θέλαμε πολύ να συνδεθείτε μαζί μας!
@@ -189,22 +189,21 @@
 Έχω μια πρόταση για τον Firefox
 
 ;Facebook
-Facebook
+Facebook {ok}
 
 ;Education
 Εκπαίδευση
 
 ;Firefox Affiliates
-Firefox Affiliates
+Firefox Affiliates {ok}
 
 ;Developer Documentation
 Τεκμηρίωση για προγραμματιστές
 
 ;Mozilla
-Mozilla
+Mozilla {ok}
 
 ;Thank you for signing up!
-Thank you for signing up!
 Σας ευχαριστούμε για την εγγραφή σας!
 
 ;Menu
@@ -217,13 +216,13 @@ Thank you for signing up!
 Χρειάζεται να συμφωνείτε με την πολιτική απορρήτου.
 
 ;Visual Design
-Οπτική σχεδίαση
+Σχεδίαση
 
 ;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
 Συμφωνώ να χειριστείτε αυτές τις πληροφορίες με τον τρόπο που αναφέρετε στην <a href="%s">πολιτική απορρήτου</a>
 
 ;Twitter
-Twitter
+Twitter {ok}
 
 ;We are sorry, but there was a problem with our system. Please try again later!
 Λυπούμαστε, μα παρουσιάστηκε κάποιο πρόβλημα στο σύστημα μας. Παρακαλούμε προσπαθήστε ξανά αργότερα!
@@ -241,11 +240,11 @@ Twitter
 
 Οι ιστότοποι μας μας είναι διαθέσιμοι στους  web developers που θέλουν να χακάρουν. <a href="%(webdev_url)s">Βρείτε ένα web site project</a> για να ξεκινήσετε. Μπορείτε  επίσης να χρησιμοποιήσετε τις web δεξιότητες σας <a href="%(gaia_url)s">για να βοηθήσετε να χτίσουμε το νέο Firefox OS</a>.
 
-;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>..
-Οι διαδικασίες υποστήριξης  μας βασίζονται σε ενθουσιώδεις συνεργάτες όπως εσείς. Μάθετε περισσότερα  σχετικά με το πως θα <a  href="%(fx_support_url)s">υποστηρίξετε  χρήστες του Firefox</a> και του <a   href="%(tb_support_url)s">Thunderbird</a>.
+;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
+Οι διαδικασίες υποστήριξης μας βασίζονται σε ενθουσιώδεις συνεργάτες όπως εσείς. Μάθετε περισσότερα σχετικά με το πως θα <a href="%(fx_support_url)s">υποστηρίξετε χρήστες του Firefox</a> και του <a href="%(tb_support_url)s">Thunderbird</a>.
 
 ;Documentation and Writing
-Τεκμηρίωση και Γραπτά
+Τεκμηρίωση και συγγραφή
 
 ;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
 Θέλουμε να δώσουμε τη  δυνατότητα στους καλλιτέχνες να καλύψουν το διαδίκτυο και τους ανθρώπους  με έργα εμπνευσμένα από το έργο Mozilla. Δείτε στο <a href="%(creative_url)s">ιστολόγιο Creative team</a> για περισσότερες πληροφορίες σχετικά με το πως θα συμμετέχετε.

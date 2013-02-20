@@ -90,7 +90,7 @@
 <a href="https://developer.mozilla.org/en/Introduction">Οι προγραμματιστές μπορούν να βοηθήσουν</a> το έργο Mozilla προσθέτοντας νέα χαρακτηριστικά, κάνοντας την τεχνολογία μας πιο απλή και πιο γρήγορη και κάνοντας την ανάπτυξη πιο εύκολη για τους άλλους.
 
 ;You can find many developers on <a href="http://irc.mozilla.org">IRC</a> so stop by and ask questions to learn more. Our web sites are <a href="http://blog.mozilla.com/webdev/get-involved/">open for web ninjas</a> to hack on too.
-Μπορείτε να βρείτε πολλούς προγραμματιστές στο <a href="http://irc.mozilla.org">IRC</a> οπότε ρίξτε μια ματιά και κάντε ερωτήσεις για να μάθετε περισσότερα. Οι ιστότοποι μας είναι επίσης<a href="http://blog.mozilla.com/webdev/get-involved/">ανοιχτοί για web-νίντζα</a> που θέλουν να χακάρουν.
+Μπορείτε να βρείτε πολλούς προγραμματιστές στο <a href="http://irc.mozilla.org">IRC</a> οπότε ρίξτε μια ματιά και κάντε ερωτήσεις για να μάθετε περισσότερα. Οι ιστότοποι μας είναι επίσης<a href="http://blog.mozilla.com/webdev/get-involved/">ανοιχτοί για web-νίντζα</a> που θέλουν να ασχοληθούν.
 
 
 ;Spread the Word
@@ -152,7 +152,7 @@
 Η προσιτότητα αφορά το πως θα κάνεις τα πράγματα να δουλεύουν για όλους. Βοήθησε <a href="%(access_url)s">να δημιουργηθούν εργαλεία και πηγές για χρήστες του Firefox με αναπηρίες</a> και βοήθησε <a href="%(access_wiki)s">να δημιουργηθεί διαδικτυακό περιεχόμενο διαθέσιμο σε μη οπτικά μέσα</a> όπως οι αναγνώστες οθόνης
 
 ;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. You can find many developers on <a href="%(irc_url)s">IRC</a> so stop by and ask questions to learn more. Our web sites are <a href="%(webdev_blog)s">open for web ninjas</a> to hack on too.
-<a href="%(access_wiki)s">Οι προγραμματιστές μπορούν να βοηθήσουν</a> το έργο Mozilla προσθέτωντας νεα χαρακτηριστικά, κάνοντας την τεχνολογία μας πιο απλή και πιο γρήγορη και την ανάπτυξη πιο εύκολη για τους άλλους. Μπορείτε να βρείτε πολλούς προγραμματιστές στο <a href="%(irc_url)s">IRC</a> οπότε ρίξτε μια ματιά και κάντε ερωτήσεις για να μάθετε περισσότερα. Οι ιστότοποι μας είναι  επίσης <a href="http://blog.mozilla.com/webdev/get-involved/">ανοιχτά για web-νίντζα</a> που θέλουν να χακάρουν.
+<a href="%(access_wiki)s">Οι προγραμματιστές μπορούν να βοηθήσουν</a> το έργο Mozilla προσθέτωντας νεα χαρακτηριστικά, κάνοντας την τεχνολογία μας πιο απλή και πιο γρήγορη και την ανάπτυξη πιο εύκολη για τους άλλους. Μπορείτε να βρείτε πολλούς προγραμματιστές στο <a href="%(irc_url)s">IRC</a> οπότε ρίξτε μια ματιά και κάντε ερωτήσεις για να μάθετε περισσότερα. Οι ιστότοποι μας είναι επίσης διαθέσιμοι <a href="http://blog.mozilla.com/webdev/get-involved/">για web-νίντζα</a> που θέλουν να ασχοληθούν.
 
 ;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
 Βοηθήστε  μας να διαδώσουμε το πως ο Firefox και άλλα προϊόντα του έργου Mozilla  χτίζουν ένα καλύτερο διαδίκτυο. Μοιραστείτε τον Firefox  με τον υπόλοιπο κόσμο <a href="%(affiliates_url)s">αφού γίνετε μέλος</a> και έπειτα δείτε στο <a href="%(marketing_url)s">Marketing Guide</a> για περισσότερους τρόπους να αναμιχθείτε.
@@ -213,7 +213,7 @@ Mozilla {ok}
 Ανάπτυξη διαδικτύου
 
 ;You must agree to the privacy policy
-Χρειάζεται να συμφωνείτε με την πολιτική απορρήτου.
+Πρέπει να αποδεχτείτε την πολιτική απορρήτου.
 
 ;Visual Design
 Σχεδίαση
@@ -238,7 +238,7 @@ Twitter {ok}
 
 ;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
 
-Οι ιστότοποι μας μας είναι διαθέσιμοι στους  web developers που θέλουν να χακάρουν. <a href="%(webdev_url)s">Βρείτε ένα web site project</a> για να ξεκινήσετε. Μπορείτε  επίσης να χρησιμοποιήσετε τις web δεξιότητες σας <a href="%(gaia_url)s">για να βοηθήσετε να χτίσουμε το νέο Firefox OS</a>.
+Οι ιστότοποι μας μας είναι διαθέσιμοι στους  web developers που θέλουν να βοηθήσουν. <a href="%(webdev_url)s">Βρείτε ένα web site project</a> για να ξεκινήσετε. Μπορείτε  επίσης να χρησιμοποιήσετε τις web δεξιότητες σας <a href="%(gaia_url)s">για να βοηθήσετε να χτίσουμε το νέο Firefox OS</a>.
 
 ;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
 Οι διαδικασίες υποστήριξης μας βασίζονται σε ενθουσιώδεις συνεργάτες όπως εσείς. Μάθετε περισσότερα σχετικά με το πως θα <a href="%(fx_support_url)s">υποστηρίξετε χρήστες του Firefox</a> και του <a href="%(tb_support_url)s">Thunderbird</a>.
@@ -250,14 +250,14 @@ Twitter {ok}
 Θέλουμε να δώσουμε τη  δυνατότητα στους καλλιτέχνες να καλύψουν το διαδίκτυο και τους ανθρώπους  με έργα εμπνευσμένα από το έργο Mozilla. Δείτε στο <a href="%(creative_url)s">ιστολόγιο Creative team</a> για περισσότερες πληροφορίες σχετικά με το πως θα συμμετέχετε.
 
 ;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
-Τα προϊόντα του έργου Mozilla έχουν  ένα πολύ ισχυρό σύστημα πρόσθετων επεκτάσεων που σας επιτρέπει να  κάνετε μικρές αλλαγές ή τεράστιες προσθήκες. Μάθετε περισσότερα για το πως να <a href="%(addons_url)s"> φτιάξτε ένα πρόσθετο (add-on)</a>.Για έμπειρους προγραμματιστές, μάθετε πως θα <a href="%(addons_wiki)s">γίνετε συντάκτης του AMO</a>.
+Τα προϊόντα του έργου Mozilla έχουν  ένα πολύ ισχυρό σύστημα πρόσθετων επεκτάσεων που σας επιτρέπει να  κάνετε μικρές αλλαγές ή τεράστιες προσθήκες. Μάθετε περισσότερα για το πως να <a href="%(addons_url)s"> φτιάξτε ένα πρόσθετο (add-on)</a>. Για έμπειρους προγραμματιστές, μάθετε πως θα <a href="%(addons_wiki)s">γίνετε συντάκτης του AMO</a>.
 
 
 ;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
 Βοηθήστε να χτίσουμε μια γενιά webmakers διδάσκοντας στους άλλους πως λειτουργεί ο ιστός. <a href="%(moz_webmaker)s ">Μάθετε τι είναι το  Mozilla Webmaker project</a> ή ξεκινήστε να διδάσκετε άλλους <a href="%(webmaker)s">οργανώνοντας μια εκδήλωση στην κοινότητα σας σήμερα</a>.
 
 ;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
-<a  href="%(dev_intro_url)s">Οι προγραμματιστές μπορούν να βοηθήσουν</a> τη Mozilla προσθέτοντας νέα χαρακτηριστικά, κάνοντας την τεχνολογία μας απλούστερη και πιο γρήγορη και την ανάπτυξη πιο εύκολη για τους άλλους. Πείτε μας <a  href="%(what_url)s">την αγαπημένη σας γλώσσα προγραμματισμού</a> και θα βρούμε ένα έργο για σας.
+<a  href="%(dev_intro_url)s">Οι προγραμματιστές μπορούν να βοηθήσουν</a> το έργο Mozilla προσθέτοντας νέα χαρακτηριστικά, κάνοντας την τεχνολογία μας απλούστερη και πιο γρήγορη και την ανάπτυξη πιο εύκολη για τους άλλους. Πείτε μας <a  href="%(what_url)s">την αγαπημένη σας γλώσσα προγραμματισμού</a> και θα βρούμε ένα έργο για σας.
 
 ;Localization and Translation
 Τοπικοποίηση και μετάφραση

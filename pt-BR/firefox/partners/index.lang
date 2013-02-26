@@ -110,6 +110,11 @@ Trilhe seu próprio caminho
 Estamos abrindo espaço para que operadoras, fabricantes de celulares e desenvolvedores possam gerenciar e personalizar a forma como se relacionam com seus usuários através dos nossos produtos para dispositivos móveis: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> e <a %(url3)s>Firefox para Android</a>.
 
 
+# This is exactly the same string as above but the verb 'own' was changed to 'improve'
+;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
+Estamos abrindo espaço para que operadoras, fabricantes de celulares e desenvolvedores possam gerenciar e personalizar a forma como se relacionam com seus usuários através dos nossos produtos para dispositivos móveis: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> e <a %(url3)s>Firefox para Android</a>.
+
+
 ;See more partners
 Conheça mais parceiros
 
@@ -370,9 +375,9 @@ Agregue valor para você e para seus usuários
 Aproveite os serviços que oferecemos, como Firefox Marketplace e WebRTC para criar novas maneiras de faturamento para seus clientes, totalmente personalizadas e independentes de plataformas.
 
 
-# Title
-;Stand out from the crowd
-Destaque-se da multidão
+# Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
+;Stand out <br>from the crowd
+Destaque-se <br>da multidão
 
 
 ;Take advantage of our strong brand and service offerings to differentiate your product and drive sales.

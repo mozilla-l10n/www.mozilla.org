@@ -110,6 +110,11 @@ Firefox Android 版
 通过我们的产品：<a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox 市场</a> 以及 <a %(url3)s>Firefox Android 版</a>，让运营商、手机制造商和开发者可以直接管理、定制和掌握与客户之间的关系。
 
 
+# This is exactly the same string as above but the verb 'own' was changed to 'improve'
+;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
+通过我们的产品：<a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox 市场</a> 以及 <a %(url3)s>Firefox Android 版</a>，让运营商、手机制造商和开发者可以直接管理、定制和掌握与客户之间的关系。
+
+
 ;See more partners
 看看更多的合作伙伴
 
@@ -370,8 +375,8 @@ MWC 展示
 利用诸如 Firefox 市场和 WebRTC 这样的服务机会，创建新的，与平台无关的产品并建立直接的客户支付渠道。
 
 
-# Title
-;Stand out from the crowd
+# Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
+;Stand out <br>from the crowd
 突出重围
 
 

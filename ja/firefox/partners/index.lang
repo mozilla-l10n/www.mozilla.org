@@ -110,6 +110,11 @@ Mozilla のパートナーとなることについて関心をお寄せいただ
 Mozilla は、通信事業者、電話機メーカー、開発者が、それぞれのカスタマーとの関係を直接管理し、カスタマイズし、コントロールできるようにするためのモバイル製品として、<a %(url1)s>Firefox OS</a>、<a %(url2)s>Firefox Marketplace</a>、<a %(url3)s>Android 版 Firefox</a> を提供しています。
 
 
+# This is exactly the same string as above but the verb 'own' was changed to 'improve'
+;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
+Mozilla は、通信事業者、電話機メーカー、開発者が、それぞれのカスタマーとの関係を直接管理し、カスタマイズし、コントロールできるようにするためのモバイル製品として、<a %(url1)s>Firefox OS</a>、<a %(url2)s>Firefox Marketplace</a>、<a %(url3)s>Android 版 Firefox</a> を提供しています。
+
+
 ;See more partners
 ほかのパートナーを見る
 
@@ -370,8 +375,8 @@ Android 版 Firefox と Firefox Marketplace にパートナー独自のブラン
 Firefox Marketplace や WebRTC などによるサービス提供の機会を活用して、プラットフォームに依存しない新しいサービスを開発し、カスタマーに直接請求する仕組みを確立できます。
 
 
-# Title
-;Stand out from the crowd
+# Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
+;Stand out <br>from the crowd
 誰よりも注目される存在に
 
 

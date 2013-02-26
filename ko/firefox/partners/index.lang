@@ -110,6 +110,11 @@ Explore the site {ok}
 Mozilla는 통신 사업자, 단말기 제조업체, 개발자가 고객과 관계를 직접 관리하고, 맞춤 기능을 제공 할 수 있는 모바일 제품으로 <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a>, <a %(url3)s>Firefox 안드로이드</a> 버전을 만들고 있습니다.
 
 
+# This is exactly the same string as above but the verb 'own' was changed to 'improve'
+;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
+Mozilla는 통신 사업자, 단말기 제조업체, 개발자가 고객과 관계를 직접 관리하고, 맞춤 기능을 제공 할 수 있는 모바일 제품으로 <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a>, <a %(url3)s>Firefox 안드로이드</a> 버전을 만들고 있습니다.
+
+
 ;See more partners
 제휴사 보기
 
@@ -370,8 +375,8 @@ Firefox 안드로이드와 Firefox Marketplace에 파트너 자체 브랜드 섹
 Firefox Marketplace나 WebRTC와 같은 서비스 제공 기회를 활용하여 특정 플랫폼에 의존하지 않는 서비스를 개발하여 일반 사용자에게 직접 과금할 수 있는 체계를 구축할 수 있습니다.
 
 
-# Title
-;Stand out from the crowd
+# Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
+;Stand out <br>from the crowd
 누구보다 주목 받을 기회
 
 

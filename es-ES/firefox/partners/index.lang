@@ -110,6 +110,11 @@ Marca tu propio camino
 Estamos haciendo posible que tanto operadores, fabricantes de telefonía como desarrolladores gestionen, personalicen y sean dueños de sus relaciones con los clientes directamente gracias a nuestros productos para dispositivos móviles: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> y <a %(url3)s>Firefox para Android</a>.
 
 
+# This is exactly the same string as above but the verb 'own' was changed to 'improve'
+;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
+Estamos haciendo posible que tanto operadores, fabricantes de telefonía como desarrolladores gestionen, personalicen y sean dueños de sus relaciones con los clientes directamente gracias a nuestros productos para dispositivos móviles: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> y <a %(url3)s>Firefox para Android</a>.
+
+
 ;See more partners
 Ver más socios
 
@@ -370,8 +375,8 @@ Crea un valor innovador para ti y tus usuarios
 Benefíciate de las oportunidades de servicios como Firefox Marketplace y WebRTC para crear ofertas innovadoras e independientes de plataformas y establecer un sistema de facturación directa a tus clientes.
 
 
-# Title
-;Stand out from the crowd
+# Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
+;Stand out <br>from the crowd
 Sé diferente al resto
 
 

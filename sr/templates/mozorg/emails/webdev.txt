@@ -1,21 +1,14 @@
-{# Version: 20120731 #}
+Хвала на понуђеној помоћи за израду Мозила веб страница.
 
-{% extends "mozorg/emails/webdev.txt" %}
+Започети можете придруживањем на #webdev каналу на ИРЦ-у. На http://mzl.la/irc_getting_started можете пронаћи упутства како се спојити, а на http://mzl.la/webdev_irc можете пронаћи неке од WebDev канала..
 
-{% l10n emails_webdev %}
-Thanks for offering to help us build Mozilla's websites.
+Затим се региструјте на Багзилу. Знамо да Багзила може да изгледа збуњујуће на први поглед, зато Вам препоручујемо да погледате: http://mzl.la/bugzilla_for_humans (15-минутни видео).
 
-Start by joining us in #webdev on IRC. http://mzl.la/irc_getting_started will help you get connected, and http://mzl.la/webdev_irc lists some WebDev channels.
+Након тога, потражите WebDev mentored bug на https://wiki.mozilla.org/Webdev/GetInvolved и контактирајте ментора - путем ИРЦ-а, е-поште или коментарисања на багу.
 
-Next register an account on Bugzilla. Bugzilla can be daunting, so check out http://mzl.la/bugzilla_for_humans (15m video HIGHLY recommended).
+Коначно, са својим ментором, форкујте репозитор за веб страницу са Гитхаба и спремните сте да започнете кодирање!
 
-Now look for a WebDev mentored bug in https://wiki.mozilla.org/Webdev/GetInvolved and contact the mentor - over IRC, email, or comment on the bug.
+Знам да је ово пуно информација, стога ми се свакако јавите ако имате питања.
 
-Finally, with your mentor, fork the github repository for the bug's website and you're ready to start coding.
-
-This is a lot of information, so let me know if you have any questions as you get started.
-
-Regards,
-Luke
-{% endl10n %}
-
+Поздрав,
+Лук (Luke)

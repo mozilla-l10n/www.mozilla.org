@@ -1,19 +1,12 @@
-{# Version: 20120731 #}
+Жао ми је чути што сте наишли на проблем са Фајерфоксом.
 
-{% extends "mozorg/emails/issue.txt" %}
-
-{% l10n emails_issue %}
-I'm sorry to hear you're running into an issue with Firefox.
-
-I would encourage you to ask about this on our Firefox Support site at
+Препоручујем да се распитате о проблему на страници наше Фајерфокс подршке на
 
 http://support.mozilla.org
 
-There are experts there who can help you sort things out.
+Тамо ћете пронаћи стручњаке који ће Вам помоћи у решавању проблема.
 
-If you've tried that and haven't found a solution, you can write me back and I'll try to help.
+Ако сте то већ покушали, али нисте пронашли решење, можете ми се јавити и покушаћу да Вам помогнем.
 
-Thanks,
-David
-{% endl10n %}
-
+Хвала,
+Дејвид

@@ -1,0 +1,300 @@
+;Plugin Check
+Plugin Check
+
+
+;Plugin Check
+Plugin Check
+
+
+;Plugin details
+플러그인 상세정보
+
+
+;State
+상태
+
+
+;Action
+관리
+
+
+;Checking with Mozilla on the status of your plugins
+Mozilla 플러그인 상태 확인 중
+
+
+;Loading Data
+데이터 가져 오는 중
+
+
+;View All Your Plugins
+플러그인 모두 보기
+
+
+;Disable Now
+사용 중지
+
+
+;Vulnerable No Fix
+취약성 수정 중
+
+
+;Update Now
+업데이트하기
+
+
+;Vulnerable
+취약성 있음
+
+
+;Update
+업데이트
+
+
+;Outdated Version
+오래된 버전
+
+
+;Up to Date
+최신 버전
+
+
+;Research
+조사 중
+
+
+;Unknown plugin
+알수 없음
+
+
+;Out of date plugins:
+오래된 플러그인:
+
+
+;Vulnerable plugins:
+취약한 프러그인:
+
+
+;Potentially vulnerable plugins:
+취약 가능성 있는 플러그:
+
+
+;The plugins listed below are up to date
+아래 목록 내 플러그인은 최신 버전임
+
+
+;No plugins were detected
+찾은 플러그인이 없음
+
+
+;current version plugin
+현재 플러그인 버전
+
+
+;Update Now
+업데이트하기
+
+
+;Potentially Vulnerable
+취약점 가능성
+
+
+;Update
+업데이트
+
+
+;Potentially Outdated Version
+오래된 버전 가능성
+
+
+;<p>This plugin version has a security vulnerability that websites can exploit and potentially harm your computer. It is recommended that you update this plugin or if an update is not available, <a href='#howto-disable'>disable it</a>.</p><p>For more information, read the <a href='#' class='vulner-url'>plugin vendor's vulnerability information</a>.</p><p><a class='qtip-closer'>Close</a></p>
+<p>현재 플러그인 버전은 웹 사이트로 부터 여러분의 컴퓨터에 위해를 가할 수 있는 보안 취약점을 가지고 있습니다. 플러그인을 바로 업데이트하시거나, 업데이트가 없는 경우에는 <a href='#howto-disable'>사용 중지</a>를 하시기 바랍니다..</p><p>더 자세한 사항은 <a href='#' class='vulner-url'>플러그인 취약점 정보</a> 페이지를 이용하세요.</p><p><a class='qtip-closer'>닫기</a></p>
+
+
+;(more info)
+(more info)
+
+
+;Check Your <span>Plugins</span>
+<span>플러그인</span> 검사기
+
+
+;Keeping your third-party plugins up to date helps Firefox run safely and smoothly.
+여러분의 웹 브라우저의 보안 및 안정성을 위해 제 3자가 제공하는 플러그인의 최신 버전을 확인하고 업데이트해야 합니다.
+
+
+;Missing <span>FLASH?</span>
+<span>FLASH</span>가 없나요?
+
+
+;For your safety, Firefox has disabled your outdated version of Flash. Please <a href="%(url)s" >upgrade to the latest version.</a>
+여러분의 보안을 위해 Firefox는 오래된 Flash 버전은 자동으로 차단합니다. <a href="%(url)s" >최신 버전으로 업그레이드</a>하시기 바랍니다.
+
+
+;<strong>Warning, a newer version of your browser is available.</strong> Please upgrade your browser.
+<strong>새 버전이 나왔습니다. </strong> 여러분의 웹 브라우저를 지금 업그레이드 하십시오.
+
+
+;This page works best with the latest browsers: Firefox 3.6+, Opera 10.5+, Safari 4+, Chrome 4+, or IE 8+
+이 페이지는 아래 웹 브라우저에서 보실 수 있습니다: Firefox 3.6+, Opera 10.5, Safari 4, Chrome 4, 또는 IE 8
+
+
+;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
+플러그인 검사기는 <strong>IE에서 제한적으로</strong> 사용 가능합니다. 도구 &gt; 부가 기능 관리를 참고하세요
+
+
+;<strong><em>Step 1:</em></strong> Click <strong>Update</strong> to update a plugin.
+<strong><em>1단계: </em></strong> 플러그인을 업데이하려면 <strong>업데이트</strong>를 선택하세요.
+
+
+;<strong><em>Step 2:</em></strong> <strong>Complete all recommended updates</strong> <em>before</em> restarting your browser.
+<strong><em>2단계:</em></strong> 웹 브라우저를 재시작하기 전에 <strong>모든 업데이트를 완료</strong>하시기 바랍니다.
+
+
+;Note
+주의
+
+
+;<strong>You have JavaScript disabled</strong> or are using a browser without JavaScript. This Plugin Check page does not work without the awesome power of <strong>JavaScript</strong>. Please enable this Content Preference and reload the page.
+<strong>자바스크립트를 사용할 수 없습니다.</strong> 플러그인 검사 기능을 사용하시려면 자바 스크립트를 사용 가능 상태로 바꾸어 주셔야 합니다.
+
+
+;Or disable all your plugins and keep JavaScript disabled... you'd be in good company, that's how <a  >RMS rolls</a>.
+만약 플러그인이나 자바스크립트를 끄도록 하는 회사라면 매우 안전한 규칙을 만든 회사입니다.  >RMS rolls</a>로 체험해 보세요..
+
+
+;Plugin Finding Service Error
+플러그인 검사 오류
+
+
+;We've encountered an error. Please try your request again later.
+플러그인을 검사하는데 오류가 생겼습니다. 다시 한번 더 시도해 주시기 바랍니다.
+
+
+;Retry
+다시 시도
+
+
+;What is a plugin?
+플러그인이란 무엇입니까?
+
+
+;Why should I update my plugins?
+왜 플러그인을 업데이트 해야 합니까?
+
+
+;How can Firefox help me?
+Firefox를 어떻게 도울 수 있나요?
+
+
+;Which plugins do I have?
+플러그인은 어디에 있나요?
+
+
+;How do I disable a plugin?
+플러그인을 사용 중지하려면?
+
+
+;Need Help?
+도움말
+
+
+;Visit support.mozilla.org
+support.mozilla.org  방문
+
+
+;Read support articles about plugins
+플러그인 관련 문서 보기
+
+
+;Frequently asked <span>Questions</span>
+자주 묻는 <span>질문</span>
+
+
+;What is a plugin?
+플러그인이란 무엇입니까?
+
+
+;Plugins power <strong>videos, animation and games</strong>.
+플러그인은 <strong>동영상, 애니메이션, 게임</strong> 등을 가능하게 합니다.
+
+
+;They're built <strong>outside of Firefox by companies</strong> like <a href="%(adobe)s">Adobe Systems</a> and <a href="%(apple)s" >Apple</a>.
+<strong>Firefox가 아닌 외부 회사</strong>가 만듭니다. 예를 들어, <a href="%(adobe)s">Adobe Systems</a>나 <a href="%(apple)s" >Apple</a>.
+
+
+;Plugins <strong>don't always update</strong> automatically.
+플러그인은 <strong>항상 자동 업데이트 되지 않습니다.</strong>
+
+
+;Why should I update my plugins?
+왜 플러그인을 업데이트 해야 합니까?
+
+
+;Old plugins can interrupt browsing and <strong>waste your time</strong>.
+오래된 플러그인은 작동이 늦어서 여러분의 <strong>시간을 낭비</strong>할 수 있습니다.
+
+
+;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
+오래된 플러그인은 악성 코드, 바이러스 등 보안 취약점 때문에  <strong>위험을 증가</strong> 시킵니다.
+
+
+;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
+<strong>최신 플러그인</strong>은 웹을 <strong>더 좋고 안전한 곳</strong>으로 만듭니다.
+
+
+;How can Firefox help me?
+Firefox를 어떻게 도울 수 있나요?
+
+
+;In the future, Firefox will update plugins for you.  Until then, you should <strong>regularly check this page</strong> and update your plugins to stay safe.
+앞으로 Firefox는 플러그인 업데이트 정보를 제공하고자 합니다. 그 때까지 <strong>주기적으로 본 웹페이지를 방문</strong>하셔서 플러그인을 업데이트 하십시오.
+
+
+;Which plugins do I have?
+플러그인은 어디에 있나요?
+
+
+;We automatically detected your plugins above, to <strong>view your installed plugins in Firefox</strong> follow these steps:
+본 웹 페이지는 자동으로 <strong>Firefox에 설치된 플러그인 목록</strong>을 아래와 같은 방법으로 찾습니다.:
+
+
+;Open the <kbd>Tools</kbd> menu.
+<kbd>도구</kbd> 메뉴 열기.
+
+
+;Choose <kbd>Add-ons</kbd>.
+<kbd>부가 기능</kbd> 선택하기.
+
+
+;Click the <kbd>plugins</kbd> tab.
+<kbd>플러그인</kbd> 탭 선택하기
+
+
+;How do I disable a plugin?
+How do I disable a plugin?
+
+
+;In Firefox:
+In Firefox:
+
+
+;Click on a plugin in the list.
+현재 페이지에서 플러그인 클릭
+
+
+;Click the <kbd>Disable</kbd> button.
+<kbd>차단</kbd> 부튼 누르기.
+
+
+;<strong>Caution:</strong> disabling a plugin means that you will <strong>no longer be able to do</strong> certain things. For example, if you disable Flash, you will not be able to watch videos on popular video streaming sites.
+<strong>주의: </strong> 플러그인을 사용 중지 하면 <strong>더 이상 사용할 수 없습니다.</strong> 예를 들어 플래시를 차단하면, 다른 동영상 사이트에서 플래시 동영상은 볼 수 없습니다.
+
+
+;Have more <span>questions?</span>
+<span>질문</span>이 있으신가요?
+
+
+;<a href="%(url2)s">Our support site</a> can help you <a href="%(url1)s">learn about plugins</a> or <a href="%(url3)s">troubleshoot plugin problems</a>.
+<a href="%(url2)s">고객 지원 사이트</a>는<a href="%(url1)s">플러그인 관련 배우기</a> 나 <a href="%(url3)s">플러그인 문제 해결</a> 페이지를 참고하세요.
+
+

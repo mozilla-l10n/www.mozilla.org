@@ -1,9 +1,9 @@
 ;Plugin Check
-Navegador Firefox — Comprobación y actualizaciones de plugins
+Navegador Firefox :: Comprobación y actualizaciones de plugins
 
 
 ;Plugin Check
-Navegador Firefox — Comprobación y actualizaciones de plugins
+Navegador Firefox :: Comprobación y actualizaciones de plugins
 
 
 ;Plugin details
@@ -27,11 +27,11 @@ Cargando información
 
 
 ;View All Your Plugins
-Mira todos tus plugins
+Ver todos tus plugins
 
 
 ;Disable Now
-Deshabilitar ya
+Deshabilitar ahora
 
 
 ;Vulnerable No Fix
@@ -39,11 +39,11 @@ Vulnerable sin arreglo
 
 
 ;Update Now
-Actualizar ya
+Actualizar ahora
 
 
 ;Vulnerable
-Vulnerable
+Vulnerable {ok}
 
 
 ;Update
@@ -55,7 +55,7 @@ Versión obsoleta
 
 
 ;Up to Date
-Actualizada
+Actualizado
 
 
 ;Research
@@ -91,7 +91,7 @@ versión actual del plugin
 
 
 ;Update Now
-Actualizar ya
+Actualizar ahora
 
 
 ;Potentially Vulnerable
@@ -107,7 +107,7 @@ Versión posiblemente obsoleta
 
 
 ;<p>This plugin version has a security vulnerability that websites can exploit and potentially harm your computer. It is recommended that you update this plugin or if an update is not available, <a href='#howto-disable'>disable it</a>.</p><p>For more information, read the <a href='#' class='vulner-url'>plugin vendor's vulnerability information</a>.</p><p><a class='qtip-closer'>Close</a></p>
-<p>La versión de este plugin tiene una vulnerabilidad de seguridad que los sitios web pueden utilizar y posiblemente dañar tu equipo. Es recomendable que actualices este plugin o, si no hay una actualización disponible, <a href='#howto-disable'>lo deshabilites</a>.</p><p>Para más información, puedes leer la <a href='#' class='vulner-url'>información de vulnerabilidad del creador</a>.</p><p><a class='qtip-closer'>Cerrar</a></p>
+<p>La versión de este plugin tiene una vulnerabilidad de seguridad que los sitios web pueden utilizar y posiblemente dañar tu equipo. Es recomendable que actualices este plugin o, si no hay una actualización disponible, <a href='#howto-disable'>lo deshabilites</a>.</p><p>Para más información, puedes leer la <a href='#' class='vulner-url'>información de vulnerabilidad del creador del plugin</a>.</p><p><a class='qtip-closer'>Cerrar</a></p>
 
 
 ;(more info)
@@ -143,11 +143,11 @@ La compatibilidad de <strong>Internet Explorer</strong> con la comprobación de 
 
 
 ;<strong><em>Step 1:</em></strong> Click <strong>Update</strong> to update a plugin.
-<strong><em>Primero:</em></strong> haz clic en <strong>Actualizar</strong> para actualizar el plugin.
+<strong><em>Paso 1:</em></strong> Haz clic en <strong>Actualizar</strong> para actualizar el plugin.
 
 
 ;<strong><em>Step 2:</em></strong> <strong>Complete all recommended updates</strong> <em>before</em> restarting your browser.
-<strong><em>Segundo:</em></strong> <strong>completa todas las actualizaciones recomendadas</strong> <em>antes</em> de reiniciar tu navegador.
+<strong><em>Paso 2:</em></strong> <strong>Completa todas las actualizaciones recomendadas</strong> <em>antes</em> de reiniciar tu navegador.
 
 
 ;Note
@@ -159,7 +159,7 @@ Nota
 
 
 ;Or disable all your plugins and keep JavaScript disabled... you'd be in good company, that's how <a  >RMS rolls</a>.
-O deshabilita todos tus plugins y mantén deshabilitado JavaScrit&hellip; tendrás buena compañía, así es como <a  >enseña RMS</a>.
+Otra alterantiva es deshabilitar todos tus plugins y mantener JavaScript desactivado.
 
 
 ;Plugin Finding Service Error
@@ -167,7 +167,7 @@ Error en el servicio de búsqueda de plugins
 
 
 ;We've encountered an error. Please try your request again later.
-Hubo un error. Inténtalo nuevamente más tarde.
+Hubo un error. Inténtalo de nuevo dentro de usnos minut.
 
 
 ;Retry
@@ -247,7 +247,7 @@ Los plugins antiguos <strong>aumentan el riesgo</strong> de recibir ataques de v
 
 
 ;In the future, Firefox will update plugins for you.  Until then, you should <strong>regularly check this page</strong> and update your plugins to stay safe.
-En el futuro, Firefox actualizará los plugins por ti. Mientras tanto, deberás <strong>visitar regularmente esta página</strong> y actualizar tus plugins para mantenerte seguro.
+En el futuro, Firefox actualizará los plugins por ti. Mientras tanto, deberás <strong>visitar regularmente esta página</strong> y actualizar tus plugins para mantener tu seguridad.
 
 
 ;Which plugins do I have?

@@ -2,19 +2,19 @@
 # test server: https://www-demo1.allizom.org/b/foundation/annualreport/2011/
 # tracking bug for L10N https://bugzilla.mozilla.org/show_bug.cgi?id=788871
 ;Firefox for Android
-एंड्रायड के लिए फ़ायरफ़ॉक्स पाएँ
+एंड्रायड के लिए फ़ायरफ़ॉक्स
 
 
 ;Welcome
-स्वागतम
+स्वागतम्
 
 
 ;Mobilized
-Mobilized
+संघटित किया 
 
 
 ;Action
-कार्य
+क्रिया
 
 
 ;Community
@@ -26,7 +26,7 @@ Mobilized
 
 
 ;Click to play this video
-इस वीडियो चलाने के लिए क्लिक करें
+यह वीडियो चलाने के लिए क्लिक करें
 
 
 ;Mozilla‘s vision of the Internet is a place where anyone can access information, a place where everyone can hack and tinker; one that has openness, freedom and transparency; where users have control over their personal data and where all minds have the freedom to create and to consume without walls or tight restrictions.
@@ -46,7 +46,7 @@ Please explore this site to learn more about Mozilla, our priorities and focus a
 
 
 ;Mozilla Mobilized
-Mozilla Mobilized
+संघटित मोज़िला 
 
 
 ;Mozilla is mobilizing millions of people to build the world they want. Mobilizing to set the mobile Web free from proprietary platforms and gatekeepers. Mobilizing to empower the world's next two billion Web users. And mobilizing to build a new generation of digital innovators, creators and webmakers.
@@ -58,15 +58,15 @@ Moving forward we will continue to focus on building products, technology soluti
 
 
 ;Just like we did on the desktop, Mozilla is setting out to ensure that the mobile Web is full of freedom, choice & opportunity.
-Just like we did on the desktop, Mozilla is setting out to ensure that the mobile Web is full of freedom, choice & opportunity.
+जैसे हमनें डेस्कटॉप पे किया, मोज़िला यह सुनिश्चित कर रहा है की मोबाइल वेब भी स्वतंत्रता, विकल्पों तथा अवसरों से भरपूर है|
 
 
 ;Just like we did on the desktop, Mozilla is setting out to ensure that the mobile Web is full of freedom, choice and opportunity and that it has the ability for users to create anything they want. With <a href="%(fxos_url)s" rel="external">Firefox OS</a>, we can break open the world of native operating systems and closed platforms once again.
-Just like we did on the desktop, Mozilla is setting out to ensure that the mobile Web is full of freedom, choice and opportunity and that it has the ability for users to create anything they want. With <a href="%(fxos_url)s" rel="external">Firefox OS</a>, we can break open the world of native operating systems and closed platforms once again.
+जैसे हमनें डेस्कटॉप पे किया, मोज़िला यह सुनिश्चित कर रहा है की मोबाइल वेब भी स्वतंत्रता, विकल्पों तथा अवसरों से भरपूर हो और वह उपयोक्ताओं के लिए जो वे चाहे करने की क्षमता रखता हो | <a href="%(fxos_url)s" rel="external"> फ़ायरफ़ॉक्स ओएस </a> के साथ हम फिर एक बार नेटिव ऑपरेटिंग सिस्टम और क्लोज्ड प्लेटफार्म का विश्व खुला कर सकते है |
 
 
 ;Firefox OS is the first truly open mobile platform. Developers are already embracing HTML5, but so far HTML5 applications on mobile have been held back because they can’t access the device’s underlying capabilities the way that native apps can. Firefox OS overcomes these limitations and provides the necessary <abbr title="Application Program Interfaces">APIs</abbr> to show how it is possible to run an entire device using open standards.
-Firefox OS is the first truly open mobile platform. Developers are already embracing HTML5, but so far HTML5 applications on mobile have been held back because they can’t access the device’s underlying capabilities the way that native apps can. Firefox OS overcomes these limitations and provides the necessary <abbr title="Application Program Interfaces">APIs</abbr> to show how it is possible to run an entire device using open standards.
+फ़ायरफ़ॉक्स ओएस एक प्रथम सच्चा खुला मोबाइल प्लेटफार्म है| डेवेलपर्स पहले से ही HTML5 को अंगीकृत कर रहे है, मगर अभी तक मोबाइल पर HTML5 अनुप्रयोग रोक रखे है क्यों की वे उपकरण की अंतर्निहित क्षमता का उपयोग नेटिव अनुप्रयोगों की तरह नहीं कर पातें | फ़ायरफ़ॉक्स ओएस इन मर्यादाओं को पार करता है और खुले मानकों का उपयोग करके पूरा उपकरण चलाना कैसे मुमकिन है ये दिखाने के लिए  जरुरी <abbr title="Application Program Interfaces">एपीआई </abbr> प्रदान करता है |
 
 
 ;Firefox OS devices will launch in early 2013 through <a href="%(telefonica_url)s" rel="external">Telefónica</a>, establishing HTML5 as a viable platform for the mobile industry. The Web as the platform will free developers to create groundbreaking new apps that work seamlessly across all devices, spurring a new era of innovation and creativity for the ubiquitous Web.
@@ -75,11 +75,11 @@ Firefox OS devices will launch in early 2013 through <a href="%(telefonica_url)s
 
 # Fast. Smart. Safe." is a slogan for Firefox for Android. It appears here as three separate strings for styling and layout purposes.
 ;Fast.
-तेज
+तेज.
 
 
 ;Smart.
-चतुर
+चतुर.
 
 
 ;Safe.
@@ -95,7 +95,7 @@ In June 2012 we released an update to <a href="%(mobile_url)s" rel="external">Fi
 
 
 ;Firefox will always be the part of the Mozilla mission that people can see, feel and touch.
-Firefox will always be the part of the Mozilla mission that people can see, feel and touch.
+मोज़िला मिशन का फ़ायरफ़ॉक्स हमेशाही हिस्सा रहेगा जिसे लोग देख, मेहसूस और स्पर्श कर सकेंगे |
 
 
 ;Firefox will always be the part of the Mozilla mission that people can see, feel and touch. We are excited by the progress and innovation we have seen with the desktop version of Firefox over the past year. Several performance and security improvements, memory enhancements make this the best Firefox yet. We're proud of the work that we're doing to make developing on Firefox easier by adding exciting tools for developers, like <a href="%(cmdline_url)s" rel="external">Developer Command Line</a>, <a href="%(console_url)s" rel="external">Web Console</a> and <a href="%(tilt_url)s" rel="external">“Tilt” the 3D Page Inspector</a>.
@@ -107,11 +107,11 @@ Recently, we have been experimenting with ways to integrate social functionality
 
 
 ;Webmaker: Teaching the world the Web
-Webmaker: Teaching the world the Web
+वेबमेकर: विश्व को वेब सिका रहा है 
 
 
 ;The unique power of the Web is that anyone can make and build with it.
-The unique power of the Web is that anyone can make and build with it.
+वेब की अद्वितीय शक्ति यह है की उसके साथ कोई भी तयार तथा निर्माण कर सकता है |
 
 
 ;The unique power of the Web means that anyone can make and build with it. Our new educational offering, <a href="%(webmaker_url)s" rel="external">Mozilla Webmaker</a>, will place that power in the hands of millions of new creators everywhere.
@@ -123,19 +123,19 @@ Webmaker tools, projects and events help educators, youth, media-makers and ever
 
 
 ;Webmaker: Video
-Webmaker: Video
+वेबमेकर: विडियो 
 
 
 ;Click to view this video
-Click to view this video
+इस वीडियो चलाने के लिए क्लिक करें
 
 
 ;Advocating for Web standards
-Advocating for Web standards
+वेब मानकों का पक्षसमर्थन कर रहा है |
 
 
 ;Mozilla will continue to contribute to Web standards.
-Mozilla will continue to contribute to Web standards.
+मोज़िला वेब मानकों के लिए योगदान देता रहेगा |
 
 
 ;Mozilla has always contributed to Web standards, going back as far as the start of the project, and we will continue to do that moving forward. We <a href="%(cofound_url)s" rel="external">co-founded</a> the <a href="%(whatwg_url)s" rel="external">WHAT-WG</a> to kick off <a href="%(html5_url)s" rel="external">HTML5</a>. We are a leaders in <a href="%(javascript_url)s" rel="external">JavaScript standardization</a>. We have some of the top <a href="%(dbaron_url)s" rel="external">CSS</a> and <a href="%(ocallahan_url)s" rel="external">layout</a> experts in the world.

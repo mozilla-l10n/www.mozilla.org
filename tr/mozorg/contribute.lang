@@ -7,7 +7,7 @@ Bu videoyu izlemek için açık video destekli bir tarayıcıya veya <a href="ht
 
 
 ;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
-    Bize destek olmak için C++ uzmanı olmanıza, hatta ne olduğunu bile bilmenize gerek yok!<br><b>Web'i sevmeniz yeterli.</b>
+Bize destek olmak için C++ uzmanı olmanıza, hatta onun ne demek olduğunu bilmenize bile gerek yok!<br><b>Web'i sevmeniz yeterli.</b>
 
 
 ;Please enter a valid email address.
@@ -99,7 +99,7 @@ Kalite kontrol testleri, Mozilla'ya destek vermenin en kolay yollarından biridi
 
 
 ;Help us <a href="http://quality.mozilla.org/teams/desktop-firefox/">hunt down bugs</a> in Firefox, <a href="http://quality.mozilla.org/teams/web-qa/">test Mozilla web sites</a> or learn more about <a href="http://quality.mozilla.org/">other testing opportunities</a>.
-Firefox'taki <a href="http://quality.mozilla.org/teams/desktop-firefox/">bug'ları</a> yakalamamıza yardım edin, <a href="http://quality.mozilla.org/teams/web-qa/"> Mozilla web sitelerini test edin</a> veya <a href="http://quality.mozilla.org/">diğer testing olanakları</a> hakkında bilgi alın.
+Firefox'taki <a href="http://quality.mozilla.org/teams/desktop-firefox/">bug'ları</a> yakalamamıza yardım edin, <a href="http://quality.mozilla.org/teams/web-qa/"> Mozilla web sitelerini test edin</a> veya <a href="http://quality.mozilla.org/">diğer test olanakları</a> hakkında bilgi alın.
 
 
 ;Coding
@@ -187,35 +187,36 @@ Erişilebilirlik, her şeyin herkese ulaşmasını sağlayabilmektir. <a href="%
 
 
 ;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. You can find many developers on <a href="%(irc_url)s">IRC</a> so stop by and ask questions to learn more. Our web sites are <a href="%(webdev_blog)s">open for web ninjas</a> to hack on too.
-<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. You can find many developers on <a href="%(irc_url)s">IRC</a> so stop by and ask questions to learn more. Our web sites are <a href="%(webdev_blog)s">open for web ninjas</a> to hack on too.
+Geliştiriciler yeni özellikler ekleyerek, teknolojimizi küçültüp hızlandırarak ve geliştirmeyi diğer kullanıcılar için kolaylaştırarak Mozilla'ya <a href="%(dev_intro_url)s">yardımcı olabilirler</a>. 
+<a href="%(irc_url)s">IRC</a>'de çok sayıda geliştirici bulabilir, bilgi almak için IRC'ye uğrayıp sorularınızı sorabilirsiniz. Web sitelerimiz de <a href="%(webdev_blog)s">web ninjalarının geliştirmelerine</a> açıktır.
 
 
 ;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
-Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
+Firefox ve diğer Mozilla projeleriyle daha iyi bir internet inşa ediyoruz. Nasıl yaptığımıza dair öğretimizi yaymaya yardım edin. <a href="%(affiliates_url)s">Firefox Kardeşi</a> olarak Firefox'u dünyayla payşın ve ardından, daha fazla katkı yolları için <a href="%(marketing_url)s">Pazarlama Rehberi</a>'mize göz atın.
 
 
 ;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="http://quality.mozilla.org/">other testing opportunities</a>.
-Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="http://quality.mozilla.org/">other testing opportunities</a>.
+Kalite kontrol testleri, Mozilla'ya destek vermenin en kolay yollarından biridir ve hem kodlarımıza hem de araçlarımıza aşina olmanızı sağlar. Firefox'taki <a href="%(qa_bugs_url)s">bug'ları</a> yakalamamıza yardım edin, <a href="%(qa_web_url)s"> Mozilla web sitelerini test edin</a> veya <a href="http://quality.mozilla.org/">diğer test olanakları</a> hakkında bilgi alın.
 
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!
-Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!
+Araştırma ekibimize katılın: <a href="%(survey_url)s">Yaklaşan bir ankete katılabilir</a>, kendi başınıza <a href="%(test_email)s">kullanılabilirlik testleri uygulayabilir</a> veya <a href="%(test_pilot)s">Test Pilotu verilerini analiz edebilirsiniz.</a>. Araştırmalarımıza katılmanızdan mutluluk duyarız!
 
 
 ;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
-Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
+Firefox, Thunderbird diğer projeleri <a href="%(l10n_url)s">kendi dilinize çevirerek</a> Mozilla'ya destek olun. Ayrıca, web sitelerimizdeki <a href="%(l10n_web_url)s">içeriği çevirerek</a> Mozilla'nın nasıl daha iyi bir internet yarattığını dünyaya anlatmamıza yardım edebilirsiniz.
 
 
 ;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
-The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
+Mozilla Geliştirici Ağı, Mozilla teknolojileri hakkında bir bilgi merkezidir. Yeni içerik yazarak, mevcut içeriği düzelterek veya yeni dillere çevirerek <a href="%(dev_url)s">belgelerimzi geliştirmemize</a> yardımcı olun.
 
 
 ;Help build a generation of webmakers&mdash;moving people from using the web making the web&mdash;by teaching others how to code and how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
-Help build a generation of webmakers&mdash;moving people from using the web making the web&mdash;by teaching others how to code and how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
+Web yapımcıları neslini birlikte inşa edelim. İnsanlara web'in nasıl çalıştığını ve kodlamayı öğreterek, onları web'i kullanan insanlardan web'i yapan insanlara dönüştürün. <a href="%(moz_webmaker)s ">Mozilla Webmaker projesini inceleyin</a> veya <a href="%(webmaker)s">topluluğunuzda bir etkinlik düzenleyerek</a> eğitim vermeye başlayın.
 
 
 ;Firefox and other Mozilla-based applications have a powerful extension system that allow you to make small tweaks or make major additions to your programs. If you’re new to this technology, learn how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
-Firefox and other Mozilla-based applications have a powerful extension system that allow you to make small tweaks or make major additions to your programs. If you’re new to this technology, learn how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
+Firefox ve diğer Mozilla tabanlı uygulamalar, programlarınıza hem ince ayarlar hem de büyük eklemeler yapmaya olanak tanıyan güçlü bir uzantı sistemine sahiptir. Bu teknolojiyle yeni tanıştıysanız nasıl <a href="%(addons_url)s">eklenti yapabileceğinizi</a> öğrenin. Deneyimli geliştiriciler ise <a href="%(addons_wiki)s">AMO editörü olabilirler</a>.
 
 
 ;Area of interest?
@@ -223,15 +224,15 @@ Firefox and other Mozilla-based applications have a powerful extension system th
 
 
 ;I need help with a Firefox issue
-I need help with a Firefox issue
+Bir Firefox sorunuyla ilgili yardıma ihtiyacım var
 
 
 ;An error occurred in our system. Please try again later.
-An error occurred in our system. Please try again later.
+Sistemimizde bir hata oluştu. Lütfen daha sonra tekrar deneyin.
 
 
 ;I have a suggestion for Firefox
-I have a suggestion for Firefox
+Firefox için bir önerim var
 
 
 ;Facebook
@@ -255,7 +256,7 @@ Mozilla
 
 
 ;Thank you for signing up!
-Thank you for signing up!
+Kaydolduğunuz için teşekkürler!
 
 
 ;Menu
@@ -283,7 +284,7 @@ Twitter
 
 
 ;We are sorry, but there was a problem with our system. Please try again later!
-We are sorry, but there was a problem with our system. Please try again later!
+Üzgünüz, sistemimizde bir sorun oluştu. Lütfen daha sonra tekrar deneyin!
 
 
 ;Other
@@ -299,11 +300,11 @@ Test ve Kalite Kontrolü
 
 
 ;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
-Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
+Web sitelerimiz, web geliştiricilerinin hack'lemesine açıktır. Başlamak için <a href="%(webdev_url)s">bir web site projesi bulun</a>. Web becerilerinizi <a href="%(gaia_url)s">yeni Firefox OS'i inşa etmemize yardımcı olmak için</a> de kullanabilirsiniz.
 
 
 ;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
-Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
+Herkesin Mozilla ürünlerin en iyi şekilde yararlanmasını sağlayan destek sürecimiz, sizin gibi hevesli katılımcılarla hayat buluyor. <a href="%(fx_support_url)s">Firefox</a> ve <a href="%(tb_support_url)s">Thunderbird</a> kullanıcılarına nasıl yardım edebileceğiniz öğrenin.
 
 
 ;Documentation and Writing
@@ -311,19 +312,19 @@ Belgelendirme ve Yazım
 
 
 ;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
-We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
+Sanatçıların Mozilla'dan ilham alan tasarımlarla web'i ve insanları donatmasını mümkün kılmak istiyoruz. Nasıl katılacağınızı öğrenmek için <a href="%(creative_url)s">kreatif takım bloguna</a> göz atın.
 
 
 ;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
-Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
+ Mozilla ürünleri, hem ince ayarlar hem de büyük eklemeler yapmaya olanak tanıyan güçlü bir uzantı sistemine sahiptir. Nasıl <a href="%(addons_url)s">eklenti yapabileceğinizi</a> öğrenin. Deneyimli geliştiriciler ise <a href="%(addons_wiki)s">AMO editörü olabilirler</a>.
 
 
 ;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
-Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
+Web'in nasıl çalıştığını insanlara öğreterecek web yapımcıları neslini birlikte inşa edelim. <a href="%(moz_webmaker)s ">Mozilla Webmaker projesini inceleyin</a> veya <a href="%(webmaker)s">topluluğunuzda bir etkinlik düzenleyerek</a> eğitim vermeye başlayın.
 
 
 ;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
-<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
+Geliştiriciler yeni özellikler ekleyerek, teknolojimizi küçültüp hızlandırarak ve geliştirmeyi başkaları için kolaylaştırarak <a href="%(dev_intro_url)s">Mozilla'ya yardımcı olabilirler</a>. <a href="%(what_url)s">Sevdiğiniz programlama dilini söyleyin</a>, size uygun projeyi bulalım.
 
 
 ;Localization and Translation

@@ -1,0 +1,428 @@
+;Firefox Health Report
+Firefox veselības ziņojums
+
+
+;Raw Data
+Neapstrādāti dati
+
+
+;Get insights and performance information about your version of Firefox.
+Uzzini, kas notiek ar Tavas Firefox versijas iekšienē. Veiktspēja un citi dati.
+
+
+;Learn more...
+Uzzināt vairāk...
+
+
+;Data Sharing
+Datu koplietošana
+
+
+;ON
+Ieslēgta
+
+
+;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Jūs esat izvēlējies nedot datus Mozilla, taču jūs joprojām varat aplūkot sava pārlūka veiktspējas datus.
+
+
+;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Jūsu Veselības ziņojumu dati tiks aizvākti no Mozilla serveriem. Uzziniet vairāk mūsu <a href="%(privacy_url)s">privātuma politikā.</a>
+
+
+;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Jūs esat izvēlējies reizi pa reizei dot savus veiktspējas datus Mozilla. Paldies, ka esat daļa no mūsu misijas un palīdzat veidot labāku Internetu.
+
+
+;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Uzziniet, ko mēs darām ar jūsu datiem, mūsu <a href="%(privacy_url)s">privātuma politikā.</a>
+
+
+;Vital Stats
+Svarīgie dati
+
+
+;version
+versija
+
+
+;time open
+atvēršanas laiks
+
+
+;last crash
+pēdējā avārija
+
+
+;bookmarks
+grāmatzīmes
+
+
+;This Month
+Šomēnes
+
+
+;crashes
+avārijas
+
+
+;Add-ons
+Papildinājumi
+
+
+;View List
+Skatījumu saraksts
+
+
+;enabled
+aktivizēts
+
+
+;disabled
+deaktivizēts
+
+
+;Plugins
+Spraudņi
+
+
+;Tips
+Padomi
+
+
+;Wear and Tear
+Nodilums un nolietojums
+
+
+;It looks like your browser has crashed a number of times recently. To learn more:
+Izskatās, ka jūsu pārlūks pēdējā laikā ir vairākas reizes avarējis. Lai uzzinātu vairāk:
+
+
+;OFF
+Izslēgts
+
+
+;Visit our <a href="%(sumo_url)s">support website</a>
+Apmeklējiet mūsu <a href="%(sumo_url)s">lietotāju atbalsta lapu</a>
+
+
+;View more <a href="%(details_url)s">detailed information</a>
+Aplūkojiet <a href="%(details_url)s">detalizētu informāciju</a>
+
+
+;pages visited
+apmeklētās lapas
+
+
+;Your browser seems to be running slower than usual. To learn more:
+Izskatās, ka jūsu pārlūks darbojas lēnāk, kā parasti. Lai uzzinātu vairāk:
+
+
+;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Jo ilgāk lietojat pārlūku jo vairāk interesantas informācijas par to varēs iegūt. Atnāciet vēlreiz pēc pāris nedēļām, lai iepazītos ar atklātajām tendencēm.
+
+
+;Startup Time by Day
+Palaišanās laiks pa dienām
+
+
+;Graph:
+Grafiks:
+
+
+;Average
+Vidējais
+
+
+;All
+Visi
+
+
+;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Palaišanās laiki ļauj noteikt, cik labo darbojas jūsu Firefox versija. Parasti, ātrāki laiki (mazāki cipari) rāda, ka pārlūks darbojas labāk.
+
+
+;Data Collected
+Savāktie dati
+
+
+;Glossary
+Apraksts
+
+
+;What the Firefox Health Report Measures
+Ko mēra Firefox veselības ziņotājs
+
+
+;The Firefox Health Report (FHR) has 4 categories of metrics:
+Firefox veselības ziņotājam (FHR) ir 4 metriku kategorijas:
+
+
+;Configuration
+Konfigurācija
+
+
+;Device hardware, operating system, Firefox version
+Ierīces aparatūra, operētājsistēma, Firefox versija
+
+
+;Customizations
+Pielāgojumi
+
+
+;Add-ons, count and type
+Papildinājumi, to skaits un tips
+
+
+;Performance
+Veiktspēja
+
+
+;Timing of browser events, rendering, session restores
+Pārlūka notikumu laiki, lapu attēlošana, sesiju atjaunošana
+
+
+;Length of session, how old a profile is, count of crashes, count of pages
+Sesijas garums, profila vecums, avāriju skaits, apmeklēto lapu skaits
+
+
+;Detailed Description
+Detalizēts apraksts
+
+
+;Metric
+Metrika
+
+
+;Description
+Apraksts
+
+
+;Binary interface for XPCOM
+XPCOM binārais interfeiss
+
+
+;Identifier for this build of the application based on the date the build was started
+Šī aplikācijas būvējuma identifikators, kas balstīts uz būvējuma uzsākšanas datumu
+
+
+;Operating System for which this build was configured
+Operētājsistēma, kurai būvējums tika konfigurēts
+
+
+;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Izmantošanā esošās aplikācijas identifikators. Tas tiek ņemts no <var>distribution.id</var> iestatījuma
+
+
+;Version of the distribution, taken from the <var>distribution.version</var> preference
+Aplikācijas versija, kas tiek iegūta no <var>distribution.version</var> iestatījuma
+
+
+;The version number of any Mozilla hotfix applied to the application
+Iespējamo mozilla ātro labojumu versijas numurs, ja tādi ir veikti programmai
+
+
+;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Aplikācijas identifikators, kas nosaka vai šī aplikācija ir Firefox, Thunderbird vai kas cits. Vienāda visām aplikācijas versijām neatkarīgi no <var>appName</var>
+
+
+;The configured name of the application (Firefox/Aurora/Nightly for instance)
+Aplikācijas konfigurētais nosaukums (Piemēram, Firefox, Aurora vai Nightly)
+
+
+;The channel this installation checks for application updates (nightly/aurora/beta/release)
+Aplikācijas atjauninājumu kanāls (nightly/aurora/beta/release)
+
+
+;The name of the company/provider who built this version
+Kompānijas vai piegādātāja nosaukums, kas sagatavoja šo versiju
+
+
+;The current version of the product
+Tekošā produkta versija
+
+
+;Number of processor cores
+Procesora kodolu skaits
+
+
+;Whether the application is currently configured to be the default browser for the operating system
+Vai programma ir noklusētais operētājsistēmas pārlūks
+
+
+;Locale currently being used
+Izmantotā lokalizācija
+
+
+;Amount of RAM in megabytes
+RAM apjoms megabaitos
+
+
+;Currently running Operating System (kernel) name
+Izmantotās operētājsistēmas (kodola) nosaukums
+
+
+;Currently running Operating System (kernel) version
+Izmantotās operētājsistēmas (kodola) versija
+
+
+;The build identifier of the Gecko platform code
+Būvējuma Gecko platformas identifikators
+
+
+;The version of the Gecko platform code
+Gecko platformas versija
+
+
+;Processor architecture
+Procesora arhitektūra
+
+
+;The date this version was first used with this installation profile
+Datums, kad šī versija tika pirmo reizi izmantota ar šo instalācijas profilu
+
+
+;An application version which has been used with this installation profile
+Programmas versija, kas ir izmantota ar šo instalācijas profilu
+
+
+;The number of add-ons of this type that existed in the profile on this date
+Šobrīd profilā uzinstalēto šī tipa papildinājumu skaits
+
+
+;<var>True</var> if the application automatically disabled the add-on
+<var>True</var>, ja programma automātiski deaktivizēja papildinājumu
+
+
+;Whether this add-on was installed by the user or automatically by another application
+Vai šo papildinājumu uzinstalēja lietotājs vai kāda cita programma automātiski
+
+
+;Whether this add-on has native code.
+Vai šajā papildinājuma ir iedzimtais (native) kods.
+
+
+;The identifier of this add-on as defined by the add-on developer
+Papildinājuma izstrādātāja definētais papildinājuma kods
+
+
+;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Pēdējais datums, kad šis papildinājums tika uzinstalēts (iepriekšējie datumi netiek glabāti).
+
+
+;The number of searches performed with this search engine from this part of the UI
+Ar šo meklētāju veikto meklējumu skaits no šīs lietotāja saskarnes vietas
+
+
+;Whether this add-on was installed in the application directory or profile directory
+Vai šis papildinājums tika uzinstalēts programmas vai profila direktorijā
+
+
+;Whether this add-on is an extension or a plug-in
+Vai šis papildinājums ir spraudņa paplašinājums
+
+
+;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Pēdējais datums, kad šis papildinājums tika atjaunināts (iepriekšējie datumi netiek glabāti).
+
+
+;<var>True</var> if the user manually disabled the add-on
+<var>True</var>, ja manuāli deaktivizēts papildinājums
+
+
+;The current version of this add-on
+Tekošā papildinājuma versija
+
+
+;How long in milliseconds it took during startup for the application to render the UI and display the window
+Cik ilgi milisekundēs programma palaižoties zīmēja lietotāja saskarni un programmas logu
+
+
+;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Cik ilgi milisekundēs programma palaižoties lādēja saistītās bibliotēkas un pabeidza savu inicializāciju
+
+;How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Cik ilgi milisekundēs programma palaižoties atjaunoja cilnes no iepriekšējās sesijas
+
+
+;The number of times the application was run and not cleanly shut down.
+Cik reizes programma tika palaista pēc nekorektas aizvēršanas.
+
+
+;The time in seconds that the aborted sessions were not idle
+Laiks sekundēs, cik ilgi atceltās sesijas nebija dīkstāvē
+
+
+;The time in seconds that the aborted sessions were running
+Laiks sekundēs, cik ilgi atceltās sesijas darbojās
+
+
+;The number of days since this application profile directory was created
+Laiks dienās kopš programmas profila direktorijas izveides
+
+
+;The number of times the application was run and cleanly shut down.
+Cik reizes programma tika palaista un korekti aizvērta.
+
+
+;The time in seconds that the completed sessions were not idle
+Laiks sekundēs, cik ilgi pabeigtās sesijas nebija dīkstāvē
+
+
+;The time in seconds that the completed sessions were running
+Laiks sekundēs, cik ilgi pabeigtās sesijas darbojās
+
+
+;Total number of crashes that were recorded but not yet submitted
+Kopējais ierakstīto, bet nenosūtīto avāriju skaits
+
+
+;Total number of crashes that have been submitted
+Kopējais nosūtīto avāriju skaits
+
+
+;Time in seconds the app has not been idle
+Laiks sekundēs, cik ilgi lietotne nav bijusi dīkstāvē
+
+
+;Time in seconds since the app was last started
+Laiks sekundēs kopš lietotnes pēdējās palaišanas
+
+
+;Total number of bookmarks
+Kopējais grāmatzīmju skaits
+
+
+;Total number of pages listed in the history
+Kopējais vēsturē saglabāto lapu skaits
+
+
+;How long in minutes the current session has been running
+Laiks minūtēs, cik ilgi darbojas tekošā sesija
+
+
+;Welcome to your Firefox Health Report
+Laipni lūgti Firefox veselības ziņotājā
+
+
+;Welcome!
+Laipni lūgti!
+
+
+;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox veselības ziņotājs ļauj uzzināt cik labi darbojas jūsu Firefox un kā uzlabot tā darbību.
+
+
+;See My Report
+Aplūkot manu ziņojumu
+
+
+;Time (in seconds)
+Laiks (sekundes)
+
+
+;Show Statistics
+Parādīt statistiku
+
+
+

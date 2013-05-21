@@ -153,7 +153,7 @@
 
 
 ;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="http://quality.mozilla.org/">other testing opportunities</a>.
-Контролът на качеството е една от най-лесните стъпки за навлизане в Mozilla и е добър начин да се запознаете с инструментите и с изходния код. Помогнете ни да <a href="%(qa_bugs_url)s">търсим бъгове</a> във, да <a href="%(qa_web_url)s">тестваме уеб-сайтовете на Mozilla</a> или научете повече за <a href="http://quality.mozilla.org/">още начини за тестване</a>.
+Контролът на качеството е една от най-лесните стъпки за навлизане в Mozilla и е добър начин да се запознаете с инструментите и с изходния код. Помогнете ни да <a href="%(qa_bugs_url)s">търсим бъгове</a>, да <a href="%(qa_web_url)s">тестваме уеб-сайтовете на Mozilla</a> или научете повече за <a href="http://quality.mozilla.org/">още начини за тестване</a>.
 
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!
@@ -161,7 +161,7 @@
 
 
 ;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
-Участвайте в създаването на Firefox, Thunderbird и другитете проекти <a href="%(l10n_url)s">на вашият собствен език.</a>. Също помогнете да кажем на света, как Mozilla прави по-добър уеб, като <a href="%(l10n_web_url)s">преведете съдържание</a> от нашите сайтове.
+Участвайте в локализацията на Firefox, Thunderbird и другите проекти <a href="%(l10n_url)s">на вашият собствен език.</a>. Помогнете и да кажем на света, как Mozilla прави по-добър уеб, като <a href="%(l10n_web_url)s">преведете съдържание</a> от нашите сайтове.
 
 
 ;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
@@ -241,11 +241,11 @@ Twitter {ok}
 
 
 ;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
-Нашите уеб-сайтове за отворени за всички разработчици. <a href="%(webdev_url)s">Намерете уеб-проект</a>с който да стартирате. Вашите уеб умения, могат да бъдат полезни и за <a href="%(gaia_url)s">създаването на Firefox OS</a>.
+Нашите уеб-сайтове за отворени за всички разработчици. <a href="%(webdev_url)s">Намерете уеб-проект</a> с който да стартирате. Вашите уеб умения, могат да бъдат полезни и за <a href="%(gaia_url)s">създаването на Firefox OS</a>.
 
 
 ;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
-Нашият процес по поддръжка, разчита на ентусиазирани хора като теб, които да помагат на другите да използват всички продукти на Mozilla. Научете повече за това <a href="%(fx_support_url)s">как можете да помагате на потребителите на Firefox</a>  <a href="%(tb_support_url)s">на тези на Thunderbird</a>.
+Нашият процес по поддръжка, разчита на ентусиазирани хора като теб, които да помагат на другите да използват всички продукти на Mozilla. Научете повече за това <a href="%(fx_support_url)s">как можете да помагате на потребителите на Firefox</a> и <a href="%(tb_support_url)s">на тези на Thunderbird</a>.
 
 
 ;Documentation and Writing
@@ -257,7 +257,7 @@ Twitter {ok}
 
 
 ;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
-Продуктите на Mozilla имат система за добавки, която позволява да правите малки или големи промени по функционалността. Научете повече как да <a href="%(addons_url)s">създадете добавка</a>. Ако сте разработчин с опит, еижте как да станете <a href="%(addons_wiki)s">редактор на добавки</a>.
+Продуктите на Mozilla имат система за добавки, която позволява да правите малки или големи промени по функционалността. Научете повече как да <a href="%(addons_url)s">създадете добавка</a>. Ако сте разработчик с опит, вижте как да станете <a href="%(addons_wiki)s">редактор на добавки</a>.
 
 
 ;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.

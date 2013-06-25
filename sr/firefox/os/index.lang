@@ -1,6 +1,5 @@
 ## active ##
 # https://www-demo2.allizom.org/en-US/firefox/os/
-# # TOP MENU STRINGS ##
 
 
 ## TOP MENU STRINGS ##
@@ -10,14 +9,21 @@
 
 
 ;The Adaptive Phone
-Прилагодљив телефон 
+Прилагодљив телефон
 
 
 ;The Features
 Могућности, својства, карактеристике  (не знам који тачно да ставим)
 
+
 ;The Mission
 Мисија
+
+
+# share button for social networks
+;Share
+Share
+
 
 # top button
 ;Get a phone
@@ -41,7 +47,7 @@
 
 # Icon bar item
 ;Maps
-Мапе 
+Мапе
 
 
 # Icon bar item
@@ -60,7 +66,8 @@
 
 # Button
 ;Get a Firefox OS smartphone today
-Набавите Фајерфокс ОС паметан телефон данас   (према википедији) 
+Набавите Фајерфокс ОС паметан телефон данас   (према википедији)
+
 
 ;Sign up for our monthly newsletter and get the latest on Firefox OS
 Пријавите се за наш месечни њустелер (нзм како превест) и сазнајте најновије вести везано за Фајерфокс ОС
@@ -72,6 +79,7 @@
 
 ;Firefox OS anticipates your needs, adapts to every situation and instantly delivers the information you want.
 Фајерфокс ОС предвиђа ваше потребе, прилагођава се на сваку ситуацију и тренутно испоручује информације које желите.
+
 
 ;That includes popular, big name apps, but also local content that means the most to you and your life.
 То укључује популарне, познате апликације, као и локални садржај који највише значи вама и вашем животу.
@@ -104,7 +112,7 @@
 
 
 ;Firefox OS is packed with the features that made you want a smartphone in the first place. It fits your life perfectly so you can fit in with the world around you.
-Фајерофкс ОС садржи могућности због којих сте првобитно пожелели да имате паметан телефон. Оно се савршено уклапа у ваш живот тако да се ви можете уклопити у свет око вас. 
+Фајерофкс ОС садржи могућности због којих сте првобитно пожелели да имате паметан телефон. Оно се савршено уклапа у ваш живот тако да се ви можете уклопити у свет око вас.
 
 
 # Title
@@ -138,6 +146,7 @@
 ;Listen to your favorite songs, artists and radio stations, all from one device.
 Слушајте своје омиљене песме, уметнике и радио станице, све са једног уређаја.
 
+
 # Title
 ;Moments in between
 Тренуци између
@@ -154,6 +163,7 @@
 
 ;Stay in touch with family and friends by email and text message.
 Останите у контакту са породицом и пријатељима путем е-маила и текстуалних порука.
+
 
 # Title
 ;Moments of discovery
@@ -177,8 +187,10 @@
 ;From our community to yours
 Из наше заједнице до ваше
 
+
 ;Most smartphones are made by a small number of people, all in one place, probably pretty far from where you live. Firefox OS phones are different. They’re made by a huge global community and are the only smartphones that understand and deliver what you want and need.
 Већина паметних телефона су направљена од стране мало људи, све на једном месту, вероватно прилично далеко од места где ви живите. Фајерфокс ОС телефони су другачији. Они су направљени од стране огромне глобане заједнице и то су једини паметни телефони који разумеју и испоручују оно што желите и што вам је потребно.
+
 
 # Title
 ;The best of the Web
@@ -186,7 +198,8 @@
 
 
 ;Firefox changed browsing forever by putting users first and offering a new level of choice and innovation online. Now we’re doing it all over again with Firefox OS, while bringing the same superior browsing experience to your smartphone. So you can take control of your life online and get the best the Web has to offer no matter where you go.
-Фајерокс је променио прегледавање заувек тако што је кориснике ставио на прво место и нудио је нови ниво избора и иновација на мрежи. Сад ми то радимо изнова са Фајерфокс ОС, док доносимо исто супериозно искуство прегледања на ваш паметан телефон. Тако да ви можете преузети контролу над вашим животом на мрежи и тако што ћете добити најбоље шта вам веб нуди без обзира где да одете. 
+Фајерокс је променио прегледавање заувек тако што је кориснике ставио на прво место и нудио је нови ниво избора и иновација на мрежи. Сад ми то радимо изнова са Фајерфокс ОС, док доносимо исто супериозно искуство прегледања на ваш паметан телефон. Тако да ви можете преузети контролу над вашим животом на мрежи и тако што ћете добити најбоље шта вам веб нуди без обзира где да одете.
+
 
 # Title
 ;For partners &amp; developers:
@@ -212,6 +225,11 @@
 
 ;All your questions will be answered (soon) <a href="%(link)s">Read our extra helpful FAQ (which is coming soon)</a>
 Сва ваша питања ће бити одговорена (ускоро) <a href="%(link)s">Pročitajte naš  FAQ (koji dolazi uskoro)</a>
+
+
+# same string as above, will be used if the FAQ is finished when we launch
+;All your questions will be answered <a href="%(link)s">Read our extra helpful FAQ</a>
+All your questions will be answered <a href="%(link)s">Read our extra helpful FAQ</a>
 
 
 # image alt text
@@ -268,9 +286,11 @@ Fејсбук апликације
 ;Choose one from the list below to get a Firefox OS smartphone in your country.
 Одаберите једног провајдера са листе испод да набавите Фајерфокс ОС паметан телефон у Вашој земљи (држави).
 
+
 # Case 2: There is only one provider in the country
 ;Click on the provider below to get a Firefox OS smartphone in your country.
 Кликните на провајдера испод да набавите Фајерфокс ОС паметан телефон у Вашој земљи (држави).
+
 
 ;Sign up for our monthly newsletter
 Пријавите се на наш месечни newsletter
@@ -278,7 +298,5 @@ Fејсбук апликације
 
 ;Thank you for signing up!
 Хвала Вам што сте се пријавили!
-
-
 
 

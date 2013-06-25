@@ -1,8 +1,8 @@
 # https://www-demo2.allizom.org/en-US/firefox/os/
+# # TOP MENU STRINGS ##
 
 
 ## TOP MENU STRINGS ##
-
 # alt text on Firefox logo
 ;Get Firefox OS
 Obtenir Firefox&nbsp;OS
@@ -50,9 +50,7 @@ Cartes
 Messages {ok}
 
 
-
 ## MAIN TEXT ##
-
 ;Make every moment count
 Chaque instant compte
 
@@ -111,30 +109,6 @@ Tout y est
 ;Firefox OS is packed with the features that made you want a smartphone in the first place. It fits your life perfectly so you can fit in with the world around you.
 Firefox&nbsp;OS vous offre toutes les fonctionnalités qui vous ont donné envie d'avoir un smartphone et s'adapte à votre style de vie, pour que vous puissiez vous adapter au monde qui vous entoure.
 
-# Icon bar item
-;Social
-Social {ok}
-
-
-# Icon bar item
-;Photos
-Photos {ok}
-
-
-# Icon bar item
-;Music
-Musique
-
-
-# Icon bar item
-;Maps
-Cartes
-
-
-# Icon bar item
-;Messages
-Messages {ok}
-
 
 # Title
 ;Made for the moments of your life
@@ -149,6 +123,7 @@ Quand vous êtes entre amis
 ;Import your contacts directly from Facebook and share updates instantly.
 Importez vos contacts directement depuis Facebook et partagez vos mises à jour instantanément.
 
+
 # title
 ;Creative moments
 Quand vous voulez être créatif
@@ -156,6 +131,7 @@ Quand vous voulez être créatif
 
 ;Take photos on the go then make them amazing using built-in style filters.
 Prenez des photos à tout moment et améliorez-les grâce aux filtres intégrés.
+
 
 # Title
 ;Moments that entertain
@@ -219,9 +195,11 @@ Le meilleur du Web
 ;Firefox changed browsing forever by putting users first and offering a new level of choice and innovation online. Now we’re doing it all over again with Firefox OS, while bringing the same superior browsing experience to your smartphone. So you can take control of your life online and get the best the Web has to offer no matter where you go.
 Firefox a révolutionné la navigation en mettant les utilisateurs au premier plan et en leur proposant plus de choix et d'innovations en ligne. C'est aussi ce que nous avons fait avec Firefox&nbsp;OS&nbsp;, en vous offrant la même expérience de navigation avancée sur votre smartphone. Vous prenez le contrôle de votre vie en ligne et bénéficiez du meilleur du Web, où que vous soyez.
 
+
 # Title
 ;For partners &amp; developers:
 Pour les partenaires et les développeurs&nbsp;:
+
 
 ;Learn about partnership opportunities <a href="%(link)s">Visit the Firefox OS partner site</a>
 Découvrez nos opportunités de partenariat <a href="%(link)s">Visitez le site des partenaires de Firefox&nbsp;OS</a>
@@ -240,11 +218,8 @@ Pour les utilisateurs&nbsp;:
 Si vous avez besoin d'un coup de pouce <a href="%(link)s">Adressez-vous à l'Assistance de Mozilla</a>
 
 
-
 ;All your questions will be answered (soon) <a href="%(link)s">Read our extra helpful FAQ (which is coming soon)</a>
 Nous répondrons (bientôt) à toutes vos questions <a href="%(link)s">Lisez notre FAQ très complète (bientôt disponible)</a>
-
-
 
 
 # image alt text
@@ -292,15 +267,17 @@ Application musique
 Application radio
 
 
-
-;Choose one from the list below to get a Firefox OS smartphone in your country.
-Sélectionnez l'un des choix dans la liste ci-dessous pour obtenir un smartphone sous Firefox&nbsp;OS dans votre pays.
-
-
+## FORM ##
 ;We work with a number of providers to offer Firefox OS on a variety of devices.
 Nous travaillons avec de nombreux fournisseurs pour que Firefox&nbsp;OS soit disponible sur une grande variété d'appareils.
 
 
+# Case 1: There are several phone providers
+;Choose one from the list below to get a Firefox OS smartphone in your country.
+Sélectionnez l'un des choix dans la liste ci-dessous pour obtenir un smartphone sous Firefox&nbsp;OS dans votre pays.
+
+
+# Case 2: There is only one provider in the country
 ;Click on the provider below to get a Firefox OS smartphone in your country.
 Cliquez sur le fournisseur ci-dessous pour obtenir un smartphone sous Firefox&nbsp;OS dans votre pays.
 
@@ -312,8 +289,4 @@ Inscrivez-vous à notre lettre mensuelle
 ;Thank you for signing up!
 Merci de vous être inscrit&nbsp;!
 
-
-
-;Maps app search
-Recherche de l'application cartes
 

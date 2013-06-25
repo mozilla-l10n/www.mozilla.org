@@ -222,6 +222,11 @@ In case you need a little help <a href="%(link)s">Get it from your friends at Mo
 All your questions will be answered (soon) <a href="%(link)s">Read our extra helpful FAQ (which is coming soon)</a>
 
 
+# same string as above, will be used if the FAQ is finished when we launch
+;All your questions will be answered <a href="%(link)s">Read our extra helpful FAQ</a>
+All your questions will be answered <a href="%(link)s">Read our extra helpful FAQ</a>
+
+
 # image alt text
 ;Email app
 Email app

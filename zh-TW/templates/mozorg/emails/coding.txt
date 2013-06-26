@@ -1,16 +1,47 @@
 我是 MozTW 的 Thomasy，感謝你對 Mozilla 軟體開發感興趣
 
-首先，Firefox 的基礎架構是 C/C++ / JS / XUL，只要了解 JS 或 CSS 就能幫 Firefox 除錯，在 Mozilla 寫軟體有蠻多面向可以選擇，例如你可以學習 Firefox 或 Thunderbird 的程式設計，主要以 C 或 C++ 為主。其實 Firefox Coding 並不難，對於剛起步的應該可以先從跑流程開始。兩個較大的挑戰是 build Firefox 與 hg version control system。
+
+== Firefox 除錯 ==
+
+首先，Firefox 的基礎架構是 C/C++ / JS / XUL，只要了解 JS 或 CSS 就能幫 Firefox 除錯，在  Mozilla 寫軟體有蠻多面向可以選擇，例如你可以學習 Firefox 或 Thunderbird 的程式設計，主要以 C 或 C++ 為主。其實 Firefox Coding 並不難，對於剛起步的應該可以先從跑流程開始。兩個較大的挑戰是 build Firefox 與 hg version control system。
 
 您可以先參考以下介紹，了解基本概念：
-Mozilla Links 正體中文版: 摩茲動手做（一）如何幫 Firefox 抓蟲 
-http://mozlinks-zh.blogspot.com/2012/02/firefox_25.html
+Mozilla Links 正體中文版: 摩茲動手做（一）如何幫 Firefox 抓蟲 http://mozlinks-zh.blogspot.com/2012/02/firefox_25.html
 
-我們社群目前主打 Good First Bug 專案，一步步協助大家嘗試解決 Firefox 的第一個 bug，這是最近我們整理出來的新手 bug 列表： https://etherpad.mozilla.org/moztw-nctu-service-2013 你可以選擇有興趣的 Bug 挑戰。
+我們社群目前主打 Good First Bug 專案，一步步協助大家嘗試解決 Firefox 的第一個 bug，這是最近我們整理出來的新手 bug 列表：https://etherpad.mozilla.org/moztw-nctu-service-2013 你可以選擇有興趣的 Bug 挑戰。
 
-你還可以上Bug Ahoy，查詢你的專長方面有哪些新手 Bug 可以解：http://www.joshmatthews.net/bugsahoy/ 先看看你對什麼比較有興趣，我們可以告訴你更深入的資訊
+你還可以上 Bugs Ahoy，查詢你的專長方面有哪些新手 Bug 可以解：http://www.joshmatthews.net/bugsahoy/ 先看看你對什麼比較有興趣，我們可以告訴你更深入的資訊
+
+
+==Firefox OS==
+
+如果你對 Firefox OS 開發感興趣，歡迎參考以下文件：
+
+Firefox Marketplace App 開發資訊：https://marketplace.firefox.com/developers/
+Firefox OS UI - GAIA：https://github.com/mozilla-b2g/gaia
+Firefox OS Repo：https://github.com/mozilla-b2g
+
+
+==HTML5 DEMO 開發==
 
 如果您喜歡實驗 HTML5 的最新技術，歡迎挑戰 Mozilla 開發者網路每個月不同主題的 Demo 開發比賽：https://developer.mozilla.org/zh-TW/demos/devderby
 
-此外 MozTW 在 github ( https://github.com/moztw/ ) 有網頁以及其他 HTML5/CSS3 的專案都是可以您可以著手幫忙的部分
+
+==網頁開發==
+
+此外，MozTW 在 github ( https://github.com/moztw/central ) ，還有一些網頁、以及其他 HTML5/CSS3 的專案，是可以您可以著手幫忙的部分。Issue 中有一些網站相關的 Bug、與新功能的點子，等你一起來幫忙改。
+
+
+
+最後，歡迎訂閱 Mozilla 中文開發者郵件群組：https://lists.mozilla.org/listinfo/dev-general-zh
+你可以在此與其他對 Mozilla 開發感興趣的朋友互相交流。關於開發方面的問題也歡迎上 irc.mozilla.org 的 #mozilla-taiwan 頻道發問，這裡有不少 Mozilla 台灣分公司的工程師與社群成員常駐。
+
+也邀請你訂閱我們的電子郵件群組，與社群的成員一起討論、分享您的想法與點子。訂閱之後，您就會開始收到大家互相討論的 email。加入群組之後歡迎發封信跟大家打個招呼喔！
+https://groups.google.com/group/moztw-general 
+
+最後，MozTW 社群目前每週五晚上7:30，在台北有個咖啡小聚，如果您時間上允許，也歡迎來當面跟我們聊聊，地點詳情在此： http://moztw.org/events/moztw-lab/
+
+
+Thomasy
+MozTW, Mozilla 台灣社群
 

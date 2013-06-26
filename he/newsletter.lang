@@ -188,6 +188,7 @@ Firefox נמצא גם באתרי הרשתות החברתיות. התחברו א�
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 מיד תתקבל הודעה מאת mozilla@e.mozilla.org כדי לאשר את הרישום. אם אינך רואה הודעה זו, יש לבדוק את מסנן דואר הזבל שלך.
 
+
 ;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
 כדאי להוסיף את כתובת השליחה שלנו: mozilla@e.mozilla.org לספר הכתובות שלכם כדי לוודא שאנחנו תמיד נצליח להגיע אל תיבת הדואר הנכנס שלכם.
 
@@ -199,9 +200,15 @@ Get Firefox news
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-YOUR EMAIL HERE
+כתובת הדואר האלקטרוני שלך כאן
+
 
 # Button
 ;Sign me up
 רישמו אותי
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+
 

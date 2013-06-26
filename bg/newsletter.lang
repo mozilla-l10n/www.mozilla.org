@@ -1,3 +1,4 @@
+## active ##
 # These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
 
 
@@ -200,9 +201,15 @@ Mozilla Бюлетини
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-ВЪВЕДЕТЕ ВАШИЯТ EMAIL ТУК
+ВЪВЕДЕТЕ EMAIL-А СИ ТУК
 
 
 # Button
 ;Sign me up
 Запишете ме
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+Съгласен/а съм да обработите тази информация, както е описано във вашите<a href="%s">правила за лична информация</a>
+
+

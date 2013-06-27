@@ -1,7 +1,5 @@
 ## active ##
-# url: https://www-dev.allizom.org/firefox/partners/
-
-
+## active ##
 # <title> tag
 ;Firefox at Mobile World Congress 2013
 Mobile World Congress 2013에서 Firefox를 만나보세요
@@ -148,6 +146,11 @@ MWC 바르셀로나 공식 Firefox 트윗
 
 ;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved.</a>
 Firefox OS는 업계 주요 기업이 지원하는 개방형 플랫폼이며 새로운 가치를 만드는 일에 더 많은 파트너가 참여하고 있습니다. <a %(url)s>더 자세한 참여 방법을 살펴보세요.</a>
+
+
+# Rewording of the previous sentence to link to the Firefox OS consumer site
+;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
+Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
 
 
 # Title
@@ -660,5 +663,10 @@ Google Play에서 다운로드
 # Press title in Recent News
 ;Mozilla Announces Global Expansion for Firefox OS
 Mozilla가 Firefox OS를 출시합니다
+
+
+# Press title in Recent News
+;Watch our wrap-up video from Mobile World Congress 2013
+Watch our wrap-up video from Mobile World Congress 2013
 
 

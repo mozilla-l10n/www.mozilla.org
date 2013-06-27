@@ -1,7 +1,5 @@
 ## active ##
-# url: https://www-dev.allizom.org/firefox/partners/
-
-
+## active ##
 # <title> tag
 ;Firefox at Mobile World Congress 2013
 Firefox no Mobile World Congress 2013
@@ -148,6 +146,11 @@ A Web é a plataforma
 
 ;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved.</a>
 Com o apoio de grandes nomes da indústria mundial, o Firefox OS chega como uma plataforma aberta que vai agregar valor aos seus parceiros.<a %(url)s>Saiba como entrar em contato.</a>
+
+
+# Rewording of the previous sentence to link to the Firefox OS consumer site
+;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
+Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
 
 
 # Title
@@ -660,5 +663,10 @@ Instale pelo Google Play
 # Press title in Recent News
 ;Mozilla Announces Global Expansion for Firefox OS
 Mozilla anuncia planos para oferecer o Firefox OS a nível mundial
+
+
+# Press title in Recent News
+;Watch our wrap-up video from Mobile World Congress 2013
+Watch our wrap-up video from Mobile World Congress 2013
 
 

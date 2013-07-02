@@ -55,6 +55,11 @@
 Μηνύματα
 
 
+# Icon bar item
+;Marketplace
+Marketplace
+
+
 ## MAIN TEXT ##
 ;Make every <br>moment count
 Κάντε την κάθε στιγμή να μετράει
@@ -223,11 +228,6 @@
 Σε περίπτωση που χρειάζεστε λίγη βοήθεια <a href="%(link)s">Ρωτήστε τους φίλους σας στο Mozilla Support</a>
 
 
-;All your questions will be answered (soon) <a href="%(link)s">Read our extra helpful FAQ (which is coming soon)</a>
-Οι απορίες σας θα καλυφθούν (σύντομα) <a href="%(link)s">Δείτε το ιδιαίτερα βοηθητικό FAQ (έρχεται σύντομα)</a>
-
-
-# same string as above, will be used if the FAQ is finished when we launch
 ;All your questions will be answered <a href="%(link)s">Read our extra helpful FAQ</a>
 Οι απορίες σας ίσως έχουν ήδη καλυφθεί <a href="%(link)s">Δείτε το ιδιαίτερα βοηθητικό FAQ</a>
 
@@ -298,5 +298,10 @@
 
 ;Thank you for signing up!
 Σας ευχαριστούμε για την εγγραφή σας!
+
+
+# Page <title> tag, also used for search engines
+;Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More
+Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More
 
 

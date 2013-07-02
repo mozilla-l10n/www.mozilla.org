@@ -55,6 +55,11 @@ Mapy
 Wiadomości
 
 
+# Icon bar item
+;Marketplace
+Marketplace
+
+
 ## MAIN TEXT ##
 ;Make every <br>moment count
 Niech każda chwila się liczy
@@ -223,11 +228,6 @@ Dla użytkowników:
 Potrzebujesz pomocy? <a href="%(link)s">Zajrzyj na forum Pomocy Mozilli</a>
 
 
-;All your questions will be answered (soon) <a href="%(link)s">Read our extra helpful FAQ (which is coming soon)</a>
-Odpowiemy na wszystkie Twoje pytania (już wkrótce) <a href="%(link)s">Przeczytaj nasze pomocne FAQ (które już wkrótce będzie dostępne)</a>
-
-
-# same string as above, will be used if the FAQ is finished when we launch
 ;All your questions will be answered <a href="%(link)s">Read our extra helpful FAQ</a>
 Odpowiemy na wszystkie Twoje pytania <a href="%(link)s">Przeczytaj nasze pomocne FAQ</a>
 
@@ -298,5 +298,10 @@ Zapisz się na nasz comiesięczny newsletter
 
 ;Thank you for signing up!
 Dziękujemy za zapisanie się!
+
+
+# Page <title> tag, also used for search engines
+;Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More
+Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More
 
 

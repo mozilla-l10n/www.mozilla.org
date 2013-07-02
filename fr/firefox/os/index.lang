@@ -55,6 +55,11 @@ Cartes
 Messages {ok}
 
 
+# Icon bar item
+;Marketplace
+Marketplace
+
+
 ## MAIN TEXT ##
 ;Make every <br>moment count
 Chaque instant compte
@@ -223,11 +228,6 @@ Pour les utilisateurs&nbsp;:
 Si vous avez besoin d'un coup de pouce <a href="%(link)s">Adressez-vous à l'Assistance de Mozilla</a>
 
 
-;All your questions will be answered (soon) <a href="%(link)s">Read our extra helpful FAQ (which is coming soon)</a>
-Nous répondrons (bientôt) à toutes vos questions <a href="%(link)s">Lisez notre FAQ très complète (bientôt disponible)</a>
-
-
-# same string as above, will be used if the FAQ is finished when we launch
 ;All your questions will be answered <a href="%(link)s">Read our extra helpful FAQ</a>
 Nous répondrons à toutes vos questions <a href="%(link)s">Lisez notre FAQ très complète</a>
 
@@ -298,5 +298,10 @@ Inscrivez-vous à notre lettre mensuelle
 
 ;Thank you for signing up!
 Merci de vous être inscrit&nbsp;!
+
+
+# Page <title> tag, also used for search engines
+;Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More
+Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More
 
 

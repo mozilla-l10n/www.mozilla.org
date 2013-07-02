@@ -55,6 +55,11 @@ Térképek
 Üzenetek
 
 
+# Icon bar item
+;Marketplace
+Marketplace
+
+
 ## MAIN TEXT ##
 ;Make every <br>moment count
 Minden pillanat számít
@@ -223,11 +228,6 @@ Felhasználóknak:
 Amennyiben egy kis segítségre van szüksége <a href="%(link)s">Kérjen segítséget barátaitól a Mozilla Support oldalon</a>
 
 
-;All your questions will be answered (soon) <a href="%(link)s">Read our extra helpful FAQ (which is coming soon)</a>
-Minden kérdésére válaszolni fogunk <a href="%(link)s">Olvassa el a rendkívül hasznos GYIK-ot (hamarosan)</a>
-
-
-# same string as above, will be used if the FAQ is finished when we launch
 ;All your questions will be answered <a href="%(link)s">Read our extra helpful FAQ</a>
 Minden kérdésére válaszolni fogunk <a href="%(link)s">Olvassa el a rendkívül hasznos GYIK-ot</a>
 
@@ -298,5 +298,10 @@ Feliratkozás a hírlevélre
 
 ;Thank you for signing up!
 Köszönjük, hogy feliratkozott!
+
+
+# Page <title> tag, also used for search engines
+;Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More
+Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More
 
 

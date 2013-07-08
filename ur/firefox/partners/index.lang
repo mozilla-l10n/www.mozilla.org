@@ -1,5 +1,4 @@
 ## active ##
-# url: https://www-dev.allizom.org/firefox/partners/
 # <title> tag
 ;Firefox at Mobile World Congress 2013
 Mobile World Congress 2013 پر Firefox
@@ -146,6 +145,11 @@ Firefox Barcelona میں MWC سے ٹویٹ کر رہا ہے
 
 ;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved.</a>
 صنعت کے کئی بڑے ناموں کی سرپرستی کت ساتھ، Firefox OS ایک آزاد پلیٹ فورم ہے جو ویلیو چین میں زیادہ شرکت کی حوصلہ افزائی کرتا ہے۔ <a %(url)s>دیکھیں کہ آپ کیسے شریک ہو سکتے ہیں۔</a>
+
+
+# Rewording of the previous sentence to link to the Firefox OS consumer site
+;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
+Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
 
 
 # Title
@@ -526,7 +530,7 @@ MWC 2013 پر Firefox — سکیجول
 
 
 ;Mozilla CEO Gary Kovacs’ keynote speech will discuss the benefits of an Open Web device in markets around the world and how Firefox OS will help operators, phone manufacturers and developers reach the next billion Web users.
-Mozilla CEO Gary Kovacs’ keynote speech will discuss the benefits of an Open Web device in markets around the world and how Firefox OS will help operators, phone manufacturers and developers reach the next billion Web users.
+Mozilla کے CEO گیری کوویکس کی کی نوٹ تقریر دنیا بھر کی مارکیٹوں میں اوپن ویب آلات کے فائدوں اور Firefox OS کیسے آپریٹروں، فون  بنانے والوں اور ڈیولپروں کو اگلے بلیئن ویب صارفیں تک کیسے رسائی دے گا پر بحث کرے گی۔ 
 
 
 ;Hall 4, Conference Village, Auditorium 1
@@ -596,7 +600,7 @@ WIP Jam - Day for Developers {ok}
 
 
 ;The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and Mozilla Developer Evangelist Robert Nyman will host a workshop and Q&A session on “Why Open Web Apps & Firefox OS are good for mobile developers.” Mozilla developer evangelist Chris Heilmann will present an UnPanel on "HTML5 Beyond the Hype" and lead several HTML5 discussion groups. WIP Jam will also see DemoCamps of HTML5 apps created during Mozilla Developer Days. Full schedule available here: %(link)s
-The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and Mozilla Developer Evangelist Robert Nyman will host a workshop and Q&A session on “Why Open Web Apps & Firefox OS are good for mobile developers.” Mozilla developer evangelist Chris Heilmann will present an UnPanel on "HTML5 Beyond the Hype" and lead several HTML5 discussion groups. WIP Jam will also see DemoCamps of HTML5 apps created during Mozilla Developer Days. Full schedule available here: %(link)s
+MWC پر موبائل ڈیولپروں کے لیے کلیدی وقوعہ۔ Mozilla کے CTO برنڈن ائک اور Mozilla ڈیولپر ایوینجلسٹ رابرٹ نائےمین "اوپن ویب ایپ & Firefox OS موبائل ڈیولپروں کے لیے کیوں اچھے ہیں" پر ایک ورک شاپ اور  سوال & جواب سیشن کی میزبانی کریں گے۔ Mozilla ڈیولپر ایوینجلسٹ کرس ہیلمین "HTML5 Beyond the Hype" پر ایک ان پینل پیش کریں گے اور کئی HTML5 ڈسکشن گروپوں کی رہنمائی کریں گے۔ WIP Jam پر Mozilla Developer Days کے دوران بنائی گئی HTML5 ایپس کے DemoCamps بھی دکھائے جائیں گے۔ پورا پروگرام ادھر دستیاب ہے: %(link)s
 
 
 ;Location TBD
@@ -658,3 +662,13 @@ Google Play پر اسے حاصل کریں
 # Press title in Recent News
 ;Mozilla Announces Global Expansion for Firefox OS
 Mozilla نے Firefox OS کے لیے دنیا بھر پھیلاؤ کا اعلان کیا
+
+
+# Press title in Recent News
+;Watch our wrap-up video from Mobile World Congress 2013
+Watch our wrap-up video from Mobile World Congress 2013
+
+
+# Press title in Recent News
+;Mozilla and partners prepare to launch first Firefox OS smartsphones
+Mozilla and partners prepare to launch first Firefox OS smartsphones

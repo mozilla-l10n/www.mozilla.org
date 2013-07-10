@@ -1,6 +1,4 @@
-## Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
-
-
+## Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/ ##
 # Page <title> tag
 ;Plugin Check &amp; Updates
 Plugin Check &amp; Updates
@@ -8,17 +6,17 @@ Plugin Check &amp; Updates
 
 # This is a button telling the user to update their plugin
 ;Update Now
-Update Now
+Oppdater nå
 
 
 # This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
 ;Research
-Research
+Undersøk
 
 
 # This is a button informing the user that their plugin is up to date
 ;Up to Date
-Up to Date
+Oppdatert
 
 
 # L10n: This is alt text used on plugin icon images
@@ -33,12 +31,12 @@ unknown
 
 # This is the string used to indicate that the plugin is vulnerable
 ;vulnerable
-vulnerable
+sårbar
 
 
 # Main title
 ;Check Your Plugins
-Check Your Plugins
+Kontroller programtillegg
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
@@ -50,19 +48,19 @@ Plugin Status
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
-Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
+Programtillegg-kontroll sin <strong>støtte for Internet Explorer er begrenset</strong>. Prøv også Verktøy &gt; Administrer tillegg.
 
 
 ;Step 1: Click Update to update a plugin.
-Step 1: Click Update to update a plugin.
+Steg 1: Trykk på Oppdater for å oppdatere et programtillegg.
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
-Step 2: Complete all recommended updates before restarting your browser.
+Steg 2: Gjennomfør alle anbefalte oppdateringer før du starter nettleseren på nytt.
 
 
 ;Potentially vulnerable plugins
-Potentially vulnerable plugins
+Mulig sårbare utvidelser
 
 
 ;Plugin
@@ -70,11 +68,11 @@ Plugin
 
 
 ;Status
-Status
+Tilstand
 
 
 ;Action
-Action
+Handling
 
 
 ;Outdated Plugins
@@ -94,39 +92,39 @@ Back to Top
 
 
 ;Frequently Asked Questions
-Frequently Asked Questions
+Ofte stilte spørsmål
 
 
 ;What is a plugin?
-What is a plugin?
+Hva er et programtillegg?
 
 
 ;Plugins power videos, animation and games
-Plugins power videos, animation and games
+Programtillegg brukes for å vise videoer, animasjoner og spill.
 
 
 ;They're built outside of Firefox by companies like Adobe Systems and Apple
-They're built outside of Firefox by companies like Adobe Systems and Apple
+De er bygd utenfor Firefox av selskaper som Adobe Systems og Apple.
 
 
 ;Plugins don't always update automatically.
-Plugins don't always update automatically.
+Programtilleggene vil ikke alltid oppdatere seg selv automatisk.
 
 
 ;Why should I update my plugins?
-Why should I update my plugins?
+Hvorfor bør jeg oppdatere programtilleggene mine
 
 
 ;Old plugins can interrupt browsing and waste your time.
-Old plugins can interrupt browsing and waste your time.
+Gamle prorgamtillegg kan avbryte nettlesing og kaste bort tiden din.
 
 
 ;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
-Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
+Gamle programtillegg <strong>øker risikoen</strong> for å bli angrepet av skadeprogramvare, virus eller andre sikkerhetstrusler.
 
 
 ;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
-<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
+<strong>Oppdaterte programtillegg har forbedringer</strong> som gjør nettet <strong>bedre og tryggere</strong> for deg.
 
 
 ;Screenshot of Add-Ons window
@@ -134,31 +132,31 @@ Screenshot of Add-Ons window
 
 
 ;How can Firefox help me?
-How can Firefox help me?
+Hvordan kan Firefox hjelpe meg?
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
-In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
+I fremtiden vil Firefox oppdatere programtillegg for deg.  Inntil det skjer, bør du jevnlig sjekke denne siden og oppdatere programtillegg for å være trygg.
 
 
 ;Which Plugins do I have?
-Which Plugins do I have?
+Hvilke programtillegg har jeg?
 
 
 ;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
-We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
+Vi oppdaget automatisk hvilke programtillegg du har ovenfor. For å se hvilke programtillegg som du har installert i Firefox, følg disse stegene:
 
 
 ;Open the Tools menu.
-Open the Tools menu.
+Åpne Verktøy-menyen.
 
 
 ;Choose Add-ons.
-Choose Add-ons.
+Velg Utvidelser.
 
 
 ;Click the plugins tab.
-Click the plugins tab.
+Trykk på Programtillegg-fanen.
 
 
 ;Want to spread the word?
@@ -170,35 +168,23 @@ Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</
 
 
 ;How do I disable a plugin?
-How do I disable a plugin?
+Hvordan slår jeg av et programtillegg?
 
 
 ;In Firefox:
-In Firefox:
-
-
-;Open the Tools menu.
-Open the Tools menu.
-
-
-;Choose Add-ons.
-Choose Add-ons.
-
-
-;Click the plugins tab.
-Click the plugins tab.
+I Firefox:
 
 
 ;Click on a plugin in the list.
-Click on a plugin in the list.
+Trykk på programtillegget i listen.
 
 
 ;Click the Disable button.
-Click the Disable button.
+Trykk på Slå av-knappen.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
-Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
+Advarsel: Ved å slå av en utvidelse vil du ikke lenger være i stand til å gjøre forskjellige ting. For eksempel, hvis du slår av Flash, vil du ikke kunne se videoer på populære video-nettsteder.
 
 
 ;Mozilla Support
@@ -206,7 +192,7 @@ Mozilla Support
 
 
 ;Have more questions?
-Have more questions?
+Har du flere spørsmål?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!

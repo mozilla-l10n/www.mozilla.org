@@ -1,7 +1,7 @@
 ## Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/ ##
 # Page <title> tag
 ;Plugin Check &amp; Updates
-Plugin Check &amp; Updates
+Kontroll &amp; uppdatering av insticksmoduler
 
 
 # This is a button telling the user to update their plugin
@@ -21,12 +21,12 @@ Aktuell
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+Insticksmodulikon
 
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+okänd
 
 
 # This is the string used to indicate that the plugin is vulnerable
@@ -40,35 +40,35 @@ Kontrollera insticksmoduler
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Keeping your plugins up to date helps Firefox run safely and smoothly.
+Håll dina insticksmoduler uppdaterade för att hjälpa Firefox att fungera säkert och bra.
 
 
 ;Plugin Status
-Plugin Status
+Status för insticksmoduler
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
-Stöd för kontroll av insticksmoduler <strong>för Internet                      Explorer är begränsat</strong>. Använd även Verktyg &gt;                      Hantera tillägg
+Stöd för kontroll av insticksmoduler <strong>för Internet Explorer är begränsat</strong>. Använd även Verktyg &gt; Hantera tillägg
 
 
 ;Step 1: Click Update to update a plugin.
-Steg 1: Klicka på                      Uppdatera för att uppdatera en                      insticksmodul.
+Steg 1: Klicka på Uppdatera för att uppdatera en insticksmodul.
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
-Steg 2: Slutför alla                      rekommenderade uppdateringar innan du                      startar om webbläsaren.
+Steg 2: Slutför alla rekommenderade uppdateringar innan du startar om webbläsaren.
 
 
 ;Potentially vulnerable plugins
-Möjligen sårbara insticksmoduler
+Potentiellt sårbara insticksmoduler
 
 
 ;Plugin
-Plugin
+Insticksmodul
 
 
 ;Status
-Status
+Status {ok}
 
 
 ;Action
@@ -76,23 +76,23 @@ Status
 
 
 ;Outdated Plugins
-Outdated Plugins
+Inaktuella insticksmoduler
 
 
 ;Unknown Plugins
-Unknown Plugins
+Okända insticksmoduler
 
 
 ;These plugins are up to date
-These plugins are up to date
+Följande insticksmoduler är aktuella
 
 
 ;Back to Top
-Back to Top
+Tillbaka till början
 
 
 ;Frequently Asked Questions
-Vanliga frågor
+Vanliga frågor och svar
 
 
 ;What is a plugin?
@@ -100,15 +100,15 @@ Vad är en insticksmodul?
 
 
 ;Plugins power videos, animation and games
-Insticksmoduler används bland annat för videor, animationer och                  spel.
+Insticksmoduler används bland annat för videor, animationer och spel.
 
 
 ;They're built outside of Firefox by companies like Adobe Systems and Apple
-Dom görs inte av Firefox utan av företag                  som Adobe Systems och Apple.
+De görs inte av Firefox, utan av företag som Adobe Systems och Apple.
 
 
 ;Plugins don't always update automatically.
-Insticksmoduler uppdateras inte alltid                  automatiskt.
+Insticksmoduler uppdateras inte alltid automatiskt.
 
 
 ;Why should I update my plugins?
@@ -116,19 +116,19 @@ Varför ska jag uppdatera mina insticksmoduler?
 
 
 ;Old plugins can interrupt browsing and waste your time.
-Gamla insticksmoduler kan störa webbsurfningen och                  slösa bort din tid.
+Gamla insticksmoduler kan störa webbsurfningen och slösa bort din tid.
 
 
 ;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
-Gamla insticksmoduler <strong>ökar risken</strong> för                  attacker från skadlig programvara, virus och andra säkerhetshot.
+Gamla insticksmoduler <strong>ökar risken</strong> för attacker från skadlig programvara, virus och andra säkerhetshot.
 
 
 ;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
-<strong>Uppdaterade insticksmoduler har                  förbättringar</strong> som gör webben <strong>bättre och                  säkrare</strong> för dig.
+<strong>Uppdaterade insticksmoduler har förbättringar</strong> som gör webben <strong>bättre och säkrare</strong> för dig.
 
 
 ;Screenshot of Add-Ons window
-Screenshot of Add-Ons window
+Skärmbild av Tilläggsfönstret
 
 
 ;How can Firefox help me?
@@ -136,7 +136,7 @@ Hur kan Firefox hjälpa mig?
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
-I framtiden kommer Firefox att kunna uppdatera insticksmoduler              åt dig. Tills dess bör du regelbundet göra kontrollen på              den här sidan och uppdatera insticksmodulerna för att vara              säker.
+I framtiden kommer Firefox att kunna uppdatera insticksmoduler åt dig. Tills dess bör du regelbundet göra kontrollen på den här sidan och uppdatera insticksmodulerna för att vara säker.
 
 
 ;Which Plugins do I have?
@@ -144,7 +144,7 @@ Vilka insticksmoduler har jag?
 
 
 ;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
-Vi upptäckte automatiskt ovanstående insticksmoduler. För att              se dina installerade insticksmoduler i Firefox,              följ dessa steg:
+Vi identifierade ovanstående insticksmoduler automatiskt. För att se dina installerade insticksmoduler i Firefox, följ dessa steg:
 
 
 ;Open the Tools menu.
@@ -160,11 +160,11 @@ Klicka på fliken Insticksmoduler.
 
 
 ;Want to spread the word?
-Want to spread the word?
+Vill du sprida vårt budskap?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+Hjälp dina vänner att vara säkra på nätet! Gå till <a href="%(url)s">Firefox Affiliates</a> och hämta en insticksmodulskontrollskylt för din webbplats.
 
 
 ;How do I disable a plugin?
@@ -184,11 +184,11 @@ Klicka på knappen Inaktivera.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
-Varning: om du inaktiverar en insticksmodul                  kommer du inte längre kunna göra vissa saker.                  Om du till exempel inaktiverar Flash kan du få problem med att                  titta på videor på populära videosajter.
+Varning: om du inaktiverar en insticksmodul kommer du inte längre kunna göra vissa saker. Om du till exempel inaktiverar Flash kan du få problem med att titta på videor på populära videosajter.
 
 
 ;Mozilla Support
-Mozilla Support
+Mozilla Support {ok}
 
 
 ;Have more questions?
@@ -196,6 +196,6 @@ Har du fler frågor?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
+Gå till <a href="%(sumo_url)s">support.mozilla.org</a> för mer hjälp!
 
 

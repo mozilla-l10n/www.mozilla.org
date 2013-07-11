@@ -1,7 +1,7 @@
 ## Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/ ##
 # Page <title> tag
 ;Plugin Check &amp; Updates
-Plugin Check &amp; Updates
+Vérification et mise à jour des plugins
 
 
 # This is a button telling the user to update their plugin
@@ -21,12 +21,12 @@ Plugin à jour
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+Icône de plugin
 
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+inconnu
 
 
 # This is the string used to indicate that the plugin is vulnerable
@@ -40,15 +40,14 @@ Vérification des plugins
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Keeping your plugins up to date helps Firefox run safely and smoothly.
-
+Conserver vos plugins à jour contribue au bon fonctionnement de Firefox, en toute sécurité.
 
 ;Plugin Status
-Plugin Status
+État des plugins
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
-Le  <strong>support pour Internet Explorer est limité</strong>. Vous pouvez également utiliser le menu Outils &gt; Gérer les extensions.
+La  <strong>prise en charge d'Internet Explorer est limitée</strong>. Vous pouvez également utiliser le menu Outils &gt; Gérer les extensions.
 
 
 ;Step 1: Click Update to update a plugin.
@@ -56,7 +55,7 @@ Le  <strong>support pour Internet Explorer est limité</strong>. Vous pouvez ég
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
-Étape&nbsp;2&nbsp;: Effectuez toutes les mises à jour recommandées  avant de redémarrer votre navigateur.
+Étape&nbsp;2&nbsp;: Effectuez toutes les mises à jour recommandées avant de redémarrer votre navigateur.
 
 
 ;Potentially vulnerable plugins
@@ -64,7 +63,7 @@ Plugins potentiellement vulnérables&nbsp;
 
 
 ;Plugin
-Plugin
+Plugin {ok}
 
 
 ;Status
@@ -76,20 +75,20 @@ Action {ok}
 
 
 ;Outdated Plugins
-Outdated Plugins
+Plugins obsolètes
 
 
 ;Unknown Plugins
-Unknown Plugins
+Plugins inconnus
 
 
 ;These plugins are up to date
-These plugins are up to date
+Ces plugins sont à jour
 
 
 ;Back to Top
-Back to Top
-
+Haut de la page
+Retourner en haut de page
 
 ;Frequently Asked Questions
 Questions courantes
@@ -128,7 +127,7 @@ Les plugins dépassés <strong>augmentent les risques</strong> d'attaque des log
 
 
 ;Screenshot of Add-Ons window
-Screenshot of Add-Ons window
+Capture fenêtre Modules complémentaires
 
 
 ;How can Firefox help me?
@@ -160,11 +159,11 @@ Cliquez sur l'onglet plugins.
 
 
 ;Want to spread the word?
-Want to spread the word?
+Voulez-vous faire passer le message&nbsp;?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+Permettez à vos amis de surfer en toute sécurité&nbsp;! Rendez-vous sur <a href="%(url)s">Firefox Affiliates</a> pour obtenir un badge &laquo;&nbsp;Vérifier les plugins&nbsp;&raquo; à afficher sur votre site.
 
 
 ;How do I disable a plugin?
@@ -188,7 +187,7 @@ Attention&nbsp;: désactiver un plugin signifie que vous ne pourrez plus faire c
 
 
 ;Mozilla Support
-Mozilla Support
+Mozilla Support {ok}
 
 
 ;Have more questions?
@@ -196,6 +195,4 @@ D'autres questions&nbsp;?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-
-
+Visitez <a href="%(sumo_url)s">support.mozilla.org</a> pour davantage d'aide&nbsp;!

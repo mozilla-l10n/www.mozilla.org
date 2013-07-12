@@ -26,12 +26,12 @@
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-неизвестен
+неизвестный
 
 
 # This is the string used to indicate that the plugin is vulnerable
 ;vulnerable
-уязвим
+уязвимый
 
 
 # Main title
@@ -40,7 +40,7 @@
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Поддержание актуальности ваших плагинов помогает обеспечить быструю и безопасную работу Firefox.
+Поддержание ваших плагинов в актуальном состоянии помогает обеспечить быструю и безопасную работу Firefox.
 
 
 ;Plugin Status
@@ -52,11 +52,11 @@
 
 
 ;Step 1: Click Update to update a plugin.
-Шаг 1: Нажмите Обновить, чтобы обновить плагин.
+Шаг 1: Щёлкните по «Обновить сейчас», чтобы обновить плагин.
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
-Шаг 2: Завершите все рекомендуемые обновления до перезапуска браузера.
+Шаг 2: Завершите все рекомендуемые обновления до перезапуска вашего браузера.
 
 
 ;Potentially vulnerable plugins
@@ -88,7 +88,7 @@
 
 
 ;Back to Top
-Вернуться вверх
+Вернуться наверх
 
 
 ;Frequently Asked Questions
@@ -100,11 +100,11 @@
 
 
 ;Plugins power videos, animation and games
-Плагины обеспечивают работу видео, анимации и игр
+Плагины обеспечивают работу видео, анимации и игр.
 
 
 ;They're built outside of Firefox by companies like Adobe Systems and Apple
-Они не входят в состав Firefox, а создаются такими компаниями как Adobe Systems и Apple
+Они не входят в состав Firefox, а создаются такими компаниями как Adobe Systems и Apple.
 
 
 ;Plugins don't always update automatically.
@@ -116,11 +116,11 @@
 
 
 ;Old plugins can interrupt browsing and waste your time.
-Устаревшие плагины могут прервать ваш веб-сёрфинг и попусту потратить ваше время.
+Устаревшие плагины могут помешать вашему пребыванию в Интернете и впустую потратить ваше время.
 
 
 ;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
-Устаревшие плагины <strong>повышают риск</strong> атаки на вас вредоносных программ, вирусов и других угроз безопасности.
+Устаревшие плагины <strong>повышают риск</strong> нападения на вас вредоносных программ, вирусов и других угроз безопасности.
 
 
 ;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
@@ -136,7 +136,7 @@
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
-В будущем Firefox будет обновлять за вас плагины. До тех пор, вы должны регулярно проверять эту страницу и обновлять свои плагины, чтобы быть в безопасности.
+В будущем Firefox будет обновлять за вас плагины. До тех пор, вы должны регулярно заходить на эту страницу и обновлять свои плагины, чтобы оставаться в безопасности.
 
 
 ;Which Plugins do I have?
@@ -164,7 +164,7 @@
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Помогите друзьям обеспечить свою безопасность! Посетите сайт <a href="%(url)s">Firefox Affiliates</a>, чтобы получить баннер проверки плагинов для своего сайта.
+Помогите друзьям обеспечить свою безопасность! Посетите сайт <a href="%(url)s">Помощники Firefox</a>, чтобы получить значок проверки плагинов для своего сайта.
 
 
 ;How do I disable a plugin?

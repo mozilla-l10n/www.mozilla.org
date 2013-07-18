@@ -2,16 +2,8 @@
 Nawigacja
 
 
-;Press area
-Strefa prasowa
-
-
 ;About
 O nas
-
-
-;Store
-Sklep
 
 
 ;Donate
@@ -32,10 +24,6 @@ Dodatki
 
 ;About Us
 O nas
-
-
-;Developers
-Dla programistów
 
 
 ;Labs
@@ -62,10 +50,6 @@ O Mozilli
 Dołącz do nas
 
 
-;Licensing
-Licencjonowanie
-
-
 ;Careers
 Praca
 
@@ -78,20 +62,13 @@ Centrum prasowe
 Kontakt z nami
 
 
-;Site contact
-Kontakt z webmasterem
-
-
 ;Other languages:
 Inne języki:
 
 
+# Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d.%m.%Y
-
-
-;All rights reserved.
-Wszelkie prawa zastrzeżone.
 
 
 ;Legal Notices
@@ -102,40 +79,12 @@ Informacje prawne
 Polityka prywatności
 
 
-;Visit Mozilla.com
-Odwiedź Mozilla.com
-
-
-;Visit Mozilla.com (in English)
-Odwiedź Mozilla.com (po angielsku)
-
-
-;Download Firefox - Free
-Pobierz Firefoksa - za darmo
-
-
 ;Release Notes
 Informacje o wydaniu
 
 
 ;Other Systems and Languages
 Inne systemy i języki
-
-
-;Get Firefox
-Pobierz Firefoksa
-
-
-;Free Download
-Pobierz za darmo
-
-
-;Help us make Firefox even better!
-Pomóż nam ulepszyć Firefoksa!
-
-
-;Take a few moments to take a quick survey and share your thoughts with us.
-Podziel się z nami swoimi opiniami wypełniając krótką ankietę.
 
 
 ;Close
@@ -146,20 +95,8 @@ Zamknij
 (po angielsku)
 
 
-;Download Now - Free
-Pobierz za darmo:
-
-
 ;Return to top
 Powrót na początek
-
-
-;You should <a href="http://get.adobe.com/flashplayer/">update Adobe Flash Player</a> right now.
-<a href="http://get.adobe.com/flashplayer/">Zaktualizuj <br/>Adobe Flash Player.</a>
-
-
-;Firefox is up to date, but your current version of Flash Player can cause security and stability issues.  Please <a href="http://get.adobe.com/flashplayer/">install the free update</a> as soon as possible.
-Firefox został pomyślnie zaktualizowany, ale obecnie zainstalowana na Twoim komputerze wersja odtwarzacza Flash Player może powodować problemy bezpieczeństwa i stabilności. Zalecamy jak najszybsze <a href="http://get.adobe.com/flashplayer/">zainstalowanie darmowego uaktualnienia</a> do odtwarzacza Flash Player.
 
 
 ;Features
@@ -170,30 +107,6 @@ Możliwości
 Dostosuj
 
 
-;Synchronize
-Synchronizuj
-
-
-;Develop for Mobile
-Programuj dla urządzeń mobilnych
-
-
-;Other Supported Platforms
-Inne obsługiwane platformy
-
-
-;Other Platforms &amp; Languages
-Inne platformy i języki
-
-
-;Choose your location
-Wybierz swoje położenie
-
-
-;Download Firefox directly from your phone
-Pobierz Firefoksa bezpośrednio na telefon
-
-
 ;Download
 Pobierz
 
@@ -202,6 +115,7 @@ Pobierz
 Dalej
 
 
+# MegaBytes abbreviation
 ;MB
 MB {ok}
 
@@ -230,16 +144,13 @@ Zgłoś nadużycie znaków towarowych
 Darmowa aktualizacja
 
 
+# social networks such as Facebook and Twitter
 ;Follow us on:
 Śledź nas na:
 
 
 ;Customize with Add-ons
 Spersonalizuj dzięki dodatkom
-
-
-;Sync Your Desktop & Mobile
-Synchronizuj komputer i komórkę
 
 
 ;Learn More
@@ -262,76 +173,12 @@ Format Ogg Theora
 Format MPEG-4
 
 
-;Whoops! Be sure to enter a valid email address.
-Nie zapomnij podać poprawnego adresu e-mail.
-
-
-;Please read the Mozilla Privacy Policy and agree by checking the box.
-Przeczytaj politykę prywatności Mozilli i zaakceptuj ją zaznaczając pole.
-
-
-;Please enter your email address and review the Mozilla Privacy Policy.
-Wprowadź swój adres e-mail i zapoznaj się z polityką prywatności Mozilli.
-
-
 ;Mobile
 Mobile {ok}
 
 
-;Firefox Updated
-Firefox został zaktualizowany
-
-
-;Take a Look at Tomorrow's Web
-Zobacz przyszłość WWW
-
-
-;Journey to the Future with Firefox
-Wyprawa w&nbsp;przyszłość z&nbsp;Firefoksem
-
-
-;Join the Beta Program
-Dołącz do beta-testerów
-
-
-;Experience Firefox
-Wypróbuj Firefoksa
-
-
-;The future of the Web is waiting for you!
-Przyszłość WWW czeka na Ciebie!
-
-
-;The future of the Web starts now.
-Przyszłość WWW zaczyna się teraz.
-
-
-;Try Firefox with a fresh look and feel.
-Sprawdź nowy wygląd Firefoksa.
-
-
-;Experience tomorrow's Web today.
-Doświadcz jutrzejszego Internetu już dziś.
-
-
 ;Check out the new look and feel of Firefox.
 Wypróbuj nowy wygląd Firefoksa.
-
-
-;Browse the future of the Web.
-Przeglądaj przyszłość WWW.
-
-
-;See Firefox with a new look and feel.
-Zobacz nowy wygląd Firefoksa.
-
-
-;Download Beta Now.
-Pobierz wersję beta.
-
-
-;All Systems & Languages
-Wszystkie systemy i&nbsp;języki
 
 
 ;View Full Site
@@ -344,10 +191,6 @@ Pobierz Firefoksa dla systemu Android
 
 ;Download for <span>Android</span>
 Pobierz dla systemu <span>Android</span>
-
-
-;Free from the Android Market
-Za darmo w Android Market
 
 
 ;Desktop
@@ -366,10 +209,6 @@ Mobilny Firefox
 E-mail
 
 
-;Mozilla Firefox. Bringing the modern Web to XP.
-Mozilla Firefox. Nowoczesne WWW także w Windows XP.
-
-
 ;Super speed
 Ogromna szybkość
 
@@ -382,16 +221,8 @@ Niesamowita grafika
 Najnowsze technologie
 
 
-;You're using an old version of Firefox. Get your update to stay safe! <br/> <a href="%s">Download the free upgrade</a> in less than a minute for the latest features, speed and security fixes.
-Korzystasz z nieaktualnej wersji Firefoksa. Zadbaj o swoje bezpieczeństwo i zainstaluj najnowszą wersję! <br/> <a href="%s">Pobierz darmową aktualizację</a> w niecałą minutę, aby móc korzystać z szybszej przeglądarki, najnowszych opcji i poprawek bezpieczeństwa.
-
-
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
 Potrzebujesz aktualizacji! Zwiększ swoje bezpieczeństwo w niecałą minutę. <br/> Zacznij korzystać z nowego Firefoksa, oferującego to, co najlepsze w przeglądaniu Sieci na swój własny sposób. <br/>   To szybkie i nic nie kosztuje!
-
-
-;You're using an older version of Firefox. Get <a href="%s">your update</a> to stay safe! <br/> Experience the latest features, security fixes and the fastest Firefox yet. Download the free upgrade in less than a minute.
-Korzystasz ze starszej wersji Firefoksa. Zadbaj o swoje bezpieczeństwo i <a href="%s">zaktualizuj przeglądarkę</a>! <br/> Korzystaj z najnowszych funkcji, poprawek bezpieczeństwa i najszybszej dotąd wersji Firefoksa. Pobranie najnowszej wersji nic nie kosztuje i zajmie Ci niecałą minutę.
 
 
 ;Upgrade now

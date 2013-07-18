@@ -3,16 +3,8 @@
 ন্যাভিগেশন
 
 
-;Press area
-প্রেস এলাকা
-
-
 ;About
 পরিচিতি
-
-
-;Store
-সংগ্রহশালা
 
 
 ;Donate
@@ -33,10 +25,6 @@
 
 ;About Us
 আমাদের পরিচিতি
-
-
-;Developers
-ডেভেলপারগণ
 
 
 ;Labs
@@ -63,10 +51,6 @@
 সম্পৃক্ত হোন
 
 
-;Licensing
-লাইসেন্স সংক্রান্ত
-
-
 ;Careers
 কর্মসংস্থান
 
@@ -79,20 +63,13 @@
 যোগাযোগ
 
 
-;Site contact
-সাইট সংক্রান্ত যোগাযোগ
-
-
 ;Other languages:
 অন্যান্য ভাষা:
 
 
+# Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %Y-%m-%d {ok}
-
-
-;All rights reserved.
-সর্বস্বত্ব সংরক্ষিত।
 
 
 ;Legal Notices
@@ -103,40 +80,12 @@
 গোপনীয়তার নীতিমালা
 
 
-;Visit Mozilla.com
-Mozilla.com দেখুন
-
-
-;Visit Mozilla.com (in English)
-Visit Mozilla.com (in English) {ok}
-
-
-;Download Firefox - Free
-বিনামূল্যে ফায়ারফক্স ডাউনলোড করুন
-
-
 ;Release Notes
 রিলিজ নোট
 
 
 ;Other Systems and Languages
 অন্যান্য সিস্টেম ও ভাষা
-
-
-;Get Firefox
-ফায়ারফক্স সংগ্রহ করুন
-
-
-;Free Download
-বিনামূল্যে ডাউনলোড
-
-
-;Help us make Firefox even better!
-ফায়ারফক্সকে আরও সমৃদ্ধ করতে আমাদের সহায়তা করুন!
-
-
-;Take a few moments to take a quick survey and share your thoughts with us.
-কিছুটা সময় ব্যয় করে এই ছোট জরিপে অংশগ্রহন করুন এবং আপনার মূল্যবান মতামত আমাদের জানান।
 
 
 ;Close
@@ -147,20 +96,8 @@ Visit Mozilla.com (in English) {ok}
 (ইংরেজীতে)
 
 
-;Download Now - Free
-বিনামূল্যে এখনই ডাউনলোড করুন
-
-
 ;Return to top
 উপরে ফিরে যান
-
-
-;You should <a href="http://get.adobe.com/flashplayer/">update Adobe Flash Player</a> right now.
-এখনই আপনার <a href="http://get.adobe.com/flashplayer/">এডোব ফ্ল্যাশ প্লেয়ার হালনাগাদ</a> করা উচিত।
-
-
-;Firefox is up to date, but your current version of Flash Player can cause security and stability issues.  Please <a href="http://get.adobe.com/flashplayer/">install the free update</a> as soon as possible.
-ফায়ারফক্স হালনাগাদ আছে, কিন্তু আপনার বর্তমান ফ্ল্যাশ প্লেয়ার সংস্করণটি নিরাপত্তা এবং দৃঢ়তার জন্য হুমকি হতে পারে।  অনুগ্রহ করে যথা শীঘ্র <a href="http://get.adobe.com/flashplayer/">আপডেটটি বিনামূল্যে ইনস্টল করুন</a>।
 
 
 ;Features
@@ -171,30 +108,6 @@ Visit Mozilla.com (in English) {ok}
 বৈশিষ্ট্য স্বনির্ধারণ
 
 
-;Synchronize
-সঙ্গতিপূর্ণকরন
-
-
-;Develop for Mobile
-মোবাইলের জন্য ডেভেলপ করা হবে
-
-
-;Other Supported Platforms
-সমর্থিত অন্যান্য প্ল্যাটফর্ম
-
-
-;Other Platforms &amp; Languages
-অন্যান্য প্ল্যাটফর্ম এবং ভাষা
-
-
-;Choose your location
-আপনার অবস্থান বেছে নিন
-
-
-;Download Firefox directly from your phone
-আপনার ফোন থেকে সরাসরি ফায়ারফক্স ডাউনলোড করুন
-
-
 ;Download
 ডাউনলোড করুন
 
@@ -203,6 +116,7 @@ Visit Mozilla.com (in English) {ok}
 পরবর্তী
 
 
+# MegaBytes abbreviation
 ;MB
 মেগাবাইট
 
@@ -231,16 +145,13 @@ Visit Mozilla.com (in English) {ok}
 বিনামূল্যে আপগ্রেড
 
 
+# social networks such as Facebook and Twitter
 ;Follow us on:
 আমাদেরকে অনুসরণ করুন:
 
 
 ;Customize with Add-ons
 অ্যাড-অনের স্বনির্ধারণ
-
-
-;Sync Your Desktop & Mobile
-ডেস্কটপ এবং মোবাইলের মাঝে সঙ্গতি স্থাপন করুন
 
 
 ;Learn More
@@ -263,76 +174,12 @@ Ogg Theora ফরম্যাট
 MPEG-4 ফরম্যাট
 
 
-;Whoops! Be sure to enter a valid email address.
-ওহো! ইমেইল ঠিকানাটি সঠিক আছে কিনা নিশ্চিত হোন।
-
-
-;Please read the Mozilla Privacy Policy and agree by checking the box.
-অনুগ্রহ করে মোজিলা গোপনীয়তার নীতিমালা পড়ুন এবং বক্সে ক্লিক করে সম্মতি প্রকাশ করুন।
-
-
-;Please enter your email address and review the Mozilla Privacy Policy.
-অনুগ্রহ করে ইমেইল ঠিকানা দিন এবং মোজিলা গোপনীয়তার নীতিমালা পুনরায় পর্যালোচনা করুন।
-
-
 ;Mobile
 মোবাইল
 
 
-;Firefox Updated
-ফায়ারফক্স হালনাগাদ করা হয়েছ
-
-
-;Take a Look at Tomorrow's Web
-আগামীদিনের ওয়েবের এক ঝলক দেখে আসুন
-
-
-;Journey to the Future with Firefox
-ফায়ারফক্স&nbsp;৪ সাথে নিয়ে ভবিষ্যৎ ঘুরে আসুন
-
-
-;Join the Beta Program
-বেটা প্রোগ্রামে যোগদান করুন
-
-
-;Experience Firefox
-ফায়ারফক্স&nbsp;৪ ব্যবহার করুন
-
-
-;The future of the Web is waiting for you!
-ওয়েবের ভবিষ্যৎ আপনার অপেক্ষায়!
-
-
-;The future of the Web starts now.
-ওয়েবের ভবিষ্যৎ এখনই শুরু হচ্ছে।
-
-
-;Try Firefox with a fresh look and feel.
-সতেজ চেতনা এবং অনুভুতি নিয়ে ফায়ারফক্স চালিয়ে দেখুন।
-
-
-;Experience tomorrow's Web today.
-আগামীদিনের ওয়েবের অভিজ্ঞতা আজই গ্রহন করুন।
-
-
 ;Check out the new look and feel of Firefox.
 ফায়ারফক্স&nbsp;৪ এর নতুনত্ব এখনই উপভোগ করুন।
-
-
-;Browse the future of the Web.
-ওয়েবের আগামী ব্রাউজ করুন।
-
-
-;See Firefox with a new look and feel.
-নতুন চেতনা এবং অনুভুতি নিয়ে ফায়ারফক্স&nbsp;৪ চালিয়ে দেখুন।
-
-
-;Download Beta Now.
-এখনই বেটা ডাউনলোড করুন।
-
-
-;All Systems & Languages
-সমস্ত সিস্টেম ও ভাষা
 
 
 ;View Full Site
@@ -345,10 +192,6 @@ MPEG-4 ফরম্যাট
 
 ;Download for <span>Android</span>
 ডাউনলোড করুন<span>অ্যান্ড্রয়েডের</span> জন্য
-
-
-;Free from the Android Market
-অ্যান্ড্রয়েড মার্কেট থেকে মুক্ত
 
 
 ;Desktop
@@ -367,10 +210,6 @@ MPEG-4 ফরম্যাট
 ইমেইল
 
 
-;Mozilla Firefox. Bringing the modern Web to XP.
-মোজিলা ফায়ারফক্স। এক্সপিতে আধুনিক ওয়েব আনয়ন করছে।
-
-
 ;Super speed
 প্রচন্ড গতি
 
@@ -383,16 +222,8 @@ MPEG-4 ফরম্যাট
 সাম্প্রতিক প্রযুক্তি
 
 
-;You're using an old version of Firefox. Get your update to stay safe! <br/> <a href="%s">Download the free upgrade</a> in less than a minute for the latest features, speed and security fixes.
-আপনি ফায়ারফক্সের একটি পুরোনো সংস্করণ ব্যবহার করছেন। নিরাপদে থাকার জন্য আপনার হালনাগাদ পান! <br/> <a href="%s">সর্বশেষ বৈশিষ্ট্য, গতি ও নিরাপত্তা সংশোধনের জন্য বিনামূল্যের হালনাগাদ ডাউনলোড করুন</a> এক মিনিটের কম সময়ের মধ্যে।
-
-
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
 আপনার হালনাগাদ প্রয়োজন! এক মিনিটেরও কম সময়ে নিরাপদ হোন। <br/> ওয়েবে ব্রাউজিং এবং স্বনির্ধারণী এবং সর্বোৎকৃষ্টতার জন্য আপনার নতুন ফায়ারফক্স ব্যবহার করা শুরু করুন। <br/>  এটি দ্রুত এবং ফ্রী!
-
-
-;You're using an older version of Firefox. Get <a href="%s">your update</a> to stay safe! <br/> Experience the latest features, security fixes and the fastest Firefox yet. Download the free upgrade in less than a minute.
-আপনি ফায়ারফক্সের একটি পুরোনো সংস্করণ ব্যবহার করছেন। নিরাপদ <a href="%s"> থাকার জন্য </a> আপনার হালনাগাদ পান! <br/> সর্বশেষ বৈশিষ্ট্য, নিরাপত্তা সংশোধন এবং দ্রুততম ফায়ারফক্স এর অভিজ্ঞতা অর্জন করুন। এক মিনিটেরও কম সময়ের মধ্যে হালনাগাদ বিনামূল্যে ডাউনলোড করুন।
 
 
 ;Upgrade now

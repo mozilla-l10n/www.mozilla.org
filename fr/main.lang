@@ -1,19 +1,10 @@
 ## active ##
-
 ;Navigation
 Navigation {ok}
 
 
-;Press area
-Espace presse
-
-
 ;About
 À propos
-
-
-;Store
-Boutique
 
 
 ;Donate
@@ -34,10 +25,6 @@ Modules
 
 ;About Us
 À propos de nous
-
-
-;Developers
-Développeurs
 
 
 ;Labs
@@ -64,10 +51,6 @@ Retour à la page d'accueil
 Contribuer
 
 
-;Licensing
-Licence
-
-
 ;Careers
 Emplois
 
@@ -80,20 +63,13 @@ Centre de presse
 Contactez-nous
 
 
-;Site contact
-Contactez-nous
-
-
 ;Other languages:
 Autres langues&nbsp;:
 
 
+# Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d-%m-%Y
-
-
-;All rights reserved.
-Tous droits réservés.
 
 
 ;Legal Notices
@@ -104,40 +80,12 @@ Avertissement légal
 Respect de la vie privée
 
 
-;Visit Mozilla.com
-Visitez Mozilla.com
-
-
-;Visit Mozilla.com (in English)
-Visitez Mozilla.com (en anglais)
-
-
-;Download Firefox - Free
-Téléchargez Firefox - gratuit
-
-
 ;Release Notes
 Notes de version
 
 
 ;Other Systems and Languages
 Autres langues et systèmes
-
-
-;Get Firefox
-Obtenez Firefox
-
-
-;Free Download
-Téléchargement gratuit
-
-
-;Help us make Firefox even better!
-Aidez-nous à rendre Firefox encore plus performant&nbsp;!
-
-
-;Take a few moments to take a quick survey and share your thoughts with us.
-Faites-nous part de vos impressions à travers un court et rapide sondage.
 
 
 ;Close
@@ -148,20 +96,8 @@ Fermer
 (en anglais)
 
 
-;Download Now - Free
-Téléchargement gratuit et immédiat
-
-
 ;Return to top
 Haut de la page
-
-
-;You should <a href="http://get.adobe.com/flashplayer/">update Adobe Flash Player</a> right now.
-Vous devriez <a href="http://get.adobe.com/flashplayer/">mettre à jour le lecteur Adobe Flash</a> immédiatement.
-
-
-;Firefox is up to date, but your current version of Flash Player can cause security and stability issues.  Please <a href="http://get.adobe.com/flashplayer/">install the free update</a> as soon as possible.
-Votre Firefox est à jour mais votre version actuelle du lecteur Flash peut provoquer des problèmes de sécurité et de stabilité. Veuillez <a href="http://get.adobe.com/flashplayer/">installer cette mise à jour gratuite</a> dès que possible.
 
 
 ;Features
@@ -172,30 +108,6 @@ Fonctionnalités
 Personnaliser
 
 
-;Synchronize
-Synchroniser
-
-
-;Develop for Mobile
-Développer pour le mobile
-
-
-;Other Supported Platforms
-Autres plateformes supportées
-
-
-;Other Platforms &amp; Languages
-Autres plateformes et langues
-
-
-;Choose your location
-Choisissez votre pays
-
-
-;Download Firefox directly from your phone
-Téléchargez directement Firefox depuis votre téléphone
-
-
 ;Download
 Téléchargement
 
@@ -204,6 +116,7 @@ Téléchargement
 Suivant
 
 
+# MegaBytes abbreviation
 ;MB
 Mo
 
@@ -232,16 +145,13 @@ Signaler un abus de marques déposées
 Mise à niveau gratuite
 
 
+# social networks such as Facebook and Twitter
 ;Follow us on:
 Suivez-nous sur&nbsp;:
 
 
 ;Customize with Add-ons
 Personnaliser avec des modules complémentaires
-
-
-;Sync Your Desktop & Mobile
-Synchroniser votre ordinateur et votre téléphone portable
 
 
 ;Learn More
@@ -264,76 +174,12 @@ Format Ogg Theora
 Format MPEG-4
 
 
-;Whoops! Be sure to enter a valid email address.
-Attention, vous n'avez pas saisi une adresse valide.
-
-
-;Please read the Mozilla Privacy Policy and agree by checking the box.
-Veuillez lire et accepter la politique de respect de la vie privée de Mozilla en cochant la case prévue à cet effet.
-
-
-;Please enter your email address and review the Mozilla Privacy Policy.
-Veuillez saisir votre courriel et consulter la politique de respect de la vie privée de Mozilla.
-
-
 ;Mobile
 Mobile {ok}
 
 
-;Firefox Updated
-Firefox a été mis à jour
-
-
-;Take a Look at Tomorrow's Web
-Jetez un œil au Web de demain
-
-
-;Journey to the Future with Firefox
-Un voyage dans le futur avec Firefox
-
-
-;Join the Beta Program
-Rejoignez le programme Bêta
-
-
-;Experience Firefox
-Essayez Firefox
-
-
-;The future of the Web is waiting for you!
-Le Web du futur vous attend&nbsp;!
-
-
-;The future of the Web starts now.
-The Web du futur commence maintenant.
-
-
-;Try Firefox with a fresh look and feel.
-Essayez Firefox avec un nouvel habillage.
-
-
-;Experience tomorrow's Web today.
-Expérimentez le Web de demain aujourd'hui.
-
-
 ;Check out the new look and feel of Firefox.
 Venez voir la nouvelle interface de Firefox.
-
-
-;Browse the future of the Web.
-Naviguez dans le futur du Web.
-
-
-;See Firefox with a new look and feel.
-Visionnez Firefox avec une nouvelle interface.
-
-
-;Download Beta Now.
-Téléchargez la Bêta maintenant
-
-
-;All Systems & Languages
-Autres systèmes et langues
 
 
 ;View Full Site
@@ -346,10 +192,6 @@ Téléchargez Firefox pour Android
 
 ;Download for <span>Android</span>
 Téléchargement pour <span>Android</span>
-
-
-;Free from the Android Market
-Gratuit sur Android Market
 
 
 ;Desktop
@@ -368,10 +210,6 @@ Firefox pour mobile
 Adresse électronique
 
 
-;Mozilla Firefox. Bringing the modern Web to XP.
-Mozilla Firefox apporte le Web moderne sur XP.
-
-
 ;Super speed
 Une vitesse accrue
 
@@ -384,16 +222,8 @@ Des graphismes impressionnants
 Les toutes dernières technologies
 
 
-;You're using an old version of Firefox. Get your update to stay safe! <br/> <a href="%s">Download the free upgrade</a> in less than a minute for the latest features, speed and security fixes.
-Vous utilisez une ancienne version de Firefox. Installez la mise à jour pour rester en sécurité&nbsp;! <br/> <a href="%s">Téléchargez gratuitement la dernière version</a> en moins d'une minute pour bénéficier des dernières fonctionnalités, d'une rapidité accrue et des correctifs de sécurité.
-
-
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
 Vous avez besoin d'une mise à niveau&nbsp;! Restez en sécurité en moins d'une minute. <br/> Commencez à utiliser votre nouveau Firefox pour le meilleur de la navigation et de la personnalisation sur le Web. <br/> C'est rapide et gratuit&nbsp;!
-
-
-;You're using an older version of Firefox. Get <a href="%s">your update</a> to stay safe! <br/> Experience the latest features, security fixes and the fastest Firefox yet. Download the free upgrade in less than a minute.
-Vous utilisez une ancienne version de Firefox. Installez <a href="%s">la mise à jour</a> pour rester en sécurité&nbsp;! <br/> Profitez des dernières fonctionnalités, des correctifs de sécurité et du plus rapides des Firefox. Téléchargez gratuitement la mise à niveau en moins d'une minute.
 
 
 ;Upgrade now
@@ -438,5 +268,8 @@ Mission {ok}
 Visite guidée
 
 
+# Footer item
 ;Partner with Us
-Partenariats 
+Partenariats
+
+

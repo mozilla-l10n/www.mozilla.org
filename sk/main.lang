@@ -2,16 +2,8 @@
 Navigácia
 
 
-;Press area
-Info pre tlač
-
-
 ;About
 O nás
-
-
-;Store
-Obchod
 
 
 ;Donate
@@ -32,10 +24,6 @@ Doplnky
 
 ;About Us
 O nás
-
-
-;Developers
-Vývojári
 
 
 ;Labs
@@ -62,10 +50,6 @@ Info o Mozille
 Zapojte sa
 
 
-;Licensing
-Licencovanie
-
-
 ;Careers
 Zamestnanie
 
@@ -78,20 +62,13 @@ Tlačové centrum
 Kontaktujte nás
 
 
-;Site contact
-Kontakt na správcu webu
-
-
 ;Other languages:
 Iné jazyky:
 
 
+# Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d.%m.%Y
-
-
-;All rights reserved.
-Všetky práva vyhradené.
 
 
 ;Legal Notices
@@ -102,40 +79,12 @@ Právne informácie
 Zásady ochrany súkromia
 
 
-;Visit Mozilla.com
-Navštívte Mozilla.com
-
-
-;Visit Mozilla.com (in English)
-Navštívte Mozilla.com (v angličtine)
-
-
-;Download Firefox - Free
-Prevziať Firefox - zadarmo
-
-
 ;Release Notes
 Poznámky k vydaniu
 
 
 ;Other Systems and Languages
 Ďalšie systémy a jazyky
-
-
-;Get Firefox
-Získať Firefox
-
-
-;Free Download
-Prevziať zadarmo
-
-
-;Help us make Firefox even better!
-Pomôžte nám vylepšiť Firefox!
-
-
-;Take a few moments to take a quick survey and share your thoughts with us.
-Venujte niekoľko chvíľ krátkemu prieskumu a podeľte sa s nami s vašimi myšlienkami.
 
 
 ;Close
@@ -146,20 +95,8 @@ Zavrieť
 (v angličtine)
 
 
-;Download Now - Free
-Prevziať teraz - zadarmo
-
-
 ;Return to top
 Naspäť hore
-
-
-;You should <a href="http://get.adobe.com/flashplayer/">update Adobe Flash Player</a> right now.
-Teraz by ste mali <a href="http://get.adobe.com/flashplayer/">aktualizovať zásuvný modul Adobe Flash Player</a>.
-
-
-;Firefox is up to date, but your current version of Flash Player can cause security and stability issues.  Please <a href="http://get.adobe.com/flashplayer/">install the free update</a> as soon as possible.
-Firefox je aktualizovaný, ale aktuálne nainštalovaná verzia prehrávača Flash Player môže zapríčiniť bezpečnostné problémy a spôsobovať problémy so stabilitou programu. Prosím, čo najskôr <a href="http://get.adobe.com/flashplayer/">si zadarmo nainštalujte jeho aktuálnu verziu</a>.
 
 
 ;Features
@@ -170,30 +107,6 @@ Funkcie
 Prispôsobenie
 
 
-;Synchronize
-Synchronizácia
-
-
-;Develop for Mobile
-Vývoj pre mobilné zariadenia
-
-
-;Other Supported Platforms
-Ďalšie podporované platformy
-
-
-;Other Platforms &amp; Languages
-Ďalšie platformy a jazyky
-
-
-;Choose your location
-Zvoľte vaše umiestnenie
-
-
-;Download Firefox directly from your phone
-Prevziať Firefox do mobilného telefónu
-
-
 ;Download
 Prevziať
 
@@ -202,6 +115,7 @@ Prevziať
 Ďalší
 
 
+# MegaBytes abbreviation
 ;MB
 MB {ok}
 
@@ -230,16 +144,13 @@ Nahlásiť porušenie ochrannej známky
 Aktualizovať zadarmo
 
 
+# social networks such as Facebook and Twitter
 ;Follow us on:
 Sledujte nás:
 
 
 ;Customize with Add-ons
 Prispôsobenie pomocou doplnkov
-
-
-;Sync Your Desktop & Mobile
-Synchronizujte počítač a mobilné zariadenie
 
 
 ;Learn More
@@ -262,76 +173,12 @@ Formát Ogg Theora
 Formát MPEG-4
 
 
-;Whoops! Be sure to enter a valid email address.
-Ops! Uistite sa, že zadávate platnú e-mailovú adresu.
-
-
-;Please read the Mozilla Privacy Policy and agree by checking the box.
-Prečítate si Zásady ochrany súkromia spoločnosťou Mozilla a vyjadrite súhlas označením políčka.
-
-
-;Please enter your email address and review the Mozilla Privacy Policy.
-Zadajte e-mailovú adresu a prečítajte si Zásady ochrany súkromia spoločnosťou Mozilla.
-
-
 ;Mobile
 Mobilné zariadenia
 
 
-;Firefox Updated
-Firefox bol aktualizovaný
-
-
-;Take a Look at Tomorrow's Web
-Pozrite sa na web zajtrajška
-
-
-;Journey to the Future with Firefox
-Cesta do budúcnosti s Firefoxom
-
-
-;Join the Beta Program
-Pripojte sa k programu Beta
-
-
-;Experience Firefox
-Zažite Firefox
-
-
-;The future of the Web is waiting for you!
-Budúcnosť webu čaká práve na vás!
-
-
-;The future of the Web starts now.
-Budúcnosť webu začína teraz.
-
-
-;Try Firefox with a fresh look and feel.
-Vyskúšajte Firefox s novým vzhľadom.
-
-
-;Experience tomorrow's Web today.
-Zažite web zajtrajška už dnes.
-
-
 ;Check out the new look and feel of Firefox.
 Vyskúšajte nový vzhľad Firefoxu.
-
-
-;Browse the future of the Web.
-Pozrite si budúcnosť webu.
-
-
-;See Firefox with a new look and feel.
-Pozrite si nový vzhľad Firefoxu.
-
-
-;Download Beta Now.
-Prevziať verziu beta
-
-
-;All Systems & Languages
-Všetky systémy a jazyky
 
 
 ;View Full Site
@@ -344,10 +191,6 @@ Získajte Firefox pre Android
 
 ;Download for <span>Android</span>
 Prevziať pre <span>Android</span>
-
-
-;Free from the Android Market
-Zadarmo z Android Marketu
 
 
 ;Desktop
@@ -366,10 +209,6 @@ Mobilný Firefox
 E-mail
 
 
-;Mozilla Firefox. Bringing the modern Web to XP.
-Mozilla Firefox. Prináša moderný web pre XP.
-
-
 ;Super speed
 Super rýchlosť
 
@@ -382,16 +221,8 @@ Super rýchlosť
 Najnovšie technológie
 
 
-;You're using an old version of Firefox. Get your update to stay safe! <br/> <a href="%s">Download the free upgrade</a> in less than a minute for the latest features, speed and security fixes.
-Používate starú verziu prehliadača Firefox. Aby ste ostali v bezpečí, mali by ste aktualizovať. <br/> <a href="%s">Získajte voľne dostupnú aktualizáciu</a> za menej ako minútu a užite si najnovšie funkcie, rýchlosť a vylepšenú bezpečnosť.
-
-
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
 Mali by ste aktualizovať! Ostaňte v bezpečí za menej ako minútu. <br/> Začnite používať nový Firefox a užite si vylepšené prehliadanie a prispôsobenie na webe. <br/> Je rýchly a zadarmo.
-
-
-;You're using an older version of Firefox. Get <a href="%s">your update</a> to stay safe! <br/> Experience the latest features, security fixes and the fastest Firefox yet. Download the free upgrade in less than a minute.
-Používate staršiu verziu prehliadača Firefox. <a href="%s">Získajte aktualizáciu</a> a ostaňte v bezpečí. <br/> Užite si najnovšie funkcie, vylepšenú bezpečnosť a doteraz najrýchlejší Firefox. Prevezmite si voľne dostupnú aktualizáciu za menej ako minútu.
 
 
 ;Upgrade now

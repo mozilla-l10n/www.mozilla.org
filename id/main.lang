@@ -2,16 +2,8 @@
 Navigasi
 
 
-;Press area
-Pers
-
-
 ;About
 Tentang
-
-
-;Store
-Store {ok}
 
 
 ;Donate
@@ -32,10 +24,6 @@ Pengaya
 
 ;About Us
 Tentang Kami
-
-
-;Developers
-Pengembang
 
 
 ;Labs
@@ -62,10 +50,6 @@ Tentang Mozilla
 Mari Berperan
 
 
-;Licensing
-Lisensi
-
-
 ;Careers
 Karir
 
@@ -78,20 +62,13 @@ Pers &amp; Media
 Kontak Kami
 
 
-;Site contact
-Kontak situs
-
-
 ;Other languages:
 Bahasa Lainnya
 
 
+# Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d/%m/%Y
-
-
-;All rights reserved.
-Hak cipta dilindungi undang-undang
 
 
 ;Legal Notices
@@ -102,40 +79,12 @@ Pernyataan Hukum
 Kebijakan Privasi
 
 
-;Visit Mozilla.com
-Kunjungi Mozilla.com
-
-
-;Visit Mozilla.com (in English)
-Visit Mozilla.com (in English)
-
-
-;Download Firefox - Free
-Unduh Firefox - Gratis
-
-
 ;Release Notes
 Catatan Rilis
 
 
 ;Other Systems and Languages
 Bahasa & Sistem Operasi Lainnya
-
-
-;Get Firefox
-Dapatkan Firefox
-
-
-;Free Download
-Unduh Gratis
-
-
-;Help us make Firefox even better!
-Mari bersama-sama membuat Firefox lebih baik!
-
-
-;Take a few moments to take a quick survey and share your thoughts with us.
-Yuk! Ikuti survei sejenak dan mari berbagi pendapat Anda.
 
 
 ;Close
@@ -146,20 +95,8 @@ Tutup
 (dalam bahasa Inggris)
 
 
-;Download Now - Free
-Unduh Sekarang - Gratis
-
-
 ;Return to top
 Kembali ke atas
-
-
-;You should <a href="http://get.adobe.com/flashplayer/">update Adobe Flash Player</a> right now.
-Disarankan untuk <a href="http://get.adobe.com/flashplayer/">memperbarui Adobe Flash Player</a> sekarang juga.
-
-
-;Firefox is up to date, but your current version of Flash Player can cause security and stability issues.  Please <a href="http://get.adobe.com/flashplayer/">install the free update</a> as soon as possible.
-Versi Firefox telah diperbarui, tetapi versi Flash Player pada komputer Anda dapat menyebabkan masalah keamanan dan stabilitas.  Silakan <a href="http://get.adobe.com/flashplayer/">memasang versi terbaru - gratis</a> secepatnya.
 
 
 ;Features
@@ -170,30 +107,6 @@ Fitur
 Ubahsuai
 
 
-;Synchronize
-Sinkronisasi
-
-
-;Develop for Mobile
-Pengembangan untuk Mobile
-
-
-;Other Supported Platforms
-Platform Lainnya yang Didukung
-
-
-;Other Platforms &amp; Languages
-Platform &amp; Bahasa Lainnya
-
-
-;Choose your location
-Pilih lokasi Anda
-
-
-;Download Firefox directly from your phone
-Unduh Firefox langsung ke ponsel Anda
-
-
 ;Download
 Unduh
 
@@ -202,6 +115,7 @@ Unduh
 Lanjut
 
 
+# MegaBytes abbreviation
 ;MB
 MB {ok}
 
@@ -230,16 +144,13 @@ Laporkan Penyalahgunaan Merek Dagang
 Pemutakhiran Gratis
 
 
+# social networks such as Facebook and Twitter
 ;Follow us on:
 Ikuti kami di:
 
 
 ;Customize with Add-ons
 Ubahsuaikan dengan Pengaya
-
-
-;Sync Your Desktop & Mobile
-Sinkronkan Desktop & Mobile
 
 
 ;Learn More
@@ -262,76 +173,12 @@ Format Ogg Theora
 Format MPEG-4
 
 
-;Whoops! Be sure to enter a valid email address.
-Aduh! Pastikan alamat emailnya sudah benar.
-
-
-;Please read the Mozilla Privacy Policy and agree by checking the box.
-Mohon membaca Kebijakan Privasi Mozilla dan menyetujuinya dengan mencentang kotak.
-
-
-;Please enter your email address and review the Mozilla Privacy Policy.
-Masukkan alamat email Anda dan baca Kebijakan Privasi Mozilla
-
-
 ;Mobile
 Mobile {ok}
 
 
-;Firefox Updated
-Versi Firefox telah Diperbarui
-
-
-;Take a Look at Tomorrow's Web
-Intip Masa Depan Dunia Web
-
-
-;Journey to the Future with Firefox
-Perjalanan ke Masa Depan dengan Firefox
-
-
-;Join the Beta Program
-Yuk, gabung ke Program Beta!
-
-
-;Experience Firefox
-Dapatkan pengalaman ber-Firefox
-
-
-;The future of the Web is waiting for you!
-Masa depan Web menunggu Anda!
-
-
-;The future of the Web starts now.
-Masa depan Web dimulai saat ini.
-
-
-;Try Firefox with a fresh look and feel.
-Coba Firefox dengan tampilan baru.
-
-
-;Experience tomorrow's Web today.
-Dapatkan pengalaman Web masa depan, hari ini.
-
-
 ;Check out the new look and feel of Firefox.
 Saksikan tampilan baru Firefox.
-
-
-;Browse the future of the Web.
-Jelajahi masa depan Web.
-
-
-;See Firefox with a new look and feel.
-Lihat Firefox dengan tampilan baru.
-
-
-;Download Beta Now.
-Unduh Beta Sekarang Juga.
-
-
-;All Systems & Languages
-Daftar Sistem dan Bahasa
 
 
 ;View Full Site
@@ -344,10 +191,6 @@ Dapatkan Firefox untuk Android
 
 ;Download for <span>Android</span>
 Unduh untuk <span>Android</span>
-
-
-;Free from the Android Market
-Gratis dari Android Market
 
 
 ;Desktop
@@ -366,10 +209,6 @@ Firefox untuk seluler
 Email {ok}
 
 
-;Mozilla Firefox. Bringing the modern Web to XP.
-Mozilla Firefox. Web nan modern, juga untuk XP.
-
-
 ;Super speed
 Kecepatan tinggi
 
@@ -382,16 +221,8 @@ Grafik nan memesona
 Teknologi terbaru
 
 
-;You're using an old version of Firefox. Get your update to stay safe! <br/> <a href="%s">Download the free upgrade</a> in less than a minute for the latest features, speed and security fixes.
-Anda sedang menggunakan versi lawas Firefox. Dapatkan pembaruannya agar tetap aman! <br/> <a href="%s">Unduh gratis versi terbarunya</a> untuk mendapatkan fitur terbaru, tercepat, serta perbaikan keamanan.
-
-
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
 Anda perlu meningkatkan versi Firefox! Perbarui selalu agar tetap aman. <br/> Setelah itu pakai Firefox baru Anda untuk mendapatkan yang terbaik ketika menjelajah dan menyesuaikan Web seperti yang Anda suka. <br/>   Cepat dan gratis!
-
-
-;You're using an older version of Firefox. Get <a href="%s">your update</a> to stay safe! <br/> Experience the latest features, security fixes and the fastest Firefox yet. Download the free upgrade in less than a minute.
-Anda sedang menggunakan versi Firefox yang usang. Dapatkan <a href="%s">pembaruannya</a> agar tetap aman! <br/> Dapatkan fitur terbaru, perbaikan keamanan, dan Firefox tercepat yang pernah ada. Unduh pembaruannya, gratis.
 
 
 ;Upgrade now

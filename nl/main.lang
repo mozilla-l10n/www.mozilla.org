@@ -2,16 +2,8 @@
 Navigatie
 
 
-;Press area
-Perspagina
-
-
 ;About
 Over
-
-
-;Store
-Winkel
 
 
 ;Donate
@@ -32,10 +24,6 @@ Add-ons {ok}
 
 ;About Us
 Over ons
-
-
-;Developers
-Ontwikkelaars
 
 
 ;Labs
@@ -62,10 +50,6 @@ Over Mozilla
 Meewerken
 
 
-;Licensing
-Licenties
-
-
 ;Careers
 Banen
 
@@ -78,20 +62,13 @@ Perscentrum
 Contact
 
 
-;Site contact
-Websitecontact
-
-
 ;Other languages:
 Andere talen:
 
 
+# Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d-%m-%Y
-
-
-;All rights reserved.
-Alle rechten voorbehouden.
 
 
 ;Legal Notices
@@ -102,40 +79,12 @@ Juridische kennisgevingen
 Privacybeleid
 
 
-;Visit Mozilla.com
-Bezoek Mozilla.com
-
-
-;Visit Mozilla.com (in English)
-Bezoek Mozilla.com (in het Engels)
-
-
-;Download Firefox - Free
-Download Firefox - Gratis
-
-
 ;Release Notes
 Uitgaveopmerkingen
 
 
 ;Other Systems and Languages
 Andere systemen en talen
-
-
-;Get Firefox
-Download Firefox
-
-
-;Free Download
-Gratis download
-
-
-;Help us make Firefox even better!
-Help ons Firefox nog beter te maken!
-
-
-;Take a few moments to take a quick survey and share your thoughts with us.
-Neem even de tijd om een korte vragenlijst in te vullen en uw gedachten met ons te delen.
 
 
 ;Close
@@ -146,20 +95,8 @@ Sluiten
 (in het Engels)
 
 
-;Download Now - Free
-Download nu - Gratis
-
-
 ;Return to top
 Terug naar boven
-
-
-;You should <a href="http://get.adobe.com/flashplayer/">update Adobe Flash Player</a> right now.
-U kunt <a href="http://get.adobe.com/flashplayer/">Adobe Flash Player</a> het beste meteen bijwerken.
-
-
-;Firefox is up to date, but your current version of Flash Player can cause security and stability issues.  Please <a href="http://get.adobe.com/flashplayer/">install the free update</a> as soon as possible.
-Firefox is up-to-date, maar uw huidige versie van Flash Player kan veiligheids- en stabiliteitsproblemen veroorzaken. Installeer zo snel mogelijk <a href="http://get.adobe.com/flashplayer/">de gratis update</a>.
 
 
 ;Features
@@ -170,30 +107,6 @@ Functies
 Aanpassen
 
 
-;Synchronize
-Synchroniseren
-
-
-;Develop for Mobile
-Ontwikkelen voor Mobiel
-
-
-;Other Supported Platforms
-Andere ondersteunde platformen
-
-
-;Other Platforms &amp; Languages
-Andere platformen en talen
-
-
-;Choose your location
-Kies uw locatie
-
-
-;Download Firefox directly from your phone
-Download Firefox direct op uw telefoon
-
-
 ;Download
 Download {ok}
 
@@ -202,6 +115,7 @@ Download {ok}
 Volgende
 
 
+# MegaBytes abbreviation
 ;MB
 MB {ok}
 
@@ -230,16 +144,13 @@ Misbruik van handelsmerk melden
 Gratis upgrade
 
 
+# social networks such as Facebook and Twitter
 ;Follow us on:
 Volg ons op:
 
 
 ;Customize with Add-ons
 Aanpassen met add-ons
-
-
-;Sync Your Desktop & Mobile
-Synchroniseer uw desktop en mobiel
 
 
 ;Learn More
@@ -262,76 +173,12 @@ Ogg Theora-formaat
 MPEG-4-formaat
 
 
-;Whoops! Be sure to enter a valid email address.
-Oeps! Controleer of u een geldig e-mailadres hebt ingevuld.
-
-
-;Please read the Mozilla Privacy Policy and agree by checking the box.
-Lees het privacybeleid van Mozilla en plaats een vinkje als u hiermee instemt.
-
-
-;Please enter your email address and review the Mozilla Privacy Policy.
-Vul uw e-mailadres in en bekijk het privacybeleid van Mozilla.
-
-
 ;Mobile
 Mobiel
 
 
-;Firefox Updated
-Firefox is bijgewerkt
-
-
-;Take a Look at Tomorrow's Web
-Bekijk het web van morgen
-
-
-;Journey to the Future with Firefox
-Reis naar de toekomst met Firefox
-
-
-;Join the Beta Program
-Neem deel aan het bètaprogramma
-
-
-;Experience Firefox
-Ervaar Firefox
-
-
-;The future of the Web is waiting for you!
-De toekomst van het web wacht op u!
-
-
-;The future of the Web starts now.
-De toekomst van het web begint nu.
-
-
-;Try Firefox with a fresh look and feel.
-Probeer Firefox met een nieuwe vormgeving.
-
-
-;Experience tomorrow's Web today.
-Ervaar het web van morgen vandaag.
-
-
 ;Check out the new look and feel of Firefox.
 Probeer de nieuwe vormgeving van Firefox.
-
-
-;Browse the future of the Web.
-Bekijk de toekomst van het web.
-
-
-;See Firefox with a new look and feel.
-Bekijk Firefox met een nieuwe vormgeving.
-
-
-;Download Beta Now.
-Download nu de bèta.
-
-
-;All Systems & Languages
-Alle systemen & talen
 
 
 ;View Full Site
@@ -344,10 +191,6 @@ Download Firefox voor Android
 
 ;Download for <span>Android</span>
 Download voor <span>Android</span>
-
-
-;Free from the Android Market
-Gratis via de Android Market
 
 
 ;Desktop
@@ -366,10 +209,6 @@ Firefox voor mobiel
 E-mail
 
 
-;Mozilla Firefox. Bringing the modern Web to XP.
-Mozilla Firefox brengt het moderne web naar XP.
-
-
 ;Super speed
 Supersnelheid
 
@@ -382,16 +221,8 @@ Spannende graphics
 De nieuwste technologieën
 
 
-;You're using an old version of Firefox. Get your update to stay safe! <br/> <a href="%s">Download the free upgrade</a> in less than a minute for the latest features, speed and security fixes.
-U gebruikt een oude versie van Firefox. Haal uw update op om veilig te blijven! <br/> <a href="%s">Download de gratis upgrade</a> in minder dan een minuut voor de nieuwste functies, snelheid en veiligheidsverbeteringen.
-
-
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
 U hebt een upgrade nodig! Blijf veilig in minder dan een minuut. <br/> Gebruik uw nieuwe Firefox om het beste op het gebied van browsen en aanpassen op het web te krijgen. <br/>   Het is snel en gratis!
-
-
-;You're using an older version of Firefox. Get <a href="%s">your update</a> to stay safe! <br/> Experience the latest features, security fixes and the fastest Firefox yet. Download the free upgrade in less than a minute.
-U gebruikt een oudere versie van Firefox. Haal <a href="%s">uw update</a> op om veilig te blijven! <br/> Beleef de nieuwste functies, veiligheidsverbeteringen en de snelste Firefox ooit. Download de gratis upgrade in minder dan een minuut.
 
 
 ;Upgrade now
@@ -439,3 +270,5 @@ Rondleiding
 # Footer item
 ;Partner with Us
 Partner worden
+
+

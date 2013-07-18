@@ -2,16 +2,8 @@
 Nascleanúint
 
 
-;Press area
-Ionad na Meán Cumarsáide
-
-
 ;About
 Eolas
-
-
-;Store
-Siopa
 
 
 ;Donate
@@ -32,10 +24,6 @@ Breiseáin
 
 ;About Us
 Maidir linn
-
-
-;Developers
-Forbróirí
 
 
 ;Labs
@@ -62,10 +50,6 @@ Maidir le Mozilla
 Rannpháirtíocht
 
 
-;Licensing
-Ceadúnú
-
-
 ;Careers
 Gairmeacha
 
@@ -78,20 +62,13 @@ Ionad na Meán Cumarsáide
 Déan teagmháil linn
 
 
-;Site contact
-Teagmháil linn
-
-
 ;Other languages:
 Teangacha eile:
 
 
+# Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %Y-%m-%d {ok}
-
-
-;All rights reserved.
-Gach ceart ar cosaint.
 
 
 ;Legal Notices
@@ -102,40 +79,12 @@ Fógraí Dlí
 Polasaí Príobháideachta
 
 
-;Visit Mozilla.com
-Féach ar Mozilla.com
-
-
-;Visit Mozilla.com (in English)
-Féach ar Mozilla.com (i mBéarla)
-
-
-;Download Firefox - Free
-Íosluchtaigh Firefox - Saor in aisce
-
-
 ;Release Notes
 Nótaí Eisiúna
 
 
 ;Other Systems and Languages
 Teangacha agus Córais Eile
-
-
-;Get Firefox
-Faigh Firefox
-
-
-;Free Download
-Íosluchtú Saor in Aisce
-
-
-;Help us make Firefox even better!
-Cabhraigh linn Firefox a fheabhsú!
-
-
-;Take a few moments to take a quick survey and share your thoughts with us.
-Glac páirt i bpobalbhreith agus cuir do chuid smaointe in iúl dúinn.
 
 
 ;Close
@@ -146,20 +95,8 @@ Dún
 (i mBéarla)
 
 
-;Download Now - Free
-Íosluchtaigh Anois - Saor in Aisce
-
-
 ;Return to top
 Go dtí an barr
-
-
-;You should <a href="http://get.adobe.com/flashplayer/">update Adobe Flash Player</a> right now.
-Ba chóir duit <a href="http://get.adobe.com/flashplayer/">Adobe Flash Player</a> a nuashonrú láithreach bonn.
-
-
-;Firefox is up to date, but your current version of Flash Player can cause security and stability issues.  Please <a href="http://get.adobe.com/flashplayer/">install the free update</a> as soon as possible.
-Tá Firefox cothrom le dáta, ach seans go mbeadh fadhbanna slándála nó cobhsaíochta mar gheall ar an seanleagan de Flash Player atá agat faoi láthair.  Suiteáil <a href="http://get.adobe.com/flashplayer/">leagan nuashonraithe</a>, saor in aisce, chomh luath agus is féidir.
 
 
 ;Features
@@ -170,30 +107,6 @@ Gnéithe
 Saincheap
 
 
-;Synchronize
-Sioncrónaigh
-
-
-;Develop for Mobile
-Forbairt Firefox Soghluaiste
-
-
-;Other Supported Platforms
-Ardáin Eile a dTacaítear Leo
-
-
-;Other Platforms &amp; Languages
-Ardáin agus Teangacha Eile
-
-
-;Choose your location
-Roghnaigh do shuíomh
-
-
-;Download Firefox directly from your phone
-Íosluchtaigh Firefox go díreach ó d'fhón póca
-
-
 ;Download
 Íosluchtaigh
 
@@ -202,6 +115,7 @@ Roghnaigh do shuíomh
 Ar Aghaidh
 
 
+# MegaBytes abbreviation
 ;MB
 MB {ok}
 
@@ -230,16 +144,13 @@ Déan Tuairisc ar Dhrochúsáid Trádmharcanna
 Nuashonrú Saor in Aisce
 
 
+# social networks such as Facebook and Twitter
 ;Follow us on:
 Bí dár leanúint ar:
 
 
 ;Customize with Add-ons
 Saincheap Firefox le Breiseáin
-
-
-;Sync Your Desktop & Mobile
-Sioncrónaigh Do Ríomhaire agus Do Ghléas Póca
 
 
 ;Learn More
@@ -262,76 +173,12 @@ Formáid Ogg Theora
 Formáid MPEG-4
 
 
-;Whoops! Be sure to enter a valid email address.
-Úps! Bí cinnte gur chuir tú seoladh bailí isteach.
-
-
-;Please read the Mozilla Privacy Policy and agree by checking the box.
-Léigh Polasaí Príobháideachta Mhozilla agus glac leis trí thic a chur sa bhosca.
-
-
-;Please enter your email address and review the Mozilla Privacy Policy.
-Cuir do sheoladh ríomhphoist isteach agus caith súil ar Pholasaí Príobháideachta Mhozilla.
-
-
 ;Mobile
 Soghluaiste
 
 
-;Firefox Updated
-Firefox Nuashonraithe
-
-
-;Take a Look at Tomorrow's Web
-Féach ar Ghréasán an Lae Amárach
-
-
-;Journey to the Future with Firefox
-Aistear chun an Todhchaí le Firefox
-
-
-;Join the Beta Program
-Glac páirt sa tionscadal Béite
-
-
-;Experience Firefox
-Bain triail as Firefox
-
-
-;The future of the Web is waiting for you!
-Tá todhchaí an Ghréasáin ag fanacht leat!
-
-
-;The future of the Web starts now.
-Tosaíonn todhchaí an Ghréasáin anois!
-
-
-;Try Firefox with a fresh look and feel.
-Bain triail as Firefox agus cuma úrnua air.
-
-
-;Experience tomorrow's Web today.
-Tá Gréasán an Lae Amárach romhat inniu.
-
-
 ;Check out the new look and feel of Firefox.
 Bainfidh tú sult as an gcuma úrnua ar Firefox.
-
-
-;Browse the future of the Web.
-Brabhsáil todhchaí an Ghréasáin.
-
-
-;See Firefox with a new look and feel.
-Féach ar Firefox agus an chuma úrnua atá air.
-
-
-;Download Beta Now.
-Íosluchtaigh an leagan béite anois.
-
-
-;All Systems & Languages
-Gach Córas agus Gach Teanga
 
 
 ;View Full Site
@@ -344,10 +191,6 @@ Faigh Firefox ar Android
 
 ;Download for <span>Android</span>
 Íosluchtaigh le haghaidh <span>Android</span>
-
-
-;Free from the Android Market
-Saor in aisce ó Mhargadh Android
 
 
 ;Desktop
@@ -366,10 +209,6 @@ Firefox Soghluaiste
 Ríomhphost
 
 
-;Mozilla Firefox. Bringing the modern Web to XP.
-Mozilla Firefox. Gréasán an Lae Inniu ar XP.
-
-
 ;Super speed
 Ardluas
 
@@ -382,16 +221,8 @@ Grafaic álainn
 Na teicneolaíochtaí is déanaí
 
 
-;You're using an old version of Firefox. Get your update to stay safe! <br/> <a href="%s">Download the free upgrade</a> in less than a minute for the latest features, speed and security fixes.
-Tá seanleagan de Firefox agat. Faigh an leagan is déanaí agus bí slán sábháilte! <br/> <a href="%s">Íosluchtaigh an leagan nua, saor in aisce</a> agus faigh an Firefox is tapúla is sábháilte.
-
-
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
 Tá nuashonrú uait! Bí slán sábháilte i níos lú ná nóiméad amháin. <br/> Faigh an Firefox nua agus bain an tairbhe is mó as an nGréasán. <br/> Tá sé an-tapa agus saor in aisce!
-
-
-;You're using an older version of Firefox. Get <a href="%s">your update</a> to stay safe! <br/> Experience the latest features, security fixes and the fastest Firefox yet. Download the free upgrade in less than a minute.
-Tá seanleagan de Firefox agat. Faigh <a href="%s">an leagan is déanaí</a> agus bí slán sábháilte! <br/> Faigh an Firefox is tapúla is sábháilte. Íosluchtaigh an nuashonrú saor in aisce i níos lú ná nóiméad amháin.
 
 
 ;Upgrade now

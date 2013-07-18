@@ -2,16 +2,8 @@
 ניווט
 
 
-;Press area
-אזור עיתונות
-
-
 ;About
 אודות
-
-
-;Store
-חנות
 
 
 ;Donate
@@ -32,10 +24,6 @@
 
 ;About Us
 אודות
-
-
-;Developers
-מפתחים
 
 
 ;Labs
@@ -62,10 +50,6 @@
 היה מעורב
 
 
-;Licensing
-רישוי
-
-
 ;Careers
 קריירה
 
@@ -78,20 +62,13 @@
 צור קשר
 
 
-;Site contact
-איש קשר
-
-
 ;Other languages:
 שפות אחרות:
 
 
+# Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d/%m/%Y
-
-
-;All rights reserved.
-כל הזכויות שמורות.
 
 
 ;Legal Notices
@@ -102,40 +79,12 @@
 הצהרת פרטיות
 
 
-;Visit Mozilla.com
-בקר ב־Mozilla.com
-
-
-;Visit Mozilla.com (in English)
-בקר ב־Mozilla.com (אנגלית)
-
-
-;Download Firefox - Free
-הורדת Firefox - חינם
-
-
 ;Release Notes
 הערות שחרור
 
 
 ;Other Systems and Languages
 מערכות הפעלה ושפות אחרות
-
-
-;Get Firefox
-קח את Firefox
-
-
-;Free Download
-הורד חינם
-
-
-;Help us make Firefox even better!
-עזור לנו לעשות את Firefox טוב יותר!
-
-
-;Take a few moments to take a quick survey and share your thoughts with us.
-הקדש מספר רגעים לסקר קצר ושתף את מחשבותיך איתנו.
 
 
 ;Close
@@ -146,20 +95,8 @@
 (באנגלית)
 
 
-;Download Now - Free
-הורד עכשיו - חינם
-
-
 ;Return to top
 חזור למעלה
-
-
-;You should <a href="http://get.adobe.com/flashplayer/">update Adobe Flash Player</a> right now.
-כדאי <a href="http://get.adobe.com/flashplayer/">לעדכן את Adobe Flash Player</a> כעת.
-
-
-;Firefox is up to date, but your current version of Flash Player can cause security and stability issues.  Please <a href="http://get.adobe.com/flashplayer/">install the free update</a> as soon as possible.
-Firefox עדכני, אבל הגירסה של Flash Player שמותקנת יכולה לגרום לבעיות אבטחה ויציבות. בבקשה <a href="http://get.adobe.com/flashplayer/">להתקין את העדכון</a> בהקדם האפשרי.
 
 
 ;Features
@@ -170,30 +107,6 @@ Firefox עדכני, אבל הגירסה של Flash Player שמותקנת יכו�
 התאמה אישית
 
 
-;Synchronize
-סינכרון
-
-
-;Develop for Mobile
-פיתוח לנייד
-
-
-;Other Supported Platforms
-פלטפורמות נתמכות אחרות
-
-
-;Other Platforms &amp; Languages
-שפות ופלטפורמות אחרות
-
-
-;Choose your location
-בחר את המיקום שלך
-
-
-;Download Firefox directly from your phone
-הורד את Firefox ישירות ממכשיר הטלפון
-
-
 ;Download
 Download
 
@@ -202,6 +115,7 @@ Download
 הבא
 
 
+# MegaBytes abbreviation
 ;MB
 מ״ב
 
@@ -230,16 +144,13 @@ Download
 שדרוג חינם
 
 
+# social networks such as Facebook and Twitter
 ;Follow us on:
 עקבו אחרינו:
 
 
 ;Customize with Add-ons
 בצע התאמה אישית עם תוספות
-
-
-;Sync Your Desktop & Mobile
-סנכרן את המחשב והנייד
 
 
 ;Learn More
@@ -262,76 +173,12 @@ Download
 פורמט MPEG-4
 
 
-;Whoops! Be sure to enter a valid email address.
-אופס! ודא כי כתובת הדואר האלקטרוני שרשמת נכונה.
-
-
-;Please read the Mozilla Privacy Policy and agree by checking the box.
-אנא קרא את מדיניות הפרטיות של Mozilla ואשר באמצעות סימון התיבה.
-
-
-;Please enter your email address and review the Mozilla Privacy Policy.
-אנא רשום את כתובת האימייל שלך, ובחן את מדיניות הפרטיות של Mozilla.
-
-
 ;Mobile
 נייד
 
 
-;Firefox Updated
-Firefox עודכן
-
-
-;Take a Look at Tomorrow's Web
-הבט ברשת של יום המחר
-
-
-;Journey to the Future with Firefox
-מסע אל העתיד עם Firefox
-
-
-;Join the Beta Program
-הצטרף לתכנית הבטא
-
-
-;Experience Firefox
-חווה את Firefox
-
-
-;The future of the Web is waiting for you!
-העתיד של הרשת ממתין לך!
-
-
-;The future of the Web starts now.
-עתיד הרשת מתחיל עכשיו.
-
-
-;Try Firefox with a fresh look and feel.
-נסה את Firefox עם מראה מעודכן.
-
-
-;Experience tomorrow's Web today.
-התנסה היום ברשת יום המחר.
-
-
 ;Check out the new look and feel of Firefox.
 בדוק את המראה החדש של Firefox.
-
-
-;Browse the future of the Web.
-גלוש אל עתיד הרשת.
-
-
-;See Firefox with a new look and feel.
-צפה במראה החדש של Firefox.
-
-
-;Download Beta Now.
-הורד את גרסת הבטא עכשיו.
-
-
-;All Systems & Languages
-כל המערכות והשפות
 
 
 ;View Full Site
@@ -344,10 +191,6 @@ Get Firefox for Android
 
 ;Download for <span>Android</span>
 Download for <span>Android</span>
-
-
-;Free from the Android Market
-Free from the Android Market
 
 
 ;Desktop
@@ -366,10 +209,6 @@ Firefox לנייד
 דואר אלקטרוני
 
 
-;Mozilla Firefox. Bringing the modern Web to XP.
-Mozilla Firefox. מביאים את הרשת של היום אל XP.
-
-
 ;Super speed
 מהירות על
 
@@ -382,16 +221,8 @@ Mozilla Firefox. מביאים את הרשת של היום אל XP.
 הטכנולוגיות החדשות ביותר
 
 
-;You're using an old version of Firefox. Get your update to stay safe! <br/> <a href="%s">Download the free upgrade</a> in less than a minute for the latest features, speed and security fixes.
-זוהי גרסה ישנה של Firefox. רצוי לעדכן כדי להישאר בצד הבטוח! <br/> <a href="%s">הורדת השדרוג</a> תארך פחות מדקה.
-
-
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
 יש צורך לשדרג! הישארו בטוחים תוך פחות מדקה. <br/> התחילו להשתמש ב־Firefox החדש כדי להנות מהגלישה הטובה ביותר ברשת. <br/> השדרוג מהיר ובחינם!
-
-
-;You're using an older version of Firefox. Get <a href="%s">your update</a> to stay safe! <br/> Experience the latest features, security fixes and the fastest Firefox yet. Download the free upgrade in less than a minute.
-זוהי גרסה ישנה של Firefox. רצוי <a href="%s">לעדכן</a> כדי להישאר בצד הבטוח! <br/> קבלו את התכונות האחרונות, תיקוני האבטחה בגרסה המהירה ביותר של Firefox עד כה. הורדת השדרוג תארך פחות מדקה.
 
 
 ;Upgrade now

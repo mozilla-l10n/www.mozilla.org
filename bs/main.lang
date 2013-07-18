@@ -2,16 +2,8 @@
 Navigacija
 
 
-;Press area
-Press odjeljenje
-
-
 ;About
 O
-
-
-;Store
-Prodavnica
 
 
 ;Donate
@@ -32,10 +24,6 @@ Add-oni
 
 ;About Us
 O nama
-
-
-;Developers
-Developeri
 
 
 ;Labs
@@ -62,10 +50,6 @@ O Mozilli
 Uključite se
 
 
-;Licensing
-Licenciranje
-
-
 ;Careers
 Karijera
 
@@ -78,20 +62,13 @@ Press Centar
 Kontakt
 
 
-;Site contact
-Site kontakt
-
-
 ;Other languages:
 Ostali jezici:
 
 
+# Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d-%m-%Y
-
-
-;All rights reserved.
-Sva prava pridržana.
 
 
 ;Legal Notices
@@ -102,40 +79,12 @@ Pravne napomene
 Polica privatnosti
 
 
-;Visit Mozilla.com
-Posjetite Mozilla.com
-
-
-;Visit Mozilla.com (in English)
-Posjetite Mozilla.com (na engleskom)
-
-
-;Download Firefox - Free
-Preuzmite Firefox - Besplatno
-
-
 ;Release Notes
 Napomene o izdanju
 
 
 ;Other Systems and Languages
 Ostali sistemi i jezici
-
-
-;Get Firefox
-Preuzmite Firefox
-
-
-;Free Download
-Besplatno preuzimanje
-
-
-;Help us make Firefox even better!
-Pomozite nam da učinimo Firefox još boljim!
-
-
-;Take a few moments to take a quick survey and share your thoughts with us.
-Odvojite par trenutaka da popunite kratku anketu i podijelite svoje mišljenje sa nama.
 
 
 ;Close
@@ -146,20 +95,8 @@ Zatvori
 (na engleskom)
 
 
-;Download Now - Free
-Preuzmite sada - Besplatno
-
-
 ;Return to top
 Vrati se na vrh
-
-
-;You should <a href="http://get.adobe.com/flashplayer/">update Adobe Flash Player</a> right now.
-Trebali biste <a href="http://get.adobe.com/flashplayer/">nadograditi Adobe Flash Player</a> odmah.
-
-
-;Firefox is up to date, but your current version of Flash Player can cause security and stability issues.  Please <a href="http://get.adobe.com/flashplayer/">install the free update</a> as soon as possible.
-Imate zadnju verziju Firefoxa, ali vaša trenutna verzija Flash Playera može izazvati probleme vezane za sigurnost i stabilnost.  Molimo da <a href="http://get.adobe.com/flashplayer/">instalirate besplatnu nadogradnju</a> čim prije.
 
 
 ;Features
@@ -170,30 +107,6 @@ Mogućnosti
 Prilagođavanje
 
 
-;Synchronize
-Sinhronizacija
-
-
-;Develop for Mobile
-Razvoj za mobilni
-
-
-;Other Supported Platforms
-Ostale podržane platforme
-
-
-;Other Platforms &amp; Languages
-Ostale platforme i jezici
-
-
-;Choose your location
-Izaberite vašu lokaciju
-
-
-;Download Firefox directly from your phone
-Preuzmite Firefox direktno sa vašeg telefona
-
-
 ;Download
 Preuzmite
 
@@ -202,6 +115,7 @@ Preuzmite
 Dalje
 
 
+# MegaBytes abbreviation
 ;MB
 MB {ok}
 
@@ -230,16 +144,13 @@ Prijavite zloupotrebu zaštitnog znaka
 Besplatna nadogradnja
 
 
+# social networks such as Facebook and Twitter
 ;Follow us on:
 Pratite nas na:
 
 
 ;Customize with Add-ons
 Prilagodite pomoću Add-ona
-
-
-;Sync Your Desktop & Mobile
-Sinhronizujte vaš Desktop i Mobilni
 
 
 ;Learn More
@@ -262,76 +173,12 @@ Ogg Theora format {ok}
 MPEG-4 format {ok}
 
 
-;Whoops! Be sure to enter a valid email address.
-Ups! Provjerite da li ste unijeli ispravnu email adresu.
-
-
-;Please read the Mozilla Privacy Policy and agree by checking the box.
-Molimo da pročitate Mozilla Privacy Policy i da je prihvatite.
-
-
-;Please enter your email address and review the Mozilla Privacy Policy.
-Molimo da unesete vašu email adresu i pregledate Mozilla Privacy Policy.
-
-
 ;Mobile
 Mobilni
 
 
-;Firefox Updated
-Firefox nadograđen
-
-
-;Take a Look at Tomorrow's Web
-Bacite pogled na Web sutrašnjice
-
-
-;Journey to the Future with Firefox
-Putovanje u budućnost Firefoxa
-
-
-;Join the Beta Program
-Uključite se u Beta program
-
-
-;Experience Firefox
-Doživite Firefox
-
-
-;The future of the Web is waiting for you!
-Budućnost Weba čeka na vas!
-
-
-;The future of the Web starts now.
-Budućnost Weba počinje sada.
-
-
-;Try Firefox with a fresh look and feel.
-Probajte Firefox sa novim izgledom i ugođajem.
-
-
-;Experience tomorrow's Web today.
-Doživite Web sutrašnjice još danas.
-
-
 ;Check out the new look and feel of Firefox.
 Isprobajte novi izgled i ugođaj Firefoxa.
-
-
-;Browse the future of the Web.
-Putujte kroz budućnost Weba.
-
-
-;See Firefox with a new look and feel.
-Pogledajte Firefox sa novim izgledom i ugođajem.
-
-
-;Download Beta Now.
-Preuzmite Betu odmah.
-
-
-;All Systems & Languages
-Svi sistemi i jezici
 
 
 ;View Full Site
@@ -344,10 +191,6 @@ Preuzmite Firefox za Android
 
 ;Download for <span>Android</span>
 Preuzmite za <span>Android</span>
-
-
-;Free from the Android Market
-Besplatno sa Android Marketa
 
 
 ;Desktop
@@ -366,10 +209,6 @@ Firefox za mobilni
 Email {ok}
 
 
-;Mozilla Firefox. Bringing the modern Web to XP.
-Mozilla Firefox. Donosi moderni Web na XP.
-
-
 ;Super speed
 Super brzina
 
@@ -382,16 +221,8 @@ Nevjerovatna grafika
 Najnovije tehnologije
 
 
-;You're using an old version of Firefox. Get your update to stay safe! <br/> <a href="%s">Download the free upgrade</a> in less than a minute for the latest features, speed and security fixes.
-Koristite staru verziju Firefoxa. Izvršite update da biste ostali sigurni! <br/> <a href="%s">Preuzmite besplatnu nadogradnju</a> za manje od minute kako biste se okoristili najnovijim mogućnostima, brzinom i sigurnosnim unapređenjima.
-
-
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
 Potrebna vam je nadogradnja! Ostanite sigurni za manje od minute. <br/> Počnite koristiti svoj novi Firefox za najbolje iz svijeta surfanja i prilagođavanja na Webu. <br/>   Brzo i besplatno!
-
-
-;You're using an older version of Firefox. Get <a href="%s">your update</a> to stay safe! <br/> Experience the latest features, security fixes and the fastest Firefox yet. Download the free upgrade in less than a minute.
-Koristite staru verziju Firefoxa. Preuzmite <a href="%s">svoj update</a> da biste ostali sigurni! <br/> Iskusite najnovije mogućnosti, sigurnosna unapređenja i najbrži Firefox do sada. Preuzmite besplatnu nadogradnju za manje od minute.
 
 
 ;Upgrade now

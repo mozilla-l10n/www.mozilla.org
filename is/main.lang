@@ -2,16 +2,8 @@
 Flakka
 
 
-;Press area
-Fréttasvæði
-
-
 ;About
 Um
-
-
-;Store
-Verslun
 
 
 ;Donate
@@ -32,10 +24,6 @@ Viðbætur
 
 ;About Us
 Um okkur
-
-
-;Developers
-Þróunaraðilar
 
 
 ;Labs
@@ -62,10 +50,6 @@ Um Mozilla
 Taka þátt
 
 
-;Licensing
-Leyfiskaup
-
-
 ;Careers
 Starfsframi
 
@@ -78,20 +62,13 @@ Fréttir
 Hafa samband
 
 
-;Site contact
-Samband við vefstjóra
-
-
 ;Other languages:
 Önnur tungumál:
 
 
+# Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d.%m.%Y
-
-
-;All rights reserved.
-Allur réttur áskilinn.
 
 
 ;Legal Notices
@@ -102,40 +79,12 @@ Lögfræðitilkynningar
 Meðferð persónuupplýsinga
 
 
-;Visit Mozilla.com
-Heimsækja Mozilla.com
-
-
-;Visit Mozilla.com (in English)
-Heimsækja Mozilla.com (á ensku)
-
-
-;Download Firefox - Free
-Niðurhala Firefox - Ókeypis
-
-
 ;Release Notes
 Útgáfuupplýsingar
 
 
 ;Other Systems and Languages
 Önnur kerfi og tungumál
-
-
-;Get Firefox
-Ná í Firefox
-
-
-;Free Download
-Ókeypis niðurhal
-
-
-;Help us make Firefox even better!
-Hjálpaðu okkur við að gera Firefox ennþá betri!
-
-
-;Take a few moments to take a quick survey and share your thoughts with us.
-Taktu smá tíma í að taka fljótlega könnun og deildu þínum skoðunum með okkur.
 
 
 ;Close
@@ -146,20 +95,8 @@ Loka
 (á ensku)
 
 
-;Download Now - Free
-Hala niður núna - Ókeypis
-
-
 ;Return to top
 Fara efst á síðu
-
-
-;You should <a href="http://get.adobe.com/flashplayer/">update Adobe Flash Player</a> right now.
-Þú ættir að <a href="http://get.adobe.com/flashplayer/">uppfæra Adobe Flash spilarann</a> strax.
-
-
-;Firefox is up to date, but your current version of Flash Player can cause security and stability issues.  Please <a href="http://get.adobe.com/flashplayer/">install the free update</a> as soon as possible.
-Firefox er uppfærður, en núverandi útgáfa af Flash spilaranum getur valdið öryggisgöllum og vandræðum með stöðugleika.  Vinsamlega <a href="http://get.adobe.com/flashplayer/">settu inn ókeypis uppfærsluna</a> eins fljótt og hægt er.
 
 
 ;Features
@@ -170,30 +107,6 @@ Eiginleikar
 Sérsníða
 
 
-;Synchronize
-Samstilla
-
-
-;Develop for Mobile
-Þróa fyrir farsíma
-
-
-;Other Supported Platforms
-Stuðningur við önnur stýrikerfi
-
-
-;Other Platforms &amp; Languages
-Önnur stýrikerfi og tungumál
-
-
-;Choose your location
-Veldu staðsetningu
-
-
-;Download Firefox directly from your phone
-Náðu í Firefox beint frá símanum þínum
-
-
 ;Download
 Niðurhal
 
@@ -202,6 +115,7 @@ Niðurhal
 Næsta
 
 
+# MegaBytes abbreviation
 ;MB
 MB {ok}
 
@@ -230,16 +144,13 @@ Tilkynna misnotkun á vörumerki
 Ókeypis uppfærsla
 
 
+# social networks such as Facebook and Twitter
 ;Follow us on:
 Kíktu á okkur á:
 
 
 ;Customize with Add-ons
 Sérsníða með viðbótum
-
-
-;Sync Your Desktop & Mobile
-Samstilltu tölvuna og símann
 
 
 ;Learn More
@@ -262,76 +173,12 @@ Ogg Theora skráarsnið
 MPEG-4 skráarsnið
 
 
-;Whoops! Be sure to enter a valid email address.
-Úps! Gakktu úr skugga um að þú hafir slegið inn löglegt tölvupóstfang.
-
-
-;Please read the Mozilla Privacy Policy and agree by checking the box.
-Lestu meðferð persónuupplýsinga hjá Mozilla og samþykktu með því að haka í reitinn.
-
-
-;Please enter your email address and review the Mozilla Privacy Policy.
-Sláðu inn tölvupóstfang og skoðaðu vandlega meðferð persónuupplýsinga hjá Mozilla.
-
-
 ;Mobile
 Farsími
 
 
-;Firefox Updated
-Firefox uppfærður
-
-
-;Take a Look at Tomorrow's Web
-Kíktu á framtíð vefsins
-
-
-;Journey to the Future with Firefox
-Ferðastu í framtíðina með Firefox
-
-
-;Join the Beta Program
-Taktu þátt í beta hópnum
-
-
-;Experience Firefox
-Upplifðu Firefox
-
-
-;The future of the Web is waiting for you!
-Vefur framtíðarinnar bíður eftir þér!
-
-
-;The future of the Web starts now.
-Vefur framtíðarinnar byrjar núna.
-
-
-;Try Firefox with a fresh look and feel.
-Prófaðu Firefox með nýju útliti.
-
-
-;Experience tomorrow's Web today.
-Upplifðu vef framtíðarinnar í dag.
-
-
 ;Check out the new look and feel of Firefox.
 Kíktu á nýja útlitið á Firefox.
-
-
-;Browse the future of the Web.
-Vafraðu á vef framtíðarinnar.
-
-
-;See Firefox with a new look and feel.
-Kíktu á nýja útlitið á Firefox.
-
-
-;Download Beta Now.
-Niðurhala beta útgáfunni núna.
-
-
-;All Systems & Languages
-Öll stýrikerfi og tungumál
 
 
 ;View Full Site
@@ -344,10 +191,6 @@ Ná í Firefox fyrir Android
 
 ;Download for <span>Android</span>
 Niðurhala fyrir <span>Android</span>
-
-
-;Free from the Android Market
-Ókeypis frá Android Market
 
 
 ;Desktop
@@ -366,10 +209,6 @@ Firefox fyrir farsíma
 Tölvupóstur
 
 
-;Mozilla Firefox. Bringing the modern Web to XP.
-Mozilla Firefox. Færir þér nýjasta vefinn á XP.
-
-
 ;Super speed
 Ofurhraði
 
@@ -382,16 +221,8 @@ Ofurhraði
 Nýjasta tækni
 
 
-;You're using an old version of Firefox. Get your update to stay safe! <br/> <a href="%s">Download the free upgrade</a> in less than a minute for the latest features, speed and security fixes.
-Þú ert að nota gamla útgáfu af Firefox. Náðu í uppfærslu til að vera öruggur! <br/> <a href="%s">Niðurhalaðu ókeypis uppfærslu</a> á minna en mínútu til að fá nýjustu tækni, hraða og öryggisuppfærslur.
-
-
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
 Þú þarft að uppfæra! Vertu öruggur á innan við mínútu. <br/> Byrjaðu að nota nýjustu útgáfu af Firefox til að vafra betur og fá bestu stillimöguleika á vefnum. <br/>   Hann er hraðvirkur og ókeypis!
-
-
-;You're using an older version of Firefox. Get <a href="%s">your update</a> to stay safe! <br/> Experience the latest features, security fixes and the fastest Firefox yet. Download the free upgrade in less than a minute.
-Þú ert að nota gamla útgáfu af Firefox. Náðu í <a href="%s">uppfærslu</a> til að vera öruggur! <br/> Njóttu nýjustu tækni, öryggislagfæringa og hraðasta Firefox sem til er. Niðurhalaðu ókeypis uppfærslu á minna en mínútu.
 
 
 ;Upgrade now

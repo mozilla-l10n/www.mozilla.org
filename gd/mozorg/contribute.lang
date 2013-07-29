@@ -98,8 +98,8 @@ Dearbhadh càileachd
 'S e dearbhadh na càileachd aon dhe na dòighean as fhasa son tòiseachadh le Mozilla agus fàsaidh tu eòlach air a' chòd 's na h-innealan againn gu luath air an dòigh seo.
 
 
-;Help us <a href="http://quality.mozilla.org/teams/desktop-firefox/">hunt down bugs</a> in Firefox, <a href="http://quality.mozilla.org/teams/web-qa/">test Mozilla web sites</a> or learn more about <a href="http://quality.mozilla.org/">other testing opportunities</a>.
-Cuidich leinn <a href="http://quality.mozilla.org/teams/desktop-firefox/">a' sealg bhugaichean</a> ann am Firefox, <a href="http://quality.mozilla.org/teams/web-qa/">a' cur làraichean-lìn Mozilla fo dheuchainn</a> no faigh barrachd fiosrachaidh <a href="http://quality.mozilla.org/">mu chothroman eile</a>.
+;Help us <a href="http://quality.mozilla.org/teams/desktop-firefox/">hunt down bugs</a> in Firefox, <a href="http://quality.mozilla.org/teams/web-qa/">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
+Cuidich leinn <a href="http://quality.mozilla.org/teams/desktop-firefox/">a' sealg bhugaichean</a> ann am Firefox, <a href="http://quality.mozilla.org/teams/web-qa/">a' cur làraichean-lìn Mozilla fo dheuchainn</a> no faigh barrachd fiosrachaidh <a href="%(qa_url)s">mu chothroman eile</a>.
 
 
 ;Coding

@@ -102,8 +102,8 @@ Control de calidad
 Garantizar la calidad es una de las formas más fáciles de comenzar con Mozilla y una forma genial de familiarizarte con nuestro código y nuestras herramientas.
 
 
-;Help us <a href="http://quality.mozilla.org/teams/desktop-firefox/">hunt down bugs</a> in Firefox, <a href="http://quality.mozilla.org/teams/web-qa/">test Mozilla web sites</a> or learn more about <a href="http://quality.mozilla.org/">other testing opportunities</a>.
-Ayúdanos a <a href="http://quality.mozilla.org/teams/desktop-firefox/">cazar bugs</a> en Firefox, <a href="http://quality.mozilla.org/teams/web-qa/">comprobar los sitios web de Mozilla</a> u obtén más información sobre <a href="http://quality.mozilla.org/">otras oportunidades de pruebas</a>.
+;Help us <a href="http://quality.mozilla.org/teams/desktop-firefox/">hunt down bugs</a> in Firefox, <a href="http://quality.mozilla.org/teams/web-qa/">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
+Ayúdanos a <a href="http://quality.mozilla.org/teams/desktop-firefox/">cazar bugs</a> en Firefox, <a href="http://quality.mozilla.org/teams/web-qa/">comprobar los sitios web de Mozilla</a> u obtén más información sobre <a href="%(qa_url)s">otras oportunidades de pruebas</a>.
 
 
 ;Coding
@@ -199,8 +199,8 @@ Los <a href="%(dev_intro_url)s">desarrolladores pueden ayudar</a> a Mozilla agre
 Ayúdanos a dar a conocer cómo Firefox y otros proyectos de Mozilla están construyendo una Web mejor. Comparte Firefox con el mundo <a href="%(affiliates_url)s">convirtiéndote en simpatizante</a> y consulta nuestra <a href="%(marketing_url)s">Guía de difusión</a> para explorar muchas más formas de participación.
 
 
-;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="http://quality.mozilla.org/">other testing opportunities</a>.
-Garantizar la calidad es una de las formas más fáciles de comenzar con Mozilla y una forma genial de familiarizarte con nuestro código y nuestras herramientas. Ayúdanos a <a href="%(qa_bugs_url)s">detectar bugs</a> en Firefox, <a href="%(qa_web_url)s">probar los sitios web de Mozilla</a> u obtén más información sobre <a href="http://quality.mozilla.org/">otras oportunidades de testeo</a>.
+;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
+Garantizar la calidad es una de las formas más fáciles de comenzar con Mozilla y una forma genial de familiarizarte con nuestro código y nuestras herramientas. Ayúdanos a <a href="%(qa_bugs_url)s">detectar bugs</a> en Firefox, <a href="%(qa_web_url)s">probar los sitios web de Mozilla</a> u obtén más información sobre <a href="%(qa_url)s">otras oportunidades de testeo</a>.
 
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!

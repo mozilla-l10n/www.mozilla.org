@@ -99,8 +99,8 @@
 গুণমান নিশ্চয়করণ পরীক্ষার এক সহজ উপায় হচ্ছে মোজিলার সঙ্গে শুরু করা এবং আমাদের কোড এবং সরঞ্জামগুলির সাথে পরিচিত হওয়ার।
 
 
-;Help us <a href="http://quality.mozilla.org/teams/desktop-firefox/">hunt down bugs</a> in Firefox, <a href="http://quality.mozilla.org/teams/web-qa/">test Mozilla web sites</a> or learn more about <a href="http://quality.mozilla.org/">other testing opportunities</a>.
-আমাদের সাহায্য করুন<a href="http://quality.mozilla.org/teams/desktop-firefox/">বাগ খুঁজে বের করুন</a>ফায়ারফক্সে, <a href="http://quality.mozilla.org/teams/web-qa/">মেজিলার ওয়েব সাইট পরীক্ষা করুন</a> অথবা আরো বেশি জানুন<a href="http://quality.mozilla.org/">অন্যান্য পরীক্ষার সুযোগগুলো</a>।
+;Help us <a href="http://quality.mozilla.org/teams/desktop-firefox/">hunt down bugs</a> in Firefox, <a href="http://quality.mozilla.org/teams/web-qa/">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
+আমাদের সাহায্য করুন<a href="http://quality.mozilla.org/teams/desktop-firefox/">বাগ খুঁজে বের করুন</a>ফায়ারফক্সে, <a href="http://quality.mozilla.org/teams/web-qa/">মেজিলার ওয়েব সাইট পরীক্ষা করুন</a> অথবা আরো বেশি জানুন<a href="%(qa_url)s">অন্যান্য পরীক্ষার সুযোগগুলো</a>।
 
 
 ;Coding
@@ -195,8 +195,8 @@
 ফায়ারফক্স এবং মোজিলার অন্যান্য প্রজেক্ট কিভাবে একটি ভাল ইন্টারনেট নির্মাণ করে সে সম্পর্কে কথা ছড়িয়ে দিতে আনাদের সহায়তা করুন। ফায়ারফক্স বিশ্বের সাথে শেয়ার করুন<a href="%(affiliates_url)s"> সংযুক্ত হন</a>এবং তারপর বের করুন আমাদের <a href="%(marketing_url)s"> মার্কেটিং গাইড</a>জড়িত হতে আরো অন্যান্য উপায়।
 
 
-;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="http://quality.mozilla.org/">other testing opportunities</a>.
-গুণগত মান নিশ্চয়করণ পরীক্ষা একটি সহজতম উপায় মোজিলার সাথে শুরু করার এবং একটি দুর্দান্ত উপায় আমাদের কোড এবং সরঞ্জামগুলির সাথে পরিচিত হওয়ার। আমাদের সহায়তা করুন<a href="%(qa_bugs_url)s"> বাগ খুঁজে বের করুন</a>ফায়ারফক্সে,<a href="%(qa_web_url)s"> মোজিলার ওয়েব সাইট পরীক্ষা করুন</a>অথবা আরো জানুন<a href="http://quality.mozilla.org/">অন্যান্য পরীক্ষার সুযোগ সম্পর্কে</a>।
+;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
+গুণগত মান নিশ্চয়করণ পরীক্ষা একটি সহজতম উপায় মোজিলার সাথে শুরু করার এবং একটি দুর্দান্ত উপায় আমাদের কোড এবং সরঞ্জামগুলির সাথে পরিচিত হওয়ার। আমাদের সহায়তা করুন<a href="%(qa_bugs_url)s"> বাগ খুঁজে বের করুন</a>ফায়ারফক্সে,<a href="%(qa_web_url)s"> মোজিলার ওয়েব সাইট পরীক্ষা করুন</a>অথবা আরো জানুন<a href="%(qa_url)s">অন্যান্য পরীক্ষার সুযোগ সম্পর্কে</a>।
 
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!

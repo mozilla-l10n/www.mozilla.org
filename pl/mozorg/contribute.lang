@@ -100,8 +100,8 @@ Kontrola jakości
 Kontrola jakości i testy to jeden z najłatwiejszych sposobów na rozpoczęcie współpracy z Mozillą, zapoznanie się z naszym kodem i narzędziami.
 
 
-;Help us <a href="http://quality.mozilla.org/teams/desktop-firefox/">hunt down bugs</a> in Firefox, <a href="http://quality.mozilla.org/teams/web-qa/">test Mozilla web sites</a> or learn more about <a href="http://quality.mozilla.org/">other testing opportunities</a>.
-Pomóż nam <a href="http://quality.mozilla.org/teams/desktop-firefox/">znaleźć błędy</a> w Firefoksie, <a href="http://quality.mozilla.org/teams/web-qa/">testować witryny internetowe Mozilli</a> albo znajdź coś innego, <a href="http://quality.mozilla.org/">co wymaga testowania</a>.
+;Help us <a href="http://quality.mozilla.org/teams/desktop-firefox/">hunt down bugs</a> in Firefox, <a href="http://quality.mozilla.org/teams/web-qa/">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
+Pomóż nam <a href="http://quality.mozilla.org/teams/desktop-firefox/">znaleźć błędy</a> w Firefoksie, <a href="http://quality.mozilla.org/teams/web-qa/">testować witryny internetowe Mozilli</a> albo znajdź coś innego, <a href="%(qa_url)s">co wymaga testowania</a>.
 
 
 ;Coding
@@ -195,8 +195,8 @@ Dostępność w Sieci oznacza takie tworzenie treści, aby każdy mógł je odcz
 Pomóż nam tłumaczyć ludziom, jak Firefox i inne projekty Mozilli budują lepszy Internet. Podziel się Firefoksem ze światem, <a href="%(affiliates_url)s">zostając jego Partnerem</a>, a potem zajrzyj do naszego <a href="%(marketing_url)s">Poradnika Marketingu (po angielsku)</a> i dowiedz się, jak inaczej możesz pomóc.
 
 
-;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="http://quality.mozilla.org/">other testing opportunities</a>.
-Kontrola jakości i testy to jeden z najłatwiejszych sposobów na rozpoczęcie współpracy z Mozillą, zapoznanie się z naszym kodem i narzędziami. Pomóż nam <a href="%(qa_bugs_url)s">znaleźć błędy</a> w Firefoksie, <a href="%(qa_web_url)s">testować witryny internetowe Mozilli</a> albo znajdź coś innego, <a href="http://quality.mozilla.org/">co wymaga testowania</a>.
+;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
+Kontrola jakości i testy to jeden z najłatwiejszych sposobów na rozpoczęcie współpracy z Mozillą, zapoznanie się z naszym kodem i narzędziami. Pomóż nam <a href="%(qa_bugs_url)s">znaleźć błędy</a> w Firefoksie, <a href="%(qa_web_url)s">testować witryny internetowe Mozilli</a> albo znajdź coś innego, <a href="%(qa_url)s">co wymaga testowania</a>.
 
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!

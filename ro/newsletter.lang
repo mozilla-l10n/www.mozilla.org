@@ -1,5 +1,3 @@
-# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
-
 ;Get Monthly News
 Primiți noutăți lunare
 
@@ -8,12 +6,20 @@ Primiți noutăți lunare
 Adresa dumneavoastră de mail
 
 
+;Your email address:
+Adresa dumneavoastră de mail:
+
+
 ;Text
 Text{ok}
 
 
 ;Available Languages
 Limbi disponibile
+
+
+;Language:
+Language:
 
 
 ;Select country
@@ -51,8 +57,10 @@ Suntem nerăbdători să începem să vă împartăşim sfaturi utile pentru a v
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Abonați-vă pentru a primi actualizări lunare și pentru a fi la curent cu știrile Mozilla, ce includ ultimele sfaturi utile pentru a vă optimiza modul de utilizare al navigatorului Firefox. Este modalitatea perfectă pentru a ține legătura!
 
+
 ;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
 Tocmai v-am trimis un mesaj de confirmare prin email. Faceți clic pe legătura de confirmare din acest email, pentru a vă valida abonamentul la această listă de discuții.
+
 
 ;Read all about it in our <span>newsletter</span>
 Citiți totul despre aceasta în <span>buletinul informativ</span>
@@ -61,32 +69,42 @@ Citiți totul despre aceasta în <span>buletinul informativ</span>
 ;Your newsletter subscription has been confirmed.
 Abonamentul dumneavoastră la buletinul informativ a fost confirmat.
 
+
 ;Format
 Format{ok}
+
 
 ;You’re All Set! <span>But Wait, There’s More</span>
 Sunteți pregătit! <span>Dar stați, asta nu e tot</span>
 
+
 ;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
 Doriți să obțineți cele mai relevante informații? Spuneți-ne mai multe despre dumneavoastră. Dacă tot sunteți aici, înregistrați-vă, pentru a primi şi alte ştiri Mozilla.
+
 
 ;Firefox & You
 Firefox & Dumneavoastră
 
+
 ;Our Other Newsletters:
 Alte buletine informative:
+
 
 ;Get the latest tips and tricks for getting the most out of your favorite browser.
 Primiți cele mai recente sfaturi utile pentru vă optimiza modul de utilizare al browserului dumeavoastră favorit.
 
+
 ;Firefox Mobile
-Mobil Firefox 
+Mobil Firefox
+
 
 ;Learn about the hottest new add-ons and features for Firefox mobile.
 Informați-vă în privința celor mai recente suplimente şi funcționalități pentru Firefox mobil.
 
+
 ;Beta News
-Ştiri Beta 
+Ştiri Beta
+
 
 ;Read about the latest features for Firefox desktop and mobile before the final release.
 Citiți despre cele mai recente funcționalități pentru desktop şi mobil Firefox înaintea lansării finale.
@@ -113,15 +131,16 @@ Dezabonați-vă
 
 
 ;Check here if you’d like to be removed from all Mozilla emails
-Faceți clic aici, dacă doriți să fiți eliminat din toate mailurile Mozilla 
+Faceți clic aici, dacă doriți să fiți eliminat din toate mailurile Mozilla
 
 
 ;Remove me from all Mozilla emails
-Eliminați-mă din toate emailurile Mozilla 
+Eliminați-mă din toate emailurile Mozilla
 
 
 ;Save Preferences
 Salvați-vă Preferințele
+
 
 ;Thanks for updating your email preferences.
 Vă mulțumim pentru actualizarea preferințelor dumneavoastră de email.
@@ -129,6 +148,7 @@ Vă mulțumim pentru actualizarea preferințelor dumneavoastră de email.
 
 ;You've been unsubscribed.
 Ați fost dezabonat.
+
 
 ;We’re sorry to see you go. Would you mind telling us why you’re leaving?
 Ne pare rău să vedem că plecați. Ați vrea să ne comunicați motivul deciziei dumneavoastră?
@@ -153,8 +173,10 @@ Nu m-am înregistrat pentru aceasta.
 ;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
 Ţin legătura cu Mozilla prin Facebook şi Twitter în schimb.
 
+
 ;Submit
 Trimiteți
+
 
 ;Thanks for telling us why you’re leaving.
 Vă mulțumim că ne-ați comunicat motivul plecării dumneavoastră.
@@ -178,16 +200,32 @@ Vă rugăm să verificați că v-ați adăugat adresa noastră de expeditor: moz
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Primiți noutăți Firefox 
+Primiți noutăți Firefox
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
 Emailul dumneavoastră aici
 
+
 # Button
 ;Sign me up
 Înregistrați-mă
 
+
 ;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
 Sunt de acord cu prelucrarea acestor date conform <a href="%s">politicii de confidențialitate</a>
+
+
+;The supplied link has expired. You will receive a new one in the next newsletter.
+The supplied link has expired. You will receive a new one in the next newsletter.
+
+
+;Something is amiss with our system, sorry! Please try again later.
+Something is amiss with our system, sorry! Please try again later.
+
+
+;English&nbsp;only
+English&nbsp;only
+
+

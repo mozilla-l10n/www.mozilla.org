@@ -1,7 +1,4 @@
 ## active ##
-# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
-
-
 ;Get Monthly News
 Recevez notre lettre mensuelle
 
@@ -10,12 +7,20 @@ Recevez notre lettre mensuelle
 Votre adresse électronique
 
 
+;Your email address:
+Votre adresse électronique:
+
+
 ;Text
 Texte
 
 
 ;Available Languages
 Langues disponibles
+
+
+;Language:
+Language:
 
 
 ;Select country
@@ -199,10 +204,6 @@ Veuillez vous assurer que notre adresse d'expéditeur mozilla@e.mozilla.org est 
 Recevoir des informations sur Firefox
 
 
-;Get Mozilla updates
-Recevoir des informations sur Mozilla
-
-
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
 VOTRE ADRESSE ÉLECTRONIQUE ICI
@@ -217,5 +218,15 @@ Je m'inscris
 J'accepte que vous utilisiez ces informations conformément à votre <a href="%s">politique de confidentialité</a>
 
 
-;Country
-Pays
+;The supplied link has expired. You will receive a new one in the next newsletter.
+The supplied link has expired. You will receive a new one in the next newsletter.
+
+
+;Something is amiss with our system, sorry! Please try again later.
+Something is amiss with our system, sorry! Please try again later.
+
+
+;English&nbsp;only
+English&nbsp;only
+
+

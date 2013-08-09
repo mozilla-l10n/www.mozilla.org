@@ -55,6 +55,11 @@ Mapas
 Mensajes
 
 
+# Icon bar item
+;Marketplace
+Marketplace {ok}
+
+
 ## MAIN TEXT ##
 ;Make every <br>moment count
 Haz que cada momento cuente
@@ -180,7 +185,7 @@ Cambia el futuro
 
 
 ;We’re out to make a difference, not a profit. When you choose Firefox OS, you’re helping build a brighter future for the Web and users everywhere.
-Nuestra objetivo es marcar la diferencia, no obtener beneficios. Cuando eliges Firefox&nbsp;OS, estás contribuyendo en la construcción de un futuro mejor para Internet y sus usuarios en todo el mundo.
+Nuestro objetivo es marcar la diferencia, no obtener beneficios. Cuando eliges Firefox&nbsp;OS, estás contribuyendo en la construcción de un futuro mejor para Internet y sus usuarios en todo el mundo.
 
 
 # Title
@@ -223,11 +228,6 @@ Para usuarios:
 Si necesitas que te ayuden <a href="%(link)s">Pregunta a tus amigos de la Ayuda de Mozilla</a>
 
 
-;All your questions will be answered (soon) <a href="%(link)s">Read our extra helpful FAQ (which is coming soon)</a>
-Contestaremos a todas tus preguntas (pronto) <a href="%(link)s"> Consulta nuestras superútiles FAQ (pronto disponibles)</a>
-
-
-# same string as above, will be used if the FAQ is finished when we launch
 ;All your questions will be answered <a href="%(link)s">Read our extra helpful FAQ</a>
 Contestaremos a todas tus preguntas <a href="%(link)s">Consulta nuestras superútiles FAQ</a>
 
@@ -298,5 +298,14 @@ Suscríbete a nuestro boletín mensual
 
 ;Thank you for signing up!
 ¡Gracias por suscribirte!
+
+
+# Page <title> tag, also used for search engines
+;Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More
+Firefox OS — El teléfono adaptativo — Grandes características para teléfonos inteligentes, fantásticas aplicaciones y mucho más
+
+
+;View the version notes <a href="%(link)s">Read about features, changes and more</a>
+Lee las notas de la versión <a href="%(link)s">Infórmate sobre las características, los cambios y mucho más</a>
 
 

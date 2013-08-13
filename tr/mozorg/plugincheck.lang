@@ -3,7 +3,7 @@
 
 # Page <title> tag
 ;Plugin Check &amp; Updates
-Plugin Check &amp; Updates
+Yan Uygulama Denetimi &amp; Güncellemeleri
 
 
 # This is a button telling the user to update their plugin
@@ -28,12 +28,12 @@ Güncel
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+Yan uygulama simgesi
 
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+bilinmiyor
 
 
 # This is the string used to indicate that the plugin is vulnerable
@@ -43,15 +43,15 @@ açığı var
 
 # Main title
 ;Check Your Plugins
-Yan Uygulamalarınızı DENETLEYİN
+Yan Uygulamalarınızı denetleyin
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Keeping your plugins up to date helps Firefox run safely and smoothly.
+Yan uygulamalarınızın güncel olması, Firefox'un güvenli ve akıcı şekilde çalışmasına yardımcı olur.
 
 
 ;Plugin Status
-Plugin Status
+Yan uygulama durumu
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -63,15 +63,15 @@ Internet Explorer için Yan Uygulama Denetimi desteği <strong>kısıtlıdır</s
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
-2. adım: Önerilen tüm güncellemeleri tamamlayın ve daha sonra tarayıcınızı yeniden başlatın.
+2. adım: Önerilen tüm güncellemeleri tamamladıktan sonra tarayıcınızı yeniden başlatın.
 
 
 ;Potentially vulnerable plugins
-Potansiyel açığı olan uygulamalar
+Potansiyel açığı olan yan uygulamalar
 
 
 ;Plugin
-Plugin
+Yan uygulama
 
 
 ;Status
@@ -83,19 +83,19 @@ Eylem
 
 
 ;Outdated Plugins
-Outdated Plugins
+Eskimiş yan uygulamalar
 
 
 ;Unknown Plugins
-Unknown Plugins
+Bilinmeyen yan uygulamalar
 
 
 ;These plugins are up to date
-These plugins are up to date
+Bu yan uygulamalar güncel
 
 
 ;Back to Top
-Back to Top
+Başa dön
 
 
 ;Frequently Asked Questions
@@ -136,7 +136,7 @@ Güncellenmiş yan uygulamalar web'i sizin için <strong>daha iyi ve daha güven
 
 # alt image
 ;Screenshot of Add-Ons manager
-Screenshot of Add-Ons manager
+Eklenti yöneticisi ekran görüntüsü
 
 
 ;How can Firefox help me?
@@ -148,7 +148,7 @@ Gelecekte Firefox yan uygulamaları sizin için güncelleyecek. O zamana dek bu 
 
 
 ;Which Plugins do I have?
-Hangi yan uygulamalar yüklü?
+Tarayıcımda hangi yan uygulamalar yüklü?
 
 
 ;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
@@ -168,11 +168,11 @@ Yan uygulamalar sekmesine tıklayın.
 
 
 ;Want to spread the word?
-Want to spread the word?
+Sözümüzü yaymak ister misiniz?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+Arkadaşlarınızın internette güvende kalmasına yardımcı olun! Sitenize ekleyebileceğiniz bir yan uygulama denetimi banner'ı edinmek için <a href="%(url)s">Firefox Kardeşleri</a>'ni ziyaret edin.
 
 
 ;How do I disable a plugin?
@@ -196,7 +196,7 @@ Dikkat: Bir yan uygulamayı etkisizleştirmek, o yan uygulamanın yaptığı iş
 
 
 ;Mozilla Support
-Mozilla Support
+Mozilla Desteği
 
 
 ;Have more questions?
@@ -204,6 +204,6 @@ Başka sorularınız mı var?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
+Daha fazla yardım almak için <a href="%(sumo_url)s">support.mozilla.org</a>'u ziyaret edin!
 
 

@@ -68,7 +68,7 @@ Outros idiomas:
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%m-%d-%Y
+%m-%d-%Y {ok}
 
 
 ;Legal Notices
@@ -107,6 +107,7 @@ Funcionalidades
 Personalizar
 
 
+
 ;Download
 Transferir
 
@@ -117,15 +118,15 @@ Seguinte
 
 # MegaBytes abbreviation
 ;MB
-MB
+MB {ok}
 
 
 ;MegaBytes
-MegaBytes
+MegaBytes {ok}
 
 
 ;FAQ
-FAQ
+FAQ {ok}
 
 
 ;Videos
@@ -174,15 +175,15 @@ Formato MPEG-4
 
 
 ;Mobile
-Mobile
+Mobile {ok}
 
 
 ;Check out the new look and feel of Firefox.
-Veja a nova imagem do Firefox
+Veja o novo Firefox.
 
 
 ;View Full Site
-Ver sítio completo
+Ver o sítio completo
 
 
 ;Get Firefox for Android
@@ -190,23 +191,23 @@ Obter o Firefox para Android
 
 
 ;Download for <span>Android</span>
-Transferir para <span>Android</span>
+Transferir para o <span>Android</span>
 
 
 ;Desktop
-Desktop
+Desktop {ok}
 
 
 ;Firefox Beta for mobile
-Firefox Beta para telemóvel
+Firefox Beta para mobile
 
 
 ;Firefox for mobile
-Firefox para telemóvel
+Firefox para mobile
 
 
 ;Email
-Correio electrónico
+Correio eletrónico
 
 
 ;Super speed
@@ -214,7 +215,7 @@ Super velocidade
 
 
 ;Stunning graphics
-Gráficos fantásticos
+Fantásticos gráficos
 
 
 ;The latest technologies
@@ -222,7 +223,7 @@ As últimas tecnologias
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Precisa de atualizar! Mantenha-se seguro em menos de um minuto. <br/> Comece a usar o seu novo Firefox para o melhor na navegação e personalização da web. <br/>   É rápido e gratuito!
+Necessita de uma atualização! Mantenha-se seguro em menos de um minuto. <br/> Comece a utlizar o seu novo Firefox com o melhor da navegação e personalização da we. <br/>   É rápido e gratuito!
 
 
 ;Upgrade now
@@ -249,7 +250,7 @@ Privacidade
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Porções deste conteúdo são ©1998–%(current_year)s de contribuintes individuais da mozilla.org. Conteúdo disponível sobre <a href="%(url)s">Creative Commons license</a>.
+Porções deste conteúdo é ©1998–%(current_year)s por contribuintes individuais da mozilla.org. Conteúdo disponível sobre <a href="%(url)s">Creative Commons license</a>.
 
 
 # Footer string
@@ -264,92 +265,92 @@ Missão
 
 # Footer item on some pages to link to a tour of features
 ;Tour
-Tour
+Volta
 
 
 # Footer item
 ;Partner with Us
-Partner with Us
+Seja nosso associado
 
 
 # Top menu item on firefox/update page
 ;Performance
-Performance
+Desempenho
 
 
 # Top menu item on firefox/update page
 ;Technology
-Technology
+Tecnologia
 
 
 # Top menu item on firefox/update page
 ;Privacy &amp; Security
-Privacy &amp; Security
+Privacidade &amp; Segurança
 
 
 # Top menu item on firefox/update page
 ;Releases
-Releases
+Lançamentos
 
 
 # Top menu item on firefox/update page
 ;Overview
-Overview
+Visão global
 
 
 # Top menu item on firefox/update page
 ;Firefox
-Firefox
+Firefox {ok}
 
 
 # Top menu item on firefox/update page
 ;Firefox for Organizations
-Firefox for Organizations
+Firefox para organizações
 
 
 # Top menu item on firefox/update page
 ;Desktop Add-ons
-Desktop Add-ons
+Extras do desktop
 
 
 # Top menu item on firefox/update page
 ;Mobile Add-ons
-Mobile Add-ons
+Extras do mobile
 
 
 # Top menu item on firefox/update page
 ;Themes
-Themes
+Temas
 
 
 # Top menu item on firefox/update page
 ;Desktop Support
-Desktop Support
+Suporte do desktop
 
 
 # Top menu item on firefox/update page
 ;Mobile Support
-Mobile Support
+Suporte do mobile
 
 
 # Top menu item on firefox/update page
 ;Blog
-Blog
+Blog {ok}
 
 
 # Top menu item on firefox/update page
 ;About Firefox
-About Firefox
+Sobre o Firefox
 
 
 # Top menu item on firefox/update page
 ;Join Mozilla
-Join Mozilla
+Juntar-se à Mozilla
 
 
 # Top menu item on firefox/update page
 ;Participate
-Participate
+Participar
 
 
 # Top menu item on firefox/update page
@@ -359,11 +360,9 @@ Brand Toolkit
 
 # Top menu item on firefox/update page
 ;Partnerships
-Partnerships
+Parcerias
 
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-Get Mozilla updates
-
-
+Obter atualizações da Mozilla

@@ -1,19 +1,17 @@
-## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
-
-
+# # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 # Page <title> tag
 ;Plugin Check &amp; Updates
-Plugin Check &amp; Updates
+Ƴeewtagol Ceŋe &amp; Kesɗitine
 
 
 # This is a button telling the user to update their plugin
 ;Update Now
-Hesɗitin jooni
+Hesɗitin Jooni
 
 
 # This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
 ;Research
-Yiylo
+Wiɗtu
 
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
@@ -28,30 +26,30 @@ Ena hesɗiti
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+Maandel seŋre
 
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+anndaaka
 
 
 # This is the string used to indicate that the plugin is vulnerable
 ;vulnerable
-hisaani
+ena yaafi kisal
 
 
 # Main title
 ;Check Your Plugins
-Ƴeewto Ceŋe maa
+Ƴeewto Ceŋe Maa
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Keeping your plugins up to date helps Firefox run safely and smoothly.
+Hesɗitinde ceŋe maa ena walla Firefox ɓeydaade yamɗude e ɗaatde kuutorgol.
 
 
 ;Plugin Status
-Plugin Status
+Ngonka Ceŋe
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -59,19 +57,19 @@ Plugin Status
 
 
 ;Step 1: Click Update to update a plugin.
-Go'o: Dobo Hesɗitin ngam hesɗitinde ceŋol.
+Daawal 1: Dobo Hesɗitin ngam hesɗitinde seŋre.
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
-Ɗiɗi: Timmin kesɗitine basiyaaɗe ɗee fof hade maa hurmitinde wanngorde ndee.
+Daawal 2: Timmin kesɗitine basiyaaɗe kala hade maa hurmitinde wanngorde maa.
 
 
 ;Potentially vulnerable plugins
-Ena waawi tawa ɗee ceŋe kisaani
+Ɗee ceŋe ena mbaawi yaafɗe kisal
 
 
 ;Plugin
-Plugin
+Seŋre
 
 
 ;Status
@@ -83,23 +81,23 @@ Baɗal
 
 
 ;Outdated Plugins
-Outdated Plugins
+Ceŋe kiiɗtuɗe
 
 
 ;Unknown Plugins
-Unknown Plugins
+Ceŋe ɗe ngannaaka
 
 
 ;These plugins are up to date
-These plugins are up to date
+Ɗee ceŋe ena kesɗiti
 
 
 ;Back to Top
-Back to Top
+Rutto Dow
 
 
 ;Frequently Asked Questions
-Gerngal NaamndeDuumiiɗe
+Naamne Ɓurɗe Duumaade
 
 
 ;What is a plugin?
@@ -107,15 +105,15 @@ Hol ko woni ceŋol?
 
 
 ;Plugins power videos, animation and games
-Ceŋe cemmbinta ko widewooji, dillitte e pije.
+Ceŋe ndoognata widewooji, jirwitte e pije
 
 
 ;They're built outside of Firefox by companies like Adobe Systems and Apple
-Waɗata-ɗe ko yimɓe ɓe ngonaa e Firefox wano Adobe Systems walla Apple.
+Ko compoññe wano Adobe Systems mahata-ɗe tawa wonaa nder Firefox
 
 
 ;Plugins don't always update automatically.
-Ceŋe kesɗitintaako e jaajol.
+Ceŋe kewaani hesɗitinaade e jaajol.
 
 
 ;Why should I update my plugins?
@@ -136,7 +134,7 @@ Ceŋe kiiɗɗe <strong>ena ɓeyda tanaa</strong> ummiiɗe e ñoŋkoto, mborocce,
 
 # alt image
 ;Screenshot of Add-Ons manager
-Screenshot of Add-Ons manager
+Nokkitte Toppitorde Ceŋe
 
 
 ;How can Firefox help me?
@@ -144,11 +142,11 @@ Hol no Firefox wallirta-mi?
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
-E ko fayi arde, Firefox maa hesɗitinane ceŋe maa.  Hade ndeen, aɗa foti ƴeewtaade ngoo hello sahaa kala ngam hesɗitinde ceŋe maa ngam ɓeydude kisal.
+E ko fayi arde, Firefox maa hesɗitinane ceŋe maa. Hade ndeen, aɗa foti ƴeewtaade ngoo hello sahaa kala ngam hesɗitinde ceŋe maa ngam ɓeydude kisal.
 
 
 ;Which Plugins do I have?
-Hol ceŋe njogii-mi?
+Hol Ceŋe njogii-mi?
 
 
 ;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
@@ -156,23 +154,23 @@ Min ejtiima ceŋe maa e jaajol dow ɗoo, ngam yiyde ceŋe maa loowaaɗ e Firefox
 
 
 ;Open the Tools menu.
-Uddit dosol Kuutorɗe ngol.
+Open the Tools menu.
 
 
 ;Choose Add-ons.
-Suɓo Ɓeyditte.
+Choose Add-ons.
 
 
 ;Click the plugins tab.
-Dobo e tabbere ceŋe ndee.
+Click the plugins tab.
 
 
 ;Want to spread the word?
-Want to spread the word?
+Aɗa yiɗi humpitde woɗɓe?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+Wallu musidɓe maa hisde e enternet! Yillo <a href="%(url)s">Firefox Affiliates</a> ngam heɓde bajje ƴeewtagol ceŋe e low re maa.
 
 
 ;How do I disable a plugin?
@@ -183,27 +181,37 @@ Hol no daaƴirtu-mi ceŋol?
 E Firefox:
 
 
+;Open the Tools menu.
+Open the Tools menu.
+
+
+;Choose Add-ons.
+Choose Add-ons.
+
+
+;Click the plugins tab.
+Click the plugins tab.
+
+
 ;Click on a plugin in the list.
 Dobo e ceŋol e doggol ngol.
 
 
 ;Click the Disable button.
-Dobo e butoŋ Daaƴ.
+Dobo butoŋ Daaƴtu oo.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
-Reeto: daaƴde ceŋol firti ko a a waawataa haŋkadi waɗde won geɗe. Yeru, so a daaƴii Flash, a waawataa yeeɓde wodewooji e lowe ciiɓorɗe widewooji ɓurɗe lollude.
+Reento: daaƴde ceŋol firti ko a waawataa haŋkadi waɗde won geɗe. Yeru, so a daaƴii Flash, a waawataa yeeɓde wodewooji e YouTube.
 
 
 ;Mozilla Support
-Mozilla Support
+Wallitorde Mozilla
 
 
 ;Have more questions?
-Aɗa jogii naamnde goɗɗe?
+Aɗa jogii naamne goɗɗe?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-
-
+Yillo <a href="%(sumo_url)s">support.mozilla.org</a> ngam heɓde ballal!

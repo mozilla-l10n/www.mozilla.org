@@ -3,7 +3,7 @@
 
 # Page <title> tag
 ;Plugin Check &amp; Updates
-Plugin Check &amp; Updates
+Programtillegg-kontroll og oppdateringer
 
 
 # This is a button telling the user to update their plugin
@@ -18,7 +18,7 @@ Undersøk
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-current version plugin
+gjeldende versjon
 
 
 # This is a button informing the user that their plugin is up to date
@@ -28,12 +28,12 @@ Oppdatert
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+Programtillegg-ikon
 
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+ukjent
 
 
 # This is the string used to indicate that the plugin is vulnerable
@@ -47,19 +47,19 @@ Kontroller programtillegg
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Keeping your plugins up to date helps Firefox run safely and smoothly.
+Å holde programtilleggene oppdaterte hjelper Firefox å kjøre trygt og raskt.
 
 
 ;Plugin Status
-Plugin Status
+Status på programtillegg
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
-Programtillegg-kontroll sin <strong>støtte for Internet Explorer er begrenset</strong>. Prøv også Verktøy &gt; Administrer tillegg.
+Programtillegg-kontrollen sin <strong>støtte for Internet Explorer er begrenset</strong>. Prøv også Verktøy &gt; Administrer tillegg.
 
 
 ;Step 1: Click Update to update a plugin.
-Steg 1: Trykk på Oppdater for å oppdatere et programtillegg.
+Steg 1: Trykk Oppdater for å oppdatere et programtillegg.
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
@@ -67,11 +67,11 @@ Steg 2: Gjennomfør alle anbefalte oppdateringer før du starter nettleseren på
 
 
 ;Potentially vulnerable plugins
-Mulig sårbare utvidelser
+Mulig sårbare programtillegg
 
 
 ;Plugin
-Plugin
+Programtillegg
 
 
 ;Status
@@ -83,19 +83,19 @@ Handling
 
 
 ;Outdated Plugins
-Outdated Plugins
+Utdaterte programtillegg
 
 
 ;Unknown Plugins
-Unknown Plugins
+Ukjente programtillegg
 
 
 ;These plugins are up to date
-These plugins are up to date
+Disse programtilleggene er oppdaterte
 
 
 ;Back to Top
-Back to Top
+Tilbake til toppen
 
 
 ;Frequently Asked Questions
@@ -115,15 +115,15 @@ De er bygd utenfor Firefox av selskaper som Adobe Systems og Apple.
 
 
 ;Plugins don't always update automatically.
-Programtilleggene vil ikke alltid oppdatere seg selv automatisk.
+Programtillegg vil ikke alltid oppdatere seg selv automatisk.
 
 
 ;Why should I update my plugins?
-Hvorfor bør jeg oppdatere programtilleggene mine
+Hvorfor bør jeg oppdatere programtilleggene?
 
 
 ;Old plugins can interrupt browsing and waste your time.
-Gamle prorgamtillegg kan avbryte nettlesing og kaste bort tiden din.
+Gamle programtillegg kan avbryte nettlesing og kaste bort tiden din.
 
 
 ;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
@@ -136,7 +136,7 @@ Gamle programtillegg <strong>øker risikoen</strong> for å bli angrepet av skad
 
 # alt image
 ;Screenshot of Add-Ons manager
-Screenshot of Add-Ons manager
+Skjermbilde av utvidelsesbehandleren
 
 
 ;How can Firefox help me?
@@ -144,7 +144,7 @@ Hvordan kan Firefox hjelpe meg?
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
-I fremtiden vil Firefox oppdatere programtillegg for deg.  Inntil det skjer, bør du jevnlig sjekke denne siden og oppdatere programtillegg for å være trygg.
+I fremtiden vil Firefox oppdatere programtilleggene for deg.  Inntil det skjer, bør du jevnlig sjekke denne siden og oppdatere programtillegg for å være trygg.
 
 
 ;Which Plugins do I have?
@@ -152,7 +152,7 @@ Hvilke programtillegg har jeg?
 
 
 ;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
-Vi oppdaget automatisk hvilke programtillegg du har ovenfor. For å se hvilke programtillegg som du har installert i Firefox, følg disse stegene:
+Vi auto-oppdaget hvilke programtillegg du har ovenfor. For å se installerte programtillegg i Firefox, gjør dette:
 
 
 ;Open the Tools menu.
@@ -168,11 +168,11 @@ Trykk på Programtillegg-fanen.
 
 
 ;Want to spread the word?
-Want to spread the word?
+Vil du spre ryktet?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+Hjelp vennene dine å være trygge på nettet! Besøk <a href="%(url)s">Firefox Affiliates</a> for å få en plugin check-banner på nettstedet ditt.
 
 
 ;How do I disable a plugin?
@@ -192,11 +192,11 @@ Trykk på Slå av-knappen.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
-Advarsel: Ved å slå av en utvidelse vil du ikke lenger være i stand til å gjøre forskjellige ting. For eksempel, hvis du slår av Flash, vil du ikke kunne se videoer på populære video-nettsteder.
+Advarsel: Ved å slå av en utvidelse vil det være enkelte ting du ikke lenger kan gjøre. For eksempel dersom du slår av Flash, vil du ikke kunne se videoer på YouTube.
 
 
 ;Mozilla Support
-Mozilla Support
+Mozilla Support {ok}
 
 
 ;Have more questions?
@@ -204,6 +204,6 @@ Har du flere spørsmål?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
+Besøk <a href="%(sumo_url)s">support.mozilla.org</a> for mer hjelp!
 
 

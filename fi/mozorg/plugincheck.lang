@@ -3,7 +3,7 @@
 
 # Page <title> tag
 ;Plugin Check &amp; Updates
-Plugin Check &amp; Updates
+Liitännäisten tarkistus ja päivitys
 
 
 # This is a button telling the user to update their plugin
@@ -18,7 +18,7 @@ Tutki
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-current version plugin
+liitännäisen nykyinen versio
 
 
 # This is a button informing the user that their plugin is up to date
@@ -28,12 +28,12 @@ Ajan tasalla
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+Liitännäisen kuvake
 
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+tuntematon
 
 
 # This is the string used to indicate that the plugin is vulnerable
@@ -47,11 +47,11 @@ Tarkista liitännäisesi
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Keeping your plugins up to date helps Firefox run safely and smoothly.
+Liitännäisen pitäminen ajan tasalla auttaa Firefoxia toimimaan tasaisesti ja turvallisesti.
 
 
 ;Plugin Status
-Plugin Status
+Liitännäisten tila
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -71,7 +71,7 @@ Mahdollisesti turvattomat liitännäiset
 
 
 ;Plugin
-Plugin
+Liitännäinen
 
 
 ;Status
@@ -83,19 +83,19 @@ Toiminto
 
 
 ;Outdated Plugins
-Outdated Plugins
+Vanhentuneet liitännäiset
 
 
 ;Unknown Plugins
-Unknown Plugins
+Tuntemattomat liitännäiset
 
 
 ;These plugins are up to date
-These plugins are up to date
+Nämä liitännäiset ovat ajan tasalla
 
 
 ;Back to Top
-Back to Top
+Takaisin ylös
 
 
 ;Frequently Asked Questions
@@ -136,7 +136,7 @@ Vanhat liitännäiset lisäävät haittaohjelmien, virusten ja muiden tietoturva
 
 # alt image
 ;Screenshot of Add-Ons manager
-Screenshot of Add-Ons manager
+Ruutukaappaus Lisäosien hallinnasta
 
 
 ;How can Firefox help me?
@@ -168,11 +168,11 @@ Siirry Liitännäiset-välilehdelle.
 
 
 ;Want to spread the word?
-Want to spread the word?
+Haluatko levittää sanaa?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+Auta kavereitasi pysymään turvassa netissä! Käy <a href="%(url)s">Firefoxin tukijoiden sivustolla</a>, jolta saat lisäosien tarkistuspainikkeen sivustollesi.
 
 
 ;How do I disable a plugin?
@@ -196,7 +196,7 @@ Huom: Jos otat liitännäisen pois käytöstä, et ehkä voi enää tehdä joita
 
 
 ;Mozilla Support
-Mozilla Support
+Mozillan tukisivusto
 
 
 ;Have more questions?
@@ -204,6 +204,6 @@ Lisää kysymyksiä?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
+Käy osoitteessa <a href="%(sumo_url)s">support.mozilla.org</a>, niin saat lisätietoa!
 
 

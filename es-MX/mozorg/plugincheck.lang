@@ -3,8 +3,7 @@
 
 # Page <title> tag
 ;Plugin Check &amp; Updates
-Plugin Check &amp; Updates
-
+Comprobar plugin &amp; Actualizaciones
 
 # This is a button telling the user to update their plugin
 ;Update Now
@@ -18,9 +17,9 @@ Averiguar
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-current version plugin
+Versión actual del plugin
 
-
+ 
 # This is a button informing the user that their plugin is up to date
 ;Up to Date
 Al día
@@ -28,12 +27,12 @@ Al día
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+Icono del plugin
 
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+desconocido
 
 
 # This is the string used to indicate that the plugin is vulnerable
@@ -47,11 +46,11 @@ Revisa tus Plugins
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Keeping your plugins up to date helps Firefox run safely and smoothly.
+Mantener los plugins al actualizados ayuda a Firefox a ejecutarse de forma segura y sin problemas.
 
 
 ;Plugin Status
-Plugin Status
+Estado del Plugin
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -67,11 +66,11 @@ Paso 2: Completa todas las actualizaciones recomendadas antes de reiniciar tu na
 
 
 ;Potentially vulnerable plugins
-Plugins potencialmente Vulnerables
+Plugins potencialmente vulnerables
 
 
 ;Plugin
-Plugin
+Plugin {ok}
 
 
 ;Status
@@ -83,19 +82,19 @@ Acción
 
 
 ;Outdated Plugins
-Outdated Plugins
+Plugins viejos
 
 
 ;Unknown Plugins
-Unknown Plugins
+Plugins desconocidos
 
 
 ;These plugins are up to date
-These plugins are up to date
+Estos plugins están actualizados
 
 
 ;Back to Top
-Back to Top
+Volver inicio
 
 
 ;Frequently Asked Questions
@@ -136,7 +135,7 @@ Los plugins viejos <strong>incrementan el riesgo</strong> de ser atacado por mal
 
 # alt image
 ;Screenshot of Add-Ons manager
-Screenshot of Add-Ons manager
+Captura de pantalla del administrador de complementos
 
 
 ;How can Firefox help me?
@@ -152,11 +151,11 @@ En el futuro, Firefox actualizará los plugins por ti. Mientras tanto, debes rev
 
 
 ;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
-Arriba hemos detectado tus plugins automáticamente, para ver los plugins que tienes instalados en Firefox sigue estos pasos:
+Hemos detectado tus plugins automáticamente, para ver los plugins que tienes instalados en Firefox sigue estos pasos:
 
 
 ;Open the Tools menu.
-Abre el menú Herramientas.
+Abrir el menú Herramientas.
 
 
 ;Choose Add-ons.
@@ -168,11 +167,11 @@ Clic en la pestaña plugins.
 
 
 ;Want to spread the word?
-Want to spread the word?
+¿Quieres correr la voz?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+Ayuda a tus amigos a mantenerse seguros en línea! Visita <a href="%(url)s"> Firefox Afiliados </ a> para obtener un plugin comprueba la insignia para tu sitio
 
 
 ;How do I disable a plugin?
@@ -192,11 +191,11 @@ Clic en el botón Desactivar.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
-Atención: desactivar un plugin significa que ya no podrás hacer ciertas cosas. Por ejemplo, si desactivas Flash, ya no serás capaz de ver videos en populares sitios de video streaming.
+Atención: desactivar un plugin significa que ya no podrás hacer ciertas cosas. Por ejemplo, si desactivas Flash, ya no serás capaz de ver videos en populares sitios de video como YouTube.
 
 
 ;Mozilla Support
-Mozilla Support
+Soprte de Mozilla
 
 
 ;Have more questions?
@@ -204,6 +203,5 @@ Mozilla Support
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-
+Visita <a href="%(sumo_url)s">support.mozilla.org</a> para obtener más ayuda!
 

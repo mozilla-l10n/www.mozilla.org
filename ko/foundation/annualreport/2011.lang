@@ -64,7 +64,7 @@ PC 데스크톱에서 처럼, Mozilla는 모바일 세상의 자유, 선택과 �
 Firefox OS는 최초의 진정한 개방형 모바일 플랫폼으로 웹 개발자는 이미 HTML5를 수용해 오고 있었지만, 휴대폰에서 지금까지 HTML5 응용 프로그램을 제대로 만드려면 기기 장치에 접근할 수 있어야 하나 네이티브 앱만 할 수 있었습니다. Firefox OS가 이러한 한계를 극복하는 방법을 제공하여 필요한 <abbr title="Application Programming Interfaces">API</abbr>를 개방형 표준으로 만들어 기기를 제어할 수 있습니다.
 
 ;Firefox OS devices will launch in early 2013 through <a href="%(telefonica_url)s" rel="external">Telefónica</a>, establishing HTML5 as a viable platform for the mobile industry. The Web as the platform will free developers to create groundbreaking new apps that work seamlessly across all devices, spurring a new era of innovation and creativity for the ubiquitous Web.
-Firefox OS 기기는 2013년 초 <a  href="%(telefonica_url)s"> rel="external">Telefonica</a>를 통해 출시될 예정으로 모바일 산업의 대안 플랫폼으로 HTML5를 통한 웹 플랫폼입니다. 이 플랫폼을 통해 웹 개발자는 저렴한 비용으로 다양한 디바이스에 올릴 수 있는 웹 서비스를 만들고 새로운 시대에 맞는 창의성 및 혁신을 만들어 낼 수 있습니다.
+Firefox OS 기기는 2013년 초 <a href="%(telefonica_url)s" rel="external">Telefonica</a>를 통해 출시될 예정으로 모바일 산업의 대안 플랫폼으로 HTML5를 통한 웹 플랫폼입니다. 이 플랫폼을 통해 웹 개발자는 저렴한 비용으로 다양한 디바이스에 올릴 수 있는 웹 서비스를 만들고 새로운 시대에 맞는 창의성 및 혁신을 만들어 낼 수 있습니다.
 
 # Fast. Smart. Safe." is a slogan for Firefox for Android. It appears here as three separate strings for styling and layout purposes.
 ;Fast.
@@ -90,7 +90,7 @@ Firefox (PC용/윈도/맥/리눅스)
 Firefox는 앞으로 사람들이 Mozilla의 사명을 직접 보거나 느끼거나 접하거나 할 수 있는 역할을 담당할 것입니다.
 
 ;Firefox will always be the part of the Mozilla mission that people can see, feel and touch. We are excited by the progress and innovation we have seen with the desktop version of Firefox over the past year. Several performance and security improvements, memory enhancements make this the best Firefox yet. We're proud of the work that we're doing to make developing on Firefox easier by adding exciting tools for developers, like <a href="%(cmdline_url)s" rel="external">Developer Command Line</a>, <a href="%(console_url)s" rel="external">Web Console</a> and <a href="%(tilt_url)s" rel="external">“Tilt” the 3D Page Inspector</a>.
-Mozilla는 그동안 PC용 Firefox이 달성한 진전과 혁신에 대해서 기쁘게 생각합니다. 성능 향상 및 보안 기능에 관한 다양한 개선과 메모리 기능 확장을 통해 현재 버전은 지금까지 최고의 Firefox입니다. 특히, <a href="%(cmdline_url)s" rel="external">개발자 명령 도구</a>, <a href="%(console_url)s" rel="external">웹 콘솔</a> and <a href="%(tilt_url)s" rel="external">“Tilt” 3D 문서 검사기</a> 등을 추가하여 웹 개발자를 위한 도구를 추가했습니다.
+Firefox는 항상 사람들이 보고 느끼고 만질 수 있는 Mozilla 사명의 한 부분이 될 것입니다. Mozilla는 그동안 PC용 Firefox가 달성한 진전과 혁신에 대해서 기쁘게 생각합니다. 성능 향상 및 보안 기능에 관한 다양한 개선과 메모리 기능 확장을 통해 현재 버전은 지금까지 최고의 Firefox입니다. 특히, <a href="%(cmdline_url)s" rel="external">개발자 명령 도구</a>, <a href="%(console_url)s" rel="external">웹 콘솔</a> and <a href="%(tilt_url)s" rel="external">“Tilt” 3D 문서 검사기</a> 등과 같은 도구를 추가하여 Firefox에서 개발을 진행하는 일이 쉬워진 것에 대해 자랑스럽게 생각하고 있습니다.
  
 ;Recently, we have been experimenting with ways to integrate social functionality into Firefox. Firefox will support a new Social API that lets developers integrate social services directly into the browser. The Social API will support multiple providers and has endless potential for integrating social networks, e-mail, finance, news and other applications into your Firefox experience. Our first experimental provider is Facebook.
 최근 Firefox에 소셜 기능을 통합하는 시도가 진행 중입니다. Firefox는 새로운 소셜 API를 지원하고 개발자는 소셜 기능을 Firefox에 직접 통합할 수 있게 됩니다. 소셜 API는 여러 서비스 제공자를 지원함으로서 소셜 네트워크, 전자 메일, 재무, 뉴스 등의 애플리케이션을 Firefox 환경에 구현할 수 있는 가능성이 커집니다. Facebook은 최초로 이 기능을 구현하였습니다.
@@ -123,7 +123,7 @@ Webmaker: 동영상
 Mozilla는 앞으로 웹 표준 기술에 공헌할 것입니다.
 
 ;Mozilla has always contributed to Web standards, going back as far as the start of the project, and we will continue to do that moving forward. We <a href="%(cofound_url)s" rel="external">co-founded</a> the <a href="%(whatwg_url)s" rel="external">WHAT-WG</a> to kick off <a href="%(html5_url)s" rel="external">HTML5</a>. We are a leader in <a href="%(javascript_url)s" rel="external">JavaScript standardization</a>. We have some of the top <a href="%(dbaron_url)s" rel="external">CSS</a> and <a href="%(ocallahan_url)s" rel="external">layout</a> experts in the world.
-Mozilla는 프로젝트 시작 부터 지금까지 항상 웹 표준 기술에 공헌해 왔습니다. 앞으로도 기술의 향상을 위해 계속 노력할 것입니다. Mozilla는 <a href="%(html5_url)s" rel="external">HTML5</a> 기수을 처음 시작한 <a href="%(whatwg_url)s" rel="external">WHAT-WG</a>의 <a href="%(cofound_url)s" rel="external">공동 설립단체</a>입니다. 또한  <a href="%(javascript_url)s" rel="external">Javascript 표준화</a>의 주요 리더이며,  <a href="%(dbaron_url)s" rel="external">CSS</a>와 <a href="%(ocallahan_url)s" rel="external">레이아웃</a> 분야의 전문 그룹으로서 참여하고 있습니다.
+Mozilla는 프로젝트 시작 부터 지금까지 항상 웹 표준 기술에 공헌해 왔고 앞으로도 기술의 향상을 위해 계속 노력할 것입니다. Mozilla는 <a href="%(html5_url)s" rel="external">HTML5</a> 기수을 처음 시작한 <a href="%(whatwg_url)s" rel="external">WHAT-WG</a>의 <a href="%(cofound_url)s" rel="external">공동 설립단체</a>입니다. 또한 <a href="%(javascript_url)s" rel="external">JavaScript 표준화</a>의 주요 리더이며 <a href="%(dbaron_url)s" rel="external">CSS</a>와 <a href="%(ocallahan_url)s" rel="external">레이아웃</a> 분야의 전문 그룹으로서 참여하고 있습니다.
 
 ;Standards are a multi-vendor effort, but Mozilla is proud of the many technologies we have pioneered and submitted to standards bodies to make them interoperable for the Web as a whole. Some examples of these include geolocation, WebGL, the Gamepad API, Web Telephony and IndexedDB.
 웹 표준 규격은 여러 벤더가 서로 협력한 성과입니다만 Mozilla는  그 기술 중 많은 양을 선구자로서 직접 개발하여, 표준 단체에 제출하여 웹 전체 상호 운용을 가능하게 해 온 것을 자랑스럽게 생각합니다. Geolocation, WebGL, Gamepad API, Web Telephony, IndexedDB 등이 바로 그 사례들입니다.
@@ -141,7 +141,7 @@ Do Not Track-사용자 추적 방지
 우리가 인터넷을 이용할 때, 많은 개인 정보가 사용됩니다. 우리가 온라인상에서 누구인가를 나타내는 정보, 즉 프로파일이 됩니다. 우리가 누구이며, 무엇을 하는가 하는 정보를 어떤 조직이 감시, 기록, 저장, 사용 및 연결지어서 판매 할 수 있다는 것은 개인 및 사회에 있어 매우 커다란 영향을 끼치게 됩니다.
 
 ;In an effort to give users more control over their Web experiences, we developed the <a href="%(dnt_url)s" rel="external">Do Not Track</a> feature in Firefox. We also became the first browser manufacturer to offer it on multiple platforms, including Windows, Mac, Linux and Android. <a href="%(dntfxos_url)s" rel="external">Do Not Track is even available for Firefox OS</a> so that user privacy settings can be controlled on a system-wide level to ensure that every third-party application on a user's device respects their choice.
-사용자가 자신의 웹 경험을 스스로 제어 하는 권한을 강화하기 위해 Mozilla는 Firefox에 <a href="%(dnt_url)s" rel="external">Do Not Track</a>(행동 추적 거부) 기능을 탑재했습니다. 또,Mozilla는 이 기능을 PC 및 안드로이드 등 다양한 프랫폼에 제공하는 첫번째 브라우저 벤더가 되었습니다. <a href="%(dntfxos_url)s" rel="external">DNT는 Firefox OS에 탑재</a>되어 있기 때문에  사용자는 시스템 전체로 개인 정보 설정을 제어 할 수 있어 자신이 선택한 개인 정보 보호의 설정이 자신의 기기상 모든 애플리케이션에서 제어 가능합니다.
+사용자가 자신의 웹 경험을 스스로 제어 하는 권한을 강화하기 위해 Mozilla는 Firefox에 <a href="%(dnt_url)s" rel="external">Do Not Track</a>(행동 추적 거부) 기능을 탑재했습니다. Mozilla는 이 기능을 윈도우와 맥, 리눅스, 안드로이드와 같은 다양한 프랫폼에 제공하는 첫번째 브라우저 제작사가 되었습니다. <a href="%(dntfxos_url)s" rel="external">DNT는 Firefox OS에 탑재</a>되어 있기 때문에 사용자는 시스템 전체로 개인 정보 설정을 제어 할 수 있어 자신이 선택한 개인 정보 보호의 설정이 자신의 기기상 모든 애플리케이션에서 제어 가능합니다.
 
 ;Do Not Track is important because it gives users a voice online to express their preference for privacy and personalization. It captures the user’s intent and allows them to put their hand up and ask for privacy online.
 Do Not Track은 중요한 기능입니다. 왜냐하면 사용자는이 기능에 의해서 개인 정보와 사용자 지정에 관한 자신의 취향을 온라인상에서 웹 사이트에게 전할 수 있기 때문입니다. 이 기능을 이용하는 것에 의해서 사용자의 의지가 반영되어 사용자는 온라인상에서 개인 정보 보호를 요구하는 의지 표시를 할 수 있습니다.
@@ -153,14 +153,14 @@ Mozilla는 Stop Online Piracy Act (저작권 보호법안)과 Protect IP Act(지
 Mozilla는 다른 많은 조직과 함께 미국 의회에 SOPA/PIPA 법안의 가결에 반대해 자사의 웹 사이트를 일시적으로 폐쇄했습니다. 이것은 웹 전체에 영향을 미치는 법안에 대해서 웹 커뮤니티의 1,500 만명 이상의 사람들이 협력하고 반대 소리를 높인 첫 사건이었습니다. 이 역사적인 항의 행동은 유권자를 참가시켜 시민을 모으고 변화를 일으키는 수단으로서 웹의 중요한 전환점이 되었습니다.
 
 ;Early in 2012, Mozilla warned against the ratification of the Anti-Counterfeiting Trade Agreement (<abbr>ACTA</abbr>) by the European Parliament. <a href="%(acta_url)s" rel="external">In a blog post</a>, Mitchell Baker urged the policymakers that opaque processes were a “bad way to develop Internet policy” — in particular, that the global trade agreement was negotiated in private without open involvement of all the stakeholders. After massive street protests of Net-savvy citizens across Europe, the European Parliament rejected ACTA on July 4th in an unequivocal vote.
-2012년 초 Mozilla는 유럽 의회에 의한 Anti-Counterfeiting Trade Agreement(모방품·해적판 확산 방지 조약,ACTA)의 비준에 반대하는 경고를 했습니다. Mitchell Baker 의장은 <a href="%(acta_url)s" rel="external">블로그 투고</a>를 통해 불투명한 프로세스는 「인터넷 정책을 만드려는 잘못된 방법」이며, 특히, 글로벌 거래 협정이 모든 이해관계자의 개방적인 관여없이 비공식 교섭을 한 것은 부적절하다라며 정치가들에게 호소했습니다. 유럽 전역에서 인터넷에 관심 있는 사람들에 의한 대규모 가두 항의를 한 결과 유럽 의회는 7월 4일에 큰 차이로 ACTA을 부결했습니다.
+2012년 초 Mozilla는 유럽 의회에 의한 Anti-Counterfeiting Trade Agreement(모방품/해적판 확산 방지 조약, ACTA)의 비준에 반대하는 경고를 했습니다. Mitchell Baker 의장은 <a href="%(acta_url)s" rel="external">블로그 투고</a>를 통해 불투명한 프로세스는 “인터넷 정책을 만드려는 잘못된 방법”이며, 특히, 글로벌 거래 협정이 모든 이해관계자의 개방적인 관여없이 비공식 교섭을 한 것은 부적절하다라며 정치가들에게 호소했습니다. 유럽 전역에서 인터넷에 관심 있는 사람들에 의한 대규모 가두 항의를 한 결과 유럽 의회는 7월 4일에 큰 차이로 ACTA을 부결했습니다.
 
 ;Collusion
 Collusion 프로젝트
 
 
 ;<a href="%(collusion_url)s" rel="external">Mozilla Collusion</a> gives consumers a powerful tool to protect their privacy, arming them with transparency, facts and the power to make their own decisions about how their personal data is shared and used. Made possible with the support of the Ford Foundation, Collusion allows users to see who is tracking them across the Web. It shows, in real time, how that data creates a spider-web of interaction between companies and other trackers.
-<a href="%(collusion_url)s" rel="external">Mozilla Collusion</a>은 개인 사용자가 자신의 개인 정보를 지키기 위하고 온라인 개인 정보의 투명성이나 현실을 알 수 있는 강력한 도구입니다. 어떻게 자신의 개인정보가 사용되어 공유되는지를 스스로 결정하는 힘을 갖게하는 것이기도 합니다. . 포드 재단의 지원을 받아서 구현한 Collusion을 사용하면, 사용자는 웹 상에서 누가 자신을 추적하는지 확인할 수 있습니다. 그 데이터가 기업이나 다른 추적자와의 사이에 교환되는 모습이, 거미줄 처럼 실시간에 표시됩니다.
+<a href="%(collusion_url)s" rel="external">Mozilla Collusion</a>은 개인 사용자가 자신의 개인 정보를 지키기 위하고 온라인 개인 정보의 투명성이나 현실을 알 수 있는 강력한 도구입니다. 어떻게 자신의 개인정보가 사용되어 공유되는지를 스스로 결정하는 힘을 갖게하는 것이기도 합니다. 포드 재단의 지원을 받아서 구현한 Collusion을 사용하면, 사용자는 웹 상에서 누가 자신을 추적하는지 확인할 수 있습니다. 그 데이터가 기업이나 다른 추적자와의 사이에 교환되는 모습이 거미줄처럼 실시간으로 표시됩니다.
 
 
 ;Firefox Flicks

@@ -1,204 +1,133 @@
-## active ##
+## NOTE: demo server for new home page is https://www-demo3.allizom.org/?v=1
+
 
 ;Home of the Mozilla Project
 Home of the Mozilla Project
 
 
-;We are <img src="%(img)s" alt="Mozilla" height="92" width="348">
-We are <img src="%(img)s" alt="Mozilla" height="92" width="348">
+# Used as a label for a button that scrolls through latest news.
+;Next article
+Next article
+
+
+# Used as a label for a button that scrolls through latest news.
+;Previous article
+Previous article
+
+
+# The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
+;We are %(mozilla_wordmark)s
+We are %(mozilla_wordmark)s
 
 
 ;Doing good is part of our code
 Doing good is part of our code
 
 
-;Different by&nbsp;Design
-Different by&nbsp;Design
+;Get involved
+Get involved
 
 
-;Proudly <br> non-profit
-Proudly <br> non-profit
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Explore</i> our mission
+<i>Explore</i> our mission
 
 
-;Innovating <br> for&nbsp;you
-Innovating <br> for&nbsp;you
+;Our principles guide us
+Our principles guide us
 
 
-;Fast,&nbsp;flexible, <br> secure
-Fast,&nbsp;flexible, <br> secure
+;We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
+We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
+
+
+;Read more about our mission
+Read more about our mission
+
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Look</i> ahead
+<i>Look</i> ahead
+
 
 
 ;Look ahead
 Look ahead
 
 
-;Firefox OS lets you live every moment to its fullest and build a brighter future for the Web.
-Firefox OS lets you live every moment to its fullest and build a brighter future for the Web.
+ 
+;We‘re bringing more people to the Web in more ways and from more places than ever before.
+We‘re bringing more people to the Web in more ways and from more places than ever before.
 
 
-;Find out how
-Find out how
+;Learn more about Firefox OS
+Learn more about Firefox OS
 
 
-;Did you know?
-Did you know?
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Join</i> our community
+<i>Join</i> our community
 
 
-;From June 15 &ndash; September 15, thousands of Mozillians worldwide are throwing parties to make and share amazing projects.
-From June 15 &ndash; September 15, thousands of Mozillians worldwide are throwing parties to make and share amazing projects.
+#This <br> is strictly for visual formatting; translations can omit or reposition as needed.
+;Join our<br> developer community
+Join our<br> developer community
 
 
-;Join us
-Join us
+;Get docs and demos, tools and tutorials and everything related to the Open Web.
+Get docs and demos, tools and tutorials and everything related to the Open Web.
 
 
-;Firefox Flicks
-Firefox Flicks
+;Visit the Mozilla Developer Network
+Visit the Mozilla Developer Network
 
 
-;Congratulations to our winners
-Congratulations to our winners
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Forge</i> the future
+<i>Forge</i> the future
 
 
-;The votes are in and we‘re excited to present the winners of Firefox Flicks 2013. Thanks to everyone who entered!
-The votes are in and we‘re excited to present the winners of Firefox Flicks 2013. Thanks to everyone who entered!
+;Mozilla Festival
+Mozilla Festival
+
+ 
+# This <br> is strictly for visual formatting; translations can omit or reposition as needed.
+;Forge the future<br> of the Web
+Forge the future<br> of the Web
 
 
-;Watch the winning flicks
-Watch the winning flicks
+;Learn from some of the most passionate thinkers and inventors from around the world.
+Learn from some of the most passionate thinkers and inventors from around the world.
 
 
-;Play Video
-Play Video
+;Come to the Mozilla Festival
+Come to the Mozilla Festival
 
 
-;Visit FirefoxFlicks.org
-Visit FirefoxFlicks.org
-
-
-;Share on Facebook
-Share on Facebook
-
-
-;Tweet
-Tweet
-
-
-;I just watched the winning video in the #FirefoxFlicks contest. See all the winning flicks for yourself!
-I just watched the winning video in the #FirefoxFlicks contest. See all the winning flicks for yourself!
-
-
-;Share
-Share
-
-
-;Replay
-Replay
-
-
-;Continue
-Continue
-
-
-;Close
-Close
-
-
-;Fast. Smart. Safe.
-Fast. Smart. Safe.
-
-
-;Get the mobile browser that’s got your back.
-Get the mobile browser that’s got your back.
-
-
-;Get Firefox for Android
-Get Firefox for Android
+;Different by&nbsp;design
+Different by&nbsp;design
 
 
 ;In the news
 In the news
 
 
-;Telefonica Announces Launches of First Firefox OS Devices in Latin America
-Telefonica Announces Launches of First Firefox OS Devices in Latin America
+;See all news
+See all news
 
 
-;Deutsche Telekom Announces European Launch of Firefox OS Devices
-Deutsche Telekom Announces European Launch of Firefox OS Devices
+;Get involved
+Get involved
 
 
-;Mozilla and partners prepare to launch first Firefox OS smartphones
-Mozilla and partners prepare to launch first Firefox OS smartphones
+;Help launch Firefox OS in your country.
+Help launch Firefox OS in your country.
 
 
-;See all news »
-See all news »
+;Become a Mobilizer today.
+Become a Mobilizer today.
 
 
-;In the know
-In the know
-
-
-;See what’s next for the mobile Web.
-See what’s next for the mobile Web.
-
-
-;Become an Affiliate
-Become an Affiliate
-
-
-;Help us share Firefox with the world!
-Help us share Firefox with the world!
-
-
-;Launch your app on the web
-Launch your app on the web
-
-
-;Be a part of Mozilla
-Be a part of Mozilla
-
-
-;Volunteer with us
-Volunteer with us
-
-
-;Get involved in any area of the Mozilla Project.
-Get involved in any area of the Mozilla Project.
-
-
-;Work with us
-Work with us
-
-
-;Apply today and love the Web for a living.
-Apply today and love the Web for a living.
-
-
-;Find us
-Find us
-
-
-;Contact one of our global Mozilla Spaces.
-Contact one of our global Mozilla Spaces.
-
-
-;Donate
-Donate
-
-
-;Show your support and help us build a better Web.
-Show your support and help us build a better Web.
-
-
-;Learn more
-Learn more
-
-
-;Get to know Mozilla a little bit better.
-Get to know Mozilla a little bit better.
-
-
-;Go
-Go
+;You don’t have to know how to code to get involved with Mozilla. <a href="%s">Learn more about our volunteer opportunities</a>.
+You don’t have to know how to code to get involved with Mozilla. <a href="%s">Learn more about our volunteer opportunities</a>.

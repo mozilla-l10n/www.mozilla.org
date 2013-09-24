@@ -1,204 +1,133 @@
 ## active ##
+## NOTE: demo server for new home page is https://www-demo3.allizom.org/?v=1
+
 
 ;Home of the Mozilla Project
 Hemvist för Mozilla-projektet
 
 
-;We are <img src="%(img)s" alt="Mozilla" height="92" width="348">
-Vi är <img src="%(img)s" alt="Mozilla" height="92" width="348">
+# Used as a label for a button that scrolls through latest news.
+;Next article
+Next article
+
+
+# Used as a label for a button that scrolls through latest news.
+;Previous article
+Previous article
+
+
+# The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
+;We are %(mozilla_wordmark)s
+We are %(mozilla_wordmark)s
 
 
 ;Doing good is part of our code
 Att göra gott är en del av vår kod
 
 
-;Different by&nbsp;Design
-Annorlunda <br> från&nbsp;grunden
+;Get involved
+Get involved
 
 
-;Proudly <br> non-profit
-Ideell <br> och&nbsp;stolt
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Explore</i> our mission
+<i>Explore</i> our mission
 
 
-;Innovating <br> for&nbsp;you
-Nyskapande <br> för&nbsp;din&nbsp;skull
+;Our principles guide us
+Our principles guide us
 
 
-;Fast,&nbsp;flexible, <br> secure
-Snabb,&nbsp;flexibel <br> och&nbsp;säker
+;We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
+We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
+
+
+;Read more about our mission
+Read more about our mission
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Look</i> ahead
+<i>Look</i> ahead
 
 
 ;Look ahead
 Blicka framåt
 
 
-;Firefox OS lets you live every moment to its fullest and build a brighter future for the Web.
-Firefox OS låter dig få ut allt du kan av varje ögonblick och bygga en ljusare framtid för webben.
+;We‘re bringing more people to the Web in more ways and from more places than ever before.
+We‘re bringing more people to the Web in more ways and from more places than ever before.
 
 
-;Find out how
-Ta reda på hur
+;Learn more about Firefox OS
+Learn more about Firefox OS
 
 
-;Did you know?
-Visste du det?
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Join</i> our community
+<i>Join</i> our community
 
 
-;From June 15 &ndash; September 15, thousands of Mozillians worldwide are throwing parties to make and share amazing projects.
-Mellan 15 juni och 15 september arrangerar tusentals mozillianer världen över fester, där man skapar och delar fantastiska projekt.
+# This <br> is strictly for visual formatting; translations can omit or reposition as needed.
+;Join our<br> developer community
+Join our<br> developer community
 
 
-;Join us
-Bli en av oss
+;Get docs and demos, tools and tutorials and everything related to the Open Web.
+Get docs and demos, tools and tutorials and everything related to the Open Web.
 
 
-;Firefox Flicks
-Firefox Flicks
+;Visit the Mozilla Developer Network
+Visit the Mozilla Developer Network
 
 
-;Congratulations to our winners
-Grattis till våra vinnare
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Forge</i> the future
+<i>Forge</i> the future
 
 
-;The votes are in and we‘re excited to present the winners of Firefox Flicks 2013. Thanks to everyone who entered!
-Omröstningen är klar och vi är glada att presentera vinnarna av Firefox Flicks 2013. Tusen tack till alla som deltog!
+;Mozilla Festival
+Mozilla Festival
 
 
-;Watch the winning flicks
-Titta på de vinnande filmerna
+# This <br> is strictly for visual formatting; translations can omit or reposition as needed.
+;Forge the future<br> of the Web
+Forge the future<br> of the Web
 
 
-;Play Video
-Spela upp video
+;Learn from some of the most passionate thinkers and inventors from around the world.
+Learn from some of the most passionate thinkers and inventors from around the world.
 
 
-;Visit FirefoxFlicks.org
-Gå till FirefoxFlicks.org
+;Come to the Mozilla Festival
+Come to the Mozilla Festival
 
 
-;Share on Facebook
-Dela på Facebook
+;Different by&nbsp;design
+Different by&nbsp;design
 
 
-;Tweet
-Twittra
-
-
-;I just watched the winning video in the #FirefoxFlicks contest. See all the winning flicks for yourself!
-Jag såg precis det vinnande bidraget i filmtävlingen #FirefoxFlicks. Titta på de vinnande filmerna du också!
-
-
-;Share
-Dela
-
-
-;Replay
-Spela upp igen
-
-
-;Continue
-Fortsätt
-
-
-;Close
-Stäng
-
-
-;Fast. Smart. Safe.
-Snabb. Smart. Säker.
-
-
-;Get the mobile browser that’s got your back.
-Hämta mobilwebbläsaren som är på din sida.
-
-
-;Get Firefox for Android
-Hämta Firefox för Android
-
-
+# This string is displayed only for locales with a press agency blog
 ;In the news
 Nyheter
 
 
-;Telefonica Announces Launches of First Firefox OS Devices in Latin America
-Telefónica tillkännager lansering av de första Firefox OS-enheterna i Latinamerika
+# This string is displayed only for locales with a press agency blog
+;See all news
+See all news
 
 
-;Deutsche Telekom Announces European Launch of Firefox OS Devices
-Deutsche Telekom tillkännager lansering av Firefox OS-enheter i Europa
+# This string is displayed only for locales where we launch Firefox OS soon
+;Help launch Firefox OS in your country.
+Help launch Firefox OS in your country.
 
 
-;Mozilla and partners prepare to launch first Firefox OS smartphones
-Mozilla med samarbetspartner förbereder lansering av de första smarttelefonerna med Firefox OS
+# This string is displayed only for locales where we launch Firefox OS soon
+;Become a Mobilizer today.
+Become a Mobilizer today.
 
 
-;See all news »
-Se alla nyheter »
+;You don’t have to know how to code to get involved with Mozilla. <a href="%s">Learn more about our volunteer opportunities</a>.
+Du behöver inte kunna skriva kod för att engagera dig i Mozilla. <a href="%s">Läs mer om hur du kan arbeta som volontär för oss</a>.
 
 
-;In the know
-Håll dig informerad
-
-
-;See what’s next for the mobile Web.
-Se vad som är på gång för den mobila webben.
-
-
-;Become an Affiliate
-Bli en samarbetspartner
-
-
-;Help us share Firefox with the world!
-Hjälp oss att dela Firefox med resten av världen!
-
-
-;Launch your app on the web
-Kör din app på webben
-
-
-;Be a part of Mozilla
-Bli en del av Mozilla
-
-
-;Volunteer with us
-Engagera dig ideellt
-
-
-;Get involved in any area of the Mozilla Project.
-Engagera dig inom något av Mozilla-projektets områden.
-
-
-;Work with us
-Arbeta hos oss
-
-
-;Apply today and love the Web for a living.
-Ansök idag och få betalt för att älska webben.
-
-
-;Find us
-Här hittar du oss
-
-
-;Contact one of our global Mozilla Spaces.
-Kontakta ett av våra globala Mozilla Spaces-kontor.
-
-
-;Donate
-Donera
-
-
-;Show your support and help us build a better Web.
-Visa ditt stöd och hjälp oss att bygga en bättre webb.
-
-
-;Learn more
-Läs mer
-
-
-;Get to know Mozilla a little bit better.
-Lär känna Mozilla lite bättre.
-
-
-;Go
-Gå

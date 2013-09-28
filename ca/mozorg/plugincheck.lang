@@ -3,7 +3,7 @@
 
 # Page <title> tag
 ;Plugin Check &amp; Updates
-Plugin Check &amp; Updates
+Comprovació i actualització dels connectors
 
 
 # This is a button telling the user to update their plugin
@@ -18,7 +18,7 @@ Cerca
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-current version plugin
+versió actual del connector
 
 
 # This is a button informing the user that their plugin is up to date
@@ -28,12 +28,12 @@ Actualitzat
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+Icona del connector
 
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+desconegut
 
 
 # This is the string used to indicate that the plugin is vulnerable
@@ -47,11 +47,11 @@ Comproveu els connectors
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Keeping your plugins up to date helps Firefox run safely and smoothly.
+Mantenir els connectors actualitzats ajuda que el Firefox funcioni millor i sigui segur.
 
 
 ;Plugin Status
-Plugin Status
+Estat dels connectors
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -63,7 +63,7 @@ Pas 1: Feu clic a Actualitza per actualitzar un connector.
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
-Pas 2: Acabeu amb les actualitzacions recomanades abans de reiniciar el navegador.
+Pas 2: Completeu les actualitzacions recomanades abans de reiniciar el navegador.
 
 
 ;Potentially vulnerable plugins
@@ -71,7 +71,7 @@ Connectors amb risc potencial
 
 
 ;Plugin
-Plugin
+Connector
 
 
 ;Status
@@ -83,19 +83,19 @@ Acció
 
 
 ;Outdated Plugins
-Outdated Plugins
+Connectors desactualitzats
 
 
 ;Unknown Plugins
-Unknown Plugins
+Connectors desconeguts
 
 
 ;These plugins are up to date
-These plugins are up to date
+Aquests connectors estan actualitzats
 
 
 ;Back to Top
-Back to Top
+Torna a dalt
 
 
 ;Frequently Asked Questions
@@ -136,7 +136,7 @@ Els connectors antics <strong>incrementen el risc</strong> d'atacs per programar
 
 # alt image
 ;Screenshot of Add-Ons manager
-Screenshot of Add-Ons manager
+Captura de pantalla del gestor de complements
 
 
 ;How can Firefox help me?
@@ -172,7 +172,7 @@ Want to spread the word?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+Ajudeu els vostres amics a mantenir-se segurs en línia! Visiteu els <a href="%(url)s">afiliats de Firefox</a> per obtenir l'acreditació de verificació de connectors pel vostre lloc web.
 
 
 ;How do I disable a plugin?
@@ -196,7 +196,7 @@ Compte! Inhabilitar un connector vol dir que no podreu fer algunes coses. Per ex
 
 
 ;Mozilla Support
-Mozilla Support
+Ajuda de Mozilla
 
 
 ;Have more questions?
@@ -204,6 +204,6 @@ Alguna pregunta més?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
+Visiteu <a href="%(sumo_url)s">support.mozilla.org</a> per a més ajuda.
 
 

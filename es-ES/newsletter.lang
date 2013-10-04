@@ -1,4 +1,5 @@
-## active ##
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
 ;Get Monthly News
 Obtener noticias mensuales
 
@@ -28,7 +29,7 @@ Elige un país
 
 
 ;Country:
-País:
+País
 
 
 ;Whoops! Be sure to enter a valid email address.
@@ -36,11 +37,11 @@ País:
 
 
 ;Please read the Mozilla Privacy Policy and agree by checking the box.
-Lee la Política de privacidad de Mozilla y acéptala marcando la casilla.
+Lee la política de privacidad de Mozilla y acéptala marcando la casilla.
 
 
 ;I agree to the <a href="%s">Privacy Policy</a>
-Acepto la <a href="%s">Política de privacidad</a>
+Acepto la <a href="%s">política de privacidad</a>
 
 
 ;Sign me up!
@@ -62,10 +63,8 @@ Estamos deseando comenzar a compartir contigo trucos y consejos sobre cómo saca
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Suscríbete para recibir actualizaciones mensuales y estar al día de las novedades de Firefox, con los últimos trucos y consejos para sacar el máximo partido a tu navegador. ¡Es la forma perfecta de que sigamos en contacto contigo!
 
-
 ;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
 Te enviamos un mensaje de confirmación por correo. Haz clic en el enlace de confirmación para validar tu suscripción a esta lista de correo.
-
 
 ;Read all about it in our <span>newsletter</span>
 ¡Lee toda la información sobre Firefox en <span>nuestro boletín!</span>
@@ -74,44 +73,34 @@ Te enviamos un mensaje de confirmación por correo. Haz clic en el enlace de con
 ;Your newsletter subscription has been confirmed.
 Se ha confirmado tu suscripción al boletín.
 
-
 ;Format
 Formato
 
-
 ;You’re All Set! <span>But Wait, There’s More</span>
-¡Ya estás listo! <span>Pero espera, hay más</span>
+¡Ya está todo listo! <span>Pero espera, hay más</span>
 
 
 ;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
 ¿Deseas recibir la info más relevante? Cuéntanos un poco más de ti. Y ya que estás, suscríbete a otras noticias de Mozilla.
 
-
 ;Firefox & You
 Firefox y Tú
-
 
 ;Our Other Newsletters:
 Otros boletines de Mozilla:
 
-
 ;Get the latest tips and tricks for getting the most out of your favorite browser.
 Recibe los últimos trucos y consejos sobre cómo sacar el máximo partido a tu navegador favorito.
-
 
 ;Firefox Mobile
 Firefox para dispositivos móviles
 
-
 ;Learn about the hottest new add-ons and features for Firefox mobile.
 Conoce los nuevos complementos y características más populares en Firefox para dispositivos móviles.
-
 
 ;Beta News
 Noticias Beta
 
-
-# Description for the newsletter in Newsletter subscription page
 ;Read about the latest features for Firefox desktop and mobile before the final release.
 Lee todo acerca de las últimas características en Firefox para escritorio y dispositivos móviles antes de que se publique la versión final.
 
@@ -147,14 +136,12 @@ Darme de baja de todos los correos de Mozilla
 ;Save Preferences
 Guardar preferencias
 
-
 ;Thanks for updating your email preferences.
 Gracias por actualizar tus preferencias de correo.
 
 
 ;You've been unsubscribed.
 Has cancelado tu suscripción.
-
 
 ;We’re sorry to see you go. Would you mind telling us why you’re leaving?
 Lamentamos que te vayas. ¿Te importaría contarnos por qué te marchas?
@@ -182,7 +169,6 @@ Prefiero seguir en contacto con Mozilla en Facebook y Twitter.
 
 ;Submit
 Enviar
-
 
 ;Thanks for telling us why you’re leaving.
 Gracias por contarnos por qué te vas.
@@ -213,14 +199,13 @@ Recibir noticias de Firefox
 ;YOUR EMAIL HERE
 TU CORREO AQUÍ
 
-
 # Button
 ;Sign me up
 Suscribirme
 
 
 ;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
-Me parece bien que se gestione esta información según se indica en la <a href="%s">Política de privacidad</a>
+Me parece bien que se gestione esta información según se indica en la <a href="%s">política de privacidad</a>
 
 
 ;The supplied link has expired. You will receive a new one in the next newsletter.
@@ -260,11 +245,11 @@ Lamentamos que te vayas.
 
 
 ;Other…
-Otra…
+Otra razón...
 
 
 ;While here, why not check out some more Firefox awesomeness.
-Ya que estás aquí, por qué no descubres más cosas de Firefox que te sorprenderán.
+Ya que estás aquí, por qué no descubres más cosas de Firefox que te sorprenderán
 
 
 ;Get up and go
@@ -305,61 +290,67 @@ Acerca de nosotros
 
 # Description for the newsletter in Newsletter subscription page
 ;A monthly newsletter packed with tips to improve your Firefox experience.
-A monthly newsletter packed with tips to improve your Firefox experience.
+Un boletín mensual repleto de consejos para mejorar tu experiencia Firefox.
 
 
 # Description for the newsletter in Newsletter subscription page
 ;Tips and tricks to use Firefox on your Android phone.
-Tips and tricks to use Firefox on your Android phone.
+Consejos y trucos para usar Firefox en tu teléfono Android.
 
 
 # Description for the newsletter in Newsletter subscription page
 ;Firefox OS news, tips, launch information and where to buy.
-Firefox OS news, tips, launch information and where to buy.
+Noticias, información sobre el lanzamiento y dónde comprar Firefox&nbsp;OS.
 
 
 # Description for the newsletter in Newsletter subscription page
 ;Discover the latest, coolest HTML5 apps on Firefox OS.
-Discover the latest, coolest HTML5 apps on Firefox OS.
+Descubre las últimas y más increíbles aplicaciones HTML5 en Firefox&nbsp;OS.
 
 
 # Description for the newsletter in Newsletter subscription page
 ;Get a weekly tip on how to super-charge your Firefox experience.
-Get a weekly tip on how to super-charge your Firefox experience.
+Recibe un consejo semanal sobre cómo recargar tu experiencia Firefox.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Lee todo acerca de las últimas características en Firefox para escritorio y dispositivos móviles antes de que se publique la versión final.
 
 
 # Description for the newsletter in Newsletter subscription page
 ;News from the Mozilla Project.
-News from the Mozilla Project.
+Noticias del Proyecto Mozilla.
 
 
 # Description for the newsletter in Newsletter subscription page
 ;Periodic email updates about our annual international film competition.
-Periodic email updates about our annual international film competition.
+Actualizaciones periódicas por correo sobre nuestro concurso cinematográfico internacional anual.
 
 
 # Description for the newsletter in Newsletter subscription page
 ;A monthly newsletter to keep you up to date with the Firefox Affiliates program.
-A monthly newsletter to keep you up to date with the Firefox Affiliates program.
+Un boletín mensual para mantenerte al día sobre el programa Firefox Affiliates.
 
 
 # Description for the newsletter in Newsletter subscription page
 ;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
-News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
+Noticias para desarrolladores acerca de Firefox&nbsp;OS, Firefox Marketplace y el ecosistema de aplicaciones de la Web abierta.
 
 
 # Description for the newsletter in Newsletter subscription page
 ;Email updates for vouched Mozillians on mozillians.org.
-Email updates for vouched Mozillians on mozillians.org.
+Actualizaciones por correo para mozilleros recomendados en mozillians.org.
 
 
 # Description for the newsletter in Newsletter subscription page
 ;A monthly newsletter on how to get involved with Mozilla on your campus.
-A monthly newsletter on how to get involved with Mozilla on your campus.
+Un boletín mensual sobre cómo colaborar con Mozilla en tu campus.
 
 
 # Description for the newsletter in Newsletter subscription page
 ;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
-Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
+Un anterior programa universitario de 2008 a 2011, ahora suprimido y relanzado como el programa Firefox Student Ambassadors.
+
 
 

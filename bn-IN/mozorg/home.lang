@@ -2,135 +2,130 @@
 
 
 ;Home of the Mozilla Project
-Home of the Mozilla Project
+Mozilla প্রজেক্টের হোম
 
 
 # Used as a label for a button that scrolls through latest news.
 ;Next article
-Next article
-
+পরবর্তী নিবন্ধ
 
 # Used as a label for a button that scrolls through latest news.
 ;Previous article
-Previous article
+পূর্ববর্তী নিবন্ধ
 
 
 # The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
 ;We are %(mozilla_wordmark)s
-We are %(mozilla_wordmark)s
+আমরা %(mozilla_wordmark)s
 
 
 ;Doing good is part of our code
-Doing good is part of our code
-
+ভালো কাজ আমাদের কোডের অংশ
 
 ;Get involved
-Get involved
+জড়িত হন
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Explore</i> our mission
-<i>Explore</i> our mission
+<i>এক্সপ্লোর</i> আমাদের লক্ষ্য
 
 
 ;Our principles guide us
-Our principles guide us
+আমাদের নীতি আমাদেরকে গাইড করে
 
 
 ;We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
-We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
+আমরা একটি আন্তর্জাতিক সম্প্রদায় প্রায়ুক্তিবিদ,চিন্তাবিদদের এবং বিল্ডারদের, ইন্টারনেট জীবিত এবং প্রবেশযোগ্য রাখতে কাজ করী চলেছি ।
 
 
 ;Read more about our mission
-Read more about our mission
+আমাদের লক্ষ্য সম্বন্ধে আরও বেশি পড়ুন
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Look</i> ahead
-<i>Look</i> ahead
+<i>দেখুন</i> এগিয়ে যান
 
 
 ;Look ahead
-Look ahead
+এগিয়ে তাকান
 
 
 ;We‘re bringing more people to the Web in more ways and from more places than ever before.
-We‘re bringing more people to the Web in more ways and from more places than ever before.
+আমরা আরও উপায়ে এবং আগের তুলনায় আরো জায়গা থেকে ওয়েবে আরও অনেক বেশি মানুষের আনছি ।
 
 
 ;Learn more about Firefox OS
-Learn more about Firefox OS
+Firefox OS সম্পর্কে আরও জানুন
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Join</i> our community
-<i>Join</i> our community
+<i>যোগদান করুন</i> আমাদের সম্প্রদায়
 
 
 # This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 ;Join our<br> developer community
-Join our<br> developer community
+যোগদান করুন অামাদের <br> ডেভলোপার সম্প্রদায়
 
 
 ;Get docs and demos, tools and tutorials and everything related to the Open Web.
-Get docs and demos, tools and tutorials and everything related to the Open Web.
-
+ডক্স এবং ডেমোস, সরঞ্জাম ও টিউটোরিয়াল এবং ওপেন ওয়েব সম্পর্কিত সবকিছু পান ।
 
 ;Visit the Mozilla Developer Network
-Visit the Mozilla Developer Network
+দেখুন  Mozilla Developer Network
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Forge</i> the future
-<i>Forge</i> the future
+<i>ফোজ</i> ভবিষ্যতে
 
 
 ;Mozilla Festival
-Mozilla Festival
+Mozilla Festival {ok}
 
 
 # This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 ;Forge the future<br> of the Web
-Forge the future<br> of the Web
+ভবিষ্যতে ফোজ করুন <br> ওয়েব
 
 
 ;Learn from some of the most passionate thinkers and inventors from around the world.
-Learn from some of the most passionate thinkers and inventors from around the world.
-
+সারা বিশ্ব থেকে সবচেয়ে উত্সাহী চিন্তাবিদদের এবং আবিষ্কর্তাদের কিছু থেকে জানুন.
 
 ;Come to the Mozilla Festival
-Come to the Mozilla Festival
+অাসেন Mozilla Festival-এ
 
 
 ;Different by&nbsp;design
-Different by&nbsp;design
+বিভিন্ন &nbsp;নকশা 
 
 
 # This string is displayed only for locales with a press agency blog
 ;In the news
-In the news
+খবর
 
 
 # This string is displayed only for locales with a press agency blog
 ;See all news
-See all news
+সব খবর দেখুন
 
 
 # This string is displayed only for locales where we launch Firefox OS soon
 ;Help launch Firefox OS in your country.
-Help launch Firefox OS in your country.
-
+আপনার দেশে Firefox OS আরম্ভ করতে সহায়তা করুন 
 
 # This string is displayed only for locales where we launch Firefox OS soon
 ;Become a Mobilizer today.
-Become a Mobilizer today.
+অাজ অাপনি Mobilizer হয়ে উঠুন ।
 
 
 ;You don’t have to know how to code to get involved with Mozilla. <a href="%s">Learn more about our volunteer opportunities</a>.
-You don’t have to know how to code to get involved with Mozilla. <a href="%s">Learn more about our volunteer opportunities</a>.
+Mozilla সঙ্গে জড়িত হতে অাপনাকে কোড জানতে হবে না <a href="%s">আমাদের স্বেচ্ছাসেবক সুযোগ সম্পর্কে আরও জানুন</a>.
 
 
 ;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
-Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
+ধন্যবাদ , আমাদের আন্তর্জাতিক সম্প্রদায়কে, Mozilla প্রোডাক্টগুলি and ওয়েবসাইটগুলি পাওয়া যায় 70 ভাষাতে. <a href="%(link_l10n)s">সাহায্য করুন অনুবাদ করতে এগুলি আপনারটিতে </a>.
 
 

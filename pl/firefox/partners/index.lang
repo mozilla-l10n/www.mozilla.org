@@ -14,27 +14,27 @@ Pomóż nam
 Aby pomóc, skontaktuj się z zespołem rozwoju biznesu.
 
 
-# Field
+# Form field
 ;First Name
 Imię
 
 
-# Field
+# Form field
 ;Last Name
 Nazwisko
 
 
-# Field
+# ex: president, CEO...
 ;Title
 Zwrot
 
 
-# Field
+# Form field
 ;Company
 Firma
 
 
-# Field
+# Form field
 ;Website
 Adres WWW
 
@@ -44,11 +44,12 @@ Adres WWW
 Adres e-mail
 
 
-# Field
+# Form field
 ;Phone
 Telefon
 
 
+# Form field
 ;Interest:
 Zainteresowanie:
 
@@ -66,11 +67,6 @@ Inne
 # Tooltip for selected options
 ;Interest
 Zainteresowanie
-
-
-# Comment field default text
-;Comments or questions?
-Komentarze lub pytania?
 
 
 # Submit button text
@@ -101,11 +97,6 @@ Przejrzyj witrynę
 Wypal własną ścieżkę
 
 
-;We’re enabling operators, phone manufacturers and developers to manage, customize and own relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
-Umożliwiamy operatorom, producentom telefonów oraz programistom kontrolę i modyfikację ich relacji z klientami bezpośrednio przez nasze mobilne produkty: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> i <a %(url3)s>Firefoksa na Androida</a>.
-
-
-# This is exactly the same string as above but the verb 'own' was changed to 'improve'
 ;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
 Umożliwiamy operatorom, producentom telefonów oraz programistom modyfikować ich relację z klientami bezpośrednio przez nasze mobilne produkty: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> i <a %(url3)s>Firefoksa na Androida</a>.
 
@@ -123,26 +114,9 @@ Najnowsze wieści
 Zostań naszym partnerem
 
 
-# App Planet is a location in the building, don't translate
-;Join us at Stand F20, Hall 8.1, App Planet
-Znajdź nas na stanowisku F20, w hali 8.1 w App Planet
-
-
-;Our keynote & other scheduled events
-Nasze główne wystąpienie i inne wydarzenia
-
-
-;Firefox tweets from MWC in Barcelona
-Związane z Firefoksem tweety z MWC w Barcelonie
-
-
 # Title
 ;The Web is the platform
 Platformą jest Sieć
-
-
-;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved.</a>
-Wspierany przez jedne z największych nazw w branży, Firefox OS jest otwartą platformą, która sprzyja większemu udziałowi w łańcuchu wartości. <a %(url)s>Sprawdź, jak możesz się zaangażować.</a>
 
 
 # Rewording of the previous sentence to link to the Firefox OS consumer site
@@ -196,14 +170,6 @@ Swobodę w relacjach z klientami i kontrolę
 # List item
 ;Customized phones that meet the specific needs of various target markets
 Telefony dostosowane do konkretnych potrzeb danego rynku
-
-
-;White Papers
-Biała księga
-
-
-;Learn more about the technology behind Firefox OS
-Dowiedz się więcej o technologii Firefox OS
 
 
 # This is the same string as the one in the contact form but it doesn't have a final dot
@@ -285,11 +251,6 @@ Dostosowane do potrzeb konkretnych grup treści, odpowiednie dla każdego przypa
 Mniejsze bariery wejścia dla lokalnych programistów aplikacji pod względem zasobów i kosztów
 
 
-# This is a button
-;MWC demonstrations
-Demonstracje z MWC
-
-
 # Title
 ;Developed with developers in mind
 Tworzony z myślą o twórcach
@@ -338,16 +299,6 @@ Masz aplikację?
 Wyślij ją do Firefox Marketplace jeszcze dziś
 
 
-# WIMJam is an event in MWC where developpers meet and code
-;Jam with us, learn about new tools, meet other developers and more
-Koduj z nami, odkryj nowe narzędzia, poznaj innych programistów i więcej
-
-
-# Button
-;Register
-Rejestracja
-
-
 # Title
 ;A superior Web experience
 Lepsze korzystanie z Sieci
@@ -377,11 +328,6 @@ Korzystaj z możliwości usług takich, jak Firefox Marketplace czy WebRTC, aby 
 
 # Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
 ;Stand out <br>from the crowd
-Wyróżnij się z tłumu
-
-
-# Title.
-;Stand out from the crowd
 Wyróżnij się z tłumu
 
 
@@ -429,223 +375,13 @@ Możliwości partnerstwa
 Dla programistów
 
 
-;Location
-Miejsce
-
-
-;Firefox at MWC 2013 — Stand F20, Hall 8.1, App Planet
-Firefox na MWC 2013 — stanowisko F20, hala 8.1, App Planet
-
-
-;From the South Entrance:
-Z południowego wejścia:
-
-
-;Walk straight down the main hallway of Hall 8.1. Our stand is located in the middle of the hall on the right.
-Idź prosto przez główny korytarz hali 8.1. Nasze stanowisko znajduje się pośrodku hali, z prawej strony.
-
-
-;From the North Entrance:
-Z północnego wejścia:
-
-
-;Go up the escalator to Hall 8.1. Our stand is located in the middle of the hall.
-Wjedź ruchomymi schodami do hali 8.1. Nasze stanowisko znajduje się pośrodku hali.
-
-
-;Download map (PDF)
-Pobierz mapę (PDF)
-
-
 ;For Operators & Manufacturers
 Dla operatorów i producentów
 
 
-;Mobile World Congress, Barcelona, 25 - 28 February 2013
-Mobile World Congress, Barcelona, 25-28 lutego 2013
-
-
-;Firefox at MWC 2013 — Schedule of events
-Firefox na MWC 2013 — program wydarzeń
-
-
-;Schedule
-Plan
-
-
-;09:00-10:30 CET
-09:00-10:30 CET {ok}
-
-
-;12:30-13:00 CET
-12:30-13:00 CET {ok}
-
-
-;09:00-16:00 CET
-09:00-16:00 CET {ok}
-
-
-;13:00-15:00 CET
-13:00-15:00 CET {ok}
-
-
-;16:00-17:30 CET
-16:00-17:30 CET  {ok}
-
-
-;16:00-23:00 CET (awards at 22:30)
-16:00-23:00 CET (rozdanie nagród o 22:30)
-
-
-;17:45-18:30 CET
-17:45-18:30 CET {ok}
-
-
-;09:00 – 11:30:
-09:00 – 11:30: {ok}
-
-
-;11:30 – 14:00:
-11:30 – 14:00: {ok}
-
-
-;14:00 – 16:30:
-14:00 – 16:30: {ok}
-
-
-;16:30 – 19:00:
-16:30 – 19:00: {ok}
-
-
-;VP of Products, Mozilla
-Wiceprezes ds. produktów, Mozilla
-
-
-# Title
-;Gary Kovacs CEO of Mozilla Keynote
-Główne wystąpienie Gary'ego Kovacsa, CEO Mozilli
-
-
-;Mozilla CEO Gary Kovacs’ keynote speech will discuss the benefits of an Open Web device in markets around the world and how Firefox OS will help operators, phone manufacturers and developers reach the next billion Web users.
-Główne wystąpienie Gary'ego Kovacsa, CEO Mozilli, poświęcone będzie zaletom urządzenia stworzonego z wykorzystaniem technologii Otwartej Sieci na rynkach z całego świata i  sposobom, w jaki Firefox OS pomoże operatorom, producentom telefonów i programistom dotrzeć do kolejnego miliarda internautów.
-
-
-;Hall 4, Conference Village, Auditorium 1
-Hala 4, Conference Village, Audytorium 1
-
-
-# Title, Mobile World Live is to keep in English http://www.mobileworldlive.com
-;Mobile World Live Keynote with Mitchell Baker
-Główne wystąpienie Mitchell Baker z Mobile World Live
-
-
-;Mitchell Baker, Chairperson of the Mozilla Foundation, will discuss the importance of bringing Open Web innovation to mobile devices.
-Mitchell Baker, przewodnicząca Fundacji Mozilla, wyjaśni dlaczego przenoszenie innowacji Otwartej Sieci na urządzenia mobilne jest istotne.
-
-
-# Title
-;Mobile App Privacy Debate
-Debata o prywatności aplikacji mobilnych
-
-
-;Harvey Anderson, Vice President of Business Affairs and General Counsel at Mozilla, will take part in the debate “Mobile app privacy: What’s your view?” This interactive session is for anyone interested in helping consumers easily make privacy choices on a mobile device.
-Harvey Anderson, wiceprezes Mozilli ds. biznesu i konsultacji, weźmie udział w debacie pt. „Prywatność aplikacji mobilnych: Twój punkt widzenia”. Do udziału w tej interaktywnej sesji zaczęcamy wszystkie osoby zainteresowane pomaganiem klientom w łatwym podejmowaniu decyzji dotyczących prywatności na urządzeniu mobilnym.
-
-
-# Title
-;Apps Panel: Evolving Ecosystems
-Panel o aplikacjach: Ewoluujące ekosystemy
-
-
-;Jay Sullivan, Vice President of Products, will take part in the Apps Panel: Evolving Ecosystems. The panel will discuss the current state of the apps industry and consider how the roles and responsibilities within it are adapting as the apps market evolves.
-Jay Sullivan, wiceprezes ds. produktów, weźmie udział w panelu o aplikacjach pt. „Ewoluujące ekosystemy”. Podczas panelu omówiony zostanie stan przemysłu aplikacji oraz sposób, w jaki obecne w nim role i obowiązki dostosowują się do ewolucji rynku aplikacji.
-
-
-;Hall 4, Conference Village, Auditorium 2
-Hala 4, Conference Village, Audytorium 2
-
-
-;GSMA Pavilion, Congress Square (CS80)
-GSMA Pavilion, Congress Square (CS80) {ok}
-
-
-# Title: keep Mobile World Live TV in English : http://www.mobileworldcongress.com/mobile-world-live/
-;Mobile World Live TV Panel
-Panel Mobile World Live TV
-
-
-;Johnathan Nightingale, VP of Firefox Engineering, will participate in a discussion about future opportunities in the apps market.
-Johnathan Nightingale, wiceprezes ds. inżynierii Firefoksa, weźmie udział w dyskusji poswięconej przyszłym możliwościom rynku aplikacji.
-
-
-;Location: the live panel will be streamed on all major screens throughout the show area
-Miejsce: panel na żywo będzie wyświetlany na wszystkich ekranach w obszarach pokazowych
-
-
-# Title
-;Mobile Premier Awards & AppCircus After Party
-Mobile Premier Awards & AppCircus After Party {ok}
-
-
-;Firefox Marketplace VP Rick Fant will select and present the winning app.
-Wiceprezes Firefox Marketplace, Rick Fan, wybierze i zaprezentuje zwycięską aplikację.
-
-
-# Title
-;WIP Jam - Day for Developers
-WIP Jam - Dzień dla programistów
-
-
-;The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and Mozilla Developer Evangelist Robert Nyman will host a workshop and Q&A session on “Why Open Web Apps & Firefox OS are good for mobile developers.” Mozilla developer evangelist Chris Heilmann will present an UnPanel on "HTML5 Beyond the Hype" and lead several HTML5 discussion groups. WIP Jam will also see DemoCamps of HTML5 apps created during Mozilla Developer Days. Full schedule available here: %(link)s
-Najważniejsze wydarzenie na MWC dla programistów dla urządzeń mobilnych. Brendan Eich, CTO Mozilli, i Robert Nyman, Mozilla Developer Evangelist, poprowadzą warsztaty oraz sesję pytań i odpowiedzi pt. „Dlaczego Otwarte aplikacje sieciowe i Firefox OS są korzystne dla programistów dla urządzeń mobilnych”. Chris Heilmann, Mozilla Developer Evangelist, przedstawi prezentację pt. „HTML5 bez szumu” i poprowadzi kilka dyskusji grupowych poświęconych HTML5. Na WIP Jam będzie też można zobaczyć demonstracje aplikacji napisanych w HTML5 podczas Mozilla Developer Days. Pełen plan dostępny jest tutaj: %(link)s
-
-
-;Location TBD
-Miejsce TBD
-
-
-;Monday
-Poniedziałek
-
-
-;Tuesday
-Wtorek
-
-
-;Wednesday
-Środa
-
-
-;Thursday
-Czwartek
-
-
-;February 25
-25 lutego
-
-
-;February 26
-26 lutego
-
-
-;February 27
-27 lutego
-
-
-;February 28
-28 lutego
-
-
-;CEO, Mozilla
-CEO, Mozilla {ok}
-
-
+# form, asking for mobile phone number
 ;Mobile
 Telefon komórkowy
-
-
-;Back to top
-Wróć na górę
 
 
 ;Firefox Marketplace — Developer testimonials
@@ -677,5 +413,50 @@ Przeczytaj informacje o wydaniu
 
 ;Read about features, changes and more
 Dowiedz się m.in. o funkcjonalnościach i zmianach
+
+
+# Form field
+;Description
+Description
+
+
+# Form error message
+;Please enter your first name.
+Please enter your first name.
+
+
+# Form error message
+;Please enter your last name.
+Please enter your last name.
+
+
+# Form error message
+;Please enter your company name.
+Please enter your company name.
+
+
+# Form, Physical address field (street, city...)
+;Address
+Address
+
+
+# Form field
+;City
+City
+
+
+# Form field
+;State/Province
+State/Province
+
+
+# Form field
+;Country
+Country
+
+
+# Form field, postal code
+;Zip
+Zip
 
 

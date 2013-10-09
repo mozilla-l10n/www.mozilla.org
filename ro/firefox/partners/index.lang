@@ -14,27 +14,27 @@ Implicați-vă
 Contactați echipa noastră de dezvoltare a afacerilor pentru a intra în rândurile noastre.
 
 
-# Field
+# Form field
 ;First Name
 Prenume
 
 
-# Field
+# Form field
 ;Last Name
 Nume
 
 
-# Field
+# ex: president, CEO...
 ;Title
 Titlu
 
 
-# Field
+# Form field
 ;Company
 Companie
 
 
-# Field
+# Form field
 ;Website
 Sait web
 
@@ -44,11 +44,12 @@ Sait web
 E-mail
 
 
-# Field
+# Form field
 ;Phone
 Telefon
 
 
+# Form field
 ;Interest:
 Interes:
 
@@ -66,11 +67,6 @@ Altul
 # Tooltip for selected options
 ;Interest
 Interes
-
-
-# Comment field default text
-;Comments or questions?
-Comentarii sau întrebări?
 
 
 # Submit button text
@@ -101,11 +97,6 @@ Explorați saitul
 Croiește-ți propriul drum
 
 
-;We’re enabling operators, phone manufacturers and developers to manage, customize and own relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
-Le oferim operatorilor, producătorilor de telefoane și dezvoltatorilor posibilitatea de a gestiona, a personaliza și a purta relații cu clienții prin produsele noastre mobile: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> și <a %(url3)s>Firefox pentru Android</a>.
-
-
-# This is exactly the same string as above but the verb 'own' was changed to 'improve'
 ;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
 Le oferim operatorilor, producătorilor de telefoane și dezvoltatorilor posibilitatea de a gestiona, a personaliza și a îmbunătății relațiile cu clienții prin produsele noastre mobile: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> și <a %(url3)s>Firefox pentru Android</a>.
 
@@ -123,26 +114,9 @@ Vedeți mai mulți parteneri
 Partener cu noi
 
 
-# App Planet is a location in the building, don't translate
-;Join us at Stand F20, Hall 8.1, App Planet
-Alăturați-vă nouă la standul F20, Hall 8.1, App Planet
-
-
-;Our keynote & other scheduled events
-Tematica nostră și alte evenimente programate
-
-
-;Firefox tweets from MWC in Barcelona
-Tweeturi Firefox de la MWC în Barcelona
-
-
 # Title
 ;The Web is the platform
 Web-ul reprezintă platforma
-
-
-;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved.</a>
-Sprijinite de unele dintre cele mai mari nume din industrie, Firefox OS este o platformă deschisă care încurajează o participare mai mare în rețeaua de valori. <a %(url)s>Vedeți cum puteți să vă implicați.</a>
 
 
 # Rewording of the previous sentence to link to the Firefox OS consumer site
@@ -196,14 +170,6 @@ Stăpânirea și controlul asupra relațiilor cu clienții
 # List item
 ;Customized phones that meet the specific needs of various target markets
 Telefoane personalizate care satisfac nevoile specifice ale diferitelor piețe țintă
-
-
-;White Papers
-Cartea albă
-
-
-;Learn more about the technology behind Firefox OS
-Aflați mai multe despre tehnologia din spatele Firefox OS
 
 
 # This is the same string as the one in the contact form but it doesn't have a final dot
@@ -285,11 +251,6 @@ Conținut în mediu micro țintit pentru fiecare scenariu, satisfăcând nevoile
 Reducerea barierelor de intrare în rândul dezvoltatorilor de aplicații locale, atât în resurse cât și costuri
 
 
-# This is a button
-;MWC demonstrations
-Demonstrații de la MWC
-
-
 # Title
 ;Developed with developers in mind
 Dezvoltat și gândit pentru dezvoltatori
@@ -338,16 +299,6 @@ Aveți o aplicație?
 Trimiteți-o astăzi la Firefox Marketplace
 
 
-# WIMJam is an event in MWC where developpers meet and code
-;Jam with us, learn about new tools, meet other developers and more
-Programați cu noi, învățați noi unelte, întâlniți alți dezvoltatori și mai multe
-
-
-# Button
-;Register
-Înregistrare
-
-
 # Title
 ;A superior Web experience
 O experiență web superioară
@@ -378,11 +329,6 @@ Beneficiați de oportunitățile oferite de servicii precum Firefox Marketplace 
 # Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
 ;Stand out <br>from the crowd
 Ieșiți în <br>evidență
-
-
-# Title.
-;Stand out from the crowd
-Ieșiți în evidență
 
 
 ;Take advantage of our strong brand and service offerings to differentiate your product and drive sales.
@@ -429,223 +375,13 @@ Oportunitățile partenerilor
 Pentru dezvoltatori
 
 
-;Location
-Locația
-
-
-;Firefox at MWC 2013 — Stand F20, Hall 8.1, App Planet
-Firefox la MWC 2013 — Standul F20, Hall 8.1, App Planet
-
-
-;From the South Entrance:
-De la intrarea sudică:
-
-
-;Walk straight down the main hallway of Hall 8.1. Our stand is located in the middle of the hall on the right.
-Mergeți pe coridorul principal al Hall 8.1. Standul nostru este localizat în mijlocul sălii, la dreapta.
-
-
-;From the North Entrance:
-De la intrarea nordică:
-
-
-;Go up the escalator to Hall 8.1. Our stand is located in the middle of the hall.
-Mergeți la scările rulante către Hall 8.1. Standul nostru este localizat în mijlocul sălii.
-
-
-;Download map (PDF)
-Descărcați harta (PDF)
-
-
 ;For Operators & Manufacturers
 Pentru operatori și producători
 
 
-;Mobile World Congress, Barcelona, 25 - 28 February 2013
-Mobile World Congress, Barcelona, 25 - 28 februarie 2013
-
-
-;Firefox at MWC 2013 — Schedule of events
-Firefox la MWC 2013 — Calendarul evenimentelor
-
-
-;Schedule
-Program
-
-
-;09:00-10:30 CET
-09:00-10:30 CET{ok}
-
-
-;12:30-13:00 CET
-12:30-13:00 CET{ok}
-
-
-;09:00-16:00 CET
-09:00-16:00 CET{ok}
-
-
-;13:00-15:00 CET
-13:00-15:00 CET{ok}
-
-
-;16:00-17:30 CET
-16:00-17:30 CET{ok}
-
-
-;16:00-23:00 CET (awards at 22:30)
-16:00-23:00 CET (premierea la 22:30)
-
-
-;17:45-18:30 CET
-17:45-18:30 CET{ok}
-
-
-;09:00 – 11:30:
-09:00 – 11:30: {ok}
-
-
-;11:30 – 14:00:
-11:30 – 14:00:{ok}
-
-
-;14:00 – 16:30:
-14:00 – 16:30:{ok}
-
-
-;16:30 – 19:00:
-16:30 – 19:00:{ok}
-
-
-;VP of Products, Mozilla
-Vicepreședintele produselor, Mozilla
-
-
-# Title
-;Gary Kovacs CEO of Mozilla Keynote
-Discursul inagural al lui Gary Kovacs, directorul executiv la Mozilla
-
-
-;Mozilla CEO Gary Kovacs’ keynote speech will discuss the benefits of an Open Web device in markets around the world and how Firefox OS will help operators, phone manufacturers and developers reach the next billion Web users.
-Directorul executiv la Mozilla, Gary Kovacs, va ține un discurs inaugural despre beneficiile unui dispozitiv cu web deschis în piețe din jurul lumii și cum Firefox OS va ajuta operatorii, producătorii de telefoane și dezvoltatorii să atingă următorul miliard de utilizatori de Web.
-
-
-;Hall 4, Conference Village, Auditorium 1
-Sala 4, Conference Village, Auditorium 1
-
-
-# Title, Mobile World Live is to keep in English http://www.mobileworldlive.com
-;Mobile World Live Keynote with Mitchell Baker
-Discursul lui Mitchell Baker de la Mobile World Live
-
-
-;Mitchell Baker, Chairperson of the Mozilla Foundation, will discuss the importance of bringing Open Web innovation to mobile devices.
-Mitchell Baker, președintele Mozilla Foundation, va discuta despre importanța de a aduce inovație cu Web-ul deschis pe dispozitive mobile.
-
-
-# Title
-;Mobile App Privacy Debate
-Dezbatere privind confidențialitatea în aplicațiile mobile
-
-
-;Harvey Anderson, Vice President of Business Affairs and General Counsel at Mozilla, will take part in the debate “Mobile app privacy: What’s your view?” This interactive session is for anyone interested in helping consumers easily make privacy choices on a mobile device.
-Harvey Anderson, vicepreședintele afacerilor comerciale și consilier general la Mozilla va lua parte în dezbaterea „Confidențialitatea în aplicațiile mobile: Care este punctul tău de vedere?” Această sesiune interactivă este pentru oricine interesat în ajutarea consumatorilor să facă alegeri de confidențialitate pe un dispozitiv mobil.
-
-
-# Title
-;Apps Panel: Evolving Ecosystems
-Apps Panel: Evoluția ecosistemelor
-
-
-;Jay Sullivan, Vice President of Products, will take part in the Apps Panel: Evolving Ecosystems. The panel will discuss the current state of the apps industry and consider how the roles and responsibilities within it are adapting as the apps market evolves.
-Jay Sullivan, vicepreședintele produselor, va lua parte la discuția „Apps Panel: Evoluţia ecosistemelor” (eng. Apps Panel: Evolving Ecosystems). Discuția se va axa pe starea actuală a industriei de aplicații și modul în care rolurile și responsabilitățile se adaptează odată cu evoluția magazinului de aplicații.
-
-
-;Hall 4, Conference Village, Auditorium 2
-Sala 4, Conference Village, Auditorium 2
-
-
-;GSMA Pavilion, Congress Square (CS80)
-Pavilionul GSMA, Congress Square (CS80)
-
-
-# Title: keep Mobile World Live TV in English : http://www.mobileworldcongress.com/mobile-world-live/
-;Mobile World Live TV Panel
-Panoul Mobile World Live TV
-
-
-;Johnathan Nightingale, VP of Firefox Engineering, will participate in a discussion about future opportunities in the apps market.
-Johnathan Nightingale, vicepreședintele sectorului Firefox Engineering, va participa într-o discuție despre oportunitățile de viitor din magazinul de aplicații.
-
-
-;Location: the live panel will be streamed on all major screens throughout the show area
-Locația: panoul live va fi transmis pe toate ecranele mari, toate aranjate în zona de prezentare
-
-
-# Title
-;Mobile Premier Awards & AppCircus After Party
-Premii Mobile Premier și AppCircus After Party
-
-
-;Firefox Marketplace VP Rick Fant will select and present the winning app.
-Vicepreședintele Firefox Marketpkace, Rick Fant va selecta și va prezenta aplicația câștigătoare.
-
-
-# Title
-;WIP Jam - Day for Developers
-WIP Jam - Ziua pentru dezvoltatori
-
-
-;The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and Mozilla Developer Evangelist Robert Nyman will host a workshop and Q&A session on “Why Open Web Apps & Firefox OS are good for mobile developers.” Mozilla developer evangelist Chris Heilmann will present an UnPanel on "HTML5 Beyond the Hype" and lead several HTML5 discussion groups. WIP Jam will also see DemoCamps of HTML5 apps created during Mozilla Developer Days. Full schedule available here: %(link)s
-Evenimentul principal pentru dezvoltatorii de dispozitive mobile la MWC. Directorul tehnic la Mozilla, Brendan Eich și dezvoltatorul evanghelist la Mozilla, Robert Nyman vor găzdui un atelier de lucru și o sesiune de întrebări și răspunsuri pe tema „De ce aplicațiile deschise și Firefox OS sunt bune pentru dezvoltatorii de dispozitive mobile”. Dezvoltatorul evanghelist la Mozilla, Chris Heilmann va prezenta un panou sui-generis pe tema „HTML5 dincolo de prejudecăți" (eng. HTML5 Beyond the Hype) și va coordona mai multe grupuri de discuții privind HTML5. De asemenea, WIP Jam va arăta DemoCamps cu aplicații HTML5 create în timpul Mozilla Developer Days. Programul complet este disponibil aici: %(link)s
-
-
-;Location TBD
-Locația va fi definită
-
-
-;Monday
-Luni
-
-
-;Tuesday
-Marți
-
-
-;Wednesday
-Miercuri
-
-
-;Thursday
-Joi
-
-
-;February 25
-25 februarie
-
-
-;February 26
-26 februarie
-
-
-;February 27
-27 februarie
-
-
-;February 28
-28 februarie
-
-
-;CEO, Mozilla
-Director executiv Mozilla
-
-
+# form, asking for mobile phone number
 ;Mobile
 Mobil
-
-
-;Back to top
-La începutul paginii
 
 
 ;Firefox Marketplace — Developer testimonials
@@ -677,5 +413,50 @@ Vedeți notele versiunii
 
 ;Read about features, changes and more
 Citiți despre funcționalități, modificări și altele
+
+
+# Form field
+;Description
+Description
+
+
+# Form error message
+;Please enter your first name.
+Please enter your first name.
+
+
+# Form error message
+;Please enter your last name.
+Please enter your last name.
+
+
+# Form error message
+;Please enter your company name.
+Please enter your company name.
+
+
+# Form, Physical address field (street, city...)
+;Address
+Address
+
+
+# Form field
+;City
+City
+
+
+# Form field
+;State/Province
+State/Province
+
+
+# Form field
+;Country
+Country
+
+
+# Form field, postal code
+;Zip
+Zip
 
 

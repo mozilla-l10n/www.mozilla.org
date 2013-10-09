@@ -14,27 +14,27 @@ Mobile World Congress 2013에서 Firefox를 만나보세요
 참여를 위해 사업개발팀과 논의하세요.
 
 
-# Field
+# Form field
 ;First Name
 이름
 
 
-# Field
+# Form field
 ;Last Name
 성
 
 
-# Field
+# ex: president, CEO...
 ;Title
 제목
 
 
-# Field
+# Form field
 ;Company
 회사
 
 
-# Field
+# Form field
 ;Website
 웹사이트
 
@@ -44,11 +44,12 @@ Mobile World Congress 2013에서 Firefox를 만나보세요
 이메일
 
 
-# Field
+# Form field
 ;Phone
 전화
 
 
+# Form field
 ;Interest:
 관심분야:
 
@@ -66,11 +67,6 @@ Firefox 안드로이드
 # Tooltip for selected options
 ;Interest
 관심분야
-
-
-# Comment field default text
-;Comments or questions?
-의견이나 질문이 있으세요?
 
 
 # Submit button text
@@ -101,11 +97,6 @@ Explore the site {ok}
 새로운 길을 개척합니다!
 
 
-;We’re enabling operators, phone manufacturers and developers to manage, customize and own relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
-Mozilla는 통신 사업자, 단말기 제조업체, 개발자가 고객과 관계를 직접 관리하고, 맞춤 기능을 제공 할 수 있는 모바일 제품으로 <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a>, <a %(url3)s>Firefox 안드로이드</a> 버전을 만들고 있습니다.
-
-
-# This is exactly the same string as above but the verb 'own' was changed to 'improve'
 ;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
 Mozilla는 통신 사업자, 단말기 제조업체, 개발자가 고객과 관계를 증진하고, 맞춤 기능을 제공 할 수 있는 모바일 제품으로 <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a>, <a %(url3)s>Firefox 안드로이드</a> 버전을 만들고 있습니다.
 
@@ -123,26 +114,9 @@ Mozilla는 통신 사업자, 단말기 제조업체, 개발자가 고객과 관�
 파트너 참여
 
 
-# App Planet is a location in the building, don't translate
-;Join us at Stand F20, Hall 8.1, App Planet
-장소 Stand F20, Hall 8.1, App Planet
-
-
-;Our keynote & other scheduled events
-기조 발표 및 행사 일정
-
-
-;Firefox tweets from MWC in Barcelona
-MWC 바르셀로나 공식 Firefox 트윗
-
-
 # Title
 ;The Web is the platform
 웹은 플랫폼이다
-
-
-;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved.</a>
-Firefox OS는 업계 주요 기업이 지원하는 개방형 플랫폼이며 새로운 가치를 만드는 일에 더 많은 파트너가 참여하고 있습니다. <a %(url)s>더 자세한 참여 방법을 살펴보세요.</a>
 
 
 # Rewording of the previous sentence to link to the Firefox OS consumer site
@@ -196,14 +170,6 @@ Firefox OS 장점:
 # List item
 ;Customized phones that meet the specific needs of various target markets
 다양한 특정 시장의 요구 사항에 부합하는 맞춤형 스마트폰 제공
-
-
-;White Papers
-기술 백서
-
-
-;Learn more about the technology behind Firefox OS
-Firefox OS 기술 자세히 살펴보기
 
 
 # This is the same string as the one in the contact form but it doesn't have a final dot
@@ -285,11 +251,6 @@ Marketplace 장점:
 개발자 자원과 비용 측면에서 낮은 진입 장벽 제공
 
 
-# This is a button
-;MWC demonstrations
-MWC 데모
-
-
 # Title
 ;Developed with developers in mind
 개발자를 위한 개발 플랫폼
@@ -338,16 +299,6 @@ MWC 데모
 지금 Firefox Marketplace 등록하기
 
 
-# WIMJam is an event in MWC where developpers meet and code
-;Jam with us, learn about new tools, meet other developers and more
-우리와 함께 새로운 도구도 배우고 개발자들도 만나보세요
-
-
-# Button
-;Register
-등록하기
-
-
 # Title
 ;A superior Web experience
 우수한 웹 경험
@@ -377,11 +328,6 @@ Firefox Marketplace나 WebRTC와 같은 서비스 제공 기회를 활용하여 
 
 # Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
 ;Stand out <br>from the crowd
-누구보다 주목 받을 기회
-
-
-# Title.
-;Stand out from the crowd
 누구보다 주목 받을 기회
 
 
@@ -429,223 +375,13 @@ Firefox Marketplace와 WebRTC에 서비스를 직접적으로 통합해서 상�
 개발자 참여
 
 
-;Location
-위치
-
-
-;Firefox at MWC 2013 — Stand F20, Hall 8.1, App Planet
-MWC 2013 — Stand F20, Hall 8.1, App Planet에서 Firefox를 만나세요
-
-
-;From the South Entrance:
-남쪽 입구에서:
-
-
-;Walk straight down the main hallway of Hall 8.1. Our stand is located in the middle of the hall on the right.
-Hall 8.1 메인 홀로 내려오세요. 우리 부스는 홀의 오른쪽 가운데에 위치하고 있습니다.
-
-
-;From the North Entrance:
-북쪽 입구에서:
-
-
-;Go up the escalator to Hall 8.1. Our stand is located in the middle of the hall.
-Hall 8.1 에스컬레이터로 올라오세요. 우리 부스는 홀의 가운데에 위치하고 있습니다.
-
-
-;Download map (PDF)
-지도 다운로드 (PDF)
-
-
 ;For Operators & Manufacturers
 이동통신사와 제조사
 
 
-;Mobile World Congress, Barcelona, 25 - 28 February 2013
-Mobile World Congress, 바르셀로나 (2013년 2월 25 ~ 28일)
-
-
-;Firefox at MWC 2013 — Schedule of events
-MWC 2013 Firefox — 행사 일정
-
-
-;Schedule
-일정
-
-
-;09:00-10:30 CET
-09:00–10:30 중앙 유럽 표준시
-
-
-;12:30-13:00 CET
-12:30–13:00 중앙 유럽 표준시
-
-
-;09:00-16:00 CET
-09:00–16:00 중앙 유럽 표준시
-
-
-;13:00-15:00 CET
-13:00-15:00 중앙 유럽 표준시
-
-
-;16:00-17:30 CET
-16:00–17:30 중앙 유럽 표준시
-
-
-;16:00-23:00 CET (awards at 22:30)
-16:00-23:00 중앙 유럽 표준시 (시상 22:30)
-
-
-;17:45-18:30 CET
-17:45 - 18:30 중앙 유럽 표준시
-
-
-;09:00 – 11:30:
-09:00 – 11:30: {ok}
-
-
-;11:30 – 14:00:
-11:30 – 14:00: {ok}
-
-
-;14:00 – 16:30:
-14:00 – 16:30: {ok}
-
-
-;16:30 – 19:00:
-16:30 – 19:00: {ok}
-
-
-;VP of Products, Mozilla
-Mozilla 제품 부문 부사장
-
-
-# Title
-;Gary Kovacs CEO of Mozilla Keynote
-Mozilla CEO Gary Kovacs 기조 연설
-
-
-;Mozilla CEO Gary Kovacs’ keynote speech will discuss the benefits of an Open Web device in markets around the world and how Firefox OS will help operators, phone manufacturers and developers reach the next billion Web users.
-Mozilla CEO Gary Kovacs은 기조 연설에서 전 세계의 오픈웹 단말 시장과 Firefox OS가 이동 통신사, 제조사, 개발자과 전 세계 사용자들과 어떻게 만날 수 있는지에 대해서 발표합니다.
-
-
-;Hall 4, Conference Village, Auditorium 1
-Hall 4, Conference Village, Auditorium 1 {ok}
-
-
-# Title, Mobile World Live is to keep in English http://www.mobileworldlive.com
-;Mobile World Live Keynote with Mitchell Baker
-Mitchell Baker의 Mobile World 기조 연설 생중계
-
-
-;Mitchell Baker, Chairperson of the Mozilla Foundation, will discuss the importance of bringing Open Web innovation to mobile devices.
-Mozilla 재단 의장인 Mitchell Baker는 모바일 기기에 있어서의 개방 웹 혁신의 중요성에 대해서 발표합니다.
-
-
-# Title
-;Mobile App Privacy Debate
-모바일 앱 개인 정보 문제
-
-
-;Harvey Anderson, Vice President of Business Affairs and General Counsel at Mozilla, will take part in the debate “Mobile app privacy: What’s your view?” This interactive session is for anyone interested in helping consumers easily make privacy choices on a mobile device.
-Mozilla의 비즈니스 분야와 법무 책임 부사장인 Harvey Anderson은 모바일 앱 개인 정보 이슈 세션에 참여합니다. 이 세션은 사용자가 모바일 기기에서 쉽게 자신의 개인정보를 제공하는 문제에 관심 있는 분들을 위한 세션입니다.
-
-
-# Title
-;Apps Panel: Evolving Ecosystems
-앱 패널: 생태계의 진화
-
-
-;Jay Sullivan, Vice President of Products, will take part in the Apps Panel: Evolving Ecosystems. The panel will discuss the current state of the apps industry and consider how the roles and responsibilities within it are adapting as the apps market evolves.
-제품 부문 부사장인 Jay Sullivan은 앱 패널: 생태계의 진화 세션에 참여합니다. 패널 참여자들은 현재 앱 산업이 앱 시장이 성장함에 따라 어떤 역할과 책임을 가지게 될지에 대해서 논의합니다.
-
-
-;Hall 4, Conference Village, Auditorium 2
-Hall 4, Conference Village, Auditorium 2 {ok}
-
-
-;GSMA Pavilion, Congress Square (CS80)
-GSMA Pavilion, Congress Square (CS80) {ok}
-
-
-# Title: keep Mobile World Live TV in English : http://www.mobileworldcongress.com/mobile-world-live/
-;Mobile World Live TV Panel
-Mobile World Live TV Panel {ok}
-
-
-;Johnathan Nightingale, VP of Firefox Engineering, will participate in a discussion about future opportunities in the apps market.
-Firefox 엔지니어링 부사장인 Johnathan Nightingale은 앱 시장의 미래의 기회에 대해 논의합니다.
-
-
-;Location: the live panel will be streamed on all major screens throughout the show area
-위치: 실시간 패널은 행사장의 모든 주요 화면에서 중계될 예정입니다.
-
-
-# Title
-;Mobile Premier Awards & AppCircus After Party
-Mobile Premier Awards & AppCircus After Party {ok}
-
-
-;Firefox Marketplace VP Rick Fant will select and present the winning app.
-Firefox Marketplace 부사장인 Rick Fant는 경쟁력있는 앱에 대해서 이야기 합니다.
-
-
-# Title
-;WIP Jam - Day for Developers
-WIP Jam - 개발자의 날
-
-
-;The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and Mozilla Developer Evangelist Robert Nyman will host a workshop and Q&A session on “Why Open Web Apps & Firefox OS are good for mobile developers.” Mozilla developer evangelist Chris Heilmann will present an UnPanel on "HTML5 Beyond the Hype" and lead several HTML5 discussion groups. WIP Jam will also see DemoCamps of HTML5 apps created during Mozilla Developer Days. Full schedule available here: %(link)s
-MWC에 참여한 모바일 개발자에게 있어서 가장 중요한 이벤트입니다. Mozilla CTO Brendan Eich와 Mozilla Developer Evangelist인 Robert Nyman이 "왜 오픈 웹 앱인가 & Firefox OS는 모바일 개발자를 위한 좋은 선택"을 주최하여 워크샵과 Q&A 세션을 진행합니다. Mozilla developer evangelist인 Chris Heilmann이 "HTML5 Beyond the Hype"라는 주제로 발표하고 HTML5 토론 그룹을 진행합니다. WIP Jam에서는 Mozilla 개발자의 날에서 만들어진 HTML5 앱을 보여주게됩니다. 전체 일정을 참고하세요. %(link)s
-
-
-;Location TBD
-장소 미정
-
-
-;Monday
-월요일
-
-
-;Tuesday
-화요일
-
-
-;Wednesday
-수요일
-
-
-;Thursday
-목요일
-
-
-;February 25
-2월 25일
-
-
-;February 26
-2월 26일
-
-
-;February 27
-2월 27일
-
-
-;February 28
-2월 28일
-
-
-;CEO, Mozilla
-Mozilla CEO
-
-
+# form, asking for mobile phone number
 ;Mobile
 모바일
-
-
-;Back to top
-상단으로
 
 
 ;Firefox Marketplace — Developer testimonials
@@ -677,5 +413,50 @@ Mozilla와 협력사가 첫 Firefox OS 스마트폰 출시를 중비중
 
 ;Read about features, changes and more
 기능과 변경사항 등에 대해 알아보기
+
+
+# Form field
+;Description
+Description
+
+
+# Form error message
+;Please enter your first name.
+Please enter your first name.
+
+
+# Form error message
+;Please enter your last name.
+Please enter your last name.
+
+
+# Form error message
+;Please enter your company name.
+Please enter your company name.
+
+
+# Form, Physical address field (street, city...)
+;Address
+Address
+
+
+# Form field
+;City
+City
+
+
+# Form field
+;State/Province
+State/Province
+
+
+# Form field
+;Country
+Country
+
+
+# Form field, postal code
+;Zip
+Zip
 
 

@@ -14,27 +14,27 @@ Firefox が Mobile World Congress 2013 に出展
 参加ご希望の方は、Mozilla のビジネス開発チームにご連絡ください。
 
 
-# Field
+# Form field
 ;First Name
 名
 
 
-# Field
+# Form field
 ;Last Name
 姓
 
 
-# Field
+# ex: president, CEO...
 ;Title
 役職名
 
 
-# Field
+# Form field
 ;Company
 会社名
 
 
-# Field
+# Form field
 ;Website
 Web サイト
 
@@ -44,11 +44,12 @@ Web サイト
 E-メール
 
 
-# Field
+# Form field
 ;Phone
 電話番号
 
 
+# Form field
 ;Interest:
 関心のある分野:
 
@@ -66,11 +67,6 @@ Android 版 Firefox
 # Tooltip for selected options
 ;Interest
 関心のある分野
-
-
-# Comment field default text
-;Comments or questions?
-コメントまたは質問
 
 
 # Submit button text
@@ -101,11 +97,6 @@ Mozilla のパートナーとなることについて関心をお寄せいただ
 新しい世界を切り開こう
 
 
-;We’re enabling operators, phone manufacturers and developers to manage, customize and own relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
-Mozilla は、通信事業者、電話機メーカー、開発者が、それぞれのカスタマーとの関係を直接管理し、カスタマイズし、コントロールできるようにするためのモバイル製品として、<a %(url1)s>Firefox OS</a>、<a %(url2)s>Firefox Marketplace</a>、<a %(url3)s>Android 版 Firefox</a> を提供しています。
-
-
-# This is exactly the same string as above but the verb 'own' was changed to 'improve'
 ;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
 Mozilla は、通信事業者、電話機メーカー、開発者が、それぞれのカスタマーとの関係を改善し、カスタマイズし、コントロールできるようにするためのモバイル製品として、<a %(url1)s>Firefox OS</a>、<a %(url2)s>Firefox Marketplace</a>、<a %(url3)s>Android 版 Firefox</a> を提供しています。
 
@@ -123,32 +114,14 @@ Mozilla は、通信事業者、電話機メーカー、開発者が、それぞ
 Mozilla のパートナーになる
 
 
-# App Planet is a location in the building, don't translate
-;Join us at Stand F20, Hall 8.1, App Planet
-App Planet のホール 8.1、スタンド F20 でお会いしましょう
-
-
-;Our keynote & other scheduled events
-Mozilla の基調講演とその他のイベントスケジュール
-
-
-;Firefox tweets from MWC in Barcelona
-バルセロナの MWC から発信する Firefox のツイート
-
-
 # Title
 ;The Web is the platform
 Web こそがプラットフォーム
 
 
-;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved.</a>
-Firefox OS は業界の大手各社に支持されているオープンなプラットフォームであり、このバリューチェーンに参加するパートナーはますます増えています。<a %(url)s>私たちのバリューチェーンに参加する方法は、こちらをご覧ください。</a>
-
-
 # Rewording of the previous sentence to link to the Firefox OS consumer site
 ;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
 Firefox OS は業界の大手各社に支持されているオープンなプラットフォームであり、このバリューチェーンに参加するパートナーはますます増えています。<a %(url)s>私たちのバリューチェーンに参加する方法は、こちらをご覧ください</a>。また<a href="%(url2)s">消費者にとってどのような意味を持つかについてはこちらをご覧ください</a>。
-
 
 
 # Title
@@ -197,14 +170,6 @@ Firefox OS は次のことを実現します。
 # List item
 ;Customized phones that meet the specific needs of various target markets
 さまざまな対象市場特有のニーズに合わせてカスタマイズしたスマートフォン
-
-
-;White Papers
-ホワイトペーパー
-
-
-;Learn more about the technology behind Firefox OS
-Firefox OS を支える技術の詳細を参照
 
 
 # This is the same string as the one in the contact form but it doesn't have a final dot
@@ -286,11 +251,6 @@ Marketplace により、次のことを実現できます。
 ローカルのアプリ開発者にとって、リソースとコストの両面で参入の障壁が低くなる
 
 
-# This is a button
-;MWC demonstrations
-MWC でのデモ
-
-
 # Title
 ;Developed with developers in mind
 開発者のことを念頭に置いて開発された Marketplace
@@ -339,16 +299,6 @@ MWC でのデモ
 今すぐ Firefox Marketplace に登録
 
 
-# WIMJam is an event in MWC where developpers meet and code
-;Jam with us, learn about new tools, meet other developers and more
-私たちと一緒に参加して、新しいツールについて学んだり他の開発者たちに会ったりしましょう
-
-
-# Button
-;Register
-登録
-
-
 # Title
 ;A superior Web experience
 優れた Web 体験
@@ -378,11 +328,6 @@ Firefox Marketplace や WebRTC などによるサービス提供の機会を活�
 
 # Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
 ;Stand out <br>from the crowd
-誰よりも注目される存在に
-
-
-# Title.
-;Stand out from the crowd
 誰よりも注目される存在に
 
 
@@ -430,223 +375,13 @@ Android 版 Firefox により、以下のことが可能になります。
 開発者向け
 
 
-;Location
-場所
-
-
-;Firefox at MWC 2013 — Stand F20, Hall 8.1, App Planet
-MWC 2013 の Firefox 展示場所 — App Planet のホール 8.1、スタンド F20
-
-
-;From the South Entrance:
-South Entrance (南側入り口) から:
-
-
-;Walk straight down the main hallway of Hall 8.1. Our stand is located in the middle of the hall on the right.
-ホール 8.1 の中央通路をまっすぐ進みます。Mozilla のスタンドはホール中央の右側にあります。
-
-
-;From the North Entrance:
-North Entrance (北側入り口) から:
-
-
-;Go up the escalator to Hall 8.1. Our stand is located in the middle of the hall.
-上りエスカレーターでホール 8.1 へ。Mozilla のスタンドはホール中央にあります。
-
-
-;Download map (PDF)
-地図 (PDF) をダウンロード
-
-
 ;For Operators & Manufacturers
 通信事業者と電話機メーカー向け
 
 
-;Mobile World Congress, Barcelona, 25 - 28 February 2013
-Mobile World Congress、バルセロナ、2013 年 2 月 25 ~ 28 日
-
-
-;Firefox at MWC 2013 — Schedule of events
-Firefox が MWC 2013 に出展 — イベントスケジュール
-
-
-;Schedule
-スケジュール
-
-
-;09:00-10:30 CET
-9:00 – 10:30（ヨーロッパ中央時間）
-
-
-;12:30-13:00 CET
-12:30 – 13:00（ヨーロッパ中央時間）
-
-
-;09:00-16:00 CET
-09:00 – 16:00（ヨーロッパ中央時間）
-
-
-;13:00-15:00 CET
-13:00 – 15:00（ヨーロッパ中央時間）
-
-
-;16:00-17:30 CET
-16:00 – 17:30（ヨーロッパ中央時間）
-
-
-;16:00-23:00 CET (awards at 22:30)
-16:00 – 23:00（ヨーロッパ中央時間）22:30 より授賞式。
-
-
-;17:45-18:30 CET
-17:45 – 18:30（ヨーロッパ中央時間）
-
-
-;09:00 – 11:30:
-09:00 – 11:30: {ok}
-
-
-;11:30 – 14:00:
-11:30 – 14:00: {ok}
-
-
-;14:00 – 16:30:
-14:00 – 16:30: {ok}
-
-
-;16:30 – 19:00:
-16:30 – 19:00: {ok}
-
-
-;VP of Products, Mozilla
-Mozilla、製品担当 VP
-
-
-# Title
-;Gary Kovacs CEO of Mozilla Keynote
-ゲイリー・コバックス CEO によるキーノート
-
-
-;Mozilla CEO Gary Kovacs’ keynote speech will discuss the benefits of an Open Web device in markets around the world and how Firefox OS will help operators, phone manufacturers and developers reach the next billion Web users.
-Mozilla CEO ゲイリー・コバックスが Open Web Device の世界市場における利益と、通信事業者と電話機メーカー、開発者がさらに10億人の Web 利用者へリーチするために Firefox OS がどのように役立つかについてお話しします。
-
-
-;Hall 4, Conference Village, Auditorium 1
-ホール 4, Conference Village, Auditorium 1
-
-
-# Title, Mobile World Live is to keep in English http://www.mobileworldlive.com
-;Mobile World Live Keynote with Mitchell Baker
-ミッチェル・ベーカーによる Mobile World Live キーノート　
-
-
-;Mitchell Baker, Chairperson of the Mozilla Foundation, will discuss the importance of bringing Open Web innovation to mobile devices.
-Mozilla Foundation 理事長ミッチェル・ベーカーがオープン Web 技術をモバイルデバイスに持ち込むことの重要性についてお話しします。
-
-
-# Title
-;Mobile App Privacy Debate
-モバイルアプリのプライバシーに関するディベート
-
-
-;Harvey Anderson, Vice President of Business Affairs and General Counsel at Mozilla, will take part in the debate “Mobile app privacy: What’s your view?” This interactive session is for anyone interested in helping consumers easily make privacy choices on a mobile device.
-ハーヴェイ・アンダーソン（ビジネス担当 VP、最高顧問弁護士）が「モバイルアプリのプライバシー：What's your view?」と題したディベートに参加します。このインタラクティブセッションには、モバイルデバイスにおけるプライバシー上の選択を簡単にすることに興味をお持ちの方なら、どなたでも参加できます。
-
-
-# Title
-;Apps Panel: Evolving Ecosystems
-アプリについてのパネルディスカッション: 進化するエコシステム
-
-
-;Jay Sullivan, Vice President of Products, will take part in the Apps Panel: Evolving Ecosystems. The panel will discuss the current state of the apps industry and consider how the roles and responsibilities within it are adapting as the apps market evolves.
-製品担当 VP のジェイ・サリバンが「進化するエコシステム」と題したアプリに関するパネルディスカッションに参加します。このパネルディスカッションではアプリ業界の現状と、業界内での役割と責任がアプリ市場の進化に応じて変化しているかについて議論します。
-
-
-;Hall 4, Conference Village, Auditorium 2
-ホール 4, Conference Village, Auditorium 2
-
-
-;GSMA Pavilion, Congress Square (CS80)
-GSMA Pavilion, Congress Square (CS80) {ok}
-
-
-# Title: keep Mobile World Live TV in English : http://www.mobileworldcongress.com/mobile-world-live/
-;Mobile World Live TV Panel
-Mobile World Live TV パネル
-
-
-;Johnathan Nightingale, VP of Firefox Engineering, will participate in a discussion about future opportunities in the apps market.
-Firefoxエンジニアリング担当 VP ジョナサン・ナイチンゲールがアプリ市場における将来的なチャンスについて議論に参加します。
-
-
-;Location: the live panel will be streamed on all major screens throughout the show area
-場所：ショーエリアにある主要な全てのスクリーンで中継されます。
-
-
-# Title
-;Mobile Premier Awards & AppCircus After Party
-モバイルプレミアアワードと AppCircus 後の懇親会
-
-
-;Firefox Marketplace VP Rick Fant will select and present the winning app.
-Firefox Marketplace 担当 VP リック・ファントが受賞アプリの選定と発表を行います。
-
-
-# Title
-;WIP Jam - Day for Developers
-WIP Jam - 開発者のための日
-
-
-;The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and Mozilla Developer Evangelist Robert Nyman will host a workshop and Q&A session on “Why Open Web Apps & Firefox OS are good for mobile developers.” Mozilla developer evangelist Chris Heilmann will present an UnPanel on "HTML5 Beyond the Hype" and lead several HTML5 discussion groups. WIP Jam will also see DemoCamps of HTML5 apps created during Mozilla Developer Days. Full schedule available here: %(link)s
-MWCにおけるモバイル開発者のための重要なイベントです。Mozilla CTO ブレンダン・アイクと Mozilla ディベロッパー・エバンジェリストのロバート・ナイマンがワークショップと「なぜオープンWeb アプリと Firefox OS がモバイル開発者にとって有益か」に関する Q&A セッションを主催します。Mozilla ディベロッパー・エバンジェリストのクリス・ヘルマンが「HTML5 Beyond the Hype」と題したインフォーマルなパネルディスカッションに参加します。WIP Jam では Mozilla ディベロッパーデイで開発された　HTML5 アプリのデモキャンプも開催されます。完全なスケジュールはこちらでご覧になれます：%(link)s
-
-
-;Location TBD
-会場は未定
-
-
-;Monday
-月曜日
-
-
-;Tuesday
-火曜日
-
-
-;Wednesday
-水曜日
-
-
-;Thursday
-木曜日
-
-
-;February 25
-2 月 25 日
-
-
-;February 26
-2 月 26 日
-
-
-;February 27
-2 月 27 日
-
-
-;February 28
-2 月 28 日
-
-
-;CEO, Mozilla
-Mozilla、CEO
-
-
+# form, asking for mobile phone number
 ;Mobile
 モバイル
-
-
-;Back to top
-トップに戻る
 
 
 ;Firefox Marketplace — Developer testimonials
@@ -678,5 +413,50 @@ Mozilla とパートナーは最初の Firefox OS 搭載スマートフォンを
 
 ;Read about features, changes and more
 変更点や追加機能などについてはこちら
+
+
+# Form field
+;Description
+Description
+
+
+# Form error message
+;Please enter your first name.
+Please enter your first name.
+
+
+# Form error message
+;Please enter your last name.
+Please enter your last name.
+
+
+# Form error message
+;Please enter your company name.
+Please enter your company name.
+
+
+# Form, Physical address field (street, city...)
+;Address
+Address
+
+
+# Form field
+;City
+City
+
+
+# Form field
+;State/Province
+State/Province
+
+
+# Form field
+;Country
+Country
+
+
+# Form field, postal code
+;Zip
+Zip
 
 

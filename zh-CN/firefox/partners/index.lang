@@ -14,27 +14,27 @@
 联系我们的业务开发团队加入。
 
 
-# Field
+# Form field
 ;First Name
 名字
 
 
-# Field
+# Form field
 ;Last Name
 姓氏
 
 
-# Field
+# ex: president, CEO...
 ;Title
 称谓
 
 
-# Field
+# Form field
 ;Company
 公司
 
 
-# Field
+# Form field
 ;Website
 网站
 
@@ -44,11 +44,12 @@
 电子邮件
 
 
-# Field
+# Form field
 ;Phone
 电话
 
 
+# Form field
 ;Interest:
 兴趣:
 
@@ -66,11 +67,6 @@ Firefox Android 版
 # Tooltip for selected options
 ;Interest
 兴趣
-
-
-# Comment field default text
-;Comments or questions?
-意见或者疑问？
 
 
 # Submit button text
@@ -101,11 +97,6 @@ Firefox Android 版
 开拓自己的道路
 
 
-;We’re enabling operators, phone manufacturers and developers to manage, customize and own relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
-通过我们的产品：<a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox 市场</a> 以及 <a %(url3)s>Firefox Android 版</a>，让运营商、手机制造商和开发者可以直接管理、定制和掌握与客户之间的关系。
-
-
-# This is exactly the same string as above but the verb 'own' was changed to 'improve'
 ;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
 通过我们的移动产品：<a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> 和 <a %(url3)s>Firefox Android 版</a>，让运营者，手机制造商和开发者能够管理，定制，并改进与客户的关系。
 
@@ -123,26 +114,9 @@ Firefox Android 版
 与我们合作
 
 
-# App Planet is a location in the building, don't translate
-;Join us at Stand F20, Hall 8.1, App Planet
-我们在 App Planet 8.1 号馆，F20 展位
-
-
-;Our keynote & other scheduled events
-我们的主题发言和其他已安排的活动
-
-
-;Firefox tweets from MWC in Barcelona
-来自巴塞罗那 MWC 上的 Firefox 推文
-
-
 # Title
 ;The Web is the platform
 网络即是平台
-
-
-;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved.</a>
-依托业界一些如雷贯耳的名字，Firefox OS 已经成为价值链中越来越重要的成员。<a %(url)s>看看如何加入进来。</a>
 
 
 # Rewording of the previous sentence to link to the Firefox OS consumer site
@@ -196,14 +170,6 @@ Firefox OS 提供:
 # List item
 ;Customized phones that meet the specific needs of various target markets
 根据不同目标市场的特定需要定制手机
-
-
-;White Papers
-白皮书
-
-
-;Learn more about the technology behind Firefox OS
-进一步了解 Firefox OS 背后的技术
 
 
 # This is the same string as the one in the contact form but it doesn't have a final dot
@@ -285,11 +251,6 @@ Firefox OS 提供:
 在资源和费用方面对于本地应用开发者来说更低的门槛
 
 
-# This is a button
-;MWC demonstrations
-MWC 展示
-
-
 # Title
 ;Developed with developers in mind
 把开发者放在心上的开发
@@ -338,16 +299,6 @@ MWC 展示
 现在就提交到 Firefox 市场
 
 
-# WIMJam is an event in MWC where developpers meet and code
-;Jam with us, learn about new tools, meet other developers and more
-与我们一起 Jam ，了解新的工具，与其他开发者沟通，等等
-
-
-# Button
-;Register
-注册
-
-
 # Title
 ;A superior Web experience
 卓越的网络体验
@@ -377,11 +328,6 @@ MWC 展示
 
 # Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
 ;Stand out <br>from the crowd
-突出重围
-
-
-# Title.
-;Stand out from the crowd
 突出重围
 
 
@@ -429,223 +375,13 @@ Firefox Android 版使您可以：
 面向开发者
 
 
-;Location
-位置
-
-
-;Firefox at MWC 2013 — Stand F20, Hall 8.1, App Planet
-Firefox 在 MWC 2013 的展位：App Planet 8.1 号馆的 F20 展位
-
-
-;From the South Entrance:
-从南侧入口：:
-
-
-;Walk straight down the main hallway of Hall 8.1. Our stand is located in the middle of the hall on the right.
-沿着8.1号馆的主走廊一直走，我们的展位在展厅中间。
-
-
-;From the North Entrance:
-从北侧入口:
-
-
-;Go up the escalator to Hall 8.1. Our stand is located in the middle of the hall.
-乘电梯到达8.1号馆，我们的展位在展厅中间。
-
-
-;Download map (PDF)
-下载地图 (PDF)
-
-
 ;For Operators & Manufacturers
 面向运营商和制造商
 
 
-;Mobile World Congress, Barcelona, 25 - 28 February 2013
-全球移动通讯大会，巴塞罗那，2013年2月25日至28日
-
-
-;Firefox at MWC 2013 — Schedule of events
-MWC 2013 上的 Firefox — 活动安排
-
-
-;Schedule
-日程安排
-
-
-;09:00-10:30 CET
-09:00-10:30 CET {ok}
-
-
-;12:30-13:00 CET
-12:30-13:00 CET {ok}
-
-
-;09:00-16:00 CET
-09:00-16:00 CET {ok}
-
-
-;13:00-15:00 CET
-13:00-15:00 CET {ok}
-
-
-;16:00-17:30 CET
-16:00-17:30 CET {ok}
-
-
-;16:00-23:00 CET (awards at 22:30)
-16:00-23:00 CET (颁奖时间是22:30)
-
-
-;17:45-18:30 CET
-17:45-18:30 CET {ok}
-
-
-;09:00 – 11:30:
-09:00 – 11:30: {ok}
-
-
-;11:30 – 14:00:
-11:30 – 14:00: {ok}
-
-
-;14:00 – 16:30:
-14:00 – 16:30: {ok}
-
-
-;16:30 – 19:00:
-16:30 – 19:00: {ok}
-
-
-;VP of Products, Mozilla
-Mozilla 产品副总裁
-
-
-# Title
-;Gary Kovacs CEO of Mozilla Keynote
-Mozilla 主题演讲 Mozilla CEO Gary Kovacs
-
-
-;Mozilla CEO Gary Kovacs’ keynote speech will discuss the benefits of an Open Web device in markets around the world and how Firefox OS will help operators, phone manufacturers and developers reach the next billion Web users.
-Mozilla CEO Gary Kovacs 的主题演讲将着重讨论开放网络设备为全球市场带来的重大突破以及Firefox OS 将如何帮助运营商，手机制造商以及开发者，为数亿互联网用户提供优质服务。
-
-
-;Hall 4, Conference Village, Auditorium 1
-4号大厅，会议村，1号礼堂
-
-
-# Title, Mobile World Live is to keep in English http://www.mobileworldlive.com
-;Mobile World Live Keynote with Mitchell Baker
-Mitchell Baker 出席移动世界实时直播主题演讲
-
-
-;Mitchell Baker, Chairperson of the Mozilla Foundation, will discuss the importance of bringing Open Web innovation to mobile devices.
-Mitchell Baker，Mozilla Foundation的董事会主席，探讨将开放网络创新引入移动设备的重要性。
-
-
-# Title
-;Mobile App Privacy Debate
-移动应用隐私讨论
-
-
-;Harvey Anderson, Vice President of Business Affairs and General Counsel at Mozilla, will take part in the debate “Mobile app privacy: What’s your view?” This interactive session is for anyone interested in helping consumers easily make privacy choices on a mobile device.
-Harvey Anderson，Mozilla 商务及法律总顾问副总裁, 将讨论“移动应用隐私：您怎么看？”这个交流互动环节欢迎任何对帮助保护用户在移动设备上隐私的这个话题感兴趣的观众参加。
-
-
-# Title
-;Apps Panel: Evolving Ecosystems
-应用座谈会：发展生态系统
-
-
-;Jay Sullivan, Vice President of Products, will take part in the Apps Panel: Evolving Ecosystems. The panel will discuss the current state of the apps industry and consider how the roles and responsibilities within it are adapting as the apps market evolves.
-Jay Sullivan, Mozilla 产品副总裁, 将参加应用座谈会： 发展生态系统。 座谈会将就应用领域的现状进行讨论，以及探讨应用市场演变时，应如何适应其角色和责任的变化。
-
-
-;Hall 4, Conference Village, Auditorium 2
-4号厅，会议村，2号大礼堂
-
-
-;GSMA Pavilion, Congress Square (CS80)
-GSMA 展馆, 大会广场 (CS80)
-
-
-# Title: keep Mobile World Live TV in English : http://www.mobileworldcongress.com/mobile-world-live/
-;Mobile World Live TV Panel
-移动世界实时直播电视座谈
-
-
-;Johnathan Nightingale, VP of Firefox Engineering, will participate in a discussion about future opportunities in the apps market.
-Johnathan Nightingale，Firefox 研发副总裁，将讨论应用市场的未来及机会。
-
-
-;Location: the live panel will be streamed on all major screens throughout the show area
-地点：实时座谈将会在会场所有主屏上实时直播
-
-
-# Title
-;Mobile Premier Awards & AppCircus After Party
-派对结束后的移动最佳奖项颁奖及应用秀
-
-
-;Firefox Marketplace VP Rick Fant will select and present the winning app.
-Firefox 应用商店副总裁 Rick Fant 将宣布获奖应用。
-
-
-# Title
-;WIP Jam - Day for Developers
-WIP 挑战赛 - 开发者日
-
-
-;The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and Mozilla Developer Evangelist Robert Nyman will host a workshop and Q&A session on “Why Open Web Apps & Firefox OS are good for mobile developers.” Mozilla developer evangelist Chris Heilmann will present an UnPanel on "HTML5 Beyond the Hype" and lead several HTML5 discussion groups. WIP Jam will also see DemoCamps of HTML5 apps created during Mozilla Developer Days. Full schedule available here: %(link)s
-这是MWC上为移动开发者准备的专场。Mozilla CTO Brendan Eich 和 Mozilla 技术布道师 Robert Nyman 将主持工作室及 Q&A 环节，讨论“开放网络应用和Firefox OS 为何能为移动开发者带来福音”。Mozilla 技术布道师 Chris Heilmann 将出席 UnPanel，讨论“HTML5 远超 Hype” ，并领导开发者们分组讨论 HTML5 。WIP 挑战赛还有 HTML5 应用的 DemoCamps 环节，将演示 Mozilla 开发者日上创建的各种精彩 HTML5 应用。全部日程安排见这里：%(link)s
-
-
-;Location TBD
-地点待定
-
-
-;Monday
-周一
-
-
-;Tuesday
-周二
-
-
-;Wednesday
-周三
-
-
-;Thursday
-周四
-
-
-;February 25
-2月25日
-
-
-;February 26
-2月26日
-
-
-;February 27
-2月27日
-
-
-;February 28
-2月28日
-
-
-;CEO, Mozilla
-Mozilla CEO
-
-
+# form, asking for mobile phone number
 ;Mobile
 移动
-
-
-;Back to top
-返回顶端
 
 
 ;Firefox Marketplace — Developer testimonials
@@ -677,5 +413,50 @@ Mozilla 和合作伙伴准备发布第一款 Firefox OS 智能手机
 
 ;Read about features, changes and more
 了解功能，更改以及其它信息
+
+
+# Form field
+;Description
+Description
+
+
+# Form error message
+;Please enter your first name.
+Please enter your first name.
+
+
+# Form error message
+;Please enter your last name.
+Please enter your last name.
+
+
+# Form error message
+;Please enter your company name.
+Please enter your company name.
+
+
+# Form, Physical address field (street, city...)
+;Address
+Address
+
+
+# Form field
+;City
+City
+
+
+# Form field
+;State/Province
+State/Province
+
+
+# Form field
+;Country
+Country
+
+
+# Form field, postal code
+;Zip
+Zip
 
 

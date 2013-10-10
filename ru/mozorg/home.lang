@@ -17,7 +17,7 @@
 
 # The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
 ;We are %(mozilla_wordmark)s
-Мы это %(mozilla_wordmark)s
+%(mozilla_wordmark)s - это мы все
 
 
 ;Doing good is part of our code
@@ -55,7 +55,7 @@
 
 
 ;We‘re bringing more people to the Web in more ways and from more places than ever before.
-We‘re bringing more people to the Web in more ways and from more places than ever before.
+Мы приносим Интернет большему числу людей, чем когда-либо прежде, всё более разными путями и из самых разных мест.
 
 
 ;Learn more about Firefox OS
@@ -73,11 +73,11 @@ We‘re bringing more people to the Web in more ways and from more places than e
 
 
 ;Get docs and demos, tools and tutorials and everything related to the Open Web.
-Get docs and demos, tools and tutorials and everything related to the Open Web.
+Получите документацию и демо, инструменты и учебные пособия, и всё, что связано с открытым Интернетом.
 
 
 ;Visit the Mozilla Developer Network
-Посетите Сеть разработчиков Mozilla
+Посетите сеть разработчиков Mozilla
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
@@ -91,11 +91,11 @@ Get docs and demos, tools and tutorials and everything related to the Open Web.
 
 # This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 ;Forge the future<br> of the Web
-Создайте будущее<br> Интернета
+Выкуйте будущее<br> Интернета
 
 
 ;Learn from some of the most passionate thinkers and inventors from around the world.
-Learn from some of the most passionate thinkers and inventors from around the world.
+Учитесь у некоторых из самых увлечённых мыслителей и изобретателей со всего мира.
 
 
 ;Come to the Mozilla Festival
@@ -103,7 +103,7 @@ Learn from some of the most passionate thinkers and inventors from around the wo
 
 
 ;Different by&nbsp;design
-Different by&nbsp;design
+Сделан с&nbsp;душой
 
 
 # This string is displayed only for locales with a press agency blog
@@ -123,14 +123,14 @@ Different by&nbsp;design
 
 # This string is displayed only for locales where we launch Firefox OS soon
 ;Become a Mobilizer today.
-Become a Mobilizer today.
+Станьте нашим Мобилизатором.
 
 
 ;You don’t have to know how to code to get involved with Mozilla. <a href="%s">Learn more about our volunteer opportunities</a>.
-Вам не нужно ничего знать о программировании, чтобы принять участие в проекте Mozilla. <a href="%s">Узнайте больше о возможностях предоставляемых добровольцам</a>.
+Вам не нужно ничего знать о программировании, чтобы принять участие в проекте Mozilla. <a href="%s">Узнайте больше о возможностях для добровольцев</a>.
 
 
 ;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
-Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
+Благодаря нашему глобальному сообществу, продукты и веб-сайты Mozilla доступны более чем на 70 языках. <a href="%(link_l10n)s">Помогите перевести их на ваш</a>.
 
 

@@ -1,202 +1,136 @@
+## NOTE: demo server for new home page is https://www-demo3.allizom.org/?v=1
+
+
 ;Home of the Mozilla Project
 Mozilla پراجیکٹ کا گھر
 
 
-;We are <img src="%(img)s" alt="Mozilla" height="92" width="348">
-ہم ہیں <img src="%(img)s" alt="Mozilla" height="92" width="348">
+# Used as a label for a button that scrolls through latest news.
+;Next article
+Next article
+
+
+# Used as a label for a button that scrolls through latest news.
+;Previous article
+Previous article
+
+
+# The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
+;We are %(mozilla_wordmark)s
+We are %(mozilla_wordmark)s
 
 
 ;Doing good is part of our code
 بھلا کرنا ہمارے کوڈ کا حصہ ہے
 
 
-;Different by&nbsp;Design
-ڈیزائن کے لحاظ سے مختلف
+;Get involved
+شامل ہوں
 
 
-;Proudly <br> non-profit
-فخر سے <br /> غیر منافع بخش
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Explore</i> our mission
+<i>Explore</i> our mission
 
 
-;Innovating <br> for&nbsp;you
-آپ کے&nbsp;لیے<br> تددید
+;Our principles guide us
+Our principles guide us
 
 
-;Fast,&nbsp;flexible, <br> secure
-تیز،&nbsp;لچکدار،<br>قابل بھروسا
+;We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
+We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
+
+
+;Read more about our mission
+Read more about our mission
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Look</i> ahead
+<i>Look</i> ahead
 
 
 ;Look ahead
 Look ahead
 
 
-;Firefox OS lets you live every moment to its fullest and build a brighter future for the Web.
-Firefox OS lets you live every moment to its fullest and build a brighter future for the Web.
+;We‘re bringing more people to the Web in more ways and from more places than ever before.
+We‘re bringing more people to the Web in more ways and from more places than ever before.
 
 
-;Find out how
-Find out how
+;Learn more about Firefox OS
+Firefox OS کے بارے میں مزید سیکھیں؟
 
 
-;Did you know?
-Did you know?
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Join</i> our community
+<i>Join</i> our community
 
 
-;From June 15 &ndash; September 15, thousands of Mozillians worldwide are throwing parties to make and share amazing projects.
-From June 15 &ndash; September 15, thousands of Mozillians worldwide are throwing parties to make and share amazing projects.
+# This <br> is strictly for visual formatting; translations can omit or reposition as needed.
+;Join our<br> developer community
+Join our<br> developer community
 
 
-;Join us
-ہم سے مل جائیں
+;Get docs and demos, tools and tutorials and everything related to the Open Web.
+Get docs and demos, tools and tutorials and everything related to the Open Web.
 
 
-;Firefox Flicks
-Firefox Flicks {ok}
+;Visit the Mozilla Developer Network
+Visit the Mozilla Developer Network
 
 
-;Congratulations to our winners
-ہمارے ونروں کو مبارک باد
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Forge</i> the future
+<i>Forge</i> the future
 
 
-;The votes are in and we‘re excited to present the winners of Firefox Flicks 2013. Thanks to everyone who entered!
-The votes are in and we‘re excited to present the winners of Firefox Flicks 2013. Thanks to everyone who entered!
+;Mozilla Festival
+Mozilla Festival
 
 
-;Watch the winning flicks
-جیتی ہوئی فلکس دیکھیں
+# This <br> is strictly for visual formatting; translations can omit or reposition as needed.
+;Forge the future<br> of the Web
+Forge the future<br> of the Web
 
 
-;Play Video
-وڈیو چلائیں
+;Learn from some of the most passionate thinkers and inventors from around the world.
+Learn from some of the most passionate thinkers and inventors from around the world.
 
 
-;Visit FirefoxFlicks.org
-FirefoxFlicks.org پر جائیں
+;Come to the Mozilla Festival
+Come to the Mozilla Festival
 
 
-;Share on Facebook
-Facebook پر شیئر کریں
+;Different by&nbsp;design
+ڈیزائن کے لحاظ سے مختلف
 
 
-;Tweet
-Tweet {ok}
-
-
-;I just watched the winning video in the #FirefoxFlicks contest. See all the winning flicks for yourself!
-میں نے ابھی ابھی #FirefoxFlicks مقابلے کی جیتی ہوئی وڈیو دیکھی۔ تمام جیتی ہوئی فلکس دیکھیں!
-
-
-;Share
-شیئر
-
-
-;Replay
-پھر چلائیں
-
-
-;Continue
-جاری رکھیں
-
-
-;Close
-بند کریں
-
-
-;Fast. Smart. Safe.
-تیز۔ ہوشیار۔ محفوظ۔
-
-
-;Get the mobile browser that’s got your back.
-وہ موبائل براؤزر حاصل کریں جسے آپ کا خیال ہے۔
-
-
-;Get Firefox for Android
-اینڈرویڈ کے لیے فایر فاکس حاصل کریں
-
-
+# This string is displayed only for locales with a press agency blog
 ;In the news
 خبروں میں
 
 
-;Telefonica Announces Launches of First Firefox OS Devices in Latin America
-Telefonica Announces Launches of First Firefox OS Devices in Latin America
+# This string is displayed only for locales with a press agency blog
+;See all news
+See all news
 
 
-;Deutsche Telekom Announces European Launch of Firefox OS Devices
-Deutsche Telekom Announces European Launch of Firefox OS Devices
+# This string is displayed only for locales where we launch Firefox OS soon
+;Help launch Firefox OS in your country.
+Help launch Firefox OS in your country.
 
 
-;Mozilla and partners prepare to launch first Firefox OS smartphones
-Mozilla اور شرکا پہلے Firefox OS سمارٹ فون لانچ کرنے کی تیاری میں
+# This string is displayed only for locales where we launch Firefox OS soon
+;Become a Mobilizer today.
+Become a Mobilizer today.
 
 
-;See all news »
-See all news »
+;You don’t have to know how to code to get involved with Mozilla. <a href="%s">Learn more about our volunteer opportunities</a>.
+You don’t have to know how to code to get involved with Mozilla. <a href="%s">Learn more about our volunteer opportunities</a>.
 
 
-;In the know
-In the know
+;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
+Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
 
 
-;See what’s next for the mobile Web.
-See what’s next for the mobile Web.
-
-
-;Become an Affiliate
-Become an Affiliate
-
-
-;Help us share Firefox with the world!
-ہمیں Firefox کو دنیا میں پھیلانے میں مدد کریں!
-
-
-;Launch your app on the web
-ویب پر اپنی ایپ چالو کریں
-
-
-;Be a part of Mozilla
-Mozilla کا حصہ بنیں
-
-
-;Volunteer with us
-ہمارے ساتھ رضاکار بنیں
-
-
-;Get involved in any area of the Mozilla Project.
-Mozilla پراجیکٹ کے کسی بھی جگہ شامل ہوں
-
-
-;Work with us
-ہمارے ساتھ کام کریں
-
-
-;Apply today and love the Web for a living.
-آج درخواست دیں اور کام کے لیے ویب سے محبت کریں۔
-
-
-;Find us
-ہمیں ڈھونڈیں
-
-
-;Contact one of our global Mozilla Spaces.
-Contact one of our global Mozilla Spaces.
-
-
-;Donate
-عطیات
-
-
-;Show your support and help us build a better Web.
-Show your support and help us build a better Web.
-
-
-;Learn more
-اور سیکھیں
-
-
-;Get to know Mozilla a little bit better.
-Mozilla کو کچھ بہتر طریقے سے جانیں۔
-
-
-;Go
-Go

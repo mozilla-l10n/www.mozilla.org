@@ -1,7 +1,5 @@
 ## active ##
-## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
-
-
+# # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 # Page <title> tag
 ;Plugin Check &amp; Updates
 Sgrùdadh ⁊ ùrachaidhean nam plugan
@@ -14,12 +12,12 @@ Sgrùdadh ⁊ ùrachaidhean nam plugan
 
 # This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
 ;Research
-Sgrùdaich
+Rannsaich
 
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-current version plugin
+current version plugin {ok}
 
 
 # This is a button informing the user that their plugin is up to date
@@ -44,7 +42,7 @@ so-leònte
 
 # Main title
 ;Check Your Plugins
-Sgrùdaich na plugain agad
+Sgrùd na plugain agad
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
@@ -56,19 +54,19 @@ Staid a' phlugain
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
-Chan eil ann ach <strong>taic chuingichte airson Internet Explorer</strong> a thaobh sgrùdadh nam plugan. 'S urrainn dhut "Innealan" &gt; "Rianaich na tuilleadain" a chleachdadh cuideachd.
+Chan eil mòran taic ri sgrùdadh phlugan airson <strong>Internet Explorer</strong>. Cleachd "Innealan" &gt; "Stiùirich na tuilleadain" cuideachd
 
 
 ;Step 1: Click Update to update a plugin.
-A' 1d cheum: Briog aig Ùraich gus plugan ùrachadh.
+Ceum 1: Briog air "Ùraich" gus plugan ùrachadh.
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
-An 2na ceum: Cuir an sàs gach ùrachadh a thathar a' moladh dhut  mus tòisich thu am brabhsair agad a-rithist.
+Ceum 2: Coilean gach ùrachadh a thathar a' moladh mus ath-thòisich thu am brabhsair agad.
 
 
 ;Potentially vulnerable plugins
-Plugain a dh'fhaodadh a bhith seo-leònte
+Plugain a dh'fhaodadh a bhith so-leònte
 
 
 ;Plugin
@@ -100,7 +98,7 @@ Air ais gun bharr
 
 
 ;Frequently Asked Questions
-Ceistean Àbhaisteach
+CÀBHA - Na Ceistean Àbhaisteach
 
 
 ;What is a plugin?
@@ -108,15 +106,15 @@ Dè th' ann am plugan?
 
 
 ;Plugins power videos, animation and games
-Tha plugan a' nearteachadh videothan, beòthalachaidhean is geamaichean.
+Obraichidh videothan, beòthachaidhean is geamannan air plugain
 
 
 ;They're built outside of Firefox by companies like Adobe Systems and Apple
-Tha iad iar an cruthachadh le companaidhean taobh a-muigh Firefox leithid Adobe Systems agus Apple.
+Tha iad 'ga dealbhadh taobh a-muigh Firefox le companaidhean mar Adobe Systems agus Apple
 
 
 ;Plugins don't always update automatically.
-Chan ùraich na plugain gu fèin-obrachail gach turas.
+Cha dèid plugain ùrachadh gu fèin-obrachail.
 
 
 ;Why should I update my plugins?
@@ -124,15 +122,15 @@ Carson a dh'ùraichinn na plugain agam?
 
 
 ;Old plugins can interrupt browsing and waste your time.
-Faodaidh seann-phlugain briseadh a-steach air brabhsadh 's tu a' call tìde.
+Faodaidh gun tuislich am brabhsadh ri linn seann-phlugan agus gun caill thu ùine.
 
 
 ;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
-Bidh <strong>cunnart nas motha ann</strong> o ionnsaigh le droch-bhathar, bìorasan agus cunnartan tèarainteachd eile ri linn sheann-phlugan.
+Ma tha na plugain agad ro aosta, <strong>bi thu fo chunnairt nas motha</strong> o ionnsaigh le bathar droch-rùnach, bìorasan agus cunnartan tèarainteachd eile.
 
 
 ;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
-Tha <strong>plugain ùra air an leasachadh</strong> agus bidh an lìon <strong>nas fhearr agus nas tèarainte dhut</strong> leotha.
+<strong>Tha leasachaidhean am broinn nam plugan ùra</strong> a nì an lìon <strong>nas fhearr agus nas sàbhailte</strong> dhut.
 
 
 # alt image
@@ -141,31 +139,31 @@ Glacadh-sgrìn de mhanaidsear nan tuilleadan
 
 
 ;How can Firefox help me?
-Ciamar a chuidicheas Firefox mise?
+Ciamar a chuidicheas Firefox mi?
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
-Ùraichidh Firefox na plugain agad leis fhèin o seo a-mach.  Bu chòir dhut sùil a thoirt air an duilleag seo gu cunbhalach agus na plugain agad ùrachadh a chum do thèarainteachd.
+Ùrachaidh Firefox na plugain dhut latha air choireigin san àm ri teachd ach mus dig an latha ud, bu chòir dhut tadhal air an làrach seo gu cunbhalach a dh'ùrachadh nam plugan airson do thèarainteachd fhèin.
 
 
 ;Which Plugins do I have?
-Dè na plugain a th' agam?
+Dè na plugain a tha agam?
 
 
 ;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
-Lorg sinn na plugain gu h-àrd agad; lean ris an ceuman a leanas gus na plugain a tha air an stàladh agad ann am Firefox fhaicinn:
+Chì thu na plugain a mhothaich sinn thuca gu h-àrd, gus sùil a thoirt air na plugain a tha stàlaichte agad ann am Firefox, dèan na leanas:
 
 
 ;Open the Tools menu.
-Fosgail clàr-taice nan Innealan.
+Fosgail clàr-taice nan innealan.
 
 
 ;Choose Add-ons.
-Tagh na Tuilleadain.
+Tagh "Tuilleadain".
 
 
 ;Click the plugins tab.
-Briog air taba nam Plugan.
+Briog air taba nam plugan.
 
 
 ;Want to spread the word?
@@ -173,7 +171,7 @@ Nach sgaoil thu am facal?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+Cum taic ri do charaidean is cum sàbhailte iad air loidhne! Tadhail air <a href="%(url)s">Firefox Affiliates</a> agus faigh baidse airson sgrùdadh nam plugan dhan làrach agad.
 
 
 ;How do I disable a plugin?
@@ -184,20 +182,32 @@ Ciamar a chuireas mi plugan à comas?
 Ann am Firefox:
 
 
+;Open the Tools menu.
+Fosgail clàr-taice nan innealan.
+
+
+;Choose Add-ons.
+Tagh "Tuilleadain".
+
+
+;Click the plugins tab.
+Briog air taba nam plugan.
+
+
 ;Click on a plugin in the list.
-Briog air plugan sa liosta.
+Briog air plugan san liosta.
 
 
 ;Click the Disable button.
-Briog air a' phutan Cuir à comas.
+Briog air a' phutan "Cuir à comas".
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
-Rabhadh: ma chuireas tu plugan à comas, chan urrainn dhut rudan sònraichte a dhèanamh tuilleadh. Mar eisimpleir, ma chuireas tu Flash à comas, chan fhaic thu videothan tuilleadh air làraichean a tha 'gan sruthadh.
+An aire: Ma chuireas tu à comas plugan, 's ciall dha sin nach urrainn dhut tuilleadh cuid a rudan a dhèanamh. Mar eisimpleir, ma chuireas tu Flash à comas, chan fhaic thu videothan air YouTube tuilleadh.
 
 
 ;Mozilla Support
-Taic airson Firefox mobile
+Taic Mozilla
 
 
 ;Have more questions?
@@ -205,6 +215,4 @@ A bheil barrachd cheistean agad?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-
-
+Tadhail air <a href="%(sumo_url)s">support.mozilla.org</a> airson barrachd taic!

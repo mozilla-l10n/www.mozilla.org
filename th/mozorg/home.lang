@@ -1,129 +1,131 @@
-## NOTE: demo server for new home page is https://www-demo3.allizom.org/?v=1
-
-
+# # NOTE: demo server for new home page is https://www-demo3.allizom.org/?v=1
 ;Home of the Mozilla Project
-Home of the Mozilla Project
+หน้าแรกของ Mozilla Project
 
 
 # Used as a label for a button that scrolls through latest news.
 ;Next article
-Next article
+บทความถัดไป
 
 
 # Used as a label for a button that scrolls through latest news.
 ;Previous article
-Previous article
+บทความก่อนหน้า
 
 
 # The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
 ;We are %(mozilla_wordmark)s
-We are %(mozilla_wordmark)s
+เราคือ %(mozilla_wordmark)s
 
 
 ;Doing good is part of our code
-Doing good is part of our code
+Doing good is part of our code {ok}
 
 
 ;Get involved
-Get involved
+มีส่วนร่วม
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Explore</i> our mission
-<i>Explore</i> our mission
+<i>สำรวจ</i>ภารกิจของเรา
 
 
 ;Our principles guide us
-Our principles guide us
+หลักการนำทางเรา
 
 
 ;We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
-We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
+เราเป็นชุมชนของนักเทคโนโลยี, นักคิด และนักประดิษฐ์ระดับโลก ที่ช่วยกันทำงานเพื่อรักษาให้อินเทอร์เน็ตมีชีวิตชีวาและเข้าถึงได้
 
 
 ;Read more about our mission
-Read more about our mission
+อ่านเพิ่มเติมเกี่ยวกับภารกิจของเรา
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Look</i> ahead
-<i>Look</i> ahead
+<i>มองไป</i>ข้างหน้า
 
 
 ;Look ahead
-Look ahead
+มองไปข้างหน้า
 
 
 ;We‘re bringing more people to the Web in more ways and from more places than ever before.
-We‘re bringing more people to the Web in more ways and from more places than ever before.
+เราจะพาผู้คนเข้าสู่โลกของเว็บในหนทางอื่นๆ และจากพื้นที่อื่นๆ มากกว่าที่เคยมีมา
 
 
 ;Learn more about Firefox OS
-Learn more about Firefox OS
+เรียนรู้เพิ่มเติมเกี่ยวกับ Firefox OS
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Join</i> our community
-<i>Join</i> our community
+<i>เข้าร่วม</i>ชุมชนของเรา
 
 
 # This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 ;Join our<br> developer community
-Join our<br> developer community
+เข้าร่วม<br>ชุมชนนักพัฒนาของเรา
 
 
 ;Get docs and demos, tools and tutorials and everything related to the Open Web.
-Get docs and demos, tools and tutorials and everything related to the Open Web.
+รับเอกสาร ตัวอย่าง เครื่องมือ โปรแกรมสอน และทุกอย่างที่เกี่ยวข้องกับ Open Web
 
 
 ;Visit the Mozilla Developer Network
-Visit the Mozilla Developer Network
+เยี่ยมชม Mozilla Developer Network
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Forge</i> the future
-<i>Forge</i> the future
+<i>หลอมรวม</i>อนาคต
 
 
 ;Mozilla Festival
-Mozilla Festival
+Mozilla Festival {ok}
 
 
 # This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 ;Forge the future<br> of the Web
-Forge the future<br> of the Web
+หลอมรวมอนาคต<br>ของเว็บ
 
 
 ;Learn from some of the most passionate thinkers and inventors from around the world.
-Learn from some of the most passionate thinkers and inventors from around the world.
+เรียนรู้จากเหล่านักคิดและนักประดิษฐ์ไฟแรงจากทั่วโลก
 
 
 ;Come to the Mozilla Festival
-Come to the Mozilla Festival
+เข้าร่วม Mozilla Festival
 
 
 ;Different by&nbsp;design
-Different by&nbsp;design
+แตกต่างด้วย&nbsp;การออกแบบ
 
 
 # This string is displayed only for locales with a press agency blog
 ;In the news
-In the news
+ในข่าว
 
 
 # This string is displayed only for locales with a press agency blog
 ;See all news
-See all news
+ดูข่าวทั้งหมด
+
+
+;Get involved
+มีส่วนร่วม
 
 
 # This string is displayed only for locales where we launch Firefox OS soon
 ;Help launch Firefox OS in your country.
-Help launch Firefox OS in your country.
+ช่วยเปิดตั้ว Firefox OS ในประเทศของคุณ
 
 
 # This string is displayed only for locales where we launch Firefox OS soon
 ;Become a Mobilizer today.
-Become a Mobilizer today.
+ร่วมเป็น Mobilizer ตั้งแต่วันนี้
 
 
 ;You don’t have to know how to code to get involved with Mozilla. <a href="%s">Learn more about our volunteer opportunities</a>.
@@ -131,6 +133,4 @@ Become a Mobilizer today.
 
 
 ;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
-Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
-
-
+ขอบคุณชุมชนของเราทั่วโลก ผลิตภัณฑ์และเว็บไซต์ของ Mozilla มีในภาษาต่างๆ กว่า 70 ภาษา <a href="%(link_l10n)s">ช่วยแปลเป็นภาษาของคุณ</a>

@@ -1,3 +1,4 @@
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
 ;Get Monthly News
 รับข่าวรายเดือน
 
@@ -7,7 +8,7 @@
 
 
 ;Your email address:
-อีเมลของคุณ:
+ที่อยู่อีเมลของคุณ
 
 
 ;Text
@@ -19,7 +20,7 @@
 
 
 ;Language:
-Language:
+ภาษา:
 
 
 ;Select country
@@ -27,7 +28,7 @@ Language:
 
 
 ;Country:
-Country:
+ประเทศ:
 
 
 ;Whoops! Be sure to enter a valid email address.
@@ -110,9 +111,8 @@ Firefox Mobile {ok}
 ข่าว Beta
 
 
-# Description for the newsletter in Newsletter subscription page
 ;Read about the latest features for Firefox desktop and mobile before the final release.
-อ่านเรื่องที่เกี่ยวกับความสามารถล่าสุดของ Firefox สำหรับคอมพิวเตอร์ตั้งโต๊ะและอุปกรณ์เคลื่อนที่ก่อนที่จะออกตัวจริง
+Read about the latest features for Firefox desktop and mobile before the final release.
 
 
 ;Let’s Be Friends!
@@ -219,87 +219,87 @@ Firefox ก็อยู่บนเว็บเครือข่ายสัง
 
 
 ;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
-I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+ฉันโอเคกับที่คุณควบคุมข้อมูลนี้ตามที่คุณอธิบายใน<a href="%s">นโยบายความเป็นส่วนตัว</a>
 
 
 ;The supplied link has expired. You will receive a new one in the next newsletter.
-The supplied link has expired. You will receive a new one in the next newsletter.
+ลิงก์ที่ให้ไปหมดอายุแล้ว คุณจะได้รับลิงก์ใหม่ในจดหมายข่าวอันถัดไป
 
 
 ;Something is amiss with our system, sorry! Please try again later.
-Something is amiss with our system, sorry! Please try again later.
+มีบางอย่างไม่ถูกต้องในระบบของเรา ขออภัย! โปรดลองใหม่อีกครั้งในภายหลัง
 
 
 ;English&nbsp;only
-English&nbsp;only
+ภาษาอังกฤษเท่านั้น
 
 
 ;Newsletter Subscriptions
-Newsletter Subscriptions
+บอกรับจดหมายข่าว
 
 
 ;Newsletter confirm
-Newsletter confirm
+ยืนยันจดหมาข่าว
 
 
 ;Format:
-Format:
+รูปแบบ:
 
 
 ;You’ve been unsubscribed.
-You’ve been unsubscribed.
+คุณได้ยกเลิกการบอกรับแล้ว
 
 
 ;We’re sorry to see you go.
-We’re sorry to see you go.
+เราเสียใจที่เห็นคุณจากไป
 
 
 ;Would you mind telling us why you’re leaving?
-Would you mind telling us why you’re leaving?
+จะเป็นไรไหมถ้าคุณบอกเหตุผลที่คุณไป?
 
 
 ;Other…
-Other…
+อื่นๆ …
 
 
 ;While here, why not check out some more Firefox awesomeness.
-While here, why not check out some more Firefox awesomeness.
+ระหว่างนี้ ทำไมไม่ลองดูความเจ๋งอย่างอื่นๆ ของ Firefox ล่ะ
 
 
 ;Get up and go
-Get up and go
+ก้าวไปด้วยความมุ่งมั่น
 
 
 ;It’s your Web anywhere you go.
-It’s your Web anywhere you go.
+มันคือเว็บของคุณในทุกที่ที่คุณไป
 
 
 ;Get Firefox for mobile!
-Get Firefox for mobile!
+Firefox สำหรับอุปกรณ์เคลื่อนที่!
 
 
 ;Added extras
-Added extras
+เพิ่มความสามารถ
 
 
 ;Make Firefox do more with add-ons.
-Make Firefox do more with add-ons.
+Firefox ทำได้มากกว่าด้วยส่วนเสริม
 
 
 ;Find out how!
-Find out how!
+ค้นหาว่าทำอย่างไร!
 
 
 ;About us
-About us
+เกี่ยวกับเรา
 
 
 ;What’s Mozilla all about?
-What’s Mozilla all about?
+Mozilla คืออะไร?
 
 
 ;We’re glad you asked!
-We’re glad you asked!
+เรายินดีมากที่คุณถาม!
 
 
 # Description for the newsletter in Newsletter subscription page
@@ -325,6 +325,11 @@ Discover the latest, coolest HTML5 apps on Firefox OS.
 # Description for the newsletter in Newsletter subscription page
 ;Get a weekly tip on how to super-charge your Firefox experience.
 Get a weekly tip on how to super-charge your Firefox experience.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Read about the latest features for Firefox desktop and mobile before the final release.
 
 
 # Description for the newsletter in Newsletter subscription page
@@ -360,5 +365,3 @@ A monthly newsletter on how to get involved with Mozilla on your campus.
 # Description for the newsletter in Newsletter subscription page
 ;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
 Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
-
-

@@ -1,6 +1,6 @@
 ## active ##
 ;Navigation
-Uhamba-hambo
+Phendlaphendla
 
 
 ;About
@@ -32,7 +32,7 @@ Iilebhu
 
 
 ;skip to Navigation
-Tsibela Kuhamba-hambo
+tsibela Kuhamba-hambo
 
 
 ;switch language
@@ -60,7 +60,7 @@ Iziko Leendaba
 
 
 ;Contact Us
-Qhagamshelana Nathi
+Qhagamshelana nathi
 
 
 ;Other languages:
@@ -69,7 +69,7 @@ Ezinye iilwimi:
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%Y-%m-%d {ok}
+i-%Y-%m-%d
 
 
 ;Legal Notices
@@ -93,7 +93,7 @@ Vala
 
 
 ;(in English)
-(ngesiNgesi)
+(in English) {ok}
 
 
 ;Return to top
@@ -134,15 +134,15 @@ Iividiyo
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-Ngaphandle kokuba <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">iCreative Commons Attribution Zisabelana NgeLayisenisi Efanayo v3.0</a> okanye naluphi na uhlelo lwamvanje.
+Ngaphandle kokuba kwenzeke ngendlela <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">yokuba zibe iiNgcaphephe zisaBelana Ngelayisenisi Efanayo v3.0</a> okanye uhlelo lwamvanje.
 
 
 ;Report Trademark Abuse
-Xela Ukusetyenziswa Kakubi Kophawu Lorhwebo
+Xela Ukuxhatshazwa Kophawu Lorhwebo
 
 
 ;Free Upgrade
-Hlaziya Simahla
+Ehlaziyiweyo Simahla
 
 
 # social networks such as Facebook and Twitter
@@ -151,7 +151,7 @@ Silandele:
 
 
 ;Customize with Add-ons
-Lungiselela ngeZongezelelo
+Qhelanisa izongezelelo
 
 
 ;Learn More
@@ -163,23 +163,23 @@ Bukela ividiyo
 
 
 ;WebM format
-Ifomathi yeWebM
+Ifomati yeWebM
 
 
 ;Ogg Theora format
-Ifomathi ye-Ogg Theora
+Ifomati ye-Ogg Theora
 
 
 ;MPEG-4 format
-Ifomathi yeMPEG-4
+Ifomati yeMPEG-4
 
 
 ;Mobile
-Ehambayo
+Imfonomfono Ephathwayo
 
 
 ;Check out the new look and feel of Firefox.
-Hlola inkangeleko entsha netshintshileyo yeFirefox.
+Jonga iFirefox ekhangeleka ntsha.
 
 
 ;View Full Site
@@ -191,11 +191,11 @@ Fumana iFirefox ye-Android
 
 
 ;Download for <span>Android</span>
-Khuphela <span>eye-Android</span>
+Khuphela <span>iAndroid</span>
 
 
 ;Desktop
-Idesktop
+Idesktopu
 
 
 ;Firefox Beta for mobile
@@ -211,11 +211,11 @@ I-imeyile
 
 
 ;Super speed
-Esona Santya Siphezulu
+Isantya esixhomileyo
 
 
 ;Stunning graphics
-Iigrafiki ezingummangaliso
+Iigrafiki ezimmangalisayo
 
 
 ;The latest technologies
@@ -223,7 +223,7 @@ Ubugcisa bamvanje
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Udinga ehlaziyiweyo! Hlala ukhuselekile ngaphantsi nje komzuzu. <br/> Qalisa ukusebenzisa iFirefox ukuze ufumana okona kungcono ekubhrawuzeni nakulungiselelo lweWebhu. <br/> Iyakhawuleza yaye isimahla!
+Ufuna ehlaziyiweyo! Hlala ukhuselekile ngaphantsi komzuzu. <br/> Qala ukusebenzisa iFirefox yakho entsha ukuze ubhrawuze yaye uqhelanise ngcono kwiWebhu. <br/>   Iyakhawuleza yaye ikhuselekile!
 
 
 ;Upgrade now
@@ -250,7 +250,7 @@ Okwabucala
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Iinxalenye zalo mbandela zezowe- ©1998–%(unyaka_omiyo) ziphuma kubantu abanikele kwi-mozilla.org Umbandela ofumanekayo phantsi <a href="%(url)s">kwelayisenisi yeCreative Commons</a>.
+Iinxalenye zalo mba zezowe-©1998–%(current_year) ziyilwe ngabanikeli bemozilla.org contributors. Umba ofumanekayo phantsi <a href="%(url)s">kwelayisenisi yeCreative Commons</a>.
 
 
 # Footer string
@@ -365,4 +365,9 @@ Amahlakani
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-Get Mozilla updates
+Fumana ezihlaziyiweyo zeMozilla
+
+
+# share button for social networks
+;Share
+Yabelana

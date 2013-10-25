@@ -17,27 +17,27 @@ Qhagamshelana neqela lethu lophuhliso lwezoshishino ukuze uzimanye.
 
 # Field
 ;First Name
-Igama Lokuqala
+First Name
 
 
 # Field
 ;Last Name
-Ifani
+Last Name
 
 
 # Field
 ;Title
-Isibizo sakho
+Title
 
 
 # Field
 ;Company
-Inkampani
+Company
 
 
 # Field
 ;Website
-Iwebhusayithi
+Website
 
 
 # Field
@@ -45,11 +45,12 @@ Iwebhusayithi
 I-imeyile
 
 
-# Field
+# Form field
 ;Phone
-Umnxeba
+Phone
 
 
+# Form field
 ;Interest:
 Umdla:
 
@@ -67,11 +68,6 @@ Okunye
 # Tooltip for selected options
 ;Interest
 Umdla
-
-
-# Comment field default text
-;Comments or questions?
-Unamagqabaza okanye umbuzo?
 
 
 # Submit button text
@@ -103,11 +99,6 @@ Hlola isayithi
 Khanyisa indlela yakho
 
 
-;We’re enabling operators, phone manufacturers and developers to manage, customize and own relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
-Sivumela abalawuli, abavelisi beminxeba nabaphuhlisi ukuba balawule, baziqhelanise baze babuthabathele kubo ubudlelwane babo nabathengi babo ngokuthe ngqo ngeemveliso zethu zemfonomfono eziphathwayo: <a %(url1)s>iFirefox OS</a>, <a %(url2)s>iFirefox Marketplace</a> kunye <a %(url3)s>neFirefox ye-Android</a>.
-
-
-# This is exactly the same string as above but the verb 'own' was changed to 'improve'
 ;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
 Sivumela abalawuli, abavelisi beminxeba nabaphuhlisi ukuba balawule, baziqhelanise baze babuthabathele kubo ubudlelwane babo nabathengi babo ngokuthe ngqo ngeemveliso zethu zemfonomfono eziphathwayo: <a %(url1)s>iFirefox OS</a>, <a %(url2)s>iFirefox Marketplace</a> kunye <a %(url3)s>neFirefox ye-Android</a>.
 
@@ -125,26 +116,9 @@ Iindaba zakutshanje
 Zimanye nathi
 
 
-# App Planet is a location in the building, don't translate
-;Join us at Stand F20, Hall 8.1, App Planet
-Zimanye nathi eStand F20, kwiHall 8.1, e-App Planet
-
-
-;Our keynote & other scheduled events
-Iziganeko zethu eziphambili & nezinye ezicwangcisiweyo
-
-
-;Firefox tweets from MWC in Barcelona
-Ithwithi zeFirefox ezivela kwa-MWC eBarcelona
-
-
 # Title
 ;The Web is the platform
 IWebhu liqonga
-
-
-;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved.</a>
-Njengoko ixhaswa ngamanye awona magama aphambili kolu shishino, iFirefox OS liqonga elivulekileyo elikhuthaza uthatho-nxaxheba olukhulu kumaxabiso. <a %(url)s>Bona indlela onokubandakanyeka ngayo.</a>
 
 
 # Rewording of the previous sentence to link to the Firefox OS consumer site
@@ -198,14 +172,6 @@ Ukuthathela kubo kwanolawulo lobudlelwane kunye nabathengi
 # List item
 ;Customized phones that meet the specific needs of various target markets
 Iminxeba ehlangabezana neemfuno ezithe ngqo zeemarike ezahlukeneyo
-
-
-;White Papers
-Amaphepha Amhlophe
-
-
-;Learn more about the technology behind Firefox OS
-Funda okungakumbi ngobuchwepheshe beFirefox OS
 
 
 # This is the same string as the one in the contact form but it doesn't have a final dot
@@ -269,7 +235,7 @@ Eyona ndawo yakha yankulu yabaphuhlisi
 
 # List title
 ;Marketplace offers:
-IMarketplace inikezela oku:
+IMarike inikezela oku:
 
 
 # List item. Tier 1 developers = very famous developpers from top companies
@@ -285,11 +251,6 @@ Okuqulathiweyo okujoliswe kwimicro kuzo zonke iimeko ngenjongo yokuhlangabezana 
 # List item
 ;Lower barriers to entry for local app developers in both resource and cost
 Imidala enyenyisiweyo yokungenela kwabaphuhlisi be-app basekuhlaleni kwimithombo eluncedo namaxabiso
-
-
-# This is a button
-;MWC demonstrations
-Imiboniso ye-MWC
 
 
 # Title
@@ -337,17 +298,7 @@ Unayo i-app?
 
 
 ;Submit it to the Firefox Marketplace today
-Yifake kwiFirefox Marketplace namhlanje
-
-
-# WIMJam is an event in MWC where developpers meet and code
-;Jam with us, learn about new tools, meet other developers and more
-Butha kunye nathi, ufunde ngezixhobo ezintsha, udibane kwanabaphuhlisi abangabanye nabangakumbi
-
-
-# Button
-;Register
-Bhalisa
+Yifake kwiMarike yeFirefox namhlanje
 
 
 # Title
@@ -382,11 +333,6 @@ Xhakamfula amathuba enkonzo anjengeFirefox Marketplace neWebRTC ukuze udale imin
 Gqama <br>kwisihlwele
 
 
-# Title.
-;Stand out from the crowd
-Gqama kwisihlwele
-
-
 ;Take advantage of our strong brand and service offerings to differentiate your product and drive sales.
 Zixhakamfulele igama lemveliso yethu enamandla kunye neminikelo yenkonzo ukuze wahlule imveliso yakho neentengiso.
 
@@ -411,7 +357,7 @@ Wakhe iminikelo emitsha yenkonzo
 
 
 ;Integrate services directly into the browser with Firefox Marketplace and WebRTC to free yourself from the constraints of proprietary platforms.
-Uhlomele iinkonzo ngqo kwibhrawuza kunye neFirefox Marketplace neWebRTC ukuze ukhululeke kwizithintelo zamaqonga alingana nala.
+Uhlomele iinkonzo ngqo kwibhrawuza kunye neMarike yeFirefox neWebRTC ukuze ukhululeke kwizithintelo zamaqonga alingana nala.
 
 
 # list item sub-title
@@ -431,224 +377,12 @@ Amathuba okuba lihlakani lethu
 Kwabaphuhlisi
 
 
-# # LOCATION OVERLAY AND MAP ##
-;Location
-Indawo
-
-
-;Firefox at MWC 2013 — Stand F20, Hall 8.1, App Planet
-IFirefox e-MWC 2013 — kwiStand F20, kwiHall 8.1, e-App Planet
-
-
-;From the South Entrance:
-Xa usuka kwiSango Elingezantsi:
-
-
-;Walk straight down the main hallway of Hall 8.1. Our stand is located in the middle of the hall on the right.
-Hamba ngqo uhle ngeHall 8.1. IStand sethu simi embindini weholo ngasekunene.
-
-
-;From the North Entrance:
-Xa usuka kwiSango Elingasentla:
-
-
-;Go up the escalator to Hall 8.1. Our stand is located in the middle of the hall.
-Nyuka ngezinyuko ezihambayo uye kwiHall 8.1. IStand sethu simi embindini weholo.
-
-
-;Download map (PDF)
-Khuphela imaphu (PDF)
-
-
 ;For Operators & Manufacturers
 Kubalawuli & Nabavelisi
 
 
-;Mobile World Congress, Barcelona, 25 - 28 February 2013
-Inkongolo Yehlabathi Yeemfonomfono Eziphathwayo, eBarcelona, ngomhla wama-25 ukuya kutsho kowama-28 kuFebhruwari 2013
-
-
-;Firefox at MWC 2013 — Schedule of events
-IFirefox kwi-MWC 2013 — Isicwangciso semicimbi
-
-
-;Schedule
-Isicwangciso
-
-
-;09:00-10:30 CET
-09:00-10:30 CET {ok}
-
-
-;12:30-13:00 CET
-12:30-13:00 CET {ok}
-
-
-;09:00-16:00 CET
-09:00-16:00 CET {ok}
-
-
-;13:00-15:00 CET
-13:00-15:00 CET {ok}
-
-
-;16:00-17:30 CET
-16:00-17:30 CET {ok}
-
-
-;16:00-23:00 CET (awards at 22:30)
-16:00-23:00 CET (amawonga anikezelwa nge-22:30)
-
-
-;17:45-18:30 CET
-17:45-18:30 CET {ok}
-
-
-;09:00 – 11:30:
-09:00 – 11:30: {ok}
-
-
-;11:30 – 14:00:
-11:30 – 14:00: {ok}
-
-
-;14:00 – 16:30:
-14:00 – 16:30: {ok}
-
-
-;16:30 – 19:00:
-16:30 – 19:00: {ok}
-
-
-;VP of Products, Mozilla
-I-VP Yemveliso, iMozilla
-
-
-# Title
-;Gary Kovacs CEO of Mozilla Keynote
-Intetho ephambili kaGary Kovacs i-CEO yeMozilla
-
-
-;Mozilla CEO Gary Kovacs’ keynote speech will discuss the benefits of an Open Web device in markets around the world and how Firefox OS will help operators, phone manufacturers and developers reach the next billion Web users.
-Intetho ephambili ye-CEO yeMozilla uGary Kovacs iza kuxoxa ngeenzuzo zesixhobo seWebhu Evulekileyo kwiimarike zehlabathi kwanendlela iFirefox OS eza kubanceda ngayo abalawuli, abavelisi beminxeba nabaphuhlisi ukuze bafikelele abasebenzisi beWebhu abakwibhiliyoni elandelayo.
-
-
-;Hall 4, Conference Village, Auditorium 1
-KwiHall 4, kwiConference Village, kwi-Auditorium 1
-
-
-# Title, Mobile World Live is to keep in English http://www.mobileworldlive.com
-;Mobile World Live Keynote with Mitchell Baker
-Intetho Ephambili YeMobile World Live noMitchell Baker
-
-
-;Mitchell Baker, Chairperson of the Mozilla Foundation, will discuss the importance of bringing Open Web innovation to mobile devices.
-UMitchell Baker, onguSihlalo weMozilla Foundation, uza kuxoxa ngokubaluleka kokuzisa izinto ezintsha zeWebhu Evulekileyo kwizixhobo eziphathwayo.
-
-
-# Title
-;Mobile App Privacy Debate
-Ingxoxo Ngemiba Yabucala Ye-App Yemfonomfono Ephathwayo
-
-
-;Harvey Anderson, Vice President of Business Affairs and General Counsel at Mozilla, will take part in the debate “Mobile app privacy: What’s your view?” This interactive session is for anyone interested in helping consumers easily make privacy choices on a mobile device.
-UHarvey Anderson, uSekela-mongameli weMicimbi Yezoshishino noMcebisi Jikelele kwiMozilla, uza kuthatha inxaxheba kwingxoxo ethi “Imiba yabucala ye-app yemfonomfono ephathwayo: Luthini olwakho uluvo?” Le seshoni yokubonisana yeyakhe wonke umntu onomdla ekuncedeni abathengi kube lula kubo ukukhetha imiba yabucala kwisixhobo esiphathwayo.
-
-
-# Title
-;Apps Panel: Evolving Ecosystems
-IQela le-Apps Panel: Ukuvela Kobudlelwane Nezendalo
-
-
-;Jay Sullivan, Vice President of Products, will take part in the Apps Panel: Evolving Ecosystems. The panel will discuss the current state of the apps industry and consider how the roles and responsibilities within it are adapting as the apps market evolves.
-UJay Sullivan, uSekela-mongameli weeMveliso, iza kuthatha inxaxheba kwiQela lee-Apps: Ukuvela Kobudlelwane Nezendalo. Eli qela liza kuxoxa ngesabelo esikhoyo kushishino lwee-apps lize liqwalasele nendlela iindima noxanduva olutshintsha ngayo njengoko kuvela iimarike zee-apps.
-
-
-;Hall 4, Conference Village, Auditorium 2
-KwiHall 4, Conference Village, e-Auditorium 2
-
-
-;GSMA Pavilion, Congress Square (CS80)
-GSMA Pavilion, Congress Square (CS80) {ok}
-
-
-# Title: keep Mobile World Live TV in English : http://www.mobileworldcongress.com/mobile-world-live/
-;Mobile World Live TV Panel
-I-Mobile World Live TV Panel
-
-
-;Johnathan Nightingale, VP of Firefox Engineering, will participate in a discussion about future opportunities in the apps market.
-UJohnathan Nightingale, i-VP Yobunjineli BeFirefox, uza kuthatha inxaxheba kwingxoxo engamathuba ezayo kwiimarike zee-apps.
-
-
-;Location: the live panel will be streamed on all major screens throughout the show area
-Indawo: iqela liza kusasazwa ngqo kwizikrini eziphambili kuyo yonke indawo enalo mboniso
-
-
-# Title
-;Mobile Premier Awards & AppCircus After Party
-Amawonga EPrimier Emfonomfono Ephathwayo & Netheko Lamva
-
-
-;Firefox Marketplace VP Rick Fant will select and present the winning app.
-I-VP yeFirefox Marketplace uRick Fant uza kukhetha aze anikezele nge-app ephume phambili.
-
-
-# Title
-;WIP Jam - Day for Developers
-I-WIP Jam - Usuku Lwabaphuhlisi
-
-
-;The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and Mozilla Developer Evangelist Robert Nyman will host a workshop and Q&A session on “Why Open Web Apps & Firefox OS are good for mobile developers.” Mozilla developer evangelist Chris Heilmann will present an UnPanel on "HTML5 Beyond the Hype" and lead several HTML5 discussion groups. WIP Jam will also see DemoCamps of HTML5 apps created during Mozilla Developer Days. Full schedule available here: %(link)s
-Umcimbi ophambili wabaphuhlisi beemfonomfono eziphathwayo kwi-MWC. I-CTO yeMozilla uBrendan Eich noMphuhlisi onguMvangeli uRobert Nyman baza kusindleka intlanganiso kunye neseshoni yemibuzo neempendulo kumba othi “Isizathu Sokuba Ii-Apps Ezivulekileyo ZeWebhu & NeFirefox OS zibalungele abaphuhlisi beemfonomfono eziphathwayo.” Umphuhlisi weMozilla okwangumvangeli uChris Heilmann kunikezela umbandela wakhe yedwa "I-HTML5 Emva Kwayo Yonke Le Nto Iqhubekayo" aze akhokele namaqela awohlukeneyo eengxoxo ezinge-HTML5. I-WIP Jam iza kubona iiDemoCamps zee-apps zeHTML5 zisenziwa ngethuba leeNtsuku Zabaphuhlisi BeMozilla. Isicwangciso esipheleleyo siyafumaneka apha: %(link)s
-
-
-;Location TBD
-Indawo ye-TBD
-
-
-;Monday
-Mvulo
-
-
-;Tuesday
-Lwesibini
-
-
-;Wednesday
-Lwesithathu
-
-
-;Thursday
-Lwesine
-
-
-;February 25
-Febhruwari 25
-
-
-;February 26
-Febhruwari 26
-
-
-;February 27
-Febhruwari 27
-
-
-;February 28
-Febhruwari 28
-
-
-;CEO, Mozilla
-I-CEO, yeMozilla
-
-
 ;Mobile
-Imfonomfono Ephathwayo
-
-
-;Back to top
-Buyela emantla
+Mobile
 
 
 ;Firefox Marketplace — Developer testimonials
@@ -670,8 +404,8 @@ Bukela ividiyo yethu eshwankathelweyo yeNkongolo Yehlabathi Yeemfonomfono Ezipha
 
 
 # Press title in Recent News
-;Mozilla and partners prepare to launch first Firefox OS smartsphones
-IMozilla namahlakani ayo alungiselela ukusungula iismartphone zeFirefox OS zokuqala ngqa
+;Mozilla and partners prepare to launch first Firefox OS smartphones
+IMozilla namahlakani ayo alungiselela ukusungula iifowuni ezichubekileyo zeFirefox OS
 
 
 ;View the version notes
@@ -680,3 +414,84 @@ Jonga amanqaku ohlelo
 
 ;Read about features, changes and more
 Funda ngeenkalo, iinguqu nokunye okungakumbi
+
+
+# Form field
+;Description
+Description
+
+
+# Form field
+;First Name
+First Name
+
+
+# Form error message
+;Please enter your first name.
+Please enter your first name.
+
+
+# Form field
+;Last Name
+Last Name
+
+
+# Form error message
+;Please enter your last name.
+Please enter your last name.
+
+
+# ex: president, CEO...
+;Title
+Title
+
+
+# Form field
+;Company
+Company
+
+
+# Form error message
+;Please enter your company name.
+Please enter your company name.
+
+
+# Form field
+;Website
+Website
+
+
+# Form error message
+# Form field
+;Phone
+Phone
+
+
+# form, asking for mobile phone number
+;Mobile
+Mobile
+
+
+# Form, Physical address field (street, city...)
+;Address
+Address
+
+
+# Form field
+;City
+City
+
+
+# Form field
+;State/Province
+State/Province
+
+
+# Form field
+;Country
+Country
+
+
+# Form field, postal code
+;Zip
+Zip

@@ -1,9 +1,7 @@
-## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
-
-
+# # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 # Page <title> tag
 ;Plugin Check &amp; Updates
-Plugin Check &amp; Updates
+Kontrol û Nûkirinên Pêvekan
 
 
 # This is a button telling the user to update their plugin
@@ -18,7 +16,7 @@ Vekolîn
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-current version plugin
+pêveka versiyona niha
 
 
 # This is a button informing the user that their plugin is up to date
@@ -28,12 +26,12 @@ Nû bike
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+Nîşaneya pêvekê
 
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+nenas
 
 
 # This is the string used to indicate that the plugin is vulnerable
@@ -47,11 +45,11 @@ Pêvekên xwe kontrol bike
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Keeping your plugins up to date helps Firefox run safely and smoothly.
+Eger pêvekên te nû bin, Firefox dê ewletir û tekûztir bixebite.
 
 
 ;Plugin Status
-Plugin Status
+Rewşa Pêvekan
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -71,7 +69,7 @@ Pêvekên bihîstiyariya wan pêkan e
 
 
 ;Plugin
-Plugin
+Pêvek
 
 
 ;Status
@@ -83,19 +81,19 @@ Rewş
 
 
 ;Outdated Plugins
-Outdated Plugins
+Pêvekên Kevn
 
 
 ;Unknown Plugins
-Unknown Plugins
+Pêvekên Nenas
 
 
 ;These plugins are up to date
-These plugins are up to date
+Ev pêvek kevn in
 
 
 ;Back to Top
-Back to Top
+Vegere Jorê
 
 
 ;Frequently Asked Questions
@@ -136,7 +134,7 @@ Pêvekên kevn <strong>rîska rûbirûmana</strong> li êrîş, vîrus, sepanên
 
 # alt image
 ;Screenshot of Add-Ons manager
-Screenshot of Add-Ons manager
+Birêvebera Wêneyê Ekranê û Add-Onan
 
 
 ;How can Firefox help me?
@@ -156,11 +154,11 @@ Me bi awayekî xweber pêvekên te yên li jêrê vedîtin, ji bo ku pêvekên d
 
 
 ;Open the Tools menu.
-Pêşeka Amûrê veke.
+Menuya Amûran veke.
 
 
 ;Choose Add-ons.
-Ji navê Add-onsê hilbijêre.
+Add-onan hilbijêre.
 
 
 ;Click the plugins tab.
@@ -168,11 +166,11 @@ Hilpekîna pêvekan bitikîne.
 
 
 ;Want to spread the word?
-Want to spread the word?
+Dixwazî li cîhanê belav bikî?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+Alîkariya hevalên xwe bike ku înterneta wan ewle be! Serdana  <a href="%(url)s">Hevkarên Firefoxê</a> bike ku pêvekeke nîşaneya malpera te kontrol dike bistînî.
 
 
 ;How do I disable a plugin?
@@ -181,6 +179,18 @@ Dikarim pêvekekeê çawan neçalak bikim?
 
 ;In Firefox:
 Di Firefoxê de:
+
+
+;Open the Tools menu.
+Menuya Amûran veke.
+
+
+;Choose Add-ons.
+Add-onan hilbijêre.
+
+
+;Click the plugins tab.
+Hilpekîna pêvekan bitikîne.
 
 
 ;Click on a plugin in the list.
@@ -196,7 +206,7 @@ Hişyarî: Neçalakirina pêvekekê tê wê wateyê ku tu yê  êdî nikaribî t
 
 
 ;Mozilla Support
-Mozilla Support
+Piştgiriya Mozillayê
 
 
 ;Have more questions?
@@ -204,6 +214,4 @@ Wekî din pirs hene?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-
-
+Ji bo alîkariyên zêdetir serdana <a href="%(sumo_url)s">support.mozilla.org</a>ê bike!

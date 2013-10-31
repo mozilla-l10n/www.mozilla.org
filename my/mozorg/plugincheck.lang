@@ -9,12 +9,12 @@
 
 # This is a button telling the user to update their plugin
 ;Update Now
-အဆင့်မြှင့်မည်
+အဆင့်မြှင့်တင်မည်
 
 
 # This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
 ;Research
-စမ်းသပ်ချက်
+စမ်းသပ်လေ့လာ
 
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
@@ -24,7 +24,7 @@
 
 # This is a button informing the user that their plugin is up to date
 ;Up to Date
-ခေတ်မှီနေသော
+အဆင့်မြှင့်ပြီး
 
 
 # L10n: This is alt text used on plugin icon images
@@ -39,12 +39,12 @@
 
 # This is the string used to indicate that the plugin is vulnerable
 ;vulnerable
-ထိုခိုက်နိုင်သောအကြောင်း
+ထိခိုက်လွယ်သော
 
 
 # Main title
 ;Check Your Plugins
-သင်၏ ပလပ်အင်များစစ်ဆေးပါ
+သင်၏ ထပ်ပေါင်းဆော့ဝဲများအားစစ်ပါ
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
@@ -64,11 +64,11 @@
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
-အဆင့်၂: သင့်ဘယောက်ဆာအား ပိတ်ဖွင့် မလုပ်ခင် အကြံပေးထား သောအဆင့်မြှင့်မှူများအားရယူပါ.
+အဆင့် ၂။ သင့်လျော်သော ထပ်ပေါင်းဆော့ဝဲအားလုံး အား အဆင့်မြှင့်တင်ပြီးပါက ဘယောက်ဆာအား ပိတ်ပြီး ပြန်ဖွင့်ပါ
 
 
 ;Potentially vulnerable plugins
-ထိခိုက်နိုင်သော ပလပ်အင်များ၊
+ထိခိုက်မှူရှိလာ နိုင်သော ထပ်ပေါင်းဆော့ဝဲများ
 
 
 ;Plugin
@@ -100,7 +100,7 @@
 
 
 ;Frequently Asked Questions
-Frequently asked Questions
+မေ့လေ့ မေးထ ရှိသော မေးခွန်းများ
 
 
 ;What is a plugin?
@@ -108,15 +108,15 @@ Frequently asked Questions
 
 
 ;Plugins power videos, animation and games
-Plugins power videos, animation and games.
+ဗီဒီယို၊ဂိမ်းနှင့်လှူပ်ရှားမှူ ဖန်တီးချက်များ အား အထောက်အကူပေးသော ထပ်ပေါင်းဆော့ဝဲများ
 
 
 ;They're built outside of Firefox by companies like Adobe Systems and Apple
-၎င်းတို့အားမီးမြေခွေးမဟုတ်သော ကုမ္ပဏီများ ဖြစ်တဲ့ Adobe Systems နှင့် Appleစသည့်ကုမ္ပဏီများမှတည်ဆောက်ထားသောကြောင့် ဖြစ်သည်။
+၎င်းတို့အား မီးမြေခွေး မဟုတ်သော ကုမ္ပဏီများ မှရေးသားထားခြင်း ဖြစ်သည် ( ဥပမာ Adobe Systems နှင့် Apple )
 
 
 ;Plugins don't always update automatically.
-ပလပ်အင်များဟာ အမြဲတမ်း အလိုအလောက် အဆင့်မြှင့်တင်လေ့မရှိ။
+ထပ်ပေါင်းဆော့ဝဲတွေ ဟာ အမြဲတမ်းတော့ အလိုအလျောက် အဆင့်မြှင့်နေမှာ မဟုတ်ပါဘူး
 
 
 ;Why should I update my plugins?
@@ -145,11 +145,11 @@ Plugins power videos, animation and games.
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
-In the future, Firefox will update plugins for you.  Until then, you should regularly check this page and update your plugins to stay safe.
+နောင် အနာဂတ်တွင် မီးမြေခွေးဟာ အလိုအလျောက်ပလပ်အင်များကို အဆင့်မြှင့်လိမ့်မယ် ။ ထိုအချိန် ထိသင် ကိုယ်တိုင် စစ်ဆေးပြီး အဆင့်မြင့်နေအောင်လုပ်ရမှာ ဖြစ်ပါတယ်။
 
 
 ;Which Plugins do I have?
-Which plugins do I have?
+ဘယ်ပလပ်အင်တွေရှိလဲ ?
 
 
 ;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
@@ -193,7 +193,7 @@ Which plugins do I have?
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
-Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on popular video streaming sites.
+သတိပေးချက်။  ပလပ်အင် တစ်ခုအား ပိတ်ထားခြင်းသည် ၎င်း နှင့်သက်ဆိုင်သော လုပ်ဆောင်ချက်များအား ပိတ်ထားခြင်း နှင့်တူသှ်။ ဥပမာ သင် Flash အားပိတ်ထားပါက ယူကျု ပေါ်တွင် ဗီဒီယိုများ ကြည့်ရှူ နိုင်မည်မဟုတ်ပါ ( ယခုနောက်ပိုင်းတွင် HTML5 အားထောက်ပံပေးထားသဖြင့် ၎င်းပြသာနာတော့ မရှိတော့ပါ )
 
 
 ;Mozilla Support

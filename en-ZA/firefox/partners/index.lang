@@ -45,11 +45,12 @@ Website {ok}
 Email {ok}
 
 
-# Field
+# Form field
 ;Phone
 Phone {ok}
 
 
+# Form field
 ;Interest:
 Interest: {ok}
 
@@ -67,11 +68,6 @@ Other {ok}
 # Tooltip for selected options
 ;Interest
 Interest {ok}
-
-
-# Comment field default text
-;Comments or questions?
-Comments or questions? {ok}
 
 
 # Submit button text
@@ -103,11 +99,6 @@ Explore the site {ok}
 Blaze Your Own Path {ok}
 
 
-;We’re enabling operators, phone manufacturers and developers to manage, customize and own relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
-We’re enabling operators, phone manufacturers and developers to manage, customise and own relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
-
-
-# This is exactly the same string as above but the verb 'own' was changed to 'improve'
 ;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
 We’re enabling operators, phone manufacturers and developers to manage, customise and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
 
@@ -125,26 +116,9 @@ Recent news {ok}
 Partner with us {ok}
 
 
-# App Planet is a location in the building, don't translate
-;Join us at Stand F20, Hall 8.1, App Planet
-Join us at Stand F20, Hall 8.1, App Planet {ok}
-
-
-;Our keynote & other scheduled events
-Our keynote & other scheduled events {ok}
-
-
-;Firefox tweets from MWC in Barcelona
-Firefox tweets from MWC in Barcelona {ok}
-
-
 # Title
 ;The Web is the platform
 The Web is the platform {ok}
-
-
-;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved.</a>
-Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved.</a> {ok}
 
 
 # Rewording of the previous sentence to link to the Firefox OS consumer site
@@ -198,14 +172,6 @@ Ownership and control over relationships with customers {ok}
 # List item
 ;Customized phones that meet the specific needs of various target markets
 Customised phones that meet the specific needs of various target markets
-
-
-;White Papers
-White Papers {ok}
-
-
-;Learn more about the technology behind Firefox OS
-Learn more about the technology behind Firefox OS {ok}
 
 
 # This is the same string as the one in the contact form but it doesn't have a final dot
@@ -287,11 +253,6 @@ Micro-targeted content for every use-case to meet customers’ local needs {ok}
 Lower barriers to entry for local app developers in both resource and cost {ok}
 
 
-# This is a button
-;MWC demonstrations
-MWC demonstrations {ok}
-
-
 # Title
 ;Developed with developers in mind
 Developed with developers in mind {ok}
@@ -340,16 +301,6 @@ Have an app? {ok}
 Submit it to the Firefox Marketplace today {ok}
 
 
-# WIMJam is an event in MWC where developpers meet and code
-;Jam with us, learn about new tools, meet other developers and more
-Jam with us, learn about new tools, meet other developers and more {ok}
-
-
-# Button
-;Register
-Register {ok}
-
-
 # Title
 ;A superior Web experience
 A superior Web experience {ok}
@@ -380,11 +331,6 @@ Take advantage of service opportunities like Firefox Marketplace and WebRTC to c
 # Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
 ;Stand out <br>from the crowd
 Stand out <br>from the crowd {ok}
-
-
-# Title.
-;Stand out from the crowd
-Stand out from the crowd {ok}
 
 
 ;Take advantage of our strong brand and service offerings to differentiate your product and drive sales.
@@ -431,224 +377,12 @@ Partner Opportunities {ok}
 For Developers {ok}
 
 
-# # LOCATION OVERLAY AND MAP ##
-;Location
-Location {ok}
-
-
-;Firefox at MWC 2013 — Stand F20, Hall 8.1, App Planet
-Firefox at MWC 2013 — Stand F20, Hall 8.1, App Planet {ok}
-
-
-;From the South Entrance:
-From the South Entrance: {ok}
-
-
-;Walk straight down the main hallway of Hall 8.1. Our stand is located in the middle of the hall on the right.
-Walk straight down the main hallway of Hall 8.1. Our stand is located in the middle of the hall on the right. {ok}
-
-
-;From the North Entrance:
-From the North Entrance: {ok}
-
-
-;Go up the escalator to Hall 8.1. Our stand is located in the middle of the hall.
-Go up the escalator to Hall 8.1. Our stand is located in the middle of the hall. {ok}
-
-
-;Download map (PDF)
-Download map (PDF) {ok}
-
-
 ;For Operators & Manufacturers
 For Operators & Manufacturers {ok}
 
 
-;Mobile World Congress, Barcelona, 25 - 28 February 2013
-Mobile World Congress, Barcelona, 25 - 28 February 2013 {ok}
-
-
-;Firefox at MWC 2013 — Schedule of events
-Firefox at MWC 2013 — Schedule of events {ok}
-
-
-;Schedule
-Schedule {ok}
-
-
-;09:00-10:30 CET
-09:00-10:30 CET {ok}
-
-
-;12:30-13:00 CET
-12:30-13:00 CET {ok}
-
-
-;09:00-16:00 CET
-09:00-16:00 CET {ok}
-
-
-;13:00-15:00 CET
-13:00-15:00 CET {ok}
-
-
-;16:00-17:30 CET
-16:00-17:30 CET {ok}
-
-
-;16:00-23:00 CET (awards at 22:30)
-16:00-23:00 CET (awards at 22:30) {ok}
-
-
-;17:45-18:30 CET
-17:45-18:30 CET {ok}
-
-
-;09:00 – 11:30:
-09:00 – 11:30: {ok}
-
-
-;11:30 – 14:00:
-11:30 – 14:00: {ok}
-
-
-;14:00 – 16:30:
-14:00 – 16:30: {ok}
-
-
-;16:30 – 19:00:
-16:30 – 19:00: {ok}
-
-
-;VP of Products, Mozilla
-VP of Products, Mozilla {ok}
-
-
-# Title
-;Gary Kovacs CEO of Mozilla Keynote
-Gary Kovacs CEO of Mozilla Keynote {ok}
-
-
-;Mozilla CEO Gary Kovacs’ keynote speech will discuss the benefits of an Open Web device in markets around the world and how Firefox OS will help operators, phone manufacturers and developers reach the next billion Web users.
-Mozilla CEO Gary Kovacs’ keynote speech will discuss the benefits of an Open Web device in markets around the world and how Firefox OS will help operators, phone manufacturers and developers reach the next billion Web users. {ok}
-
-
-;Hall 4, Conference Village, Auditorium 1
-Hall 4, Conference Village, Auditorium 1 {ok}
-
-
-# Title, Mobile World Live is to keep in English http://www.mobileworldlive.com
-;Mobile World Live Keynote with Mitchell Baker
-Mobile World Live Keynote with Mitchell Baker {ok}
-
-
-;Mitchell Baker, Chairperson of the Mozilla Foundation, will discuss the importance of bringing Open Web innovation to mobile devices.
-Mitchell Baker, Chairperson of the Mozilla Foundation, will discuss the importance of bringing Open Web innovation to mobile devices. {ok}
-
-
-# Title
-;Mobile App Privacy Debate
-Mobile App Privacy Debate {ok}
-
-
-;Harvey Anderson, Vice President of Business Affairs and General Counsel at Mozilla, will take part in the debate “Mobile app privacy: What’s your view?” This interactive session is for anyone interested in helping consumers easily make privacy choices on a mobile device.
-Harvey Anderson, Vice President of Business Affairs and General Counsel at Mozilla, will take part in the debate “Mobile app privacy: What’s your view?” This interactive session is for anyone interested in helping consumers easily make privacy choices on a mobile device. {ok}
-
-
-# Title
-;Apps Panel: Evolving Ecosystems
-Apps Panel: Evolving Ecosystems {ok}
-
-
-;Jay Sullivan, Vice President of Products, will take part in the Apps Panel: Evolving Ecosystems. The panel will discuss the current state of the apps industry and consider how the roles and responsibilities within it are adapting as the apps market evolves.
-Jay Sullivan, Vice President of Products, will take part in the Apps Panel: Evolving Ecosystems. The panel will discuss the current state of the apps industry and consider how the roles and responsibilities within it are adapting as the apps market evolves. {ok}
-
-
-;Hall 4, Conference Village, Auditorium 2
-Hall 4, Conference Village, Auditorium 2 {ok}
-
-
-;GSMA Pavilion, Congress Square (CS80)
-GSMA Pavilion, Congress Square (CS80) {ok}
-
-
-# Title: keep Mobile World Live TV in English : http://www.mobileworldcongress.com/mobile-world-live/
-;Mobile World Live TV Panel
-Mobile World Live TV Panel {ok}
-
-
-;Johnathan Nightingale, VP of Firefox Engineering, will participate in a discussion about future opportunities in the apps market.
-Johnathan Nightingale, VP of Firefox Engineering, will participate in a discussion about future opportunities in the apps market. {ok}
-
-
-;Location: the live panel will be streamed on all major screens throughout the show area
-Location: the live panel will be streamed on all major screens throughout the show area {ok}
-
-
-# Title
-;Mobile Premier Awards & AppCircus After Party
-Mobile Premier Awards & AppCircus After Party {ok}
-
-
-;Firefox Marketplace VP Rick Fant will select and present the winning app.
-Firefox Marketplace VP Rick Fant will select and present the winning app. {ok}
-
-
-# Title
-;WIP Jam - Day for Developers
-WIP Jam - Day for Developers {ok}
-
-
-;The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and Mozilla Developer Evangelist Robert Nyman will host a workshop and Q&A session on “Why Open Web Apps & Firefox OS are good for mobile developers.” Mozilla developer evangelist Chris Heilmann will present an UnPanel on "HTML5 Beyond the Hype" and lead several HTML5 discussion groups. WIP Jam will also see DemoCamps of HTML5 apps created during Mozilla Developer Days. Full schedule available here: %(link)s
-The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and Mozilla Developer Evangelist Robert Nyman will host a workshop and Q&A session on “Why Open Web Apps & Firefox OS are good for mobile developers.” Mozilla developer evangelist Chris Heilmann will present an UnPanel on "HTML5 Beyond the Hype" and lead several HTML5 discussion groups. WIP Jam will also see DemoCamps of HTML5 apps created during Mozilla Developer Days. Full schedule available here: %(link)s {ok}
-
-
-;Location TBD
-Location TBD {ok}
-
-
-;Monday
-Monday {ok}
-
-
-;Tuesday
-Tuesday {ok}
-
-
-;Wednesday
-Wednesday {ok}
-
-
-;Thursday
-Thursday {ok}
-
-
-;February 25
-February 25 {ok}
-
-
-;February 26
-February 26 {ok}
-
-
-;February 27
-February 27 {ok}
-
-
-;February 28
-February 28 {ok}
-
-
-;CEO, Mozilla
-CEO, Mozilla {ok}
-
-
 ;Mobile
 Mobile {ok}
-
-
-;Back to top
-Back to top {ok}
 
 
 ;Firefox Marketplace — Developer testimonials
@@ -680,3 +414,84 @@ View the version notes {ok}
 
 ;Read about features, changes and more
 Read about features, changes and more {ok}
+
+
+# Form field
+;Description
+Description {ok}
+
+
+# Form field
+;First Name
+First Name {ok}
+
+
+# Form error message
+;Please enter your first name.
+Please enter your first name. {ok}
+
+
+# Form field
+;Last Name
+Last Name {ok}
+
+
+# Form error message
+;Please enter your last name.
+Please enter your last name. {ok}
+
+
+# ex: president, CEO...
+;Title
+Title {ok}
+
+
+# Form field
+;Company
+Company {ok}
+
+
+# Form error message
+;Please enter your company name.
+Please enter your company name. {ok}
+
+
+# Form field
+;Website
+Website {ok}
+
+
+# Form error message
+# Form field
+;Phone
+Phone {ok}
+
+
+# form, asking for mobile phone number
+;Mobile
+Cellphone
+
+
+# Form, Physical address field (street, city...)
+;Address
+Address {ok}
+
+
+# Form field
+;City
+City {ok}
+
+
+# Form field
+;State/Province
+Province
+
+
+# Form field
+;Country
+Country {ok}
+
+
+# Form field, postal code
+;Zip
+Post Code

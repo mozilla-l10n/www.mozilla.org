@@ -15,6 +15,7 @@ Artículo siguiente
 ;Previous article
 Artículo anterior
 
+
 # The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
 ;We are %(mozilla_wordmark)s
 Somos %(mozilla_wordmark)s
@@ -132,5 +133,42 @@ No necesitas saber programar para colaborar con Mozilla. <a href="%s">Aprende m�
 
 ;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
 Gracias a nuestra comunidad global, los productos y sitios web de Mozilla están disponibles en más de 70 idiomas. <a href="%(link_l10n)s">Ayuda a traducirlos al tuyo</a>.
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Watch</i> the watchers
+<i>Watch</i> the watchers
+
+
+# Lightbeam promo
+;See who’s watching you online
+See who’s watching you online
+
+
+# Lightbeam promo
+;Shine a light on the third parties that are collecting data about your online activity.
+Shine a light on the third parties that are collecting data about your online activity.
+
+
+;Install the Lightbeam add-on
+Install the Lightbeam add-on
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Learn</i> the Web
+<i>Learn</i> the Web
+
+
+# Webmaker promo
+;We teach the Web
+We teach the Web
+
+
+;Let‘s explore, tinker and create together to build a Web that‘s open and made by everyone.
+Let‘s explore, tinker and create together to build a Web that‘s open and made by everyone.
+
+
+;Become a Webmaker
+Become a Webmaker
 
 

@@ -3,7 +3,7 @@
 
 == Firefox 除錯 ==
 
-首先，Firefox 的基礎架構是 C/C++ / JS / XUL，只要了解 JS 或 CSS 就能幫 Firefox 除錯，在  Mozilla 寫軟體有蠻多面向可以選擇，例如你可以學習 Firefox 或 Thunderbird 的程式設計，主要以 C 或 C++ 為主。其實 Firefox Coding 並不難，對於剛起步的應該可以先從跑流程開始。兩個較大的挑戰是 build Firefox 與 hg version control system。
+首先，Firefox 的基礎架構是 C/C++ / JS / XUL，只要了解 JS 或 CSS 就能幫 Firefox 除錯，在 Mozilla 寫軟體有蠻多面向可以選擇，例如你可以學習 Firefox 或 Thunderbird 的程式設計，主要以 C 或 C++ 為主。其實 Firefox Coding 並不難，對於剛起步的應該可以先從跑流程開始。兩個較大的挑戰是 build Firefox 與 hg version control system。
 
 您可以先參考以下介紹，了解基本概念：
 Mozilla Links 正體中文版: 摩茲動手做（一）如何幫 Firefox 抓蟲 http://mozlinks-zh.blogspot.com/2012/02/firefox_25.html
@@ -15,12 +15,18 @@ Mozilla Links 正體中文版: 摩茲動手做（一）如何幫 Firefox 抓蟲 
 
 ==Firefox OS==
 
-如果你對 Firefox OS 開發感興趣，歡迎參考以下文件：
+Firefox OS 主要有三個層次 Gonk, Gecko, Gaia：
+* Gonk: 作業系統相關，如果你有興趣 porting Firefox OS 到新裝置請參考相關文件[1]
+* Gecko: 包含 Web API 實作以及 Browser Engine，此部份跟一般 Firefox Browser 開發相同，所作的變更也是與 Forefox Browser 共用（只是有可能預設關閉）
+* Gaia: Firefox OS 的預載 App，如 Calendar、Gallery、Music…等等，也包含 Notification 以及 Windows Manager 等系統元件。文件請直接參考 github README[2]
 
-Firefox Marketplace App 開發資訊：https://marketplace.firefox.com/developers/
-Firefox OS UI - GAIA：https://github.com/mozilla-b2g/gaia
-Firefox OS Repo：https://github.com/mozilla-b2g
+如果你對在 Firefox OS 上面開發程式（不包含上面所提的 Gaia 預載 apps）感興趣，請參考 Marketplace Developer Hub 中的文件[3]。
 
+如果您想參與 Firefox OS QA，請看 irc.mozilla.org #fxosqa 頻道。
+
+[1] https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Porting
+[2] https://github.com/mozilla-b2g/gaia
+[3] https://marketplace.firefox.com/developers/
 
 ==HTML5 DEMO 開發==
 
@@ -32,8 +38,7 @@ Firefox OS Repo：https://github.com/mozilla-b2g
 此外，MozTW 在 github ( https://github.com/moztw/central ) ，還有一些網頁、以及其他 HTML5/CSS3 的專案，是可以您可以著手幫忙的部分。Issue 中有一些網站相關的 Bug、與新功能的點子，等你一起來幫忙改。
 
 
-
-最後，歡迎訂閱 Mozilla 中文開發者郵件群組：https://lists.mozilla.org/listinfo/dev-general-zh
+歡迎訂閱 Mozilla 中文開發者郵件群組：https://lists.mozilla.org/listinfo/dev-general-zh
 你可以在此與其他對 Mozilla 開發感興趣的朋友互相交流。關於開發方面的問題也歡迎上 irc.mozilla.org 的 #mozilla-taiwan 頻道發問，這裡有不少 Mozilla 台灣分公司的工程師與社群成員常駐。
 
 也邀請你訂閱我們的電子郵件群組，與社群的成員一起討論、分享您的想法與點子。訂閱之後，您就會開始收到大家互相討論的 email。加入群組之後歡迎發封信跟大家打個招呼喔！

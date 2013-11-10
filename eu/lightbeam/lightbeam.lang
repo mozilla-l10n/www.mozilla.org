@@ -52,7 +52,7 @@ Deskargatu eta exekutatu Lightbeam gehigarria Firefox nabigatzailea erabiliz.
 
 
 ;Lightbeam will create a record of events for every site you visit and every third party site that is stored locally on your browser.
-Lightbeam-ek gertakarien erregistro bat sortuko du bisitatzen duzun gune bakoitzeko, eta baita nabigatzailean lokalki biltegiratzen den hirugarrengo gune bakoitzeko.
+Lightbeam-ek gertakarien erregistro bat sortuko du bisitatzen duzun gune bakoitzeko, eta baita nabigatzailean lokalki biltegiratzen den hirugarrengo gune bakoitzeko ere.
 
 
 ;Lightbeam visually graphs these events to highlight the interactions between sites you intentionally visit and the third parties.
@@ -68,11 +68,11 @@ Segimendua eta pribatutasuna
 
 
 ;Not all tracking is bad. Many services rely on user data to provide relevant content and enhance your online experience.
-Segimendua ez da beti txarra. Zerbitzu askok erabiltzaileen datuak darabiltzate eduki garrantzitsua erakusteko eta zure lineako esperientzia hobetzeko.
+Segimendua ez da beti txarra. Zerbitzu askok erabiltzaileen datuak darabiltzate eduki garrantzitsua erakusteko eta zure nabigazio-esperientzia hobetzeko.
 
 
 ;But tracking can happen without the user’s knowledge.
-Baina batzuetan segimendua erabiltzailea ohartu gabe egiten da.
+Baina, batzuetan, segimendua erabiltzailea ohartu gabe egiten da.
 
 
 ;That’s not okay for some.
@@ -80,7 +80,7 @@ Eta hori ez da ona.
 
 
 ;It should be you who decides when, how and if you want your browsing data to be shared. We recognize the importance of transparency and our mission is all about empowering users — both with tools and information.
-Zeu izan beharko zinateke nabigazio-datuak noiz eta nola partekatu nahi dituzun erabakitzen duena. Aintzat hartzen dugu gardentasunak duen garrantzia, eta gure misioa erabiltzaileei boterea ematea da — bai tresnak erabiltzean, bai informazioari dagokionean.
+Zeu izan beharko zinateke nabigazio-datuak noiz eta nola partekatu nahi dituzun erabakitzen duena, partekatu nahi badituzu. Aintzat hartzen dugu gardentasunak duen garrantzia, eta gure misioa erabiltzaileei boterea ematea da — bai tresnak erabiltzean, bai informazioari dagokionean.
 
 
 ;Explore the database
@@ -88,11 +88,11 @@ Arakatu datu-basea
 
 
 ;In the Lightbeam database, you will be able to browse first and third-party connection data uploaded by donors who use the Lightbeam add-on.
-Lightbeam-en datu-basean, gehigarria darabilten, eta haien datuak partekatu dituzten erabiltzaileen konexio-datuak arakatu ahalko dituzu, bai zuzeneko konexioenak, bai hirugarrengoenak.
+Lightbeam-en datu-basean, gehigarria darabilten eta haien datuak partekatu dituzten erabiltzaileen konexioei buruzko informazioa arakatu ahalko duzu, bai zuzeneko konexioena, bai hirugarrengoena.
 
 
 ;We’re building this crowd-sourced directory to encourage users to visualize the state of tracking as an aggregate and to examine relationships that exist on the Web.
-Herriak eraikitako direktorio hau sortuz, erabiltzaileek segimenduen ikuspegi globala izan dezaten nahi dugu, webean existitzen diren erlazioak aztertuz..
+Herriak eraikitako direktorio hau sortuz, erabiltzaileek segimenduen ikuspegi globala izan dezaten nahi dugu, webean existitzen diren erlazioak aztertuz.
 
 
 ;Visualize your data
@@ -128,7 +128,7 @@ Ford Foundation-ek sostengaturik
 
 
 ;The work at the Ford Foundation focuses on building outreach campaigns to help people understand online data tracking — both the benefits and the issues
-Ford Foundation-en lana sareko segimendua jendeari ulertarazteko kanpainak hedatzea da — dituen onura eta arazoekin batera
+Ford Foundation fundazioaren lana sareko segimendua jendeari ulertarazteko kanpainak hedatzea da — segimenduak dituen onura eta arazoekin batera
 
 
 ;Learn more
@@ -149,106 +149,106 @@ Nola funtzionatzen du gehigarriak?
 
 
 ;Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
-Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+Hiru irudikapen grafiko interaktibo desberdin erabiliz — grafikoa, erlojua eta zerrenda — Lightbeam-i esker banako hirugarrengoak azter ditzakezu denbora eta espazioan zehar, zure lineako jarduerarekin non konektatzen diren identifikatu, eta webaren ikuspegi bakar honetan barneratzeko erak eskaintzen dizkizu.
 
 
 ;The default Graph view provides a real time visualization of every site you visit and all third party requests made from your browser.
-The default Graph view provides a real time visualization of every site you visit and all third party requests made from your browser.
+Grafiko-ikuspegi lehenetsiak denbora errealean bistaratzen ditu bisitatzen dituzun gune guztiak, eta nabigatzailetik burutako hirugarrengoen eskaerak.
 
 
 ;The Graph view also provides adjustable filters that allow you to visualize more types of data at a glance.
-The Graph view also provides adjustable filters that allow you to visualize more types of data at a glance.
+Grafiko-ikuspegiak iragazki erregulagarriak ere eskaintzen dizkizu, begiratu bakarrena datu mota gehiago ikusteko aukera emanez.
 
 
 ;The Clock view allows you to examine connections over a 24-hour period.
-The Clock view allows you to examine connections over a 24-hour period.
+Erloju-ikuspegiak 24 orduko tartean burututako konexioak aztertzeko aukera ematen dizu.
 
 
 ;The List view provides more options for drilling down into individual sites.
-The List view provides more options for drilling down into individual sites.
+Zerrenda-ikuspegiak banako guneen datuetan gehiago sakontzeko aukerak eskaintzen dizkizu.
 
 
 ;Site preferences in the List view enable you to block sites from connecting to your Firefox browser, watch sites you’re interested in or hide sites you don’t want to see visualized.
-Site preferences in the List view enable you to block sites from connecting to your Firefox browser, watch sites you’re interested in or hide sites you don’t want to see visualized.
+Zerrenda-ikuspegiko guneen hobespenen bitartez gune jakin batzuk Firefox nabigatzailera konektatzea ekidin dezakezu, gune interesgarrienak gertutik zaindu, edo beste batzuk ezkutatu ditzakezu.
 
 
 ;Lightbeam also offers an information panel that provides additional details about the site you selected and the sites it has connected to.
-Lightbeam also offers an information panel that provides additional details about the site you selected and the sites it has connected to.
+Lightbeam-ek informazio-panel bat ere eskaintzen dizu, hautatutako guneari buruzko xehetasunekin, eta konektatuta dituen guneen datuekin.
 
 
 ;The origins of Lightbeam
-The origins of Lightbeam
+Lightbeam-en jatorria
 
 
 ;Lightbeam began in July 2011 as Collusion, a personal project by Mozilla software developer <a href="%s">Atul Varma</a>.
-Lightbeam began in July 2011 as Collusion, a personal project by Mozilla software developer <a href="%s">Atul Varma</a>.
+Lightbeam 2011ko uztailean jaio zen Collusion izenarekin, <a href="%s">Atul Varma</a> Mozillako software-garatzailearen proiektu pertsonal gisa.
 
 
 ;Inspired by the book, <em>The Filter Bubble</em>, Atul created an experimental add-on to visualize browsing behavior and data collection on the Web.
-Inspired by the book, <em>The Filter Bubble</em>, Atul created an experimental add-on to visualize browsing behavior and data collection on the Web.
+<em>The Filter Bubble</em> liburuan inspiraturik, Atulek gehigarri esperimental bat sortu zuen webean nabigazioaren portaera eta bildutako datuak bistaratzeko.
 
 
 ;In February 2012, Gary Kovacs, Mozilla CEO at the time, introduced the Collusion add-on in a <a href="%s">TED talk</a> (now one of the most watched TED talks of all time) about exposing online tracking.
-In February 2012, Gary Kovacs, Mozilla CEO at the time, introduced the Collusion add-on in a <a href="%s">TED talk</a> (now one of the most watched TED talks of all time) about exposing online tracking.
+2012ko otsailean, Gary Kovacs-ek, garai hartan Mozillako CEO edo zuzendari nagusi zenak, Collusion gehigarria sareko segimenduari buruzko <a href="%s">TED talk</a> batean aurkeztu zuen (une honetan inoiz izan den TED talk arrakastatsuena delarik).
 
 
 ;In September 2012, Mozilla joined forces with students at <a href="%s">Emily Carr University of Art + Design</a> to develop and implement visualizations for the add-on.
-In September 2012, Mozilla joined forces with students at <a href="%s">Emily Carr University of Art + Design</a> to develop and implement visualizations for the add-on.
+2012ko irailean, Mozillak <a href="%s">Emily Carr Arte + Diseinu Unibertsitateko</a> ikasleekin indarrak batu eta gehigarriarentzako bistaratzean garatu eta inplementatu zituzten.
 
 
 ;With the support of the Ford Foundation and the Natural Sciences and Engineering Research Council (NSERC), Collusion has been re-imagined as Lightbeam and was launched in the fall of 2013.
-With the support of the Ford Foundation and the Natural Sciences and Engineering Research Council (NSERC), Collusion has been re-imagined as Lightbeam and was launched in the fall of 2013.
+Ford fundazioaren eta Natur Zientzia eta Ingeniaritzako Ikerkuntza Kontseiluaren (NSERC) sostenguari esker, Collusion berrirudikatu eta Lightbeam-ek argia ikusi zuen 2013ko udazkenean.
 
 
 ;To read more about the collaboration, please visit <a href="{url}">{url}</a>
-To read more about the collaboration, please visit <a href="{url}">{url}</a>
+Lankidetzari buruz gehiago irakurtzeko, bisitatu <a href="{url}">{url}</a>
 
 
 ;Policy and the larger tracking narrative
-Policy and the larger tracking narrative
+Politika eta segimenduari buruzko narratiba zabalagoa
 
 
 ;At Mozilla, we believe that everyone should have the tools to make their own decisions about their online privacy and who collects data on them.
-At Mozilla, we believe that everyone should have the tools to make their own decisions about their online privacy and who collects data on them.
+Mozillan uste dugu pertsona bakoitzak sareko bere pribatutasunari buruzko erabaki propioak hartzeko tresnak izan behar dituela, eta datu horiek nork eskura ditzakeen erabaki.
 
 
 ;With the Lightbeam add-on and database server, we are providing a valuable (and open) community research platform that aims to raise awareness, promote analysis and, ultimately, affect policy change in the areas of tracking and privacy.
-With the Lightbeam add-on and database server, we are providing a valuable (and open) community research platform that aims to raise awareness, promote analysis and, ultimately, affect policy change in the areas of tracking and privacy.
+Lightbeam gehigarriaren eta datu-base zerbitzariaren bidez, komunitatearen ikerkuntza plataforma baliotsu (eta ireki) bat eskaintzen ari gara, segimenduaren eta pribatutasunaren arloan kontzientzia piztu, azterketa sustatu eta, azken batean, politiken aldaketa bat eragitea helburutzat daukana.
 
 
 ;Lightbeam is one step in a larger, concerted effort by Mozilla and its partners to provide Web users with greater control and transparency of their personal data.
-Lightbeam is one step in a larger, concerted effort by Mozilla and its partners to provide Web users with greater control and transparency of their personal data.
+Lightbeam urrats bat gehiago da Mozilla eta bere bazkideen ahalegin bateratuan, web-erabiltzaileen datu pertsonalen kontrola eta gardentasuna areagotzeko.
 
 
 ;Learn more about online tracking and privacy
-Learn more about online tracking and privacy
+Ikasi gehiago sareko segimenduari eta pribatutasunari buruz
 
 
 ;The <a href="%s">Mozilla Foundation</a> is a non-profit organization that promotes the values of an open Web to the broader world. The larger Mozilla community sees the growing relevance of online privacy and is supporting several initiatives that tackle the issue in various ways.
-The <a href="%s">Mozilla Foundation</a> is a non-profit organization that promotes the values of an open Web to the broader world. The larger Mozilla community sees the growing relevance of online privacy and is supporting several initiatives that tackle the issue in various ways.
+<a href="%s">Mozilla Fundazioa</a> irabazi-asmorik gabeko erakundea da, web irekiaren balioak munduan osoan sustatzen dituena. Hau baino zabalagoa den Mozilla komunitateak argi du sareko pribatutasunaren garrantzia gero eta handiagoa dela, eta arazoari era desberdinetan heltzen dioten hainbat ekimeni laguntza ematen dio.
 
 
 ;Data formats in Lightbeam
-Data formats in Lightbeam
+Lightbeam-eko datu-formatuak
 
 
 ;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute to the database.
-Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute to the database.
+Bisitatu gure <a href="%s">Github-eko dokumentazioa</a> Lightbeam-en erabilitako fitxategi-formatuei buruz gehiago ikasteko eta datu-basea zure informazioarekin osatzea erabakitzen baduzu kargatuko diren datuei buruzko xehetasunak ikusteko.
 
 
 ;Partners of Lightbeam
-Partners of Lightbeam
+Lightbeam-en bazkideak
 
 
 ;The <a href="%s">Ford Foundation</a> is a non-profit organization that focuses on the mission of advancing human welfare.
-The <a href="%s">Ford Foundation</a> is a non-profit organization that focuses on the mission of advancing human welfare.
+<a href="%s">Ford Foundation</a> irabazi-asmorik gabeko erakundea da, misiotzat gizateriaren ongizatean aurrera egitea duena.
 
 
 ;They provide support for companies and institutions devoted to strengthening democratic values, reducing poverty and social injustice, supporting human achievement and fostering international co-operation.
-They provide support for companies and institutions devoted to strengthening democratic values, reducing poverty and social injustice, supporting human achievement and fostering international co-operation.
+Balio demokratikoak indartu, txirotasuna eta injustizia soziala gutxitu, gizakien lorpenei sostengua eman eta nazioarteko lankidetza bultzatzen duten enpresa eta instituzioei eskaintzen die bere laguntza.
 
 
 ;The <a href="%s">Social + Interactive Media (SIM) Centre</a> at Emily Carr University of Art + Design supports a wide range of projects in design and media, giving companies direct access to the innovative thinking, design skills and research expertise of British Columbia’s most creative faculty and students.
-The <a href="%s">Social + Interactive Media (SIM) Centre</a> at Emily Carr University of Art + Design supports a wide range of projects in design and media, giving companies direct access to the innovative thinking, design skills and research expertise of British Columbia’s most creative faculty and students.
+Emily Carr Arte + Diseinu unibertsitateko <a href="%s">Social + Interactive Media (SIM) zentroa</a>k diseinu eta multimedia-proiektu sail zabal bati sostengua ematen dio, enpresei sarbide zuzena emanez Columbia Britainiarreko fakultate eta ikasle kreatiboenen pentsaera berritzailera, diseinu-tekniketara, eta ikerkuntzan daukaten trebetasunera.
 
 

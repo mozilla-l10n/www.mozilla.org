@@ -7,17 +7,17 @@ IKhaya leProjekthi yeMozilla
 
 # Used as a label for a button that scrolls through latest news.
 ;Next article
-Next article
+Inqaku elilandelayo
 
 
 # Used as a label for a button that scrolls through latest news.
 ;Previous article
-Previous article
+Inqaku eligqithileyo
 
 
 # The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
 ;We are %(mozilla_wordmark)s
-We are %(mozilla_wordmark)s
+Siyi-%(mozilla_wordmark)s
 
 
 ;Doing good is part of our code
@@ -25,29 +25,29 @@ Ukwenza into entle yinxalenye yomgaqo wethu
 
 
 ;Get involved
-Get involved
+Zibandakanye
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Explore</i> our mission
-<i>Explore</i> our mission
+<i>Hlola</i> injongo yethu
 
 
 ;Our principles guide us
-Our principles guide us
+Sikhokelwa yimigaqo yethu
 
 
 ;We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
-We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
+Singabantu abasemhlabeni wonke abaziingcali, iinkcuba-buchopho nabakhi abasebenza kunye ekugcineni i-Intanethi iphila yaye ifumaneka.
 
 
 ;Read more about our mission
-Read more about our mission
+Funda okungakumbi ngenjongo yethu
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Look</i> ahead
-<i>Look</i> ahead
+<i>Jonga</i> phambili
 
 
 ;Look ahead
@@ -55,55 +55,55 @@ Jonga phambili
 
 
 ;We‘re bringing more people to the Web in more ways and from more places than ever before.
-We‘re bringing more people to the Web in more ways and from more places than ever before.
+Singenisa abantu abaninzi ngakumbi kwiWebhu ngeendlela ezininzi ngakumbi bevela kwiindawo ezininzi ngakumbi kungaphambili.
 
 
 ;Learn more about Firefox OS
-Learn more about Firefox OS
+Funda okungakumbi ngeFirefox OS
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Join</i> our community
-<i>Join</i> our community
+<i>Zimanye</i> nabantu bethu
 
 
 # This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 ;Join our<br> developer community
-Join our<br> developer community
+Zimanye<br> nabaphuhlisi bethu
 
 
 ;Get docs and demos, tools and tutorials and everything related to the Open Web.
-Get docs and demos, tools and tutorials and everything related to the Open Web.
+Fumana amaxwebhu, izixhobo neenkqubo zokufundisa nayo yonke into ehlobene neWebhu Evulekileyo.
 
 
 ;Visit the Mozilla Developer Network
-Visit the Mozilla Developer Network
+Tyelela iNethiweki Yabaphuhlisi BeMozilla
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Forge</i> the future
-<i>Forge</i> the future
+<i>Tyhalela phambili</i> kwikamva
 
 
 ;Mozilla Festival
-Mozilla Festival
+UMnyhadala WeMozilla
 
 
 # This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 ;Forge the future<br> of the Web
-Forge the future<br> of the Web
+Tyhalela phambli kwikamva <br> leWebhu
 
 
 ;Learn from some of the most passionate thinkers and inventors from around the world.
-Learn from some of the most passionate thinkers and inventors from around the world.
+Funda kwezinye zeenkcuba-buchopho eziphum' izandla nabayili abavela kulo lonke ihlabathi.
 
 
 ;Come to the Mozilla Festival
-Come to the Mozilla Festival
+Yiza kuMnyhadala weMozilla
 
 
 ;Different by&nbsp;design
-Different by&nbsp;design
+Yahlukile ngokwe-&nbsp;yilo
 
 
 # This string is displayed only for locales with a press agency blog
@@ -113,25 +113,25 @@ Ezindabeni
 
 # This string is displayed only for locales with a press agency blog
 ;See all news
-See all news
+Bona zonke iindaba
 
 
 # This string is displayed only for locales where we launch Firefox OS soon
 ;Help launch Firefox OS in your country.
-Help launch Firefox OS in your country.
+Nceda ekusunguleni iFirefox OS kwilizwe lakho.
 
 
 # This string is displayed only for locales where we launch Firefox OS soon
 ;Become a Mobilizer today.
-Become a Mobilizer today.
+Yiba nguMququzeleli namhlanje.
 
 
 ;You don’t have to know how to code to get involved with Mozilla. <a href="%s">Learn more about our volunteer opportunities</a>.
-You don’t have to know how to code to get involved with Mozilla. <a href="%s">Learn more about our volunteer opportunities</a>.
+Akuyomfuneko ukuba wazi indlela yokwenza iikhowudi ukuze ubandakanyeke kwi-Mozilla. <a href="%s">Funda okungakumbi ngamathuba akhoyo okuba litsha-ntliziyo</a>.
 
 
 ;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
-Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
+Ngenxa yabantu bethu abasemhlabeni wonke, iimveliso neewebhusayithi zeMozilla zifumaneka ngeelwimi ezingaphezulu kwama-70. <a href="%(link_l10n)s">Nceda ekuziguquleleni kolwakho ulwimi</a>.
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
@@ -186,6 +186,6 @@ Stream the surf
 
 
 ;Learn more
-Learn more
+Funda okungakumbi
 
 

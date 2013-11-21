@@ -1,7 +1,4 @@
 ## active ##
-# Translation provided by external legal document translation service in Bug 887535
-
-
 ;Firefox OS Privacy
 Datenschutzhinweis für Firefox OS
 
@@ -22,7 +19,13 @@ Firefox OS verbindet sich mit uns und Dritten (wie etwa Ihrem Telekommunikations
 Erfahren Sie mehr
 
 
+# String with typo, will be removed after Bug 941065 is fixed
 ;Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s develope’s services.
+Updates: Firefox OS verbindet sich automatisch mit dem von Ihrem Hersteller Ihres Endgeräts oder dem durch einen Dritten in dessen Auftrag betriebenen Dienst, um sich insoweit auf dem aktuellen Stand zu halten. Firefox OS überprüft auch, ob Updates für installierte Apps bereitstehen, indem eine entsprechende Anfrage an Firefox Marketplace gesendet wird. Haben Sie die App von einem anderen Ort als dem Firefox Marketplace installiert, wird die Anfrage an den entsprechenden App-Entwicklerdienst gesendet.
+
+
+# Updated string (related to Bug 941065)
+;Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s developer’s services.
 Updates: Firefox OS verbindet sich automatisch mit dem von Ihrem Hersteller Ihres Endgeräts oder dem durch einen Dritten in dessen Auftrag betriebenen Dienst, um sich insoweit auf dem aktuellen Stand zu halten. Firefox OS überprüft auch, ob Updates für installierte Apps bereitstehen, indem eine entsprechende Anfrage an Firefox Marketplace gesendet wird. Haben Sie die App von einem anderen Ort als dem Firefox Marketplace installiert, wird die Anfrage an den entsprechenden App-Entwicklerdienst gesendet.
 
 
@@ -56,6 +59,7 @@ Firefox OS erlaubt Ihnen die Nutzung verschiedener Dienste von Drittanbietern, w
 
 ;Mozilla Privacy Policy
 Datenschutzerklärung von Mozilla
+
 
 ;Your privacy is an important factor that Mozilla (that’s us) considers in the development of each of our products and services. We are committed to being transparent and open and want you to know how we receive information about you, and what we do with that information once we have it.
 Der Schutz Ihrer Daten ist für uns ein wichtiges Anliegen und Mozilla (das sind wir) nimmt diesen bei der Entwicklung aller unserer Produkte und Dienste ernst. Wir verpflichten uns zu Transparenz und Offenheit und möchten deshalb, dass Sie wissen, wie wir Daten erheben und was wir mit den erhobenen Daten machen, nachdem wir sie erhoben haben.
@@ -146,7 +150,7 @@ Wir fühlen uns dem Schutz Ihrer personenbezogenen Daten verpflichtet, sobald wi
 
 
 ;We also don’t want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for. Once we don’t need it, we take steps to destroy it unless we are required by law to keep it longer.
-Wir wollen Ihre personenbezogenen Daten nicht länger aufbewahren, als wir sie benötigen. Wir werden Sie deshalb nur solange aufbewahren, wie dies zur Erreichung des Zweckes der jeweiligen Datenerhebung notwendig ist. Sobald wir sie nicht mehr benötigen, werden wir Schritte einleiten, um diese zu zerstören, es sei denn, wir sind gesetzlich zur weiteren Aufbewahrung verpflichtet. 
+Wir wollen Ihre personenbezogenen Daten nicht länger aufbewahren, als wir sie benötigen. Wir werden Sie deshalb nur solange aufbewahren, wie dies zur Erreichung des Zweckes der jeweiligen Datenerhebung notwendig ist. Sobald wir sie nicht mehr benötigen, werden wir Schritte einleiten, um diese zu zerstören, es sei denn, wir sind gesetzlich zur weiteren Aufbewahrung verpflichtet.
 
 
 ;What else do we want you know?

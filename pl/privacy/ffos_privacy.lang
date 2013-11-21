@@ -1,7 +1,4 @@
 ## active ##
-# Translation provided by external legal document translation service in Bug 887535
-
-
 ;Firefox OS Privacy
 Polityka Prywatności Systemu Operacyjnego Firefox
 
@@ -22,7 +19,13 @@ System Operacyjny Firefox łączy się z Mozilla oraz innymi podmiotami w celu z
 Dowiedz się więcej
 
 
+# String with typo, will be removed after Bug 941065 is fixed
 ;Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s develope’s services.
+Uaktualnienia: Aby być na bieżąco ze wszystkimi uaktualnieniami, System Operacyjny Firefox automatycznie łączy się z usługą oferowaną przez lub w imieniu producenta urządzenia, z którego korzysta Użytkownik. System Operacyjny Firefox sprawdza także automatycznie dostępność uaktualnień dla zainstalowanych aplikacji poprzez przesłanie zapytania na platformę Firefox Marketplace albo, jeśli Użytkownik zainstalował aplikację pochodzącą z innego źródła, poprzez połączenie z usługami dostawcy tej aplikacji.
+
+
+# Updated string (related to Bug 941065)
+;Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s developer’s services.
 Uaktualnienia: Aby być na bieżąco ze wszystkimi uaktualnieniami, System Operacyjny Firefox automatycznie łączy się z usługą oferowaną przez lub w imieniu producenta urządzenia, z którego korzysta Użytkownik. System Operacyjny Firefox sprawdza także automatycznie dostępność uaktualnień dla zainstalowanych aplikacji poprzez przesłanie zapytania na platformę Firefox Marketplace albo, jeśli Użytkownik zainstalował aplikację pochodzącą z innego źródła, poprzez połączenie z usługami dostawcy tej aplikacji.
 
 
@@ -71,7 +74,7 @@ W rozumieniu Mozilla, „informacje osobowe” to wszystkie informacje, na podst
 
 
 ;Any information that falls outside of this is "non-personal information."
-Informacje nienależące do tej kategorii są „informacjami nieosobowymi”. 
+Informacje nienależące do tej kategorii są „informacjami nieosobowymi”.
 
 
 ;If we store your personal information with information that is non-personal, we will consider the combination as personal information. If we remove all personal information from a set of data then the remaining is non-personal information.
@@ -103,7 +106,7 @@ gdy Mozilla wyciąga wnioski z informacji wcześniej pozyskanych od Użytkownika
 
 
 ;What do we do with your information once we have it?
-Do czego Mozilla wykorzystuje zebrane informacje? 
+Do czego Mozilla wykorzystuje zebrane informacje?
 
 
 ;When you give us personal information, we will use it in the ways for which you’ve given us permission. Generally, we use your information to help us provide and improve our products and services for you.

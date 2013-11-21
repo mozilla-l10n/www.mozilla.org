@@ -1,7 +1,4 @@
 ## active ##
-# Translation provided by external legal document translation service in Bug 887535
-
-
 ;Firefox OS Privacy
 Privacidad de Firefox OS
 
@@ -22,7 +19,13 @@ Firefox OS se conecta con nosotros y otros proveedores con el fin de proporciona
 Más información
 
 
+# String with typo, will be removed after Bug 941065 is fixed
 ;Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s develope’s services.
+Actualizaciones: Para mantenerse actualizado, Firefox OS se conecta automáticamente a un servicio operado por o en nombre del fabricante de su dispositivo. Firefox OS también comprueba automáticamente si hay actualizaciones para las aplicaciones instaladas mediante el envío de una solicitud a Firefox Marketplace o, si Ud. ha instalado una aplicación desde otro lugar, se comprobarán también los servicios de los desarrolladores de esa aplicación.
+
+
+# Updated string (related to Bug 941065)
+;Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s developer’s services.
 Actualizaciones: Para mantenerse actualizado, Firefox OS se conecta automáticamente a un servicio operado por o en nombre del fabricante de su dispositivo. Firefox OS también comprueba automáticamente si hay actualizaciones para las aplicaciones instaladas mediante el envío de una solicitud a Firefox Marketplace o, si Ud. ha instalado una aplicación desde otro lugar, se comprobarán también los servicios de los desarrolladores de esa aplicación.
 
 
@@ -222,12 +225,9 @@ Escriba los comentarios que desea hacer...
 <strong>Gracias</strong> por enviarnos sus preguntas o comentarios. En breve un miembro del equipo de privacidad contactará con Ud.
 
 
-;Send comments&nbsp;»
-Enviar comentarios&nbsp;»
-
-
 ;Send comments
 Enviar comentarios
+
 
 ;Home
 Inicio
@@ -235,4 +235,5 @@ Inicio
 
 ;Show Less
 Mostrar menos
+
 

@@ -1,7 +1,4 @@
 ## active ##
-# Translation provided by external legal document translation service in Bug 887535
-
-
 ;Firefox OS Privacy
 Απόρρητο Firefox OS
 
@@ -22,7 +19,13 @@
 Μάθετε περισσότερα
 
 
+# String with typo, will be removed after Bug 941065 is fixed
 ;Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s develope’s services.
+Ενημερώσεις: Για να παραμένει ενημερωμένο, το Firefox OS συνδέεται αυτόματα με μια υπηρεσία που διαχειρίζεται ο κατασκευαστής της συσκευής σας ή που λειτουργεί εκ μέρους του. Το Firefox OS ελέγχει επίσης αυτόματα για την ύπαρξη ενημερώσεων των εγκατεστημένων εφαρμογών, αποστέλλοντας αίτημα στο Firefox Marketplace ή εάν έχετε εγκαταστήσει μια εφαρμογή από άλλο σημείο, στις υπηρεσίες του δημιουργού της συγκεκριμένης εφαρμογής.
+
+
+# Updated string (related to Bug 941065)
+;Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s developer’s services.
 Ενημερώσεις: Για να παραμένει ενημερωμένο, το Firefox OS συνδέεται αυτόματα με μια υπηρεσία που διαχειρίζεται ο κατασκευαστής της συσκευής σας ή που λειτουργεί εκ μέρους του. Το Firefox OS ελέγχει επίσης αυτόματα για την ύπαρξη ενημερώσεων των εγκατεστημένων εφαρμογών, αποστέλλοντας αίτημα στο Firefox Marketplace ή εάν έχετε εγκαταστήσει μια εφαρμογή από άλλο σημείο, στις υπηρεσίες του δημιουργού της συγκεκριμένης εφαρμογής.
 
 
@@ -232,3 +235,5 @@ you@yourdomain.com {ok}
 
 ;Show Less
 Εμφάνιση λιγότερων
+
+

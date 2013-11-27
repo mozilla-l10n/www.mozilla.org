@@ -219,8 +219,13 @@ TU CORREO AQUÍ
 ¡Suscribirme!
 
 
+# This string is obsolete (replaced by the next one). Will be removed after bug 937986 is merged to prod
 ;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
 Me parece bien que se gestione esta información según se indica en la <a href="%s">Política de privacidad</a>
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 ;The supplied link has expired. You will receive a new one in the next newsletter.
@@ -270,6 +275,7 @@ Mientras estas aquí, por qué no das un vistazo a algunas genialidades más de 
 ;Get up and go
 Levántete y ve.
 
+
 ;It’s your Web anywhere you go.
 Es tu Web a cualquier lugar que vas.
 
@@ -300,7 +306,6 @@ Acerca de nosotros
 
 ;We’re glad you asked!
 ¡Nos alegra que lo preguntes!
-
 
 
 # Description for the newsletter in Newsletter subscription page
@@ -361,4 +366,5 @@ Un boletín mensual con información sobre cómo participar con Mozilla en tu un
 # Description for the newsletter in Newsletter subscription page
 ;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
 El ex programa de universitarios de 2008-2011, ahora retirado y relanzado como el programa Firefox Student Ambassadors
+
 

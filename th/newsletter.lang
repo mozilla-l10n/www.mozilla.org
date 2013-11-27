@@ -1,4 +1,3 @@
-# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
 ;Get Monthly News
 รับข่าวรายเดือน
 
@@ -111,6 +110,7 @@ Firefox Mobile {ok}
 ข่าว Beta
 
 
+# Description for the newsletter in Newsletter subscription page
 ;Read about the latest features for Firefox desktop and mobile before the final release.
 Read about the latest features for Firefox desktop and mobile before the final release.
 
@@ -218,8 +218,13 @@ Firefox ก็อยู่บนเว็บเครือข่ายสัง
 บอกรับข่าว
 
 
+# This string is obsolete (replaced by the next one). Will be removed after bug 937986 is merged to prod
 ;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
 ฉันโอเคกับที่คุณควบคุมข้อมูลนี้ตามที่คุณอธิบายใน<a href="%s">นโยบายความเป็นส่วนตัว</a>
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 ;The supplied link has expired. You will receive a new one in the next newsletter.
@@ -328,11 +333,6 @@ Get a weekly tip on how to super-charge your Firefox experience.
 
 
 # Description for the newsletter in Newsletter subscription page
-;Read about the latest features for Firefox desktop and mobile before the final release.
-Read about the latest features for Firefox desktop and mobile before the final release.
-
-
-# Description for the newsletter in Newsletter subscription page
 ;News from the Mozilla Project.
 News from the Mozilla Project.
 
@@ -365,3 +365,5 @@ A monthly newsletter on how to get involved with Mozilla on your campus.
 # Description for the newsletter in Newsletter subscription page
 ;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
 Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
+
+

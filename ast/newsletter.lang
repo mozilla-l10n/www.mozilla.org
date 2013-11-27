@@ -218,8 +218,13 @@ EL TO CORRÉU-E EQUÍ
 Rexistráime
 
 
+# This string is obsolete (replaced by the next one). Will be removed after bug 937986 is merged to prod
 ;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
 Toi d'alcuerdu contigo en remanar esta información talo y como se desplica en <a href="%s">Política de privacidá</a>
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 ;The supplied link has expired. You will receive a new one in the next newsletter.
@@ -360,4 +365,5 @@ Un boletín mensual tocante a cómo collaborar con Mozilla na to Universidá.
 # Description for the newsletter in Newsletter subscription page
 ;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
 El ex programa universitarios de 2008-2011, agora retiráu y rellanzáu como'l programa d'Embaxadores de Student Firefox.
+
 

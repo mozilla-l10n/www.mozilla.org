@@ -219,8 +219,13 @@ Mozilla Бюлетини
 Запишете ме
 
 
+# This string is obsolete (replaced by the next one). Will be removed after bug 937986 is merged to prod
 ;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
 Съгласен/а съм да обработите тази информация, както е описано във вашите<a href="%s">правила за лична информация</a>
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 ;The supplied link has expired. You will receive a new one in the next newsletter.

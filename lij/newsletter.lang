@@ -110,6 +110,7 @@ Inpâra in sci nêuvi conponénti azónti e carateristìche ciù câde do Firefo
 Notìçie do Beta
 
 
+# Description for the newsletter in Newsletter subscription page
 ;Read about the latest features for Firefox desktop and mobile before the final release.
 Lêzi de l'ùrtime carateristìche do Firefox pe computer e telefonìn prìmma che sciòrta a versción finâle.
 
@@ -217,8 +218,13 @@ A TEU EMAIL
 Regìstrime
 
 
+# This string is obsolete (replaced by the next one). Will be removed after bug 937986 is merged to prod
 ;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
 Són d'acòrdio a fâte pigiâ ste informaçioìn cómme ti mæ spiegòu inta <a href="%s">Polìtica da Privacy</a>
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 ;The supplied link has expired. You will receive a new one in the next newsletter.
@@ -227,6 +233,7 @@ O colegaménto che t'émmo dæto o l'é schéito. Ti ti riçeviæ un nêuvo inta
 
 ;Something is amiss with our system, sorry! Please try again later.
 Quarcösa o no vâ into nòstro scistêma, ne spiâxe! Pe piaxéi prêuva tórna dòppo.
+
 
 ;English&nbsp;only
 Sôlo&nbsp;Ingléize
@@ -298,8 +305,6 @@ Cös'o l'é sto Mozilla?
 
 ;We’re glad you asked!
 Ne fâ piaxéi che ti ne o domàndi!
-
-
 
 
 # Description for the newsletter in Newsletter subscription page

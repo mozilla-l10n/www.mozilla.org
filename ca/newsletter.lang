@@ -218,8 +218,13 @@ LA VOSTRA ADREÇA ELECTRÒNICA AQUÍ
 Subscriu-m'hi
 
 
+# This string is obsolete (replaced by the next one). Will be removed after bug 937986 is merged to prod
 ;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
 Estic d'acord que gestioneu aquesta informació com s'explica en la vostra <a href="%s">política de privadesa</a>
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 ;The supplied link has expired. You will receive a new one in the next newsletter.
@@ -359,7 +364,6 @@ Un butlletí de notícies mensual sobre com col·laborar amb Mozilla a la vostra
 
 # Description for the newsletter in Newsletter subscription page
 ;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
-Programa universitari anterior (2008-2011), actualment retirat i tornat a llançar com a Programa d'estudiants ambaixadors del Firefox. 
-
+Programa universitari anterior (2008-2011), actualment retirat i tornat a llançar com a Programa d'estudiants ambaixadors del Firefox.
 
 

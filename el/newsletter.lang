@@ -219,8 +219,13 @@ Firefox για κινητά
 Εγγραφή
 
 
+# This string is obsolete (replaced by the next one). Will be removed after bug 937986 is merged to prod
 ;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
 Συμφωνώ να χειριστείτε αυτές τις πληροφορίες με τον τρόπο που αναφέρετε στην <a href="%s">πολιτική απορρήτου</a>
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 ;The supplied link has expired. You will receive a new one in the next newsletter.

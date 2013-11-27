@@ -3,7 +3,7 @@
 
 
 ;Your Email Address
-আপনার ই-মেইল 
+আপনার ই-মেইল
 
 
 ;Your email address:
@@ -210,7 +210,7 @@ Firefox বার্তা পান
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-এখানে আপনার ইমেইল  
+এখানে আপনার ইমেইল
 
 
 # Button
@@ -218,8 +218,13 @@ Firefox বার্তা পান
 আমায় যোগ করে নিন
 
 
+# This string is obsolete (replaced by the next one). Will be removed after bug 937986 is merged to prod
 ;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
 আপনার ব্যাখ্যা হিসাবে আমি আপনাকে এই তথ্য পরিচালনার সঙ্গে ঠিক আছি <a href="%s">Privacy Policy</a>
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 ;The supplied link has expired. You will receive a new one in the next newsletter.
@@ -257,6 +262,7 @@ Firefox বার্তা পান
 ;Would you mind telling us why you’re leaving?
 অাপনি কি বলবেন যে কেন ত্যাগ করছেন ?
 
+
 ;Other…
 অন্যান্য ...
 
@@ -287,6 +293,7 @@ Firefox add-ons নিয়ে আরও অনেক কিছু করুন
 
 ;Find out how!
 কিভাবে খুঁজে পাবেন!
+
 
 ;About us
 আমাদের সম্বন্ধে

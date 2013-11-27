@@ -111,6 +111,7 @@ Lees meer over de populairste nieuwe add-ons en functies voor Firefox mobiel.
 Bètanieuws
 
 
+# Description for the newsletter in Newsletter subscription page
 ;Read about the latest features for Firefox desktop and mobile before the final release.
 Lees meer over de nieuwste functies in Firefox voor desktop en mobiel voordat de definitieve versie uitkomt.
 
@@ -218,8 +219,13 @@ UW E-MAILADRES
 Schrijf me in
 
 
+# This string is obsolete (replaced by the next one). Will be removed after bug 937986 is merged to prod
 ;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
 Ik ga akkoord met het gebruik van deze gegevens, zoals uitgelegd in uw <a href="%s">privacybeleid</a>
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 ;The supplied link has expired. You will receive a new one in the next newsletter.

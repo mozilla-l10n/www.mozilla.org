@@ -219,8 +219,13 @@ VAŠA E-POŠTA
 Prijavi me
 
 
+# This string is obsolete (replaced by the next one). Will be removed after bug 937986 is merged to prod
 ;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
 Strinjam se s posredovanjem teh informacij, kot ste razložili v vaši <a href="%s">politiki zasebnosti</a>
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 ;The supplied link has expired. You will receive a new one in the next newsletter.
@@ -307,6 +312,7 @@ Hvala za vprašanje!
 ;A monthly newsletter packed with tips to improve your Firefox experience.
 Mesečna okrožnica z nasveti, kako izboljšati vašo izkušnjo s Firefoxom.
 
+
 # Description for the newsletter in Newsletter subscription page
 ;Tips and tricks to use Firefox on your Android phone.
 Nasveti in zvijače za uporabo Firefoxa na telefonu Android.
@@ -315,6 +321,7 @@ Nasveti in zvijače za uporabo Firefoxa na telefonu Android.
 # Description for the newsletter in Newsletter subscription page
 ;Firefox OS news, tips, launch information and where to buy.
 Novice in nasveti o Firefox OS s podatki, kdaj in kje ga lahko kupite.
+
 
 # Description for the newsletter in Newsletter subscription page
 ;Discover the latest, coolest HTML5 apps on Firefox OS.

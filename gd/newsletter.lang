@@ -219,8 +219,13 @@ CUIR AM POST-D AGAD AN-SEO
 Clàraich mi
 
 
+# This string is obsolete (replaced by the next one). Will be removed after bug 937986 is merged to prod
 ;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
 Tha mi a' toirt cead dhuibh am fiosrachadh seo a chleachdadh mar a mhìnich sibh sa <a href="%s">phoileasaidh phrìobhaideachd</a> agaibh
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 ;The supplied link has expired. You will receive a new one in the next newsletter.

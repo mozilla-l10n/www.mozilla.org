@@ -219,8 +219,13 @@ Mozilla 新闻邮件
 我要注册
 
 
+# This string is obsolete (replaced by the next one). Will be removed after bug 937986 is merged to prod
 ;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
 我同意你们如 <a href="%s">隐私政策</a> 中解释的方式管理这些信息。
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 ;The supplied link has expired. You will receive a new one in the next newsletter.
@@ -306,6 +311,7 @@ Mozilla 新闻邮件
 # Description for the newsletter in Newsletter subscription page
 ;A monthly newsletter packed with tips to improve your Firefox experience.
 每月打包发布的提示文章可以帮助你改进 Firefox 使用体验。
+
 
 # Description for the newsletter in Newsletter subscription page
 ;Tips and tricks to use Firefox on your Android phone.

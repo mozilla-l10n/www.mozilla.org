@@ -1,18 +1,42 @@
 ## active ##
+;The Mozilla Manifesto
+Mozilla manifest
+
+
 ;Introduction
 Uvod
 
 
-;build and enable open-source technologies and communities that support the Manifesto’s principles;
-stvarati i podržavati tehnologije otvorenog koda i zajednice koje se pridržavaju načela iznesenim u Manifestu;
+;The Internet is becoming an increasingly important part of our lives.
+Internet postaje sve važniji dio naših života.
 
 
-;Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through the Mozilla Foundation’s wholly owned subsidiary, the Mozilla Corporation.
-Neke djelatnosti Fundacije - u ovom trenutku stvaranje, isporuka i promocija proizvoda - vrše se primarno kroz podružnicu u potpunom vlasništvu Mozilla Fundacije, tvrtku Mozilla Corporation.
+;The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.
+Mozilla projekt globalna je zajednica ljudi koji vjeruju da su otvorenost, inovativnost i prilagodljivost ključni za očuvanje Interneta. Zajedno radimo od 1998., nastojeći osigurati razvoj Interneta na način koji koristi svakome. Najpoznatiji smo kao kreatori Firefox web preglednika.
 
 
-;Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.
-Naglašavanje doprinosa Interneta javnom dobru važan je cilj, vrijedan utroška vremena, pažnje i posvećenosti.
+;The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.
+Mozilla projekt koristi pristup zasnovan na zajednici kako bi kreirali svjetski priznat softver otvorenog koda i razvili nove načine suradnje. Okupljamo zajednicu ljudi posvećenih stvaranju boljeg iskustva korištenja Interneta za sve nas.
+
+
+;As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
+Kao rezultat tih nastojanja stvoren je skup pravila, načela za koje vjerujemo da su ključni kako bi Internet nastavio služiti kako javnim interesima, tako i komercijalnim aspektima života. Ta načela navodimo u nastavku dokumenta.
+
+
+;The goals for the Manifesto are to:
+Ciljevi Manifesta su:
+
+
+;articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;
+odrediti jasnu viziju Interneta prema kojoj sudionici Mozille žele da Mozilla Fundacija postupa;
+
+
+;speak to people whether or not they have a technical background;
+biti jasan ljudima bez obzira na njihovo tehničko predznanje
+
+
+;make Mozilla contributors proud of what we're doing and motivate us to continue; and
+učiniti doprinositelje Mozilla projekta ponosnima na ono što rade i motivirati ih na daljnji rad; te
 
 
 ;provide a framework for other people to advance this vision of the Internet.
@@ -23,104 +47,78 @@ dati okvir za promicanje ove vizije Interneta
 Ti se ciljevi neće ostvariti sami po sebi. Ljudi su ti koji Internet trebaju napraviti otvorenim i spremnim na suradnju - bilo da djeluju individualno, radeći u grupama ili vodeći druge. Mozilla Fundacija posvećena je provođenju načela navedenih u Mozilla Manifestu. Pozivamo ostale da nam se pridruže u nastojanju da Internet učinimo boljim mjestom za svakoga.
 
 
-;The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
-Učinkovitost Interneta kao javnog resursa ovisi o kompatibilnosti (protokola, podataka, sadržaja), inovativnosti i decentralizaciji sudjelovanja diljem svijeta.
-
-
-;The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.
-Mozilla projekt globalna je zajednica ljudi koji vjeruju da su otvorenost, inovativnost i prilagodljivost ključni za očuvanje Interneta. Zajedno radimo od 1998., nastojeći osigurati razvoj Interneta na način koji koristi svakome. Najpoznatiji smo kao kreatori Firefox web preglednika.
-
-
-;Transparent community-based processes promote participation, accountability, and trust.
-Transparentni procesi vođeni od strane zajednice promiču sudjelovanje, odgovornost i povjerenje.
-
-
-;articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;
-odrediti jasnu viziju Interneta prema kojoj sudionici Mozille žele da Mozilla Fundacija postupa;
-
-
-;The Internet is becoming an increasingly important part of our lives.
-Internet postaje sve važniji dio naših života.
-
-
-;Individuals’ security on the Internet is fundamental and cannot be treated as optional.
-Sigurnost pojedinca na Internetu je ključna i ne može se tretirati drugačije.
-
-
-;promote the Mozilla Manifesto principles in public discourse and within the Internet industry.
-promovirati načela iznesena u Manifestu u javnim raspravama i unutar samog gospodarstva Interneta.
+;Principles
+NAČELA
 
 
 ;The Internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment and society as a whole.
 Internet je sastavni dio modernog života - ključan je za obrazovanje, komunikaciju, suradnju, poslovanje, zabavu i društvo općenito.
 
 
-;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial goals and public benefit is critical.
-Komercijalan doprinos razvoju Interneta donosi mnoge pogodnosti; ravnoteža između komercijalnog interesa i javnog dobra je ključna.
+;The Internet is a global public resource that must remain open and accessible.
+Internet je globalni, javni resurs koji mora ostati otvoren i pristupačan.
 
 
-;build and deliver great consumer products that support the Manifesto’s principles;
-stvarati i činiti dostupnima proizvode koji podržavaju načela iznesena u Manifestu;
+# Old string, will be removed after bug 876814 is fixed
+;The Internet should enrich the lives of individual human beings.
+Internet treba obogaćivati život pojedinaca.
 
 
+# New string for bug 876814
+;The Internet must enrich the lives of individual human beings.
+The Internet must enrich the lives of individual human beings.
+
+
+# Old string, will be removed after bug 876814 is fixed
+;Individuals’ security on the Internet is fundamental and cannot be treated as optional.
+Sigurnost pojedinca na Internetu je ključna i ne može se tretirati drugačije.
+
+
+# New string for bug 876814
+;Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional.
+Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional.
+
+
+# Old string, will be removed after bug 876814 is fixed
 ;Individuals must have the ability to shape their own experiences on the Internet.
 Pojedinac mora imati mogućnost korištenja Interneta na način na koji on to želi.
+
+
+# New string for bug 876814
+;Individuals must have the ability to shape the Internet and their own experiences on the Internet.
+Individuals must have the ability to shape the Internet and their own experiences on the Internet.
+
+
+;The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
+Učinkovitost Interneta kao javnog resursa ovisi o kompatibilnosti (protokola, podataka, sadržaja), inovativnosti i decentralizaciji sudjelovanja diljem svijeta.
 
 
 ;Free and open source software promotes the development of the Internet as a public resource.
 Slobodan softver i softver otvorenog koda promiče razvoj Interneta kao javnog resursa.
 
 
-;The goals for the Manifesto are to:
-Ciljevi Manifesta su:
+# Old string, will be removed after bug 876814 is fixed
+;Transparent community-based processes promote participation, accountability, and trust.
+Transparentni procesi vođeni od strane zajednice promiču sudjelovanje, odgovornost i povjerenje.
 
 
-;Invitation
-Poziv
+# New string for bug 876814
+;Transparent community-based processes promote participation, accountability and trust.
+Transparent community-based processes promote participation, accountability and trust.
 
 
-;promote models for creating economic value for the public benefit; and
-promovirati modele za stvaranje ekonomskih vrijednosti za opće dobro; te
+# Old string, will be removed after bug 876814 is fixed
+;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial goals and public benefit is critical.
+Komercijalan doprinos razvoju Interneta donosi mnoge pogodnosti; ravnoteža između komercijalnog interesa i javnog dobra je ključna.
 
 
-;Mozilla Foundation Pledge
-Zavjet Mozilla Fundacije
+# New string for bug 876814
+;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
+Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
 
 
-;The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.
-Mozilla projekt koristi pristup zasnovan na zajednici kako bi kreirali svjetski priznat softver otvorenog koda i razvili nove načine suradnje. Okupljamo zajednicu ljudi posvećenih stvaranju boljeg iskustva korištenja Interneta za sve nas.
-
-
-;The Internet is a global public resource that must remain open and accessible.
-Internet je globalni, javni resurs koji mora ostati otvoren i pristupačan.
-
-
-;The Internet should enrich the lives of individual human beings.
-Internet treba obogaćivati život pojedinaca.
-
-
-;The Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:
-Mozilla Fundacija se obvezuje da će podržati načela izložena u Mozilla Manifestu. Konkretno, mi ćemo:
-
-
-;use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;
-koristiti Mozilline resurse (intelektualno vlasništvo kao što su autorska prava i zaštićeni trgovački znakovi, infrastrukturu, financijske resurse i ugled) kako bi Internet ostao otvorena platforma;
-
-
-;As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
-Kao rezultat tih nastojanja stvoren je skup pravila, načela za koje vjerujemo da su ključni kako bi Internet nastavio služiti kako javnim interesima, tako i komercijalnim aspektima života. Ta načela navodimo u nastavku dokumenta.
-
-
-;speak to people whether or not they have a technical background;
-biti jasan ljudima bez obzira na njihovo tehničko predznanje
-
-
-;The Mozilla Manifesto
-Mozilla manifest
-
-
-;Principles
-NAČELA
+;Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.
+Naglašavanje doprinosa Interneta javnom dobru važan je cilj, vrijedan utroška vremena, pažnje i posvećenosti.
 
 
 ;Advancing the Mozilla Manifesto
@@ -131,11 +129,43 @@ PROMICANJE MOZILLA MANIFESTA
 Postoji mnogo načina promicanja Mozilla manifesta. Podržavamo širok raspon aktivnosti i očekujemo istu razinu kreativnosti koju Mozilla doprinositelji pokazuju u drugim aktivnostima Projekta. Za ljude koji ne sudjeluju aktivno u radu Mozilla projekta, osnovan, no vrlo učinkovit način podržavanja Manifesta je korištenje Mozilla Firefoxa i ostalih proizvoda koji utjelovljuju načela Manifesta.
 
 
+;Mozilla Foundation Pledge
+Zavjet Mozilla Fundacije
+
+
+;The Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:
+Mozilla Fundacija se obvezuje da će podržati načela izložena u Mozilla Manifestu. Konkretno, mi ćemo:
+
+
+;build and enable open-source technologies and communities that support the Manifesto’s principles;
+stvarati i podržavati tehnologije otvorenog koda i zajednice koje se pridržavaju načela iznesenim u Manifestu;
+
+
+;build and deliver great consumer products that support the Manifesto’s principles;
+stvarati i činiti dostupnima proizvode koji podržavaju načela iznesena u Manifestu;
+
+
+;use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;
+koristiti Mozilline resurse (intelektualno vlasništvo kao što su autorska prava i zaštićeni trgovački znakovi, infrastrukturu, financijske resurse i ugled) kako bi Internet ostao otvorena platforma;
+
+
+;promote models for creating economic value for the public benefit; and
+promovirati modele za stvaranje ekonomskih vrijednosti za opće dobro; te
+
+
+;promote the Mozilla Manifesto principles in public discourse and within the Internet industry.
+promovirati načela iznesena u Manifestu u javnim raspravama i unutar samog gospodarstva Interneta.
+
+
+;Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through the Mozilla Foundation’s wholly owned subsidiary, the Mozilla Corporation.
+Neke djelatnosti Fundacije - u ovom trenutku stvaranje, isporuka i promocija proizvoda - vrše se primarno kroz podružnicu u potpunom vlasništvu Mozilla Fundacije, tvrtku Mozilla Corporation.
+
+
+;Invitation
+Poziv
+
+
 ;The Mozilla Foundation invites all others who support the principles of the Mozilla Manifesto to join with us, and to find new ways to make this vision of the Internet a reality.
 Mozilla Fundacija poziva sve koji podržavaju načela iznesena u Mozilla Manifestu da nam se pridruže, te nam pomognu u pronalasku novih načina pretakanja ove vizije Interneta u stvarnost.
-
-
-;make Mozilla contributors proud of what we're doing and motivate us to continue; and
-učiniti doprinositelje Mozilla projekta ponosnima na ono što rade i motivirati ih na daljnji rad; te
 
 

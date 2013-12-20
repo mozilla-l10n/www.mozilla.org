@@ -1,18 +1,42 @@
 ## active ##
+;The Mozilla Manifesto
+Mozilla 宣言
+
+
 ;Introduction
 引言
 
 
-;build and enable open-source technologies and communities that support the Manifesto’s principles;
-建立和支持符合宣言准则的开放源码技术和社区；
+;The Internet is becoming an increasingly important part of our lives.
+互联网作为人们生活的一部分，其重要性日益增加。
 
 
-;Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through the Mozilla Foundation’s wholly owned subsidiary, the Mozilla Corporation.
-Mozilla基金会的部分活动，目前包括消费类产品的研发，传递，和推广，主要通过基金会全资子公司Mozilla公司进行。
+;The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.
+Mozilla是一个全球化的社区。社区成员们坚信开放，创新，和机遇是互联网持续健康发展的关键因素。作为一个社区，我们从1998年开始为确保互联网的发展造福所有用户而共同努力。我们因创作Mozilla Firefox网络浏览器而广为人知。
 
 
-;Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.
-扩展互联网的公共利益层面是一个非常重要的目标，值得我们赋予时间、精力，和承诺。
+;The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.
+Mozilla基于社区创建世界一流的开放源代码软件，并且开拓各种新式的合作活动。我们志同道合，致力于改善广大互联网用户的上网体验。
+
+
+;As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
+通过共同努力，我们总结出一系列准则并相信它们是保证公共利益和商业活动能够受益于互联网的决定性因素。我们在以下列出这些准则。
+
+
+;The goals for the Manifesto are to:
+此宣言的目的是
+
+
+;articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;
+清晰的展示Mozilla参与者期望Mozilla基金会追求的互联网未来的发展前景；
+
+
+;speak to people whether or not they have a technical background;
+与无论是否具有技术背景的群体沟通；
+
+
+;make Mozilla contributors proud of what we're doing and motivate us to continue; and
+让Mozilla 贡献者对于我们所做的感到自豪，并激励我们继续努力；同时
 
 
 ;provide a framework for other people to advance this vision of the Internet.
@@ -23,104 +47,78 @@ Mozilla基金会的部分活动，目前包括消费类产品的研发，传递�
 这些准则需要大家的共同努力得以实现。互联网的开放和参与需要大家的个人贡献，团队协作，和发挥领导作用。Mozilla基金会承诺推行Mozilla宣言里制定的准则。我们邀请更多的同仁加入我们，共同奋斗使互联网变得更好。
 
 
-;The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
-作为公共资源的互联网其有效性取决于信息交互（网络协议，数据格式，内容）创新，和世界各地用户的自主参与。
-
-
-;The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.
-Mozilla是一个全球化的社区。社区成员们坚信开放，创新，和机遇是互联网持续健康发展的关键因素。作为一个社区，我们从1998年开始为确保互联网的发展造福所有用户而共同努力。我们因创作Mozilla Firefox网络浏览器而广为人知。
-
-
-;Transparent community-based processes promote participation, accountability, and trust.
-透明的社区流程有利于提升社区的可参与性，责任制，和诚信度。
-
-
-;articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;
-清晰的展示Mozilla参与者期望Mozilla基金会追求的互联网未来的发展前景；
-
-
-;The Internet is becoming an increasingly important part of our lives.
-互联网作为人们生活的一部分，其重要性日益增加。
-
-
-;Individuals’ security on the Internet is fundamental and cannot be treated as optional.
-用户的网络安全是基本要求，不可忽视。
-
-
-;promote the Mozilla Manifesto principles in public discourse and within the Internet industry.
-并且在公共言论中和互联网业界推广Mozilla宣言。
+;Principles
+准则
 
 
 ;The Internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment and society as a whole.
 互联网是现代生活不可分割的一部分，是教育，交流，合作，商业，娱乐，以及整体社会的关键组成部分。
 
 
-;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial goals and public benefit is critical.
-互联网发展过程中的商业化参与有众多优点。维持商业目标和公共利益之间的平衡至关重要。
+;The Internet is a global public resource that must remain open and accessible.
+互联网是全球公共资源，必须保证开放性和可用性。
 
 
-;build and deliver great consumer products that support the Manifesto’s principles;
-开发符合宣言准则的优秀消费类产品；
+# Old string, will be removed after bug 876814 is fixed
+;The Internet should enrich the lives of individual human beings.
+互联网应该丰富人类生活。
 
 
+# New string for bug 876814
+;The Internet must enrich the lives of individual human beings.
+The Internet must enrich the lives of individual human beings.
+
+
+# Old string, will be removed after bug 876814 is fixed
+;Individuals’ security on the Internet is fundamental and cannot be treated as optional.
+用户的网络安全是基本要求，不可忽视。
+
+
+# New string for bug 876814
+;Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional.
+Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional.
+
+
+# Old string, will be removed after bug 876814 is fixed
 ;Individuals must have the ability to shape their own experiences on the Internet.
 互联网用户必须有能力感知和规范自己的上网行为。
+
+
+# New string for bug 876814
+;Individuals must have the ability to shape the Internet and their own experiences on the Internet.
+Individuals must have the ability to shape the Internet and their own experiences on the Internet.
+
+
+;The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
+作为公共资源的互联网其有效性取决于信息交互（网络协议，数据格式，内容）创新，和世界各地用户的自主参与。
 
 
 ;Free and open source software promotes the development of the Internet as a public resource.
 自由和开放源代码软件有助于互联网作为公共资源的持续发展。
 
 
-;The goals for the Manifesto are to:
-此宣言的目的是
+# Old string, will be removed after bug 876814 is fixed
+;Transparent community-based processes promote participation, accountability, and trust.
+透明的社区流程有利于提升社区的可参与性，责任制，和诚信度。
 
 
-;Invitation
-邀请
+# New string for bug 876814
+;Transparent community-based processes promote participation, accountability and trust.
+Transparent community-based processes promote participation, accountability and trust.
 
 
-;promote models for creating economic value for the public benefit; and
-提倡为公共利益创造经济价值的模式；
+# Old string, will be removed after bug 876814 is fixed
+;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial goals and public benefit is critical.
+互联网发展过程中的商业化参与有众多优点。维持商业目标和公共利益之间的平衡至关重要。
 
 
-;Mozilla Foundation Pledge
-Mozilla基金会的承诺
+# New string for bug 876814
+;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
+Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
 
 
-;The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.
-Mozilla基于社区创建世界一流的开放源代码软件，并且开拓各种新式的合作活动。我们志同道合，致力于改善广大互联网用户的上网体验。
-
-
-;The Internet is a global public resource that must remain open and accessible.
-互联网是全球公共资源，必须保证开放性和可用性。
-
-
-;The Internet should enrich the lives of individual human beings.
-互联网应该丰富人类生活。
-
-
-;The Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:
-Mozilla基金会承诺支持Mozilla宣言。具体地，我们将会：
-
-
-;use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;
-利用Mozilla的资产（诸如版权和商标的知识产权，基础设施，资金，和声誉等）使互联网保持为开放的平台；
-
-
-;As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
-通过共同努力，我们总结出一系列准则并相信它们是保证公共利益和商业活动能够受益于互联网的决定性因素。我们在以下列出这些准则。
-
-
-;speak to people whether or not they have a technical background;
-与无论是否具有技术背景的群体沟通；
-
-
-;The Mozilla Manifesto
-Mozilla 宣言
-
-
-;Principles
-准则
+;Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.
+扩展互联网的公共利益层面是一个非常重要的目标，值得我们赋予时间、精力，和承诺。
 
 
 ;Advancing the Mozilla Manifesto
@@ -131,11 +129,43 @@ Mozilla 宣言
 推行Mozilla宣言里的准则有多种途径。我们欢迎广泛的活动并期待参与者发挥像在Mozilla其他项目中那样的创造性。对于尚未深入参与 Mozilla项目的个人，支持宣言的最简单而有效的办法就是使用Mozilla Firefox以及其他体现Mozilla宣言准则的产品。
 
 
+;Mozilla Foundation Pledge
+Mozilla基金会的承诺
+
+
+;The Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:
+Mozilla基金会承诺支持Mozilla宣言。具体地，我们将会：
+
+
+;build and enable open-source technologies and communities that support the Manifesto’s principles;
+建立和支持符合宣言准则的开放源码技术和社区；
+
+
+;build and deliver great consumer products that support the Manifesto’s principles;
+开发符合宣言准则的优秀消费类产品；
+
+
+;use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;
+利用Mozilla的资产（诸如版权和商标的知识产权，基础设施，资金，和声誉等）使互联网保持为开放的平台；
+
+
+;promote models for creating economic value for the public benefit; and
+提倡为公共利益创造经济价值的模式；
+
+
+;promote the Mozilla Manifesto principles in public discourse and within the Internet industry.
+并且在公共言论中和互联网业界推广Mozilla宣言。
+
+
+;Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through the Mozilla Foundation’s wholly owned subsidiary, the Mozilla Corporation.
+Mozilla基金会的部分活动，目前包括消费类产品的研发，传递，和推广，主要通过基金会全资子公司Mozilla公司进行。
+
+
+;Invitation
+邀请
+
+
 ;The Mozilla Foundation invites all others who support the principles of the Mozilla Manifesto to join with us, and to find new ways to make this vision of the Internet a reality.
 Mozilla基金会邀请所有支持Mozilla宣言准则的同仁一起探索，将宣言里对互联网的构想变为现实。
-
-
-;make Mozilla contributors proud of what we're doing and motivate us to continue; and
-让Mozilla 贡献者对于我们所做的感到自豪，并激励我们继续努力；同时
 
 

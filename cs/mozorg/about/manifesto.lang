@@ -1,18 +1,42 @@
 ## active ##
+;The Mozilla Manifesto
+Manifest Mozilly
+
+
 ;Introduction
 Úvod
 
 
-;build and enable open-source technologies and communities that support the Manifesto’s principles;
-budovat a podporovat open-source technologie a komunity podporující principy Manifestu;
+;The Internet is becoming an increasingly important part of our lives.
+Internet se stává důležitou součástí našich životů.
 
 
-;Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through the Mozilla Foundation’s wholly owned subsidiary, the Mozilla Corporation.
-Některé aktivity Nadace – aktuálně vývoj, šíření a podpora produktů – jsou řízené především společností Mozilla, která je zcela ve vlastnictví Nadace Mozilla.
+;The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.
+Projekt Mozilla je celosvětová komunita lidí, kteří věří, že otevřenost, inovace a příležitosti jsou klíčem k zlepšujícímu se prostředí Internetu. Pracujeme společně od roku 1998, abychom zajistili, že se Internet vyvíjí cestou, která vyhovuje všem. Jsme známí vytvořením webového prohlížeče Mozilla Firefox.
 
 
-;Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.
-Posilování aspektů veřejné prospěšnosti Internetu je důležitý cíl, náročný na čas, pozornost a zodpovědnost.
+;The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.
+Projekt Mozilla využívá metody založené na lidech k vytvoření celosvětového software s otevřeným zdrojovým kódem a snaží se vytvořit nové prvky spolupráce. Sdružujeme komunity lidí, kteří se snaží vylepšit Internet po každé stránce a pro všechny.
+
+
+;As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
+Jako výsledek těchto snah jsme vytvořili seznam principů, o kterých si myslíme, že se stávají zásadními pro užívání Internetu, aby se dále vyvíjel cestou veřejného prospěchu a zlepšoval komerční aspekty života. Tyto principy jsou uvedeny níže.
+
+
+;The goals for the Manifesto are to:
+Znění Manifestu je následující:
+
+
+;articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;
+komunikovat vize Internetu, které by podle přispěvatelů Mozilly měla nadace Mozilla plnit
+
+
+;speak to people whether or not they have a technical background;
+hovořit s lidmi bez ohledu na jejich technické znalosti a dovednosti
+
+
+;make Mozilla contributors proud of what we're doing and motivate us to continue; and
+činit přispěvatele Mozilla pyšnými na to, co děláme a motivovat je k další součinnosti
 
 
 ;provide a framework for other people to advance this vision of the Internet.
@@ -23,104 +47,78 @@ vytvořit strukturu pro ostatní lidi, aby šířili naši vizi Internetu
 Tyto principy nezačnou fungovat samy od sebe. Lidé potřebují mít otevřený Internet a být jeho součástí – jednotlivci, kolektivy, lidé ve vedoucím postavení. Nadace Mozilla se snaží šířit principy ustavené v Manifestu. Zveme ostatní, aby se k nám přidali a udělali z Internetu lepší místo pro všechny.
 
 
-;The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
-Efektivita Internetu jako veřejného zdroje záleží na schopnosti součinnosti (protokoly, formáty dat, obsah), inovacích a decentralizované celosvětové spolupráci.
-
-
-;The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.
-Projekt Mozilla je celosvětová komunita lidí, kteří věří, že otevřenost, inovace a příležitosti jsou klíčem k zlepšujícímu se prostředí Internetu. Pracujeme společně od roku 1998, abychom zajistili, že se Internet vyvíjí cestou, která vyhovuje všem. Jsme známí vytvořením webového prohlížeče Mozilla Firefox.
-
-
-;Transparent community-based processes promote participation, accountability, and trust.
-Transparentní procesy založené na komunitách prospívají participaci, zodpovědnosti a důvěře.
-
-
-;articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;
-komunikovat vize Internetu, které by podle přispěvatelů Mozilly měla nadace Mozilla plnit
-
-
-;The Internet is becoming an increasingly important part of our lives.
-Internet se stává důležitou součástí našich životů.
-
-
-;Individuals’ security on the Internet is fundamental and cannot be treated as optional.
-Bezpečnost každého na Internetu je stěžejní a nemůže být brána na lehkou váhu.
-
-
-;promote the Mozilla Manifesto principles in public discourse and within the Internet industry.
-podporovat principy Manifestu Mozilla ve veřejných rozpravách a napříč internetovým odvětvím
+;Principles
+Principy
 
 
 ;The Internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment and society as a whole.
 Internet je nedílnou součástí moderního života – klíčovým prvkem vzdělávání, komunikace, spolupráce, obchodu, zábavy a společnosti jako takové.
 
 
-;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial goals and public benefit is critical.
-Komerční zásahy do rozvoje Internetu přináší mnohé výhody; komerční cíle a veřejné zájmy se kriticky rozchází.
+;The Internet is a global public resource that must remain open and accessible.
+Internet je globální veřejný zdroj, který musí zůstat otevřený a přístupný.
 
 
-;build and deliver great consumer products that support the Manifesto’s principles;
-budovat a šířit produkty podporující principy Manifestu;
+# Old string, will be removed after bug 876814 is fixed
+;The Internet should enrich the lives of individual human beings.
+Internet by měl obohacovat životy jednotlivců.
 
 
+# New string for bug 876814
+;The Internet must enrich the lives of individual human beings.
+The Internet must enrich the lives of individual human beings.
+
+
+# Old string, will be removed after bug 876814 is fixed
+;Individuals’ security on the Internet is fundamental and cannot be treated as optional.
+Bezpečnost každého na Internetu je stěžejní a nemůže být brána na lehkou váhu.
+
+
+# New string for bug 876814
+;Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional.
+Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional.
+
+
+# Old string, will be removed after bug 876814 is fixed
 ;Individuals must have the ability to shape their own experiences on the Internet.
 Každý musí mít možnost získávat vlastní zkušenosti s Internetem.
+
+
+# New string for bug 876814
+;Individuals must have the ability to shape the Internet and their own experiences on the Internet.
+Individuals must have the ability to shape the Internet and their own experiences on the Internet.
+
+
+;The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
+Efektivita Internetu jako veřejného zdroje záleží na schopnosti součinnosti (protokoly, formáty dat, obsah), inovacích a decentralizované celosvětové spolupráci.
 
 
 ;Free and open source software promotes the development of the Internet as a public resource.
 Otevřený software zdarma podporuje rozvoj Internetu jako veřejného zdroje.
 
 
-;The goals for the Manifesto are to:
-Znění Manifestu je následující:
+# Old string, will be removed after bug 876814 is fixed
+;Transparent community-based processes promote participation, accountability, and trust.
+Transparentní procesy založené na komunitách prospívají participaci, zodpovědnosti a důvěře.
 
 
-;Invitation
-Pozvánka
+# New string for bug 876814
+;Transparent community-based processes promote participation, accountability and trust.
+Transparent community-based processes promote participation, accountability and trust.
 
 
-;promote models for creating economic value for the public benefit; and
-podporovat modely vytváření ekonomické hodnoty ku veřejnému prospěchu; a
+# Old string, will be removed after bug 876814 is fixed
+;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial goals and public benefit is critical.
+Komerční zásahy do rozvoje Internetu přináší mnohé výhody; komerční cíle a veřejné zájmy se kriticky rozchází.
 
 
-;Mozilla Foundation Pledge
-Závazky nadace Mozilla
+# New string for bug 876814
+;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
+Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
 
 
-;The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.
-Projekt Mozilla využívá metody založené na lidech k vytvoření celosvětového software s otevřeným zdrojovým kódem a snaží se vytvořit nové prvky spolupráce. Sdružujeme komunity lidí, kteří se snaží vylepšit Internet po každé stránce a pro všechny.
-
-
-;The Internet is a global public resource that must remain open and accessible.
-Internet je globální veřejný zdroj, který musí zůstat otevřený a přístupný.
-
-
-;The Internet should enrich the lives of individual human beings.
-Internet by měl obohacovat životy jednotlivců.
-
-
-;The Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:
-Nadace Mozilla se zavazuje podporovat Manifest a jeho aktivity. Konkrétně budeme:
-
-
-;use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;
-užívat aktiva Mozilla (duševní vlastnictví jako copyright, obchodní značku, zázemí, fondy a dobré jméno) k udržení Internetu pro každého
-
-
-;As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
-Jako výsledek těchto snah jsme vytvořili seznam principů, o kterých si myslíme, že se stávají zásadními pro užívání Internetu, aby se dále vyvíjel cestou veřejného prospěchu a zlepšoval komerční aspekty života. Tyto principy jsou uvedeny níže.
-
-
-;speak to people whether or not they have a technical background;
-hovořit s lidmi bez ohledu na jejich technické znalosti a dovednosti
-
-
-;The Mozilla Manifesto
-Manifest Mozilly
-
-
-;Principles
-Principy
+;Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.
+Posilování aspektů veřejné prospěšnosti Internetu je důležitý cíl, náročný na čas, pozornost a zodpovědnost.
 
 
 ;Advancing the Mozilla Manifesto
@@ -131,11 +129,43 @@ Prosazování Manifestu Mozilla
 Existuje mnoho rozličných způsobů šíření Manifestu Mozilla. Vítáme veškeré aktivity a očekáváme stejnou kreativitu, jakou přispěvatelé ukázali v ostatních částech projektu. Pro jednotlivce, kteří nejsou úzce spojeni s projektem Mozilla, existuje základní a velmi efektivní cesta k podpoře Manifestu – užívání Mozilla Firefox a dalších produktů, které ctí principy Manifestu.
 
 
+;Mozilla Foundation Pledge
+Závazky nadace Mozilla
+
+
+;The Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:
+Nadace Mozilla se zavazuje podporovat Manifest a jeho aktivity. Konkrétně budeme:
+
+
+;build and enable open-source technologies and communities that support the Manifesto’s principles;
+budovat a podporovat open-source technologie a komunity podporující principy Manifestu;
+
+
+;build and deliver great consumer products that support the Manifesto’s principles;
+budovat a šířit produkty podporující principy Manifestu;
+
+
+;use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;
+užívat aktiva Mozilla (duševní vlastnictví jako copyright, obchodní značku, zázemí, fondy a dobré jméno) k udržení Internetu pro každého
+
+
+;promote models for creating economic value for the public benefit; and
+podporovat modely vytváření ekonomické hodnoty ku veřejnému prospěchu; a
+
+
+;promote the Mozilla Manifesto principles in public discourse and within the Internet industry.
+podporovat principy Manifestu Mozilla ve veřejných rozpravách a napříč internetovým odvětvím
+
+
+;Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through the Mozilla Foundation’s wholly owned subsidiary, the Mozilla Corporation.
+Některé aktivity Nadace – aktuálně vývoj, šíření a podpora produktů – jsou řízené především společností Mozilla, která je zcela ve vlastnictví Nadace Mozilla.
+
+
+;Invitation
+Pozvánka
+
+
 ;The Mozilla Foundation invites all others who support the principles of the Mozilla Manifesto to join with us, and to find new ways to make this vision of the Internet a reality.
 Nadace Mozilla zve všechny, kteří podporují principy Manifestu, aby se připojili a hledali společně s námi nové způsoby, jak naši vizi přeměnit na realitu.
-
-
-;make Mozilla contributors proud of what we're doing and motivate us to continue; and
-činit přispěvatele Mozilla pyšnými na to, co děláme a motivovat je k další součinnosti
 
 

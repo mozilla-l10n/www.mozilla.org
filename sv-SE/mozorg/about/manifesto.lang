@@ -1,18 +1,42 @@
 ## active ##
+;The Mozilla Manifesto
+Mozillas manifest
+
+
 ;Introduction
 Introduktion
 
 
-;build and enable open-source technologies and communities that support the Manifesto’s principles;
-bygga och möjliggöra tekniker med öppen källkod och gemenskaper som stöder Manifestets principer;
+;The Internet is becoming an increasingly important part of our lives.
+Internet blir mer och mer en allt viktigare del av våra liv.
 
 
-;Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through the Mozilla Foundation’s wholly owned subsidiary, the Mozilla Corporation.
-Vissa aktiviteter – för närvarande skapandet, levereringen och marknadsföringen av konsumentprodukter – sker primärt genom Mozilla Foundations helägda dotterbolag, Mozilla Corporation.
+;The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.
+Mozilla-projektet är en global gemenskap av människor som tror att öppenhet, innovation och möjligheter är nyckeln till nätets fortsatta hälsa. Vi har arbetat tillsammans sedan 1998 för att se till att Internet utveckas på ett sätt som är till nytta för alla. Vi är bäst kända för att ha skapat webbläsaren Mozilla Firefox.
 
 
-;Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.
-Att förstora allmännyttan av Internet är ett viktigt mål, värt tid, uppmärksamhet och engagemang.
+;The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.
+Mozilla-projektet använder ett gemenskapsbaserat tillvägagångssätt för att skapa mjukvara i världsklass med öppen källkod och för att utveckla nya typer av kollaborativa aktiviteter. Vi bygger gemenskaper av människor som är involverade i att göra Internet-upplevelsen bättre för oss alla.
+
+
+;As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
+Som ett resultat av dessa satsningar har vi destillerat fram en samling principer som vi tror är kritiska för att Internet ska fortsätta att gagna allmännyttan såväl som livets kommersiella aspekter. Vi beskriver dessa principer nedan.
+
+
+;The goals for the Manifesto are to:
+Målet med detta Manifest är att:
+
+
+;articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;
+Artikulera en vision för det Internet som Mozilla-deltagarna vill att Mozilla Foundation ska eftersträva;
+
+
+;speak to people whether or not they have a technical background;
+tala till människor vare sig de har en teknisk bakgrund eller ej;
+
+
+;make Mozilla contributors proud of what we're doing and motivate us to continue; and
+göra de som bidrar till Mozilla stolta över vad vi gör och motivera oss att fortsätta; samt
 
 
 ;provide a framework for other people to advance this vision of the Internet.
@@ -23,104 +47,78 @@ tillhandahålla ett ramverk för andra människor att avancera denna vision av I
 Dessa principer kommer inte att väckas till liv av sig själva. Människor behövs för att göra Internet öppet och deltagande – människor som handlar som individer, som arbetar tillsammans i grupper och som leder andra. Mozilla Foundation är besluten att framskrida de principer som ställts fram i Mozilla-manifestet. Vi inbjuder andra till att gå med oss och göra Internet till en ännu bättre plats för alla.
 
 
-;The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
-Effektiviteten hos Internet som en allmän resurs beror på interoperabilitet (protokoll, dataformat, innehåll), innovation och decentraliserat deltagande världen över.
-
-
-;The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.
-Mozilla-projektet är en global gemenskap av människor som tror att öppenhet, innovation och möjligheter är nyckeln till nätets fortsatta hälsa. Vi har arbetat tillsammans sedan 1998 för att se till att Internet utveckas på ett sätt som är till nytta för alla. Vi är bäst kända för att ha skapat webbläsaren Mozilla Firefox.
-
-
-;Transparent community-based processes promote participation, accountability, and trust.
-Transparenta gemensamhetsbaserade processer främjar deltagande, ansvarstagande och tillit.
-
-
-;articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;
-Artikulera en vision för det Internet som Mozilla-deltagarna vill att Mozilla Foundation ska eftersträva;
-
-
-;The Internet is becoming an increasingly important part of our lives.
-Internet blir mer och mer en allt viktigare del av våra liv.
-
-
-;Individuals’ security on the Internet is fundamental and cannot be treated as optional.
-Individers säkerhet på Internet är fundamental och är inte att betrakta som valfri.
-
-
-;promote the Mozilla Manifesto principles in public discourse and within the Internet industry.
-främja Mozilla-manifestets principer i öppna diskussioner och inom Internet-industrin.
+;Principles
+Principer
 
 
 ;The Internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment and society as a whole.
 Internet är en grundläggande del av det moderna livet – en nyckelkomponent i utbildning, kommunikation, samarbete, underhållning och samhället i stort.
 
 
-;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial goals and public benefit is critical.
-Kommersiell involvering i utvecklingen av Internet har många fördelar; en balans mellan kommersiella mål och allmännyttan är avgörande.
+;The Internet is a global public resource that must remain open and accessible.
+Internet är en global allmän resurs som måste förbli öppen och tillgänglig.
 
 
-;build and deliver great consumer products that support the Manifesto’s principles;
-bygga och leverera utmärkta konsumentprodukter som stöder Manifestets principer;
+# Old string, will be removed after bug 876814 is fixed
+;The Internet should enrich the lives of individual human beings.
+Internet bör berika enskilda människors liv.
 
 
+# New string for bug 876814
+;The Internet must enrich the lives of individual human beings.
+The Internet must enrich the lives of individual human beings.
+
+
+# Old string, will be removed after bug 876814 is fixed
+;Individuals’ security on the Internet is fundamental and cannot be treated as optional.
+Individers säkerhet på Internet är fundamental och är inte att betrakta som valfri.
+
+
+# New string for bug 876814
+;Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional.
+Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional.
+
+
+# Old string, will be removed after bug 876814 is fixed
 ;Individuals must have the ability to shape their own experiences on the Internet.
 Individer måste ha förmågan att forma sina egna upplevelser på Internet.
+
+
+# New string for bug 876814
+;Individuals must have the ability to shape the Internet and their own experiences on the Internet.
+Individuals must have the ability to shape the Internet and their own experiences on the Internet.
+
+
+;The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
+Effektiviteten hos Internet som en allmän resurs beror på interoperabilitet (protokoll, dataformat, innehåll), innovation och decentraliserat deltagande världen över.
 
 
 ;Free and open source software promotes the development of the Internet as a public resource.
 Fri och öppen mjukvara främjar utvecklingen av Internet som en allmän resurs.
 
 
-;The goals for the Manifesto are to:
-Målet med detta Manifest är att:
+# Old string, will be removed after bug 876814 is fixed
+;Transparent community-based processes promote participation, accountability, and trust.
+Transparenta gemensamhetsbaserade processer främjar deltagande, ansvarstagande och tillit.
 
 
-;Invitation
-Inbjudan
+# New string for bug 876814
+;Transparent community-based processes promote participation, accountability and trust.
+Transparent community-based processes promote participation, accountability and trust.
 
 
-;promote models for creating economic value for the public benefit; and
-främja modeller som skapar ekonomiskt värde till nytta för allmänheten; och
+# Old string, will be removed after bug 876814 is fixed
+;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial goals and public benefit is critical.
+Kommersiell involvering i utvecklingen av Internet har många fördelar; en balans mellan kommersiella mål och allmännyttan är avgörande.
 
 
-;Mozilla Foundation Pledge
-Mozilla Foundations löfte
+# New string for bug 876814
+;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
+Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
 
 
-;The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.
-Mozilla-projektet använder ett gemenskapsbaserat tillvägagångssätt för att skapa mjukvara i världsklass med öppen källkod och för att utveckla nya typer av kollaborativa aktiviteter. Vi bygger gemenskaper av människor som är involverade i att göra Internet-upplevelsen bättre för oss alla.
-
-
-;The Internet is a global public resource that must remain open and accessible.
-Internet är en global allmän resurs som måste förbli öppen och tillgänglig.
-
-
-;The Internet should enrich the lives of individual human beings.
-Internet bör berika enskilda människors liv.
-
-
-;The Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:
-Mozilla Foundation lovar att ge sitt stöd åt Mozilla-manifestet i alla sina aktiviteter. Specifikt kommer vi att:
-
-
-;use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;
-använda Mozillas tillgångar (immaterialrättsliga tillgångar som upphovsrätt och varumärken, infrastruktur, kapital och rykte) för att hålla Internet öppet som plattform;
-
-
-;As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
-Som ett resultat av dessa satsningar har vi destillerat fram en samling principer som vi tror är kritiska för att Internet ska fortsätta att gagna allmännyttan såväl som livets kommersiella aspekter. Vi beskriver dessa principer nedan.
-
-
-;speak to people whether or not they have a technical background;
-tala till människor vare sig de har en teknisk bakgrund eller ej;
-
-
-;The Mozilla Manifesto
-Mozillas manifest
-
-
-;Principles
-Principer
+;Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.
+Att förstora allmännyttan av Internet är ett viktigt mål, värt tid, uppmärksamhet och engagemang.
 
 
 ;Advancing the Mozilla Manifesto
@@ -131,11 +129,43 @@ Föra fram Mozilla-manifestet
 Det finns många sätt att föra fram principerna i Mozilla-manifestet. Vi välkomnar ett brett spann av aktiviteter, och förväntar oss samma kreativitet som Mozilla-anhängare har visat i andra delar av projektet. För individer som inte är djup involverade i Mozilla-projektet är ett enkelt och mycket effektivt sätt att ge sitt stöd till Manifestet att använda Mozilla Firefox och andra produkter som förkroppsligar principerna i Manifestet.
 
 
+;Mozilla Foundation Pledge
+Mozilla Foundations löfte
+
+
+;The Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:
+Mozilla Foundation lovar att ge sitt stöd åt Mozilla-manifestet i alla sina aktiviteter. Specifikt kommer vi att:
+
+
+;build and enable open-source technologies and communities that support the Manifesto’s principles;
+bygga och möjliggöra tekniker med öppen källkod och gemenskaper som stöder Manifestets principer;
+
+
+;build and deliver great consumer products that support the Manifesto’s principles;
+bygga och leverera utmärkta konsumentprodukter som stöder Manifestets principer;
+
+
+;use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;
+använda Mozillas tillgångar (immaterialrättsliga tillgångar som upphovsrätt och varumärken, infrastruktur, kapital och rykte) för att hålla Internet öppet som plattform;
+
+
+;promote models for creating economic value for the public benefit; and
+främja modeller som skapar ekonomiskt värde till nytta för allmänheten; och
+
+
+;promote the Mozilla Manifesto principles in public discourse and within the Internet industry.
+främja Mozilla-manifestets principer i öppna diskussioner och inom Internet-industrin.
+
+
+;Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through the Mozilla Foundation’s wholly owned subsidiary, the Mozilla Corporation.
+Vissa aktiviteter – för närvarande skapandet, levereringen och marknadsföringen av konsumentprodukter – sker primärt genom Mozilla Foundations helägda dotterbolag, Mozilla Corporation.
+
+
+;Invitation
+Inbjudan
+
+
 ;The Mozilla Foundation invites all others who support the principles of the Mozilla Manifesto to join with us, and to find new ways to make this vision of the Internet a reality.
 Mozilla Foundation bjuder in alla som stöder principerna i Mozilla-manifestet att gå med oss, och hitta nya sätt att göra denna vision av Internet verklighet.
-
-
-;make Mozilla contributors proud of what we're doing and motivate us to continue; and
-göra de som bidrar till Mozilla stolta över vad vi gör och motivera oss att fortsätta; samt
 
 

@@ -1,18 +1,42 @@
 ## active ##
+;The Mozilla Manifesto
+Il manifesto di Mozilla
+
+
 ;Introduction
 Introduzione
 
 
-;build and enable open-source technologies and communities that support the Manifesto’s principles;
-sviluppare e incoraggiare le tecnologie open source e le comunità che sostengono i principi del Manifesto;
+;The Internet is becoming an increasingly important part of our lives.
+Internet sta diventando una parte sempre più importante nella nostra vita.
 
 
-;Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through the Mozilla Foundation’s wholly owned subsidiary, the Mozilla Corporation.
-Alcune attività della Fondazione – attualmente lo sviluppo, la distribuzione e la promozione dei prodotti “consumer” – vengono gestite principalmente da Mozilla Corporation, società sussidiaria interamente controllata da Mozilla Foundation.
+;The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.
+Il Progetto Mozilla consiste in una comunità globale di persone convinte che la larghezza di vedute, l’innovazione e l’opportunità rappresentino la chiave che consente a Internet di mantenersi in uno stato di benessere costante. Lavoriamo insieme dal 1998 per garantire uno sviluppo di Internet da cui tutti possano trarre vantaggio. Il nostro nome è legato alla creazione del browser Mozilla Firefox.
 
 
-;Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.
-La valorizzazione degli aspetti di pubblica utilità di Internet rappresenta un obiettivo importante, che merita tempo, attenzione ed impegno.
+;The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.
+Il Progetto Mozilla adotta un approccio basato sul contributo delle comunità per la creazione di software open source di livello internazionale e per lo sviluppo di nuove tipologie di attività di collaborazione. Noi creiamo delle comunità di persone impegnate ad assicurare a tutti una migliore esperienza su Internet.
+
+
+;As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
+Il distillato di questi sforzi è una serie di principi che riteniamo siano cruciali affinché Internet continui a essere utile sia al benessere pubblico che agli aspetti commerciali della vita. Abbiamo formulato questi principi nel Manifesto Mozilla esposto più avanti.
+
+
+;The goals for the Manifesto are to:
+Gli obiettivi del Manifesto sono i seguenti:
+
+
+;articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;
+Esprimere e cercare di realizzare, da parte di Mozilla Foundation, una visione di Internet confacente al desiderio dei partecipanti alla comunità Mozilla.
+
+
+;speak to people whether or not they have a technical background;
+Essere in grado di comunicare con ogni persona, dotata o meno di preparazione tecnica.
+
+
+;make Mozilla contributors proud of what we're doing and motivate us to continue; and
+Rendere i collaboratori di Mozilla fieri del nostro operato motivandoci, così, a continuare su questa strada.
 
 
 ;provide a framework for other people to advance this vision of the Internet.
@@ -23,104 +47,78 @@ Fornire ad altre persone una base per portare avanti questa nostra visione di In
 Questi principi non nascono da soli. Sono necessarie persone per rendere Internet aperta e partecipativa, persone che agiscano individualmente, che lavorino insieme in gruppi, che guidino altre persone. Mozilla Foundation si impegna a promuovere i principi formulati nel Manifesto Mozilla. Vi invitiamo a unirvi a noi per rendere Internet un luogo ancora più piacevole per tutti.
 
 
-;The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
-L’efficacia di Internet come risorsa pubblica dipende dal suo carattere di interoperabilità (relativamente a protocolli, formati di dati, contenuto), dal suo grado di innovazione e dalla partecipazione decentralizzata a livello mondiale.
-
-
-;The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.
-Il Progetto Mozilla consiste in una comunità globale di persone convinte che la larghezza di vedute, l’innovazione e l’opportunità rappresentino la chiave che consente a Internet di mantenersi in uno stato di benessere costante. Lavoriamo insieme dal 1998 per garantire uno sviluppo di Internet da cui tutti possano trarre vantaggio. Il nostro nome è legato alla creazione del browser Mozilla Firefox.
-
-
-;Transparent community-based processes promote participation, accountability, and trust.
-La trasparenza delle procedure basate sulla comunità promuovono un senso di partecipazione, responsabilità e fiducia.
-
-
-;articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;
-Esprimere e cercare di realizzare, da parte di Mozilla Foundation, una visione di Internet confacente al desiderio dei partecipanti alla comunità Mozilla.
-
-
-;The Internet is becoming an increasingly important part of our lives.
-Internet sta diventando una parte sempre più importante nella nostra vita.
-
-
-;Individuals’ security on the Internet is fundamental and cannot be treated as optional.
-La sicurezza di ogni persona su Internet è una prerogativa fondamentale e non deve essere considerata facoltativa.
-
-
-;promote the Mozilla Manifesto principles in public discourse and within the Internet industry.
-promuovere i principi del Manifesto Mozilla nelle conferenze e all’interno dell’industria legata a Internet.
+;Principles
+Principi
 
 
 ;The Internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment and society as a whole.
 Internet è una parte integrante della vita moderna, una componente fondamentale nell’ambito dell’istruzione, della comunicazione, della collaborazione, degli affari e dell’intrattenimento dell’intera società.
 
 
-;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial goals and public benefit is critical.
-La partecipazione commerciale allo sviluppo di Internet è in grado di apportare numerosi benefici, ma è fondamentale un equilibrio tra obiettivi commerciali e benefici pubblici.
+;The Internet is a global public resource that must remain open and accessible.
+Internet è una risorsa pubblica globale che deve rimanere aperta e accessibile.
 
 
-;build and deliver great consumer products that support the Manifesto’s principles;
-sviluppare e distribuire ottimi prodotti “consumer” che sostengono i principi del Manifesto;
+# Old string, will be removed after bug 876814 is fixed
+;The Internet should enrich the lives of individual human beings.
+Internet dovrebbe arricchire la vita di ogni essere umano.
 
 
+# New string for bug 876814
+;The Internet must enrich the lives of individual human beings.
+The Internet must enrich the lives of individual human beings.
+
+
+# Old string, will be removed after bug 876814 is fixed
+;Individuals’ security on the Internet is fundamental and cannot be treated as optional.
+La sicurezza di ogni persona su Internet è una prerogativa fondamentale e non deve essere considerata facoltativa.
+
+
+# New string for bug 876814
+;Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional.
+Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional.
+
+
+# Old string, will be removed after bug 876814 is fixed
 ;Individuals must have the ability to shape their own experiences on the Internet.
 Ogni persona deve avere la possibilità di essere l’artefice della propria esperienza su Internet.
+
+
+# New string for bug 876814
+;Individuals must have the ability to shape the Internet and their own experiences on the Internet.
+Individuals must have the ability to shape the Internet and their own experiences on the Internet.
+
+
+;The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
+L’efficacia di Internet come risorsa pubblica dipende dal suo carattere di interoperabilità (relativamente a protocolli, formati di dati, contenuto), dal suo grado di innovazione e dalla partecipazione decentralizzata a livello mondiale.
 
 
 ;Free and open source software promotes the development of the Internet as a public resource.
 Il software libero e open source contribuisce a promuovere lo sviluppo di Internet come risorsa pubblica.
 
 
-;The goals for the Manifesto are to:
-Gli obiettivi del Manifesto sono i seguenti:
+# Old string, will be removed after bug 876814 is fixed
+;Transparent community-based processes promote participation, accountability, and trust.
+La trasparenza delle procedure basate sulla comunità promuovono un senso di partecipazione, responsabilità e fiducia.
 
 
-;Invitation
-Invito
+# New string for bug 876814
+;Transparent community-based processes promote participation, accountability and trust.
+Transparent community-based processes promote participation, accountability and trust.
 
 
-;promote models for creating economic value for the public benefit; and
-promuovere modelli per creare valore economico da cui tutti possano trarre vantaggio e
+# Old string, will be removed after bug 876814 is fixed
+;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial goals and public benefit is critical.
+La partecipazione commerciale allo sviluppo di Internet è in grado di apportare numerosi benefici, ma è fondamentale un equilibrio tra obiettivi commerciali e benefici pubblici.
 
 
-;Mozilla Foundation Pledge
-Impegno di Mozilla Foundation
+# New string for bug 876814
+;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
+Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
 
 
-;The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.
-Il Progetto Mozilla adotta un approccio basato sul contributo delle comunità per la creazione di software open source di livello internazionale e per lo sviluppo di nuove tipologie di attività di collaborazione. Noi creiamo delle comunità di persone impegnate ad assicurare a tutti una migliore esperienza su Internet.
-
-
-;The Internet is a global public resource that must remain open and accessible.
-Internet è una risorsa pubblica globale che deve rimanere aperta e accessibile.
-
-
-;The Internet should enrich the lives of individual human beings.
-Internet dovrebbe arricchire la vita di ogni essere umano.
-
-
-;The Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:
-Mozilla Foundation si impegna a fornire supporto al Manifesto Mozilla in tutte le sue attività. In particolare intendiamo:
-
-
-;use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;
-utilizzare le risorse di Mozilla (la proprietà intellettuale come i diritti d’autore del marchio, le infrastrutture, i fondi e la reputazione) per mantenere il carattere di piattaforma “aperta” di Internet;
-
-
-;As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
-Il distillato di questi sforzi è una serie di principi che riteniamo siano cruciali affinché Internet continui a essere utile sia al benessere pubblico che agli aspetti commerciali della vita. Abbiamo formulato questi principi nel Manifesto Mozilla esposto più avanti.
-
-
-;speak to people whether or not they have a technical background;
-Essere in grado di comunicare con ogni persona, dotata o meno di preparazione tecnica.
-
-
-;The Mozilla Manifesto
-Il manifesto di Mozilla
-
-
-;Principles
-Principi
+;Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.
+La valorizzazione degli aspetti di pubblica utilità di Internet rappresenta un obiettivo importante, che merita tempo, attenzione ed impegno.
 
 
 ;Advancing the Mozilla Manifesto
@@ -131,11 +129,43 @@ Promozione del Manifesto Mozilla
 Esistono diversi modi per promuovere i principi del Manifesto Mozilla. Accogliamo di buon grado un’ampia gamma di attività e ci attendiamo la stessa creatività che i partecipanti al progetto Mozilla hanno dimostrato in altre aree del progetto. Per chi non è direttamente coinvolto nel progetto Mozilla, un modo elementare e molto efficace per fornire supporto al Manifesto è utilizzare Mozilla Firefox e gli altri prodotti che rappresentano i principi del Manifesto.
 
 
+;Mozilla Foundation Pledge
+Impegno di Mozilla Foundation
+
+
+;The Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:
+Mozilla Foundation si impegna a fornire supporto al Manifesto Mozilla in tutte le sue attività. In particolare intendiamo:
+
+
+;build and enable open-source technologies and communities that support the Manifesto’s principles;
+sviluppare e incoraggiare le tecnologie open source e le comunità che sostengono i principi del Manifesto;
+
+
+;build and deliver great consumer products that support the Manifesto’s principles;
+sviluppare e distribuire ottimi prodotti “consumer” che sostengono i principi del Manifesto;
+
+
+;use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;
+utilizzare le risorse di Mozilla (la proprietà intellettuale come i diritti d’autore del marchio, le infrastrutture, i fondi e la reputazione) per mantenere il carattere di piattaforma “aperta” di Internet;
+
+
+;promote models for creating economic value for the public benefit; and
+promuovere modelli per creare valore economico da cui tutti possano trarre vantaggio e
+
+
+;promote the Mozilla Manifesto principles in public discourse and within the Internet industry.
+promuovere i principi del Manifesto Mozilla nelle conferenze e all’interno dell’industria legata a Internet.
+
+
+;Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through the Mozilla Foundation’s wholly owned subsidiary, the Mozilla Corporation.
+Alcune attività della Fondazione – attualmente lo sviluppo, la distribuzione e la promozione dei prodotti “consumer” – vengono gestite principalmente da Mozilla Corporation, società sussidiaria interamente controllata da Mozilla Foundation.
+
+
+;Invitation
+Invito
+
+
 ;The Mozilla Foundation invites all others who support the principles of the Mozilla Manifesto to join with us, and to find new ways to make this vision of the Internet a reality.
 Mozilla Foundation invita tutti coloro che sostengono i principi del Manifesto Mozilla a unirsi a noi per trovare insieme nuove possibilità di trasformare questa visione di Internet in realtà.
-
-
-;make Mozilla contributors proud of what we're doing and motivate us to continue; and
-Rendere i collaboratori di Mozilla fieri del nostro operato motivandoci, così, a continuare su questa strada.
 
 

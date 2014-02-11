@@ -21,6 +21,7 @@ Firefox
 ;Fast, flexible,<br />secure
 מהיר, גמיש, <br />מאובטח
 
+
 ;As a non-profit, we’re free to innovate on your behalf without any pressure to compromise. You’re going to love the difference.
 כגוף ללא כוונת רווח, אנו חופשיים לחדש במיוחד עבורך ללא הלחצים כדי להתפשר. אתם הולכים לאהוב את השוני.
 
@@ -52,6 +53,7 @@ Firefox
 ;Drag the Firefox icon from the Applications folder into the dock. Then, just click on Firefox whenever you want to use the web!
 נא לגרור את הצלמית של Firefox מתיקיית היישומים אל המעגן. לאחר מכן ניתן יהיה ללחוץ על הצלמית של Firefox בכל פעם שנרצה להשתמש ברשת!
 
+
 ;Now you’re ready to leap boldly into a new era of Web surfing. Double-click on the Firefox icon whenever you want to go online.
 כעת אנחנו מוכנים לזינוק אמיץ אל עידן חדש של גלישה ברשת. יש לבצע לחיצה כפולה על הצלמית של Firefox בכל פעם שנרצה להיות מקוונים ברשת.
 
@@ -66,11 +68,6 @@ Firefox
 
 ;3
 3 {ok}
-
-
-# <Meta description> tag
-;Mozilla Firefox, free web browser, is created by a global non-profit dedicated to putting individuals in control &amp; shaping the future of the web for the public good.
-Mozilla Firefox, דפדפן האינטרנט החופשי, נוצר על ידי גוף שלא למטרות רווח חובק עולם ששם לעצמו למטרה לאפשר לאנשים להיות בשליטה ולעצב את העתיד של רשת האינטרנט לטובת הכלל.
 
 
 # file <title> tag
@@ -143,5 +140,15 @@ Mozilla Firefox, דפדפן האינטרנט החופשי, נוצר על ידי 
 # Note: 'free' as in free of charge
 ;Free Web Browser
 דפדפן אינטרנט חינמי
+
+
+# Meta tag description (visible in the code)
+;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox today!
+Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox today!
+
+
+# Schema.org tag description (visible in the code)
+;Mozilla Firefox, free web browser, is created by a global non-profit dedicated to putting individuals in control &amp; shaping the future of the web for the public good.
+Mozilla Firefox, דפדפן האינטרנט החופשי, נוצר על ידי גוף שלא למטרות רווח חובק עולם ששם לעצמו למטרה לאפשר לאנשים להיות בשליטה ולעצב את העתיד של רשת האינטרנט לטובת הכלל.
 
 

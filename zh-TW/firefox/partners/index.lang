@@ -106,8 +106,8 @@ Firefox for Android {ok}
 在我們的第一年當中，我們將開放、無障礙、機會帶到 15 個國家與 4 間硬體夥伴、7 間電信業者與 16 場發表會。
 
 
-;See what’s next for mobile with <a %{url1}s>Firefox OS</a>, <a %{url2}s>Firefox Marketplace</a> and <a %{url3}s>Firefox for Android</a>.
-看看有著 <a %{url1}s>Firefox OS</a>、<a %{url2}s>Firefox Marketplace</a> 及 <a %{url3}s>Firefox for Android</a> 的電信市場接下來會有什麼事情發生。
+;See what’s next for mobile with <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
+看看有著 <a %(url1)s>Firefox OS</a>、<a %(url2)s>Firefox Marketplace</a> 及 <a %(url3)s>Firefox for Android</a> 的電信市場接下來會有什麼事情發生。
 
 
 ;See more partners
@@ -417,12 +417,17 @@ Mozilla 與夥伴準備發行全球首支 Firefox OS 智慧型手機
 
 
 # Line break below is presentational only
-;View available <br>Firefox OS devices
-檢視可用的 <br>Firefox OS 裝置
+;View available Firefox OS devices
+檢視可用的 Firefox OS 裝置
+
+
+# Line break below is presentational only
+;Watch the daily <br>MWC video recap
+Watch the daily <br>MWC video recap
 
 
 # Line break below is presentational only, Fox Den should remain in English, it is a location at the event on the Mozilla stand
-;Fox Den &amp; other <br>MWC events'
+;Fox Den &amp; other <br>MWC events
 Fox Den 與其他 <br>MWC 活動
 
 

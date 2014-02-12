@@ -106,8 +106,8 @@ Umożliwiamy operatorom, producentom telefonów oraz programistom modyfikować i
 In our first year, we’ve brought openness, accessibility and opportunity to 15 countries with 4 hardware partners, 7 operators and 16 launches.
 
 
-;See what’s next for mobile with <a %{url1}s>Firefox OS</a>, <a %{url2}s>Firefox Marketplace</a> and <a %{url3}s>Firefox for Android</a>.
-See what’s next for mobile with <a %{url1}s>Firefox OS</a>, <a %{url2}s>Firefox Marketplace</a> and <a %{url3}s>Firefox for Android</a>.
+;See what’s next for mobile with <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
+See what’s next for mobile with <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
 
 
 ;See more partners
@@ -417,12 +417,17 @@ Mozilla wraz z partnerami przygotowuje się do wprowadzenia na rynek pierwszych 
 
 
 # Line break below is presentational only
-;View available <br>Firefox OS devices
-View available <br>Firefox OS devices
+;View available Firefox OS devices
+View available Firefox OS devices
+
+
+# Line break below is presentational only
+;Watch the daily <br>MWC video recap
+Watch the daily <br>MWC video recap
 
 
 # Line break below is presentational only, Fox Den should remain in English, it is a location at the event on the Mozilla stand
-;Fox Den &amp; other <br>MWC events'
+;Fox Den &amp; other <br>MWC events
 Fox Den &amp; other <br>MWC events'
 
 

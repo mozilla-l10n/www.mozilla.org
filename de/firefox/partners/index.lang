@@ -106,8 +106,8 @@ Wir geben mit unseren Mobiltelefon-Produkten Mobilfunkbetreibern, Telefonherstel
 In unserem ersten Jahr haben wir 15 Ländern mit 4 Hardware-Partnern, 7 Mobilfunkanbietern und 16 Verkaufsstarts Offenheit, Zugänglichkeit und Chancen gebracht.
 
 
-;See what’s next for mobile with <a %{url1}s>Firefox OS</a>, <a %{url2}s>Firefox Marketplace</a> and <a %{url3}s>Firefox for Android</a>.
-Sehen Sie sich an, was Sie für Mobilgeräte dank <a %{url1}s>Firefox OS</a>, <a %{url2}s>Firefox Marketplace</a> und <a %{url3}s>Firefox für Android</a> erwarten können.
+;See what’s next for mobile with <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
+Sehen Sie sich an, was Sie für Mobilgeräte dank <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> und <a %(url3)s>Firefox für Android</a> erwarten können.
 
 
 ;See more partners
@@ -417,12 +417,17 @@ Mozilla und Partner machen sich bereit für den ersten Firefox OS Launch
 
 
 # Line break below is presentational only
-;View available <br>Firefox OS devices
-Sehen Sie sich die verfügbaren <br>Firefox-OS-Geräte an
+;View available Firefox OS devices
+Sehen Sie sich die verfügbaren Firefox-OS-Geräte an
+
+
+# Line break below is presentational only
+;Watch the daily <br>MWC video recap
+Watch the daily <br>MWC video recap
 
 
 # Line break below is presentational only, Fox Den should remain in English, it is a location at the event on the Mozilla stand
-;Fox Den &amp; other <br>MWC events'
+;Fox Den &amp; other <br>MWC events
 Fox Den &amp; weitere <br>MWC-Veranstaltungen
 
 

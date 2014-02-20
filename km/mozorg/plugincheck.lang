@@ -14,7 +14,7 @@
 
 # This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
 ;Research
-ស្វែងរក​ម្ដង​ទៀត
+ស្រាវជ្រាវ
 
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
@@ -24,7 +24,7 @@
 
 # This is a button informing the user that their plugin is up to date
 ;Up to Date
-ទាន់​សម័យ
+ធ្វើឲ្យ​ទាន់សម័យ
 
 
 # L10n: This is alt text used on plugin icon images
@@ -39,12 +39,12 @@
 
 # This is the string used to indicate that the plugin is vulnerable
 ;vulnerable
-អាច​បង្ករ​គ្រោះថ្នាក់
+ដែល​មិន​ល្អ
 
 
 # Main title
 ;Check Your Plugins
-ពិនិត្យ​មើលកម្មវិធី​ជំនួយ​របស់​អ្នក
+ពិនិត្យមើល​កម្មវិធី​ជំនួយ​របស់​អ្នក
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
@@ -56,19 +56,19 @@
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
-ការ​គាំទ្រ​ការ​ពិនិត្យ​កម្មវិធី​ជំនួយ​សម្រាប់ <strong>Internet Explorer នៅ​មាន​កម្រិត</strong> ។ សូម​ប្រើ​ផង​ដែរ ឧបករណ៍ &gt; គ្រប់គ្រង​កម្មវិធី​បន្ថែម
+ការ​ពិនិត្យមើល​កម្មវិធី​ជំនួយ <strong>គាំទ្រ​សម្រាប់​កម្មវិធី​រុករក​អ៊ីនធឺណិត​ត្រូវ​បាន​កំណត់</strong>។ ប្រើ​ឧបករណ៍ &gt; គ្រប់គ្រង​កម្មវិធី​បន្ថែម
 
 
 ;Step 1: Click Update to update a plugin.
-ជំហាន​ទី ១ ៖ ចុច ធ្វើ​បច្ចុប្បន្ន​ភាព ដើម្បី​ធ្វើ​បច្ចុប្បន្ន​ភាព​កម្មវិធី​ជំនួយ ។
+ជំហាន 1 ៖ ចុច​ធ្វើ​បច្ចុប្បន្នភាព ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​ជំនួយ។
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
-ជំហាន​ទី ២ ៖ បញ្ចប់​រាល់​បច្ចុប្បន្ន​ភាព​ដែល​បាន​ផ្ដល់​អនុសាសន៍​ទាំងអស់ មុន​ពេល ចាប់ផ្ដើម​កម្មវិធី​រុករក​របស់​អ្នក​ឡើង​វិញ ។
+ជំហាន 2 ៖ បញ្ចប់​ការ​ធ្វើ​បច្ចុប្បន្នភាព​ដែល​បាន​​ផ្ដល់​អនុសាសន៍​ទាំងអស់​មុន​ពេល​ចាប់ផ្ដើម​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក។
 
 
 ;Potentially vulnerable plugins
-អាច​ជា​កម្មវិធី​ជំនួយ​អាច​បង្ករ​គ្រោះថ្នាក់ ៖
+កម្មវិធី​ជំនួយ​ដែល​មិន​ល្អ​
 
 
 ;Plugin
@@ -76,7 +76,7 @@
 
 
 ;Status
-សភាព
+ស្ថានភាព
 
 
 ;Action
@@ -100,7 +100,7 @@
 
 
 ;Frequently Asked Questions
-សំណួរដែល​សួរ​ញឺកញាប់
+សំណួរ​ដែល​សួរ​ញឹកញាប់
 
 
 ;What is a plugin?
@@ -108,31 +108,31 @@
 
 
 ;Plugins power videos, animation and games
-កម្មវិធី​ផ្ដល់​ថាមពល​ចំពោះ វីដេអូ ជីវចល និង​ល្បែង ។
+កម្មវិធី​ជំនួយ​​បង្កើន​សមត្ថភាព​វីដេអូ ជីវចល និង​ហ្គេម
 
 
 ;They're built outside of Firefox by companies like Adobe Systems and Apple
-ពួក​វា​ត្រូវ​បាន​ស្ថាបនា​ឡើង ដោយ​ក្រុមហ៊ុន​ផ្សេង​មិនមែន​ជា​របស់ Firefox ដូចជា Adobe Systems និង Apple.
+ពួកគេ​បាន​បង្កើត​នៅ​ខាងក្រៅ Firefox ដោយ​ក្រុមហ៊ុន​ដូច​ជា​ប្រព័ន្ធ Adobe និង Apple
 
 
 ;Plugins don't always update automatically.
-កម្មវិធី​ជំនួយ មិន​ធ្វើ​បច្ចុប្បន្ន​ភាព ដោយ​ស្វ័យ​ប្រវត្តិ​ជានិច្ច​នោះ​ទេ ។
+កម្មវិធី​​ជំនួយ​មិន​​ធ្វើ​បច្ចុប្បន្ន​ដោយ​ស្វ័យប្រវត្តិ​ជានិច្ច។
 
 
 ;Why should I update my plugins?
-ហេតុ​អ្វី​បាន​ខ្ញុំ​គួរ​ធ្វើ​បច្ចុប្បន្ន​ភាព​កម្មវិធី​ជំនួយ​របស់​ខ្ញុំ?
+ហេតុអ្វី​ខ្ញុំ​ត្រូវ​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​ជំនួយ​របស់​ខ្ញុំ?
 
 
 ;Old plugins can interrupt browsing and waste your time.
-កម្មវិធី​ជំនួយ​ចាស់​អាច​បង្អាក់​ការ​រុករក​របស់​អ្នក និង​ធ្វើ​ឲ្យ​ខាត​ពេល​វេលា​របស់​អ្នក ។
+កម្មវិធី​ជំនួយ​ចាស់​អាច​បង្អាក់​ការ​រុករក​ និង​​ធ្វើ​ឲ្យ​អ្នក​ខាត​ពេលវេលា​។
 
 
 ;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
-កម្មវិធី​ជំនួយ​ចាស់​<strong>បង្កើន​ភាព​គ្រោះថ្នាក់​របស់​អ្នក</strong> ដោយ​ការ​វាយ​ប្រហារ​ពី malware វីរុស និង​ការ​គំរាម​កំហែង​សុវត្ថិភាព​ផ្សេង​ទៀត ។
+កម្មវិធី​ជំនួយ​ចាស់ <strong>បង្កើន​​​ហានិភ័យ​​របស់​អ្នក</strong> ដែល​វាយ​ប្រហារ​ដោយ​កម្មវិធី​រំខាន ​​​មេរោគ និង​​​កម្មវិធី​គំរាម​ផ្នែក​សុវត្ថិភាព​ផ្សេងៗ។
 
 
 ;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
-<strong>កម្មវិធី​ជំនួយ​ដែល​ទាន់​សម័យមាន​ភាព​ល្អ​ប្រសើរ</strong> ដែល​ធ្វើ​ឲ្យ​តំបន់​បណ្ដាញ<strong>​កាន់​តែ​ប្រសើរ និង​មាន​សុវត្ថិភាព​ជាង</strong>​សម្រាប់​អ្នក ។
+<strong>កម្មវិធី​ជំនួយ​ដែល​បាន​ធ្វើ​បច្ចុប្បន្នភាព​បាន​​ធ្វើ​ឲ្យ​ល្អ​ប្រសើរ</strong> ដែល​បង្កើត​បណ្ដាញ <strong>ល្អ​ប្រសើរ ហើយ​សុវត្ថិភាព</strong> សម្រាប់​អ្នក។
 
 
 # alt image
@@ -141,31 +141,31 @@
 
 
 ;How can Firefox help me?
-តើ Firefox អាច​ជួយ​ខ្ញុំ​ដោយ​របៀប​ណា?
+តើ​ Firefox អាច​ជួយ​ខ្ញុំ​របៀប​ណា?
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
-នា​ពេល​អនាគត Firefox នឹង​ធ្វើ​បច្ចុប្បន្ន​ភាព​កម្មវិធីជំនួយ​សម្រាប់​អ្នក ។ ដល់​ពេល​នោះ អ្នក​គួរ​តែ ពិនិត្យ​មើល​ទំព័រ​នេះ​ជា​ទៀងទាត់ និង​ធ្វើ​បច្ចុប្បន្ន​ភាព​កម្មវិធី​ជំនួយ​របស់​អ្នក​ដើម្បី​ឲ្យ​វា​នៅ​តែ​មាន​សុវត្ថិភាព ។
+នៅ​ពេល​អនាគត, Firefox នឹង​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​ជំនួយ​សម្រាប់​អ្នក។ រហូត​ដល់​នៅ​ពេល​នោះ, អ្នក​គួរតែ​ពិនិត្យមើល​ទំព័រ​នេះ​ដោយ​ជាក់លាក់ ហើយ​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​ជំនួយ​​ដើម្បី​រក្សា​សុវត្ថិភាព។
 
 
 ;Which Plugins do I have?
-តើ​កម្មវិធី​ជំនួយ​ណា​ខ្លះ​ដែល​ខ្ញុំ​មាន?
+តើ​កម្មវិធី​ជំនួយ​ណាមួយ​ដែល​ខ្ញុំ​មាន?
 
 
 ;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
-យើង​បាន​រក​ឃើញ​កម្មវិធី​ជំនួយ​របស់​អ្នក​ដោយ​ស្វ័យ​ប្រវត្តិ​ដូច​ខាង​លើ ដើម្បី​មើល​កម្មវិធី​ជំនួយ​របស់​អ្នក​ដែល​បាន​ដំឡើង​ក្នុង Firefox សូម​ធ្វើ​តាម​ជំហាន​ទាំងនេះ ៖
+យើង​បាន​រក​ឃើញ​កម្មវិធី​ជំនួយ​របស់​អ្នក​នៅ​ខាងលើ​ដោយ​ស្វ័យប្រវត្តិ, ដើម្បី​មើល​កម្មវិធី​ជំនួយ​ដែល​បាន​ដំឡើង​នៅ​ក្នុង Firefox អនុវត្ត​ជំហាន​ទាំងនេះ៖
 
 
 ;Open the Tools menu.
-បើក​ម៉ឺនុយ ឧបករណ៍ ។
+បើក​ម៉ឺនុយ​ឧបករណ៍។
 
 
 ;Choose Add-ons.
-ជ្រើស កម្មវិធី​បន្ថែម ។
+ជ្រើស​​កម្មវិធី​ជំនួយ។
 
 
 ;Click the plugins tab.
-ចុច​ថេប កម្មវិធី​ជំនួយ ។
+ចុច​ផ្ទាំង​កម្មវិធី​ជំនួយ។
 
 
 ;Want to spread the word?
@@ -177,23 +177,23 @@
 
 
 ;How do I disable a plugin?
-តើ​ខ្ញុំ​បិទ​កម្មវិធី​ជំនួយ​របៀប​ណា?
+តើ​ខ្ញុំ​បិទ​កម្មវិធី​ជំនួយ​ដោយ​របៀប​ណា?
 
 
 ;In Firefox:
-ក្នុង Firefox ៖
+ក្នុង Firefox ៖
 
 
 ;Click on a plugin in the list.
-ចុច​លើ​កម្មវិធី​ជំនួយ​នៅ​ក្នុង​បញ្ជី ។
+ចុច​នៅ​លើ​កម្មវិធី​ជំនួយ​ក្នុង​បញ្ជី។
 
 
 ;Click the Disable button.
-ចុច​ប៊ូតុង បិទ ។
+ចុច​​ប៊ូតុង​បិទ។
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
-ប្រយ័ត្ន ៖ ការ​បិទ​កម្មវិធី​ជំនួយ​របស់​អ្នក​មាន​ន័យ​អ្នក​នឹង​មិន​អាច​អាច​ធ្វើ​អ្វី​មួយ​បាន​ដូច​មុន​ឡើយ ។ ឧទាហរ៍ បើ​អ្នក​បិទ Flash អ្នក​នឹង​មិន​អាច​មើល​វីដេអូ​នៅ​លើ​តំបន់​បណ្ដាញ​ដែល​មាន​វីដេអូ​ពេញ​និយម​មួយ​ចំនួន ។
+ការ​ព្រមាន៖ ការ​បិទ​កម្មវិធី​ជំនួយ​មានន័យ​ថា​អ្នក​នឹង​មិន​អាច​ធ្វើ​អ្វី​បាន​ទៀត​ឡើយ។ ឧទាហរណ៍, ប្រសិនបើ​អ្នក​បិទ Flash, អ្នក​នឹង​មិន​អាច​មើល​វីដេអូ​លើ YouTube ។
 
 
 ;Mozilla Support
@@ -201,7 +201,7 @@
 
 
 ;Have more questions?
-មាន​សំណួរ​ផ្សេង​ទៀត?
+មាន​សំណួរ​ច្រើន?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!

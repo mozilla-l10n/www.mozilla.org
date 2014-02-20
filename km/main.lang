@@ -68,7 +68,7 @@
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%d-%m-%Y
+%Y-%m-%d {ok}
 
 
 ;Legal Notices
@@ -249,7 +249,7 @@ Firefox សម្រាប់​ទូរស័ព្ទចល័ត
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-ផ្នែក​របស់​មាតិកា​នេះ ©1998–%(current_year)s អ្នក​រួម​ចំណែក mozilla.org ។ មាតិកា​មាន​នៅ​ក្រោម <a href="%(url)s">អាជ្ញាប័ណ្ណ​ទូទៅ​ដែល​មាន​គំនិត​ច្នៃ​ប្រឌិត</a> ។
+ផ្នែក​នៃ​មាតិកា​នេះ​​​នៅ​អំឡុង ©1998–%(current_year)s បង្កើត​ដោយ​​អ្នក​ចូលរួម​ចំណែក mozilla.org ។ មាតិកា​អាច​​ប្រើ​បាន​ក្រោម <a href="%(url)s">អាជ្ញាប័ណ្ណ Creative Commons</a>។
 
 
 # Footer string
@@ -264,7 +264,7 @@ Firefox សម្រាប់​ទូរស័ព្ទចល័ត
 
 # Footer item on some pages to link to a tour of features
 ;Tour
-ការ​ដើរ​កម្សាន្ត
+ទស្សនា
 
 
 # Footer item
@@ -274,7 +274,7 @@ Firefox សម្រាប់​ទូរស័ព្ទចល័ត
 
 # Top menu item on firefox/update page
 ;Performance
-ការ​អនុវត្ត
+ដំណើរការ
 
 
 # Top menu item on firefox/update page
@@ -284,7 +284,7 @@ Firefox សម្រាប់​ទូរស័ព្ទចល័ត
 
 # Top menu item on firefox/update page
 ;Privacy &amp; Security
-បើ &amp; សុវត្ថិភាព
+ភាព​ឯកជន &amp; សុវត្ថិភាព
 
 
 # Top menu item on firefox/update page
@@ -299,7 +299,7 @@ Firefox សម្រាប់​ទូរស័ព្ទចល័ត
 
 # Top menu item on firefox/update page
 ;Firefox
-Firefox
+Firefox {ok}
 
 
 # Top menu item on firefox/update page
@@ -334,7 +334,7 @@ Firefox សម្រាប់​អង្គការ
 
 # Top menu item on firefox/update page
 ;Blog
-កំណត់ហេតុ​បណ្ដាញ
+ប្លុក
 
 
 # Top menu item on firefox/update page
@@ -349,22 +349,22 @@ Firefox សម្រាប់​អង្គការ
 
 # Top menu item on firefox/update page
 ;Participate
-អ្នក​ចូលរួម
+ចូលរួម
 
 
 # Top menu item on firefox/update page
 ;Brand Toolkit
-Brand Toolkit
+Brand Toolkit {ok}
 
 
 # Top menu item on firefox/update page
 ;Partnerships
-ភាព​ជា​ដៃ​គូ
+ភាព​ជា​ដៃគូ
 
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-ទទួល​យក​ការ​ធ្វើ​បច្ចុប្បន្នភាព Mozilla
+ទទួល​បច្ចុប្បន្នភាព​ពី Mozilla
 
 
 # share button for social networks

@@ -2,6 +2,7 @@
 ;Get Involved: Volunteer Opportunities at Mozilla
 ساهم معنا: اكتشف فرص التّطوع لدى موزيلا
 
+
 ;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
 هذه الفيديو تتطلب مُتصفّحا يدعم معايير الفيديو المفتوحة أو <a href="http://www.adobe.com/go/getflashplayer">مُشغل أدوبي فلاش</a>.
 
@@ -90,7 +91,6 @@
 هل أنت مُهتم بمساعدة غيرك ليستخدموا  فَيَرفُكس بشكل أفضل؟ برنامج مُساعدة المُستخدمين لدينا يعتمد بشكل أساسي على المُستخدمين المُتحمسين أمثالك.
 
 
-
 ;Quality Assurance
 ضمان الجودة
 
@@ -162,6 +162,7 @@
 ;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
 ساهم مع موزيلا عبر توفير  فَيَرفُكس، ثندربرد وباقي المشاريع  <a href="%(l10n_url)s">بلغتك</a>. يُمكنك أيضا المُساهمة في التعريف بجهودنا لبناء إنترنت أفضل للجميع عبر  المٌساهمة في <a href="%(l10n_web_url)s">ترجمة مُحتوى</a> مواقعنا.
 
+
 ;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
 شبكة مُطوري موزيلا هو مركز المعلومات حول تقنيات موزيلا. ساعد في <a href="%(dev_url)s">تحسين جودة التوثيق</a> عبر كتابة مُحتويات جديدة، تدقيق المُحتويات الحالية أو ترجمتها إلى لغات أخرى.
 
@@ -214,10 +215,6 @@
 التصميم البصري
 
 
-;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
-لا مانع لدي من تعاملكم مع هذه البيانات وفقا لما تنص عليه <a href="%s">سياسة الخصوصية</a>
-
-
 ;Twitter
 تويتر
 
@@ -251,11 +248,12 @@
 
 
 ;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
-نرغب في أن يقوم الفنانون بإكساء الويب والناس بتصاميم مُستوحاة من موزيلا. ألق نظرة على <a href="%(creative_url)s">مُدونة فريق الإبداع</a> لمعرفة المزيد حول الأمر. 
+نرغب في أن يقوم الفنانون بإكساء الويب والناس بتصاميم مُستوحاة من موزيلا. ألق نظرة على <a href="%(creative_url)s">مُدونة فريق الإبداع</a> لمعرفة المزيد حول الأمر.
 
 
 ;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
 تملك مُنتجات موزيلا نظام إضافات ومُلحقات تسمح لك بإدخال تحسينات طفيفة أو تعديلات عميقة عليها. تعرف أكثر حول كيفية <a href="%(addons_url)s">بناء هذه الإضافات</a>. بإمكان المُطورين المُحترفين أن يُصبحوا <a href="%(addons_wiki)s">مُحرري AMO</a>.
+
 
 ;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
 ساهم في بناء جيل من مُطوري الويب عبر تدريس مبادئ عمله. <a href="%(moz_webmaker)s "تعرف على ماهية مشروع ويبميكر</a> أو اشرع في تعليم الآخرين  <a href="%(webmaker)s">من خلال تنظيم لقاءات محلية في مدينتك</a>.
@@ -267,3 +265,10 @@
 
 ;Localization and Translation
 التوطين والترجمة
+
+
+# Subject of email sent to end-users
+;Welcome to Mozilla!
+Welcome to Mozilla!
+
+

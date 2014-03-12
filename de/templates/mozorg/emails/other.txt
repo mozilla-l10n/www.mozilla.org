@@ -1,13 +1,138 @@
-Vielen Dank für Ihr Interesse an der Mitarbeit bei Mozilla..
+Guten Tag,
 
-Eine tolle Möglichkeit für den Anfang ist es, die Botschaft von Firefox zu verbreiten. Schnappen Sie sich einen Anstecker und zeigen Sie ihn auf Ihrer Website, Ihrem Blog, Facebook oder sonstwo.
+vielen Dank für die Unterstützung.
 
-https://affiliates.mozilla.org/
+Abhängig von Ihren Interessen gibt es verschiedene Möglichkeiten, bei Mozilla-Projekten mitzumachen.
+Einen Überblick über die Aktivitäten der deutschsprachigen Mozilla-Gemeinschaft bietet http://mozilla.de/mitmachen/
 
-Wenn Sie etwas über andere Möglichkeiten erfahren möchten, wie Sie helfen können, schauen Sie nach auf
+Anwenderunterstützung:
+Direkt auf Probleme antworten können Sie in den Support-Foren, wobei durch Mitlesen nach einiger Zeit in einem Großteil der Fälle schon gut abgeschätzt werden kann, woran das Problem liegt.
+- Allgemeine Seite, wie Sie bei den Support-Foren mitmachen können: https://support.mozilla.org/de/get-involved
+- Auflistung der Hilfeseiten und Hilfe-Chats für Firefox- und Thunderbird-Nutzer: https://support.mozilla.org/de/kb/hilfe-durch-unsere-gemeinschaft-erhalten
 
-http://www.mozilla.org/contribute/areas.html
+Test & Qualitätssicherung:
+Die Qualitätssicherung ist nach Produkten aufgeteilt:
+- Firefox-Desktop-Version: https://wiki.mozilla.org/QA/Desktop_Firefox/GetInvolved
+- Firefox für Android: https://wiki.mozilla.org/QA/Fennec/NativeUI#Get_involved.21
+- Firefox OS: https://wiki.mozilla.org/B2G/QA
+- Thunderbird: https://wiki.mozilla.org/Thunderbird:Testing
+- Web-Qualitätssicherung: https://quality.mozilla.org/teams/web-qa/
+Zusätzlich benötigen einige gemeldete Probleme mit den Mozilla-Produkten Bestätigung durch weitere Personen, wobei man in der Regel testet, ob das Problem auch bei einem selbst auftritt. Mehr dazu unter https://wiki.mozilla.org/QA/Triage
 
-Wenn es einen Tätigkeitsbereich gibt, an dem Sie Interesse haben, schreiben Sie mir bitte einfach zurück und ich helfe Ihnen gern dabei, an einem Projekt anzufangen.
+Unter https://quality.mozilla.org/category/events/upcoming werden die anstehenden Termin aufgelistet, an denen erfahrene Mitglieder der Mozilla-Gemeinschaft (Angestellte und Freiwillige) gemeinsam mit anderen Interessierten neue Funktionen testen und ihnen gegebenenfalls dabei helfen.
 
-David
+Es ist aber nicht nötig, solche Veranstaltungen abzuwarten. Was Sie zum Beispiel sofort tun können, ist, einfach neue Funktionen zu testen. Einen Überblick über diese erhält man unter https://wiki.mozilla.org/index.php?title=Features/Release_Tracking
+
+Deutlich mehr Tests warten unter https://moztrap.mozilla.org/results/runs/ auf ihre Durchführung.
+
+Die häufig dafür verwendeten Entwicklerversionen (Beta, Aurora, Nightly) finden Sie hier:
+- Firefox: http://www.mozilla.org/de/firefox/channel
+- Thunderbird: http://www.mozilla.org/en-US/thunderbird/channel/
+- Firefox für Android und tägliche Entwicklerversionen von Firefox: http://nightly.mozilla.org/
+
+Übersetzung:
+Bei der Übersetzung kommen unterschiedliche Programme und Websites zur Lokalisierung zum Einsatz:
+- Die Hilfeseite https://support.mozilla.org wird direkt im Textfeld übersetzt. Weitere Informationen: https://support.mozilla.org/de/get-involved/l10n
+- Websites werden hauptsächlich über https://localize.mozilla.org/ übersetzt.
+- Ähnliches gilt für die Entwicklerdokumentation https://developer.mozilla.org/ , weitere Informationen dazu unter https://developer.mozilla.org/en-US/docs/MDN/Contribute/Localize/Translating_pages
+- Add-ons werden auf http://www.babelzilla.org/ übersetzt.
+- Anwendungen wie Firefox, Thunderbird, SeaMonkey, Firefox für Android, Firefox OS und Lightning werden wie folgt übersetzt: https://developer.mozilla.org/en-US/docs/Mozilla/Localization/Application_Translation_with_Mercurial Hilfe zur Lokalisierung finden Sie im IRC-Chat unter http://www.mibbit.com/?server=irc.mozilla.org&channel=%23l10n (#l10n auf irc.mozilla.org)
+
+Eine ausführliche Beschreibung des Lokalisierungsprozesses finden Sie unter https://wiki.mozilla.org/L10n:Localization_Process
+
+Programmierung:
+Die meisten Projekte haben gute Einführungen hinsichtlich des Programmierens. Es ist nicht nötig, alle in einem Projekt verwendeten Programmiersprachen zu beherrschen, um bestimmte Probleme zu beheben bzw. Änderungen vorzunehmen.
+
+Firefox (bitte lesen, trifft größtenteils auch auf andere Anwendungen zu):
+- Programmiersprachen: C++, HTML, XUL ähnlich HTML, JavaScript, XPCOM ähnlich JavaScript
+- Dokumentation: https://developer.mozilla.org/en/Introduction
+- Entwicklerchat: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23introduction (#introduction auf irc.mozilla.org)
+
+Firefox für Android:
+- Programmiersprachen: Java, C++, HTML, JavaScript, XPCOM ähnlich JavaScript
+- Dokumentation: https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_for_Android
+- Entwicklerchat: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23mobile (#mobile auf irc.mozilla.org)
+
+Thunderbird:
+- Programmiersprachen: C++, HTML, XUL ähnlich HTML, JavaScript, XPCOM ähnlich JavaScript
+- Dokumentation: https://developer.mozilla.org/en-US/docs/Simple_Thunderbird_build
+- Entwicklerchat: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23maildev (#maildev auf irc.mozilla.org)
+
+Firefox OS, das Betriebssystem für Mobilgeräte:
+- Programmiersprachen: C++, HTML, JavaScript
+- Dokumentation: https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS
+- Entwicklerchat: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23b2g (#b2g auf irc.mozilla.org)
+
+Webseiten:
+- Programmiersprachen: HTML, JavaScript, Python, etwas PHP, Datenbanken (MySQL, PostgreSQL, ...)
+- Dokumentation: https://wiki.mozilla.org/Webdev/GetInvolved
+- Entwicklerchat: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23webdev (#webdev auf irc.mozilla.org)
+
+Einen Überblick über viele der Projekte Mozillas bieten folgende Seiten:
+- http://hg.mozilla.org/ — hauptsächlich Desktop-Anwendungen für Endbenutzer
+- https://github.com/mozilla — viele neuere Projekte und Entwicklungen mit Bezug zu Websites
+- https://github.com/mozilla-b2g — Projekte rund um Firefox OS
+
+Sollten Sie keine Antwort im Chat erhalten oder die Frage umfangreicher sein, so stellen Sie diese bitte unter http://ask.mozilla.org/questions/
+
+Manchmal bietet es sich auch an, eine zusätzliche Funktion für eine Anwendung als Add-on zu entwickeln.
+
+Weitreichende Dokumentation zur Add-ons-Entwicklung finden Sie im Mozilla Developer Network (MDN) unter https://developer.mozilla.org/en-US/docs/Extensions
+
+Sehen Sie sich auch im Add-on-Entwicklerzentrum um. Dort gibt es Dokumentation, Werkzeuge und Informationen dazu, wie Sie mit anderen Entwicklern in Kontakt treten können:
+https://addons.mozilla.org/developers/
+
+SDK: Eine Möglichkeit, Add-ons zu erstellen, welche zur Installation keinen Neustart der Anwendung benötigen:
+https://addons.mozilla.org/de/developers/builder
+
+XUL School: Eine vollständige Anleitung für fortgeschrittenere Entwickler:
+https://developer.mozilla.org/de/docs/XUL/School_tutorial
+
+Codevorlagen für bestimmte Aufgaben finden Sie unter https://developer.mozilla.org/en-US/Add-ons/Code_snippets
+
+Sie können im Add-ons-Forum Fragen stellen und mit anderen Add-on-Entwicklern in Verbindung treten:
+https://forums.mozilla.org/addons/
+
+Wenn Sie noch weitere Fragen haben:
+- Melden Sie sich einfach in unserem Forum: https://forums.mozilla.org/addons/
+- Bei Fragen zur Entwicklung mit dem Add-ons SDK (Jetpack): Besuchen Sie den Chat: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23jetpack (#jetpack auf irc.mozilla.org)
+- Bei Fragen zur Entwicklung mit traditioneller Add-ons mit XUL: Besuchen Sie den Chat: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23extdev (#extdev auf irc.mozilla.org)
+- Bei Fragen zur Überprüfung Ihres auf addons.mozilla.org eingereichten Add-ons: Besuchen Sie den Chat: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23amo-editors (#amo-editors auf irc.mozilla.org)
+
+Um ein gutes Problem für den Einstieg zu finden, empfiehlt es sich passend zu den eigenen Fähigkeiten nach Vorschlägen auf http://www.joshmatthews.net/bugsahoy/ zu suchen. Alle Probleme und Verbesserungsvorschläge finden sich unter https://bugzilla.mozilla.org/.
+
+Design:
+Grafik-Design wird von unserem Creative-Team bearbeitet und derzeit arbeiten wir an Projekten, die von Logos über Marketing-Kampagnen und Websites zu … naja, so ziemlich allem reichen, was hier mit Grafik zu tun hat. Wenn Sie da gern dabei wären, können Sie als Nächstes Folgendes tun:
+
+- Folgen Sie uns auf Twitter: http://www.twitter.com/mozcreative — Das ist derzeit die Hauptkontaktstelle für Mitarbeiter am Grafikdesign bei Mozilla. Neben den regelmäßigen Nachrichten zum Creative-Team, Links zu unseren Blog-Beiträgen und verschiedenen interessanten Dingen aus dem Internet veröffentlichen wir dort auch Projekte und Design-Wettbewerbe, an denen Sie teilnehmen können, also folgen Sie uns dort bitte.
+
+- Lesen Sie unser Blog: https://blog.mozilla.org/creative/ — Erfahren Sie mehr über die neuesten Projekte, an denen wir arbeiten.
+
+Dokumentation & Schreiben:
+Schreiben Sie Artikel in der Wissensdatenbank:
+http://support.mozilla.org/de/kb/wissensdatenbank-verbessern
+
+Helfen Sie bei der Dokumentation im Mozilla Developer Network:
+https://developer.mozilla.org/de/docs/Project:How_to_Help
+
+Schreiben Sie bei Wikipedia Artikel zu Mozilla-Themen:
+https://de.wikipedia.org/wiki/Kategorie:Mozilla
+
+Bei Fragen wenden Sie sich bitte an uns oder den Dokumentationschat unter http://www.mibbit.com/?server=irc.mozilla.org&channel=%23mdn (#mdn auf irc.mozilla.org)
+
+Bildung:
+Hier geht es vor allem darum, Benutzern des Internets beizubringen, wie sie auch selbst Inhalte und später interaktive Webinhalte erstellen können. Mehr dazu unter https://webmaker.org/
+
+Marketing:
+Die Organisation des Marketings bei Mozilla lässt sich größtenteils in zwei Gruppen einteilen:
+- Organisation des Marketings durch Vollzeitkräfte: https://wiki.mozilla.org/Marketing
+- Die Community wird über https://reps.mozilla.org/ in das Marketing einbezogen, wobei für Teilnahme an Veranstaltungen, wo z. B. Firefox OS vorgestellt wird oder sich die Ansprechpartner für Mozilla treffen, die Kosten übernommen werden.
+
+Sollten Sie in einem Chat keine Antwort erhalten oder die Frage umfangreicher sein, so stellen Sie diese bitte unter http://ask.mozilla.org/questions/
+
+Viele deutschsprachige Mitwirkende treffen sich jeden Mittwoch um 21 Uhr im IRC-Chat auf irc.mozilla.org in #deMeeting — jeder Neuzugang ist herzlich eingeladen. Link: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23demeeting
+
+Zu anderen Zeiten findet die Kommunikation in #firefox.de statt, wo auch Nutzern geholfen wird. Link: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23firefox.de
+
+Mit freundlichen Grüßen,
+Team Mozilla

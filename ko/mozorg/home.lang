@@ -2,7 +2,6 @@
 ## promo_lightbeam ##
 ## promo_new_mdn ##
 ## promo_webmaker ##
-## promo_mwc_2014 ##
 ## NOTE: demo server for home page is https://www-dev.allizom.org
 
 
@@ -61,6 +60,7 @@ Mozilla는 기술자와 사상가, 제작자가 모여 인터넷을 생동감있
 
 ;We‘re bringing more people to the Web in more ways and from more places than ever before.
 폐쇄된 모바일 세상을 개선하고, 더 많은 사람들에게 저렴하게 웹을 즐길 수 있는 운영체제를 만들고 있습니다.
+
 
 ;Learn more about Firefox OS
 Firefox OS 살펴보기
@@ -133,6 +133,7 @@ Mozilla에 참여하기 위해서 반드시 코드 작성하는 방법을 알 �
 ;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
 <a href="http://www.mozilla.or.kr/community">Mozilla 최신 뉴스 모음</a> »<br><a href="http://forums.mozilla.or.kr">사용자 포럼</a> »<br><a href="http://www.mozilla.or.kr/community/join">커뮤니티 활동 참여하기</a> » <!--"%(link_l10n)s"-->
 
+
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Watch</i> the watchers
 <i>개인 정보</i> 보호하기
@@ -188,4 +189,5 @@ Mozilla 개발자 네트워크
 # New MDN promo:
 ;Visit the Mozilla Developer Network
 MDN 방문하기
+
 

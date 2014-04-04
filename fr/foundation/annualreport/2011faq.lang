@@ -1,9 +1,5 @@
 ## active ##
-# State of Mozilla 2011 annual report, faq page
-# test server: https://www-demo1.allizom.org/b/foundation/annualreport/2011/faq
 # tracking bug for L10n https://bugzilla.mozilla.org/show_bug.cgi?id=788871
-
-
 ;The State of Mozilla
 Rapport annuel de Mozilla
 
@@ -67,11 +63,14 @@ Nous collaborons déjà avec des partenaires de premier plan à l’internationa
 ;Some key Mozilla Foundation projects, like Collusion, have received grants from organizations such as the Ford Foundation.
 Certains grands projets de la Fondation Mozilla, comme Collusion, ont été subventionnés par des organismes tels que la Fondation Ford.
 
+
 ;What is the status of the organization’s search partnerships?
 Où en sont les partenariats de Mozilla avec les éditeurs de services de recherche&nbsp;?
 
+
 ;We currently have partnerships with a number of search providers that differ by market. In December 2011, we announced a new agreement with Google as the default search provider in Firefox. This new agreement extends our long-term search relationship with Google for at least three additional years. The specific terms of this commercial agreement are subject to traditional confidentiality requirements, and we’re not at liberty to disclose them.
 Nous  collaborons actuellement avec plusieurs éditeurs de services de  recherche dans le cadre de partenariats spécifiques à chaque marché. En décembre 2011, suite à la conclusion d’un nouvel accord, Google est  devenu le moteur de recherche par défaut de Firefox. Notre collaboration  de longue date est donc reconduite pour trois années supplémentaires. Les termes de cet accord commercial sont toutefois confidentiels. Nous  ne sommes donc pas autorisés à les divulguer.
+
 
 ;What is the status of your commercial relationship with Bing?
 Qu’en est-il du partenariat commercial entre Mozilla et Bing&nbsp;?
@@ -93,12 +92,15 @@ Depuis la conclusion de notre nouvel accord avec Google, ce dernier est le moteu
 Nous continuerons d’explorer de nouvelles pistes de partenariat avec Yandex, notamment le lancement conjoint d’une édition du navigateur Firefox personnalisée par Yandex et l’intégration des services de recherche de Yandex à d’autres versions régionales de Firefox.
 
 
-
 ;What sort of commercial agreements do you have in place in mobile?
 Quels types d’accords commerciaux avez-vous conclus avec les acteurs du marché du mobile&nbsp;?
 
 
+;Mozilla has announced a commercial partnership with Telefonica for Firefox OS. The specific terms of the agreement are subject to traditional confidentiality requirements. We are developing new partnerships with additional <abbr title="Original Equipment Manufacturers">OEMs</abbr> and operators, which will be announced in due course through 2012 and into 2013. We also have numerous arrangements with app publishers who will be included in Firefox Marketplace.
+Mozilla a conclu un partenariat commercial avec Telefónica pour Firefox OS. Les termes de cet accord sont toutefois confidentiels. Nous travaillons également au développement de nouveaux partenariats avec des équipementiers et opérateurs, qui seront annoncés courant 2012 et 2013, et collaborons avec plusieurs éditeurs dont les applications seront proposées sur Firefox Marketplace .
 
+
+# Obsolete string, will be removed when bug 981909 is fixed
 ;Mozilla has announced a commercial partnership with Telefonica for Firefox OS. The specific terms of the agreement are subject to traditional confidentiality requirements. We are developing new partnerships with additional <abbr title="Original Equipment Manufacturers">OEMs</abbr> and operators, which will be announced in due course through 2012 and into 2013. We also have numerous arrangements with app publishers who will be included in the Firefox Marketplace.
 Mozilla a conclu un partenariat commercial avec Telefónica pour Firefox OS. Les termes de cet accord sont toutefois confidentiels. Nous travaillons également au développement de nouveaux partenariats avec des équipementiers et opérateurs, qui seront annoncés courant 2012 et 2013, et collaborons avec plusieurs éditeurs dont les applications seront proposées sur Firefox Marketplace .
 
@@ -147,6 +149,11 @@ Les premiers terminaux Open Web seront lancés en Amérique latine début 2013. 
 Quel business model avez-vous choisi pour Firefox Marketplace &nbsp;?
 
 
+;Firefox Marketplace will offer developers’ discovery, distribution and monetization opportunities and will also be customizable by partners. For example, with Telefónica, we will provide direct-to-bill capabilities in the device, in the event that app store owners would like to bill Telefónica customers directly. But app developers are free to use their own billing systems. You can read about this in the Telefónica Marketplace Payments Guide for further details of how payments will work.
+En plus d’offrir aux développeurs l’opportunité de découvrir des nouveautés, de distribuer leurs applications et de monétiser leurs contenus, Firefox Marketplace  pourra être personnalisé par nos partenaires. À titre d’exemple, en partenariat avec Telefónica, nous intégrerons aux terminaux une fonction de facturation directe qui permettra aux propriétaires des applications téléchargées via Firefox Marketplace de facturer directement les abonnés de Telefónica. Il ne s’agit que d’une option. Les développeurs resteront libres du choix de la méthode de facturation. Toutes les méthodes de paiement sont détaillées dans le guide Telefónica Marketplace Payments Guide.
+
+
+# Obsolete string, will be removed when bug 981909 is fixed
 ;The Firefox Marketplace will offer developers’ discovery, distribution and monetization opportunities and will also be customizable by partners. For example, with Telefónica, we will provide direct-to-bill capabilities in the device, in the event that app store owners would like to bill Telefónica customers directly. But app developers are free to use their own billing systems. You can read about this in the Telefónica Marketplace Payments Guide for further details of how payments will work.
 En plus d’offrir aux développeurs l’opportunité de découvrir des nouveautés, de distribuer leurs applications et de monétiser leurs contenus, Firefox Marketplace  pourra être personnalisé par nos partenaires. À titre d’exemple, en partenariat avec Telefónica, nous intégrerons aux terminaux une fonction de facturation directe qui permettra aux propriétaires des applications téléchargées via Firefox Marketplace de facturer directement les abonnés de Telefónica. Il ne s’agit que d’une option. Les développeurs resteront libres du choix de la méthode de facturation. Toutes les méthodes de paiement sont détaillées dans le guide Telefónica Marketplace Payments Guide.
 

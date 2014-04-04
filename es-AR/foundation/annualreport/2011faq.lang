@@ -1,9 +1,5 @@
 ## active ##
-# State of Mozilla 2011 annual report, faq page
-# test server: https://www-demo1.allizom.org/b/foundation/annualreport/2011/faq
 # tracking bug for L10n https://bugzilla.mozilla.org/show_bug.cgi?id=788871
-
-
 ;The State of Mozilla
 El estado de Mozilla
 
@@ -28,13 +24,13 @@ Firefox OS es el sistema operativo móvil de Mozilla basado enteramente en HTML5
 Con el programa Webmaker de Mozilla queremos convertir a millones de usuarios de la Web en activos creadores que construyan las próximas experiencias de la red. El objetivo es crear una Web más educada gracias a herramientas y programas de aprendizaje que llenen de creatividad la red.
 
 
-
 ;How do you measure success?
 ¿Cómo medís el éxito?
 
 
 ;At Mozilla, we measure success by how much we are doing to improve the overall health of the Web and advance the interests of users and developers. We succeed when we build products that people love, and when other organizations build build the traits and features we care about into competing products. For example, we view Google Chrome's recent implementation of the Do Not Track feature we pioneered to be a success for Mozilla and our mission.
 En Mozilla medimos el éxito por lo que hacemos para mejorar la salud global de la Web y potenciar los intereses de usuarios y desarrolladores. Tenemos éxito cuando desarrollamos productos que la gente quiere y cuando las organizaciones desarrollan rasgos y características que valoramos en productos competitivos. Por ejemplo, vimos la reciente implementación que hizo Google Chrome de la característica “No Rastrear”, de la cual fuimos pioneros y que forma parte de nuestra misión y del éxito de Mozilla.
+
 
 ;Unlike our major competitors, Mozilla achieves success by helping more people make choices about what software they want to use, what level of participation they would like to have online, and how to take part in building a better Internet. When we see growth in community contributors, software localizations, and a competitive browser market, for example, we know we are moving toward our goals and we are seeing growth in these areas.
 A diferencia de nuestros principales competidores, Mozilla tiene éxito ayudando cada vez a más gente a elegir, ya sea qué software quieren usar, qué nivel de participación online querrían tener o cfonos inteligentes la melada de deoamosrlossiajoricaciones son libres para usar sus propios sistemas de facturacimacómo participar en el desarrollo de una red mejor. Cuando por ejemplo vemos el crecimiento de la comunidad de colaboradores, las localizaciones llevadas a cabo y un mercado de navegadores competitivo, tenemos la certeza de que estamos consiguiendo nuestros objetivos y que vamos a ver un crecimiento aún mayor en estas áreas.
@@ -100,6 +96,11 @@ Mozilla y Yandex continuarán explorando posibles acuerdos incluyendo la edició
 ¿Qué clase de acuerdos comerciales tienen en el sector móvil?
 
 
+;Mozilla has announced a commercial partnership with Telefonica for Firefox OS. The specific terms of the agreement are subject to traditional confidentiality requirements. We are developing new partnerships with additional <abbr title="Original Equipment Manufacturers">OEMs</abbr> and operators, which will be announced in due course through 2012 and into 2013. We also have numerous arrangements with app publishers who will be included in Firefox Marketplace.
+Mozilla ha anunciado un acuerdo comercial con Telefónica para Firefox OS. Los términos específicos del acuerdo están sujetos a los requerimientos confidenciales habituales. Estamos desarrollando nuevos acuerdos con otros <abbr title="Original Equipment Manufacturers">OEMs</abbr> y operadores, que estaremos anunciando durante 2012 y 2013. Tenemos además numerosos acuerdos con empresas de aplicaciones que se incluirán en la tienda de Mozilla.
+
+
+# Obsolete string, will be removed when bug 981909 is fixed
 ;Mozilla has announced a commercial partnership with Telefonica for Firefox OS. The specific terms of the agreement are subject to traditional confidentiality requirements. We are developing new partnerships with additional <abbr title="Original Equipment Manufacturers">OEMs</abbr> and operators, which will be announced in due course through 2012 and into 2013. We also have numerous arrangements with app publishers who will be included in the Firefox Marketplace.
 Mozilla ha anunciado un acuerdo comercial con Telefónica para Firefox OS. Los términos específicos del acuerdo están sujetos a los requerimientos confidenciales habituales. Estamos desarrollando nuevos acuerdos con otros <abbr title="Original Equipment Manufacturers">OEMs</abbr> y operadores, que estaremos anunciando durante 2012 y 2013. Tenemos además numerosos acuerdos con empresas de aplicaciones que se incluirán en la tienda de Mozilla.
 
@@ -148,6 +149,11 @@ Los primeros dispositivos basados en la Web Abierta se lanzarán en Latinoaméri
 ¿Cuál es el modelo de negocio para su mercado de aplicaciones?
 
 
+;Firefox Marketplace will offer developers’ discovery, distribution and monetization opportunities and will also be customizable by partners. For example, with Telefónica, we will provide direct-to-bill capabilities in the device, in the event that app store owners would like to bill Telefónica customers directly. But app developers are free to use their own billing systems. You can read about this in the Telefónica Marketplace Payments Guide for further details of how payments will work.
+Firefox Marketplace ofrecerá a los desarrolladores oportunidades de descubrir, distribuir y monetizar las aplicaciones y además éstas podrán personalizarse de la mano de nuestros socios. Por ejemplo, con Telefónica, ofreceremos la posibilidad de facturar directamente desde el dispositivo en el caso de que los propietarios de las aplicaciones quieran facturar a los clientes de Telefónica. Pero los desarrolladores de aplicaciones son libres para usar sus propios sistemas de facturación. Si quieres tener más información al respecto, puedes leer la Guía de Telefónica sobre el pago en la tienda.
+
+
+# Obsolete string, will be removed when bug 981909 is fixed
 ;The Firefox Marketplace will offer developers’ discovery, distribution and monetization opportunities and will also be customizable by partners. For example, with Telefónica, we will provide direct-to-bill capabilities in the device, in the event that app store owners would like to bill Telefónica customers directly. But app developers are free to use their own billing systems. You can read about this in the Telefónica Marketplace Payments Guide for further details of how payments will work.
 Firefox Marketplace ofrecerá a los desarrolladores oportunidades de descubrir, distribuir y monetizar las aplicaciones y además éstas podrán personalizarse de la mano de nuestros socios. Por ejemplo, con Telefónica, ofreceremos la posibilidad de facturar directamente desde el dispositivo en el caso de que los propietarios de las aplicaciones quieran facturar a los clientes de Telefónica. Pero los desarrolladores de aplicaciones son libres para usar sus propios sistemas de facturación. Si quieres tener más información al respecto, puedes leer la Guía de Telefónica sobre el pago en la tienda.
 
@@ -158,3 +164,5 @@ Firefox Marketplace ofrecerá a los desarrolladores oportunidades de descubrir, 
 
 ;We are not providing forecasts or projections at this time.
 No ofrecemos previsiones en este momento.
+
+

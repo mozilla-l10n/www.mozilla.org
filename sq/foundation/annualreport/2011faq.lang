@@ -1,9 +1,5 @@
 ## active ##
-# State of Mozilla 2011 annual report, faq page
-# test server: https://www-demo1.allizom.org/b/foundation/annualreport/2011/faq
 # tracking bug for L10n https://bugzilla.mozilla.org/show_bug.cgi?id=788871
-
-
 ;The State of Mozilla
 Gjendja e Mozilla-s
 
@@ -100,6 +96,11 @@ Mozilla dhe Yandex-i do të vazhdojnë të shqyrtojnë mundësi partneriteti në
 Ç'lloj marrëveshjesh tregtare keni lidhur me fushën e celularëve?
 
 
+;Mozilla has announced a commercial partnership with Telefonica for Firefox OS. The specific terms of the agreement are subject to traditional confidentiality requirements. We are developing new partnerships with additional <abbr title="Original Equipment Manufacturers">OEMs</abbr> and operators, which will be announced in due course through 2012 and into 2013. We also have numerous arrangements with app publishers who will be included in Firefox Marketplace.
+Mozilla ka njoftuar rreth një partneriteti tregtar me Telefonica-n për Firefox OS-in. Termat specifike të marrëveshjes janë subjekt i detyrimeve tradicionale të ruajtjes së sekretit. Po zhvillojmë partneritete të reja me <abbr title="Original Equipment Manufacturers">OEM-ë</abbr> dhe operatorë të tjerë, të cilat do të njoftohen kur t'u vijë koha, brenda 2012-s dhe përgjatë 2013-s. Kemi gjithashtu marrëveshje të shumta me botuesa zbatimesh të cilët do të përfshihen te Firefox Marketplace-i.
+
+
+# Obsolete string, will be removed when bug 981909 is fixed
 ;Mozilla has announced a commercial partnership with Telefonica for Firefox OS. The specific terms of the agreement are subject to traditional confidentiality requirements. We are developing new partnerships with additional <abbr title="Original Equipment Manufacturers">OEMs</abbr> and operators, which will be announced in due course through 2012 and into 2013. We also have numerous arrangements with app publishers who will be included in the Firefox Marketplace.
 Mozilla ka njoftuar rreth një partneriteti tregtar me Telefonica-n për Firefox OS-in. Termat specifike të marrëveshjes janë subjekt i detyrimeve tradicionale të ruajtjes së sekretit. Po zhvillojmë partneritete të reja me <abbr title="Original Equipment Manufacturers">OEM-ë</abbr> dhe operatorë të tjerë, të cilat do të njoftohen kur t'u vijë koha, brenda 2012-s dhe përgjatë 2013-s. Kemi gjithashtu marrëveshje të shumta me botuesa zbatimesh të cilët do të përfshihen te Firefox Marketplace-i.
 
@@ -148,6 +149,11 @@ Pajisjet e para të Hapura Web do të hidhen në qarkullim në tregjet latino-am
 Çfarë modeli biznesi ndjek tregu juaj i zbatimeve?
 
 
+;Firefox Marketplace will offer developers’ discovery, distribution and monetization opportunities and will also be customizable by partners. For example, with Telefónica, we will provide direct-to-bill capabilities in the device, in the event that app store owners would like to bill Telefónica customers directly. But app developers are free to use their own billing systems. You can read about this in the Telefónica Marketplace Payments Guide for further details of how payments will work.
+Firefox Marketplace-i do t'u ofrojë programuesve mundësi zbulimi, shpërndarjesh dhe monetarizimi dhe do të jetë e personalizueshme nga partnerët. Për shembull, me Telefónica-n, do të ofrojmë aftësinë drejt-e-te-fatura brenda pajisjes, për rastet kur të zotët e një shitoreje zbatimesh do të duan t'ua faturojnë klientëve të Telefónica-s pagesat drejtpërsëdrejti. Por programuesit janë të lirë të përdorin secili sistemin e tyre të pagesave. Për më tepër hollësira se si funksionojnë pagesat, mund të lexoni te Telefónica Marketplace Payments Guide.
+
+
+# Obsolete string, will be removed when bug 981909 is fixed
 ;The Firefox Marketplace will offer developers’ discovery, distribution and monetization opportunities and will also be customizable by partners. For example, with Telefónica, we will provide direct-to-bill capabilities in the device, in the event that app store owners would like to bill Telefónica customers directly. But app developers are free to use their own billing systems. You can read about this in the Telefónica Marketplace Payments Guide for further details of how payments will work.
 Firefox Marketplace-i do t'u ofrojë programuesve mundësi zbulimi, shpërndarjesh dhe monetarizimi dhe do të jetë e personalizueshme nga partnerët. Për shembull, me Telefónica-n, do të ofrojmë aftësinë drejt-e-te-fatura brenda pajisjes, për rastet kur të zotët e një shitoreje zbatimesh do të duan t'ua faturojnë klientëve të Telefónica-s pagesat drejtpërsëdrejti. Por programuesit janë të lirë të përdorin secili sistemin e tyre të pagesave. Për më tepër hollësira se si funksionojnë pagesat, mund të lexoni te Telefónica Marketplace Payments Guide.
 
@@ -158,3 +164,5 @@ Cilat janë parashikimet tuaja për rritje gjatë 2013 në segmentet desktop, ce
 
 ;We are not providing forecasts or projections at this time.
 Nuk jemi duke dhënë parashikime ose planifikime këtë herë.
+
+

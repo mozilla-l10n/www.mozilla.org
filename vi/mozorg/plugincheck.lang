@@ -14,7 +14,7 @@ Cập nhật ngay
 
 # This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
 ;Research
-Nghiên cứu
+Tìm hiểu
 
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
@@ -44,7 +44,7 @@ bị lỗi bảo mật
 
 # Main title
 ;Check Your Plugins
-Kiểm tra phần bổ trợ
+Kiểm tra các plugin của bạn
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
@@ -56,15 +56,15 @@ Trạng thai plugin
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
-Trình kiểm tra phần bổ trợ <strong>không hỗ trợ tốt Internet Explorer</strong>.  					Cũng dùng 'Công cụ' &gt; 'Quản lí Tiện ích'
+Trình kiểm tra phần bổ trợ <strong>không hỗ trợ tốt Internet Explorer</strong>. Cũng dùng 'Công cụ' &gt; 'Quản lí Tiện ích'
 
 
 ;Step 1: Click Update to update a plugin.
-Bước 1: Nhấn Cập nhật để cập nhật phần bổ trợ.
+Bước 1: nhấn Cập nhật để nâng cấp plugin.
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
-Bước 2:  					Hoàn tất mọi cập nhật trước khi khởi động lại trình duyệt.
+Bước 2: Hoàn thành tất cả các cập nhật được yêu cầu trước khi khởi động lại trình duyệt của bạn.
 
 
 ;Potentially vulnerable plugins
@@ -72,7 +72,7 @@ Phần bổ trợ có thể bị lỗi
 
 
 ;Plugin
-Plugin
+Plugin {ok}
 
 
 ;Status
@@ -100,7 +100,7 @@ Lên đầu trang
 
 
 ;Frequently Asked Questions
-Câu Hỏi Thường Gặp
+Frequently Asked Questions
 
 
 ;What is a plugin?
@@ -116,23 +116,23 @@ Phần bổ trợ được xây dựng bên ngoài Firefox bởi các công ty n
 
 
 ;Plugins don't always update automatically.
-Phần bổ trợ không phải lúc nào cũng được cập nhật  tự động.
+Plugin không thường xuyên cập nhật tự động.
 
 
 ;Why should I update my plugins?
-Vì sao tôi cần cập nhật phần bổ trợ?
+Tại sao tôi nên cập nhật các plugin của tôi?
 
 
 ;Old plugins can interrupt browsing and waste your time.
-Phần bổ trợ cũ có thể cản trở việc lướt web và làm phí thời gian của bạn.
+Các plugin cũ có thể gây đổ vỡ trình duyệt và làm mất thời gian của bạn.
 
 
 ;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
-Phần bổ trợ cũ <strong>làm tăng nguy cơ</strong> bị tấn công bởi phần mềm độc hại, virút và các mối đe dọa bảo mật khác.
+Các plugin cũ <strong>làm tăng</strong> nguy cơ bị tấn công bởi phần mềm độc hại, virut, và những sự de dọa về bảo mật khác.
 
 
 ;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
-<strong>Các phần bổ trợ được cập nhật có các cải tiến</strong> giúp việc lướt web <strong>nhanh và an toàn hơn</strong> cho bạn.
+<strong>Các plugin được cập nhật có những sự cải tiến</strong> giúp tạo một trang web tốt hơn và an toàn hơn</strong> cho bạn.
 
 
 # alt image
@@ -141,11 +141,11 @@ Phần bổ trợ cũ <strong>làm tăng nguy cơ</strong> bị tấn công bở
 
 
 ;How can Firefox help me?
-Firefox có thể giúp tôi như thế nào?
+Làm thế nào Firefox có thể giúp tôi?
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
-Trong tương lai, Firefox sẽ cập nhật phần bổ trợ giúp bạn. 			Tuy nhiên, cho tới lúc đó, bạn cần thường xuyên theo dõi trang này và cập nhật phần bổ trợ  			để có thể lướt web an toàn.
+Trong tương lai, Firefox sẽ cập nhật các plugin cho bạn. Cho đến lúc đó, bạn phải thường xuyên vào trang này và cập nhật các plugin của bạn để web được an toàn hơn.
 
 
 ;Which Plugins do I have?
@@ -157,15 +157,15 @@ Chúng tôi tự động dò các phần bổ trợ của bạn như trên, đ�
 
 
 ;Open the Tools menu.
-Mở Công cụ.
+Mở bảng chọn Công cụ.
 
 
 ;Choose Add-ons.
-Chọn Tiện ích.
+Chọn add-on.
 
 
 ;Click the plugins tab.
-Nhấn vào thẻ phần bổ trợ .
+Nhấn vào thẻ plugin.
 
 
 ;Want to spread the word?
@@ -177,7 +177,7 @@ Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</
 
 
 ;How do I disable a plugin?
-Tôi có thể tắt phần bổ trợ bằng cách nào?
+Làm thế nào để tôi vô hiệu hóa một plugin?
 
 
 ;In Firefox:
@@ -185,7 +185,7 @@ Trong Firefox:
 
 
 ;Click on a plugin in the list.
-Nhấn vào một phần bổ trợ trong danh sách.
+Nhấn vào một plugin trên danh sách.
 
 
 ;Click the Disable button.
@@ -193,7 +193,7 @@ Nhấn vào nút Vô hiệu hóa.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
-Cẩn trọng: khi tắt một phần bổ trợ, bạn sẽ  				không còn có thể thao tác một số chức năng. 				Ví dụ, nếu bạn tắt Flash, bạn sẽ không xem được các đoạn phim trên những trang web xem phim thông dụng.
+Cảnh báo: vô hiệu hóa một plugin đồng nghĩa với việc bạn sẽ không thể làm một số việc. Ví dụ, nếu bạn vô hiệu hóa Flash, bạn sẽ không thể xem các video trên YouTube.
 
 
 ;Mozilla Support
@@ -201,7 +201,7 @@ Hỗ trợ từ Mozilla
 
 
 ;Have more questions?
-Có câu hỏi khác?
+Còn câu hỏi nào khác?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!

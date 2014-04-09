@@ -137,7 +137,7 @@
 
 # alt image
 ;Screenshot of Add-Ons manager
-صورة لمدير الملحقات 
+صورة لمدير الملحقات
 
 
 ;How can Firefox help me?
@@ -146,6 +146,7 @@
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
 سيكون بمقدور فيرفكس أن يقوم بتحديث المُلحقات بنفسه. لكن في انتظار أن يتم ذلك يجب عليك أن تقوم بالتحقق من هذه الصفحة بشكل دوري وتحديث المُلحقات لتبقى آمنًا.
+
 
 ;Which Plugins do I have?
 ما هي الملحقات التي أستخدمها؟
@@ -160,7 +161,7 @@
 
 
 ;Choose Add-ons.
-اختر الإضافات
+اختر الإضافات.
 
 
 ;Click the plugins tab.
@@ -181,18 +182,6 @@
 
 ;In Firefox:
 في فيرفكس:
-
-
-;Open the Tools menu.
-افتح قائمة الأدوات.
-
-
-;Choose Add-ons.
-اختر الإضافات.
-
-
-;Click the plugins tab.
-اضغط على لسان المُلحقات.
 
 
 ;Click on a plugin in the list.
@@ -217,5 +206,13 @@
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 زُر <a href="%(sumo_url)s">support.mozilla.org</a> للحصول على مُساعدة إضافية.
+
+
+;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+
+
+;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 

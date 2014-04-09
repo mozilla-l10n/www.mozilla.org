@@ -51,6 +51,14 @@ Preverite svoje vtičnike
 Če redno posodabljate vtičnike, bo Firefox deloval varno in brez težav.
 
 
+;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+
+
+;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+
+
 ;Plugin Status
 Stanje vtičnika
 
@@ -206,13 +214,5 @@ Imate več vprašanj?
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 Obiščite <a href="%(sumo_url)s">support.mozilla.org</a> za popoln odmerek pomoči!
-
-
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-
-
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 

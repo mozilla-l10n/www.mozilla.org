@@ -51,6 +51,14 @@
 আপ টু ডেট প্লাগিন ফায়ারফক্সকে নিরাপদে এবং সুন্দরভাবে চালাতে সাহায্য করে.
 
 
+;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+
+
+;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+
+
 ;Plugin Status
 প্লাগ-ইন স্থিতি
 
@@ -206,13 +214,5 @@ Mozilla Support {ok}
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 দেখুন <a href="%(sumo_url)s">support.mozilla.org</a> আরও সাহায্যের জন্য!
-
-
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-
-
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 

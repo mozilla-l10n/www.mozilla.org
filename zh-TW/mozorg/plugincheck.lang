@@ -51,6 +51,14 @@
 使用最新的外掛程式可以讓您的 Firefox 執行得更順、更安全。
 
 
+;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+
+
+;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+
+
 ;Plugin Status
 外掛程式狀態
 
@@ -206,13 +214,5 @@ Mozilla 技術支援
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 到 <a href="%(sumo_url)s">support.mozilla.org</a> 尋求支援！
-
-
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-
-
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 

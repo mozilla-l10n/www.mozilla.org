@@ -51,6 +51,14 @@ Verifique sus complementos
 Mantener los complementos al día permite que Firefox corra rápido y seguro.
 
 
+;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+
+
+;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+
+
 ;Plugin Status
 Estado del complemento
 
@@ -206,13 +214,5 @@ Soporte de Mozilla
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 ¡Visita <a href="%(sumo_url)s">support.mozilla.org</a> para más ayuda!
-
-
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-
-
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 

@@ -51,6 +51,14 @@ angreifbar
 Die Aktualisierung Ihrer Plugins hilft dabei, dass Firefox sicher und problemlos funktioniert.
 
 
+;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+
+
+;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+
+
 ;Plugin Status
 Status der Plugins
 
@@ -206,13 +214,5 @@ Haben Sie weitere Fragen?
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 Weitere Hilfe erhalten Sie auf <a href="%(sumo_url)s">support.mozilla.org</a>!
-
-
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-
-
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 

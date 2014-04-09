@@ -51,6 +51,14 @@
 Поддержание ваших плагинов в актуальном состоянии помогает обеспечить быструю и безопасную работу Firefox.
 
 
+;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+
+
+;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+
+
 ;Plugin Status
 Статус плагина
 
@@ -206,13 +214,5 @@
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 Для получения помощи посетите <a href="%(sumo_url)s">support.mozilla.org</a>!
-
-
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-
-
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 

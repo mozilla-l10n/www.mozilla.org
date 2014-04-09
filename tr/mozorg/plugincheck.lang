@@ -51,6 +51,14 @@ Yan Uygulamalarınızı Denetleyin
 Yan uygulamalarınızın güncel olması, Firefox'un güvenli ve akıcı çalışmasına yardımcı olur.
 
 
+;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+
+
+;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+
+
 ;Plugin Status
 Yan uygulama durumu
 
@@ -206,13 +214,5 @@ Başka sorularınız mı var?
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 Daha fazla yardım almak için <a href="%(sumo_url)s">support.mozilla.org</a>'u ziyaret edin!
-
-
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-
-
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 

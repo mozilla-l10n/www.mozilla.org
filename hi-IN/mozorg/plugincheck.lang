@@ -51,6 +51,14 @@
 अपने प्लगइन को अद्यतन रखने से फ़ायरफ़ॉक्स सुरक्षित और सुचारू रूप से चलता हैं
 
 
+;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+
+
+;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+
+
 ;Plugin Status
 प्लगइन स्थिति
 
@@ -206,13 +214,5 @@ Add-Ons प्रबंधक का स्क्रीनशॉट
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 और अधिक मदद के लिये <a href="%(sumo_url)s">support.mozilla.org</a> में जाएँ.!
-
-
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-
-
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 

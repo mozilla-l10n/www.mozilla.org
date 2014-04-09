@@ -51,6 +51,14 @@ Kiểm tra các plugin của bạn
 Giữ các plugin của bạn được cập nhật giúp Firefox chạy an toàn và mượt.
 
 
+;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+
+
+;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+
+
 ;Plugin Status
 Trạng thai plugin
 
@@ -206,13 +214,5 @@ Còn câu hỏi nào khác?
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 Vào trang <a href="%(sumo_url)s">support.mozilla.org</a> để được hộ trợ thêm!
-
-
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-
-
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 

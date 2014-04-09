@@ -51,6 +51,14 @@
 إبقاء مُلحقاتك مُحدّثةً يُساعد فيرفكس على العمل بأمان وسلاسة.
 
 
+;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+
+
+;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+
+
 ;Plugin Status
 حالة المُلحق
 
@@ -206,13 +214,5 @@
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 زُر <a href="%(sumo_url)s">support.mozilla.org</a> للحصول على مُساعدة إضافية.
-
-
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-
-
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 

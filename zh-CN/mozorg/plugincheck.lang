@@ -51,6 +51,14 @@
 让你的插件保持最新版本可以使 Firefox 运行得更为安全和平滑。
 
 
+;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+
+
+;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+
+
 ;Plugin Status
 插件状态
 
@@ -206,13 +214,5 @@ Mozilla 支持
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 访问 <a href="%(sumo_url)s">support.mozilla.org</a> 获得进一步帮助！
-
-
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-
-
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 

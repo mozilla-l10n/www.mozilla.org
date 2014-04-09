@@ -51,6 +51,14 @@
 Firefox を安全に、そして安定して使うため、サードパーティ製ブラウザプラグインを常に最新の状態にしておきましょう。
 
 
+;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+
+
+;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+
+
 ;Plugin Status
 チェック結果
 
@@ -206,13 +214,5 @@ Mozilla サポート
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 <a href="%(sumo_url)s">support.mozilla.org</a> へアクセスしましょう!
-
-
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-
-
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 

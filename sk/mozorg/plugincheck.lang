@@ -51,6 +51,14 @@ Kontrola zásuvných modulov
 Udržiavaním zásuvných modulov aktuálnych pomáhate Firefoxu pracovať bezpečne a spoľahlivo.
 
 
+;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+
+
+;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+
+
 ;Plugin Status
 Stav zásuvného modulu
 
@@ -206,13 +214,5 @@ Máte ďalšie otázky?
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 Navštívte stránky podpory <a href="%(sumo_url)s">support.mozilla.org</a>.
-
-
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-
-
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 

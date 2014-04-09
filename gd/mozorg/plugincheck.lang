@@ -51,6 +51,14 @@ Sgrùd na plugain agad
 Bidh Firefox nas sàbhailte rèidh ma chumas tu na plugain agad cho ùr 's a ghabhas.
 
 
+;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+
+
+;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+
+
 ;Plugin Status
 Staid a' phlugain
 
@@ -206,13 +214,5 @@ A bheil barrachd cheistean agad?
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 Tadhail air <a href="%(sumo_url)s">support.mozilla.org</a> airson barrachd taic!
-
-
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-
-
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 

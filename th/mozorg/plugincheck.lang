@@ -51,6 +51,14 @@ current version plugin {ok}
 ดูแลโปรแกรมเสริมของคุณให้ทันสมัยอยู่เสมอ ช่วยให้ Firefox ปลอดภัยและไหลลื่น
 
 
+;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+
+
+;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+
+
 ;Plugin Status
 สถานะของโปรแกรมเสริม
 
@@ -206,13 +214,5 @@ Firefox จะช่วยฉันได้อย่างไร?
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 เข้าเยี่ยมชม <a href="%(sumo_url)s">support.mozilla.org</a> เพื่อความช่วยเหลือเพิ่มเติม!
-
-
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-
-
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 

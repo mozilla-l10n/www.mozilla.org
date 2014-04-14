@@ -3,150 +3,157 @@
 
 # <title> tag
 ;Firefox — Designed to protect your privacy — The most trusted browser on the Web
-Firefox — Designed to protect your privacy — The most trusted browser on the Web
+Firefox — プライバシーを守る Web で最も信頼されるブラウザ
 
 
 # main title
 ;Trust isn’t made. It’s earned.
-Trust isn’t made. It’s earned.
+信頼は作るものではなく、勝ち取るものです
+# ちょっと違う気がするので、検討
 
 
 # L10n: Line break below is for wide screen formatting only.
 ;We build Firefox with a mission to put you first, above all else.<br class="wide-br">
-We build Firefox with a mission to put you first, above all else.<br class="wide-br">
+私たちはユーザーを第一にというミッションのもと、Firefox を開発しています。<br class="wide-br">
 
 
 ;We do it to keep you in control.
-We do it to keep you in control.
+すべてをユーザーがコントロールでき、
 
 
 ;We do it so you can browse without worry.<br class="wide-br">
-We do it so you can browse without worry.<br class="wide-br">
+不安の無い Web ブラウジングを可能にしました。<br class="wide-br">
 
 
 ;And we do it because no one else will.
-And we do it because no one else will.
+他にできる所がないからこそ、私たちはユーザーを第一に開発しています。
+# "it"の訳に困る
 
 
 # The span tags are for presentational purpose
 ;<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
-<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
+<span id="trust-line1">プライバシー分野で</span><span id="trust-line2">最も信頼される</span><span id="trust-line3">インターネット企業</span>
 
 
 ;Designed to protect your privacy
-Designed to protect your privacy
+プライバシーを守るために
 
 
 ;We believe your personal information belongs only to you.<br class="wide-br">
-We believe your personal information belongs only to you.<br class="wide-br">
+ユーザの個人情報はユーザが管理できるべきだと、私たちは信じています。<br class="wide-br">
 
 
 ;That’s why Firefox is filled with features to ensure that’s the case.
-That’s why Firefox is filled with features to ensure that’s the case.
+そのために、Firefox に以下のような機能を搭載しています。
 
 
 ;Do Not Track
-Do Not Track
+Do Not Track{ok}
+# DNTのことなので原文ママ
 
 
 ;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
-A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
+Firefox の持つ Do Not Track 機能を利用すると、オンラインにおける個人情報の収集と使用に対するコントロールを行えます。
+# "Firefox innovation"がちょっと悩む
 
 
 ;Learn more about Do Not Track
-Learn more about Do Not Track
+Do Not Track について
 
 
 ;Private browsing
-Private browsing
+プライベートブラウジング
 
 
 ;Sometimes it’s nice to go undercover.
-Sometimes it’s nice to go undercover.
+秘密のブラウジングをするのに役立つ機能です。
 
 
 ;Turn this feature on to protect your browsing history from others.
-Turn this feature on to protect your browsing history from others.
+この機能を有効にすると、他の人からブラウジングの履歴を保護するのに役立ちます。
 
 
 ;Learn how to open a private window
-Learn how to open a private window
+プライベートウィンドウの使い方を知るにはこちら
 
 
 ;See who’s watching you online.
-See who’s watching you online.
+あなたをオンライン上で監視しているものを可視化します。
 
 
 ;The Lightbeam add-on exposes the first and third party sites you interact with as you browse.
-The Lightbeam add-on exposes the first and third party sites you interact with as you browse.
+Lightbeam アドオンは、ブラウジング時に通信しているファーストパーティのサイトとサードパーティのサイトを可視化します。
 
 
 ;Shine a light on the Web with Lightbeam
-Shine a light on the Web with Lightbeam
+Lightbeam について詳しくはこちら
 
 
 ;Keeping you safe across the Web
-Keeping you safe across the Web
+Web を安全に利用できるために
 
 
 ;Firefox lets you learn more about the sites you visit and helps keep you secure online.
-Firefox lets you learn more about the sites you visit and helps keep you secure online.
+Firefox は、安全な Web ブラウジングを手助けします。
+# "learn more about the sites you visit"の訳文の挿入箇所の判断に困る
 
 
 ;World class protection
-World class protection
+世界規模の防御
 
 
 ;Anti-phishing & anti-malware features protect you from trojan horses and spyware and warn you about potentially fraudulent sites.
-Anti-phishing & anti-malware features protect you from trojan horses and spyware and warn you about potentially fraudulent sites.
+トロイの木馬やスパイウェア、詐欺サイトなどからユーザーを守るために、アンチフィッシングおよびアンチマルウェア機能を搭載しています。
 
 
 ;Automatic security updates
-Automatic security updates
+自動セキュリティアップデート
 
 
 ;Firefox updates automatically to make sure you always have the latest and greatest security fixes.
-Firefox updates automatically to make sure you always have the latest and greatest security fixes.
+Firefox は、最新かつ重要なセキュリティの修正をユーザーが受け取れるように自動的にアップデートします。
 
 
 ;Secure connections
-Secure connections
+安全なネットワーク接続
 
 
 ;Use instant Website ID to to make sure a site is what it claims to be and to check if your connection to it is secure.
-Use instant Website ID to to make sure a site is what it claims to be and to check if your connection to it is secure.
+接続先の Web サイトが自分の行きたいサイトであり、接続が安全であるかどうかの確認が簡単にできます。
+# 要検討
 
 
 ;Browse without worry
-Browse without worry
+安心なブラウジング
+# 見出しなので意訳
 
 
 # L10n: Line break below is for visual formatting only. #}
 ;Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
-Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
+プライバシーとセキュリティの重要性と、オンラインでのプライバシー保護のために何ができるかについて学べます。
 
 
 ;Privacy & you
-Privacy & you
+プライバシーについて
 
 
 ;How to stay safe online
-How to stay safe online
+Web を安全に利用するには
 
 
 ;Privacy & security FAQ
-Privacy & security FAQ
+プライバシーとセキュリティについての FAQ
 
 
 ;Privacy & security add-ons
-Privacy & security add-ons
+プライバシーとセキュリティに関連するアドオン
 
 
 ;Privacy blog
-Privacy blog
+プライバシーブログ（英語）
 
 
 ;Security blog
-Security blog
+セキュリティブログ（英語）
 
 

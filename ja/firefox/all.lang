@@ -1,7 +1,8 @@
 
 
 ;Download %s in your language
-各国語版の %s をダウンロード
+各国語版の %s を<br>ダウンロード
+# "ダウンロード"が中途半端な位置で落ちるので改行
 
 
 ;Download Firefox Beta in your language and experience cutting edge features before they make it to final release. Provide feedback to help us refine and polish the next version of Firefox.
@@ -17,7 +18,7 @@ Firefox ESR は、デスクトップ環境を集中管理・運用している�
 
 
 ;Firefox is available in more than %s languages thanks to the contributions of Mozilla community members from around the world.
-世界中の Mozilla コミュニティメンバーの協力のおかげで、Firefox は %s 以上の言語に対応しています。
+世界中の Mozilla コミュニティメンバーの協力のおかげで、<br class="wide-br">Firefox は %s 以上の言語に対応しています。
 
 ;Check the system requirements
 システム要件を満たしているか確認する

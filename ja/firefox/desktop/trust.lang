@@ -8,7 +8,7 @@ Firefox — プライバシーを守る Web で最も信頼されるブラウザ
 
 # main title
 ;Trust isn’t made. It’s earned.
-信頼は作るものではなく、勝ち取るものです
+信頼は作るものではなく、<br class="wide-br">勝ち取るものです
 # ちょっと違う気がするので、検討
 
 
@@ -32,8 +32,8 @@ Firefox — プライバシーを守る Web で最も信頼されるブラウザ
 
 # The span tags are for presentational purpose
 ;<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
-<span id="trust-line1">プライバシー分野で</span><span id="trust-line2">最も信頼される</span><span id="trust-line3">インターネット企業</span>
-
+<span id="trust-line1">プライバシー分野で</span><br class="wide-br"><span id="trust-line2">最も信頼される</span><br class="wide-br"><span id="trust-line3">インターネット企業</span>
+# cssにpull requestを送らずに済ませる前提でのアドホックな対応
 
 ;Designed to protect your privacy
 プライバシーを守るために
@@ -130,7 +130,7 @@ Firefox は、最新かつ重要なセキュリティの修正をユーザーが
 
 # L10n: Line break below is for visual formatting only. #}
 ;Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
-プライバシーとセキュリティの重要性と、オンラインでのプライバシー保護のために何ができるかについて学べます。
+プライバシーとセキュリティの重要性と、<br class="wide-br">オンラインでのプライバシー保護のために何ができるかについて学べます。
 
 
 ;Privacy & you

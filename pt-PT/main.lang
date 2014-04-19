@@ -68,7 +68,7 @@ Outros idiomas:
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%m-%d-%Y {ok}
+%d-%m-%Y
 
 
 ;Legal Notices
@@ -80,7 +80,7 @@ Política de privacidade
 
 
 ;Release Notes
-Notas de Lançamento
+Notas de lançamento
 
 
 ;Other Systems and Languages
@@ -141,7 +141,7 @@ Indicar abuso de marca registada
 
 
 ;Free Upgrade
-Actualização gratuita
+Atualização gratuita
 
 
 # social networks such as Facebook and Twitter
@@ -179,7 +179,7 @@ Formato MPEG-4
 
 
 ;Mobile
-Mobile {ok}
+Móvel
 
 
 ;Check out the new look and feel of Firefox.
@@ -203,11 +203,11 @@ Desktop {ok}
 
 
 ;Firefox Beta for mobile
-Firefox Beta para mobile
+Firefox Beta para dispositivos móveis
 
 
 ;Firefox for mobile
-Firefox para mobile
+Firefox para dispositivos móveis
 
 
 ;Email
@@ -219,15 +219,15 @@ Super velocidade
 
 
 ;Stunning graphics
-Fantásticos gráficos
+Gráficos fantásticos
 
 
 ;The latest technologies
-As últimas tecnologias
+As tecnologias mais recentes
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Necessita de uma atualização! Mantenha-se seguro em menos de um minuto. <br/> Comece a utlizar o seu novo Firefox com o melhor da navegação e personalização da we. <br/>   É rápido e gratuito!
+Necessita de uma atualização! Mantenha-se seguro em menos de um minuto. <br/> Comece a utilizar o seu novo Firefox com o melhor da navegação e personalização da Web. <br/>   É rápido e gratuito!
 
 
 ;Upgrade now
@@ -239,7 +239,7 @@ Atualizar agora
 
 
 ;Supported Devices
-Dispositivos suportados
+Dispositivos Suportados
 
 
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
@@ -254,7 +254,7 @@ Privacidade
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Porções deste conteúdo é ©1998–%(current_year)s por contribuintes individuais da mozilla.org. Conteúdo disponível sobre <a href="%(url)s">Creative Commons license</a>.
+Porções deste conteúdo são ©1998–%(current_year)s por contribuintes individuais da mozilla.org. Conteúdo disponível sobre <a href="%(url)s">Creative Commons license</a>.
 
 
 # Footer string
@@ -289,7 +289,7 @@ Tecnologia
 
 # Top menu item on firefox/update page
 ;Privacy &amp; Security
-Privacidade &amp; Segurança
+Privacidade e Segurança
 
 
 # Top menu item on firefox/update page
@@ -319,7 +319,7 @@ Extras do desktop
 
 # Top menu item on firefox/update page
 ;Mobile Add-ons
-Extras do mobile
+Extras para dispositivos móveis
 
 
 # Top menu item on firefox/update page
@@ -329,12 +329,12 @@ Temas
 
 # Top menu item on firefox/update page
 ;Desktop Support
-Suporte do desktop
+Suporte para o desktop
 
 
 # Top menu item on firefox/update page
 ;Mobile Support
-Suporte do mobile
+Suporte para os dispositivos móveis
 
 
 # Top menu item on firefox/update page
@@ -379,76 +379,76 @@ Partilhar
 
 # footer link
 ;Mozilla on Twitter
-Mozilla on Twitter
+Mozilla no Twitter
 
 
 # footer link
 ;Firefox on Twitter
-Firefox on Twitter
+Firefox no Twitter
 
 
 # footer link
 ;Mozilla on Facebook
-Mozilla on Facebook
+Mozilla no Facebook
 
 
 # footer link
 ;Firefox on Facebook
-Firefox on Facebook
+Firefox no Facebook
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
-Forums
+Fóruns
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
-Governance
+Governação
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
-History
+História
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Our Products
-Our Products
+Os nossos produtos
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
-Software and other innovations designed to advance our mission.
+O software e outras inovações são desenhados para fazer avançar a nossa missão.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Become a volunteer contributor in a number of different areas.
+Contribua voluntariamente em diferentes áreas.
 
 
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
-Menu
+Menu {ok}
 
 
 # Menu item on top of Australis Firefox pages
 ;Trusted
-Trusted
+De confiança
 
 
 # Menu item on top of Australis Firefox pages
 ;Flexible
-Flexible
+Flexível
 
 
 # Menu item on top of Australis Firefox pages
 ;Fast
-Fast
+Rápido
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Committed to you, your privacy and an open Web
+Comprometido consigo, a sua privacidade e uma Web aberta
 
 

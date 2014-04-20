@@ -3,12 +3,12 @@
 
 # Page <title> tag
 ;Plugin Check &amp; Updates
-Plugin Check &amp; Updates
+প্লাগিন নিৰীক্ষণ &amp; আপডেইটসমূহ
 
 
 # This is a button telling the user to update their plugin
 ;Update Now
-এতিয়াই উন্নত কৰক
+এতিয়াই আপডেইট কৰক
 
 
 # This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
@@ -18,7 +18,7 @@ Plugin Check &amp; Updates
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-current version plugin
+বৰ্তমান সংস্কৰণ প্লাগিন
 
 
 # This is a button informing the user that their plugin is up to date
@@ -28,12 +28,12 @@ current version plugin
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+প্লাগিন আইকন
 
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+অজ্ঞাত
 
 
 # This is the string used to indicate that the plugin is vulnerable
@@ -47,19 +47,19 @@ unknown
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Keeping your plugins up to date helps Firefox run safely and smoothly.
+আপোনাৰ প্লাগিনসমূহ উন্নত থাকিলে Firefox সুৰক্ষিতভাৱে আৰু সহজে চলে।
 
 
 ;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+আমি Java প্লাগিনৰ বৰ্তমান সংস্কৰণৰ চিনাক্তকৰণ আৰু তাৰ অসুৰক্ষিত বুলি ভুল সংবাদনৰ বিষয়ে জ্ঞাত।
 
 
 ;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+আমি এই ত্ৰুটি সংশোধন কৰিবলে কাম কৰি আছো। এই সময়তে, আমি <a href="%(download)s">Java ৱেবছাইট ভ্ৰমণ</a> কৰি শেহতীয়া সংস্কৰণ ডাউনল'ড কৰিব পাৰিব।
 
 
 ;Plugin Status
-Plugin Status
+প্লাগিন অৱস্থা
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -67,11 +67,11 @@ Plugin Status
 
 
 ;Step 1: Click Update to update a plugin.
-স্তৰ ১: প্লাগ-ইন উন্নত কৰিবলৈ উন্নয়ন ত টিপক।
+স্তৰ ১: প্লাগ-ইন আপডেইট কৰিবলৈ আপডেইট কৰক ত টিপক।
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
-স্তৰ ২: ৱেব ব্ৰাউছাৰ পুনৰাম্ভ কৰাৰ আগতে সকলো উপদেশিত উন্নয়ন সম্পূৰ্ণ কৰক।
+স্তৰ ২: ৱেব ব্ৰাউছাৰ পুনৰাম্ভ কৰাৰ আগতে সকলো উপদেশিত আপডেইট সম্পূৰ্ণ কৰক।
 
 
 ;Potentially vulnerable plugins
@@ -79,7 +79,7 @@ Plugin Status
 
 
 ;Plugin
-Plugin
+প্লাগিন
 
 
 ;Status
@@ -91,23 +91,23 @@ Plugin
 
 
 ;Outdated Plugins
-Outdated Plugins
+পুৰনি প্লাগিন
 
 
 ;Unknown Plugins
-Unknown Plugins
+অজ্ঞাত প্লাগিন
 
 
 ;These plugins are up to date
-These plugins are up to date
+এই প্লাগিনসমূহ উন্নত
 
 
 ;Back to Top
-Back to Top
+ওপৰলৈ যাওক
 
 
 ;Frequently Asked Questions
-সাধাৰণতে কৰা প্ৰশ্ন
+সাধাৰণতে কৰা প্ৰশ্নবোৰ
 
 
 ;What is a plugin?
@@ -119,32 +119,32 @@ Back to Top
 
 
 ;They're built outside of Firefox by companies like Adobe Systems and Apple
-সিহঁতক Firefox ৰ বাহিৰৰ কোম্পানিয়ে বনায় যেনে Adobe Systems আৰু Apple।
+সিহঁতক Firefox ৰ বাহিৰৰ কোম্পানীয়ে নিৰ্মাণ কৰে যেনে Adobe Systems আৰু Apple।
 
 
 ;Plugins don't always update automatically.
-প্লাগ-ইনসমূহ সদায়ে স্বচালিতভাৱে উন্নত নহয়।
+প্লাগ-ইনসমূহ সদায়ে স্বচালিতভাৱে আপডেইট নহয়।
 
 
 ;Why should I update my plugins?
-মই কিয় মোৰ প্লাগ-ইনসমূহ উন্নত কৰিব লাগে?
+মই কিয় মোৰ প্লাগ-ইনসমূহ আপডেইট কৰিব লাগে?
 
 
 ;Old plugins can interrupt browsing and waste your time.
-পুৰণি প্লাগ-ইনসমূহে ৱেব ব্ৰাউছত বাধা দিব পাৰে আৰু  আপোনাৰ সময় নষ্ট কৰিব পাৰে।
+পুৰনি প্লাগ-ইনসমূহে ৱেব ব্ৰাউছিংত বাধা দিব পাৰে আৰু  আপোনাৰ সময় নষ্ট কৰিব পাৰে।
 
 
 ;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
-পুৰণি প্লাগ-ইনসমূহে আপোনাৰ বেয়া চফ্টৱেৰ, ভাইৰাছ, আৰু অন্যান্য সুৰক্ষাৰ আক্ৰমণৰ<strong>বিপদাশঙ্কা বঢ়াব পাৰে</strong>।
+পুৰনি প্লাগ-ইনসমূহে আপোনাৰ মেলৱেৰ, ভাইৰাছ, আৰু অন্যান্য সুৰক্ষাৰ আক্ৰমণৰ<strong>বিপদাশঙ্কা বঢ়াব পাৰে</strong>।
 
 
 ;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
-<strong>উন্নত প্লাগইনসমূহ উন্নত বৈশিষ্ট আছে</strong> যি আপোনাৰ কাৰণে ৱেবক <strong>ভাল আৰু সুৰক্ষিত</strong> কৰি ৰাখে।
+<strong>আপডেইটেড প্লাগইনসমূহ উন্নত বৈশিষ্ট আছে</strong> যি আপোনাৰ কাৰণে ৱেবক <strong>ভাল আৰু সুৰক্ষিত</strong> কৰি ৰাখে।
 
 
 # alt image
 ;Screenshot of Add-Ons manager
-Screenshot of Add-Ons manager
+এড-অনসমূহ ব্যৱস্থাপকৰ স্ক্ৰিনশ্বট
 
 
 ;How can Firefox help me?
@@ -152,7 +152,7 @@ Screenshot of Add-Ons manager
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
-ভৱিষ্যতে, Firefox এ আপোনাৰ কাৰণে প্লাগ-ইনসমূহ উন্নত কৰিব। তেতিয়ালৈকে, আপুনি এই পৃষ্ঠা নিয়মিত ভাবে পৰীক্ষা কৰিব লাগপ আৰু সুৰক্ষিত থাকিবলৈ নিজৰ প্লাগ-ইন উন্নত কৰিব লাগে।
+ভৱিষ্যতে, Firefox এ আপোনাৰ কাৰণে প্লাগ-ইনসমূহ আপডেইট কৰিব। তেতিয়ালৈকে, আপুনি এই পৃষ্ঠা নিয়মিত ভাবে পৰীক্ষা কৰিব লাগপ আৰু সুৰক্ষিত থাকিবলৈ নিজৰ প্লাগ-ইন আপডেইট কৰিব লাগে।
 
 
 ;Which Plugins do I have?
@@ -164,7 +164,7 @@ Screenshot of Add-Ons manager
 
 
 ;Open the Tools menu.
-সৰঞ্জাম ৰ তালিকা খোলক।
+সঁজুলিসমূহ মেনু খোলক।
 
 
 ;Choose Add-ons.
@@ -176,11 +176,11 @@ Screenshot of Add-Ons manager
 
 
 ;Want to spread the word?
-Want to spread the word?
+ইয়াৰ বিষয়ে জনাব বিচাৰে?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+আপোনাৰ বন্ধুসকলক অনলাইন সুৰক্ষিত থকাত সহায় কৰক! আপোনাৰ ছাইটৰ বাবে এটা প্লাগিন চেক বেজ প্ৰাপ্ত কৰিবলে <a href="%(url)s">Firefox সহকাৰীসকল</a> ভ্ৰমণ কৰক।
 
 
 ;How do I disable a plugin?
@@ -196,7 +196,7 @@ Firefox ত:
 
 
 ;Click the Disable button.
-অসামৰ্থবান বুটাম টিপক।
+অসামৰ্থবান কৰক বুটাম টিপক।
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
@@ -204,7 +204,7 @@ Firefox ত:
 
 
 ;Mozilla Support
-Mozilla Support
+Mozilla সমৰ্থন
 
 
 ;Have more questions?
@@ -212,6 +212,6 @@ Mozilla Support
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
+অধিক সহায়ৰ বাবে <a href="%(sumo_url)s">support.mozilla.org</a> ভ্ৰমণ কৰক!
 
 

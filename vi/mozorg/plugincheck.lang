@@ -1,4 +1,5 @@
 ## active ##
+## java_notice ##
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 
 
@@ -19,7 +20,7 @@ Tìm hiểu
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-current version plugin
+phiên bản hiện tại plugin
 
 
 # This is a button informing the user that their plugin is up to date
@@ -52,11 +53,11 @@ Giữ các plugin của bạn được cập nhật giúp Firefox chạy an toà
 
 
 ;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+Chúng tôi nhận thấy có một vấn đề khi đang xác định các phiên bản hiện tại của Java plugin và báo cáo nhầm chúng như là nguy cơ.
 
 
 ;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+Chúng tôi đang sửa lỗi này. Trong lúc đo, bạn có thể <a href="%(download)s">tới website của Java</a> để tải bản mới nhất.
 
 
 ;Plugin Status
@@ -108,7 +109,7 @@ Lên đầu trang
 
 
 ;Frequently Asked Questions
-Frequently Asked Questions
+Câu hỏi thường gặp
 
 
 ;What is a plugin?
@@ -165,7 +166,7 @@ Chúng tôi tự động dò các phần bổ trợ của bạn như trên, đ�
 
 
 ;Open the Tools menu.
-Mở bảng chọn Công cụ.
+Mở trình đơn Công cụ.
 
 
 ;Choose Add-ons.
@@ -177,11 +178,11 @@ Nhấn vào thẻ plugin.
 
 
 ;Want to spread the word?
-Want to spread the word?
+Bạn muốn chia sẻ trang này?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+Hãy giúp các bạn của mình an toàn khi trực tuyến! Tới <a href="%(url)s">Firefox Affiliates</a> để tải một plugin kiểm tra cho trang của bạn.
 
 
 ;How do I disable a plugin?

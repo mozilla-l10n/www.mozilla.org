@@ -17,11 +17,11 @@
 
 # The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
 ;We are %(mozilla_wordmark)s
-നമ്മള്‍ %(mozilla_wordmark)s ആണു്
+%(mozilla_wordmark)s ഞങ്ങളുടെ അഭിമാനം
 
 
 ;Doing good is part of our code
-നല്ലതു് ചെയ്യുക എന്നതാണു് നമ്മുടെ കോഡ്
+നന്‍മയ്ക്കുവേണ്ടി പ്രവര്‍ത്തിക്കുന്നതാണ് ഞങ്ങളുടെ ധര്‍മ്മം
 
 ;Get involved
 പങ്കു് ചേരൂ
@@ -38,6 +38,7 @@
 
 ;We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
 We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
+സാങ്കേതികവിദഗ്ധര്‍, ചിന്തകര്‍, ഡവലപ്പര്‍മാര്‍ എന്നിവരൊന്നിച്ചൊരു കൂട്ടായ്മയാണു് ഇന്റര്‍നെറ്റിനെ ഉചിതമായ രീതിയില്‍ ഉപയോഗിയ്ക്കുവാന്‍ സാധ്യമാക്കുന്നതു്.
 
 
 ;Read more about our mission
@@ -46,15 +47,15 @@ We’re a global community of technologists, thinkers and builders working to ke
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Look</i> ahead
-<i>Look</i> ahead
+ധൈര്യമായി <i>മുമ്പോട്ട്</i> 
 
 
 ;Look ahead
-Look ahead
+ധൈര്യമായി മുമ്പോട്ട്
 
 
 ;We‘re bringing more people to the Web in more ways and from more places than ever before.
-We‘re bringing more people to the Web in more ways and from more places than ever before.
+എന്നത്തേക്കാള്‍ കൂടുതല്‍ വ്യക്തികള്‍ പല തരത്തില്‍ പല സ്ഥലങ്ങളില്‍ നിന്നും വെബിനു് സംഭാവനകള്‍ ഇപ്പോള്‍ നല്‍കുന്നു.
 
 
 ;Learn more about Firefox OS
@@ -72,12 +73,12 @@ We‘re bringing more people to the Web in more ways and from more places than e
 
 
 ;Get docs and demos, tools and tutorials and everything related to the Open Web.
-Get docs and demos, tools and tutorials and everything related to the Open Web.
+രേഖകള്‍, ഡെമോ, പ്രയോഗങ്ങള്‍, പ്രയോഗസഹായികള്‍ എന്നിങ്ങനെ ഓപ്പണ്‍ വെബിനാവശ്യമായവ എല്ലാം ലഭ്യമാക്കൂ.
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Forge</i> the future
-<i>Forge</i> the future
+വെബിന്റെ ഭാവി <i>രൂപപ്പെടുത്താം</i>
 
 
 ;Mozilla Festival
@@ -86,11 +87,11 @@ Get docs and demos, tools and tutorials and everything related to the Open Web.
 
 # This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 ;Forge the future<br> of the Web
-Forge the future<br> of the Web
+വെബിന്റെ ഭാവി <br> രൂപപ്പെടുത്താം.
 
 
 ;Learn from some of the most passionate thinkers and inventors from around the world.
-Learn from some of the most passionate thinkers and inventors from around the world.
+ലോകമെമ്പാടുനിന്നുള്ള പ്രമുഖ ചിന്തകര്‍, ഉപജ്ഞാതാക്കള്‍ എന്നിവരില്‍ നിന്നും കൂടുതല്‍ അറിയുക.
 
 
 ;Come to the Mozilla Festival
@@ -99,6 +100,7 @@ Learn from some of the most passionate thinkers and inventors from around the wo
 
 ;Different by&nbsp;design
 Different by&nbsp;design
+രൂപത്തിലും ഭാവത്തിലും വ്യത്യസ്ഥത
 
 
 # This string is displayed only for locales with a press agency blog
@@ -126,22 +128,22 @@ Different by&nbsp;design
 
 
 ;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
-Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
+മോസില്ലാ ഉല്‍പന്നങ്ങളും വെബ്സൈറ്റുകളും 70-ലേറെ ഭാഷകളില്‍ ലഭ്യമാണു്, ലോകമെമ്പാടുമുള്ള കൂട്ടായ്മയ്ക്കു് പ്രത്യേക നന്ദി. <a href="%(link_l10n)s">നിങ്ങളുടെ ഭാഷയിലേക്കും തര്‍ജ്ജമ ചെയ്യാം</a>.
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Watch</i> the watchers
-<i>Watch</i> the watchers
+നിരീക്ഷകരേ നിങ്ങള്‍ <i>നിരീക്ഷിയ്ക്കൂ</i>
 
 
 # Lightbeam promo
 ;See who’s watching you online
-See who’s watching you online
+ഓണ്‍ലൈനില്‍ നിങ്ങളെ നിരീക്ഷിക്കുന്നതാരെന്ന് കാണൂ.
 
 
 # Lightbeam promo
 ;Shine a light on the third parties that are collecting data about your online activity.
-Shine a light on the third parties that are collecting data about your online activity.
+നിങ്ങളുടെ ഓണ്‍ലൈന്‍ പ്രവര്‍ത്തനങ്ങളുടെ ഡേറ്റാ ശേഖരിയ്ക്കുന്ന തേര്‍ഡ് പാര്‍ട്ടികളെ കാണൂ.
 
 
 ;Install the Lightbeam add-on
@@ -155,7 +157,7 @@ Shine a light on the third parties that are collecting data about your online ac
 
 # Webmaker promo
 ;We teach the Web
-വെബ് അടിപൊളിയാക്കാം
+വെബി ഇനി നമ്മുടെ വരുതിയില്‍
 
 
 ;Let‘s explore, tinker and create together to build a Web that‘s open and made by everyone.
@@ -163,7 +165,7 @@ Shine a light on the third parties that are collecting data about your online ac
 
 
 ;Become a Webmaker
-ഒരു വെബ്മേക്കറാകൂ
+വെബ്മേക്കര്‍ ആകാം.
 
 
 # New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.

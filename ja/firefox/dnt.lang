@@ -21,11 +21,11 @@ Do Not Track は無効です
 
 
 ;Mozilla is a global, nonprofit organization dedicated to making the Web better. We emphasize principle over profit, and believe that the Web is a shared public resource to be cared for, not a commodity to be sold. We answer to no one but you and believe it is crucial to put you in control of your online experience. We are aiming to give you better insight and control into the ways your personal information is collected, used, stored and shared online.
-Mozilla は、よりよい Web を目指すグローバルな非営利の公益法人です。私たちは自身の利益よりも理念を追求しており、インターネットは商品ではなく大切な公共の資産であると考えています。これは、ほかならぬあなたへの答えであり、ユーザーが自らのオンライン体験をコントロールできることは不可欠な要素と考えています。私たちが目指しているのは、ユーザーが個人情報の収集・使用・保存・共有方法についてより深く理解し、コントロールできる環境作りです。
+Mozilla は、よりよい Web を目指すグローバルな非営利の公益法人です。私たちは自身の利益よりも理念を追求しており、インターネットは商品ではなく大切な公共の資産であると考えています。これは、ほかならぬあなたへの答えであり、ユーザが自らのオンライン体験をコントロールできることは不可欠な要素と考えています。私たちが目指しているのは、ユーザが個人情報の収集・使用・保存・共有方法についてより深く理解し、コントロールできる環境作りです。
 
 
 ;Mozilla Firefox offers a Do Not Track feature that lets you express a preference not to be tracked by websites. When the feature is enabled, Firefox will tell advertising networks and other websites and applications that you want to opt-out of tracking for purposes like behavioral advertising.
-Mozilla Firefox は、Web サイトによる追跡の拒否を表明する Do Not Track 機能を提供しています。この機能を有効にすることで Firefox は、広告ネットワークをはじめとする行動ターゲティング広告などを目的としたトラッキングに関し、ユーザーがオプトアウト (拒否) を希望していることをWeb サイト/アプリケーションに通知します。
+Mozilla Firefox は、Web サイトによる追跡の拒否を表明する Do Not Track 機能を提供しています。この機能を有効にすることで Firefox は、広告ネットワークをはじめとする行動ターゲティング広告などを目的としたトラッキングに関し、ユーザがオプトアウト (拒否) を希望していることをWeb サイト/アプリケーションに通知します。
 
 
 ;Frequently Asked <span>Questions</span>
@@ -37,7 +37,7 @@ Do Not Track とはなんですか？
 
 
 ;Do Not Track is a step toward putting you in control of the way your information is collected and used online. Do Not Track is a feature in Firefox that allows you to let a website know you would like to opt-out of third-party tracking for purposes including behavioral advertising. It does this by transmitting a Do Not Track HTTP header every time your data is requested from the Web.
-Do Not Track は、オンラインでの個人情報の使用・収集方法について、ユーザーが自らコントロールできる環境作りへの一歩です。Firefox の Do Not Track 機能を使用することで、行動ターゲティング広告などを目的としたサードパーティによる追跡のオプトアウト (拒否) を希望することを、Web サイトに通知できます。これは、ユーザーのデータが Web から要求される度に、HTTP ヘッダの一部として Do Not Track を送信することで行われます。
+Do Not Track は、オンラインでの個人情報の使用・収集方法について、ユーザが自らコントロールできる環境作りへの一歩です。Firefox の Do Not Track 機能を使用することで、行動ターゲティング広告などを目的としたサードパーティによる追跡のオプトアウト (拒否) を希望することを、Web サイトに通知できます。これは、ユーザのデータが Web から要求される度に、HTTP ヘッダの一部として Do Not Track を送信することで行われます。
 
 
 ;Is Do Not Track available on Firefox for Android?
@@ -53,7 +53,7 @@ Do Not Track は、広告をブロックしてくれるのですか。
 
 
 ;No, you will still see ads with Do Not Track enabled. However, Do Not Track may change the type of ads you see. For example, behavioral ads are targeted to your interests based on the websites you visit and the search terms you use. If you request that websites Do Not Track you, and the sites respect your privacy preferences, you will see more generic ads in place of behavioral ads.
-いいえ。Do Not Track を有効にしても広告は表示されます。ですが、Do Not Track によって、表示される広告の種類を変えることは可能です。例えば、行動ターゲティング広告は、訪問先の Web サイトや検索で使用された用語に基づきユーザーの関心事にターゲットを合わせています。Web サイトに Do Not Track をリクエストすることで、そのサイトはユーザーのプライバシー設定を尊重し、行動ターゲティング広告の場所にはより一般的な広告が表示されるようになります。
+いいえ。Do Not Track を有効にしても広告は表示されます。ですが、Do Not Track によって、表示される広告の種類を変えることは可能です。例えば、行動ターゲティング広告は、訪問先の Web サイトや検索で使用された用語に基づきユーザの関心事にターゲットを合わせています。Web サイトに Do Not Track をリクエストすることで、そのサイトはユーザのプライバシー設定を尊重し、行動ターゲティング広告の場所にはより一般的な広告が表示されるようになります。
 
 
 ;How does Do Not Track work with other privacy tools?
@@ -69,7 +69,7 @@ Do Not Track は、その他の Web での体験にも影響を及ぼします�
 
 
 ;Do Not Track may interfere with some personalized services you enjoy. For example, a Do Not Track request might mean you would have to type in your zip code each time you want to view a weather report, rather than seeing the weather automatically displayed. Personalization on websites can save you time and repetitive typing, but it requires data.
-Do Not Track は、ユーザーにとって便利なパーソナライズ機能に対応した一部サービスの妨げとなる可能性があります。例えば、Do Not Track のリクエストにより、これまでは自動で天気が表示されていた場合でも、天気予報を見たい地域の郵便番号を毎回入力しなければならなくなることが考えられます。Web サイトのパーソナライズ機能は時間の節約になり、同じ内容を何度も入力する手間を省いてくれますが、パーソナライズに必要となるユーザーのデータを要求します。
+Do Not Track は、ユーザにとって便利なパーソナライズ機能に対応した一部サービスの妨げとなる可能性があります。例えば、Do Not Track のリクエストにより、これまでは自動で天気が表示されていた場合でも、天気予報を見たい地域の郵便番号を毎回入力しなければならなくなることが考えられます。Web サイトのパーソナライズ機能は時間の節約になり、同じ内容を何度も入力する手間を省いてくれますが、パーソナライズに必要となるユーザのデータを要求します。
 
 
 ;How do I enable Do Not Track in Firefox?
@@ -109,7 +109,7 @@ Firefox の<a href="%s">プライベートブラウジング機能</a> — オ�
 
 
 ;<a href="%(url1)s">Managing cookies</a> in Firefox &#8212; lets you control how <a href="%(url2)s">cookies</a> are saved on your computer
-Firefox の<a href="%(url1)s">Cookie管理機能</a> — ユーザーの PC 上での <a href="%(url2)s">Cookie</a> の保存方法をコントロールできます。
+Firefox の<a href="%(url1)s">Cookie管理機能</a> — ユーザの PC 上での <a href="%(url2)s">Cookie</a> の保存方法をコントロールできます。
 
 
 ;<a href="%s">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from Mozilla’s Technology and Privacy Officer
@@ -133,7 +133,7 @@ W3C <a href="%s">トラッキング保護ワーキンググループ</a>
 
 
 ;<a href="%s">Ghostery</a> &#8212; a tool that lets you learn which sites are tracking you online
-<a href="%s">「Ghostery」</a> — オンライン上でユーザーのトラッキング活動を行っているサイトについて知ることのできるツール
+<a href="%s">「Ghostery」</a> — オンライン上でユーザのトラッキング活動を行っているサイトについて知ることのできるツール
 
 
 ;See <a href="%s">where your data goes</a> before you click &#8212; an image from the Future of Privacy Forum

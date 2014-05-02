@@ -1,15 +1,119 @@
 ## active ##
 ## contribute_faces ##
+# Used for HTML title attribute
 ;Get Involved: Volunteer Opportunities at Mozilla
 Implică-te: Oportunități de voluntariat la Mozilla
 
 
-;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
-Acest videoclip necesită un navigator cu suport pentru formatul video deschis sau pentru <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+;The success of our mission depends on participation from people like you.
+Succesul misiunii noastre depinde de participarea unor oameni ca și dumneavoastră.
 
 
-;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
-Nu trebuie să fii un guru C++ (sau să știi ce înseamnă asta!) ca să te implici.<br><b>Trebuie doar să iubești Internetul.</b>
+;Proudly non-profit, Mozilla makes products like Firefox with a mission to keep the power of the Web in the hands of users everywhere.
+Organizație nonprofit și mândră de asta, Mozilla realizează produse precum Firefox cu misiunea de a păstra puterea internetului în mâinile utilizatorilor de pretutindeni.
+
+
+# Used as caption of the video in the new design
+;We are Mozillians
+Noi suntem Mozillieni
+
+
+;This video shows members of the worldwide Mozilla community.
+Acest videoclip arată membri din toată lumea ai comunității Mozilla.
+
+
+# L10n: Used as a label for a button that plays a video.
+;Play video
+Pornește videoclip
+
+
+# L10n: Used as a label for a button that pauses a video.
+;Pause video
+Oprește videoclip
+
+
+;Want to help?
+Ai nevoie de ajutor?
+
+
+;Area of interest?
+Domeniu de interes?
+
+
+;Helping Users
+Ajutarea utilizatorilor
+
+
+;Testing and QA
+Testare și asigurarea calității
+
+
+;Coding
+Programare
+
+
+;Marketing
+Marketing{ok}
+
+
+;Localization and Translation
+Localizare și traducere
+
+
+;Web Development
+Dezvoltare web
+
+
+;Firefox Marketplace
+Firefox Marketplace
+
+
+;Add-ons
+Add-ons
+
+
+;Visual Design
+Design vizual
+
+
+;Documentation and Writing
+Documentație și redactare
+
+
+;Education
+Educație
+
+
+;Other
+Altele
+
+
+;I have a suggestion for Firefox
+Am o sugestie pentru Firefox
+
+
+;I need help with a Firefox issue
+Am nevoie de ajutor cu o problemă Firefox
+
+
+;YOUR EMAIL HERE
+EMAILUL TĂU AICI
+
+
+;Send us a note and we can get you started right away.
+Trimite-ne un mesaj și te putem ajuta să începi imediat.
+
+
+;Hi, I’m interested in…
+Bună, sunt interesat de…
+
+
+;I’d like to receive regular contribution news by email
+Aș dori să primesc prin email știri periodice despre cum pot să contribui
+
+
+;Submit&nbsp;»
+Trimite&nbsp;»
 
 
 ;Please enter a valid email address.
@@ -32,80 +136,109 @@ Te rugăm să ne spui mai multe despre interesele tale.
 Răspunsul tău CAPTCHA nu a fost corect. Te rugăm să încerci din nou.
 
 
-;Want to help?
-Ai nevoie de ajutor?
-
-
-;YOUR EMAIL HERE
-EMAILUL TĂU AICI
-
-
-;Submit&nbsp;»
-Trimite&nbsp;»
-
-
-;Send us a note and we can get you started right away.
-Trimite-ne un mesaj și te putem ajuta să începi imediat.
-
-
-;Hi, I’m interested in…
-Bună, sunt interesat de…
-
-
-;I’d like to receive regular contribution news by email
-Aș dori să primesc prin email știri periodice despre cum pot să contribui
-
-
 ;Thank you for getting in touch.
 Îți mulțumim că ne-ai contactat.
+
+
+;We are sorry, but there was a problem with our system. Please try again later!
+Ne pare rău, dar am întâmpinat o problemă de sistem. Te rugăm să încerci din nou mai târziu!
 
 
 ;Someone from Mozilla will get back to you soon with information about how to get involved. While you’re waiting, browse through some of the volunteer opportunities available below.
 Cineva de la Mozilla te va contacta în scurt timp cu informații despre cum te poți implica. În timp ce aștepți, uittă-te prin oportunitățile de voluntariat disponibile mai jos.
 
 
+;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
+Nu trebuie să fii un guru C++ (sau să știi ce înseamnă asta!) ca să te implici.<br><b>Trebuie doar să iubești Internetul.</b>
+
+
+;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
+Înregistrează-te pentru un buletin informativ săptămânal plin de știri despre comunitate și despre oportunitățile de contribuire.
+
+
+# Subject of email sent to end-users
+;Welcome to Mozilla!
+Bun venit la Mozilla!
+
+
 ;Find an opportunity
 Găsește o oportunitate
 
 
-;Sort By:
-Sortare după:
-
-
-;Interest
-Interes
-
-
-;Location
-Locație
-
-
-;Newsletter
-Buletin informativ
-
-
-;Helping Users
-Ajutarea utilizatorilor
-
-
-;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
-Ești interesat să îi ajuti pe alții să obțină cât mai multe beneficii din utilizarea Firefox sau a altor proiecte Mozilla? Procesul nostru de suport se bazează pe contribuitori entuziaști ca tine.
+# Helping users
+;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
+Procesul nostru de suport se bazează pe contribuitori entuziaști așa ca tine pentru a-i ajuta pe ceilalți să obțină cât mai multe beneficii din produsele Mozilla. Descoperă mai multe despre <a href="%(fx_support_url)s">cum poți ajuta utilizatorii Firefox</a> și <a href="%(tb_support_url)s">despre cum poți ajuta utilizatorii Thunderbird</a>.
 
 
 ;Quality Assurance
 Asigurarea calității
 
 
-;Coding
-Programare
+;Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+
+
+;<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+
+
+# Coding
+;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
+<a href="%(dev_intro_url)s">Dezvoltatorii pot ajuta</a> Mozilla adăugând noi funcționalități, făcând tehnologia noastră mai compactă și mai rapidă și făcând procesul de dezvoltare mai ușor pentru ceilalți. Spune-ne <a href="%(what_url)s">limbajul tău de programare preferat</a> și vom găsi un proiect pentru tine.
 
 
 ;Spread the Word
 Răspândește vestea
 
 
+;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
+Ajută-ne să răspândim vestea despre cum Firefox și alte proiecte Mozilla construiesc un Internet mai bun. Împărtășește Firefox cu lumea <a href="%(affiliates_url)s">devenind membru Afiliat</a> și apoi uită-te peste <a href="%(marketing_url)s">Ghidul de marketing</a> pentru a descoperi mai multe modalități de a te implica.
+
+
+;Localization
+Localizare
+
+
+;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
+Implică-te cu Mozilla făcând Firefox, Thunderbird și alte proiecte <a href="%(l10n_url)s">disponibile in limba ta</a>. De asemenea, ajută-ne să spunem lumii despre cum construiește Mozilla un Internet mai bun <a href="%(l10n_web_url)s">traducând conținutul</a> paginilor noastre web.
+
+
+# Web development
+;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
+Paginile noastre web sunt deschise dezvoltatorilor web. <a href="%(webdev_url)s">Găsește un proiect web</a> pentru a începe. Aptitudinile tale web pot fi de asemenea folosite pentru <a href="%(gaia_url)s">a ne ajuta să construim noul nostru sistem de operare Firefox OS</a>.
+
+
+# Firefox Marketplace
+;<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+
+
+# Add-ons
+;Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+
+
+# Visual design
+;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
+Vrem să oferim posibilitatea artiștilor să umple Internetul și oamenii cu modele inspirate de Mozilla. Uită-te peste <a href="%(creative_url)s">Blogul echipei creative</a> pentru mai multe informații despre cum poți participa.
+
+
+# Documentation and writing
+;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
+Rețeaua de Dezvoltatori Mozilla (MDN) este o pepinieră de informații cu privire la tehnologiile Mozilla. Ajută-ne <a href="%(dev_url)s">să ne îmbunătățim documentația</a> scriind conținut nou, corectând materialul deja existent sau traducând conținut în limbi noi.
+
+
+# Education
+;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
+Ajută la formarea unei generații de creatori web, învățându-i pe ceilalți cum funcționează Internetul. <a href="%(moz_webmaker)s ">Explorează proiectul Mozilla Webmaker</a> sau începe să îi înveți pe ceilalți prin <a href="%(webmaker)s"> organizarea unui eveniment astăzi în comunitatea ta</a>.
+
+
 ;map
 hartă
+
+
+;Find Mozillians near you
+Găsește Mozillieni din zona ta
 
 
 ;US and Canada
@@ -132,60 +265,40 @@ Asia și Pacificul de Sud
 Antarctica{ok}
 
 
-;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
-Înregistrează-te pentru un buletin informativ săptămânal plin de știri despre comunitate și despre oportunitățile de contribuire.
+;Sort By:
+Sortare după:
+
+
+;Interest
+Interes
+
+
+;Location
+Locație
+
+
+;Newsletter
+Buletin informativ
+
+
+;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
+Ești interesat să îi ajuti pe alții să obțină cât mai multe beneficii din utilizarea Firefox sau a altor proiecte Mozilla? Procesul nostru de suport se bazează pe contribuitori entuziaști ca tine.
 
 
 ;Thank you!
 Îți mulțumim!
 
 
-;Localization
-Localizare
-
-
 ;Accessibility is about making things work for everyone. Help <a href="%(access_url)s">create tools and resources for Firefox end users with disabilities</a> and help <a href="%(access_wiki)s">make web content available to non visual agents</a> such as screen readers.
 Accesibilitatea înseamnă a face ca lucrurile să funcționeze pentru toată lumea. Ajută la <a href="%(access_url)s">crearea de instrumente și de resurse pentru utilizatorii Firefox cu dizabilități</a> și ajută la a <a href="%(access_wiki)s">face conținutul web disponibil agenților non-vizuali</a>, precum cititorii de ecran.
-
-
-;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
-Ajută-ne să răspândim vestea despre cum Firefox și alte proiecte Mozilla construiesc un Internet mai bun. Împărtășește Firefox cu lumea <a href="%(affiliates_url)s">devenind membru Afiliat</a> și apoi uită-te peste <a href="%(marketing_url)s">Ghidul de marketing</a> pentru a descoperi mai multe modalități de a te implica.
-
-
-;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
-Asigurarea calității este una din cele mai ușoare modalități de a face primii pași cu Mozilla și este o modalitate grozavă de a te familiariza cu codul și uneltele noastre. Ajută-ne <a href="%(qa_bugs_url)s">să găsim defecțiunile</a> Firefox, <a href="%(qa_web_url)s"> să testăm paginile web Mozilla</a> sau află mai multe despre <a href="%(qa_url)s">alte oportunități de testare</a>.
 
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!
 Fii parte din echipa de cercetare&mdash; fie că vrei să fii un <a href="%(survey_url)s">participant într-un studiu viitor</a>, <a href="%(test_email)s">să organizezi teste de utilizabilitate</a> pe cont propriu sau <a href="%(test_pilot)s"> să analizezi informațiile din Test Pilot </a>&mdash;am fi încântați să ni te alături!
 
 
-;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
-Implică-te cu Mozilla făcând Firefox, Thunderbird și alte proiecte <a href="%(l10n_url)s">disponibile in limba ta</a>. De asemenea, ajută-ne să spunem lumii despre cum construiește Mozilla un Internet mai bun <a href="%(l10n_web_url)s">traducând conținutul</a> paginilor noastre web.
-
-
-;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
-Rețeaua de Dezvoltatori Mozilla (MDN) este o pepinieră de informații cu privire la tehnologiile Mozilla. Ajută-ne <a href="%(dev_url)s">să ne îmbunătățim documentația</a> scriind conținut nou, corectând materialul deja existent sau traducând conținut în limbi noi.
-
-
-;Area of interest?
-Domeniu de interes?
-
-
-;I need help with a Firefox issue
-Am nevoie de ajutor cu o problemă Firefox
-
-
-;I have a suggestion for Firefox
-Am o sugestie pentru Firefox
-
-
 ;Facebook
 Facebook{ok}
-
-
-;Education
-Educație
 
 
 ;Firefox Affiliates
@@ -208,91 +321,21 @@ Mozilla{ok}
 Meniu
 
 
-;Web Development
-Dezvoltare web
-
-
-;Visual Design
-Design vizual
-
-
 ;Twitter
 Twitter{ok}
 
 
-;We are sorry, but there was a problem with our system. Please try again later!
-Ne pare rău, dar am întâmpinat o problemă de sistem. Te rugăm să încerci din nou mai târziu!
+;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+Acest videoclip necesită un navigator cu suport pentru formatul video deschis sau pentru <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
 
 
-;Other
-Altele
+# Old string, will be removed when all locales have the new text
+;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
+Asigurarea calității este una din cele mai ușoare modalități de a face primii pași cu Mozilla și este o modalitate grozavă de a te familiariza cu codul și uneltele noastre. Ajută-ne <a href="%(qa_bugs_url)s">să găsim defecțiunile</a> Firefox, <a href="%(qa_web_url)s"> să testăm paginile web Mozilla</a> sau află mai multe despre <a href="%(qa_url)s">alte oportunități de testare</a>.
 
 
-;Marketing
-Marketing{ok}
-
-
-;Testing and QA
-Testare și asigurarea calității
-
-
-;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
-Paginile noastre web sunt deschise dezvoltatorilor web. <a href="%(webdev_url)s">Găsește un proiect web</a> pentru a începe. Aptitudinile tale web pot fi de asemenea folosite pentru <a href="%(gaia_url)s">a ne ajuta să construim noul nostru sistem de operare Firefox OS</a>.
-
-
-;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
-Procesul nostru de suport se bazează pe contribuitori entuziaști așa ca tine pentru a-i ajuta pe ceilalți să obțină cât mai multe beneficii din produsele Mozilla. Descoperă mai multe despre <a href="%(fx_support_url)s">cum poți ajuta utilizatorii Firefox</a> și <a href="%(tb_support_url)s">despre cum poți ajuta utilizatorii Thunderbird</a>.
-
-
-;Documentation and Writing
-Documentație și redactare
-
-
-;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
-Vrem să oferim posibilitatea artiștilor să umple Internetul și oamenii cu modele inspirate de Mozilla. Uită-te peste <a href="%(creative_url)s">Blogul echipei creative</a> pentru mai multe informații despre cum poți participa.
-
-
+# Old string, will be removed when all locales have the new text
 ;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
 Produsele Mozilla au un sistem de suplimente puternic care îți permite să faci modificări minore sau adaosuri majore. Află mai multe despre cum să <a href="%(addons_url)s">construiești o extensie</a>. Pentru dezvoltatorii experimentați, află cum să <a href="%(addons_wiki)s">devii un editor AMO</a>.
-
-
-;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
-Ajută la formarea unei generații de creatori web, învățându-i pe ceilalți cum funcționează Internetul. <a href="%(moz_webmaker)s ">Explorează proiectul Mozilla Webmaker</a> sau începe să îi înveți pe ceilalți prin <a href="%(webmaker)s"> organizarea unui eveniment astăzi în comunitatea ta</a>.
-
-
-;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
-<a href="%(dev_intro_url)s">Dezvoltatorii pot ajuta</a> Mozilla adăugând noi funcționalități, făcând tehnologia noastră mai compactă și mai rapidă și făcând procesul de dezvoltare mai ușor pentru ceilalți. Spune-ne <a href="%(what_url)s">limbajul tău de programare preferat</a> și vom găsi un proiect pentru tine.
-
-
-;Localization and Translation
-Localizare și traducere
-
-
-# Subject of email sent to end-users
-;Welcome to Mozilla!
-Bun venit la Mozilla!
-
-
-# L10n: Used as a label for a button that plays a video.
-;Play video
-Pornește videoclip
-
-
-# L10n: Used as a label for a button that pauses a video.
-;Pause video
-Oprește videoclip
-
-
-# Used as caption of the video in the new design
-;We are Mozillians
-Noi suntem Mozillieni
-
-
-;This video shows members of the worldwide Mozilla community.
-Acest videoclip arată membri din toată lumea ai comunității Mozilla.
-
-
-;Find Mozillians near you
-Găsește Mozillieni din zona ta
 
 

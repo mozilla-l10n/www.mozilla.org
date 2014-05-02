@@ -1,15 +1,119 @@
 ## active ##
 ## contribute_faces ##
+# Used for HTML title attribute
 ;Get Involved: Volunteer Opportunities at Mozilla
 Ymuno: Cyfleoedd Gwirfoddoli gyda Mozilla
 
 
-;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
-Mae'r fideo angen porwr sy'n cynnal fideo agored neu'r <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+;The success of our mission depends on participation from people like you.
+Mae llwyddiant ein hymdrechion yn dibynnu ar gyfraniadau gan bobl fel chi.
 
 
-;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
-Does dim rhaid bod yn arbenigwr C++ (neu hyd yn oed wybod beth yw ystyr hynny!) i ymuno.<br><b>Dim ond eich bod wrth eich bodd gyda'r We.</b>
+;Proudly non-profit, Mozilla makes products like Firefox with a mission to keep the power of the Web in the hands of users everywhere.
+Yn falch o fod yn ddi-elw, mae Mozilla yn gwneud cynnyrch fel Firefox gyda chenhadaeth i gadw grym y We yn nwylo defnyddwyr ym mhob man.
+
+
+# Used as caption of the video in the new design
+;We are Mozillians
+Mozilliaid ydym ni
+
+
+;This video shows members of the worldwide Mozilla community.
+Mae'r fideo yn dangos aelodau cymuned Mozilla drwy'r byd i gyd.
+
+
+# L10n: Used as a label for a button that plays a video.
+;Play video
+Chwarae'r fideo
+
+
+# L10n: Used as a label for a button that pauses a video.
+;Pause video
+Oedi'r fideo
+
+
+;Want to help?
+Hoffech chi helpu?
+
+
+;Area of interest?
+Ardal o ddiddordeb?
+
+
+;Helping Users
+Helpu Defnyddwyr
+
+
+;Testing and QA
+Profi ac Ansawdd
+
+
+;Coding
+Codio
+
+
+;Marketing
+Marchnata
+
+
+;Localization and Translation
+Lleoleiddio a Chyfieithu
+
+
+;Web Development
+Datblygiad Gwe
+
+
+;Firefox Marketplace
+Firefox Marketplace
+
+
+;Add-ons
+Add-ons
+
+
+;Visual Design
+Cynllunio Gweledol
+
+
+;Documentation and Writing
+Dogfennaeth ac Ysgrifennu
+
+
+;Education
+Addysg
+
+
+;Other
+Arall
+
+
+;I have a suggestion for Firefox
+Mae gen i awgrym ar gyfer Firefox
+
+
+;I need help with a Firefox issue
+Rwyf Angen cymorth gyda mater yn ymwneud â Firefox
+
+
+;YOUR EMAIL HERE
+EICH E-BOST YMA
+
+
+;Send us a note and we can get you started right away.
+Anfonwch neges a gallwn eich cychwyn yn syth.
+
+
+;Hi, I’m interested in…
+Mae gen i ddiddordeb mewn…
+
+
+;I’d like to receive regular contribution news by email
+Hoffwn i dderbyn newyddion cyfrannu rheolaidd drwy e-bost
+
+
+;Submit&nbsp;»
+Cyflwyno&nbsp;»
 
 
 ;Please enter a valid email address.
@@ -32,80 +136,109 @@ Dwedwch fwy am eich diddordebau.
 Nid yw eich ymateb CAPTCHA yn cydweddu. Ceisiwch eto.
 
 
-;Want to help?
-Hoffech chi helpu?
-
-
-;YOUR EMAIL HERE
-EICH E-BOST YMA
-
-
-;Submit&nbsp;»
-Cyflwyno&nbsp;»
-
-
-;Send us a note and we can get you started right away.
-Anfonwch neges a gallwn eich cychwyn yn syth.
-
-
-;Hi, I’m interested in…
-Mae gen i ddiddordeb mewn…
-
-
-;I’d like to receive regular contribution news by email
-Hoffwn i dderbyn newyddion cyfrannu rheolaidd drwy e-bost
-
-
 ;Thank you for getting in touch.
 Diolch am gysylltu.
+
+
+;We are sorry, but there was a problem with our system. Please try again later!
+Ymddiheuriadau, ond bu problem gyda'n system. Ceisiwch eto yn nes ymlaen!
 
 
 ;Someone from Mozilla will get back to you soon with information about how to get involved. While you’re waiting, browse through some of the volunteer opportunities available below.
 Bydd rhywun o Mozilla'n cysylltu â chi'n fuan gyda gwybodaeth am sut fedrwch chi gyfrannu. Tra'ch bod chi'n aros edrychwch ar rhai o'r cyfleoedd gwirfoddoli isod.
 
 
+;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
+Does dim rhaid bod yn arbenigwr C++ (neu hyd yn oed wybod beth yw ystyr hynny!) i ymuno.<br><b>Dim ond eich bod wrth eich bodd gyda'r We.</b>
+
+
+;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
+Ymunwch er mwyn derbyn cylchlythyr wythnosol sy'n llawn gwybodaeth cymunedol a chyfleoedd i gyfrannu.
+
+
+# Subject of email sent to end-users
+;Welcome to Mozilla!
+Croeso i Mozilla!
+
+
 ;Find an opportunity
 Cyfleoedd
 
 
-;Sort By:
-Trefnu:
-
-
-;Interest
-Diddordeb
-
-
-;Location
-Lleoliad
-
-
-;Newsletter
-Cylchlythyr
-
-
-;Helping Users
-Helpu Defnyddwyr
-
-
-;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
-Diddordeb mewn helpu pobl eraill i gael y mwyaf allan o ddefnyddio Firefox a phrojectau eraill Mozilla? Mae ein prosesau cefnogi yn dibynnu ar gyfranwyr brwdfrydig fel chi.
+# Helping users
+;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
+Mae ein proses cymorth yn dibynnu ar gyfranwyr brwdfrydig fel chi i helpu eraill i gael y gorau allan o gynnyrch Mozilla. Canfod mwy am<a href="%(fx_support_url)s">sut i helpu defnyddwyr Firefox</a> a <a href="%(tb_support_url)s">sut i helpu defnyddwyr Thunderbird</a>.
 
 
 ;Quality Assurance
 Sicrwydd Ansawdd
 
 
-;Coding
-Codio
+;Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+
+
+;<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+
+
+# Coding
+;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
+Gall <a href="%(dev_intro_url)s">Datblygwyr helpu</a> Mozilla trwy ychwanegu nodweddion newydd, gan wneud ein technoleg yn llai ac yn gyflymach a gwneud datblygiadau'n haws i bobl eraill. Dywedwch wrthym <a href="%(what_url)s">beth yw eich hoff iaith raglennu</a> a byddwn yn dod o hyd i'r prosiect i chi.
 
 
 ;Spread the Word
 Sôn wrth Bawb
 
 
+;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
+Helpwch ni i sôn wrth bawb sut mae Firefox a phrojectau eraill Mozilla yn adeiladu gwell Rhyngrwyd. Rhannwch Firefox gyda'r byd drwy <a href="%(affiliates_url)s">ddod yn Aelod Cysylltiedig</a> a darllen ein <a href="%(marketing_url)s">Canllaw Marchnata</a> am ragor o ffyrdd i gyfrannu.
+
+
+;Localization
+Lleoleiddio
+
+
+;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
+Ymunwch â Mozilla trwy ddarparu Firefox, Thunderbird a phrosiectau<a href="%(l10n_url)s">eraill sydd ar gael yn eich iaith</a>. Hefyd yn ein helpu i ddweud wrth y byd sut mae Mozilla yn adeiladu gwell Rhyngrwyd gan <a href="%(l10n_web_url)s">gyfieithu cynnwys</a> ar ein gwefannau.
+
+
+# Web development
+;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
+Mae ein safleoedd gwe ar agor ar gyfer datblygwyr gwe i hacio arnynt. <a href="%(webdev_url)s">Dod o hyd i brosiect gwefan</a> i ddechrau arno. Gall eich sgiliau ar y we hefyd gael eu defnyddio i <a href="%(gaia_url)s">helpu i adeiladu ein Firefox OS newydd</a>.
+
+
+# Firefox Marketplace
+;<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+
+
+# Add-ons
+;Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+
+
+# Visual design
+;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
+Rydym am ei gwneud yn bosibl i artistiaid orchuddio'r we a phobl gyda dyluniadau a ysbrydolwyd gan Mozilla. Edrychwch ar flog tîm <a href="%(creative_url)s">Creadigol </a> am ragor o wybodaeth ar sut i gymryd rhan.
+
+
+# Documentation and writing
+;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
+Mae'r Rhwydwaith Datblygwr Mozilla yn ganolbwynt ar gyfer gwybodaeth am dechnolegau Mozilla. Helpwch<a href="%(dev_url)s">i wneud ein dogfennau'n well</a> drwy ysgrifennu cynnwys newydd, cywiro deunydd cyfredol neu gyfieithu cynnwys i ieithoedd newydd.
+
+
+# Education
+;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
+Helpwch greu cenhedlaeth o gwewneuthwyr trwy addysgu pobl eraill sut mae'r we yn gweithio. <a href="%(moz_webmaker)s ">Archwiliwch beth mae prosiect Webmaker Mozilla yn ei wneud</a> neu gychwyn dysgu eraill trwy <a href="%(webmaker)s">ddarparu ddigwyddiad yn eich cymuned chi heddiw</a>.
+
+
 ;map
 map {ok}
+
+
+;Find Mozillians near you
+Dod o hyd i Fozilliaid yn lleol
 
 
 ;US and Canada
@@ -132,60 +265,40 @@ Asia a De'r Môr Tawel
 Antarctica {ok}
 
 
-;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
-Ymunwch er mwyn derbyn cylchlythyr wythnosol sy'n llawn gwybodaeth cymunedol a chyfleoedd i gyfrannu.
+;Sort By:
+Trefnu:
+
+
+;Interest
+Diddordeb
+
+
+;Location
+Lleoliad
+
+
+;Newsletter
+Cylchlythyr
+
+
+;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
+Diddordeb mewn helpu pobl eraill i gael y mwyaf allan o ddefnyddio Firefox a phrojectau eraill Mozilla? Mae ein prosesau cefnogi yn dibynnu ar gyfranwyr brwdfrydig fel chi.
 
 
 ;Thank you!
 Diolch yn fawr!
 
 
-;Localization
-Lleoleiddio
-
-
 ;Accessibility is about making things work for everyone. Help <a href="%(access_url)s">create tools and resources for Firefox end users with disabilities</a> and help <a href="%(access_wiki)s">make web content available to non visual agents</a> such as screen readers.
 Mae hygyrchedd yn ymwneud â gwneud pethau i weithio i bawb. Cynorthwyo i <a href="%(access_url)s">greu offer ac adnoddau ar gyfer defnyddwyr Firefox sydd ag anableddau</a> a helpu i <a href="%(access_wiki)s">wneud cynnwys ar y we sydd ar gael i asiantau anweledol</a> megis darllenwyr sgrin.
-
-
-;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
-Helpwch ni i sôn wrth bawb sut mae Firefox a phrojectau eraill Mozilla yn adeiladu gwell Rhyngrwyd. Rhannwch Firefox gyda'r byd drwy <a href="%(affiliates_url)s">ddod yn Aelod Cysylltiedig</a> a darllen ein <a href="%(marketing_url)s">Canllaw Marchnata</a> am ragor o ffyrdd i gyfrannu.
-
-
-;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
-Mae profion sicrwydd ansawdd yn un o'r ffyrdd hawsaf i ddechrau arni gyda Mozilla ac mae'n ffordd wych o ymgyfarwyddo â'n cod a'n offer. Helpwch ni <a href="%(qa_bugs_url)s">i gasglu gwallau</a> yn Firefox, <a href="%(qa_web_url)s">profi gwefannau prawf Mozilla</a> neu i ddysgu mwy am <a href="%(qa_url)s">gyfleoedd profi eraill</a>.
 
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!
 Byddwch yn rhan o'r tîm ymchwil&mdash;p'un ai ydych am fod yn <a href="%(survey_url)s">gyfranogwr mewn astudiaeth sydd ar y gweill</a>, <a href="%(test_email)s">a cynnal profion defnyddioldeb</a> ar eich pen eich hun neu <a href="%(test_pilot)s">yn dadansoddi data Peilot Prawf </a>&mdash;byddwn wrth ein bodd petai chi'n ymuno â ni!
 
 
-;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
-Ymunwch â Mozilla trwy ddarparu Firefox, Thunderbird a phrosiectau<a href="%(l10n_url)s">eraill sydd ar gael yn eich iaith</a>. Hefyd yn ein helpu i ddweud wrth y byd sut mae Mozilla yn adeiladu gwell Rhyngrwyd gan <a href="%(l10n_web_url)s">gyfieithu cynnwys</a> ar ein gwefannau.
-
-
-;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
-Mae'r Rhwydwaith Datblygwr Mozilla yn ganolbwynt ar gyfer gwybodaeth am dechnolegau Mozilla. Helpwch<a href="%(dev_url)s">i wneud ein dogfennau'n well</a> drwy ysgrifennu cynnwys newydd, cywiro deunydd cyfredol neu gyfieithu cynnwys i ieithoedd newydd.
-
-
-;Area of interest?
-Ardal o ddiddordeb?
-
-
-;I need help with a Firefox issue
-Rwyf Angen cymorth gyda mater yn ymwneud â Firefox
-
-
-;I have a suggestion for Firefox
-Mae gen i awgrym ar gyfer Firefox
-
-
 ;Facebook
 Facebook {ok}
-
-
-;Education
-Addysg
 
 
 ;Firefox Affiliates
@@ -208,91 +321,21 @@ Diolch am ymuno!
 Dewislen
 
 
-;Web Development
-Datblygiad Gwe
-
-
-;Visual Design
-Cynllunio Gweledol
-
-
 ;Twitter
 Twitter {ok}
 
 
-;We are sorry, but there was a problem with our system. Please try again later!
-Ymddiheuriadau, ond bu problem gyda'n system. Ceisiwch eto yn nes ymlaen!
+;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+Mae'r fideo angen porwr sy'n cynnal fideo agored neu'r <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
 
 
-;Other
-Arall
+# Old string, will be removed when all locales have the new text
+;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
+Mae profion sicrwydd ansawdd yn un o'r ffyrdd hawsaf i ddechrau arni gyda Mozilla ac mae'n ffordd wych o ymgyfarwyddo â'n cod a'n offer. Helpwch ni <a href="%(qa_bugs_url)s">i gasglu gwallau</a> yn Firefox, <a href="%(qa_web_url)s">profi gwefannau prawf Mozilla</a> neu i ddysgu mwy am <a href="%(qa_url)s">gyfleoedd profi eraill</a>.
 
 
-;Marketing
-Marchnata
-
-
-;Testing and QA
-Profi ac Ansawdd
-
-
-;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
-Mae ein safleoedd gwe ar agor ar gyfer datblygwyr gwe i hacio arnynt. <a href="%(webdev_url)s">Dod o hyd i brosiect gwefan</a> i ddechrau arno. Gall eich sgiliau ar y we hefyd gael eu defnyddio i <a href="%(gaia_url)s">helpu i adeiladu ein Firefox OS newydd</a>.
-
-
-;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
-Mae ein proses cymorth yn dibynnu ar gyfranwyr brwdfrydig fel chi i helpu eraill i gael y gorau allan o gynnyrch Mozilla. Canfod mwy am<a href="%(fx_support_url)s">sut i helpu defnyddwyr Firefox</a> a <a href="%(tb_support_url)s">sut i helpu defnyddwyr Thunderbird</a>.
-
-
-;Documentation and Writing
-Dogfennaeth ac Ysgrifennu
-
-
-;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
-Rydym am ei gwneud yn bosibl i artistiaid orchuddio'r we a phobl gyda dyluniadau a ysbrydolwyd gan Mozilla. Edrychwch ar flog tîm <a href="%(creative_url)s">Creadigol </a> am ragor o wybodaeth ar sut i gymryd rhan.
-
-
+# Old string, will be removed when all locales have the new text
 ;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
 Mae gan gynhyrch Mozilla system estyniad pwerus sy'n eich galluogi i wneud newidiadau bach neu ychwanegiadau mawr. Dysgwch ragor am sut i <a href="%(addons_url)s">adeiladu ychwanegyn</a>. Ar gyfer datblygwyr profiadol, dysgwch sut i <a href="%(addons_wiki)s">ddod yn olygydd AMO</a>.
-
-
-;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
-Helpwch greu cenhedlaeth o gwewneuthwyr trwy addysgu pobl eraill sut mae'r we yn gweithio. <a href="%(moz_webmaker)s ">Archwiliwch beth mae prosiect Webmaker Mozilla yn ei wneud</a> neu gychwyn dysgu eraill trwy <a href="%(webmaker)s">ddarparu ddigwyddiad yn eich cymuned chi heddiw</a>.
-
-
-;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
-Gall <a href="%(dev_intro_url)s">Datblygwyr helpu</a> Mozilla trwy ychwanegu nodweddion newydd, gan wneud ein technoleg yn llai ac yn gyflymach a gwneud datblygiadau'n haws i bobl eraill. Dywedwch wrthym <a href="%(what_url)s">beth yw eich hoff iaith raglennu</a> a byddwn yn dod o hyd i'r prosiect i chi.
-
-
-;Localization and Translation
-Lleoleiddio a Chyfieithu
-
-
-# Subject of email sent to end-users
-;Welcome to Mozilla!
-Croeso i Mozilla!
-
-
-# L10n: Used as a label for a button that plays a video.
-;Play video
-Chwarae'r fideo
-
-
-# L10n: Used as a label for a button that pauses a video.
-;Pause video
-Oedi'r fideo
-
-
-# Used as caption of the video in the new design
-;We are Mozillians
-Mozilliaid ydym ni
-
-
-;This video shows members of the worldwide Mozilla community.
-Mae'r fideo yn dangos aelodau cymuned Mozilla drwy'r byd i gyd.
-
-
-;Find Mozillians near you
-Dod o hyd i Fozilliaid yn lleol
 
 

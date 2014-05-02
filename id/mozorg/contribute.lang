@@ -1,15 +1,119 @@
 ## active ##
 ## contribute_faces ##
+# Used for HTML title attribute
 ;Get Involved: Volunteer Opportunities at Mozilla
 Mari Berperan: Mari Menjadi Sukarelawan di Mozilla
 
 
-;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
-Video ini membutuhkan peramban yang mendukung video format terbuka atau <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+;The success of our mission depends on participation from people like you.
+Kesuksesan misi kami bergantung pada partisipasi banyak orang, seperti halnya Anda.
 
 
-;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
-Tak perlu mahir C++ (atau bahkan tahu artinya!) untuk ikut berperan serta.<br><b>Cukup cintai dunia Web saja.</b>
+;Proudly non-profit, Mozilla makes products like Firefox with a mission to keep the power of the Web in the hands of users everywhere.
+Bangga sebagai nirlaba, Mozilla membuat produk seperti Firefox, dengan misi untuk menjaga kekuatan Web tetap berada di tangan penggunanya, di mana saja.
+
+
+# Used as caption of the video in the new design
+;We are Mozillians
+Kami Mozillian
+
+
+;This video shows members of the worldwide Mozilla community.
+Video ini menampilkan berbagai anggota komunitas Mozilla di berbagai penjuru dunia.
+
+
+# L10n: Used as a label for a button that plays a video.
+;Play video
+Putar video
+
+
+# L10n: Used as a label for a button that pauses a video.
+;Pause video
+Jeda video
+
+
+;Want to help?
+Ingin membantu?
+
+
+;Area of interest?
+Tertarik dalam bidang…
+
+
+;Helping Users
+Membantu Pengguna
+
+
+;Testing and QA
+Pengujian dan Kendali Mutu
+
+
+;Coding
+Pemrograman
+
+
+;Marketing
+Pemasaran
+
+
+;Localization and Translation
+Penerjemahan dan Pelokalan
+
+
+;Web Development
+Pengembangan Web
+
+
+;Firefox Marketplace
+Firefox Marketplace
+
+
+;Add-ons
+Add-ons
+
+
+;Visual Design
+Desain Visual
+
+
+;Documentation and Writing
+Dokumentasi dan Penulisan
+
+
+;Education
+Pendidikan
+
+
+;Other
+Lainnya
+
+
+;I have a suggestion for Firefox
+Saya punya saran untuk Firefox
+
+
+;I need help with a Firefox issue
+Saya butuh bantuan tentang masalah Firefox
+
+
+;YOUR EMAIL HERE
+ALAMAT SUREL ANDA
+
+
+;Send us a note and we can get you started right away.
+Ceritakan tentang ketertarikan Anda, dan kami akan membantu Anda di langkah berikutnya.
+
+
+;Hi, I’m interested in…
+Halo, saya tertarik dalam bidang…
+
+
+;I’d like to receive regular contribution news by email
+Saya ingin mendapatkan berita tentang kontribusi secara teratur lewat email
+
+
+;Submit&nbsp;»
+Kirim&nbsp;»
 
 
 ;Please enter a valid email address.
@@ -32,80 +136,109 @@ Tuliskan apa yang membuat Anda tertarik.
 Tulisan CAPTCHA tidak cocok. Silakan coba lagi.
 
 
-;Want to help?
-Ingin membantu?
-
-
-;YOUR EMAIL HERE
-ALAMAT SUREL ANDA
-
-
-;Submit&nbsp;»
-Kirim&nbsp;»
-
-
-;Send us a note and we can get you started right away.
-Ceritakan tentang ketertarikan Anda, dan kami akan membantu Anda di langkah berikutnya.
-
-
-;Hi, I’m interested in…
-Halo, saya tertarik dalam bidang…
-
-
-;I’d like to receive regular contribution news by email
-Saya ingin mendapatkan berita tentang kontribusi secara teratur lewat email
-
-
 ;Thank you for getting in touch.
 Terima kasih telah menghubungi kami.
+
+
+;We are sorry, but there was a problem with our system. Please try again later!
+Kami mohon maaf, ada masalah pada sistem kami. Silakan coba lagi dalam beberapa saat.
 
 
 ;Someone from Mozilla will get back to you soon with information about how to get involved. While you’re waiting, browse through some of the volunteer opportunities available below.
 Seseorang dari Mozilla akan membalas Anda sesegera mungkin, dan akan memberikan petunjuk cara untuk berkontribusi. Sementara itu, silakan baca tentang kesempatan menjadi sukarelawan berikut ini.
 
 
+;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
+Tak perlu mahir C++ (atau bahkan tahu artinya!) untuk ikut berperan serta.<br><b>Cukup cintai dunia Web saja.</b>
+
+
+;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
+Daftar untuk berlangganan nawala mingguan yang berisi berbagai cerita komunitas dan kesempatan berkontribusi.
+
+
+# Subject of email sent to end-users
+;Welcome to Mozilla!
+Selamat datang di Mozilla!
+
+
 ;Find an opportunity
 Temukan kesempatan
 
 
-;Sort By:
-Urut Berdasarkan:
-
-
-;Interest
-Bidang
-
-
-;Location
-Lokasi
-
-
-;Newsletter
-Nawala
-
-
-;Helping Users
-Membantu Pengguna
-
-
-;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
-Tertarik membantu sesama pengguna Firefox atau proyek Mozilla lainnya? Layanan dukungan kami bertumpu pada kontributor seperti Anda.
+# Helping users
+;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
+Layanan dukungan kami bertumpu pada para kontributor seperti Anda, untuk membantu pengguna lain memanfaatkan produk Mozilla secara maksimal. Temukan <a href="%(fx_support_url)s">cara membantu pengguna Firefox</a> dan <a href="%(tb_support_url)s">juga pengguna Thunderbird</a>.
 
 
 ;Quality Assurance
 Kendali Mutu
 
 
-;Coding
-Pemrograman
+;Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+
+
+;<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+
+
+# Coding
+;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
+<a href="%(dev_intro_url)s">Pengembang dapat membantu</a> Mozilla dengan menambahkan fitur baru, memperbaiki kinerja teknologi kami, serta mempermudah pengembangan oleh berbagai pihak lainnya. Beri tahu kami <a href="%(what_url)s">bahasa pemrograman favorit Anda</a> dan kami akan menemukan proyeknya untuk Anda.
 
 
 ;Spread the Word
 Kabarkan
 
 
+;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
+Bantu kami mengabarkan tentang cara Firefox dan proyek Mozilla lainnya dalam membangun Internet yang lebih baik. Bagikan Firefox dengan <a href="%(affiliates_url)s">menjadi <em>Affiliate</em></a> lalu baca <a href="%(marketing_url)s">Panduan Pemasaran</a> kami untuk mendapatkan berbagai cara membantu lainnya.
+
+
+;Localization
+Pelokalan
+
+
+;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
+Mari berperan serta di Mozilla untuk menyediakan Firefox, Thunderbird, dan proyek lainnya <a href="%(l10n_url)s">dalam bahasa Anda</a>. Anda juga dapat <a href="%(l10n_web_url)s">menerjemahkan isi situs web</a> kami untuk mengabarkan ke seluruh dunia tentang cara Mozilla membangun Internet yang lebih baik.
+
+
+# Web development
+;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
+Situs web kami terbuka bagi para pengembang web untuk dikembangkan lebih jauh. <a href="%(webdev_url)s">Temukan proyek situs web</a> untuk mulai. Keahlian web Anda juga dapat digunakan untuk <a href="%(gaia_url)s">membantu kami membangun Firefox OS yang baru</a>.
+
+
+# Firefox Marketplace
+;<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+
+
+# Add-ons
+;Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+
+
+# Visual design
+;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
+Kami ingin agar para seniman juga dapat berperan di dunia web dan nyata dengan desain yang diinspirasi dari Mozilla. Baca <a href="%(creative_url)s">blog tim Kreatif</a> kami untuk mendapatkan informasi selengkapnya tentang cara berperan.
+
+
+# Documentation and writing
+;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
+Mozilla Developer Network merupakan pusat informasi tentang teknologi Mozilla. Bantu kami untuk <a href="%(dev_url)s">meningkatkan dokumentasi</a> dengan menulis konten baru, memperbaiki materi yang ada, atau menerjemahkan kontennya ke bahasa Anda.
+
+
+# Education
+;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
+Bantu membangun generasi baru pencipta web dengan menyebarluaskan pengetahuan tentang cara kerja Web. <a href="%(moz_webmaker)s ">Jelajahi segalanya tentang proyek Mozilla Webmaker</a> atau mulai membimbing yang lain dengan cara <a href="%(webmaker)s">membantu mempersiapkan acara di komunitas Anda</a>.
+
+
 ;map
 peta
+
+
+;Find Mozillians near you
+Temukan Mozillian di dekat Anda
 
 
 ;US and Canada
@@ -132,60 +265,40 @@ Asia dan Pasifik Selatan
 Antarktika
 
 
-;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
-Daftar untuk berlangganan nawala mingguan yang berisi berbagai cerita komunitas dan kesempatan berkontribusi.
+;Sort By:
+Urut Berdasarkan:
+
+
+;Interest
+Bidang
+
+
+;Location
+Lokasi
+
+
+;Newsletter
+Nawala
+
+
+;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
+Tertarik membantu sesama pengguna Firefox atau proyek Mozilla lainnya? Layanan dukungan kami bertumpu pada kontributor seperti Anda.
 
 
 ;Thank you!
 Terima kasih!
 
 
-;Localization
-Pelokalan
-
-
 ;Accessibility is about making things work for everyone. Help <a href="%(access_url)s">create tools and resources for Firefox end users with disabilities</a> and help <a href="%(access_wiki)s">make web content available to non visual agents</a> such as screen readers.
 Inti dari Aksesibilitas adalah agar semuanya dapat menikmati hal yang sama tanpa terkecuali. Mari bantu <a href="%(access_url)s">membuat alat dan sumber daya bagi para pengguna Firefox yang memiliki disabilitas</a> dan bantu <a href="%(access_wiki)s">membuat konten web tersedia bagi para agen nonvisual</a> misalnya pembaca layar.
-
-
-;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
-Bantu kami mengabarkan tentang cara Firefox dan proyek Mozilla lainnya dalam membangun Internet yang lebih baik. Bagikan Firefox dengan <a href="%(affiliates_url)s">menjadi <em>Affiliate</em></a> lalu baca <a href="%(marketing_url)s">Panduan Pemasaran</a> kami untuk mendapatkan berbagai cara membantu lainnya.
-
-
-;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
-Pengujian dalam rangka kendali mutu merupakan cara termudah untuk memulai bersama Mozilla, dan merupakan salah satu cara untuk cepat mengenali kode sumber dan peralatan kami. Bantu kami <a href="%(qa_bugs_url)s">memburu para bug</a> di Firefox, <a href="%(qa_web_url)s">menguji berbagai situs web Mozilla</a>, atau pelajari lebih lanjut tentang <a href="%(qa_url)s">kesempatan pengujian lainnya</a>.
 
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!
 Mari turut serta dalam tim riset&mdash;baik dengan menjadi <a href="%(survey_url)s">peserta dalam survei yang akan datang</a>, <a href="%(test_email)s">melakukan pengujian usabilitas</a> secara mandiri, atau <a href="%(test_pilot)s">menganalisis data Test Pilot</a>&mdash;kami sangat gembira Anda bergabung bersama kami!
 
 
-;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
-Mari berperan serta di Mozilla untuk menyediakan Firefox, Thunderbird, dan proyek lainnya <a href="%(l10n_url)s">dalam bahasa Anda</a>. Anda juga dapat <a href="%(l10n_web_url)s">menerjemahkan isi situs web</a> kami untuk mengabarkan ke seluruh dunia tentang cara Mozilla membangun Internet yang lebih baik.
-
-
-;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
-Mozilla Developer Network merupakan pusat informasi tentang teknologi Mozilla. Bantu kami untuk <a href="%(dev_url)s">meningkatkan dokumentasi</a> dengan menulis konten baru, memperbaiki materi yang ada, atau menerjemahkan kontennya ke bahasa Anda.
-
-
-;Area of interest?
-Tertarik dalam bidang…
-
-
-;I need help with a Firefox issue
-Saya butuh bantuan tentang masalah Firefox
-
-
-;I have a suggestion for Firefox
-Saya punya saran untuk Firefox
-
-
 ;Facebook
 Facebook {ok}
-
-
-;Education
-Pendidikan
 
 
 ;Firefox Affiliates
@@ -208,91 +321,21 @@ Terima kasih telah mendaftar!
 Menu {ok}
 
 
-;Web Development
-Pengembangan Web
-
-
-;Visual Design
-Desain Visual
-
-
 ;Twitter
 Twitter {ok}
 
 
-;We are sorry, but there was a problem with our system. Please try again later!
-Kami mohon maaf, ada masalah pada sistem kami. Silakan coba lagi dalam beberapa saat.
+;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+Video ini membutuhkan peramban yang mendukung video format terbuka atau <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
 
 
-;Other
-Lainnya
+# Old string, will be removed when all locales have the new text
+;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
+Pengujian dalam rangka kendali mutu merupakan cara termudah untuk memulai bersama Mozilla, dan merupakan salah satu cara untuk cepat mengenali kode sumber dan peralatan kami. Bantu kami <a href="%(qa_bugs_url)s">memburu para bug</a> di Firefox, <a href="%(qa_web_url)s">menguji berbagai situs web Mozilla</a>, atau pelajari lebih lanjut tentang <a href="%(qa_url)s">kesempatan pengujian lainnya</a>.
 
 
-;Marketing
-Pemasaran
-
-
-;Testing and QA
-Pengujian dan Kendali Mutu
-
-
-;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
-Situs web kami terbuka bagi para pengembang web untuk dikembangkan lebih jauh. <a href="%(webdev_url)s">Temukan proyek situs web</a> untuk mulai. Keahlian web Anda juga dapat digunakan untuk <a href="%(gaia_url)s">membantu kami membangun Firefox OS yang baru</a>.
-
-
-;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
-Layanan dukungan kami bertumpu pada para kontributor seperti Anda, untuk membantu pengguna lain memanfaatkan produk Mozilla secara maksimal. Temukan <a href="%(fx_support_url)s">cara membantu pengguna Firefox</a> dan <a href="%(tb_support_url)s">juga pengguna Thunderbird</a>.
-
-
-;Documentation and Writing
-Dokumentasi dan Penulisan
-
-
-;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
-Kami ingin agar para seniman juga dapat berperan di dunia web dan nyata dengan desain yang diinspirasi dari Mozilla. Baca <a href="%(creative_url)s">blog tim Kreatif</a> kami untuk mendapatkan informasi selengkapnya tentang cara berperan.
-
-
+# Old string, will be removed when all locales have the new text
 ;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
 Produk Mozilla memiliki sistem ekstensi yang sangat hebat, yang dapat digunakan untuk membuat perubahan kecil hingga penambahan yang besar. Pelajari lebih lanjut cara <a href="%(addons_url)s">membuat pengaya (add-on)</a>. Untuk pengembang berpengalaman, temukan cara untuk <a href="%(addons_wiki)s">menjadi editor AMO</a>.
-
-
-;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
-Bantu membangun generasi baru pencipta web dengan menyebarluaskan pengetahuan tentang cara kerja Web. <a href="%(moz_webmaker)s ">Jelajahi segalanya tentang proyek Mozilla Webmaker</a> atau mulai membimbing yang lain dengan cara <a href="%(webmaker)s">membantu mempersiapkan acara di komunitas Anda</a>.
-
-
-;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
-<a href="%(dev_intro_url)s">Pengembang dapat membantu</a> Mozilla dengan menambahkan fitur baru, memperbaiki kinerja teknologi kami, serta mempermudah pengembangan oleh berbagai pihak lainnya. Beri tahu kami <a href="%(what_url)s">bahasa pemrograman favorit Anda</a> dan kami akan menemukan proyeknya untuk Anda.
-
-
-;Localization and Translation
-Penerjemahan dan Pelokalan
-
-
-# Subject of email sent to end-users
-;Welcome to Mozilla!
-Selamat datang di Mozilla!
-
-
-# L10n: Used as a label for a button that plays a video.
-;Play video
-Putar video
-
-
-# L10n: Used as a label for a button that pauses a video.
-;Pause video
-Jeda video
-
-
-# Used as caption of the video in the new design
-;We are Mozillians
-Kami Mozillian
-
-
-;This video shows members of the worldwide Mozilla community.
-Video ini menampilkan berbagai anggota komunitas Mozilla di berbagai penjuru dunia.
-
-
-;Find Mozillians near you
-Temukan Mozillian di dekat Anda
 
 

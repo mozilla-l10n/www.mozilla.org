@@ -1,15 +1,119 @@
 ## active ##
 ## contribute_faces ##
+# Used for HTML title attribute
 ;Get Involved: Volunteer Opportunities at Mozilla
 Meihelpe: mooglikheden foar frijwilligers by Mozilla
 
 
-;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
-Dizze fideo fereasket in browser mei stipe foar iepen fideo of de <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+;The success of our mission depends on participation from people like you.
+It sukses fan ús missy is ôfhinklik fan dielname troch minsken lykas jo.
 
 
-;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
-Jo hoege gjin C++-goeroe te wêzen (of sels te witten wat dat is!) om mei te helpen.<br><b>Jo hoege allinnich fan it web te hâlden.</b>
+;Proudly non-profit, Mozilla makes products like Firefox with a mission to keep the power of the Web in the hands of users everywhere.
+As grutske non-profitorganisaasje makket Mozilla produkten lykas Firefox mei in missy om de krêft fan it ynternet yn de hannen fan brûkers oeral op 'e wrâld te hâlden.
+
+
+# Used as caption of the video in the new design
+;We are Mozillians
+Wy binne Mozillians
+
+
+;This video shows members of the worldwide Mozilla community.
+Dizze fideo toant leden fan de wrâldwide Mozilla-mienskip.
+
+
+# L10n: Used as a label for a button that plays a video.
+;Play video
+Fideo ôfspylje
+
+
+# L10n: Used as a label for a button that pauses a video.
+;Pause video
+Fideo pausearje
+
+
+;Want to help?
+Wolle jo helpe?
+
+
+;Area of interest?
+Ynteressegebied?
+
+
+;Helping Users
+Brûkers helpe
+
+
+;Testing and QA
+Testen en QA
+
+
+;Coding
+Koade skriuwe
+
+
+;Marketing
+Marketing {ok}
+
+
+;Localization and Translation
+Lokalisaasje en oersetting
+
+
+;Web Development
+Webûntwikkeling
+
+
+;Firefox Marketplace
+Firefox Marketplace
+
+
+;Add-ons
+Add-ons
+
+
+;Visual Design
+Fisueel ûntwerp
+
+
+;Documentation and Writing
+Dokumintaasje en skriuwe
+
+
+;Education
+Underwiis
+
+
+;Other
+Oars
+
+
+;I have a suggestion for Firefox
+Ik haw in suggestje foar Firefox
+
+
+;I need help with a Firefox issue
+Ik haw help nedich by in Firefox-probleem
+
+
+;YOUR EMAIL HERE
+JO E-MAILADRES
+
+
+;Send us a note and we can get you started right away.
+Stjoer ús in briefke en wy helpe jo daliks op wei.
+
+
+;Hi, I’m interested in…
+Hallo, ik bin ynteressearre yn…
+
+
+;I’d like to receive regular contribution news by email
+Ik wol graach regelmjittich meiwurkersnijs ûntfange per e-mail
+
+
+;Submit&nbsp;»
+Ferstjoere&nbsp;»
 
 
 ;Please enter a valid email address.
@@ -32,80 +136,109 @@ Fertel ús mear oer jo ynteresses.
 Jo CAPTCHA-antwurd kaam net oerien. Probearje it nochris.
 
 
-;Want to help?
-Wolle jo helpe?
-
-
-;YOUR EMAIL HERE
-JO E-MAILADRES
-
-
-;Submit&nbsp;»
-Ferstjoere&nbsp;»
-
-
-;Send us a note and we can get you started right away.
-Stjoer ús in briefke en wy helpe jo daliks op wei.
-
-
-;Hi, I’m interested in…
-Hallo, ik bin ynteressearre yn…
-
-
-;I’d like to receive regular contribution news by email
-Ik wol graach regelmjittich meiwurkersnijs ûntfange per e-mail
-
-
 ;Thank you for getting in touch.
 Tank foar jo reaksje.
+
+
+;We are sorry, but there was a problem with our system. Please try again later!
+It spyt ús, mar der is in probleem mei ús systeem. Probearje it letter nochris!
 
 
 ;Someone from Mozilla will get back to you soon with information about how to get involved. While you’re waiting, browse through some of the volunteer opportunities available below.
 Earne fan Mozilla sil jo gau ynformearje oer hoe't jo belutsen reitsje kinne. Wylst jo wachtsje, kinne jo hjirûnder in oantal mooglikheden foar frijwilligers besjen.
 
 
+;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
+Jo hoege gjin C++-goeroe te wêzen (of sels te witten wat dat is!) om mei te helpen.<br><b>Jo hoege allinnich fan it web te hâlden.</b>
+
+
+;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
+Registrearje jo foar on wyklikse nijsbrief dy't fol stiet mei nijs oer de mienskip en mooglikheden foar frijwilligers.
+
+
+# Subject of email sent to end-users
+;Welcome to Mozilla!
+Wolkom by Mozilla!
+
+
 ;Find an opportunity
 Mooglikheden fine
 
 
-;Sort By:
-Rangskikke op:
-
-
-;Interest
-Ynteresse
-
-
-;Location
-Lokaasje
-
-
-;Newsletter
-Nijsbrief
-
-
-;Helping Users
-Brûkers helpe
-
-
-;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
-Ynteresse yn it helpen fan oaren om se it measte út Firefox en oare Mozilla-projekten helje te litten? Us stipeproses is ôfhinklik fan entûsjaste meiwurkers lykas jo.
+# Helping users
+;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
+Us stipeproses is ôfhinklik fan entûsjaste meiwurkers lykas jo om oaren te helpen it measte út Mozilla-produkten te heljen. Lês mear oer it <a href="%(fx_support_url)s">helpen fan Firefox-brûkers</a> en it <a href="%(tb_support_url)s">helpen fan Thunderbird-brûkers</a>.
 
 
 ;Quality Assurance
 Kwaliteitskontrole
 
 
-;Coding
-Koade skriuwe
+;Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+
+
+;<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+
+
+# Coding
+;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
+<a href="%(dev_intro_url)s">Untwikkelers kinne Mozilla helpe</a> troch nije funksjes ta te foegjen, ús technology lytser en flugger te meitsjen en ûntwikkeling foar oaren te ferienfâldigjen. Fertel ús wat <a href="%(what_url)s">jo favorite programmeartaal</a> is en wy sykje it krekte projekt foar jo.
 
 
 ;Spread the Word
 Fertel it fierder
 
 
+;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
+Help ús bekend te meitsjen hoe't Firefox en oare Mozilla-projekten foar in better ynternet soargje. Diel Firefox mei de wrâld troch <a href="%(affiliates_url)s">in partner te wurden</a> en besjoch dêrnei ús <a href="%(marketing_url)s">Marketinggids</a> foar mear manieren om mei te dwaan.
+
+
+;Localization
+Lokalisaasje
+
+
+;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
+Doch mei mei Mozilla troch Firefox, Thunderbird en oare projekten <a href="%(l10n_url)s">yn jo taal beskikber</a> te meitsjen. Help ús ek bekend te meitsjen hoe't Mozilla foar in better ynternet soarget troch <a href="%(l10n_web_url)s">ynhâld op ús websites oer te setten</a>.
+
+
+# Web development
+;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
+Us websites binne tagonklik foar webûntwikkelers om oan te wurkjen. <a href="%(webdev_url)s">Sykje in websiteprojekt</a> om mei te begjinnen. Jo webfeardigens kinne ek brûkt wurde om <a href="%(gaia_url)s">ús nije Firefox OS te helpen bouwen</a>.
+
+
+# Firefox Marketplace
+;<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+
+
+# Add-ons
+;Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+
+
+# Visual design
+;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
+Wy wolle derfoar soargje dat keunstners it ynternet en minsken mei troch Mozilla ynspirearre ûntwerpen berike kinne. Besjoch it <a href="%(creative_url)s">Creative team-blog</a> foar mear ynformaasje oer hoe't jo meidwaan kinne.
+
+
+# Documentation and writing
+;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
+It Mozilla Developer Network is de hub foar ynformaasje oer Mozilla-technologyën. Help by it <a href="%(dev_url)s">ferbetterjen fan ús dokumintaasje</a> troch it skriuwen fan nije ynhâld, ferbetterjen fan besteand materiaal of oersetten fan ynhâld nei nije talen.
+
+
+# Education
+;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
+Help mei by it bouwen fan in generaasje webmakkers troch oaren te learen hoe't it ynternet wurket. <a href="%(moz_webmaker)s ">Besjoch wat it Mozilla Webmaker-projekt ynhâldt</a> of begjin mei it ûnderwizjen fan oaren troch <a href="%(webmaker)s">daliks in evenemint yn jo mienskip te organisearjen</a>.
+
+
 ;map
 kaart
+
+
+;Find Mozillians near you
+Fyn Mozillians by jo yn 'e buert
 
 
 ;US and Canada
@@ -132,60 +265,40 @@ Azië en Súd-Pasifssch gebiet
 Antarktika
 
 
-;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
-Registrearje jo foar on wyklikse nijsbrief dy't fol stiet mei nijs oer de mienskip en mooglikheden foar frijwilligers.
+;Sort By:
+Rangskikke op:
+
+
+;Interest
+Ynteresse
+
+
+;Location
+Lokaasje
+
+
+;Newsletter
+Nijsbrief
+
+
+;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
+Ynteresse yn it helpen fan oaren om se it measte út Firefox en oare Mozilla-projekten helje te litten? Us stipeproses is ôfhinklik fan entûsjaste meiwurkers lykas jo.
 
 
 ;Thank you!
 Tankewol!
 
 
-;Localization
-Lokalisaasje
-
-
 ;Accessibility is about making things work for everyone. Help <a href="%(access_url)s">create tools and resources for Firefox end users with disabilities</a> and help <a href="%(access_wiki)s">make web content available to non visual agents</a> such as screen readers.
 Tagonklikheid giet oer it foar elkenien wurkjend meitsjen fan funksjonaliteiten. Help by it <a href="%(access_url)s">meitsjen fan helpmiddelen en boarnen foar eingebrûkers fan Firefox mei beheiningen</a> en it <a href="%(access_wiki)s">beskikber meitsjen fan webynhâld foar net-fisuele agents</a> lykas skermlêzers.
-
-
-;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
-Help ús bekend te meitsjen hoe't Firefox en oare Mozilla-projekten foar in better ynternet soargje. Diel Firefox mei de wrâld troch <a href="%(affiliates_url)s">in partner te wurden</a> en besjoch dêrnei ús <a href="%(marketing_url)s">Marketinggids</a> foar mear manieren om mei te dwaan.
-
-
-;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
-It testen foar kwaliteitskontrole is ien fan de maklikste manieren om mei Mozilla oan de slach te gean en in goeie manier om mei ús koade en helpmiddelen fertroud te reitsjen. Help mei by it <a href="%(qa_bugs_url)s">finen fan bugs</a> yn Firefox, <a href="%(qa_web_url)s">testen van Mozilla-websites</a> of lês mear oer <a href="%(qa_url)s">oare testmooglikheden</a>.
 
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!
 Wês part fan it ûndersykteam &ndash; of jo no in <a href="%(survey_url)s">dielnimmer oan in kommend ûndersyk</a> wêze wolle, sels <a href="%(test_email)s">brûkberheidstests útfiere wolle</a> of <a href="%(test_pilot)s">Test Pilot-gegevens analysearje wolle</a> &ndash; jo binne fan herte wolkom!
 
 
-;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
-Doch mei mei Mozilla troch Firefox, Thunderbird en oare projekten <a href="%(l10n_url)s">yn jo taal beskikber</a> te meitsjen. Help ús ek bekend te meitsjen hoe't Mozilla foar in better ynternet soarget troch <a href="%(l10n_web_url)s">ynhâld op ús websites oer te setten</a>.
-
-
-;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
-It Mozilla Developer Network is de hub foar ynformaasje oer Mozilla-technologyën. Help by it <a href="%(dev_url)s">ferbetterjen fan ús dokumintaasje</a> troch it skriuwen fan nije ynhâld, ferbetterjen fan besteand materiaal of oersetten fan ynhâld nei nije talen.
-
-
-;Area of interest?
-Ynteressegebied?
-
-
-;I need help with a Firefox issue
-Ik haw help nedich by in Firefox-probleem
-
-
-;I have a suggestion for Firefox
-Ik haw in suggestje foar Firefox
-
-
 ;Facebook
 Facebook {ok}
-
-
-;Education
-Underwiis
 
 
 ;Firefox Affiliates
@@ -208,91 +321,21 @@ Tank foar it registrearjen!
 Menu {ok}
 
 
-;Web Development
-Webûntwikkeling
-
-
-;Visual Design
-Fisueel ûntwerp
-
-
 ;Twitter
 Twitter {ok}
 
 
-;We are sorry, but there was a problem with our system. Please try again later!
-It spyt ús, mar der is in probleem mei ús systeem. Probearje it letter nochris!
+;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+Dizze fideo fereasket in browser mei stipe foar iepen fideo of de <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
 
 
-;Other
-Oars
+# Old string, will be removed when all locales have the new text
+;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
+It testen foar kwaliteitskontrole is ien fan de maklikste manieren om mei Mozilla oan de slach te gean en in goeie manier om mei ús koade en helpmiddelen fertroud te reitsjen. Help mei by it <a href="%(qa_bugs_url)s">finen fan bugs</a> yn Firefox, <a href="%(qa_web_url)s">testen van Mozilla-websites</a> of lês mear oer <a href="%(qa_url)s">oare testmooglikheden</a>.
 
 
-;Marketing
-Marketing {ok}
-
-
-;Testing and QA
-Testen en QA
-
-
-;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
-Us websites binne tagonklik foar webûntwikkelers om oan te wurkjen. <a href="%(webdev_url)s">Sykje in websiteprojekt</a> om mei te begjinnen. Jo webfeardigens kinne ek brûkt wurde om <a href="%(gaia_url)s">ús nije Firefox OS te helpen bouwen</a>.
-
-
-;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
-Us stipeproses is ôfhinklik fan entûsjaste meiwurkers lykas jo om oaren te helpen it measte út Mozilla-produkten te heljen. Lês mear oer it <a href="%(fx_support_url)s">helpen fan Firefox-brûkers</a> en it <a href="%(tb_support_url)s">helpen fan Thunderbird-brûkers</a>.
-
-
-;Documentation and Writing
-Dokumintaasje en skriuwe
-
-
-;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
-Wy wolle derfoar soargje dat keunstners it ynternet en minsken mei troch Mozilla ynspirearre ûntwerpen berike kinne. Besjoch it <a href="%(creative_url)s">Creative team-blog</a> foar mear ynformaasje oer hoe't jo meidwaan kinne.
-
-
+# Old string, will be removed when all locales have the new text
 ;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
 Mozilla-produkten befetsje in krêftich ekstinsjesysteem wêrme't jo lytse oanpassingen of grutte tafoegingen oanbringe kinne. Lês mear oer it <a href="%(addons_url)s">bouwen fan add-ons</a>. Betufte ûntwikkelers kinne lêze hoe't se <a href="%(addons_wiki)s">in AMO-editor wurde kinne</a>.
-
-
-;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
-Help mei by it bouwen fan in generaasje webmakkers troch oaren te learen hoe't it ynternet wurket. <a href="%(moz_webmaker)s ">Besjoch wat it Mozilla Webmaker-projekt ynhâldt</a> of begjin mei it ûnderwizjen fan oaren troch <a href="%(webmaker)s">daliks in evenemint yn jo mienskip te organisearjen</a>.
-
-
-;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
-<a href="%(dev_intro_url)s">Untwikkelers kinne Mozilla helpe</a> troch nije funksjes ta te foegjen, ús technology lytser en flugger te meitsjen en ûntwikkeling foar oaren te ferienfâldigjen. Fertel ús wat <a href="%(what_url)s">jo favorite programmeartaal</a> is en wy sykje it krekte projekt foar jo.
-
-
-;Localization and Translation
-Lokalisaasje en oersetting
-
-
-# Subject of email sent to end-users
-;Welcome to Mozilla!
-Wolkom by Mozilla!
-
-
-# L10n: Used as a label for a button that plays a video.
-;Play video
-Fideo ôfspylje
-
-
-# L10n: Used as a label for a button that pauses a video.
-;Pause video
-Fideo pausearje
-
-
-# Used as caption of the video in the new design
-;We are Mozillians
-Wy binne Mozillians
-
-
-;This video shows members of the worldwide Mozilla community.
-Dizze fideo toant leden fan de wrâldwide Mozilla-mienskip.
-
-
-;Find Mozillians near you
-Fyn Mozillians by jo yn 'e buert
 
 

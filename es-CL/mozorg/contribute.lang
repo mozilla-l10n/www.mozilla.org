@@ -1,15 +1,119 @@
 ## active ##
 ## contribute_faces ##
+# Used for HTML title attribute
 ;Get Involved: Volunteer Opportunities at Mozilla
 ¡Participa! Oportunidades para colaborar como voluntario en Mozilla
 
 
-;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
-Este video requiere un navegador compatible con un formato abierto de video o <a href="http://www.adobe.com/go/getflashplayer">Flash Player de Adobe</a>.
+;The success of our mission depends on participation from people like you.
+El éxito de nuestra misión depende de la participación de personas como tú.
 
 
-;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
-No tienes que ser un genio de C++ (¡ni siquiera saber lo que significa!) para participar.<br><b>Solo tienes que amar la Web.</b>
+;Proudly non-profit, Mozilla makes products like Firefox with a mission to keep the power of the Web in the hands of users everywhere.
+Mozilla está orgullosa de ser una organización sin fines de lucro que crea productos como Firefox con la misión de que los usuarios de todo el mundo tengan el poder de la Web en sus manos.
+
+
+# Used as caption of the video in the new design
+;We are Mozillians
+Somos Mozilleros
+
+
+;This video shows members of the worldwide Mozilla community.
+Este video muestra a miembros de la comunidad mundial de Mozilla.
+
+
+# L10n: Used as a label for a button that plays a video.
+;Play video
+Reproducir
+
+
+# L10n: Used as a label for a button that pauses a video.
+;Pause video
+Pausar
+
+
+;Want to help?
+¿Quieres ayudar?
+
+
+;Area of interest?
+¿Área de interés?
+
+
+;Helping Users
+Ayuda a usuarios
+
+
+;Testing and QA
+Pruebas y control de calidad
+
+
+;Coding
+Programación
+
+
+;Marketing
+Difusión
+
+
+;Localization and Translation
+Localización y traducción
+
+
+;Web Development
+Desarrollo web
+
+
+;Firefox Marketplace
+Firefox Marketplace
+
+
+;Add-ons
+Add-ons
+
+
+;Visual Design
+Diseño gráfico
+
+
+;Documentation and Writing
+Documentación y redacción
+
+
+;Education
+Educación
+
+
+;Other
+Otra
+
+
+;I have a suggestion for Firefox
+Tengo una sugerencia para Firefox
+
+
+;I need help with a Firefox issue
+Necesito ayuda con una incidencia con Firefox
+
+
+;YOUR EMAIL HERE
+TU CORREO AQUÍ
+
+
+;Send us a note and we can get you started right away.
+Envíanos un mensaje y te ayudaremos a comenzar ahora mismo.
+
+
+;Hi, I’m interested in…
+¡Hola! Me interesa…
+
+
+;I’d like to receive regular contribution news by email
+Me gustaría recibir regularmente por correo información sobre cómo colaborar
+
+
+;Submit&nbsp;»
+Enviar&nbsp;»
 
 
 ;Please enter a valid email address.
@@ -32,80 +136,109 @@ Háblanos sobre tus intereses.
 Tu respuesta CAPTCHA no coincide. Inténtalo de nuevo.
 
 
-;Want to help?
-¿Quieres ayudar?
-
-
-;YOUR EMAIL HERE
-TU CORREO AQUÍ
-
-
-;Submit&nbsp;»
-Enviar&nbsp;»
-
-
-;Send us a note and we can get you started right away.
-Envíanos un mensaje y te ayudaremos a comenzar ahora mismo.
-
-
-;Hi, I’m interested in…
-¡Hola! Me interesa…
-
-
-;I’d like to receive regular contribution news by email
-Me gustaría recibir regularmente por correo información sobre cómo colaborar
-
-
 ;Thank you for getting in touch.
 Gracias por seguir en contacto.
+
+
+;We are sorry, but there was a problem with our system. Please try again later!
+Discúlpanos, pero hubo un problema con nuestro sistema. Inténtalo de nuevo pasados unos minutos.
 
 
 ;Someone from Mozilla will get back to you soon with information about how to get involved. While you’re waiting, browse through some of the volunteer opportunities available below.
 Alguien de Mozilla se pondrá en contacto contigo muy pronto para darte toda la información sobre cómo participar. Mientras tanto, puedes explorar algunas de las oportunidades para colaborar como voluntario que te mostramos a continuación.
 
 
+;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
+No tienes que ser un genio de C++ (¡ni siquiera saber lo que significa!) para participar.<br><b>Solo tienes que amar la Web.</b>
+
+
+;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
+Suscríbete a un boletín semanal que está lleno de noticias de la comunidad y oportunidades de colaboración.
+
+
+# Subject of email sent to end-users
+;Welcome to Mozilla!
+¡Bienvenido a Mozilla!
+
+
 ;Find an opportunity
 Busca una oportunidad
 
 
-;Sort By:
-Ordenar por:
-
-
-;Interest
-Interés
-
-
-;Location
-Región
-
-
-;Newsletter
-Boletín
-
-
-;Helping Users
-Ayuda a usuarios
-
-
-;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
-¿Te interesa ayudar a que otros obtengan lo máximo de Firefox y de otros proyectos de Mozilla? Nuestro proceso de asistencia depende de colaboradores entusiastas como tú.
+# Helping users
+;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
+Nuestro proceso de asistencia depende de colaboradores entusiastas como tú que ayudan a los demás a obtener lo máximo de los productos Mozilla. Descubre muchas más formas de ayudar a los usuarios de <a href="%(fx_support_url)s">Firefox</a> y <a href="%(tb_support_url)s">Thunderbird</a>.
 
 
 ;Quality Assurance
 Control de calidad
 
 
-;Coding
-Programación
+;Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+
+
+;<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+
+
+# Coding
+;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
+Los <a href="%(dev_intro_url)s">desarrolladores pueden ayudar</a> a Mozilla agregando nuevas características, reduciendo y acelerando nuestra tecnología y facilitando el desarrollo a otros programadores. Dinos <a href="%(what_url)s">cuál es tu lenguaje de programación favorito</a> y buscaremos un proyecto  para ti.
 
 
 ;Spread the Word
 Haz correr la voz
 
 
+;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
+Ayúdanos a dar a conocer cómo Firefox y otros proyectos de Mozilla están construyendo una Web mejor. Comparte Firefox con el mundo <a href="%(affiliates_url)s">convirtiéndote en simpatizante</a> y consulta nuestra <a href="%(marketing_url)s">Guía de difusión</a> para explorar muchas más formas de participación.
+
+
+;Localization
+Localización
+
+
+;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
+Involúcrate con Mozilla contribuyendo a que Firefox, Thunderbird y otros proyectos estén <a href="%(l10n_url)s">disponibles en tu idioma</a>. Ayúdanos también a contarle al mundo cómo Mozilla está construyendo una Web mejor <a href="%(l10n_web_url)s">traduciendo contenido</a> de nuestros sitios web.
+
+
+# Web development
+;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
+Nuestros sitios web están abiertos para que los desarrolladores hackeen. <a href="%(webdev_url)s">Busca un proyecto</a> con el que comenzar. Tus habilidades web también pueden servir para <a href="%(gaia_url)s">ayudarnos a desarrollar nuestro nuevo Firefox OS</a>.
+
+
+# Firefox Marketplace
+;<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+
+
+# Add-ons
+;Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+
+
+# Visual design
+;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
+Queremos hacer posible que los artistas llenen la Web y lleguen a todo el mundo con diseños inspirados por Mozilla. En el <a href="%(creative_url)s">blog del equipo creativo</a> encontrarás toda la información sobre cómo participar.
+
+
+# Documentation and writing
+;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
+Mozilla Developer Network es el centro de información sobre tecnologías Mozilla. Participa en la <a href="%(dev_url)s">mejora de nuestra documentación</a> escribiendo contenido nuevo, corrigiendo el material existente o traduciéndolo a nuevos idiomas.
+
+
+# Education
+;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
+Ayuda a construir una generación de creadores enseñando a crear código y conocer el funcionamiento de la Web. <a href="%(moz_webmaker)s ">Explora en qué consiste el proyecto Mozilla Webmaker</a> o comienza ya a enseñar a otros  <a href="%(webmaker)s">creando un evento en tu comunidad</a>.
+
+
 ;map
 mapa
+
+
+;Find Mozillians near you
+Encuentra a Mozilleros cerca de ti
 
 
 ;US and Canada
@@ -132,60 +265,40 @@ Asia y el Pacífico Sur
 Antártida
 
 
-;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
-Suscríbete a un boletín semanal que está lleno de noticias de la comunidad y oportunidades de colaboración.
+;Sort By:
+Ordenar por:
+
+
+;Interest
+Interés
+
+
+;Location
+Región
+
+
+;Newsletter
+Boletín
+
+
+;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
+¿Te interesa ayudar a que otros obtengan lo máximo de Firefox y de otros proyectos de Mozilla? Nuestro proceso de asistencia depende de colaboradores entusiastas como tú.
 
 
 ;Thank you!
 ¡Gracias!
 
 
-;Localization
-Localización
-
-
 ;Accessibility is about making things work for everyone. Help <a href="%(access_url)s">create tools and resources for Firefox end users with disabilities</a> and help <a href="%(access_wiki)s">make web content available to non visual agents</a> such as screen readers.
 La accesibilidad consiste en hacer que las cosas funcionen para todos. Ayuda a <a href="%(access_url)s">crear herramientas y recursos para aquellos usuarios finales de Firefox con discapacidades</a> y colabora para que <a href="%(access_wiki)s">el contenido de la Web sea accesible a los agentes de usuario no visuales</a> tales como los lectores de pantalla.
-
-
-;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
-Ayúdanos a dar a conocer cómo Firefox y otros proyectos de Mozilla están construyendo una Web mejor. Comparte Firefox con el mundo <a href="%(affiliates_url)s">convirtiéndote en simpatizante</a> y consulta nuestra <a href="%(marketing_url)s">Guía de difusión</a> para explorar muchas más formas de participación.
-
-
-;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
-Garantizar la calidad es una de las formas más fáciles de comenzar con Mozilla y una forma genial de familiarizarte con nuestro código y nuestras herramientas. Ayúdanos a <a href="%(qa_bugs_url)s">detectar bugs</a> en Firefox, <a href="%(qa_web_url)s">probar los sitios web de Mozilla</a> u obtén más información sobre <a href="%(qa_url)s">otras oportunidades de testeo</a>.
 
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!
 Forma parte del equipo de investigación: ya sea <a href="%(survey_url)s">participando en un próximo estudio</a>, <a href="%(test_email)s">realizando pruebas de usabilidad</a> por tu cuenta o <a href="%(test_pilot)s">analizando datos de Test Pilot</a>. ¡Nos encantará tenerte con nosotros!
 
 
-;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
-Involúcrate con Mozilla contribuyendo a que Firefox, Thunderbird y otros proyectos estén <a href="%(l10n_url)s">disponibles en tu idioma</a>. Ayúdanos también a contarle al mundo cómo Mozilla está construyendo una Web mejor <a href="%(l10n_web_url)s">traduciendo contenido</a> de nuestros sitios web.
-
-
-;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
-Mozilla Developer Network es el centro de información sobre tecnologías Mozilla. Participa en la <a href="%(dev_url)s">mejora de nuestra documentación</a> escribiendo contenido nuevo, corrigiendo el material existente o traduciéndolo a nuevos idiomas.
-
-
-;Area of interest?
-¿Área de interés?
-
-
-;I need help with a Firefox issue
-Necesito ayuda con una incidencia con Firefox
-
-
-;I have a suggestion for Firefox
-Tengo una sugerencia para Firefox
-
-
 ;Facebook
 Facebook {ok}
-
-
-;Education
-Educación
 
 
 ;Firefox Affiliates
@@ -208,89 +321,21 @@ Mozilla {ok}
 Menú
 
 
-;Web Development
-Desarrollo web
-
-
-;Visual Design
-Diseño gráfico
-
-
 ;Twitter
 Twitter {ok}
 
 
-;We are sorry, but there was a problem with our system. Please try again later!
-Discúlpanos, pero hubo un problema con nuestro sistema. Inténtalo de nuevo pasados unos minutos.
+;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+Este video requiere un navegador compatible con un formato abierto de video o <a href="http://www.adobe.com/go/getflashplayer">Flash Player de Adobe</a>.
 
 
-;Other
-Otra
+# Old string, will be removed when all locales have the new text
+;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
+Garantizar la calidad es una de las formas más fáciles de comenzar con Mozilla y una forma genial de familiarizarte con nuestro código y nuestras herramientas. Ayúdanos a <a href="%(qa_bugs_url)s">detectar bugs</a> en Firefox, <a href="%(qa_web_url)s">probar los sitios web de Mozilla</a> u obtén más información sobre <a href="%(qa_url)s">otras oportunidades de testeo</a>.
 
 
-;Marketing
-Difusión
-
-
-;Testing and QA
-Pruebas y control de calidad
-
-
-;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
-Nuestros sitios web están abiertos para que los desarrolladores hackeen. <a href="%(webdev_url)s">Busca un proyecto</a> con el que comenzar. Tus habilidades web también pueden servir para <a href="%(gaia_url)s">ayudarnos a desarrollar nuestro nuevo Firefox OS</a>.
-
-
-;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
-Nuestro proceso de asistencia depende de colaboradores entusiastas como tú que ayudan a los demás a obtener lo máximo de los productos Mozilla. Descubre muchas más formas de ayudar a los usuarios de <a href="%(fx_support_url)s">Firefox</a> y <a href="%(tb_support_url)s">Thunderbird</a>.
-
-
-;Documentation and Writing
-Documentación y redacción
-
-
-;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
-Queremos hacer posible que los artistas llenen la Web y lleguen a todo el mundo con diseños inspirados por Mozilla. En el <a href="%(creative_url)s">blog del equipo creativo</a> encontrarás toda la información sobre cómo participar.
-
-
+# Old string, will be removed when all locales have the new text
 ;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
 Firefox y otras aplicaciones basadas en Mozilla disponen de un potente sistema de extensiones que te permiten realizar pequeños cambios o agregar grandes características en tus programas. Si esta tecnología es nueva para ti, aprende a <a href="%(addons_url)s">desarrollar un complemento</a>. Si eres un desarrollador con más experiencia, descubre cómo <a href="%(addons_wiki)s">convertirte en editor de AMO</a>.
 
 
-;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
-Ayuda a construir una generación de creadores enseñando a crear código y conocer el funcionamiento de la Web. <a href="%(moz_webmaker)s ">Explora en qué consiste el proyecto Mozilla Webmaker</a> o comienza ya a enseñar a otros  <a href="%(webmaker)s">creando un evento en tu comunidad</a>.
-
-
-;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
-Los <a href="%(dev_intro_url)s">desarrolladores pueden ayudar</a> a Mozilla agregando nuevas características, reduciendo y acelerando nuestra tecnología y facilitando el desarrollo a otros programadores. Dinos <a href="%(what_url)s">cuál es tu lenguaje de programación favorito</a> y buscaremos un proyecto  para ti.
-
-
-;Localization and Translation
-Localización y traducción
-
-
-# Subject of email sent to end-users
-;Welcome to Mozilla!
-¡Bienvenido a Mozilla!
-
-
-# L10n: Used as a label for a button that plays a video.
-;Play video
-Reproducir
-
-
-# L10n: Used as a label for a button that pauses a video.
-;Pause video
-Pausar
-
-
-# Used as caption of the video in the new design
-;We are Mozillians
-Somos Mozilleros
-
-
-;This video shows members of the worldwide Mozilla community.
-Este video muestra a miembros de la comunidad mundial de Mozilla.
-
-
-;Find Mozillians near you
-Encuentra a Mozilleros cerca de ti

@@ -1,15 +1,119 @@
 ## active ##
 ## contribute_faces ##
+# Used for HTML title attribute
 ;Get Involved: Volunteer Opportunities at Mozilla
 加入我们：Mozilla 的志愿工作机会
 
 
-;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
-这段视频需要支持开放视频格式或者 <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash 播放器</a> 的浏览器。
+;The success of our mission depends on participation from people like you.
+使命之所以能成功取决于像您这样的热心志愿者们的积极参与。
 
 
-;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
-你不必成为 C++ 专家（哪怕你不知道那是什么意思！）就可以加入我们。<br><b>只要你热爱网络。</b>
+;Proudly non-profit, Mozilla makes products like Firefox with a mission to keep the power of the Web in the hands of users everywhere.
+以非营利为荣，以帮助用户掌握互联网主权为使命，Mozilla 创造了全球闻名的Firefox 火狐浏览器。
+
+
+# Used as caption of the video in the new design
+;We are Mozillians
+我们是谋智人
+
+
+;This video shows members of the worldwide Mozilla community.
+这段视频展示了全世界的 Mozilla 社区成员。
+
+
+# L10n: Used as a label for a button that plays a video.
+;Play video
+播放视频
+
+
+# L10n: Used as a label for a button that pauses a video.
+;Pause video
+暂停播放视频
+
+
+;Want to help?
+想出一份力？
+
+
+;Area of interest?
+感兴趣的领域？
+
+
+;Helping Users
+帮助用户
+
+
+;Testing and QA
+测试和质量保证
+
+
+;Coding
+编程
+
+
+;Marketing
+市场
+
+
+;Localization and Translation
+本地化和翻译
+
+
+;Web Development
+网页开发
+
+
+;Firefox Marketplace
+Firefox Marketplace
+
+
+;Add-ons
+Add-ons
+
+
+;Visual Design
+视觉设计
+
+
+;Documentation and Writing
+文档和写作
+
+
+;Education
+教育
+
+
+;Other
+其他
+
+
+;I have a suggestion for Firefox
+我有关于 Firefox 的建议
+
+
+;I need help with a Firefox issue
+我有 Firefox 的问题需要帮助
+
+
+;YOUR EMAIL HERE
+在这里输入你的电子邮件地址
+
+
+;Send us a note and we can get you started right away.
+发给我们一个提示，我们就可以帮助你马上开始。
+
+
+;Hi, I’m interested in…
+嗨，我的兴趣是…
+
+
+;I’d like to receive regular contribution news by email
+我希望通过电子邮件定期收到贡献活动新闻
+
+
+;Submit&nbsp;»
+提交&nbsp;»
 
 
 ;Please enter a valid email address.
@@ -32,80 +136,109 @@
 你填写的验证码不正确，请重试。
 
 
-;Want to help?
-想出一份力？
-
-
-;YOUR EMAIL HERE
-在这里输入你的电子邮件地址
-
-
-;Submit&nbsp;»
-提交&nbsp;»
-
-
-;Send us a note and we can get you started right away.
-发给我们一个提示，我们就可以帮助你马上开始。
-
-
-;Hi, I’m interested in…
-嗨，我的兴趣是…
-
-
-;I’d like to receive regular contribution news by email
-我希望通过电子邮件定期收到贡献活动新闻
-
-
 ;Thank you for getting in touch.
 感谢您和我们联系。
+
+
+;We are sorry, but there was a problem with our system. Please try again later!
+很抱歉，我们的系统出现了问题，请稍后再试！
 
 
 ;Someone from Mozilla will get back to you soon with information about how to get involved. While you’re waiting, browse through some of the volunteer opportunities available below.
 Mozilla 的人稍后会联系你告知如何加入我们。在等待期间，可以浏览下面这些志愿工作机会。
 
 
+;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
+你不必成为 C++ 专家（哪怕你不知道那是什么意思！）就可以加入我们。<br><b>只要你热爱网络。</b>
+
+
+;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
+注册获取新闻邮件全面了解社区新闻和志愿工作机会。
+
+
+# Subject of email sent to end-users
+;Welcome to Mozilla!
+欢迎来到 Mozilla!
+
+
 ;Find an opportunity
 寻找机会
 
 
-;Sort By:
-排序依据:
-
-
-;Interest
-兴趣
-
-
-;Location
-位置
-
-
-;Newsletter
-新闻邮件
-
-
-;Helping Users
-帮助用户
-
-
-;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
-有兴趣帮助别人最有效地使用 Firefox 和其他 Mozilla 项目？我们的支持过程依赖于像你这样的热心志愿者。
+# Helping users
+;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
+我们的支持过程依赖于像你这样热心的志愿者，帮助他人全面应用 Mozilla 产品。进一步了解<a href="%(fx_support_url)s">如何帮助 Firefox 用户</a> 以及 <a href="%(tb_support_url)s">如何帮助 Thunderbird 用户</a>。
 
 
 ;Quality Assurance
 质量保证
 
 
-;Coding
-编程
+;Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+
+
+;<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+
+
+# Coding
+;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
+<a href="%(dev_intro_url)s">开发者可以帮助</a> Mozilla 添加新功能，让我们的技术更轻巧更快捷，让开发过程更简单。告诉我们 <a href="%(what_url)s">你喜欢的程序语言</a>，我们会为你寻找适合的项目。
 
 
 ;Spread the Word
 传播
 
 
+;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
+帮助我们宣传 Firefox 和 Mozilla 的其他项目是如何构建一个更美好的网络的。通过 <a href="%(affiliates_url)s">成为伙伴</a> 与全世界分享 Firefox ，之后可以获取我们的 <a href="%(marketing_url)s">营销指南</a> 了解更多的加入方式。
+
+
+;Localization
+本地化
+
+
+;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
+通过将 Firefox 、 Thunderbird 和其他项目 <a href="%(l10n_url)s">翻译为你的语言</a> 加入 Mozilla。还可以通过 <a href="%(l10n_web_url)s">翻译我们网站上的内容</a>，帮助我们告诉世界 Mozilla 是如何构建一个更美好的互联网的。
+
+
+# Web development
+;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
+我们的网站开放给网络开发者去分析研究。<a href="%(webdev_url)s">探索网站项目</a>已经启动。你的网络技能还可以 <a href="%(gaia_url)s">帮助我们构建新的 Firefox OS</a> 。
+
+
+# Firefox Marketplace
+;<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+
+
+# Add-ons
+;Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+
+
+# Visual design
+;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
+我们希望艺术家能够借助 Mozilla，用设计灵感装扮网络和人们。访问 <a href="%(creative_url)s">创意团队博客</a> 了解如何参与。
+
+
+# Documentation and writing
+;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
+Mozilla 开发者网络是 Mozilla 的技术信息中心，通过撰写新内容，修正已有材料，或者将内容翻译为新的语种可以帮助我们 <a href="%(dev_url)s">改进我们的文档</a>。
+
+
+# Education
+;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
+通过传授网络工作的原理帮助培养一代网页设计师，<a href="%(moz_webmaker)s ">了解 Mozilla Webmaker 项目情况</a> 或者 <a href="%(webmaker)s">今天就在你的社区创建一个事件</a> 开始进行培训。
+
+
 ;map
 地图
+
+
+;Find Mozillians near you
+找寻您附近的谋智人
 
 
 ;US and Canada
@@ -132,60 +265,40 @@ Mozilla 的人稍后会联系你告知如何加入我们。在等待期间，可
 南极洲
 
 
-;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
-注册获取新闻邮件全面了解社区新闻和志愿工作机会。
+;Sort By:
+排序依据:
+
+
+;Interest
+兴趣
+
+
+;Location
+位置
+
+
+;Newsletter
+新闻邮件
+
+
+;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
+有兴趣帮助别人最有效地使用 Firefox 和其他 Mozilla 项目？我们的支持过程依赖于像你这样的热心志愿者。
 
 
 ;Thank you!
 谢谢！
 
 
-;Localization
-本地化
-
-
 ;Accessibility is about making things work for everyone. Help <a href="%(access_url)s">create tools and resources for Firefox end users with disabilities</a> and help <a href="%(access_wiki)s">make web content available to non visual agents</a> such as screen readers.
 可用性就是让每一个人都能使用。帮助我们 <a href="%(access_url)s">为身心障碍的 Firefox 最终用户创建工具和资源</a> 并帮助 <a href="%(access_wiki)s">改进网页内容使其能在类似屏幕阅读器的非视觉客户端上呈现</a>。
-
-
-;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
-帮助我们宣传 Firefox 和 Mozilla 的其他项目是如何构建一个更美好的网络的。通过 <a href="%(affiliates_url)s">成为伙伴</a> 与全世界分享 Firefox ，之后可以获取我们的 <a href="%(marketing_url)s">营销指南</a> 了解更多的加入方式。
-
-
-;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
-质量保证测试是最容易的参与 Mozilla 开发活动的方式，同时也是熟悉我们的代码和工具的极佳途径。帮助我们 <a href="%(qa_bugs_url)s">发现 Firefox 中的缺陷</a>，<a href="%(qa_web_url)s">测试 Mozilla 网站</a> 或者了解 <a href="%(qa_url)s">其他测试机会</a> 。
 
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!
 加入调研团队&mdash;如果你想成为 <a href="%(survey_url)s">即将进行的研究工作中的一员</a>，亲身参与 <a href="%(test_email)s">产品可用性测试</a> 或者 <a href="%(test_pilot)s">分析试飞员测试数据</a>&mdash;我们非常欢迎你的加入！
 
 
-;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
-通过将 Firefox 、 Thunderbird 和其他项目 <a href="%(l10n_url)s">翻译为你的语言</a> 加入 Mozilla。还可以通过 <a href="%(l10n_web_url)s">翻译我们网站上的内容</a>，帮助我们告诉世界 Mozilla 是如何构建一个更美好的互联网的。
-
-
-;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
-Mozilla 开发者网络是 Mozilla 的技术信息中心，通过撰写新内容，修正已有材料，或者将内容翻译为新的语种可以帮助我们 <a href="%(dev_url)s">改进我们的文档</a>。
-
-
-;Area of interest?
-感兴趣的领域？
-
-
-;I need help with a Firefox issue
-我有 Firefox 的问题需要帮助
-
-
-;I have a suggestion for Firefox
-我有关于 Firefox 的建议
-
-
 ;Facebook
 Facebook {ok}
-
-
-;Education
-教育
 
 
 ;Firefox Affiliates
@@ -208,91 +321,21 @@ Mozilla {ok}
 菜单
 
 
-;Web Development
-网页开发
-
-
-;Visual Design
-视觉设计
-
-
 ;Twitter
 Twitter {ok}
 
 
-;We are sorry, but there was a problem with our system. Please try again later!
-很抱歉，我们的系统出现了问题，请稍后再试！
+;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+这段视频需要支持开放视频格式或者 <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash 播放器</a> 的浏览器。
 
 
-;Other
-其他
+# Old string, will be removed when all locales have the new text
+;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
+质量保证测试是最容易的参与 Mozilla 开发活动的方式，同时也是熟悉我们的代码和工具的极佳途径。帮助我们 <a href="%(qa_bugs_url)s">发现 Firefox 中的缺陷</a>，<a href="%(qa_web_url)s">测试 Mozilla 网站</a> 或者了解 <a href="%(qa_url)s">其他测试机会</a> 。
 
 
-;Marketing
-市场
-
-
-;Testing and QA
-测试和质量保证
-
-
-;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
-我们的网站开放给网络开发者去分析研究。<a href="%(webdev_url)s">探索网站项目</a>已经启动。你的网络技能还可以 <a href="%(gaia_url)s">帮助我们构建新的 Firefox OS</a> 。
-
-
-;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
-我们的支持过程依赖于像你这样热心的志愿者，帮助他人全面应用 Mozilla 产品。进一步了解<a href="%(fx_support_url)s">如何帮助 Firefox 用户</a> 以及 <a href="%(tb_support_url)s">如何帮助 Thunderbird 用户</a>。
-
-
-;Documentation and Writing
-文档和写作
-
-
-;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
-我们希望艺术家能够借助 Mozilla，用设计灵感装扮网络和人们。访问 <a href="%(creative_url)s">创意团队博客</a> 了解如何参与。
-
-
+# Old string, will be removed when all locales have the new text
 ;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
 Mozilla 产品有强大的扩展系统，使你可以对功能进行微调或重大扩展。了解有关 <a href="%(addons_url)s">构建附加组件</a> 的详细信息。对于有经验的开发者，可以看看如何 <a href="%(addons_wiki)s">成为 AMO 编辑</a>。
-
-
-;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
-通过传授网络工作的原理帮助培养一代网页设计师，<a href="%(moz_webmaker)s ">了解 Mozilla Webmaker 项目情况</a> 或者 <a href="%(webmaker)s">今天就在你的社区创建一个事件</a> 开始进行培训。
-
-
-;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
-<a href="%(dev_intro_url)s">开发者可以帮助</a> Mozilla 添加新功能，让我们的技术更轻巧更快捷，让开发过程更简单。告诉我们 <a href="%(what_url)s">你喜欢的程序语言</a>，我们会为你寻找适合的项目。
-
-
-;Localization and Translation
-本地化和翻译
-
-
-# Subject of email sent to end-users
-;Welcome to Mozilla!
-欢迎来到 Mozilla!
-
-
-# L10n: Used as a label for a button that plays a video.
-;Play video
-播放视频
-
-
-# L10n: Used as a label for a button that pauses a video.
-;Pause video
-暂停播放视频
-
-
-# Used as caption of the video in the new design
-;We are Mozillians
-我们是谋智人
-
-
-;This video shows members of the worldwide Mozilla community.
-这段视频展示了全世界的 Mozilla 社区成员。
-
-
-;Find Mozillians near you
-找寻您附近的谋智人
 
 

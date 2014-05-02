@@ -1,15 +1,119 @@
 ## active ##
 ## contribute_faces ##
+# Used for HTML title attribute
 ;Get Involved: Volunteer Opportunities at Mozilla
 Përfshihuni: Mundësi Vullnetarizmi te Mozilla
 
 
-;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
-Kjo video lyp një shfletues që mbulon video të hapur ose <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+;The success of our mission depends on participation from people like you.
+Suksesi i misionit tonë varet nga pjesëmarrja e njerëzve si ju.
 
 
-;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
-Nuk ka pse të jeni guru në C++ (dhe as të dini se ç’do të thotë kjo!) që të përfshiheni.<br><b>Thjesht mjafton ta doni Web-in.</b>
+;Proudly non-profit, Mozilla makes products like Firefox with a mission to keep the power of the Web in the hands of users everywhere.
+Krenare për të qenët e vet jofitimprurëse, Mozilla krijon produkte si Firefox-i me një mision për mbajtjen e pushtetit të Web-it në duart e përdoruesve ngado.
+
+
+# Used as caption of the video in the new design
+;We are Mozillians
+Jemi Moxillianë
+
+
+;This video shows members of the worldwide Mozilla community.
+Kjo video tregon anëtarë të bashkësisë Mozilla nga e gjithë bota.
+
+
+# L10n: Used as a label for a button that plays a video.
+;Play video
+Luaje videon
+
+
+# L10n: Used as a label for a button that pauses a video.
+;Pause video
+Ndale videon
+
+
+;Want to help?
+Dëshironi të jepni ndihmë?
+
+
+;Area of interest?
+Fushë interesi?
+
+
+;Helping Users
+Ndihmë për Përdoruesit
+
+
+;Testing and QA
+Testim dhe QA
+
+
+;Coding
+Programim
+
+
+;Marketing
+Marketing {ok}
+
+
+;Localization and Translation
+Vendësim dhe Përkthim
+
+
+;Web Development
+Programim Web
+
+
+;Firefox Marketplace
+Firefox Marketplace
+
+
+;Add-ons
+Add-ons
+
+
+;Visual Design
+Hartim Grafik
+
+
+;Documentation and Writing
+Dokumentim dhe Shkrim
+
+
+;Education
+Arsim
+
+
+;Other
+Të tjera
+
+
+;I have a suggestion for Firefox
+Kam një sugjerim për Firefox-in
+
+
+;I need help with a Firefox issue
+Më duhet ndihmë për një problem Firefox-i
+
+
+;YOUR EMAIL HERE
+JEPNI KËTU EMAIL-IN TUAJ
+
+
+;Send us a note and we can get you started right away.
+Na dërgoni dy fjalë dhe mund t’ju ndihmojmë t’ia filloni pa humbur kohë.
+
+
+;Hi, I’m interested in…
+Njatjeta, më interesojnë…
+
+
+;I’d like to receive regular contribution news by email
+Do të doja të merrja rregullisht me email lajme mbi kontributet
+
+
+;Submit&nbsp;»
+Parashtroje&nbsp;»
 
 
 ;Please enter a valid email address.
@@ -32,80 +136,109 @@ Ju lutemi, na tregoni diçka më shumë rreth gjërave që ju interesojnë.
 Përgjigja juaj për CAPTCHA nuk u përputh. Ju lutemi, riprovoni.
 
 
-;Want to help?
-Dëshironi të jepni ndihmë?
-
-
-;YOUR EMAIL HERE
-JEPNI KËTU EMAIL-IN TUAJ
-
-
-;Submit&nbsp;»
-Parashtroje&nbsp;»
-
-
-;Send us a note and we can get you started right away.
-Na dërgoni dy fjalë dhe mund t’ju ndihmojmë t’ia filloni pa humbur kohë.
-
-
-;Hi, I’m interested in…
-Njatjeta, më interesojnë…
-
-
-;I’d like to receive regular contribution news by email
-Do të doja të merrja rregullisht me email lajme mbi kontributet
-
-
 ;Thank you for getting in touch.
 Faleminderit që u lidhët me ne.
+
+
+;We are sorry, but there was a problem with our system. Please try again later!
+Na ndjeni, por pati një problem me sistemin tonë. Ju lutemi, riprovoni më vonë!
 
 
 ;Someone from Mozilla will get back to you soon with information about how to get involved. While you’re waiting, browse through some of the volunteer opportunities available below.
 Dikush nga Mozilla do të lidhet së afërmi me ju me të dhëna rreth se si të përfshiheni. Teksa prisni, hidhuni më poshtë një sy disa prej mundësive për vullnetarizëm që mund të shfrytëzoni.
 
 
+;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
+Nuk ka pse të jeni guru në C++ (dhe as të dini se ç’do të thotë kjo!) që të përfshiheni.<br><b>Thjesht mjafton ta doni Web-in.</b>
+
+
+;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
+Pajtohuni te buletini javor që është plot lajme mbi bashkësinë dhe mundësi kontributesh.
+
+
+# Subject of email sent to end-users
+;Welcome to Mozilla!
+Mirë se vini te Mozilla!
+
+
 ;Find an opportunity
 Gjeni një mundësi
 
 
-;Sort By:
-Renditi Sipas:
-
-
-;Interest
-Interesave
-
-
-;Location
-Vendit
-
-
-;Newsletter
-Buletin
-
-
-;Helping Users
-Ndihmë për Përdoruesit
-
-
-;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
-Të interesuar të ndihmoni të tjerët të përfitojnë maksimumin nga përdorimi i Firefox-it dhe projekteve të Mozilla-s? Procesi ynë i asistencës bazohet te kontribues entuziastë si ju.
+# Helping users
+;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
+Procesi ynë i asistencës bazohet në kontribues entuziastë si ju që ndihmojnë të tjerët të përfitojnë maksimumin e produkteve Mozilla. Shihni më tepër rreth se si <a href="%(fx_support_url)s">të ndihmoni përdoruesit e Firefox-it</a> dhe <a href="%(tb_support_url)s">si të ndihmoni përdoruesit e Thunderbird-it</a>.
 
 
 ;Quality Assurance
 Sigurim Cilësie
 
 
-;Coding
-Programim
+;Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+
+
+;<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+
+
+# Coding
+;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
+<a href="%(dev_intro_url)s">Programuesit mund ta ndihmojnë</a> Mozilla-n duke shtuar karakteristika të reja, duke e bërë teknologjinë tonë më të vogël dhe më të shpejtë, dhe duke e bërë programimin më të lehtë për të tjerët. Na tregoni <a href="%(what_url)s">gjuhën tuaj të parapëlqyer për programimet</a> dhe do t’ju gjejmë një projekt.
 
 
 ;Spread the Word
 Përhapeni Lajmin
 
 
+;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
+Na ndihmoni të përhapim fjalën rreth faktit se si Firefox-i dhe të tjera projekte Mozilla po ndërtojnë një Internet më të mirë. Ndajeni Firefox-in me botën duke <a href="%(affiliates_url)s">u bërë një Përkrahës</a> dhe mandej shihni <a href="%(marketing_url)s">Udhërrëfyesin tonë për Marketing</a> për më tepër rrugë për përfshirje.
+
+
+;Localization
+Përkthim
+
+
+;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
+Përfshihuni te Mozilla duke i bërë Firefox-in, Thunderbird-in dhe të tjerë projekte <a href="%(l10n_url)s">të passhëm në gjuhën tuaj</a>. Ndihmoni gjithashtu duke i treguar botës se si Mozilla po krijon një Internet më të mirë, përmes <a href="%(l10n_web_url)s">përkthimit të lëndës</a> te sajtet tanë web.
+
+
+# Web development
+;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
+Sajtet tanë web janë të hapur programues web që dëshirojnë të merren me to. <a href="%(webdev_url)s">Gjeni një projekt sajti web</a> që t’ia filloni. Aftësitë tuaj web mund të hyjnë në punë po ashtu që <a href="%(gaia_url)s">të na ndihmoni të krijojmë Firefox OS-in tonë të ri</a>.
+
+
+# Firefox Marketplace
+;<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+
+
+# Add-ons
+;Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+
+
+# Visual design
+;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
+Duam të bëjmë të mundur që artistët të mbulojnë web-in dhe njerëzit me grafikë të frymëzuar nga Mozilla. Për më tepër të dhëna se si të merrni pjesë, shihni <a href="%(creative_url)s">blogun e ekipit Krijues</a>.
+
+
+# Documentation and writing
+;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
+Rrjeti i Zhvilluesve Mozilla është qendra për informacion mbi teknologjitë Mozilla. Ndihmoni <a href="%(dev_url)s">në përmirësimin e dokumentimit tonë</a> duke shkruar lëndë të re, duke ndrequr materialin e deritanishëm ose duke përkthyer lëndë prej tij në gjuhë të reja.
+
+
+# Education
+;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
+Ndihmoni në krijimin e një brezi ndërtuesish të web-it duke u mësuar të tjerëve se si funksionon web. <a href="%(moz_webmaker)s ">Shihni se ç’është projekti Mozilla Webmaker</a> ose filloni t’u mësoni të tjerëve duke <a href="%(webmaker)s">krijuar që sot një veprimtari në bashkësinë tuaj</a>.
+
+
 ;map
 hartë
+
+
+;Find Mozillians near you
+Gjeni Moxillianë prej jush
 
 
 ;US and Canada
@@ -132,60 +265,40 @@ Azi dhe Paqësori i Jugut
 Antarktidë
 
 
-;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
-Pajtohuni te buletini javor që është plot lajme mbi bashkësinë dhe mundësi kontributesh.
+;Sort By:
+Renditi Sipas:
+
+
+;Interest
+Interesave
+
+
+;Location
+Vendit
+
+
+;Newsletter
+Buletin
+
+
+;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
+Të interesuar të ndihmoni të tjerët të përfitojnë maksimumin nga përdorimi i Firefox-it dhe projekteve të Mozilla-s? Procesi ynë i asistencës bazohet te kontribues entuziastë si ju.
 
 
 ;Thank you!
 Faleminderit!
 
 
-;Localization
-Përkthim
-
-
 ;Accessibility is about making things work for everyone. Help <a href="%(access_url)s">create tools and resources for Firefox end users with disabilities</a> and help <a href="%(access_wiki)s">make web content available to non visual agents</a> such as screen readers.
 Të qenët i përdorshëm nënkupton bërjen e gjërave të përdorshme nga cilido. Ndihmoni në <a href="%(access_url)s">krijimin e mjeteve dhe burimeve për përdorues të thjeshtë të Firefox-it me mangësi të ndryshme</a> dhe ndihmoni që <a href="%(access_wiki)s">lënda në web të jetë e përdorshme nga përpunues jo pamorë</a>, fjala vjen lexues ekrani.
-
-
-;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
-Na ndihmoni të përhapim fjalën rreth faktit se si Firefox-i dhe të tjera projekte Mozilla po ndërtojnë një Internet më të mirë. Ndajeni Firefox-in me botën duke <a href="%(affiliates_url)s">u bërë një Përkrahës</a> dhe mandej shihni <a href="%(marketing_url)s">Udhërrëfyesin tonë për Marketing</a> për më tepër rrugë për përfshirje.
-
-
-;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
-Provat për sigurimin e cilësisë janë një nga rrugët më të lehta për të filluar përfshirjen te Mozilla dhe përbëjnë një rrugë të fortë për t’u njohur nga afër me kodin dhe mjetet tona. Ndihmonani <a href="%(qa_bugs_url)s">të gjejmë të meta</a> te Firefox-i, <a href="%(qa_web_url)s">të testojmë sajteet web të Mozilla-s</a> ose njihuni më nga afër  <a href="%(qa_url)s">me të tjera mundësi testimi</a>.
 
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!
 Bëhuni pjesë e ekipit të kërkimeve&mdash;qoftë kur doni të <a href="%(survey_url)s">merrni pjesë në një studim të ardhshëm</a>, qoftë kur doni <a href="%(test_email)s">të kryeni prova përdorshmërie</a> krejt tuajat ose <a href="%(test_pilot)s">të analizoni të dhëna Test Pilot data</a>&mdash;do të ishim të kënaqur t’ju kishim në mesin tonë!
 
 
-;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
-Përfshihuni te Mozilla duke i bërë Firefox-in, Thunderbird-in dhe të tjerë projekte <a href="%(l10n_url)s">të passhëm në gjuhën tuaj</a>. Ndihmoni gjithashtu duke i treguar botës se si Mozilla po krijon një Internet më të mirë, përmes <a href="%(l10n_web_url)s">përkthimit të lëndës</a> te sajtet tanë web.
-
-
-;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
-Rrjeti i Zhvilluesve Mozilla është qendra për informacion mbi teknologjitë Mozilla. Ndihmoni <a href="%(dev_url)s">në përmirësimin e dokumentimit tonë</a> duke shkruar lëndë të re, duke ndrequr materialin e deritanishëm ose duke përkthyer lëndë prej tij në gjuhë të reja.
-
-
-;Area of interest?
-Fushë interesi?
-
-
-;I need help with a Firefox issue
-Më duhet ndihmë për një problem Firefox-i
-
-
-;I have a suggestion for Firefox
-Kam një sugjerim për Firefox-in
-
-
 ;Facebook
 Facebook {ok}
-
-
-;Education
-Arsim
 
 
 ;Firefox Affiliates
@@ -208,91 +321,21 @@ Faleminderit që u regjistruat!
 Menu {ok}
 
 
-;Web Development
-Programim Web
-
-
-;Visual Design
-Hartim Grafik
-
-
 ;Twitter
 Twitter {ok}
 
 
-;We are sorry, but there was a problem with our system. Please try again later!
-Na ndjeni, por pati një problem me sistemin tonë. Ju lutemi, riprovoni më vonë!
+;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+Kjo video lyp një shfletues që mbulon video të hapur ose <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
 
 
-;Other
-Të tjera
+# Old string, will be removed when all locales have the new text
+;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
+Provat për sigurimin e cilësisë janë një nga rrugët më të lehta për të filluar përfshirjen te Mozilla dhe përbëjnë një rrugë të fortë për t’u njohur nga afër me kodin dhe mjetet tona. Ndihmonani <a href="%(qa_bugs_url)s">të gjejmë të meta</a> te Firefox-i, <a href="%(qa_web_url)s">të testojmë sajteet web të Mozilla-s</a> ose njihuni më nga afër  <a href="%(qa_url)s">me të tjera mundësi testimi</a>.
 
 
-;Marketing
-Marketing {ok}
-
-
-;Testing and QA
-Testim dhe QA
-
-
-;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
-Sajtet tanë web janë të hapur programues web që dëshirojnë të merren me to. <a href="%(webdev_url)s">Gjeni një projekt sajti web</a> që t’ia filloni. Aftësitë tuaj web mund të hyjnë në punë po ashtu që <a href="%(gaia_url)s">të na ndihmoni të krijojmë Firefox OS-in tonë të ri</a>.
-
-
-;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
-Procesi ynë i asistencës bazohet në kontribues entuziastë si ju që ndihmojnë të tjerët të përfitojnë maksimumin e produkteve Mozilla. Shihni më tepër rreth se si <a href="%(fx_support_url)s">të ndihmoni përdoruesit e Firefox-it</a> dhe <a href="%(tb_support_url)s">si të ndihmoni përdoruesit e Thunderbird-it</a>.
-
-
-;Documentation and Writing
-Dokumentim dhe Shkrim
-
-
-;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
-Duam të bëjmë të mundur që artistët të mbulojnë web-in dhe njerëzit me grafikë të frymëzuar nga Mozilla. Për më tepër të dhëna se si të merrni pjesë, shihni <a href="%(creative_url)s">blogun e ekipit Krijues</a>.
-
-
+# Old string, will be removed when all locales have the new text
 ;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
 Produktet Mozilla kanë një sistem të fuqishëm zgjerimesh që ju lejojnë të bëni përimtim të vockla ose shtesa të rëndësishme. Mësoni më tepër se si <a href="%(addons_url)s">të ndërtoni një shtesë</a>. Për programues të sprovuar, shihni se si <a href="%(addons_wiki)s">të bëheni një redaktor te AMO</a>.
-
-
-;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
-Ndihmoni në krijimin e një brezi ndërtuesish të web-it duke u mësuar të tjerëve se si funksionon web. <a href="%(moz_webmaker)s ">Shihni se ç’është projekti Mozilla Webmaker</a> ose filloni t’u mësoni të tjerëve duke <a href="%(webmaker)s">krijuar që sot një veprimtari në bashkësinë tuaj</a>.
-
-
-;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
-<a href="%(dev_intro_url)s">Programuesit mund ta ndihmojnë</a> Mozilla-n duke shtuar karakteristika të reja, duke e bërë teknologjinë tonë më të vogël dhe më të shpejtë, dhe duke e bërë programimin më të lehtë për të tjerët. Na tregoni <a href="%(what_url)s">gjuhën tuaj të parapëlqyer për programimet</a> dhe do t’ju gjejmë një projekt.
-
-
-;Localization and Translation
-Vendësim dhe Përkthim
-
-
-# Subject of email sent to end-users
-;Welcome to Mozilla!
-Mirë se vini te Mozilla!
-
-
-# L10n: Used as a label for a button that plays a video.
-;Play video
-Luaje videon
-
-
-# L10n: Used as a label for a button that pauses a video.
-;Pause video
-Ndale videon
-
-
-# Used as caption of the video in the new design
-;We are Mozillians
-Jemi Moxillianë
-
-
-;This video shows members of the worldwide Mozilla community.
-Kjo video tregon anëtarë të bashkësisë Mozilla nga e gjithë bota.
-
-
-;Find Mozillians near you
-Gjeni Moxillianë prej jush
 
 

@@ -1,15 +1,119 @@
 ## active ##
 ## contribute_faces ##
+# Used for HTML title attribute
 ;Get Involved: Volunteer Opportunities at Mozilla
 Прикључите се: Волонтирајте за Mozilla фондацију
 
 
-;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
-Овај видео захтева веб прегледач са подршком за отворени видео стандард или <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+;The success of our mission depends on participation from people like you.
+Успех наше мисије зависи од суделовања људи као што сте Ви.
 
 
-;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
-Не морате бити C++ гуру (или чак знати шта то значи!) да бисте се прикључили.<br><b>Само треба да волите веб.</b>
+;Proudly non-profit, Mozilla makes products like Firefox with a mission to keep the power of the Web in the hands of users everywhere.
+Поносна што је непрофитна организација, Мозила прави производе као што су Фајерфокс са циљем очувања моћи интернета у рукама обичних корисника широм света.
+
+
+# Used as caption of the video in the new design
+;We are Mozillians
+Ми смо Moзилијани
+
+
+;This video shows members of the worldwide Mozilla community.
+Овај снимак показује чланове светске Mozilla заједнице.
+
+
+# L10n: Used as a label for a button that plays a video.
+;Play video
+Покрени видео
+
+
+# L10n: Used as a label for a button that pauses a video.
+;Pause video
+Паузирај видео
+
+
+;Want to help?
+Желите да помогнете?
+
+
+;Area of interest?
+Подручје интереса?
+
+
+;Helping Users
+Помагање корисницима
+
+
+;Testing and QA
+Тестирање и осигурање квалитета
+
+
+;Coding
+Програмирање
+
+
+;Marketing
+Маркетинг
+
+
+;Localization and Translation
+Локализација и превођење
+
+
+;Web Development
+Веб програмирање
+
+
+;Firefox Marketplace
+Firefox Marketplace
+
+
+;Add-ons
+Add-ons
+
+
+;Visual Design
+Визуелни дизајн
+
+
+;Documentation and Writing
+Документација и писање
+
+
+;Education
+Едукација
+
+
+;Other
+Остало
+
+
+;I have a suggestion for Firefox
+Имам предлог за Firefox
+
+
+;I need help with a Firefox issue
+Потребна ми је помоћ са Firefox-ом
+
+
+;YOUR EMAIL HERE
+Напишите Вашу адресу е-поште овде.
+
+
+;Send us a note and we can get you started right away.
+Пошаљите нам поруку и почните да волонтирате са нама.
+
+
+;Hi, I’m interested in…
+Поздрав, занима ме...
+
+
+;I’d like to receive regular contribution news by email
+Желим примати редовне новости о доприносима путем е-поште.
+
+
+;Submit&nbsp;»
+Пошаљи&nbsp;»
 
 
 ;Please enter a valid email address.
@@ -32,80 +136,109 @@
 CAPTCHA код који сте написали не одговара приказаној слици. Покушајте поново.
 
 
-;Want to help?
-Желите да помогнете?
-
-
-;YOUR EMAIL HERE
-Напишите Вашу адресу е-поште овде.
-
-
-;Submit&nbsp;»
-Пошаљи&nbsp;»
-
-
-;Send us a note and we can get you started right away.
-Пошаљите нам поруку и почните да волонтирате са нама.
-
-
-;Hi, I’m interested in…
-Поздрав, занима ме...
-
-
-;I’d like to receive regular contribution news by email
-Желим примати редовне новости о доприносима путем е-поште.
-
-
 ;Thank you for getting in touch.
 Хвала Вам што сте нас контактирали.
+
+
+;We are sorry, but there was a problem with our system. Please try again later!
+Жао нам је, али је било проблема са нашим системом. Молимо покушајте касније!
 
 
 ;Someone from Mozilla will get back to you soon with information about how to get involved. While you’re waiting, browse through some of the volunteer opportunities available below.
 Ускоро ће Вам се јавити неко из Mozilla-е са информацијама како се прикључити. Док чекате, погледајте неке од доступних волонтерских позиција.
 
 
+;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
+Не морате бити C++ гуру (или чак знати шта то значи!) да бисте се прикључили.<br><b>Само треба да волите веб.</b>
+
+
+;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
+Пријавите се за недељни билтен који је пун вести од заједнице и волонтерских могућности.
+
+
+# Subject of email sent to end-users
+;Welcome to Mozilla!
+Добродошли у Mozilla-у!
+
+
 ;Find an opportunity
 Пронађите прилику
 
 
-;Sort By:
-Сортирај према:
-
-
-;Interest
-Интересу
-
-
-;Location
-Локацији
-
-
-;Newsletter
-Билтен
-
-
-;Helping Users
-Помагање корисницима
-
-
-;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
-Заинтересовани сте за помагање другима да искористе оно најбоље од Firefox-а и осталих Mozilla производа? Наша подршка се ослања на волонтере ентузијазисте попут Вас.
+# Helping users
+;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
+Наша подршка се ослања на волонтере ентузијазисте попут Вас који помажу другима да добију оно најбоље од Mozilla производа. Сазнајте више о томе <a href="%(fx_support_url)s">како помоћи Firefox корисницима</a> и <a href="%(tb_support_url)s">како помоћи Thunderbird корисницима</a>.
 
 
 ;Quality Assurance
 Осигурање квалитета
 
 
-;Coding
-Програмирање
+;Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+
+
+;<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+
+
+# Coding
+;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
+<a href="%(dev_intro_url)s">Програмери могу помоћи</a> Mozilla-и додавањем нових могућности, или побољшавањем наших технологија како би биле брже и мање, и омогућавањем једноставнијег и лакшег развоја за друге. Реците нам који је <a href="%(what_url)s">Ваш омиљени програмски језик</a> и ми ћемо наћи пројекат за Вас.
 
 
 ;Spread the Word
 Проширите реч
 
 
+;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
+Помозите нам да проширимо реч о томе како Firefox и остали Mozilla пројекти граде бољи интернет. Поделите Firefox са осталима тако што ћете постати <a href="%(affiliates_url)s">промотер</a> а поред тога погледајте наше <a href="%(marketing_url)s">упутство за маркетинг</a> за још више начина о томе како се прикључити.
+
+
+;Localization
+Локализација
+
+
+;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
+Прикључите се Mozilla-и тако што ћете Firefox, Thunderbird и остале производе учинити <a href="%(l10n_url)s">доступним на Вашем језику</a>. Такође, помозите нам да кажемо свету о томе како Mozilla гради бољи интернет тако што ћете <a href="%(l10n_web_url)s">преводити садржај</a> на нашим веб страницама.
+
+
+# Web development
+;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
+Наши сајтови су отворени за веб програмере како би хаковали на њима. <a href="%(webdev_url)s">Пронађите пројекат за веб сајт</a> како би започели. Ваше вештине се такође могу искористити и за <a href="%(gaia_url)s">помоћ у стварању нашег Firefox OS-а</a>.
+
+
+# Firefox Marketplace
+;<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+
+
+# Add-ons
+;Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+
+
+# Visual design
+;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
+Желимо да омогућимо уметницима да обухвате веб и људе са дизајнима које инспирише Mozilla. Проверите <a href="%(creative_url)s">блог креативног тима</a> за више информација о томе како бити део тога.
+
+
+# Documentation and writing
+;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
+Mozilla програмерска мрежа је центар за информације о Mozilla технологијама. Помозите нам да <a href="%(dev_url)s">учинимо нашу документацију још бољом</a> тако што ћете писати нове садржаје, исправљати постојећи материјал или преводити садржај у нове језике.
+
+
+# Education
+;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
+Помозите нам да изградимо генерацију ствараоца веба учећи друге о томе како веб функционише. <a href="%(moz_webmaker)s ">Истражите шта је то Mozilla Webmaker</a> или почните да учите друге тако што ћете <a href="%(webmaker)s">организовати догађај у Вашој заједници већ данас</a>.
+
+
 ;map
 мапа
+
+
+;Find Mozillians near you
+Пронађите Мозилијана у Вашој близини
 
 
 ;US and Canada
@@ -132,60 +265,40 @@ CAPTCHA код који сте написали не одговара прика
 Антартик
 
 
-;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
-Пријавите се за недељни билтен који је пун вести од заједнице и волонтерских могућности.
+;Sort By:
+Сортирај према:
+
+
+;Interest
+Интересу
+
+
+;Location
+Локацији
+
+
+;Newsletter
+Билтен
+
+
+;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
+Заинтересовани сте за помагање другима да искористе оно најбоље од Firefox-а и осталих Mozilla производа? Наша подршка се ослања на волонтере ентузијазисте попут Вас.
 
 
 ;Thank you!
 Хвала Вам!
 
 
-;Localization
-Локализација
-
-
 ;Accessibility is about making things work for everyone. Help <a href="%(access_url)s">create tools and resources for Firefox end users with disabilities</a> and help <a href="%(access_wiki)s">make web content available to non visual agents</a> such as screen readers.
 Омогућити да ствари функционишу за свакога зове се приступачност. Помозите <a href="%(access_url)s">у стварању алата и ресурса за крајње кориснике Firefox-а са инвалидитетом</a> и помозите <a href="%(access_wiki)s">стварању веб садржаја доступним за</a> читаче екрана.
-
-
-;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
-Помозите нам да проширимо реч о томе како Firefox и остали Mozilla пројекти граде бољи интернет. Поделите Firefox са осталима тако што ћете постати <a href="%(affiliates_url)s">промотер</a> а поред тога погледајте наше <a href="%(marketing_url)s">упутство за маркетинг</a> за још више начина о томе како се прикључити.
-
-
-;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
-Осигурање квалитета је један од најлакших начина да се прикључите Mozilla-и. То је такође сјајан начин да се упознате са нашим кôдом и алатима. Помозите нам да <a href="%(qa_bugs_url)s">пронађемо проблеме</a> у Firefox-у, <a href="%(qa_web_url)s">тестирамо Mozilla веб странице</a> или сазнајте више о <a href="%(qa_url)s">другим могућностима тестирања</a>.
 
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!
 Будите део тима за истраживање&mdash;било да желите да будете <a href="%(survey_url)s">учесник у надолазећој студији</a>, сами <a href="%(test_email)s">спроведете тестове употребљивости</a> или <a href="%(test_pilot)s">анализирате Тест Пилот податке</a>&mdash;волели бисмо да нам се прикључите!
 
 
-;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
-Прикључите се Mozilla-и тако што ћете Firefox, Thunderbird и остале производе учинити <a href="%(l10n_url)s">доступним на Вашем језику</a>. Такође, помозите нам да кажемо свету о томе како Mozilla гради бољи интернет тако што ћете <a href="%(l10n_web_url)s">преводити садржај</a> на нашим веб страницама.
-
-
-;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
-Mozilla програмерска мрежа је центар за информације о Mozilla технологијама. Помозите нам да <a href="%(dev_url)s">учинимо нашу документацију још бољом</a> тако што ћете писати нове садржаје, исправљати постојећи материјал или преводити садржај у нове језике.
-
-
-;Area of interest?
-Подручје интереса?
-
-
-;I need help with a Firefox issue
-Потребна ми је помоћ са Firefox-ом
-
-
-;I have a suggestion for Firefox
-Имам предлог за Firefox
-
-
 ;Facebook
 Facebook {ok}
-
-
-;Education
-Едукација
 
 
 ;Firefox Affiliates
@@ -208,91 +321,21 @@ Mozilla {ok}
 Мени
 
 
-;Web Development
-Веб програмирање
-
-
-;Visual Design
-Визуелни дизајн
-
-
 ;Twitter
 Twitter {ok}
 
 
-;We are sorry, but there was a problem with our system. Please try again later!
-Жао нам је, али је било проблема са нашим системом. Молимо покушајте касније!
+;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+Овај видео захтева веб прегледач са подршком за отворени видео стандард или <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
 
 
-;Other
-Остало
+# Old string, will be removed when all locales have the new text
+;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
+Осигурање квалитета је један од најлакших начина да се прикључите Mozilla-и. То је такође сјајан начин да се упознате са нашим кôдом и алатима. Помозите нам да <a href="%(qa_bugs_url)s">пронађемо проблеме</a> у Firefox-у, <a href="%(qa_web_url)s">тестирамо Mozilla веб странице</a> или сазнајте више о <a href="%(qa_url)s">другим могућностима тестирања</a>.
 
 
-;Marketing
-Маркетинг
-
-
-;Testing and QA
-Тестирање и осигурање квалитета
-
-
-;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
-Наши сајтови су отворени за веб програмере како би хаковали на њима. <a href="%(webdev_url)s">Пронађите пројекат за веб сајт</a> како би започели. Ваше вештине се такође могу искористити и за <a href="%(gaia_url)s">помоћ у стварању нашег Firefox OS-а</a>.
-
-
-;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
-Наша подршка се ослања на волонтере ентузијазисте попут Вас који помажу другима да добију оно најбоље од Mozilla производа. Сазнајте више о томе <a href="%(fx_support_url)s">како помоћи Firefox корисницима</a> и <a href="%(tb_support_url)s">како помоћи Thunderbird корисницима</a>.
-
-
-;Documentation and Writing
-Документација и писање
-
-
-;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
-Желимо да омогућимо уметницима да обухвате веб и људе са дизајнима које инспирише Mozilla. Проверите <a href="%(creative_url)s">блог креативног тима</a> за више информација о томе како бити део тога.
-
-
+# Old string, will be removed when all locales have the new text
 ;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
 Mozilla производи имају моћан систем додатака које Вам омогућавају да направите мала штеловања или велике додатке. Сазнајте више о томе како да <a href="%(addons_url)s">направите додатак</a>. За програмере са искуством, сазнајте како да <a href="%(addons_wiki)s">постанете АМО уређивач</a>.
-
-
-;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
-Помозите нам да изградимо генерацију ствараоца веба учећи друге о томе како веб функционише. <a href="%(moz_webmaker)s ">Истражите шта је то Mozilla Webmaker</a> или почните да учите друге тако што ћете <a href="%(webmaker)s">организовати догађај у Вашој заједници већ данас</a>.
-
-
-;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
-<a href="%(dev_intro_url)s">Програмери могу помоћи</a> Mozilla-и додавањем нових могућности, или побољшавањем наших технологија како би биле брже и мање, и омогућавањем једноставнијег и лакшег развоја за друге. Реците нам који је <a href="%(what_url)s">Ваш омиљени програмски језик</a> и ми ћемо наћи пројекат за Вас.
-
-
-;Localization and Translation
-Локализација и превођење
-
-
-# Subject of email sent to end-users
-;Welcome to Mozilla!
-Добродошли у Mozilla-у!
-
-
-# L10n: Used as a label for a button that plays a video.
-;Play video
-Покрени видео
-
-
-# L10n: Used as a label for a button that pauses a video.
-;Pause video
-Паузирај видео
-
-
-# Used as caption of the video in the new design
-;We are Mozillians
-Ми смо Moзилијани
-
-
-;This video shows members of the worldwide Mozilla community.
-Овај снимак показује чланове светске Mozilla заједнице.
-
-
-;Find Mozillians near you
-Пронађите Мозилијана у Вашој близини
 
 

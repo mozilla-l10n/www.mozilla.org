@@ -87,7 +87,7 @@ Pro detailní popis informací sbíraných a používaných Firefoxem si přečt
 
 
 ;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
-Google Location Services vrací vaši předpokládanou polohu (jako je zeměpisná šířka a délka). Pro detailní popis informací sbíraných a používaných společností Google si prosím přečtěte <a href="{{ url }}" class="{{ class }}">zásady ochrany soukromí Google Geolocation</a> (v angličtině).
+Google Location Services vrací vaši předpokládanou polohu (jako je zeměpisná šířka a délka). Pro detailní popis informací sbíraných a používaných společností Google si rposím přečtěte <a href="%(url)s" class="%(class)s">zásady ochrany soukromí Google Geolocation</a> (v angličtině).
 
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.

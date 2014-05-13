@@ -7,11 +7,11 @@ Géolocalisation dans Firefox
 
 
 ;Location-Aware Browsing
-Navigation avec géocalisation intégrée
+Navigation avec géolocalisation intégrée
 
 
 ;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
-Firefox peut dire aux sites Web où vous vous situez de sorte que vous pouvez trouver les informations les plus pertinentes et utiles. Il s'agit de rendre le Web plus intelligent &ndash; et c'est fait d'une manière qui respecte totalement votre vie privée. <a href="%(url)s" id="%(id)s" style="%(style)s">Essayez&nbsp;!</a>
+Firefox peut dire aux sites web où vous vous situez de sorte que vous pouvez trouver les informations les plus pertinentes et utiles. Il s'agit de rendre le Web plus intelligent &ndash; et c'est fait d'une manière qui respecte totalement votre vie privée. <a href="%(url)s" id="%(id)s" style="%(style)s">Essayez&nbsp;!</a>
 
 
 ;Frequently asked Questions
@@ -23,15 +23,15 @@ Qu'est-ce que la navigation avec géolocalisation intégrée&nbsp;?
 
 
 ;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
-Les sites Web qui utilisent la géolocalisation demanderont où vous êtes pour vous apporter les informations les plus pertinentes, où pour vous faire gagner du temps pendant vos recherches. Imaginons que vous cherchiez une pizzeria près de chez vous. Un site Web sera capable de vous demander de partager votre localisation de sorte qu'en cherchant simplement le mot «&nbsp;pizza&nbsp;» le site vous donnera les réponses dont vous avez besoin&hellip; aucune information ou saisie de texte supplémentaire n'est nécessaire.
+Les sites web qui utilisent la géolocalisation demanderont où vous êtes pour vous apporter les informations les plus pertinentes, ou pour vous faire gagner du temps pendant vos recherches. Imaginons que vous cherchiez une pizzeria près de chez vous. Un site web sera capable de vous demander de partager votre localisation de sorte qu'en cherchant simplement le mot «&nbsp;pizza&nbsp;» le site vous donnera les réponses dont vous avez besoin&hellip; aucune information ou saisie de texte supplémentaire n'est nécessaire.
 
 
 ;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
-Ou si vous cherchez votre route pour vous rendre quelque part, le site Web saura où vous vous trouvez, ainsi vous n'aurez à indiquer que votre destination.
+Ou si vous cherchez votre route pour vous rendre quelque part, le site web saura où vous vous trouvez, ainsi vous n'aurez à indiquer que votre destination.
 
 
 ;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
-Ce service est totalement optionnel &ndash; Firefox ne partage pas votre localisation sans votre permission &ndash; et est réalisé avec le plus grand respect de votre vie privée. Et, comme tous les éléments de Firefox, il a été créé en utilisant des standards ouverts pour faciliter son adoption par les développeurs Web.
+Ce service est totalement optionnel &ndash; Firefox ne partage pas votre localisation sans votre permission &ndash; et est réalisé avec le plus grand respect de votre vie privée. Et, comme tous les éléments de Firefox, il a été créé en utilisant des standards ouverts pour faciliter son adoption par les développeurs web.
 
 
 ;How does it work?
@@ -39,15 +39,15 @@ Comment ça fonctionne&nbsp;?
 
 
 ;When you visit a location-aware website, Firefox will ask you if you want to share your location.
-Quand vous visiterez un site Web utilisant la géolocalisation, Firefox vous demandera si vous voulez partager votre localisation.
+Quand vous visiterez un site web utilisant la géolocalisation, Firefox vous demandera si vous voulez partager votre localisation.
 
 
 ;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
-Si vous êtes d'accord, Firefox rassemblera les informations sur les points d'accès sans fil alentour et l'adresse IP de votre ordinateur. Alors, Firefox enverra ces informations au fournisseur de service de géolocalisation par défaut, Google Location Services, pour faire une estimation de votre localisation. Cette estimation de localisation est alors partagée avec le site Web qui l'a demandée.
+Si vous êtes d'accord, Firefox rassemblera les informations sur les points d'accès sans fil alentour et l'adresse IP de votre ordinateur. Alors, Firefox enverra ces informations au fournisseur de service de géolocalisation par défaut, Google Location Services, pour faire une estimation de votre localisation. Cette estimation de localisation est alors partagée avec le site web qui l'a demandée.
 
 
 ;If you say that you do not consent, Firefox will not do anything.
-si vous n'êtes pas d'accord, Firefox ne fera rien.
+Si vous n'êtes pas d'accord, Firefox ne fera rien.
 
 
 ;How accurate are the locations?
@@ -55,7 +55,7 @@ Quelle est la précision des localisations&nbsp;?
 
 
 ;Accuracy varies greatly from location to location. In some places, our service providers may be able to provide a location to within a few meters. However, in other areas it might be much more than that. All locations returned by our service providers are estimates only and we do not guarantee the accuracy of the locations provided. Please do not use this information for emergencies. Always use common sense.
-La précision dépend beaucoup d'un endroit à un autre. Dans certains endroits, nos fournisseurs de service peuvent être capables de fournir une localisation à quelques mètres près. Cependant, dans d'autres zones, cela pourrait être beaucoup plus que ça. Toutes les localisations fournies par nos fournisseurs de service ne sont que des estimations et nous ne garantissons pas la précision des localisations fournies. Veuillez ne pas utiliser ces informations dans des situations d'urgence. Utilisez toujours votre bon sens.
+La précision varie beaucoup d'un endroit à un autre. Dans certains endroits, nos fournisseurs de service peuvent être capables de fournir une localisation à quelques mètres près. Cependant, dans d'autres zones, cela pourrait être beaucoup plus que ça. Toutes les localisations fournies par nos fournisseurs de service ne sont que des estimations et nous ne garantissons pas la précision des localisations fournies. Veuillez ne pas utiliser ces informations dans des situations d'urgence. Utilisez toujours votre bon sens.
 
 
 ;What information is being sent, and to whom? How is my privacy protected?
@@ -63,7 +63,7 @@ Quelles informations sont envoyées et à qui&nbsp;? Comment ma vie privée est-
 
 
 ;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
-Votre vie privée est extrêmement importante pour nous, et Firefox ne partage jamais votre localisation sans votre permission. Quand vous visitez une page qui demande vos informations, Firefox vous posera la question avant qu'une quelconque information ne soit partagée avec le site Web demandeur ou notre fournisseur de service tiers.
+Votre vie privée est extrêmement importante pour nous, et Firefox ne partage jamais votre localisation sans votre permission. Quand vous visitez une page qui demande vos informations, Firefox vous posera la question avant qu'une quelconque information ne soit partagée avec le site web demandeur ou notre fournisseur de service tiers.
 
 
 ;By default, Firefox uses Google Location Services to determine your location by sending:
@@ -91,7 +91,7 @@ Google Location Services renvoie alors une estimation de géolocalisation (par e
 
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
-Les informations sont échangées par l'intermédiaire d'une connexion chiffrée pour protéger votre vie privée. Quand Firefox à vos informations de localisation, il les transmet au site Web qui l'a demandé. À aucun moment, le nom, l'adresse du site Web que vous visitez, ou des cookies, ne sont partagés avec Google Location Services.
+Les informations sont échangées par l'intermédiaire d'une connexion chiffrée pour protéger votre vie privée. Quand Firefox à vos informations de localisation, il les transmet au site web qui l'a demandé. À aucun moment, le nom, l'adresse du site Web que vous visitez, ou des cookies, ne sont partagés avec Google Location Services.
 
 
 ;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
@@ -99,7 +99,7 @@ Ni Mozilla, ni Google n'utiliseront les informations collectées par Google Loca
 
 
 ;For information about what the requesting website does with your location information, please refer to that website’s privacy policy.
-Pour des informations concernant ce que le site Web demandeur fait avec vos informations de localisation, veuillez consulter la politique de confidentialité du site Web.
+Pour des informations concernant ce que le site web demandeur fait avec vos informations de localisation, veuillez consulter la politique de confidentialité du site web.
 
 
 ;For more information about your privacy, you should also read:
@@ -119,7 +119,7 @@ Suis-je pisté lors de ma navigation&nbsp;?
 
 
 ;No. Firefox only requests a location when a website makes a request, and only shares your location when the user has approved the request. Firefox does not track or remember your location as you browse.
-Non. Firefox ne demande une localisation que lorsqu'un site Web en fait la requête, et ne partage cette information que si l'utilisateur est d'accord. Firefox ne vous piste pas et n'enregistre pas votre localisation pendant votre navigation.
+Non. Firefox ne demande une localisation que lorsqu'un site web en fait la requête, et ne partage cette information que si l'utilisateur est d'accord. Firefox ne vous piste pas et n'enregistre pas votre localisation pendant votre navigation.
 
 
 ;How do I undo a permission granted to a site?

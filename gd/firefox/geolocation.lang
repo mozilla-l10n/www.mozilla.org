@@ -1,0 +1,200 @@
+## active ##
+## NOTE: url is https://www.mozilla.org/firefox/geolocation/
+
+
+;Geolocation in Firefox
+Geò-amasadh ann am Firefox
+
+
+;Location-Aware Browsing
+Brabhsadh a tha mothachail dha d' àite
+
+
+;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
+'S urrainn do Firefox innse do làraichean cà bheil thu ach am faigh thu fiosrachadh a tha nas fhreagarraiche 's nas fheumaile dhut. Seo dòigh air am fàs an lìon nas glice &ndash; agus nithear seo air dòigh a bheir làn urram dha do phrìobhaideachd. <a href="%(url)s" id="%(id)s" style="%(style)s">Siuthad, feuch ris ma-thà!</a>
+
+
+;Frequently asked Questions
+Ceistean Àbhaisteach
+
+
+;What is Location-Aware Browsing?
+Gu dè tha ann am brabhsadh a tha mothachail dha m' àite?
+
+
+;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
+Tha cuid dhe na làraichean air an lìon mothachail dha d' àite 's iad "a' cur ceist" cà bheil thu gus an urrainn dhaibh fiosrachadh a thoirt dhut a tha nas fhreagarraiche dhut, no gus do thìde a chaomhnadh. Can gu bheil thu a' lorg àite pizza 'nad sgìre. Leis an rud seo, 's urrainn do làrach d' àite iarraidh agus cha leig thusa a leas an uairsin ach "pizza" a lorg air an lìon 's bheir e dhut àitichean 'nad sgìre... 's cha bhi agad ri barrachd rudan a thaidhpeadh a-steach.
+
+
+;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
+No, can gu bheil thu a' lorg an rathad gu àite air choireigin. Bidh fios aig an làrach cà bheil thu a' tòiseachadh agus mar sin, cha bhi agad ach innse dha cà bheil thu a' dol.
+
+
+;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
+'S e seirbheis a tha gu tur roghainneil a tha seo &ndash; chan eil Firefox a' dol a thoirt seachad d' àite gun chead uat &ndash; agus ma bheir, bheir e làn urram dha do phrìobhaideachd. Agus, cha mhòr mar gach eileamaid ann am Firefox, tha an t-seirbheis seo 'ga cruthachadh le bun-tomhasan fosgailte a nì e nas fhasa do luchd-leasachadh-lìn an cleachdadh.
+
+
+;How does it work?
+Ciamar a dh'obraicheas e?
+
+
+;When you visit a location-aware website, Firefox will ask you if you want to share your location.
+Ma thadhlas tu air làrach a tha mothachail dha d' àite, cuiridh Firefox ceist ort saoil a bheil thu airson fiosrachadh mu d' àite a thoirt seachad.
+
+
+;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
+Ma dh'aontaicheas tu leis, cruinnichidh Firefox fiosrachadh o puingean-inntrigidh uèrleis a tha faisg ort agus seòladh IP a' choimpiutair agad. Cuiridh Firefox am fiosrachadh seo do sholaraiche bunaiteach na seirbheise geò-amasaidh, Seirbheisean Amasadh Google, an uairsin gus tomhas a dhèanamh air d' àite. Agus thèid tomhas d' àite a chur gun làrach a rinn a dh'iarr e an uairsin.
+
+
+;If you say that you do not consent, Firefox will not do anything.
+Ma dhiùltas tu seo, cha doir Firefox seachad rud sam bith.
+
+
+;How accurate are the locations?
+Dè cho pongail 's a tha seo?
+
+
+;Accuracy varies greatly from location to location. In some places, our service providers may be able to provide a location to within a few meters. However, in other areas it might be much more than that. All locations returned by our service providers are estimates only and we do not guarantee the accuracy of the locations provided. Please do not use this information for emergencies. Always use common sense.
+Tha pongaileachd an amasaidh ag atharrachadh gu mòr o àite gu àite. 'S urrainn do sholaraichean na seirbheise againn innse dhuinn cà bheil cha mhòr taobh a-staigh meatair no dhà ann an cuid de dh'àitichean. Ge-tà, faodaidh gum bi seo fada nas tuairmsiche ann an àitichean eile. Chan eil anns an dàta a bheir solaraichean na seirbheise againn dhuinn ach tuairmeas agus chan eil sinn a' toirt barantas gu bheil na h-àitichean sin ceart. Na cleachd am fiosrachadh seo ann an èiginn. Cleachd do thoinisg an-còmhnaidh.
+
+
+;What information is being sent, and to whom? How is my privacy protected?
+Dè am fiosrachadh a tha 'ga thoirt seachad agus cò thuige? Ciamar a dhìonas sibh mo phrìobhaideachd?
+
+
+;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
+Tha do phrìobhaideachd glè chudromach dhuinn agus cha doir Firefox seachad fiosrachadh d' àite gun chead fhaighinn uat idir. Ma thadhlas tu air duilleag a dh'iarras fiosrachadh d' àite, thèid ceist a chur ort an toiseach mus dèid am fiosrachadh a thoirt dhan làrach a dh'iarr e 's do sholaraiche an treas phàrtaidh againn.
+
+
+;By default, Firefox uses Google Location Services to determine your location by sending:
+Tha Firefox a' cleachdadh Seirbheisean Amasadh Google a ghnàth gus d' àite amasadh le bhith a' cur na leanas:
+
+
+;your computer’s IP address,
+seòladh IP a' choimpiutair agad,
+
+
+;information about the nearby wireless access points, and
+fiosrachadh air na puingean-inntrigidh uèrleis faisg ort agus
+
+
+;a random client identifier, which is assigned by Google, that expires every 2 weeks.
+àireamh thuairmseach a chomharraicheas cliant (cruthaichidh Google seo) 's a thèid à bith a h-uile 2 sheachdain.
+
+
+;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
+Ma tha mìneachadh iomlan a dhìth ort mun fhiosrachadh a chruinnicheas is a chleachdas Firefox, cuir sùil air a' <a href="%(url)s">phoileasaidh phrìobhaideachd aig Firefox</a> (ann am Beurla).
+
+
+;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
+Tha Seirbheisean Amasadh Google a' tilleadh tuairmeas air d' àite an uairsin (m.e. domhan-leud is domhan-fhad). Ma tha mìneachadh iomlan a dhìth ort mun fhiosrachadh a chruinnicheas is a chleachdas Google, cuir sùil air <a href="%(url)s" class="%(class)s">poileasaidh prìobhaideachd a' gheò-amasaidh aig Google</a> (ann am Beurla).
+
+
+;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
+Thèid am fiosrachadh a chur a-null air ceangal dubh-cheilte gus do phrìobhaideachd a dhìon. Nuair a gheibh Firefox fiosrachadh d' àite, sìnidh e sin air adhart dhan làrach a dh'iarr e. Cha dèid ainm no seòladh na làraiche a tha thu a' tadhal air no briosgaid sam bith a co-roinneadh le Seirbheisean Amasaidh Google.
+
+
+;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
+Cha chleachd Mozilla no Google am fiosrachadh a chruinnich Seirbheisean Amasaidh Google gus greim fhaighinn air do dhearbh-aithne no gus dearcadh air na tha thu ris.
+
+
+;For information about what the requesting website does with your location information, please refer to that website’s privacy policy.
+Ma tha thu airson faighinn a-mach na nì an làrach a dh'iarr d' àite leis an fhiosrachadh seo, cuir sùil air poileasaidh prìobhaideachd na làraiche sin.
+
+
+;For more information about your privacy, you should also read:
+Bu chòir dhut sùil a thoirt air na leanas cuideachd airson barrachd fiosrachaidh mu do phrìobhaideachd:
+
+
+;Mozilla Firefox Privacy Notice
+Am poileasaidh prìobhaideachd aig Mozilla Firefox
+
+
+;Google privacy policy
+Am poileasaidh prìobhaideachd aig Google
+
+
+;Am I being tracked as I browse the web?
+A bheilear a' dearcadh orm 's mi seòladh an lìn?
+
+
+;No. Firefox only requests a location when a website makes a request, and only shares your location when the user has approved the request. Firefox does not track or remember your location as you browse.
+Chan eil. Chan iarr Firefox d' àite ach ma dh'iarras làrach-lìn seo agus cha doir e seachad am fiosrachadh seo ach ma dh'aontaicheas tu ris an iarrtas. Cha dearc Firefox ort 's cha chuimhnich e d' àite 's tu a' brabhsadh an lìn.
+
+
+;How do I undo a permission granted to a site?
+Ciamar a bheir mi air falbh cead a thug mi do làrach roimhe?
+
+
+;If you've given Firefox permission to always give your location to a site and later change your mind, you can easily revoke that permission. Here's how:
+Ma thug thu cead do Firefox d' àite a thoirt seachad fad na h-ùine do làrach 's ma chuireas tu a chaochladh romhad, tha e furasta an cead a thoirt air falbh. Dèan na leanas:
+
+
+;Navigate to the site to which you’ve given permission
+Rach dhan làrach dhan dug thu cead roimhe
+
+
+;Go to the <em>Tools</em> menu, then select <em>Page Info</em>
+Rach gu clàr-taice nan <em>Innealan</em> is tagh <em>Fiosrachadh na duillege</em>
+
+
+;Select the <em>Permissions</em> tab
+Tagh taba nan <em>Ceadachasan</em>
+
+
+;Change the setting for <em>Share Location</em>
+Atharraich an roghainn airson <em>Nochdadh d' àite</em>
+
+
+;How do I clear the “random client identification number”?
+Ciamar a ghlanas mi às an "àireamh thuairmseach a chomharraicheas cliant"?
+
+
+;Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>
+Rach gu clàr-taice nan <em>Innealan</em> is tagh <em>Glan an eachdraidh faisg ort</em>
+
+
+;Click the <em>Details</em> arrow
+Briog air saighead a' <em>Mhion-fhiosrachaidh</em>
+
+
+;Ensure that <em>Cookies</em> is selected
+Dèan cinnteach gu bheil cromag ri <em>Briosgaidean</em>
+
+
+;Click on <em>Clear Now</em>
+Briog air <em>Glan an-dràsta</em>
+
+
+;How do I turn off Location-Aware Browsing permanently?
+Ciamar a chuireas mi dheth am brabhsadh a mhothaicheas dha m' àite gu buan?
+
+
+;Location-Aware Browsing is always opt-in in Firefox. No location information is ever sent without your permission. If you wish to disable the feature completely, please follow this set of steps:
+'S e gleus thaghas cuideigin iad fhèin ann am Firefox a tha sa bhrabhsadh a mhothaicheas dha d' àite. Cha dèid fiosrachadh a thoirt seachad gun chead uat idir. Ma tha thu ag iarraidh am feart seo a chur dheth gu tur, dèan na leanas:
+
+
+;In the URL bar, type <code>about:config</code>
+Cuir a-steach <code>about:config</code> ann am bàr nan URL
+
+
+;Type <code>geo.enabled</code>
+Cuir a-steach <code>geo.enabled</code>
+
+
+;Double click on the <em>geo.enabled</em> preference
+Dèan briogadh dùbailte air an roghainn <em>geo.enabled</em>
+
+
+;Location-Aware Browsing is now disabled
+Bidh am brabhsaidh a mhothaicheas dha d' àite dheth a-nis
+
+
+;Where am I?
+Cà bheil mi?
+
+
+;Oops! An error occurred while trying to determine your position.
+Mo chreach! Thachair mearachd nuair a bhathar airson d' àite amasadh.
+
+

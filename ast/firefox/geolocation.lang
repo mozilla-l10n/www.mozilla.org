@@ -1,0 +1,200 @@
+## active ##
+## NOTE: url is https://www.mozilla.org/firefox/geolocation/
+
+
+;Geolocation in Firefox
+Xeollocalización en Firefox
+
+
+;Location-Aware Browsing
+Navegación según l'allugamientu
+
+
+;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
+Firefox puede dici-yos a les webs au t'allugues, d'esta miente puedes atopar información más importante y útil. Trátase de facer la Web más intelixente &ndash; y faise de mou totalmente priváu. <a href="%(url)s" id="%(id)s" style="%(style)s">¡Pruébalo!</a>
+
+
+;Frequently asked Questions
+Entrugues frecuentes
+
+
+;What is Location-Aware Browsing?
+¿Qué ye la Navegación según l'allugamientu?
+
+
+;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
+Los sitios web qu'usen navegación considerando la llocalización van entrugate au tas pa poder date información más importante, o p'aforrate tiempu mientres guetes. Supongamos qu'andes guetando una sidrería na to redolada. Un sitiu web va pidite que-y informes de la to llocalización pa que, guetando simplemente "sidrería", te dea les rempuestes que necesites... ensin tener qu'escribir o dar más información.
+
+
+;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
+O, si andes guetando instrucciones nun mapa p'aportar a dalgún sitiu, el sitiu web va saber d'aú partes, asina que namái vas tener que dicir aú quies dir.
+
+
+;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
+Esti serviciu ye totalmente opcional &ndash; Firefox nun comparte la to llocalización ensin el to permisu &ndash; y faise col másimu respetu pola to privacidá. Y, como tolos elementos de Firefox, fízose usando estándares abiertos pa facilitar la adopción por desendolcadores web.
+
+
+;How does it work?
+¿Cómo furrula?
+
+
+;When you visit a location-aware website, Firefox will ask you if you want to share your location.
+Cuando visites un sitiu web que considera la to llocalización, Firefox va entrugate si quies compartir la to posición.
+
+
+;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
+Si aceutes, Firefox recopila información sobre los puntos d'accesu inalámbricu cercanos y la direición IP del to equipu. Entós Firefox manda esta información al fornidor de servicios de xeollocalización predetermináu, Google Location Services, pa obtener una estimación del to allugamientu. Esa estimación de la to llocalización unvíase entós al sitiu web que la solicitó.
+
+
+;If you say that you do not consent, Firefox will not do anything.
+Si nun aceutes, Firefox nun fadrá un res.
+
+
+;How accurate are the locations?
+¿Cómo son de precises les llocalizaciones?
+
+
+;Accuracy varies greatly from location to location. In some places, our service providers may be able to provide a location to within a few meters. However, in other areas it might be much more than that. All locations returned by our service providers are estimates only and we do not guarantee the accuracy of the locations provided. Please do not use this information for emergencies. Always use common sense.
+La exactitú cimbla considerablemente de llocalización a llocalización. En dalgunos llugares, los nuestros fornidores de serviciu pueden ufrir una llocalización con una precisión d'unos pocos metros. Sicasí, n'otres zones podríen ser munchos más. Toles llocalizaciones devueltes polos fornidores de serviciu son namái estimaciones y nun se garantiza la precisión de les mesmes. Por favor, nun uses esta información pa emerxencies. Úsala siempres con xacíu.
+
+
+;What information is being sent, and to whom? How is my privacy protected?
+¿Qué información s'unvia, y a quién? ¿Cómo se protexe la mio privacidá?
+
+
+;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
+La to privacidá ye enforma importante pa nós, y Firefox enxamás comparte la to llocalización ensin el to permisu. Cuando visites una páxina que solicite la to llocalización, va entrugásete enantes de compartir información col sitiu solicitante o el fornidor esternu de serviciu.
+
+
+;By default, Firefox uses Google Location Services to determine your location by sending:
+Por defeutu, Firefox usa Google Location Services pa determinar la to llocalización unviando:
+
+
+;your computer’s IP address,
+La direición IP del to equipu,
+
+
+;information about the nearby wireless access points, and
+Información sobre los puntos d'accesu inalámbricos cercanos,
+
+
+;a random client identifier, which is assigned by Google, that expires every 2 weeks.
+Un identificador de veceru al debalu, asignáu por Google, que caduca cada 2 selmanes.
+
+
+;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
+Pa una descripción completa de la información recopilada y usada por Firefox, por favor, llee la <a href="%(url)s">Política de Privacidá de Firefox</a> (n'Inglés).
+
+
+;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
+Google Location Services devuelve entós la to xeollocalización estimada (p.ex., llatitú y llonxitú). Pa una descripción completa de la información recopilada y usada por Google, por favor llee la <a href="%(url)s" class="%(class)s">Política de Privacidá de Xeollocalización de Google</a> (n'Inglés).
+
+
+;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
+La información intercámbiase sobre una conexón tapecida pa protexer la to privacidá. Una vegada que Firefox tien la información del to allugamientu, pása-yla al sitiu web que la solicitó. En dengún momentu se comparte'l nome o direición del sitiu web que tas visitando, nin denguna cookie, con Google Location Services.
+
+
+;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
+Nin Mozilla nin Google van usar enxamás la información recopilada por Google Location Services pa identificate o acusbate.
+
+
+;For information about what the requesting website does with your location information, please refer to that website’s privacy policy.
+Pa información sobre lo que fai'l sitiu web solicitante cola información de la to llocalización, por favor, remítete a la política de privacidá del sitiu web.
+
+
+;For more information about your privacy, you should also read:
+Pa más información sobre la to privacidá, tamién tienes de lleer:
+
+
+;Mozilla Firefox Privacy Notice
+Política de Privacidá de Firefox
+
+
+;Google privacy policy
+Política de Privacidá de Google
+
+
+;Am I being tracked as I browse the web?
+¿Fáiseme un seguimientu cuando restolo pela web?
+
+
+;No. Firefox only requests a location when a website makes a request, and only shares your location when the user has approved the request. Firefox does not track or remember your location as you browse.
+Non. Firefox namái solicita una llocalización cuando un sitiu web fai una solicitú, y namái comparte la to llocalización cuando l'usuariu aprobó la solicitú. Firefox nun anova ni remembra la to llocalización mientres restoles pela web.
+
+
+;How do I undo a permission granted to a site?
+¿Cómo torgo un permisu dáu a un sitiu?
+
+
+;If you've given Firefox permission to always give your location to a site and later change your mind, you can easily revoke that permission. Here's how:
+Si-y diste permisu a Firefox p'amosar siempre la to llocalización a un sitiu y camudes d'idega más sero, puedes torgar cenciellamente esi permisu. Equí tienes cómo facelo:
+
+
+;Navigate to the site to which you’ve given permission
+Navega fasta'l sitiu al que-y diste permisu
+
+
+;Go to the <em>Tools</em> menu, then select <em>Page Info</em>
+Vete al menú <em>Ferramientes</em>, y seleiciona <em>Información de la páxina</em>
+
+
+;Select the <em>Permissions</em> tab
+Seleiciona llingüeta <em>Permisos</em>
+
+
+;Change the setting for <em>Share Location</em>
+Camuda'l valor pa <em>Compartir llocalización</em>
+
+
+;How do I clear the “random client identification number”?
+¿Cómo desanicio'l “númberu al debalu d'identificación del veceru”?
+
+
+;Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>
+Vete al menú <em>Ferramientes</em>, y seleiciona <em>Llimpiar l'hestorial reciente</em>
+
+
+;Click the <em>Details</em> arrow
+Calca na flecha de <em>Detalles</em>
+
+
+;Ensure that <em>Cookies</em> is selected
+Asegúrate de seleicionar les <em>Cookies</em>
+
+
+;Click on <em>Clear Now</em>
+Calca en <em>Llimpiar agora</em>
+
+
+;How do I turn off Location-Aware Browsing permanently?
+¿Cómo faigo pa desactivar dafechu la Navegación según l'allugamientu?
+
+
+;Location-Aware Browsing is always opt-in in Firefox. No location information is ever sent without your permission. If you wish to disable the feature completely, please follow this set of steps:
+La navegación según l'allugamientu ye siempres una eleición del usuariu en Firefox. Enxamás s'unvia información d'allugamientu ensin el to permisu. Si quies desactivar la funcionalidá ensembre, por favor, sigui estos pasos:
+
+
+;In the URL bar, type <code>about:config</code>
+Na barra de direiciones, escribi <code>about:config</code>
+
+
+;Type <code>geo.enabled</code>
+Escribi <code>geo.enabled</code>
+
+
+;Double click on the <em>geo.enabled</em> preference
+Calca 2 vegaes na preferencia <em>geo.enabled</em>
+
+
+;Location-Aware Browsing is now disabled
+Agora, la navegación según l'allugamientu ta desactivada
+
+
+;Where am I?
+¿Ú toi?
+
+
+;Oops! An error occurred while trying to determine your position.
+¡Ups! Hebo un fallu al intentar determinar la to posición
+
+

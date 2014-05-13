@@ -1,0 +1,200 @@
+## active ##
+## NOTE: url is https://www.mozilla.org/firefox/geolocation/
+
+
+;Geolocation in Firefox
+Lleoli Daearyddol yn Firefox
+
+
+;Location-Aware Browsing
+Pori Sy'n Gwybod dy Leoliad
+
+
+;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
+Mae Firefox yn gallu dweud wrth wefannau lle rwyt ti wedi dy leoli fel bod modd i ti ddod o hyd i wybodaeth sy'n fwy perthnasol a defnyddiol. Mae hyn yn gwneud y We'n fwy clyfar &ndash; ac mae'n cael ei wneud gan barchu dy breifatrwydd yn llwyr. <a href="%(url)s" id="%(id)s" style="%(style)s">Rho gynnig arni!</a>
+
+
+;Frequently asked Questions
+Cwestiynnau Cyffredin
+
+
+;What is Location-Aware Browsing?
+Beth yw Pori Sy'n Gwybod dy Leoliad?
+
+
+;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
+Gall wefannau sy'n defnyddio pori sy'n medru lleoli pobl ofyn lle'r wyt ti er mwyn darparu gwybodaeth mwy perthnasol, neu arbed amser i ti wrth chwilio. Efallai dy fod yn chwilio am fwyty pizza yn dy ardal. Gall gwefan ofyn i ti ddatgelu dy leoliad daearyddol fel bod chwilio am “pizza” yn darparu'r atebion rwyt ti eu hangen... does dim angen rhagor o wybodaeth na theipio mwy.
+
+
+;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
+Neu, os wyt ti'n mapio cyfeiriadau i fynd i rywle, bydd y wefan yn gwybod o ble rwyt ti'n cychwyn felly yr unig beth sydd angen ei ddweud yw i le rwy ti eisiau mynd.
+
+
+;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
+Mae'r gwasanaeth yma'n gwbl ddewisol &ndash; Nid yw Firefox yn rhannu dy leoliad heb dy ganiatâd &ndash; ac mae'n cael ei wneud gan barchu dy breifatrwydd yn llwyr. Fel pob elfen o Firefox, mae'n cael ei greu gan ddefnyddio safonau agored er mwyn hwyluso ei fabwysiadu gan ddatblygwyr y We.
+
+
+;How does it work?
+Sut mae'n gweithio?
+
+
+;When you visit a location-aware website, Firefox will ask you if you want to share your location.
+Wrth ymweld â gwefan sy'n gwybod dy leoliad, bydd Firefox yn gofyn a wyt ti eisiau datgelu dy leoliad.
+
+
+;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
+Os wyt yn cytuno, bydd Firefox yn casglu gwybodaeth am bwyntiau mynediad diwyfr lleol a chyfeiriad IP dy gyfrifiadur. Yna bydd Firefox yn anfon y wybodaeth at y darparwr gwybodaeth lleoli daearyddol rhagosodedig, Google Location Services, er mwyn cael bras amcan o dy leoliad. Bydd y bras amcan o dy leoliad yn cael ei rannu gyda'r wefan sy'n gofyn amdano.
+
+
+;If you say that you do not consent, Firefox will not do anything.
+Os nad wyt yn cydsynio, bydd Firefox yn gwneud dim.
+
+
+;How accurate are the locations?
+Pa mor gywir yw'r lleoli?
+
+
+;Accuracy varies greatly from location to location. In some places, our service providers may be able to provide a location to within a few meters. However, in other areas it might be much more than that. All locations returned by our service providers are estimates only and we do not guarantee the accuracy of the locations provided. Please do not use this information for emergencies. Always use common sense.
+Mae cywirdeb yn amrywio'n fawr o leoliad i leoliad. Mewn rhai mannau mae ein darparwr gwasanaeth yn gallu darparu lleoliad o fewn ychydig fetrau. Er hynny, mewn ardaloedd eraill gall fod yn llawer iawn mwy bras na hynny. Bras amcan yw'r holl leoliadau sy'n cael eu dychwelyd gan ein darparwyr gwasanaethau ac nid ydym yn gwarantu cywirdeb y lleoliadau sy'n cael eu darparu. Paid, os gweli di'n dda a defnyddio'r wybodaeth yma mewn argyfwng. Defnyddia dy synnwyr cyffredin bob tro.
+
+
+;What information is being sent, and to whom? How is my privacy protected?
+Pa wybodaeth sy'n cael ei hanfon, ac i bwy? Sut mae fy mrheifatrwydd yn cael ei ddiogelu?
+
+
+;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
+Mae dy breifatrwydd yn bwysig iawn i ni, ac ni fydd Firefox yn rhannu dy leoliad gyda neb heb dy ganiatâd. Pan fyddi'n ymweld â thudalen sy'n gofyn am dy wybodaeth, byddi'n derbyn cais cyn i unrhyw wybodaeth gael ei rannu gyda'r wefan sy'n gofyn a'n darparwr gwasanaeth trydydd parti.
+
+
+;By default, Firefox uses Google Location Services to determine your location by sending:
+Mae Firefox yn defnyddio Google Location Services i bennu dy leoliad drwy anfon:
+
+
+;your computer’s IP address,
+cyfeiriad IP dy gyfrifiadur,
+
+
+;information about the nearby wireless access points, and
+gwybodaeth am bwyntiau mynediad diwifr lleol, a
+
+
+;a random client identifier, which is assigned by Google, that expires every 2 weeks.
+dynodwr cleient ar hap, sy'n cael ei bennu gan Google, a ddaw i ben o fewn pythefnos.
+
+
+;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
+Am ddisgrifiad llawn o'r wybodaeth sy'n cael ei chasglu a'i defnyddio gan Firefox, mae modd darllen (yn Saesneg) <a href="%(url)s">Polisi Preifatrwydd Firefox</a>.
+
+
+;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
+Bydd Google Location Services yn dychwelyd yr amcan o dy leoliad (h.y., hydred a lledred). Am ddisgrifiad llawn o'r wybdaeth sy'n cael ei chasglu a'i defnyddio gan Google, mae modd darllen(yn Saesneg) <a href="%(url)s" class="%(class)s">Polisi Preifatrwydd Google Geolocation</a>.
+
+
+;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
+Mae'r wybodaeth yn cael ei chyfnewid ar draws cysylltiad amgryptiedig er mwyn diogelu dy breifatrwydd. Unwaith y bydd Firefox wedi derbyn manylion dy leoliad, bydd yn ei anfon yn ei flaen i'r wefan sy'n gofyn amdano. Ni fydd enw neu leoliad y wefan rwyt ti'n ymweld â hi nac unrhyw cwcis yn cael eu rhannu gyda Google Location Services.
+
+
+;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
+Ni fydd Mozilla na Google yn defnyddio'r wybodaeth sy'n cael ei chasglu gan Google Location Services i geisio dy adnabod nac ysbïo arnat.
+
+
+;For information about what the requesting website does with your location information, please refer to that website’s privacy policy.
+Am wybodaeth am beth fydd y wefan sy'n gofyn am dy wybodaeth lleoliad yn ei wneud ag ef, darllenna bolisi preifatrwydd y wefan.
+
+
+;For more information about your privacy, you should also read:
+Am ragor o wybodaeth am dy breifatrwydd dylet hefyd ddarllen:
+
+
+;Mozilla Firefox Privacy Notice
+Polisi preifatrwydd Mozilla Firefox
+
+
+;Google privacy policy
+Polisi preifatrwydd Google
+
+
+;Am I being tracked as I browse the web?
+A ydw i'n cael fy nilyn wrth i mi bori'r We?
+
+
+;No. Firefox only requests a location when a website makes a request, and only shares your location when the user has approved the request. Firefox does not track or remember your location as you browse.
+Na. Dim ond pan fydd gwefan yn gwneud cais y bydd Firefox yn gofyn am leoliad, a dim ond yn rhannu'r lleoliad gyda chaniatâd y defnyddiwr. Ni fydd Firefox yn dilyn na chofio dy leoliad wrth i ti bori.
+
+
+;How do I undo a permission granted to a site?
+Sut ydw i'n dadwneud caniatâd roddwyd i wefan?
+
+
+;If you've given Firefox permission to always give your location to a site and later change your mind, you can easily revoke that permission. Here's how:
+Os wyt ti wedi rhoi caniatâd i Firefox i ddarparu dy leoliad bob tro i wefan ac yna newid dy feddwl, mae'n hawdd dadwneud y caniatâd hwnnw. Dyma sut mae gwneud:
+
+
+;Navigate to the site to which you’ve given permission
+Mynd i'r wefan lle rwyt ti wedi rhoi dy ganiatâd
+
+
+;Go to the <em>Tools</em> menu, then select <em>Page Info</em>
+Mynd i'r ddewislen <em>Offer</em>, yna dewis <em>Gwybodaeth am y Dudalen</em>
+
+
+;Select the <em>Permissions</em> tab
+Dewis y tab <em>Caniatâd</em>
+
+
+;Change the setting for <em>Share Location</em>
+Newid y gosodiadau <em>Rhannu Lleoliad</em>
+
+
+;How do I clear the “random client identification number”?
+Sut ydw i'n clirio'r "rhif adnabod client ar hap"?
+
+
+;Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>
+Mynd i'r ddewislen <em>Offer</em> , yna dewis <em>Clirio'r Hanes Diweddar</em>
+
+
+;Click the <em>Details</em> arrow
+Click the <em>Details</em> arrow
+
+
+;Ensure that <em>Cookies</em> is selected
+Diogelu fod <em>Cwcis</em> wedi ei ddewis
+
+
+;Click on <em>Clear Now</em>
+Clicio ar <em>Clirio Nawr</em>
+
+
+;How do I turn off Location-Aware Browsing permanently?
+Sut mae diffodd Lleoli Daearyddol yn barhaol?
+
+
+;Location-Aware Browsing is always opt-in in Firefox. No location information is ever sent without your permission. If you wish to disable the feature completely, please follow this set of steps:
+Rhaid ymuno â Phori Lleoli Daearyddol yn Firefox. Ni fydd gwybodaeth am leoliad yn cael ei anfon heb dy ganiatâd. Os wyt ti eisiau diffodd y nodwedd yn llwyr, dilynna'r camau canlynol:
+
+
+;In the URL bar, type <code>about:config</code>
+Yn y bar URL, teipio <code>about:config</code>
+
+
+;Type <code>geo.enabled</code>
+Teipio <code>geo.enabled</code>
+
+
+;Double click on the <em>geo.enabled</em> preference
+Rho glic dwbl i ddewisiadau <em>geo.enabled</em>
+
+
+;Location-Aware Browsing is now disabled
+Mae Pori Lleoli Daearyddol wedi ei ddiffodd
+
+
+;Where am I?
+Lle'r ydw i?
+
+
+;Oops! An error occurred while trying to determine your position.
+Wps! Digwyddodd gwall werth geisio pennu dy leoliad.
+
+

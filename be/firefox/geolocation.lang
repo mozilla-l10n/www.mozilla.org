@@ -1,0 +1,200 @@
+## active ##
+## NOTE: url is https://www.mozilla.org/firefox/geolocation/
+
+
+;Geolocation in Firefox
+ГеаМесцазнаходжанне ў Firefox
+
+
+;Location-Aware Browsing
+Залежнае ад месцазнаходжання азіранне
+
+
+;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
+Firefox можа паведамляць пляцоўкам дзе вы знаходзіцеся, таму вы можаце атрымліваць больш дарэчныя і карысныя звесткі. Гэта шлях зрабіць Сеціва больш дасціпным &ndash; і гэта здзейснена так, што цалкам захоўвае ваша адасабленне. <a href="%(url)s" id="%(id)s" style="%(style)s">Паспрабуйце!</a>
+
+
+;Frequently asked Questions
+Пытанні і адказы
+
+
+;What is Location-Aware Browsing?
+Што за залежнае ад месцазнаходжання азіранне?
+
+
+;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
+Пляцоўкі, якія ўжываюць залежнае ад месцазнаходжання азіранне, запытаюць вас, ці вы хочаце атрымаць больш дарэчныя звесткі і ці хочаце захаваць ваш час падчас пошуку. Дапусцім, вы шукаеце рэстаран беларускай кухні дзесьці ў вашым раёне. Пляцоўка Сеціва можа папрасіць вас падзяліцца вашым месцазнаходжаннем, таму просты пошук “дранікі” выдасць адказы, якія вам неабходныя... Ніякія дадатковыя звесткі ці залішняе націсканне клавішаў больш не патрабуюцца.
+
+
+;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
+Ці, калі вы вызначаеце шлях да нейкага месца, пляцоўка Сеціва ведае адкуль вы пачынаеце, таму вам застаецца толькі сказаць, куды вы хочаце пайсці.
+
+
+;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
+Гэта дадатковая служба &ndash; Firefox не дзеліцца вашым месцазнаходжаннем без вашага дазволу &ndash; і гэта здзейснена так, што захоўвае ваша адасабленне. І, як усе іншыя адзінкі Firefox, яно створана, ужываючы адкрытыя стандарты, каб палегчыць засваенне распрацоўцамі Сеціва.
+
+
+;How does it work?
+Як гэта працуе?
+
+
+;When you visit a location-aware website, Firefox will ask you if you want to share your location.
+Калі вы наведаеце пляцоўку Сеціва, якая падтрымлівае залежнае ад месцазнаходжання азіранне, Firefox запытае вас, ці хочаце вы паведаміць ёй сваё месцазнаходжанне.
+
+
+;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
+Калі вы дазволіце, Firefox збярэ звесткі пра суседнія пункты бяздротавага доступу і адрас IP вашага кампутара. Пасля Firefox дашле гэтыя звесткі змоўчнаму дастаўшчыку службаў геамесцазнаходжання, Службам Месцазнаходжання Google, каб атрымаць прыблізную ацэнку вашага месцазнаходжання. Гэтая ацэнка будзе даслана пляцоўцы, якая запытвае яе.
+
+
+;If you say that you do not consent, Firefox will not do anything.
+Калі вы не дазволіце, Firefox нічога не будзе рабіць.
+
+
+;How accurate are the locations?
+Наколькі дакладныя месцазнаходжанні?
+
+
+;Accuracy varies greatly from location to location. In some places, our service providers may be able to provide a location to within a few meters. However, in other areas it might be much more than that. All locations returned by our service providers are estimates only and we do not guarantee the accuracy of the locations provided. Please do not use this information for emergencies. Always use common sense.
+Дакладнасць вызначэння месцазнаходжання значна змяняецца ў залежнасці ад месца. У іншых дастаўшчыкі службы могуць вызначыць месцазнаходжанне з дакладнасцю ў некалькі метраў. Але ў іншых вызначэнне можа быць куды горшым. Усе месцазнаходжанні, якія вяртаюцца дастаўшчыкамі службы, толькі прыбліжэнні і мы не даём зарукі, што месцазнаходжанні будуць дакладнымі. Не ўжывайце, калі ласка, гэтыя звесткі ў крызісных выпадках. Карыстайцеся сваім розумам.
+
+
+;What information is being sent, and to whom? How is my privacy protected?
+Якія звесткі дасылаюцца і каму? Як засцерагаецца маё адасабленне?
+
+
+;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
+Ваша адасабленне надзвычайна важна для нас і Firefox ніколі не паведамляе ваша месцазнаходжанне без вашага дазволу. Калі вы наведваеце старонку, якая запытвае вашы звесткі, вас спытаюць перад тым, як дасылаць нейкія звесткі пляцоўцы, якая патрабуе іх, і пабочнаму дастаўшчыку службы.
+
+
+;By default, Firefox uses Google Location Services to determine your location by sending:
+Змоўчна Firefox выкарыстоўвае Службы Месцазнаходжання Google, каб вызначыць ваша месцазнаходжанне, і дасылае наступныя звесткі:
+
+
+;your computer’s IP address,
+адрас IP вашага кампутара,
+
+
+;information about the nearby wireless access points, and
+звесткі пра пра суседнія пункты бяздротавага доступу,
+
+
+;a random client identifier, which is assigned by Google, that expires every 2 weeks.
+выпадковы вызначальнік спажыўца, прызначаны Google, які знясільваецца кожныя два тыдні.
+
+
+;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
+Каб азнаёміцца з поўным апісаннем звестак, якія збіраюцца і выкарыстоўваюцца Firefox, прачытайце, калі ласка, <a href="%(url)s">Палітыку Прыватнасці Firefox</a> (па-англійску).
+
+
+;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
+Службы Месцазнаходжання Google тады вяртае ваша прыблізнае геамесцазнаходжанне (напрыклад: шырата і даўгата). Каб азнаёміцца з поўным апісаннем звестак, якія збіраюцца і выкарыстоўваюцца Google, прачытайце, калі ласка, <a href="%(url)s" class="%(class)s">Палітыку Прыватнасці Службаў Месцазнаходжання Google</a> (па-англійску).
+
+
+;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
+Звесткі абменьваюцца праз тайнапіснае злучэнне, каб засцерагчы ваша адасабленне. Калі Firefox атрымлівае звесткі пра ваша месцазнаходжанне, ён перадае іх пляцоўкам Сеціва, якія запытваюць іх. Ніколі назва ці месцазнаходжанне пляцоўкі, якую вы наведваеце, ніколі ніякія біркі не дасылаюцца Службам Месцазнаходжання Google.
+
+
+;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
+Ні Mozilla, ні Google не выкарыстоўваюць звесткі, назбіраныя Службамі Месцазнаходжання Google, каб вызначаць вас або сачыць за вамі.
+
+
+;For information about what the requesting website does with your location information, please refer to that website’s privacy policy.
+Каб даведацца, што робяць з звесткамі пляцоўкі Сеціва, якія запытваюць ваша месцазнаходжанне, прачытайце, калі ласка, палітыкі прыватнасці гэтых пляцовак.
+
+
+;For more information about your privacy, you should also read:
+Каб мець больш падрабязныя звесткі пра ваша адасабленне, вы мусіце прачытаць:
+
+
+;Mozilla Firefox Privacy Notice
+палітыку прыватнасці Mozilla Firefox
+
+
+;Google privacy policy
+палітыку прыватнасці Google
+
+
+;Am I being tracked as I browse the web?
+За мной пільнуюць, калі я азіраю Сеціва?
+
+
+;No. Firefox only requests a location when a website makes a request, and only shares your location when the user has approved the request. Firefox does not track or remember your location as you browse.
+Не. Firefox запытвае месцазнаходжанне толькі тады, калі пляцоўка Сеціва робіць запыт, і паведамляе ваша месцазнаходжанне толькі тады, калі вы адабраеце запыт. Firefox не пільнуе і не запамінае ваша месцазнаходжанне падчас азірання.
+
+
+;How do I undo a permission granted to a site?
+Якім чынам я магу адмяніць дазвол, дадзены пляцоўцы?
+
+
+;If you've given Firefox permission to always give your location to a site and later change your mind, you can easily revoke that permission. Here's how:
+Калі вы дазволілі Firefox заўсёды паведамляць ваша месцазнаходжанне пляцоўцы і пазней перадумалі, вы лёгка можаце скасаваць свой дазвол наступным чынам:
+
+
+;Navigate to the site to which you’ve given permission
+Перайдзіце на пляцоўку, якой вы далі дазвол.
+
+
+;Go to the <em>Tools</em> menu, then select <em>Page Info</em>
+Адкрыйце меню <em>Прылады</em>, вылучыце <em>Звесткі пра старонку</em>.
+
+
+;Select the <em>Permissions</em> tab
+Выберыце ўстаўку <em>Дазволы</em>.
+
+
+;Change the setting for <em>Share Location</em>
+Змяніце наладжванне <em>Дзяліцца месцазнаходжаннем</em>.
+
+
+;How do I clear the “random client identification number”?
+Якім чынам я магу ачысціць “выпадковы нумар вызначэння спажыўца”?
+
+
+;Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>
+Адкрыйце меню <em>Прылады</em>, вылучыце <em>Ачысціць нядаўнюю гісторыю</em>.
+
+
+;Click the <em>Details</em> arrow
+Пстрыкніце стрэлку <em>Падрабязнасці</em>.
+
+
+;Ensure that <em>Cookies</em> is selected
+Упэўніцеся, што пазначаны <em>Біркі</em>.
+
+
+;Click on <em>Clear Now</em>
+Пстрыкніце <em>Ачысціць зараз</em>.
+
+
+;How do I turn off Location-Aware Browsing permanently?
+Якім чынам я магу выключыць залежнае ад месцазнаходжання азіранне наогул і назаўсёды?
+
+
+;Location-Aware Browsing is always opt-in in Firefox. No location information is ever sent without your permission. If you wish to disable the feature completely, please follow this set of steps:
+Залежнае ад месцазнаходжання азіранне заўсёды неабавязковае ў Firefox. Ніякія звесткі пра месцазнаходжанне ніколі не дасылаюцца без вашага дазволу. Калі вы хочаце забараніць гэтую асаблівасць наогул, выканайце наступнае:
+
+
+;In the URL bar, type <code>about:config</code>
+Набярыце на паліцы URL <code>about:config</code>.
+
+
+;Type <code>geo.enabled</code>
+Набярыце <code>geo.enabled</code>.
+
+
+;Double click on the <em>geo.enabled</em> preference
+Двойчы пстрыкніце па перавазе <em>geo.enabled</em>.
+
+
+;Location-Aware Browsing is now disabled
+Залежнае ад месцазнаходжання азіранне забароніцца.
+
+
+;Where am I?
+Дзе я?
+
+
+;Oops! An error occurred while trying to determine your position.
+Ах! Здарылася памылка падчас вызначэння вашага месцазнаходжання.
+
+

@@ -3,7 +3,7 @@
 
 
 ;Geolocation in Firefox
-Geolocalizzazione in Firefox
+Georilevazione in Firefox
 
 
 ;Location-Aware Browsing
@@ -23,7 +23,7 @@ Che cosa si intende con navigazione geolocalizzata?
 
 
 ;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
-Un sito web che utilizza la navigazione geolocalizzata potrà richiedere la tua posizione per offrire informazioni più rilevanti e ricerche più rapide. Ipotizziamo che tu stia cercando una pizzeria vicino a dove ti trovi. Il sito potrà chiederti di comunicare la tua posizione e fare in modo che, cercando "pizza", verranno mostrati solo risultati utili… senza bisogno di digitare nessun'altra informazione.
+Un sito web che utilizza la navigazione geolocalizzata potrà richiedere la tua posizione per offrire informazioni più rilevanti e ricerche più rapide. Ipotizziamo che tu stia cercando una pizzeria vicino a dove ti trovi. Il sito potrà chiederti di comunicare la tua posizione e fare in modo che, cercando "pizza", vengano mostrati solo risultati utili… senza bisogno di digitare nessun’altra informazione.
 
 
 ;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
@@ -31,7 +31,7 @@ Oppure, se stai cercando indicazioni per raggiungere un luogo, il sito sarà in 
 
 
 ;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
-Questo servizio è assolutamente facoltativo &ndash; Firefox non trasmette la tua posizione senza il tuo consenso &ndash; e viene gestito nel completo rispetto della tua privacy. Inoltre, come tutte le tecnologie alla base di Firefox, è realizzato utilizzando standard aperti per facilitarne l'adozione da parte di tutti gli sviluppatori web.
+Questo servizio è assolutamente facoltativo &ndash; Firefox non trasmette la tua posizione senza il tuo consenso &ndash; e viene gestito nel completo rispetto della tua privacy. Inoltre, come tutte le tecnologie alla base di Firefox, è realizzato utilizzando standard aperti per facilitarne l’adozione da parte di tutti gli sviluppatori web.
 
 
 ;How does it work?
@@ -43,7 +43,7 @@ Quando visiti un sito che utilizza la navigazione geolocalizzata, Firefox chiede
 
 
 ;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
-Se acconsenti, Firefox raccoglierà informazioni sui punti di accesso wireless nelle vicinanze e sull'indirizzo IP del tuo computer. Successivamente Firefox trasmetterà questi dati al fornitore predefinito per il servizio di geolocalizzazione, Google Location Services, per ricevere una stima della tua posizione. Infine questa informazione verrà comunicata al sito web che ne ha fatto richiesta.
+Se acconsenti, Firefox raccoglierà informazioni sui punti di accesso wireless nelle vicinanze e sull’indirizzo IP del tuo computer. Successivamente Firefox trasmetterà questi dati al fornitore predefinito per il servizio di georilevazione, Google Location Services, per ricevere una stima della tua posizione. Infine questa informazione verrà comunicata al sito web che ne ha fatto richiesta.
 
 
 ;If you say that you do not consent, Firefox will not do anything.
@@ -55,7 +55,7 @@ Quanto è precisa la posizione indicata?
 
 
 ;Accuracy varies greatly from location to location. In some places, our service providers may be able to provide a location to within a few meters. However, in other areas it might be much more than that. All locations returned by our service providers are estimates only and we do not guarantee the accuracy of the locations provided. Please do not use this information for emergencies. Always use common sense.
-La precisione varia a seconda della posizione in cui ti trovi. In alcune zone i nostri fornitori di servizio sono in grado di determinare la posizione con uno scarto di pochi metri, in altre l'accuratezza potrebbe essere notevolmente inferiore. Tutte le posizioni restituite sono stimate e non garantiamo l'accuratezza dei dati. Non utilizzare queste informazioni in situazioni di emergenza, usa sempre il buon senso.
+La precisione varia a seconda della posizione in cui ti trovi. In alcune zone i nostri fornitori di servizio sono in grado di determinare la posizione con uno scarto di pochi metri, in altre l’accuratezza potrebbe essere notevolmente inferiore. Tutte le posizioni restituite sono stimate e non garantiamo l’accuratezza dei dati. Non utilizzare queste informazioni in situazioni di emergenza, usa sempre il buon senso.
 
 
 ;What information is being sent, and to whom? How is my privacy protected?
@@ -71,7 +71,7 @@ Come impostazione predefinita, Firefox utilizza Google Location Services per det
 
 
 ;your computer’s IP address,
-L'indirizzo IP del tuo computer.
+L’indirizzo IP del tuo computer.
 
 
 ;information about the nearby wireless access points, and
@@ -83,11 +83,11 @@ Un codice identificativo casuale del client, assegnato da Google, che scade ogni
 
 
 ;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
-Per una descrizione completa delle informazioni raccolte e utilizzate da Firefox, fai riferimento all'<a href="%(url)s">informativa sulla privacy di Firefox</a> (in inglese).
+Per una descrizione completa delle informazioni raccolte e utilizzate da Firefox, fai riferimento all’<a href="%(url)s">informativa sulla privacy di Firefox</a> (in inglese).
 
 
 ;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
-Google Location Services restituisce una stima della tua posizione (latitudine e longitudine). Per il dettaglio delle informazioni raccolte e utilizzate da Google, consulta l'<a href="%(url)s" class="%(class)s">informativa sulla privacy di Google Geolocation</a> (in inglese).
+Google Location Services restituisce una stima della tua posizione (latitudine e longitudine). Per il dettaglio delle informazioni raccolte e utilizzate da Google, consulta l’<a href="%(url)s" class="%(class)s">informativa sulla privacy di Google Geolocation</a> (in inglese).
 
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
@@ -99,7 +99,7 @@ Né Mozilla né Google utilizzeranno mai le informazioni raccolte da Google Loca
 
 
 ;For information about what the requesting website does with your location information, please refer to that website’s privacy policy.
-Per informazioni sulle operazioni effettuate dal sito sui dati relativi alla tua posizione, fai riferimento all'informativa sulla privacy del sito stesso.
+Per informazioni sulle operazioni effettuate dal sito sui dati relativi alla tua posizione, fai riferimento all’informativa sulla privacy del sito stesso.
 
 
 ;For more information about your privacy, you should also read:

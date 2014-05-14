@@ -1,5 +1,7 @@
 ## active ##
 ## NOTE: http://www-dev.allizom.org/lightbeam
+
+
 # Navigation
 ;Menu
 メニュー
@@ -32,7 +34,6 @@ Lightbeam は Firefox 向けのアドオンで、ユーザが直接やりとり�
 
 ;As you browse, Lightbeam reveals the full depth of the Web today, including parts that are not transparent to the average user.
 Web の閲覧を行うと、Lightbeam によって、一般のユーザには見えない部分も含めて Web の現在の様子が深く掘り下げられ、明らかになります。
-
 
 
 ;Download Lightbeam for Firefox
@@ -192,7 +193,12 @@ Lightbeam は 2011 年 7 月に、Mozilla のソフトウェア開発者 <a href
 2012 年 2 月に、当時 Mozilla の CEO であった Gary Kovacs が、オンラインでの追跡を明らかにするということについて語った <a href="%s">TED talk</a> (現在この講演は TED talk の中でも最も視聴されている講演の 1 つになっています) で、Collusion を紹介しました。
 
 
+# Updated string
+;In September 2012, Mozilla joined forces with faculty and student researchers at <a href="%s">Emily Carr University of Art + Design</a> to develop and implement visualizations for the add-on.
+In September 2012, Mozilla joined forces with faculty and student researchers at <a href="%s">Emily Carr University of Art + Design</a> to develop and implement visualizations for the add-on.
 
+
+# Obsolete string, will be removed once the new one is localized.
 ;In September 2012, Mozilla joined forces with students at <a href="%s">Emily Carr University of Art + Design</a> to develop and implement visualizations for the add-on.
 2012 年 9 月、Mozilla は<a href="%s">エミリー・カー美術大学</a>の学生たちと協力してこのアドオンの開発を進め、実装しました。
 
@@ -213,6 +219,12 @@ Mozilla が目指す方向性と追跡に関するより大きな展望
 Mozilla は、誰もが自分のオンランのプライバシーについて、また、そのデータを誰が収集するかについて、自分自身で意思決定するためのツールが必要であると考えています。
 
 
+# Updated string
+;With the Lightbeam add-on, we are providing a valuable (and open) community research platform that aims to raise awareness, promote analysis and, ultimately, affect policy change in the areas of tracking and privacy.
+With the Lightbeam add-on, we are providing a valuable (and open) community research platform that aims to raise awareness, promote analysis and, ultimately, affect policy change in the areas of tracking and privacy.
+
+
+# Obsolete string, will be removed once the new one is localized.
 ;With the Lightbeam add-on and database server, we are providing a valuable (and open) community research platform that aims to raise awareness, promote analysis and, ultimately, affect policy change in the areas of tracking and privacy.
 Mozilla は Lightbeam アドオンとデータベースによって、コミュニティが調査を行うための貴重なプラットフォームを提供しようとしています。それが追跡とプライバシー保護についての認識を高め、分析を促進して、最終的にはその分野に変化をもたらすことになります。
 
@@ -233,6 +245,12 @@ Lightbeam は、Web ユーザに個人データの高度なコントロールと
 Lightbeam のデータ形式
 
 
+# Updated string
+;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute data.
+Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute data.
+
+
+# Obsolete string, will be removed once the new one is localized.
 ;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute to the database.
 Mozilla の<a href="%s">ファイル形式に関する Github のページ</a>を参照すると、Lightbeam で使用されているファイル形式の詳細と、ユーザがデータベースに提供することを許可した場合にアップロードされるデータの詳細をご覧いただけます。
 
@@ -251,86 +269,5 @@ Lightbeam のパートナー組織
 
 ;The <a href="%s">Social + Interactive Media (SIM) Centre</a> at Emily Carr University of Art + Design supports a wide range of projects in design and media, giving companies direct access to the innovative thinking, design skills and research expertise of British Columbia’s most creative faculty and students.
 エミリー･カー美術大学の<a href="%s">ソーシャル & インタラクティブメディア (SIM) センター</a>では、デザインおよびメディア分野の広範なプロジェクトを支援し、企業がブリティッシュコロンビア随一の創造性を誇る同校の教授陣や学生たちと直接コンタクトできるようにしています。
-
-
-# Database and profile pages
-;Database
-データベース
-
-
-;The data that you contribute to Lightbeam helps us generate a larger understanding of how we collectively interact in the online space.
-皆さんから Lightbeam に提供していただいたデータによって、私たち皆がオンライン空間で互いにどのように影響を及ぼし合っているかについて、より多くを理解することができます。
-
-
-;Sort By
-ソート：
-
-
-;alphabetically
-アルファベット順
-
-
-;connections
-接続数順
-
-
-;viewing
-閲覧回数順
-
-
-;of <span class="num-sites"></span> sites
-(<span class="num-sites"></span> サイト中)
-
-
-;Website
-Web サイト
-
-
-;Connections
-接続
-
-
-;Loading…
-Loading… {ok}
-
-
-;Server location
-サーバの所在地
-
-
-;first party connections
-当事者サイトの接続
-
-
-;third party connections
-サードパーティサイトの接続
-
-
-;connected websites
-接続している Web サイト
-
-
-;Connections between
-接続するサイト
-
-
-;Lightbeam Website Database
-Lightbeam Web サイトデータベース
-
-
-;sites connected
-つながっているサイト
-
-
-;Unique Sites Connected
-接続しているユニークサイト
-
-
-;Top 10
-トップ 10
-
-
-;Note: Rankings are based on data provided by users of Lightbeam for Firefox. Additional data may alter these rankings over time, so check back often.
-注: ランキングは Lightbeam for Firefox のユーザから提供されたデータに基づいています。時間の経過に伴い、追加のデータによってこのランキングは変化することがあるため、頻繁に確認してください。
 
 

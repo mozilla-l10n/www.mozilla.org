@@ -7,7 +7,7 @@ Samræmdu Firefox
 
 
 ;Instantly make Firefox your own wherever you use it. Seamlessly sync your bookmarks, history, passwords and more and access them from any device.
-Gerðu Firefox að þínum hvar sem þú ert. Samstilltu auðveldlega bókamerki, feril, lykilorð og fleira og fáðu aðgang að þeim frá öllum tækjum.
+Gerðu Firefox að þínum vafra hvar sem þú ert. Samstilltu auðveldlega bókamerki, feril, lykilorð og fleira og fáðu aðgang að þeim frá öllum tækjum.
 
 
 ;Get started with Sync. It’s fast, safe and easy:
@@ -16,7 +16,7 @@ Byrjaðu að nota Sync. Það er hraðvirkt, öruggt og auðvelt:
 
 # (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Opnaðu <a class="menu" href="%(url)s#w_a-handy-new-menu">valmyndina</a> efst í hægra horninu í Firefox og veldu “<strong>Skráðu þig inn í Sync.</strong>”
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -26,7 +26,7 @@ Opnaðu <a href="%(url)s#w_a-handy-new-menu">valmyndina</a> efst hægra megin í
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+Smelltu á “<strong>Til að byrja</strong>” í flipanum sem opnast.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -36,7 +36,7 @@ Smelltu á “Til að byrja” í flipanum sem opnast.
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Sláðu inn tölvupóstfang og lykilorð til að “<strong>Búa til Firefox reikning.</strong>”
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -46,7 +46,7 @@ Sláðu inn tölvupóstfang og lykilorð til að “Búa til Firefox reikning.�
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+Smelltu á “<strong>Áfram</strong>” til að fá sendan staðfestingarpóst.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -76,7 +76,7 @@ Ertu að nota gamla útgáfu af Sync?
 
 # (NEW STRING)
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Halaðu niður Firefox fyrir Android</a> til að samstilla á milli tölvunnar og farsímatækja.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.

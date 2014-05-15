@@ -16,7 +16,7 @@ Activa Sync. Es fácil, rápido y seguro:
 
 # (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Abre el <a href="%(url)s#w_un-nuevo-menaj-maas-accesible">menú</a> situado en la parte superior de Firefox y selecciona '<strong>Conectarse a Sync</strong>'.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -26,7 +26,7 @@ Abre el <a href="%(url)s#w_un-nuevo-menaj-maas-accesible">menú</a> situado en l
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+Haz clic en '<strong>Comenzar</strong>', en la pestaña que se abre.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -36,7 +36,7 @@ Haz clic en 'Comenzar', en la pestaña que se abre.
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Escribe una dirección de correo y una contraseña para '<strong>Crear una cuenta de Firefox</strong>'.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -46,7 +46,8 @@ Escribe una dirección de correo y una contraseña para 'Crear una cuenta de Fir
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+Haz clic en '<strong>Siguiente</strong>' para que enviemos un correo de verificación a tu dirección.
+
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -76,7 +77,7 @@ Obtén instrucciones más detalladas.
 
 # (NEW STRING)
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Descarga Firefox para Android</a> y sincroniza tus dispositivos móviles y de escritorio.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.

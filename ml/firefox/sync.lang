@@ -14,19 +14,42 @@
 സിന്‍ക് ഉപയോഗിച്ചു് തുടങ്ങൂ. വിശേഷതകള്‍ - വേഗം, സുരക്ഷിതം, ആയാസം:
 
 
-# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+# (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
 ഫയര്‍ഫോക്സിന്റെ മുകളില്‍ ഇടത്തുള്ള <a href="%(url)s#w_a-handy-new-menu">മെനു</a> തുറന്നു്, “സിന്‍കിലേക്കു് പ്രവേശിയ്ക്കൂ” ക്ലിക്ക് ചെയ്യൂ.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Get started</strong>” in the tab that opens.
+Click “<strong>Get started</strong>” in the tab that opens.
+
+
+# (OBSOLETE STRING)
 ;Click “Get started” in the tab that opens.
 റ്റാബിലുള്ള “ഉപയോഗിച്ചു തുടങ്ങൂ” ക്ലിക്ക് ചെയ്യൂക.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Enter an email address and password to “Create a Firefox Account.”
 “ഒരു ഫയര്‍ഫോക്സ് അക്കൌണ്ട് തയ്യാറാക്കുന്നതിനു്" ഈമെയില്‍ വിലാസവും രഹസ്യവാക്കും നല്‍കുക.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Next</strong>” to get a verification sent to your email.
+Click “<strong>Next</strong>” to get a verification sent to your email.
+
+
+# (OBSOLETE STRING)
 ;Click “Next” to get a verification sent to your email.
 അക്കൌണ്ട് ഉറപ്പിയ്ക്കുന്നതിനു് ആവശ്യമായ വിവരങ്ങള്‍ മെയിലിലേക്കു് അയയ്ക്കുന്നതിനു് “അടുത്തതു്” ക്ലിക്ക് ചെയ്യൂ.
 
@@ -51,6 +74,12 @@
 ആന്‍ഡ്രോയിഡ് മൊബൈല്‍ അല്ലെങ്കില്‍ ടാബ്ലറ്റ് ഉണ്ടോ?
 
 
+# (NEW STRING)
+;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+
+
+# (OBSOLETE STRING)
 ;Download Firefox for Android to sync between your desktop and mobile devices.
 പണിയിടവും മൊബൈല്‍ ഉപകരണങ്ങളും തമ്മില്‍ സിന്‍ക് ചെയ്യുന്നതിനു് ആന്‍ഡ്രോയിഡിനുള്ള ഫയര്‍ഫോക്സ് ഡൌണ്‍ലോഡ് ചെയ്യൂ.
 

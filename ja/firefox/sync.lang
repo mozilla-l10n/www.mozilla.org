@@ -4,7 +4,6 @@
 
 ;Keep your Firefox in sync
 Sync を使って Firefox を同期する
-# 見出しのため改行位置を設定
 
 
 ;Instantly make Firefox your own wherever you use it. Seamlessly sync your bookmarks, history, passwords and more and access them from any device.
@@ -15,24 +14,44 @@ Sync を使って Firefox を同期する
 簡単、安全、高速な Sync を始めましょう：
 
 
+# (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
 Firefox の右上の<a href="%(url)s#w_a-handy-new-menu">メニュー</a>を開いて、「Sync にサインイン」を選択します
-# XXX: Firefoxのローカライズと合わせる
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Get started</strong>” in the tab that opens.
+Click “<strong>Get started</strong>” in the tab that opens.
+
+
+# (OBSOLETE STRING)
 ;Click “Get started” in the tab that opens.
 開かれたタブ内の「始める」をクリックします
-# XXX: Firefox Accountのローカライズと合わせる
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Enter an email address and password to “Create a Firefox Account.”
 「Create a Firefox Account」にメールアドレスとパスワードを入力します
-# XXX: Firefox Accountのローカライズと合わせる
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Next</strong>” to get a verification sent to your email.
+Click “<strong>Next</strong>” to get a verification sent to your email.
+
+
+# (OBSOLETE STRING)
 ;Click “Next” to get a verification sent to your email.
 「Next」をクリックすると、入力したメールアドレス宛に確認メールが送信されます
-# XXX: Firefox Accountのローカライズと合わせる
 
 
 ;Check your email and click the verification link.
@@ -55,6 +74,12 @@ Firefox の右上の<a href="%(url)s#w_a-handy-new-menu">メニュー</a>を開�
 Android のスマートフォンまたはタブレットをお持ちですか？
 
 
+# (NEW STRING)
+;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+
+
+# (OBSOLETE STRING)
 ;Download Firefox for Android to sync between your desktop and mobile devices.
 Android 版 Firefox を使って、デスクトップ版 Firefox とモバイル端末を同期できます。
 

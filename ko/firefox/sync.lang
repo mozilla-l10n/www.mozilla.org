@@ -14,19 +14,42 @@ Sync와 함께 Firefox를 사용하세요
 Sync를 사용하세요. 빠르고 안전하고 쉽습니다:
 
 
-# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+# (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
 Firefox 우측 상단의 <a href="%(url)s#w_a-handy-new-menu">메뉴</a>를 열고 “동기화에 로그인”을 선택하세요.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Get started</strong>” in the tab that opens.
+Click “<strong>Get started</strong>” in the tab that opens.
+
+
+# (OBSOLETE STRING)
 ;Click “Get started” in the tab that opens.
 새로 열린 탭의 “시작하기”를 클릭하세요.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Enter an email address and password to “Create a Firefox Account.”
 “Firefox 계정 생성”에 이메일 주소와 비밀번호를 입력하세요.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Next</strong>” to get a verification sent to your email.
+Click “<strong>Next</strong>” to get a verification sent to your email.
+
+
+# (OBSOLETE STRING)
 ;Click “Next” to get a verification sent to your email.
 “다음”을 눌러서 입력한 이메일 계정으로 확인 링크를 전송하세요.
 
@@ -51,6 +74,12 @@ Firefox 우측 상단의 <a href="%(url)s#w_a-handy-new-menu">메뉴</a>를 열�
 안드로이드 전화기나 태블릿을 가지고 계세요?
 
 
+# (NEW STRING)
+;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+
+
+# (OBSOLETE STRING)
 ;Download Firefox for Android to sync between your desktop and mobile devices.
 데스크탑과 모바일 기기를 동기화 할 수 있는 안드로이드용 Firefox를 다운 받으세요.
 

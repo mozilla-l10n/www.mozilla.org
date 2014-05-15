@@ -14,19 +14,42 @@ Trasforma in un attimo Firefox nel “tuo Firefox” su qualunque piattaforma. S
 Inizia a utilizzare Sync. È facile, veloce e sicuro.
 
 
-# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+# (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
 In Firefox, apri il <a href="%(url)s#w_un-nuovo-menu-a-portata-di-mano">menu</a> posto in alto a destra e seleziona “Accedi a Sync”.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Get started</strong>” in the tab that opens.
+Click “<strong>Get started</strong>” in the tab that opens.
+
+
+# (OBSOLETE STRING)
 ;Click “Get started” in the tab that opens.
 Nella scheda che viene aperta fai clic su “Per iniziare”.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Enter an email address and password to “Create a Firefox Account.”
 Inserisci un indirizzo email e una password per creare un “Firefox Account”.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Next</strong>” to get a verification sent to your email.
+Click “<strong>Next</strong>” to get a verification sent to your email.
+
+
+# (OBSOLETE STRING)
 ;Click “Next” to get a verification sent to your email.
 Fai clic su “Avanti” e ti verrà inviata una email di conferma.
 
@@ -51,6 +74,12 @@ Stai utilizzando una vecchia versione di Sync?
 Hai uno smartphone Android o un tablet?
 
 
+# (NEW STRING)
+;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+
+
+# (OBSOLETE STRING)
 ;Download Firefox for Android to sync between your desktop and mobile devices.
 Scarica Firefox per Android per effettuare la sincronizzazione tra computer desktop e dispositivi mobile.
 

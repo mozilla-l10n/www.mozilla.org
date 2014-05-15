@@ -14,19 +14,42 @@ Používajte Firefox po svojom a kdekoľvek. Bezproblémovo synchronizujte svoje
 Vyskúšajte službu Sync. Je rýchla, bezpečná a jednoduchá:
 
 
-# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+# (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
 Otvorte <a href="%(url)s#w_a-handy-new-menu">ponuku</a> v pravej hornej časti okna Firefoxu a zvoľte položku “Prihlásiť sa k službe Sync”.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Get started</strong>” in the tab that opens.
+Click “<strong>Get started</strong>” in the tab that opens.
+
+
+# (OBSOLETE STRING)
 ;Click “Get started” in the tab that opens.
 V otvorenom okne kliknite na tlačidlo “Poďme na to”.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Enter an email address and password to “Create a Firefox Account.”
 Zadajte svoju e-mailovú adresu a heslo do formulára “Vytvorenie účtu Firefox Account”.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Next</strong>” to get a verification sent to your email.
+Click “<strong>Next</strong>” to get a verification sent to your email.
+
+
+# (OBSOLETE STRING)
 ;Click “Next” to get a verification sent to your email.
 Kliknite na “Ďalej” a na vašu adresu bude odoslaný overovací e-mail.
 
@@ -51,10 +74,17 @@ Používate starú verziu Sync?
 Máte telefón alebo tablet s Androidom?
 
 
+# (NEW STRING)
+;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+
+
+# (OBSOLETE STRING)
 ;Download Firefox for Android to sync between your desktop and mobile devices.
 Nainštalujte si Firefox pre Android a synchronizujte svoje údaje medzi počítačom a svojimi mobilnými zariadeniami.
 
 
 ;Get it free from Google Play
 Získajte ho zadarmo na Google Play
+
 

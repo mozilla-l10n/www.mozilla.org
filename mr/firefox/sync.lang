@@ -13,19 +13,43 @@
 ;Get started with Sync. It’s fast, safe and easy:
 Sync सोबत सुरुवात करा. हे जलद, सुरक्षित आणि सोपे आहे:
 
-# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+
+# (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
 Firefox मधील वरचा उजवीकडील <a href="%(url)s#w_a-handy-new-menu">मेन्यू</a> उघडा आणि "सिंक करण्यासाठी साईन इन करा" निवडा.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Get started</strong>” in the tab that opens.
+Click “<strong>Get started</strong>” in the tab that opens.
+
+
+# (OBSOLETE STRING)
 ;Click “Get started” in the tab that opens.
 उघडणाऱ्या टॅबमध्ये "सुरुवात करा" यावर क्लिक करा.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Enter an email address and password to “Create a Firefox Account.”
 "Firefox खाते बनवण्यासाठी" इमेल पत्ता आणि पासवर्ड प्रविष्ट करा.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Next</strong>” to get a verification sent to your email.
+Click “<strong>Next</strong>” to get a verification sent to your email.
+
+
+# (OBSOLETE STRING)
 ;Click “Next” to get a verification sent to your email.
 आपल्या इमेलवर सत्यापन दुवा मिळवण्यासाठी "पुढे" वर क्लिक करा.
 
@@ -50,6 +74,12 @@ Syncची जुनी आवृत्ती वापरताय?
 आपल्याकडे अँड्रॉईड फोन किंवा टॅब्लेट आहे?
 
 
+# (NEW STRING)
+;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+
+
+# (OBSOLETE STRING)
 ;Download Firefox for Android to sync between your desktop and mobile devices.
 आपल्या डेस्कटॉप आणि मोबाईल उपकरणांमध्ये सिंक करण्यासाठी अँड्रॉईड साठी Firefox डाऊनलोड करा.
 

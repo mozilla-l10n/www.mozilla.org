@@ -14,18 +14,42 @@ Alakítsa a Firefoxot teljesen az Önévé, bármikor is használja. Problémame
 Kezdje el használni a Sync-et. Gyors, biztonságos és egyszerű:
 
 
+# (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
 Nyissa meg a <a href="%(url)s#w_a-handy-new-menu">menü</a>t a Firefox ablak jobb felső részén, és válassza ki a „Jelentkezzen be a Syncbe” lehetőséget.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Get started</strong>” in the tab that opens.
+Click “<strong>Get started</strong>” in the tab that opens.
+
+
+# (OBSOLETE STRING)
 ;Click “Get started” in the tab that opens.
 A megnyíló lapon kattintson a „Kezdő lépések” gombra.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Enter an email address and password to “Create a Firefox Account.”
 Adja meg email címét és egy jelszót a „Firefox fiók létrehozása” művelet megkezdéséhez.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Next</strong>” to get a verification sent to your email.
+Click “<strong>Next</strong>” to get a verification sent to your email.
+
+
+# (OBSOLETE STRING)
 ;Click “Next” to get a verification sent to your email.
 Kattintson a „Következő” gombra, amely után egy azonosító levelet fog kapni.
 
@@ -50,6 +74,12 @@ A Sync régebbi verzióját használja?
 Rendelkezik Android rendszerű telefonnal vagy táblagéppel?
 
 
+# (NEW STRING)
+;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+
+
+# (OBSOLETE STRING)
 ;Download Firefox for Android to sync between your desktop and mobile devices.
 Az asztali és mobil eszközeinek szinkronizálásához töltse le a Firefox for Android böngészőt.
 

@@ -14,19 +14,42 @@ Firefox ক বিভিন্ন ডিভাইচত ব্যৱহাৰ �
 সংমিহলি আৰম্ভ কৰক। ই দ্ৰুত, সুৰক্ষিত আৰু সহজ:
 
 
-# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+# (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
 Firefox ৰ ওপৰ সোঁ কোনত <a href="%(url)s#w_a-handy-new-menu">মেনু</a> খোলক আৰু “সংমিহলি কৰিবলৈ ছাইন ইন কৰক” বাছক।
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Get started</strong>” in the tab that opens.
+Click “<strong>Get started</strong>” in the tab that opens.
+
+
+# (OBSOLETE STRING)
 ;Click “Get started” in the tab that opens.
 খোল খোৱা টেবত “আৰম্ভ কৰক” ক্লিক কৰক।
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Enter an email address and password to “Create a Firefox Account.”
 “এটা Firefox একাওন্ট সৃষ্টি কৰিবলৈ” এটা ইমেইল ঠিকনা আৰু পাছৱাৰ্ড সুমুৱাওক।
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Next</strong>” to get a verification sent to your email.
+Click “<strong>Next</strong>” to get a verification sent to your email.
+
+
+# (OBSOLETE STRING)
 ;Click “Next” to get a verification sent to your email.
 আপোনাৰ ইমেইললৈ পঠোৱা এটা বৈধতা প্ৰাপ্ত কৰিবলৈ “পৰৱৰ্তী” ক্লিক কৰক।
 
@@ -51,6 +74,12 @@ Firefox ৰ ওপৰ সোঁ কোনত <a href="%(url)s#w_a-handy-new-menu
 এটা Android ফোন অথবা টেবলেট আছে নে?
 
 
+# (NEW STRING)
+;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+
+
+# (OBSOLETE STRING)
 ;Download Firefox for Android to sync between your desktop and mobile devices.
 আপোনাৰ ডেস্কটপ আৰু মবাইল ডিভাইচসমূহৰ মাজত সংমিহলি কৰিবলৈ Android ৰ বাবে Firefox ডাউনল'ড কৰক।
 

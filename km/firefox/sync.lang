@@ -14,19 +14,42 @@
 ដើម្បី​ចាប់ផ្ដើម​ជាមួយ​សមកាលកម្ម។ វា​រហ័ស, សុវត្ថិភាព និង​ងាយស្រួល៖
 
 
-# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+# (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
 បើក <a href="%(url)s#w_a-handy-new-menu">ម៉ឺនុយ</a> នៅ​ខាង​ស្ដាំ​ផ្នែក​ខាងលើ​នៃ Firefox ហើយ​ជ្រើស “ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម។”
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Get started</strong>” in the tab that opens.
+Click “<strong>Get started</strong>” in the tab that opens.
+
+
+# (OBSOLETE STRING)
 ;Click “Get started” in the tab that opens.
 ចុច "ចាប់ផ្ដើម" នៅ​ក្នុង​ផ្ទាំង​ដែល​បើក។
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+
+
+# (OBSOLETE STRING)
 ;Enter an email address and password to “Create a Firefox Account.”
 បញ្ចូល​អាសយដ្ឋាន​អ៊ីមែល និង​ពាក្យសម្ងាត់​ ដើម្បី "បង្កើត​គណនី Firefox"។
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Next</strong>” to get a verification sent to your email.
+Click “<strong>Next</strong>” to get a verification sent to your email.
+
+
+# (OBSOLETE STRING)
 ;Click “Next” to get a verification sent to your email.
 ចុច "បន្ទាប់" ដើម្បី​ទទួល​បាន​ការ​បញ្ជាក់​ផ្ទៀងផ្ទាត់​ដែល​បាន​ផ្ញើ​ទៅ​អ៊ីមែល​របស់​​អ្នក។
 
@@ -51,6 +74,12 @@
 មាន​កុំព្យូទ័រ​បន្ទះ ឬ​ទូរស័ព្ទ Android ?
 
 
+# (NEW STRING)
+;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+
+
+# (OBSOLETE STRING)
 ;Download Firefox for Android to sync between your desktop and mobile devices.
 ទាញ​យក​ Firefox សម្រាប់ Android ដើម្បី​ធ្វើ​សមកាលកម្ម​រវាង​ផ្ទៃតុ និង​ឧបករណ៍​ចល័ត​របស់​អ្នក។
 

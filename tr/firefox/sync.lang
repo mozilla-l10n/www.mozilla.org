@@ -16,17 +16,17 @@ Sync’i kullanmaya başlayın. Hızlı, güvenli ve basit:
 
 # (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Firefox’un sağ üst köşesinden <a class="menu" href="%(url)s#w_a-handy-new-menu">menüyü</a> açıp “<strong>Sync oturumu aç</strong>”ı seçin.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
-Firefox’un sağ köşesinden <a href="%(url)s#w_a-handy-new-menu">menüyü</a> açıp “Sync oturum aç”ı açın.
+Firefox’un sağ köşesinden <a href="%(url)s#w_a-handy-new-menu">menüyü</a> açıp “Sync oturumu aç”ı seçin.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+Açılan sekmeden “<strong>“Başlayın”a</strong>”a tıklayın.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -36,7 +36,7 @@ Açılan sekmeden “Başlayın”a tıklayın.
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+E-posta adresinizi ve bir parola girip “<strong>Firefox hesabı oluştur</strong>”a tıklayın.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -46,7 +46,7 @@ E-posta adresinizi ve bir parola girip “Firefox hesabı oluştur”a tıklayı
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+E-posta adresinize doğrulama linki gönderilmesi için “<strong>“İleri”</strong>”ye tıklayın.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -76,7 +76,7 @@ Android telefon veya tabletiniz mi var?
 
 # (NEW STRING)
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+Masaüstü ve mobil cihazlarınız arasında eşitleme yapmak için <a href="%(url)s">Android için Firefox’u indirin</a>.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.

@@ -20,7 +20,7 @@ Vyzkoušejte Sync. Je rychlý, bezpečný a jednoduchý:
 Otevřete <a class="menu" href="%(url)s#w_novaa-aaikovnaa-nabagdka">nabídku</a> v pravém horním rohu Firefoxu a zvolte “<strong>Přihlášení k Sync.</strong>”
 
 
-# (OBSOLETE STRING)
+# (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
 Otevřete <a href="%(url)s#w_a-handy-new-menu">nabídku</a> v pravé horní části okna Firefoxu a vyberte “Přihlášení k Sync.”
 
@@ -30,7 +30,7 @@ Otevřete <a href="%(url)s#w_a-handy-new-menu">nabídku</a> v pravé horní čá
 V panelu, který se otevře, klepněte na “<strong>Začít</strong>”.
 
 
-# (OBSOLETE STRING)
+# (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 ;Click “Get started” in the tab that opens.
 V otevřeném okně klepněte na “Začít”.
 
@@ -40,7 +40,7 @@ V otevřeném okně klepněte na “Začít”.
 Vložte e-mailovou adresu a heslo do formuláře “<strong>Vytvořit Firefox Account.</strong>”
 
 
-# (OBSOLETE STRING)
+# (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 ;Enter an email address and password to “Create a Firefox Account.”
 Vložte svůj e-mail a heslo do formuláře “Vytvořit Firefox Account.”
 
@@ -50,7 +50,7 @@ Vložte svůj e-mail a heslo do formuláře “Vytvořit Firefox Account.”
 Pro ověření svého e-mailu klepněte na “<strong>Další</strong>”.
 
 
-# (OBSOLETE STRING)
+# (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 ;Click “Next” to get a verification sent to your email.
 Klepněte na “Další” pro zaslání ověření vašeho e-mailu.
 
@@ -80,7 +80,7 @@ Máte telefon nebo tablet s Androidem?
 <a href="%(url)s">Stáhnete si Firefox pro Android</a> a synchronizujte svá data mezi počítačem a svým mobilní zařízením.
 
 
-# (OBSOLETE STRING)
+# (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 ;Download Firefox for Android to sync between your desktop and mobile devices.
 Stáhnete si Firefox pro Android a synchronizujte svá data mezi počítačem a svým mobilní zařízením.
 

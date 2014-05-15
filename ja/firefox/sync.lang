@@ -19,7 +19,7 @@ Sync を使って Firefox を同期する
 Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
 
 
-# (OBSOLETE STRING)
+# (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
 Firefox の右上の<a href="%(url)s#w_a-handy-new-menu">メニュー</a>を開いて、「Sync にサインイン」を選択します
 
@@ -29,7 +29,7 @@ Firefox の右上の<a href="%(url)s#w_a-handy-new-menu">メニュー</a>を開�
 Click “<strong>Get started</strong>” in the tab that opens.
 
 
-# (OBSOLETE STRING)
+# (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 ;Click “Get started” in the tab that opens.
 開かれたタブ内の「始める」をクリックします
 
@@ -39,7 +39,7 @@ Click “<strong>Get started</strong>” in the tab that opens.
 Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
 
 
-# (OBSOLETE STRING)
+# (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 ;Enter an email address and password to “Create a Firefox Account.”
 「Create a Firefox Account」にメールアドレスとパスワードを入力します
 
@@ -49,7 +49,7 @@ Enter an email address and password to “<strong>Create a Firefox Account.</str
 Click “<strong>Next</strong>” to get a verification sent to your email.
 
 
-# (OBSOLETE STRING)
+# (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 ;Click “Next” to get a verification sent to your email.
 「Next」をクリックすると、入力したメールアドレス宛に確認メールが送信されます
 
@@ -79,7 +79,7 @@ Android のスマートフォンまたはタブレットをお持ちですか？
 <a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
 
 
-# (OBSOLETE STRING)
+# (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 ;Download Firefox for Android to sync between your desktop and mobile devices.
 Android 版 Firefox を使って、デスクトップ版 Firefox とモバイル端末を同期できます。
 

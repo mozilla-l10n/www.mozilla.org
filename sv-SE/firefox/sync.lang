@@ -16,17 +16,17 @@ Kom igång med Sync. Det är snabbt, säkert och enkelt:
 
 # (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Öppna <a class="menu" href="%(url)s#w_a-handy-new-menu">menyn</a> överst till höger i Firefox och välj "<strong>Logga in till Sync</strong>".
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
-Öppna <a href="%(url)s#w_a-handy-new-menu">menyn</a> överst till höger i Firefox och välj "Logga in på Sync".
+Öppna <a href="%(url)s#w_a-handy-new-menu">menyn</a> överst till höger i Firefox och välj "Logga in till Sync".
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+Klicka på "<strong>Kom igång</strong>" i fliken som öppnas.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -36,7 +36,7 @@ Klicka på "Kom igång" i fliken som öppnas.
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Ange en e-postadress och ett lösenord för att "<strong>Skapa ett Firefox-konto</strong>".
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -46,7 +46,7 @@ Ange en e-postadress och ett lösenord för att "Skapa ett Firefox-konto".
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+Klicka på "<strong>Nästa</strong>" för att skicka ett bekräftelsemeddelande till din e-postadress.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -76,7 +76,7 @@ Har du en smarttelefon eller surfplatta med Android?
 
 # (NEW STRING)
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Hämta Firefox för Android</a> för att synkronisera mellan dina fasta och mobila enheter.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -85,6 +85,6 @@ Hämta Firefox för Android för att synkronisera mellan dina fasta och mobila e
 
 
 ;Get it free from Google Play
-Hämta den gratis från Google Play
+Hämta gratis från Google Play
 
 

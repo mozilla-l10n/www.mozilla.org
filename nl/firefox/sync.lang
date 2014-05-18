@@ -17,7 +17,7 @@ Begin met Sync. Het is snel, veilig en eenvoudig:
 
 # (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open het <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> rechtsboven in Firefox en selecteer “<strong>Aanmelden bij Sync</strong>”.
+Open het <a class="menu" href="%(url)s#w_een-handig-nieuw-menu">menu</a> rechtsboven in Firefox en selecteer “<strong>Aanmelden bij Sync</strong>”.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -37,7 +37,7 @@ Klik in het tabblad dat wordt geopend op “Beginnen”.
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Voer een e-mailadres en wachtwoord in om “<strong>een Firefox-account aan te maken.</strong>”
+Voer een e-mailadres en wachtwoord in om “<strong>een Firefox-account aan te maken</strong>”.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.

@@ -11,7 +11,7 @@ Navegación atenta á localización
 
 
 ;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
-Firefox pode indicarlles aos sitios web onde está vostede localizado, para que poida atopar información que é máis relevante e máis usábel. Serve para facer a rede máis intelixente &ndash; e faino de modo totalmente respectuoso coa súa intimidade. <a href="%(url)s" id="%(id)s" style="%(style)s">Próbea!</a>
+Firefox pode indicarlles aos sitios web onde está vostede localizado, para que poida atopar información que é máis relevante e máis usábel. Serve para facer a rede máis intelixente &ndash; e faino de modo totalmente respectuoso coa súa privacidade. <a href="%(url)s" id="%(id)s" style="%(style)s">Próbea!</a>
 
 
 ;Frequently asked Questions
@@ -31,7 +31,7 @@ Ou, se vostede está consultando mapas de direccións para ir a algún lugar, o 
 
 
 ;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
-Este servizo é totalmente opcional &ndash; Firefox non comparte a súa localización sen o seu permiso &ndash; e faise co máis alto respecto á súa intimidade. E, como todo elemento de Firefox, créase usando estándares abertos para que sexa doadamente adaptábel para os desenvolvedores de web.
+Este servizo é totalmente opcional &ndash; Firefox non comparte a súa localización sen o seu permiso &ndash; e faise co máis alto respecto á súa privacidade. E, como todo elemento de Firefox, créase usando estándares abertos para que sexa doadamente adaptábel para os desenvolvedores de web.
 
 
 ;How does it work?
@@ -43,7 +43,7 @@ Cando visita un sitio con localización-atenta, Firefox preguntaralle se quere c
 
 
 ;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
-Se vostede consente, Firefox reúne información dos puntos de acceso sen fíos da contorna e o enderezo IP. Logo, Firefox envía esta información ao fornecedor do servizo de xeolocalización, Google Location Services, para estimar a súa localización. Esa localización estimada compártese entón co sitio consultado.
+Se vostede consente, Firefox reúne información dos puntos de acceso sen fíos da contorna e o enderezo IP. Logo, Firefox envía esta información ao fornecedor do servizo de xeolocalización, os servizos de localización de Google, para estimar a súa localización. Esa localización estimada compártese entón co sitio consultado.
 
 
 ;If you say that you do not consent, Firefox will not do anything.
@@ -59,15 +59,15 @@ A afinación varía grandemente dunha localización a outra. Nalgúns sitios, os
 
 
 ;What information is being sent, and to whom? How is my privacy protected?
-Que información está a ser enviada, e para quen? Como se protexe a miña intimidade?
+Que información está a ser enviada, e para quen? Como se protexe a miña privacidade?
 
 
 ;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
-A súa intimidade é extremadamente importante para nós, e Firefox nunca comparte a súa localización sen o seu permiso. Cando visite unha páxina que require información de vostede, preguntaráselle verbo de calquera información que se comparta co sitio consultado e o noso fornecedor do servizo.
+A súa privacidade é extremadamente importante para nós, e Firefox nunca comparte a súa localización sen o seu permiso. Cando visite unha páxina que require información de vostede, preguntaráselle verbo de calquera información que se comparta co sitio consultado e o noso fornecedor do servizo.
 
 
 ;By default, Firefox uses Google Location Services to determine your location by sending:
-De modo predeterminado, Firefox usa os Servizos de Localización de Google para determinar a súa localización co fin de enviar:
+De modo predeterminado, Firefox usa os servizos de localización de Google para determinar a súa localización co fin de enviar:
 
 
 ;your computer’s IP address,
@@ -75,43 +75,43 @@ O seu enderezo de protocolo de Internet (IP),
 
 
 ;information about the nearby wireless access points, and
-información verbo dos puntos de acceso á rede sen fíos máis próximos, e
+información sobre os puntos de acceso á rede sen fíos máis próximos, e
 
 
 ;a random client identifier, which is assigned by Google, that expires every 2 weeks.
-un identificador de cliente aleatorio, que é asignado por Google, e que expira cada 2 semanas.
+un identificador de cliente aleatorio, que é asignado por Google, e que caduca cada 2 semanas.
 
 
 ;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
-Para unha descrición completa da información recollida e usada por Firefox, véxase a <a href="%(url)s">Firefox Privacy Policy</a> (en inglés).
+Para unha descrición completa da información recollida e usada por Firefox, véxase a <a href="%(url)s">política de privacidade de Firefox</a> (en inglés).
 
 
 ;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
-Os Servizos de Localización de Google devolven a localización estimada para vostede (e.g., latitude e lonxitude). Para unha descrición completa da informacióń recollida e usada por Google, véxase a <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a> (en inglés).
+Os servizos de localización de Google devolven a localización estimada para vostede (e.g., latitude e lonxitude). Para unha descrición completa da información recollida e usada por Google, véxase a <a href="%(url)s" class="%(class)s">política de privacidade de xeolocalización de Google</a> (en inglés).
 
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
-A información intercámbiase mediante unha conexión cifrada para protexer a súa intimidade. Logo de que Firefox ten a súa información de localización, pásaselle ao sitio web que a solicitou. De ningunha maneira consiste no nome ou localización do sitio que vostede estea a visitar, nin son ningún tipo de cookies, nunca compartidas cos Google Location Services.
+A información intercámbiase mediante unha conexión cifrada para protexer a súa privacidade. Logo de que Firefox ten a súa información de localización, pásaselle ao sitio web que a solicitou. De ningunha maneira consiste no nome ou localización do sitio que vostede estea a visitar, nin son ningún tipo de cookies, nunca compartidas cos servizos de localización de Google.
 
 
 ;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
-Tampouco nin Mozilla nin Google usarán nunca esta información recollida polo Google Location Services para identificalo ou espialo.
+Tampouco nin Mozilla nin Google usarán nunca esta información recollida polos servizos de localización de Google para identificalo ou espialo.
 
 
 ;For information about what the requesting website does with your location information, please refer to that website’s privacy policy.
-Para información sobre o que o sitio web fai coa información sobre a súa localización, diríxase á politica de intimidade do sitio web.
+Para información sobre o que o sitio web fai coa información sobre a súa localización, diríxase á política de privacidade do sitio web.
 
 
 ;For more information about your privacy, you should also read:
-Para maior información sobre a súa intimidade tamén debería ler:
+Para maior información sobre a súa privacidade tamén debería ler:
 
 
 ;Mozilla Firefox Privacy Notice
-Mozilla Firefox privacy policy
+Política de privacidade de Mozilla Firefox
 
 
 ;Google privacy policy
-Google privacy policy
+Política de privacidade de Google
 
 
 ;Am I being tracked as I browse the web?
@@ -135,11 +135,11 @@ Navegar ata o sitio ao que lle deu permiso
 
 
 ;Go to the <em>Tools</em> menu, then select <em>Page Info</em>
-Ir ao menú <em>Ferramentas</em>, seleccionar <em> Info da páxina</em>
+Ir ao menú <em>Ferramentas</em>, seleccionar <em> Información da páxina</em>
 
 
 ;Select the <em>Permissions</em> tab
-Seleccionar o separador <em>permisos</em>
+Seleccionar a lapela <em>Permisos</em>
 
 
 ;Change the setting for <em>Share Location</em>
@@ -195,6 +195,6 @@ Onde estou?
 
 
 ;Oops! An error occurred while trying to determine your position.
-Epa! Produciuse un erro mentres tentaba determinar a súa localización.
+Vaites! Produciuse un erro mentres tentaba determinar a súa localización.
 
 

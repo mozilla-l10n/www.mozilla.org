@@ -1,10 +1,11 @@
 ## active ##
+## telemetry_notice ##
 ## NOTE: url is https://www-dev.allizom.org/firefox/channel/
 
 
 # This is the string for the <title> tag on the page.
 ;Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox
-Scarica Firefox Aurora o Firefox Beta e contribuisci alla prossima versione di Firefox
+Scarica Firefox Aurora o Firefox Beta e dai il tuo contributo alla prossima versione di Firefox
 
 
 # This description applies to Firefox Beta
@@ -13,11 +14,11 @@ Le ultime novità in un ambiente più stabile
 
 
 ;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
-Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Beta è impostato per inviare automaticamente un feedback a Mozilla. <a href="%(link)s">Ulteriori informazioni</a>.
 
 
 ;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
-<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a href="%(feedback)s">Facci conoscere la tua opinione</a> e aiutaci a definire gli ultimi dettagli relativi a prestazioni e caratteristiche in un ambiente stabile.
 
 
 ;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
@@ -30,7 +31,7 @@ Le ultime novità in un ambiente più sperimentale
 
 
 ;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
-Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+Verifica le prestazioni in un ambiente sperimentale, apri nuove segnalazioni di bug e <a href="%(feedback)s">aiutaci a stabilire che cosa deve entrare a far parte della versione Beta</a>.
 
 
 # This description applies to Firefox on the Release channel

@@ -12,6 +12,14 @@ Firefox Aurora나 Beta를 다운 받고 미래의 Firefox를 체험해 보세요
 보다 안정화된 환경에서 경험하는 최신 기능
 
 
+;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+
+
+;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+
+
 ;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
 Firefox Aurora는 자동으로 Mozilla에 사용 결과를 보냅니다. <a href="%(link)s">자세히 살펴보기</a>.
 
@@ -19,6 +27,10 @@ Firefox Aurora는 자동으로 Mozilla에 사용 결과를 보냅니다. <a href
 # This description applies to Firefox Aurora
 ;The newest innovations in an experimental environment
 실험적인 환경에서 경함하는 가장 최신의 혁신 기능
+
+
+;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
 
 
 # This description applies to Firefox on the Release channel

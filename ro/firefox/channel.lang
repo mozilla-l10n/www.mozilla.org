@@ -12,6 +12,14 @@ Descărcați Firefox Aurora sau Beta și ajutați la determinarea următoarei ve
 Cele mai noi funcții într-un mediu mult mai stabil
 
 
+;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+
+
+;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+
+
 ;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
 Firefox Aurora trimite în mod automat opinii către Mozilla. <a href="%(link)s">Aflați mai multe</a>.
 
@@ -19,6 +27,10 @@ Firefox Aurora trimite în mod automat opinii către Mozilla. <a href="%(link)s"
 # This description applies to Firefox Aurora
 ;The newest innovations in an experimental environment
 Cele mai noi inovații într-un mediu experimental
+
+
+;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
 
 
 # This description applies to Firefox on the Release channel
@@ -36,3 +48,5 @@ Aflați mai multe despre Firefox Aurora
 
 ;Learn more about Firefox
 Aflați mai multe despre Firefox
+
+

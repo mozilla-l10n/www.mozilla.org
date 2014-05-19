@@ -12,6 +12,14 @@ Pobierz Firefoksa Aurora lub Beta i pomóż kształtować przyszłość Firefoks
 Najnowsze opcje w stabilniejszym środowisku
 
 
+;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+
+
+;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+
+
 ;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
 Firefox Aurora automatycznie wysyła informacje do Mozilli. <a href="%(link)s">Dowiedz się więcej</a>.
 
@@ -19,6 +27,10 @@ Firefox Aurora automatycznie wysyła informacje do Mozilli. <a href="%(link)s">D
 # This description applies to Firefox Aurora
 ;The newest innovations in an experimental environment
 Najnowsze innowacje w eksperymentalnym środowisku
+
+
+;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
 
 
 # This description applies to Firefox on the Release channel

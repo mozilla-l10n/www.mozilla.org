@@ -11,6 +11,14 @@ Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox
 The latest features in a more stable environment
 
 
+;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+
+
+;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+
+
 ;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
 မီးမြေခွေး Aurora ဟာ မိုဇီလာသို့ အကြံပေးချက်တွေ အလိုအလျောက်ပေးပို့ပေးတယ်။ <a href="%(link)s">ဆက်လက်</a>
 
@@ -18,6 +26,10 @@ The latest features in a more stable environment
 # This description applies to Firefox Aurora
 ;The newest innovations in an experimental environment
 နောက်ဆုံးတီထွင်မှူတွေကို စမ်းသပ်တဲ့အနေနဲ့ထည့်ထားပေးတယ်
+
+
+;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
 
 
 # This description applies to Firefox on the Release channel

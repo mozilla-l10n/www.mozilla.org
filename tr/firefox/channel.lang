@@ -12,6 +12,14 @@ Firefox Aurora veya Beta'yı indirin, Firefox'un geleceğini belirlememize yard�
 En yeni özellikleri daha güvenilir bir ortamda test edin
 
 
+;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+
+
+;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+
+
 ;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
 Firefox Aurora otomatik olarak Mozilla'ya geri bildirim gönderir. <a href="%(link)s">Daha fazla bilgi alın</a>.
 
@@ -19,6 +27,10 @@ Firefox Aurora otomatik olarak Mozilla'ya geri bildirim gönderir. <a href="%(li
 # This description applies to Firefox Aurora
 ;The newest innovations in an experimental environment
 Deneysel bir ortamda en güncel yeniliklerin tadına bakın
+
+
+;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
 
 
 # This description applies to Firefox on the Release channel

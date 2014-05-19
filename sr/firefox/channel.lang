@@ -4,12 +4,20 @@
 
 # This is the string for the <title> tag on the page.
 ;Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox
-Преузмите Firefox Aurora или Beta издање Firefox веб прегледача &amp; Помозите нам да изградимо следећу верзију Firefox-а. 
+Преузмите Firefox Aurora или Beta издање Firefox веб прегледача &amp; Помозите нам да изградимо следећу верзију Firefox-а.
 
 
 # This description applies to Firefox Beta
 ;The latest features in a more stable environment
 Последње могућности и иновације у стабилнијем окружењу.
+
+
+;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+
+
+;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
 
 
 ;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
@@ -19,6 +27,10 @@ Firefox Aurora аутоматски шаље повратне информаци
 # This description applies to Firefox Aurora
 ;The newest innovations in an experimental environment
 Најновије иновације у експерименталном окружењу
+
+
+;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
 
 
 # This description applies to Firefox on the Release channel

@@ -12,6 +12,14 @@
 លក្ខណ​ពិសេស​ចុងក្រោយ​គឺ​ស្ថិត​ក្នុង​បរិស្ថាន​មាន​ស្ថិរភាព​ខ្លាំង
 
 
+;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+
+
+;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+
+
 ;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
 Firefox Aurora ផ្ញើ​មតិ​អ្នកប្រើ​ទៅ Mozilla ដោយ​ស្វ័យប្រវត្តិ។ <a href="%(link)s">ស្វែងយល់​បន្ថែម</a>។
 
@@ -19,6 +27,10 @@ Firefox Aurora ផ្ញើ​មតិ​អ្នកប្រើ​ទៅ Mozi
 # This description applies to Firefox Aurora
 ;The newest innovations in an experimental environment
 បន្លាស់ប្ដូរ​ថ្មី​បំផុត​នៅ​ក្នុង​បរិស្ថាន​ពិសោធន៍
+
+
+;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
 
 
 # This description applies to Firefox on the Release channel

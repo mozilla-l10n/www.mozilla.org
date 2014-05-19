@@ -12,6 +12,14 @@ Preuzmite Firefox Aurora ili Beta izdanje, te pomognite oblikovati novi Firefox
 Najnovije mogućnosti u stabilnijem okruženju
 
 
+;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+
+
+;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+
+
 ;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
 Firefox Aurora automatski šalje povratne informacije Mozilli. <a href="%(link)s">Saznajte više</a>.
 
@@ -19,6 +27,10 @@ Firefox Aurora automatski šalje povratne informacije Mozilli. <a href="%(link)s
 # This description applies to Firefox Aurora
 ;The newest innovations in an experimental environment
 Najnovije inovacije u eksperimentalnom okruženju
+
+
+;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
 
 
 # This description applies to Firefox on the Release channel
@@ -29,10 +41,12 @@ Isprobano i testirano izdanje koje koriste milijuni diljem svijeta
 ;Learn more about Firefox Beta
 Saznajte više o Firefox Beta izdanju
 
+
 ;Learn more about Firefox Aurora
 Saznajte više o Firefox Aurora izdanju
 
 
 ;Learn more about Firefox
 Saznajte više o Firefoxu
+
 

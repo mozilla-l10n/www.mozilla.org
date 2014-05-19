@@ -12,6 +12,14 @@ Prevezmite si Firefox Aurora alebo Beta a pomôžte vytvárať ďalšiu verziu F
 Najnovšie funkcie v stabilnejšom prostredí
 
 
+;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+
+
+;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+
+
 ;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
 Firefox Aurora automaticky odosiela spätnú väzbu do Mozilly. <a href="%(link)s">Zistite viac</a>.
 
@@ -19,6 +27,10 @@ Firefox Aurora automaticky odosiela spätnú väzbu do Mozilly. <a href="%(link)
 # This description applies to Firefox Aurora
 ;The newest innovations in an experimental environment
 Najnovšie inovácie v experimentálnom prostredí
+
+
+;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
 
 
 # This description applies to Firefox on the Release channel

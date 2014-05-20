@@ -1,4 +1,5 @@
 ## active ##
+## sync_new_markup ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
@@ -16,7 +17,7 @@ Prědne kšace ze Sync. Jo malsny, wěsty a jadnory:
 
 # (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Wócyńśo <a class="menu" href="%(url)s#w_a-handy-new-menu">meni</a> górjejce napšawo w Firefox a wubjeŕśo “<strong>Pla Sync pśizjawiś.</strong>”
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -26,7 +27,7 @@ Wócyńśo <a href="%(url)s#w_a-handy-new-menu">meni</a> górjejce napšawo w Fi
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+Klikniśo na “<strong>Prědne kšace</strong>” we wócynjajucem se rejtarku.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -36,7 +37,7 @@ Klikniśo na “Prědne kšace” w rejtarku, kótaryž se wócynja.
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Zapódajśo e-mailowu adresu a gronidło,aby “<strong>konto Firefox załožył.</strong>”
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -46,12 +47,12 @@ Zapódajśo e-mailowu adresu a gronidło,aby “konto Firefox załožył.”
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+Klikniśo na “<strong>Dalej</strong>”, aby wobkšuśeńsku mailku dostał.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 ;Click “Next” to get a verification sent to your email.
-Klikniśo na "Dalej", aby wobkšuśeńsku mailku dostał.
+Klikniśo na “Dalej”, aby wobkšuśeńsku mailku dostał.
 
 
 ;Check your email and click the verification link.
@@ -76,7 +77,7 @@ Maśo telefon abo tablet za Android?
 
 # (NEW STRING)
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Ześěgniśo Firefox za Android</a>, aby mjazy swójim desktopom a mobilnymi rědami synchronizěrował.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.

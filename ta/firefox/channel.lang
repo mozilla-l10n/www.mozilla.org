@@ -1,4 +1,5 @@
 ## active ##
+## telemetry_notice ##
 ## NOTE: url is https://www-dev.allizom.org/firefox/channel/
 
 
@@ -13,11 +14,11 @@
 
 
 ;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
-Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+மொசில்லாவிற்கு தானாகவே பயர்பாக்ஸ் பீட்டா பீன்னூட்டங்களை அனுப்பும். <a href="%(link)s">மேலும் அறிய</a>.
 
 
 ;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
-<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+நிலையான இயங்கு தள சூழலில் செயல்திறன் மற்றும் செயல்பாடுகளை கூட்ட<a href="%(feedback)s">எங்களுக்கு கருத்துக்களை அனுப்புங்கள் </a> .
 
 
 ;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
@@ -30,7 +31,7 @@ Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn m
 
 
 ;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
-Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+சோதனைக்கான சூழலில் செயல்திறனை கண்டறிந்து வழுக்களை பதியவும் மற்றும் <a href="%(feedback)s">பீட்டா பதிப்பை உருவாக்க என்னென்ன தேவைப்படுகிறது என்பதை கணிக்கவும் உதவுகிறது</a>.
 
 
 # This description applies to Firefox on the Release channel
@@ -48,5 +49,6 @@ Test performance in an experimental environment, file bugs and <a href="%(feedba
 
 ;Learn more about Firefox
 பயர்பாக்ஸ் பற்றி மேலும் அறிய
+
 
 

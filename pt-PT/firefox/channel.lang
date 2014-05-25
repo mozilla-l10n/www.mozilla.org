@@ -1,4 +1,5 @@
 ## active ##
+## telemetry_notice ##
 ## NOTE: url is https://www-dev.allizom.org/firefox/channel/
 
 
@@ -13,15 +14,15 @@ As últimas funcionalidades num ambiente mais estável
 
 
 ;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
-Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+O Firefox Beta envia automaticamente feedback para a Mozilla. <a href="%(link)s">Saber mais</a>.
 
 
 ;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
-<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a href="%(feedback)s">Dê-nos feedback</a> para nos ajudar a fazer as afinações finais na performance e funcionalidades num ambiente estável.
 
 
 ;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
-O Firefox Aurora automaticamente para enviar para a Mozilla. <a href="%(link)s">Saber mais</a>.
+O Firefox Aurora envia automaticamente feedback para a Mozilla. <a href="%(link)s">Saber mais</a>.
 
 
 # This description applies to Firefox Aurora
@@ -30,7 +31,7 @@ As últimas inovações num ambiente experimental
 
 
 ;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
-Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+Teste a performance num ambiente experimental, submeta bugs e <a href="%(feedback)s">ajude-nos a determinar o que deve avançar para Beta</a>.
 
 
 # This description applies to Firefox on the Release channel

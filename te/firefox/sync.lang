@@ -3,11 +3,11 @@
 
 
 ;Keep your Firefox in sync
-మీ ఫైర్‌ఫాక్స్‌ను తాజాగా ఉంచుకోండి
+మీ ఫైర్‌ఫాక్స్‌ను సింక్‌లో ఉంచుకోండి
 
 
 ;Instantly make Firefox your own wherever you use it. Seamlessly sync your bookmarks, history, passwords and more and access them from any device.
-ఫైర్‌ఫాక్స్‌ను మీరు ఎక్కడ వాడిని దాన్ని మీ దానిగా చేసుకోండి. మీ ఇష్టాంశాలను, చరిత్రను, సంకేతపదాలను సింక్ చేసుకొని వాటిని ఏ పరికరం లోనైనా పొందండి.
+మీరు ఫైర్‌ఫాక్స్‌ను ఎక్కడ వాడినా దాన్ని మీ దానిగా చేసుకోండి. మీ ఇష్టాంశాలను, చరిత్రను, సంకేతపదాలను సింక్ చేసుకొని వాటిని ఏ పరికరం లోనైనా పొందండి.
 
 
 ;Get started with Sync. It’s fast, safe and easy:
@@ -16,7 +16,7 @@
 
 # (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+ఫైర్‌ఫాక్స్‌లో కుడివైపు పైన <a class="menu" href="%(url)s#w_a-handy-new-menu">మెనూ</a>ని తెరచి “<strong>సింక్ లోనికి ప్రవేశించండి</strong>” అని ఎంచుకోండి.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -26,7 +26,7 @@ Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top r
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+ఆపై తెరుచుకునే ట్యాబులో “<strong>మొదలుపెట్టండి</strong>” నొక్కండి.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -36,7 +36,7 @@ Click “<strong>Get started</strong>” in the tab that opens.
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+“<strong>ఫైర్‌ఫాక్స్ ఖాతాను సృష్టించుకోడానికి</strong>” ఒక ఈమెయిలు చిరునామానూ సంకేతపదాన్ని ఇవ్వండి.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -46,7 +46,7 @@ Enter an email address and password to “<strong>Create a Firefox Account.</str
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+మీ ఈమెయిలుకి నిర్ధారణను పంపేందుకై “<strong>తదుపరి</strong>” నొక్కండి.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -71,12 +71,12 @@ Click “<strong>Next</strong>” to get a verification sent to your email.
 
 
 ;Have an Android phone or tablet?
-మీకు ఆండ్రాయిడ్ ఫోను లేదా టాబ్లెడ్ ఉందా?
+మీకు ఆండ్రాయిడ్ ఫోను లేదా టాబ్లెట్ ఉందా?
 
 
 # (NEW STRING)
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+మీ డెస్క్‌టాప్ మరియు మొబైల్ పరికరాల మధ్య సింక్ చేసుకునేందుకు <a href="%(url)s">ఆండ్రాయిడ్ ఫైర్‌ఫాక్స్‌ను దించుకోండి</a>.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.

@@ -11,7 +11,7 @@ Pori Ymwybodol o Leoliad
 
 
 ;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
-Mae Firefox yn gallu dweud eich lleoliad fel bod modd i chi gael gwybodaeth sy'n fwy  perthnasol a defnyddiol. Mae ynglŷn â gwneud y We'n fwy clyfar&ndash; ac wedi ei wneud mewn ffordd sy'n parchu eich preifatrwydd.<a href="%(url)s" id="%(id)s" style="%(style)s">Rhowch gynnig arni!</a>
+Mae Firefox yn gallu dweud lle mae eich lleoliad fel bod modd i chi gael gwybodaeth sy'n fwy perthnasol a defnyddiol. Mae'n gwneud y We'n fwy clyfar &ndash; ac wedi ei wneud mewn ffordd sy'n parchu eich preifatrwydd. <a href="%(url)s" id="%(id)s" style="%(style)s">Rhowch gynnig arni!</a>
 
 
 ;Frequently asked Questions
@@ -27,7 +27,7 @@ Mae gwefannau sy'n defnyddio pori'n ymwybodol o leoliad yn gofyn i gi lle rydych
 
 
 ;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
-Neu os ydych yn edrych ar gyfarwyddiadau ar sut i fynd i rywle, bydd y wefan yn gwybod lle rydych yn cychwyn ohono felly dim ond angen dweud i le sydd angen ei  wneud.
+Neu os ydych yn edrych ar gyfarwyddiadau ar sut i fynd i rywle, bydd y wefan yn gwybod lle rydych yn cychwyn ohono felly dim ond angen nodi i le sydd angen ei wneud.
 
 
 ;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
@@ -59,11 +59,11 @@ Mae cywirdeb yn amrywio o le i le. Mewn rhai llefydd gall ein darparwyr gwasanae
 
 
 ;What information is being sent, and to whom? How is my privacy protected?
-Pa wybodaeth sy'n cael ei anfon, ac i bwy? Sut fydd fy ngwybodaeth yn cael  ei ddiogelu?
+Pa wybodaeth sy'n cael ei anfon, ac i bwy? Sut fydd fy ngwybodaeth yn cael ei ddiogelu?
 
 
 ;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
-Mae eich preifatrwydd yn bwysig iawn i ni, ac ni fydd Firefox yn rhannu eich lleoliad heb eich caniatâd. Pan fyddwch yn ymweld â thudalen sy'n gofyn am eich manylion, byddwn yn gofyn i chi cyn bod unrhyw wybodaeth yn cael ei  rannu gyda'r wefan sy'n gofyn a gyda'r darparwr trydydd parti.
+Mae eich preifatrwydd yn bwysig iawn i ni, ac ni fydd Firefox yn rhannu eich lleoliad heb eich caniatâd. Pan fyddwch yn ymweld â thudalen sy'n gofyn am eich manylion, byddwn yn gofyn i chi cyn bod unrhyw wybodaeth yn cael ei rannu gyda'r wefan sy'n gofyn a gyda'r darparwr trydydd parti.
 
 
 ;By default, Firefox uses Google Location Services to determine your location by sending:
@@ -79,15 +79,15 @@ gwybodaeth am bwyntiau cysylltu diwyfr lleol ac
 
 
 ;a random client identifier, which is assigned by Google, that expires every 2 weeks.
-enw cleient ar hap, sy'n cael ei ddynodi gan Google, sy'n dod i ben  bob pythefnos.
+enw cleient ar hap, sy'n cael ei ddynodi gan Google, sy'n dod i ben bob pythefnos.
 
 
 ;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
-Am ddisgrifiad llawn o'r wybodaeth sy'n cael ei gasglu a'i ddefnyddio gan Firefox, gw. <a href="%(url)s">Hysbysiad Polisi Firefox</a>.o
+Am ddisgrifiad llawn o'r wybodaeth sy'n cael ei gasglu a'i ddefnyddio gan Firefox, gw. <a href="%(url)s">Hysbysiad Polisi Firefox</a>.
 
 
 ;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
-Bydd Google Location Services yn dychwelyd eich amcan o leoliad (e.e. hydred a lledred). Am ddisgrifiad llawn o'r wybodaeth sy'n cael ei gasglu a'i ddefnyddio gan Google gw. <a href="%(url)s" class="%(class)s">Polisi Preifatrwydd Google</a>.
+Bydd Google Location Services yn dychwelyd amcan o'ch lleoliad (e.e., hydred a lledred). Am ddisgrifiad llawn o'r wybodaeth sy'n cael ei gasglu a'i ddefnyddio gan Google gw. <a href="%(url)s" class="%(class)s">Polisi Preifatrwydd Google</a>.
 
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
@@ -147,7 +147,7 @@ Newidiwch y dewis ar gyfer <em>Rhannu Lleoliad</em>
 
 
 ;How do I clear the “random client identification number”?
-Sut fydda i'n  dileu'r "rhif enw cleient ar hap"?
+Sut fydda i'n dileu'r “rhif enw cleient ar hap”?
 
 
 ;Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>
@@ -155,7 +155,7 @@ Ewch i ddewislen <em>Offer</em> a dewis <em>Clirio Hanes Diweddar</em>
 
 
 ;Click the <em>Details</em> arrow
-Cliciwch y  saeth <em>Manylon</em>
+Cliciwch y saeth <em>Manylon</em>
 
 
 ;Ensure that <em>Cookies</em> is selected

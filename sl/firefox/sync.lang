@@ -16,7 +16,7 @@ Začnite uporabljati Sync. Je hiter, varen in enostaven:
 
 # (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Odprite <a class="menu" href="%(url)s#w_a-handy-new-menu">meni</a> zgoraj desno v Firefoxu in izberite “<strong>Prijava v Sync</strong>”.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -26,7 +26,7 @@ Odprite <a href="%(url)s#w_a-handy-new-menu">meni</a> zgoraj desno v Firefoxu in
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+V zavihku, ki se odpre, kliknite “<strong>Začni</strong>”.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -36,17 +36,17 @@ V zavihku, ki se odpre, kliknite "Začni".
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Vnesite elektronski naslov in geslo, da “<strong>Ustvarite Firefox Račun.</strong>”
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 ;Enter an email address and password to “Create a Firefox Account.”
-Vnesite elektronski naslov in geslo, da ustvarite Firefox račun.
+Vnesite elektronski naslov in geslo, da “Ustvarite Firefox Račun“.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+Kliknite “<strong>Naprej</strong>” za prejem potrdila po elektronski pošti.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -76,7 +76,7 @@ Imate telefon ali tablico z Androidom?
 
 # (NEW STRING)
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Prenesite Firefox za Android</a> za sinhronizacijo vaših mobilnih naprav in namizja.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.

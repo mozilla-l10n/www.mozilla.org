@@ -16,7 +16,7 @@ Firefox ক বিভিন্ন ডিভাইচত ব্যৱহাৰ �
 
 # (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Firefox ৰ ওপৰ সোঁ চুকত <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> খোলক আৰু “<strong>সংমিহলি কৰিবলে ছাইন ইন কৰক বাছক।</strong>”
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -26,7 +26,7 @@ Firefox ৰ ওপৰ সোঁ কোনত <a href="%(url)s#w_a-handy-new-menu
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+যি টেব খোল খাব তাত “<strong>আৰম্ভ কৰক</strong>” ক্লিক কৰক।
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -36,7 +36,7 @@ Click “<strong>Get started</strong>” in the tab that opens.
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+“<strong>এটা Firefox একাওন্ট সৃষ্টি</strong>” কৰিবলে এটা ইমেইল ঠিকনা আৰু পাছৱাৰ্ড সুমুৱাওক।
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -46,7 +46,7 @@ Enter an email address and password to “<strong>Create a Firefox Account.</str
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+আপোনাৰ ইমেইললৈ পঠোৱা এটা সত্যাপন প্ৰাপ্ত কৰিবলে “<strong>Next</strong>” ক্লিক কৰক।
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -76,7 +76,7 @@ Click “<strong>Next</strong>” to get a verification sent to your email.
 
 # (NEW STRING)
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+আপোনাৰ ডেস্কটপ আৰু মবাইল ডিভাইচসমূহৰ মাজত সংমিহলি কৰিবলে <a href="%(url)s">Android ৰ বাবে Firefox ডাউনল'ড কৰক</a>।
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.

@@ -16,8 +16,6 @@ Firefox — プライバシーを守る Web で最も信頼されるブラウザ
 ;We build Firefox with a mission to put you first, above all else.<br class="wide-br">
 私たちはユーザを第一にというミッションのもと、Firefox を開発しています。<br class="wide-br">
 
-;Learn More
-詳しくはこちら（英語）
 
 ;We do it to keep you in control.
 すべてをユーザがコントロールでき、
@@ -34,7 +32,7 @@ Firefox — プライバシーを守る Web で最も信頼されるブラウザ
 # The span tags are for presentational purpose
 ;<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
 <span id="trust-line1">プライバシー分野で</span><br class="wide-br"><span id="trust-line2">最も信頼される</span><br class="wide-br"><span id="trust-line3">インターネット企業</span>
-# cssにpull requestを送らずに済ませる前提でのアドホックな対応
+
 
 ;Designed to protect your privacy
 プライバシーを守るために
@@ -50,12 +48,10 @@ Firefox — プライバシーを守る Web で最も信頼されるブラウザ
 
 ;Do Not Track
 Do Not Track{ok}
-# DNTのことなので原文ママ
 
 
 ;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
 Firefox の持つ Do Not Track 機能を利用すると、オンラインにおける個人情報の収集と使用に対するコントロールを行えます。
-# "Firefox innovation"がちょっと悩む
 
 
 ;Learn more about Do Not Track
@@ -124,10 +120,9 @@ Firefox は、最新かつ重要なセキュリティの修正をユーザが受
 
 ;Browse without worry
 安心なブラウジング
-# 見出しなので意訳
 
 
-# L10n: Line break below is for visual formatting only. #}
+# L10n: Line break below is for visual formatting only.
 ;Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
 プライバシーとセキュリティの重要性、<br class="wide-br">オンラインでのプライバシー保護のために何ができるかについて学べます。
 
@@ -154,4 +149,5 @@ Web を安全に利用するには
 
 ;Security blog
 セキュリティブログ（英語）
+
 

@@ -10,7 +10,6 @@ Web ブラウザ Firefox — 信頼、自由自在、高速 — 史上最高の�
 # L10n: Line break below is for wide screen formatting only.
 ;There’s never been a <br class="wide-br">better time for Firefox
 いまこそ Firefox が求められています
-# ページ一番上の見出し
 
 
 ;Committed to you, your privacy and an open Web.
@@ -19,12 +18,10 @@ Web ブラウザ Firefox — 信頼、自由自在、高速 — 史上最高の�
 
 ;Made with a mission to put you first
 ユーザを第一に
-# 見出しなので、"ミッションとともに~"のように長く語っていいものか判断に困ったため、暫定的に
 
 
 ;We’ve always designed Firefox to protect and respect your private information.
 ユーザのプライベートな情報を守り、尊重するように Firefox は開発されています。<br class="wide-br">
-# brで改行位置を指定
 
 
 ;That’s why we’re proud to be voted the <a href="%(url1)s">Most Trusted Internet Company for Privacy.</a>
@@ -40,12 +37,11 @@ Firefox が最も信頼されている Web ブラウザである理由はこち�
 
 
 ;How you use the Web is unique.
-<!-- This sentense has no Japanese translation because its message is included in the next senetense's translation -->
+{ok}
 
 
 ;Firefox lets you change it to match.
 Firefox は、あなたに合わせたカスタマイズが可能です。<br class="wide-br">
-# brで改行位置を指定
 
 
 ;Remove what you don’t use, keep what you do and put it just about anywhere you want.

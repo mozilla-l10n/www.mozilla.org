@@ -8,7 +8,7 @@ Firefox OS - Apparaten en beschikbaarheid
 
 # Main title - <br> tag below used for formatting only.
 ;Find Firefox OS <br>near you
-Firefox OS vinden <br>in uw buurt
+Firefox OS vinden <br>in de buurt
 
 
 # <br> tag below used for formatting only.
@@ -17,7 +17,7 @@ Firefox OS-apparaten <br>verkennen
 
 
 ;Firefox OS
-Firefox OS
+Firefox OS {ok}
 
 
 ;Firefox OS FAQ
@@ -25,7 +25,7 @@ Firefox OS-FAQ
 
 
 ;Get a phone
-Een telefoon kopen
+Een telefoon verkrijgen
 
 
 ;Find a device in:
@@ -178,11 +178,11 @@ Binnenkort (medio 2014)
 
 
 ;Operators
-Aanbieders
+Providers
 
 
 ;Operator
-Aanbieder
+Provider
 
 
 ;Congstar
@@ -216,6 +216,7 @@ TIM {ok}
 ;Vivo
 Vivo {ok}
 
+
 # Features panel
 ;Available in
 Beschikbaar in
@@ -226,11 +227,11 @@ Intern geheugen
 
 
 ;Rear camera
-Camera op achterzijde
+Camera achter
 
 
 ;Available storage for user content varies depending on the version and is subject to change based on phone software updates and apps usage.
-Beschikbare opslag voor gebruikerstoepassingen is afhankelijk van de versie en kan wijzigen op basis van telefoonsoftware-updates en gebruik door apps.
+Beschikbare opslag voor gebruikersinhoud is afhankelijk van de versie en onderhevig aan wijzigingen op basis van telefoonsoftware-updates en app-gebruik.
 
 
 # Specifications panel
@@ -263,7 +264,7 @@ RAM {ok}
 
 
 ;Expansion slot
-Uitbreidingsmogelijkheid
+Uitbreidingsslot
 
 
 ;GPS
@@ -287,7 +288,7 @@ Spreektijd
 
 
 ;Standby time
-Tijd standby
+Stand-bytijd
 
 
 ;Networks
@@ -374,16 +375,12 @@ Qualcomm Dual-Core 1 GHz CPU {ok}
 
 
 ;Qualcomm Snapdragon 200 processor with dual-core CPU at speeds of up to 1.2 GHz per core
-Qualcomm Snapdragon 200 processor dual-core CPU met snelheden tot 1,2 GHz per kern
+Qualcomm Snapdragon 200-processor met dual-core-CPU op snelheden tot 1,2 GHz per kern
 
 
 # Networks
 ;UMTS 900/2100 and 850/1900/2100 - 3G Data up to 7.2 Mbps DL and 384 Kbps UL
-UMTS 900/2100 en 850/1900/2100 - 3G-data tot 7,2 Mbps downloadsnelheid en 384 Kbps uploadsnelheid
-
-
-;GSM (850/900/1800/1900)
-GSM (850/900/1800/1900) {ok}
+UMTS 900/2100 en 850/1900/2100 - 3G-gegevens tot 7,2 Mbps DL en 384 Kbps UL
 
 
 ;GSM 850/900/1800/1900
@@ -408,19 +405,19 @@ GPRS/WCDMA/HSPA+ {ok}
 
 # Wireless/Ports
 ;Wi-Fi 802.11 b/g/n
-Wi-Fi 802.11 b/g/n {ok}
+Wifi 802.11 b/g/n
 
 
 ;Micro USB 2.0 high speed
-Micro USB 2.0 hoge snelheid
+Micro-USB 2.0 hoge snelheid
 
 
 ;3.5 mm stereo headset jack
-3,5 mm stereo-koptelefoonaansluiting
+3,5 mm stereo-hoofdtelefoonaansluiting
 
 
 ;Stereo FM
-Stereo FM {ok}
+FM stereo
 
 
 # Camera
@@ -437,7 +434,7 @@ Stereo FM {ok}
 
 
 ;3.0 MP (Fixed-focus)
-3,0 MP (vaste focus)
+3,0 MP (Vaste focus)
 
 
 ;5.0 MP
@@ -445,19 +442,19 @@ Stereo FM {ok}
 
 
 ;5.0 MP, LED flash
-5,0 MP, LED-flits
+5,0 MP, LED-flitser
 
 
 ;5.0 MP rear, VGA front
-5,0 MP achterzijde, VGA voorzijde
+5,0 MP achter, VGA voor
 
 
 ;Rear camera, VGA Front camera
-Camera achterzijde, VGA-camera voorzijde
+Camera achter, VGA-camera voor
 
 
 ;Rear camera, 0.3 MP Front camera
-Camera achterzijde, 0,3 MP-camera voorzijde
+Camera achter, 0,3 MP-camera voor
 
 
 # Bluetooth
@@ -499,51 +496,51 @@ Li-Ion 1540 mAh {ok}
 
 
 ;5.3 h
-5,3 u
+5,3 h
 
 
 ;6.7 h
-6,7 u
+6,7 h
 
 
 ;9 h
-9 u
+9 h {ok}
 
 
 ;9 h 20 m
-9 u 20 m
+9 h 20 m {ok}
 
 
 ;176 h
-176 u
+176 h {ok}
 
 
 ;Up to 5.3 h
-Tot 5,3 u
+Tot 5,3 h
 
 
 ;Up to 8 h
-Tot 8 u
+Tot 8 h
 
 
 ;Up to 350 h
-Tot 350 u
+Tot 350 h
 
 
 ;Up to 744 h
-Tot 744 u
+Tot 744 h
 
 
 ;Up to 6.7 h (2G), 3 h (3G)
-Tot 6,7 u (2G), 3 u (3G)
+Tot 6,7 h (2G), 3 h (3G)
 
 
 ;Up to 8 h (2G), 8 h (3G)
-Tot 8 u (2G), 8 u (3G)
+Tot 8 h (2G), 8 h (3G)
 
 
 ;Up to 280 h (2G)
-Tot 280 u (2G)
+Tot 280 h (2G)
 
 
 # Screen
@@ -597,16 +594,37 @@ Meer over Firefox OS
 
 
 ;Read about the features and mission behind Firefox OS
-Lees over de functies en missie achter Firefox OS
+Lees meer over de functies en missie achter Firefox OS
 
 
 ;Get help with your Firefox OS device from Mozilla Support
-Krijg hulp van Mozilla Support bij uw Firefox OS-apparaat
+Hulp bij uw Firefox OS-apparaat verkrijgen op Mozilla Support
 
 
 ;See what Firefox OS offers and means for developers
-Zie wat Firefox OS biedt en betekent voor ontwikkelaars
+Bekijk wat Firefox OS biedt en voor ontwikkelaars betekent
 
 
 ;Learn about Firefox OS apps in Firefox Marketplace
-Lees over Firefox OS-apps in de Firefox Marketplace
+Lees meer over Firefox OS-apps in de Firefox Marketplace
+
+
+# Popup after clicking on "Get a phone"
+;We work with a number of providers to offer Firefox OS on a variety of devices.
+We werken samen met een aantal providers om Firefox OS op diverse apparaten aan te bieden.
+
+
+;Please read our FAQ for a <a href="%(link)s">full list of providers in available countries</a>.
+Lees onze FAQ voor een <a href="%(link)s">volledige lijst van providers in beschikbare landen</a>.
+
+
+# Case 1: There are several phone providers
+;Choose one from the list below to get a Firefox OS smartphone in your country.
+Kies er één uit de onderstaande lijst om een Firefox OS-smartphone in uw land te verkrijgen.
+
+
+# Case 2: There is only one provider in the country
+;Click on the provider below to get a Firefox OS smartphone in your country.
+Klik op de onderstaande provider om een Firefox OS-smartphone in uw land te verkrijgen.
+
+

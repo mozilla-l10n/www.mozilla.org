@@ -211,12 +211,12 @@ Naše webové stranky jsou otevřené pro šikovné vývojáře. <a href="%(webd
 
 # Firefox Marketplace
 ;<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
-<a href="%(marketplace_url)s">Firefox Marketplace</a> poskytuje obsah jako jsou hry, hudba, sociální aplikace a další, které jsou založeny na standardu HTML5 a myšlenkách otevřeného zdrojového kódu. Naše <a href="%(mktcontrib_url)s">možnosti zapojení</a> zahrnují všechny úrovně znalostí, takže je snadné se zapojit! 
+<a href="%(marketplace_url)s">Firefox Marketplace</a> poskytuje obsah jako jsou hry, hudba, sociální aplikace a další, které jsou založeny na standardu HTML5 a myšlenkách otevřeného zdrojového kódu. Naše <a href="%(mktcontrib_url)s">možnosti zapojení</a> zahrnují všechny úrovně znalostí, takže je snadné se zapojit!
 
 
 # Add-ons
 ;Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
-Doplňky jsou to, co činí Firefox nejvíce rozšiřitelný a přizpůsobitelný prohlížeč. Můžete <a href="%(addons_url)s">vytvořit doplněk</a> a <a href="%(addons_wiki)s">přečíst si více o dalších způsobech, jak můžete přispět</a>.  
+Doplňky jsou to, co činí Firefox nejvíce rozšiřitelný a přizpůsobitelný prohlížeč. Můžete <a href="%(addons_url)s">vytvořit doplněk</a> a <a href="%(addons_wiki)s">přečíst si více o dalších způsobech, jak můžete přispět</a>.
 
 
 # Visual design
@@ -230,6 +230,11 @@ Mozilla Developer Network je hlavním portálem s informacemi o technologiích M
 
 
 # Education
+;Interested in helping others understand how the Web works? <a href="%(webmaker)s">Mozilla Webmaker</a> is a global community dedicated to sharing digital skills using <a href="%(webmaker_tools)s">free tools</a>, <a href="%(webmaker_resources)s">teaching resources</a> and <a href="%(webmaker_events)s">community events</a>.
+Interested in helping others understand how the Web works? <a href="%(webmaker)s">Mozilla Webmaker</a> is a global community dedicated to sharing digital skills using <a href="%(webmaker_tools)s">free tools</a>, <a href="%(webmaker_resources)s">teaching resources</a> and <a href="%(webmaker_events)s">community events</a>.
+
+
+# Old string, will be removed when all locales have the new text
 ;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
 Pomozte vzdělávat novou generaci lidí aktivních na webu tím, že je budete učit, jak web funguje. <a href="%(moz_webmaker)s ">Podívejte se, o čem je projekt Mozilla Webmaker</a> a nebo začněte učit ostatní - už dnes můžete naplánovat <a href="%(webmaker)s">setkání vaší lokální komunity</a>.
 

@@ -1,21 +1,23 @@
+## active ##
+## sync_new_markup ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
 ;Keep your Firefox in sync
-Keep your Firefox in sync
+Cum am Firefox agad sioncronaichte
 
 
 ;Instantly make Firefox your own wherever you use it. Seamlessly sync your bookmarks, history, passwords and more and access them from any device.
-Instantly make Firefox your own wherever you use it. Seamlessly sync your bookmarks, history, passwords and more and access them from any device.
+Cuir Firefox air gleus dhut fhèin ge be càit an cleachd thu e. Sioncronaich na comharran-lìn, an eachdraidh, na faclan-faire is mòran a bharrachd is faigh cothrom orra o uidheam sam bith.
 
 
 ;Get started with Sync. It’s fast, safe and easy:
-Get started with Sync. It’s fast, safe and easy:
+Tòisich air an t-sioncronachadh. Tha e luath, sàbhailte is furasta:
 
 
 # (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Fosgail an <a class="menu" href="%(url)s#w_a-handy-new-menu">clàr-taice</a> gu h-àrd ann am Firefox air an taobh deas is tagh "<strong>Clàraich a-steach airson sioncronachadh.</strong>"
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -25,7 +27,7 @@ Fosgail an <a href="%(url)s#w_a-handy-new-menu">clàr-taice</a> gu h-àrd ann am
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+Briog air "<strong>Toiseach-tòiseachaidh</strong>" anns an taba a dh'fhosglas.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -35,7 +37,7 @@ Briog air an taba "Toiseach-tòiseachaidh" a dh'fhosglas an uairsin.
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Cuir a-steach seòladh puist-d agus facal-faire is briog air "<strong>Cruthaich cunntas Firefox.</strong>"
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -45,7 +47,7 @@ Cuir a-steach seòladh puist-d agus facal-faire is briog air "Cruthaich cunntas 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+Briog air "<strong>Air adhart</strong>" is gheibh thu post-d dearbhaidh.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -75,7 +77,7 @@ A bheil fòn no tablaid Android agad?
 
 # (NEW STRING)
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Luchdaich a-nuas Firefox airson Android</a> gus sioncronachadh a dhèanamh eadar na h-uidheaman desktop is mobile agad.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.

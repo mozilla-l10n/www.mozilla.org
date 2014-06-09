@@ -1,6 +1,7 @@
 ## contribute_faces ##
 ## contribute_mayupdates ##
 ## webmaker_update ##
+## contribute_fellowship ##
 
 # Used for HTML title attribute
 ;Get Involved: Volunteer Opportunities at Mozilla
@@ -235,6 +236,15 @@ The Mozilla Developer Network is the hub for information about Mozilla technolog
 Interested in helping others understand how the Web works? <a href="%(webmaker)s">Mozilla Webmaker</a> is a global community dedicated to sharing digital skills using <a href="%(webmaker_tools)s">free tools</a>, <a href="%(webmaker_resources)s">teaching resources</a> and <a href="%(webmaker_events)s">community events</a>.
 
 
+# Fellowships
+;Fellowships
+Fellowships
+
+
+;Interested in shaping the future of the open Web? Knight-Mozilla’s <a href="%(fellowship)s">OpenNews Fellowship program</a> matches emerging digital leaders with journalism opportunities to build the open Web for everyone.
+Interested in shaping the future of the open Web? Knight-Mozilla’s <a href="%(fellowship)s">OpenNews Fellowship program</a> matches emerging digital leaders with journalism opportunities to build the open Web for everyone.
+
+
 # Old string, will be removed when all locales have the new text
 ;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
 Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
@@ -343,3 +353,4 @@ Quality assurance testing is one of the easiest ways to get started with Mozilla
 # Old string, will be removed when all locales have the new text
 ;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
 Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
+

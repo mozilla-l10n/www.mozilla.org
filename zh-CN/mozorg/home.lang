@@ -131,8 +131,8 @@ Mozilla 的节日
 你不必了解编程就可以参加 Mozilla 的工作。 <a href="%s">进一步了解志愿工作的机会</a>。
 
 
-;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
-感谢我们的全球社区，Mozilla 产品和网站有超过70个语言版本，<a href="%(link_l10n)s">帮助我们翻译为你的语言</a>。
+;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a rel="external" href="%(link_l10n)s">Help translate them into yours</a>.
+感谢我们的全球社区，Mozilla 产品和网站有超过70个语言版本，<a rel="external" href="%(link_l10n)s">帮助我们翻译为你的语言</a>。
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.

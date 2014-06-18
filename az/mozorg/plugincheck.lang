@@ -3,7 +3,7 @@
 
 # Page <title> tag
 ;Plugin Check &amp; Updates
-Plugin Check &amp; Updates
+Qoşmaların Yoxlanması və Yeniləmələr
 
 
 # This is a button telling the user to update their plugin
@@ -18,17 +18,17 @@ Araşdır
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-current version plugin
+mövcud qoşma versiyası
 
 
 # This is a button informing the user that their plugin is up to date
 ;Up to Date
-Up to Date
+Yenilənmiş
 
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+Qoşma ikonu
 
 
 # This is the string used to indicate that the plugin is unknown
@@ -38,52 +38,52 @@ naməlum
 
 # This is the string used to indicate that the plugin is vulnerable
 ;vulnerable
-vulnerable
+zəif
 
 
 # Main title
 ;Check Your Plugins
-Check Your Plugins
+Qoşmalarınızı yoxlayın
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Keeping your plugins up to date helps Firefox run safely and smoothly.
+Qoşmalarınızı yenilənmiş tutmağınız Firefox-a təhlükəsiz və rahat işləməyə kömək edir.
 
 
 ;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+Biz Javanın yeni versiyalarının təhlükəli hesab edilib səhvən raport edilməsindən xəbərdarıq.
 
 
 ;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+Bu xətanı düzəltmək üçün əlləşirik. Hal-hazırda, siz <a href="%(download)s">Java saytını ziyarət edib</a> ən son versiyanı yükləyə bilərsiniz.
 
 
 ;Plugin Status
-Plugin Status
+Qoşma Statusu
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
-Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
+<strong>Internet Explorer üçün qoşma yoxlaması limitlidir</strong>. Həmçinin Alətlər &gt; Əlavələri idarə et işlədin
 
 
 ;Step 1: Click Update to update a plugin.
-Step 1: Click Update to update a plugin.
+Addım 1: Qoşmanı yeniləmək üçün Yenilə düyməsini klikləyin.
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
-Step 2: Complete all recommended updates before restarting your browser.
+Addım 2: Səyyahınızı yenidən başlatmazdan əvvəl bütün məsləhətli yeniləmələri edin.
 
 
 ;Potentially vulnerable plugins
-Potentially vulnerable plugins
+Potensial təhlükəyə açıq qoşmalar
 
 
 ;Plugin
-Plugin
+Qoşma
 
 
 ;Status
-Status
+Status {ok}
 
 
 ;Action
@@ -91,127 +91,127 @@ Fəaliyyət
 
 
 ;Outdated Plugins
-Outdated Plugins
+Vaxtı keçmiş Qoşmalar
 
 
 ;Unknown Plugins
-Unknown Plugins
+Naməlum Qoşmalar
 
 
 ;These plugins are up to date
-These plugins are up to date
+Bu qoşmalar yenidirlər
 
 
 ;Back to Top
-Back to Top
+Başa Qayıt
 
 
 ;Frequently Asked Questions
-Frequently Asked Questions
+Tez-Tez Verilən Suallar
 
 
 ;What is a plugin?
-What is a plugin?
+Qoşma nədir?
 
 
 ;Plugins power videos, animation and games
-Plugins power videos, animation and games
+Qoşmalar videoları, animasiyaları və oyunları gücləndirir
 
 
 ;They're built outside of Firefox by companies like Adobe Systems and Apple
-They're built outside of Firefox by companies like Adobe Systems and Apple
+Onlar Firefox-dan ayrı Adobe Systems və Apple kimi şirkətlər tərəfindən hazırlanırlar
 
 
 ;Plugins don't always update automatically.
-Plugins don't always update automatically.
+Qoşmalar hər zaman avtomatik yenilənmirlər.
 
 
 ;Why should I update my plugins?
-Why should I update my plugins?
+Niyə qoşmaları yeniləməliyəm?
 
 
 ;Old plugins can interrupt browsing and waste your time.
-Old plugins can interrupt browsing and waste your time.
+Köhnə qoşmalar səyahətinizi poza və vaxt itirmənizə səbəb ola bilərlər.
 
 
 ;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
-Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
+Köhnə qoşmalar sizin zərərli proqramlar, viruslar və başqa təhlükəsizlik təhdidlərə qarşı <strong>riskinizi artırırlar</strong>.
 
 
 ;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
-<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
+<strong>Yenilənmiş qoşmaların təkmilləşdirilməsi</strong> interneti sizin üçün daha <strong>yaxşı və təhlükəsiz edir</strong>.
 
 
 # alt image
 ;Screenshot of Add-Ons manager
-Screenshot of Add-Ons manager
+Əlavələr idarə edicisinin ekran görüntüsü
 
 
 ;How can Firefox help me?
-How can Firefox help me?
+Firefox mənə necə kömək edə bilər?
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
-In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
+Gələcəkdə Firefox qoşmaları sizin üçün yeniləyəcək. O vaxta qədər siz təhlükəsizliyiniz üçün ara-sıra bu səhifəni yoxlayıb qoşmalarınızı yeniləməlisiniz.
 
 
 ;Which Plugins do I have?
-Which Plugins do I have?
+Mənim hansı Qoşmalarım var?
 
 
 ;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
-We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
+Biz avtomatik yuxarıdakı qoşmalarınızı tapdıq, Firefoxda qurulmuş qoşmalarınızı görmək üçün bunu edə bilərsiz:
 
 
 ;Open the Tools menu.
-Open the Tools menu.
+Alətlər menyusunu açın.
 
 
 ;Choose Add-ons.
-Choose Add-ons.
+Əlavələri seçin.
 
 
 ;Click the plugins tab.
-Click the plugins tab.
+Qoşmalar tabına klikləyin.
 
 
 ;Want to spread the word?
-Want to spread the word?
+Dünyanı genişləndirmək istəyirsiz?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+Dostlarına onlayn təhlükəsiz qalmalarına kömək edin! <a href="%(url)s">Firefox Affiliates</a> səhifəsini ziyarət edin və saytınız üçün qoşma yoxlaması nişanı alın.
 
 
 ;How do I disable a plugin?
-How do I disable a plugin?
+Qoşmanı necə sıradan çıxara bilərəm?
 
 
 ;In Firefox:
-In Firefox:
+Firefox-da:
 
 
 ;Click on a plugin in the list.
-Click on a plugin in the list.
+Siyahıdakı qoşmaya klikləyin.
 
 
 ;Click the Disable button.
-Click the Disable button.
+Deaktiv (yararsız) et düyməsinə klikləyin.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
-Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
+Diqqət: Qoşmanı deaktiv etmək artıq bəzi şeyləri edə bilməyəcəyiniz deməkdir. Məsələn, əgər Flash qoşmasını deaktiv etsəniz internetdə bir çox videoları izləyə bilməyəcəksiz.
 
 
 ;Mozilla Support
-Mozilla Support
+Mozilla Dəstək
 
 
 ;Have more questions?
-Have more questions?
+Sualınız var?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
+Daha çox kömək üçün <a href="%(sumo_url)s">support.mozilla.org</a> səhifəsini ziyarət edin!
 
 

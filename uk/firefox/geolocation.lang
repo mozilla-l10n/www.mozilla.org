@@ -39,7 +39,7 @@ Firefox може повідомити сайтам про ваше місцез�
 
 
 ;When you visit a location-aware website, Firefox will ask you if you want to share your location.
-Коли ви відвідуєте сайт, що може може використати інформацію про те, де ви перебуваєте, Firefox запитає вас, чи бажаєте ви нею поділитися.
+Коли ви відвідуєте сайт, який може використати інформацію про ваше місцезнаходження, Firefox запитає вас, чи бажаєте ви нею поділитися.
 
 
 ;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
@@ -55,7 +55,7 @@ Firefox може повідомити сайтам про ваше місцез�
 
 
 ;Accuracy varies greatly from location to location. In some places, our service providers may be able to provide a location to within a few meters. However, in other areas it might be much more than that. All locations returned by our service providers are estimates only and we do not guarantee the accuracy of the locations provided. Please do not use this information for emergencies. Always use common sense.
-Точність змінюється від місця до місця. У деяких точках наші провайдери можуть надати дані з точністю до кількох метрів. Однак у інших місцях точність буде набагато меншою. Інформація про ваше місце є лише оціночною, і ми не гарантуємо її точність. Будьте ласкаві, не покладайтеся на неї в критичних ситуаціях. Завжди користуйтеся здоровим глуздом.
+Точність значно змінюється залежно від місця розташування. У деяких точках наші провайдери можуть надати дані з точністю до кількох метрів. Однак у інших місцях точність буде набагато меншою. Вся інформація про ваше розташування є лише оціночною, і ми не гарантуємо її точність. Не покладайтеся на цю ситуацію в критичних ситуаціях. Завжди користуйтеся здоровим глуздом.
 
 
 ;What information is being sent, and to whom? How is my privacy protected?
@@ -83,7 +83,7 @@ IP-адресу вашого комп’ютера,
 
 
 ;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
-Повний опис усієї інформації, яку збирає та використовує Firefox, наведено в <a href="%(url)s">Політиці конфіденційності Firefox</a> (англійською).
+Повний опис усієї інформації, яку збирає та використовує Firefox, наведено в <a href="%(url)s">Політиці приватності Firefox</a> (англійською).
 
 
 ;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
@@ -103,15 +103,15 @@ IP-адресу вашого комп’ютера,
 
 
 ;For more information about your privacy, you should also read:
-По додаткову інформаціб про вашу конфіденційність, прочитайте також:
+Про додаткову інформаціб про вашу конфіденційність, прочитайте також:
 
 
 ;Mozilla Firefox Privacy Notice
-Політику конфіденційності Mozilla Firefox
+Політику приватності Mozilla Firefox
 
 
 ;Google privacy policy
-Політику конфіденційності Google
+Політику приватності Google
 
 
 ;Am I being tracked as I browse the web?
@@ -171,7 +171,7 @@ IP-адресу вашого комп’ютера,
 
 
 ;Location-Aware Browsing is always opt-in in Firefox. No location information is ever sent without your permission. If you wish to disable the feature completely, please follow this set of steps:
-Location-Aware Browsing is always opt-in in Firefox. No location information is ever sent without your permission. If you wish to disable the feature completely, please follow this set of steps:
+Відслідковування розташування під час перегляду у Firefox завжди вимкнено. Ніяка інформація про розташування не надсилаєтться без вашої згоди. Якщо ви бажаєте повністю відключити цю функцію, виконайте наступні кроки:
 
 
 ;In the URL bar, type <code>about:config</code>

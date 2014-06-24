@@ -4,6 +4,7 @@
 ## promo_new_mdn ##
 ## promo_webwewant ##
 ## promo_fxdesktop ##
+## promo_worldcup2014 ##
 ## NOTE: demo server for home page is https://www-dev.allizom.org
 
 
@@ -133,7 +134,7 @@
 
 
 ;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a rel="external" href="%(link_l10n)s">Help translate them into yours</a>.
-អរគុណ​ចំពោះ​សហគមន៍​សកល​របស់​យើង ផលិតផល និង​តំបន់បណ្ដាញ Mozilla មាន​ជាង ៧០ ភាសា។ <a rel="external" href="%(link_l10n)s">ជួយ​បកប្រែ​ជា​ភាសា​របស់​អ្នក</a>។
+អរគុណ​សហគមន៍​សកល​របស់​ពួក​យើង, តំបន់​បណ្ដាញ និង​ផលិតផល​ Mozilla មាន​ជាង 70 ភាសា។ <a rel="external" href="%(link_l10n)s">ជួយ​បកប្រែ​ជា​ភាសា​របស់​អ្នក</a> ។
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
@@ -233,11 +234,11 @@ community hub របស់​ពួក​យើង​សម្រាប់ docs,
 
 # This panel will go live on Jun 12. Demo available on https://www-demo4.allizom.org/
 ;Football <i>fanatic?</i>
-Football <i>fanatic?</i>
+Football <i>fanatic?</i> {ok}
 
 
 ;Football fanatic?
-Football fanatic?
+Football fanatic? {ok}
 
 
 ;Firefox lets you keep up with all the action in Brazil.

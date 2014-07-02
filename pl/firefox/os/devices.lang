@@ -49,6 +49,10 @@ Chile {ok}
 Kolumbia
 
 
+;France
+France
+
+
 ;Germany
 Niemcy
 
@@ -59,6 +63,10 @@ Grecja
 
 ;Hungary
 Węgry
+
+
+;India
+India
 
 
 ;Italy
@@ -133,45 +141,6 @@ Dostępność
 ;Set your world on fire
 Świat na wyciągnięcie ręki
 
-# Alt tag for a logo
-;One Touch Fire
-One Touch Fire {ok}
-
-
-;LG Fireweb
-LG Fireweb {ok}
-
-
-;ZTE Open
-ZTE Open {ok}
-
-
-;ZTE Open C
-ZTE Open C {ok}
-
-
-;Huawei Y300II
-Huawei Y300II {ok}
-
-
-;Alcatel One Touch C
-Alcatel One Touch C {ok}
-
-
-# Alt tag for a logo
-;Alcatel One Touch Fire
-Alcatel One Touch Fire {ok}
-
-
-# Alt tag for a logo
-;Huawei
-Huawei {ok}
-
-
-# Alt tag for a logo
-;LG
-LG {ok}
-
 
 ;Coming Soon (mid-2014)
 Wkrótce (połowa roku 2014)
@@ -183,38 +152,6 @@ Operatorzy
 
 ;Operator
 Operator {ok}
-
-
-;Congstar
-Congstar {ok}
-
-
-;Cosmote
-Cosmote {ok}
-
-
-;Movistar
-Movistar {ok}
-
-
-;T-Mobile
-T-Mobile {ok}
-
-
-;Telcel
-Telcel {ok}
-
-
-;Telenor
-Telenor {ok}
-
-
-;TIM
-TIM {ok}
-
-
-;Vivo
-Vivo {ok}
 
 
 # Features panel
@@ -308,6 +245,10 @@ Radio {ok}
 
 
 # Storage/Memory
+;128 MB
+128 MB
+
+
 ;256 MB
 256 MB {ok}
 
@@ -316,8 +257,16 @@ Radio {ok}
 512 MB {ok}
 
 
+;2 GB
+2 GB
+
+
 ;4 GB
 4 GB {ok}
+
+
+;128 MB RAM
+128 MB RAM
 
 
 ;256 MB RAM
@@ -339,6 +288,10 @@ MicroSD do 32 GB
 # Weight/Dimensions
 ;115 x 62.3 x 12.2 mm
 115 x 62,3 x 12,2 mm
+
+
+;115 x 62 x 11.8 mm
+115 x 62 x 11.8 mm
 
 
 ;113.8 x 66.5 x 9 mm
@@ -378,9 +331,21 @@ Qualcomm Dual-Core 1 GHz CPU {ok}
 Dwurdzeniowy procesor Qualcomm Snapdragon 200 osiągający 1,2 GHz na rdzeń
 
 
+;MSM8210 dual core 1.2 GHz
+MSM8210 dual core 1.2 GHz
+
+
+;Spreadtrum SC6821
+Spreadtrum SC6821
+
+
 # Networks
 ;UMTS 900/2100 and 850/1900/2100 - 3G Data up to 7.2 Mbps DL and 384 Kbps UL
 UMTS 900/2100 and 850/1900/2100 - Dane 3G do 7.2 Mbps DL i 384 Kbps UL
+
+
+;GSM 900/1800
+GSM 900/1800
 
 
 ;GSM 850/900/1800/1900
@@ -456,6 +421,7 @@ Tylny aparat, aparat VGA z przodu
 ;Rear camera, 0.3 MP Front camera
 Tylny aparat, aparat 0,3 MP z przodu
 
+
 # Bluetooth
 ;Bluetooth v2.1
 Bluetooth v2.1 {ok}
@@ -474,6 +440,14 @@ Bluetooth v3.0 A2DP {ok}
 
 
 # Battery
+;1100 mAh
+1100 mAh
+
+
+;1150 mAh
+1150 mAh
+
+
 ;1200 mAh
 1200 mAh {ok}
 
@@ -555,8 +529,37 @@ Do 280 godzin (2G)
 4,0" HVGA
 
 
+;3.5" HVGA 320 x 480 pixels, 262K color display
+3.5" HVGA 320 x 480 pixels, 262K color display
+
+
+;3.5" HVGA 480 x 320 pixels
+3.5" HVGA 480 x 320 pixels
+
+
+;4.0" WVGA 800 x 480 pixels
+4.0" WVGA 800 x 480 pixels
+
+
+;4.0" WVGA 800 x 400 pixels
+4.0" WVGA 800 x 400 pixels
+
+
+;4.0" 320 x 480 pixels (~144 ppi pixel density)
+4.0" 320 x 480 pixels (~144 ppi pixel density)
+
+
+# Old strings with wrong typography, will be removed soon
+;3.5” HVGA
+3.5” HVGA
+
+
 ;3.5” HVGA 320 x 480 pixels, 262K color display
 3,5” HVGA 320 x 480 pikseli, wyświetlacz 262K kolorów
+
+
+;3.5” HVGA 480 x 320 pixels
+3.5” HVGA 480 x 320 pixels
 
 
 ;4.0” WVGA 800 x 480 pixels
@@ -571,6 +574,7 @@ Do 280 godzin (2G)
 4,0” 320 x 480 pikseli (~144 ppi)
 
 
+# other screen strings
 ;320 x 480 pixels
 320 x 480 pikseli
 
@@ -606,6 +610,7 @@ Zobacz, co Firefox OS oferuje programistom i co dla nich oznacza
 
 ;Learn about Firefox OS apps in Firefox Marketplace
 Dowiedz się więcej o aplikacjach na Firefox OS z Firefox Marketplace
+
 
 # Popup after clicking on "Get a phone"
 ;We work with a number of providers to offer Firefox OS on a variety of devices.

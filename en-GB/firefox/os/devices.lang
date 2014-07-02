@@ -48,6 +48,10 @@ Chile
 Colombia
 
 
+;France
+France
+
+
 ;Germany
 Germany
 
@@ -58,6 +62,10 @@ Greece
 
 ;Hungary
 Hungary
+
+
+;India
+India
 
 
 ;Italy
@@ -133,49 +141,6 @@ Available
 Set your world on fire
 
 
-# Alt tag for a logo
-;One Touch Fire
-One Touch Fire
-
-
-;LG Fireweb
-LG Fireweb
-
-
-;ZTE Open
-ZTE Open
-
-
-;ZTE Open C
-ZTE Open C
-
-;ZTE Open II
-ZTE Open II
-
-
-;Huawei Y300II
-Huawei Y300II
-
-
-;Alcatel One Touch C
-Alcatel One Touch C
-
-
-# Alt tag for a logo
-;Alcatel One Touch Fire
-Alcatel One Touch Fire
-
-
-# Alt tag for a logo
-;Huawei
-Huawei
-
-
-# Alt tag for a logo
-;LG
-LG
-
-
 ;Coming Soon (mid-2014)
 Coming Soon (mid-2014)
 
@@ -187,37 +152,6 @@ Operators
 ;Operator
 Operator
 
-
-;Congstar
-Congstar
-
-
-;Cosmote
-Cosmote
-
-
-;Movistar
-Movistar
-
-
-;T-Mobile
-T-Mobile
-
-
-;Telcel
-Telcel
-
-
-;Telenor
-Telenor
-
-
-;TIM
-TIM
-
-
-;Vivo
-Vivo
 
 # Features panel
 ;Available in
@@ -310,6 +244,10 @@ Radio
 
 
 # Storage/Memory
+;128 MB
+128 MB
+
+
 ;256 MB
 256 MB
 
@@ -324,6 +262,10 @@ Radio
 
 ;4 GB
 4 GB
+
+
+;128 MB RAM
+128 MB RAM
 
 
 ;256 MB RAM
@@ -345,6 +287,10 @@ MicroSD up to 32 GB
 # Weight/Dimensions
 ;115 x 62.3 x 12.2 mm
 115 x 62.3 x 12.2 mm
+
+
+;115 x 62 x 11.8 mm
+115 x 62 x 11.8 mm
 
 
 ;113.8 x 66.5 x 9 mm
@@ -388,9 +334,17 @@ Qualcomm Snapdragon 200 processor with dual-core CPU at speeds of up to 1.2 GHz 
 MSM8210 dual core 1.2 GHz
 
 
+;Spreadtrum SC6821
+Spreadtrum SC6821
+
+
 # Networks
 ;UMTS 900/2100 and 850/1900/2100 - 3G Data up to 7.2 Mbps DL and 384 Kbps UL
 UMTS 900/2100 and 850/1900/2100 - 3G Data up to 7.2 Mbps DL and 384 Kbps UL
+
+
+;GSM 900/1800
+GSM 900/1800
 
 
 ;GSM 850/900/1800/1900
@@ -485,6 +439,14 @@ Bluetooth v3.0 A2DP
 
 
 # Battery
+;1100 mAh
+1100 mAh
+
+
+;1150 mAh
+1150 mAh
+
+
 ;1200 mAh
 1200 mAh
 
@@ -558,16 +520,37 @@ Up to 280 h (2G)
 3.5" HVGA
 
 
-;3.5” HVGA
-3.5” HVGA
-
-
 ;4.0" WVGA
 4.0" WVGA
 
 
 ;4.0" HVGA
 4.0" HVGA
+
+
+;3.5" HVGA 320 x 480 pixels, 262K color display
+3.5" HVGA 320 x 480 pixels, 262K color display
+
+
+;3.5" HVGA 480 x 320 pixels
+3.5" HVGA 480 x 320 pixels
+
+
+;4.0" WVGA 800 x 480 pixels
+4.0" WVGA 800 x 480 pixels
+
+
+;4.0" WVGA 800 x 400 pixels
+4.0" WVGA 800 x 400 pixels
+
+
+;4.0" 320 x 480 pixels (~144 ppi pixel density)
+4.0" 320 x 480 pixels (~144 ppi pixel density)
+
+
+# Old strings with wrong typography, will be removed soon
+;3.5” HVGA
+3.5” HVGA
 
 
 ;3.5” HVGA 320 x 480 pixels, 262K color display
@@ -590,6 +573,7 @@ Up to 280 h (2G)
 4.0” 320 x 480 pixels (~144 ppi pixel density)
 
 
+# other screen strings
 ;320 x 480 pixels
 320 x 480 pixels
 

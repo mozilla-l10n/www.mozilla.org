@@ -49,6 +49,10 @@ Xile
 Colòmbia
 
 
+;France
+France
+
+
 ;Germany
 Alemanya
 
@@ -59,6 +63,10 @@ Grècia
 
 ;Hungary
 Hongria
+
+
+;India
+India
 
 
 ;Italy
@@ -134,46 +142,6 @@ Disponible
 Enceneu el vostre món
 
 
-# Alt tag for a logo
-;One Touch Fire
-One Touch Fire{ok}
-
-
-;LG Fireweb
-LG Fireweb{ok}
-
-
-;ZTE Open
-ZTE Open{ok}
-
-
-;ZTE Open C
-ZTE Open C{ok}
-
-
-;Huawei Y300II
-Huawei Y300II{ok}
-
-
-;Alcatel One Touch C
-Alcatel One Touch C{ok}
-
-
-# Alt tag for a logo
-;Alcatel One Touch Fire
-Alcatel One Touch Fire{ok}
-
-
-# Alt tag for a logo
-;Huawei
-Huawei{ok}
-
-
-# Alt tag for a logo
-;LG
-LG{ok}
-
-
 ;Coming Soon (mid-2014)
 Ben aviat (a mitjans de 2014)
 
@@ -184,38 +152,6 @@ Operadors
 
 ;Operator
 Operador
-
-
-;Congstar
-Congstar{ok}
-
-
-;Cosmote
-Cosmote{ok}
-
-
-;Movistar
-Movistar{ok}
-
-
-;T-Mobile
-T-Mobile{ok}
-
-
-;Telcel
-Telcel{ok}
-
-
-;Telenor
-Telenor{ok}
-
-
-;TIM
-TIM{ok}
-
-
-;Vivo
-Vivo{ok}
 
 
 # Features panel
@@ -309,6 +245,10 @@ Ràdio
 
 
 # Storage/Memory
+;128 MB
+128 MB
+
+
 ;256 MB
 256 MB{ok}
 
@@ -317,8 +257,16 @@ Ràdio
 512 MB{ok}
 
 
+;2 GB
+2 GB
+
+
 ;4 GB
 4 GB{ok}
+
+
+;128 MB RAM
+128 MB RAM
 
 
 ;256 MB RAM
@@ -340,6 +288,10 @@ MicroSD de fins a 32 GB
 # Weight/Dimensions
 ;115 x 62.3 x 12.2 mm
 115 x 62.3 x 12.2 mm{ok}
+
+
+;115 x 62 x 11.8 mm
+115 x 62 x 11.8 mm
 
 
 ;113.8 x 66.5 x 9 mm
@@ -379,9 +331,21 @@ Qualcomm Dual-Core 1 GHz CPU{ok}
 Processador Qualcomm Snapdragon 200 amb CPU de doble nucli a velocitats de fins a 1.2 GHz per nucli
 
 
+;MSM8210 dual core 1.2 GHz
+MSM8210 dual core 1.2 GHz
+
+
+;Spreadtrum SC6821
+Spreadtrum SC6821
+
+
 # Networks
 ;UMTS 900/2100 and 850/1900/2100 - 3G Data up to 7.2 Mbps DL and 384 Kbps UL
 UMTS 900/2100 i 850/1900/2100 - Dades 3G de fins a 7.2 Mbps de baixada i 384 Kbps de pujada
+
+
+;GSM 900/1800
+GSM 900/1800
 
 
 ;GSM 850/900/1800/1900
@@ -476,6 +440,14 @@ Bluetooth v3.0 A2DPOB
 
 
 # Battery
+;1100 mAh
+1100 mAh
+
+
+;1150 mAh
+1150 mAh
+
+
 ;1200 mAh
 1200 mAhOB
 
@@ -557,8 +529,37 @@ Fins a 280 h (2G)
 4.0" HVGA{ok}
 
 
+;3.5" HVGA 320 x 480 pixels, 262K color display
+3.5" HVGA 320 x 480 pixels, 262K color display
+
+
+;3.5" HVGA 480 x 320 pixels
+3.5" HVGA 480 x 320 pixels
+
+
+;4.0" WVGA 800 x 480 pixels
+4.0" WVGA 800 x 480 pixels
+
+
+;4.0" WVGA 800 x 400 pixels
+4.0" WVGA 800 x 400 pixels
+
+
+;4.0" 320 x 480 pixels (~144 ppi pixel density)
+4.0" 320 x 480 pixels (~144 ppi pixel density)
+
+
+# Old strings with wrong typography, will be removed soon
+;3.5” HVGA
+3.5” HVGA
+
+
 ;3.5” HVGA 320 x 480 pixels, 262K color display
 3.5” HVGA 320 x 480 píxels, pantalla de 262K colors
+
+
+;3.5” HVGA 480 x 320 pixels
+3.5” HVGA 480 x 320 pixels
 
 
 ;4.0” WVGA 800 x 480 pixels
@@ -573,6 +574,7 @@ Fins a 280 h (2G)
 4.0” 320 x 480 pixels (densitat de píxels de ~144 ppi)
 
 
+# other screen strings
 ;320 x 480 pixels
 320 x 480 píxels{ok}
 
@@ -627,4 +629,5 @@ Trieu-ne un de la llista següent per aconseguir un telèfon intel·ligent amb e
 # Case 2: There is only one provider in the country
 ;Click on the provider below to get a Firefox OS smartphone in your country.
 Feu clic al proveïdor de més avall per aconseguir un telèfon intel·ligent amb el Firefox OS al vostre país.
+
 

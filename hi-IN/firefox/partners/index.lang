@@ -1,10 +1,8 @@
-# url: https://www-dev.allizom.org/firefox/partners/
 # <title> tag
-;Firefox at Mobile World Congress 2013
-2013 विश्व मोबाइल सम्मलेन पर फ़ायरफ़ॉक्स
+;Firefox OS, Marketplace, Android — Partners
+Firefox OS, Marketplace, Android — Partners
 
 
-# # CONTACT FORM ##
 # Title
 ;Get involved
 शामिल हों
@@ -15,27 +13,27 @@
 संपर्क करें हमारे पेशा विकास दल से बिसात पे सफल होने के लिये
 
 
-# Field
+# Form field
 ;First Name
 पहला नाम
 
 
-# Field
+# Form field
 ;Last Name
 अन्तिम नाम
 
 
-# Field
+# ex: president, CEO...
 ;Title
 शीर्षक
 
 
-# Field
+# Form field
 ;Company
 कम्पनी
 
 
-# Field
+# Form field
 ;Website
 वेबसाइट
 
@@ -45,18 +43,19 @@
 ईमेल
 
 
-# Field
+# Form field
 ;Phone
 फोन
 
 
+# Form field
 ;Interest:
 रूचि:
 
 
 # Specific interest
 ;Firefox for Android
-एंड्रायड के लिए फ़ायरफ़ॉक्स 
+एंड्रायड के लिए फ़ायरफ़ॉक्स
 
 
 # Specific interest
@@ -66,12 +65,7 @@
 
 # Tooltip for selected options
 ;Interest
- रूचि
-
-
-# Comment field default text
-;Comments or questions?
-टिप्पणी या  प्रश्न ?
+रूचि
 
 
 # Submit button text
@@ -87,7 +81,6 @@
 हम आपके अनुरोध की समीक्षा करेंगे और जल्द ही आपके पास संभावनाओं और अवसरों को लेकर मिलेंगे.
 
 
-# # MAIN CONTENT ##
 # Top menu item
 ;Overview
 सारांश
@@ -99,17 +92,21 @@
 
 
 # Page title
-;Blaze Your Own Path
-अपने रास्ते को प्रज्वल्लित करें
+;Unleash the future
+Unleash the future
 
 
-;We’re enabling operators, phone manufacturers and developers to manage, customize and own relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
-हम ऑपरेटरों, फोन निर्माताओं और डेवलपर्स का प्रबंधन करने, अनुकूलित करने और हमारे मोबाइल उत्पादों के माध्यम से सीधे अपने ग्राहकों के साथ अपने संबंधों को कायम करने में सक्षम रहे हैं: <a %(url1)s>फ़ायरफ़ॉक्स ओएस</a>, <a %(url2)s>फ़ायरफ़ॉक्स का मार्केटप्लेस</a> and <a %(url3)s>एंड्राइड के लिए फ़ायरफ़ॉक्स</a>.
-
-
-# This is exactly the same string as above but the verb 'own' was changed to 'improve'
+# Page description (meta tag)
 ;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
 हम ऑपरेटरों, फोन निर्माताओं और डेवलपर्स का प्रबंधन करने, अनुकूलित करने और हमारे मोबाइल उत्पादों के माध्यम से सीधे अपने ग्राहकों के साथ अपने संबंधों को बढ़ाने में सक्षम रहे हैं: <a %(url1)s>फ़ायरफ़ॉक्स ओएस</a>, <a %(url2)s>फ़ायरफ़ॉक्स का मार्केटप्लेस</a> and <a %(url3)s>एंड्राइड के लिए फ़ायरफ़ॉक्स</a>.
+
+
+;In our first year, we’ve brought openness, accessibility and opportunity to 15 countries with 4 hardware partners, 7 operators and 16 launches.
+In our first year, we’ve brought openness, accessibility and opportunity to 15 countries with 4 hardware partners, 7 operators and 16 launches.
+
+
+;See what’s next for mobile with <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
+See what’s next for mobile with <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
 
 
 ;See more partners
@@ -120,22 +117,14 @@
 ताजा ख़बरें
 
 
+# press release in English/Polish/French/Spanish/Portuguese/Italian, if your locale is not covered, you choose if you keep it in English or not
+;Firefox OS Unleashes the Future of Mobile
+Firefox OS Unleashes the Future of Mobile
+
+
 # This is a button showing the contact form
 ;Partner with us
 हमारे भागीदार बनें
-
-
-# App Planet is a location in the building, don't translate
-;Join us at Stand F20, Hall 8.1, App Planet
-स्टैंड F20, हॉल 8.1, एप्प प्लैनट पर हमसे जुड़ें
-
-
-;Our keynote & other scheduled events
- हमारी कुंजी और दूसरी घटना सूची 
-
-
-;Firefox tweets from MWC in Barcelona
-बार्सिलोना में MWC से फ़ायरफ़ॉक्स ट्विट्स
 
 
 # Title
@@ -143,8 +132,8 @@
 वेब प्लेटफार्म है
 
 
-;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved.</a>
-Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved.</a>
+;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
+Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
 
 
 # Title
@@ -177,7 +166,7 @@ Backed by some of the biggest names in the industry, Firefox OS is an open platf
 
 # List item
 ;A level playing field against other OS and marketplace providers
-अन्य ओएस और मार्केटप्लेस प्रदाताओं के सम्मुख समान अवसर 
+अन्य ओएस और मार्केटप्लेस प्रदाताओं के सम्मुख समान अवसर
 
 
 # List item
@@ -187,7 +176,7 @@ Backed by some of the biggest names in the industry, Firefox OS is an open platf
 
 # List item
 ;Ownership and control over relationships with customers
-ग्राहकों के साथ संबंधों पर स्वामीत्व तथा नियंत्रण 
+ग्राहकों के साथ संबंधों पर स्वामीत्व तथा नियंत्रण
 
 
 # List item
@@ -195,17 +184,9 @@ Backed by some of the biggest names in the industry, Firefox OS is an open platf
 मनपसंद बनाएँ गए फ़ोन जो विविध लक्ष्य बाज़ारों की विशिष्ट आवश्यकताओं पर उतरते है |
 
 
-;White Papers
-श्वेत पत्र
-
-
-;Learn more about the technology behind Firefox OS
-फ़ायरफ़ॉक्स ओएस के पीछे की प्रौद्योगिकी के बारे में अधिक जानें 
-
-
 # This is the same string as the one in the contact form but it doesn't have a final dot
 ;Contact our business development team to get on board
-हमारे साथ आने के लिए हमारे उद्योग विकास टीम से संपर्क करें 
+हमारे साथ आने के लिए हमारे उद्योग विकास टीम से संपर्क करें
 
 
 # Title
@@ -237,11 +218,11 @@ Our proven track record of providing excellent user experiences and serving cont
 
 # Title
 ;Testimonials
- प्रमाण-पत्र
+प्रमाण-पत्र
 
 
 ;See what Box, SoundCloud and others have to say
-देखिये Box, SoundCloud और अन्यों को क्या कहना चाहिए 
+देखिये Box, SoundCloud और अन्यों को क्या कहना चाहिए
 
 
 # Title
@@ -250,16 +231,16 @@ Our proven track record of providing excellent user experiences and serving cont
 
 
 ;Follow @firefoxapps on Twitter
-@firefoxapps को ट्विटर पर फ़ॉलो करें 
+@firefoxapps को ट्विटर पर फ़ॉलो करें
 
 
 ;Read more on the Apps Blog
-एप्स-ब्लॉग (Apps Blog) पर अधिक पढ़े 
+एप्स-ब्लॉग (Apps Blog) पर अधिक पढ़े
 
 
 # Title
 ;The world’s largest developer community
-विश्व का सबसे बड़ा डेवेलपर समुदाय 
+विश्व का सबसे बड़ा डेवेलपर समुदाय
 
 
 # List title
@@ -282,14 +263,9 @@ Micro-targeted content for every use-case to meet customers’ local needs
 Lower barriers to entry for local app developers in both resource and cost
 
 
-# This is a button
-;MWC demonstrations
-एमडब्लूसी(MWC) प्रदर्शन
-
-
 # Title
-;Developed with developers in mind
-डेवेलपर्स को ध्यान में रखकर विकसित
+;Become a Marketplace developer
+Become a Marketplace developer
 
 
 # List item
@@ -309,7 +285,7 @@ Flexible business models and multiple payment monetization options
 
 # List item
 ;The ability to connect with hundreds of millions of Firefox supporters around the world
-विश्वभर के लाखोँ फ़ायरफ़ॉक्स समर्थकों से जुड़ने की क्षमता 
+विश्वभर के लाखोँ फ़ायरफ़ॉक्स समर्थकों से जुड़ने की क्षमता
 
 
 # List item
@@ -323,7 +299,7 @@ Flexible business models and multiple payment monetization options
 
 
 ;Learn how to make HTML5 apps for an open marketplace
-खुलें मार्केटप्लेस के लिए एचटीएमएल५ (HTML5) अनुप्रयोग बनाना सीखें 
+खुलें मार्केटप्लेस के लिए एचटीएमएल५ (HTML5) अनुप्रयोग बनाना सीखें
 
 
 # Title
@@ -331,18 +307,8 @@ Flexible business models and multiple payment monetization options
 अनुप्रयोग है?
 
 
-;Submit it to the Firefox Marketplace today
-उसे आज ही फ़ायरफ़ॉक्स मार्केटप्लेस पर प्रस्तुत करें 
-
-
-# WIMJam is an event in MWC where developpers meet and code
-;Jam with us, learn about new tools, meet other developers and more
-हमारे साथ आयें, नये टूल्स के बारे में जानें, अन्य डेवेलपर्स से मिलें और बहुत कुछ 
-
-
-# Button
-;Register
-पंजीकृत करें
+;Submit it to Firefox Marketplace today
+Submit it to Firefox Marketplace today
 
 
 # Title
@@ -356,7 +322,7 @@ With high-performance, advanced cross-platform features and the latest in securi
 
 # Title
 ;Strengthen customer relationships
-ग्राहक संबंध दृड़ करें 
+ग्राहक संबंध दृड़ करें
 
 
 ;Create your own unique branded sections of Firefox for Android and Firefox Marketplace for a more engaging user experience and to increase the visibility of your brand.
@@ -375,11 +341,6 @@ Take advantage of service opportunities like Firefox Marketplace and WebRTC to c
 # Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
 ;Stand out <br>from the crowd
 भीड़ से <br> अलग हो जाइये
-
-
-# Title.
-;Stand out from the crowd
-भीड़ से अलग हो जाईयें
 
 
 ;Take advantage of our strong brand and service offerings to differentiate your product and drive sales.
@@ -402,7 +363,7 @@ Add your brand and content to increase customer touchpoints, improve retention a
 
 # list item sub-title
 ;Build new service offerings
-नये सेवा प्रस्ताव बनायें 
+नये सेवा प्रस्ताव बनायें
 
 
 ;Integrate services directly into the browser with Firefox Marketplace and WebRTC to free yourself from the constraints of proprietary platforms.
@@ -411,7 +372,7 @@ Integrate services directly into the browser with Firefox Marketplace and WebRTC
 
 # list item sub-title
 ;Direct customer billing
-सीधे ग्राहक बिलिंग 
+सीधे ग्राहक बिलिंग
 
 
 ;Grow your business by combining your own customer payment plans with our open source service offerings.
@@ -423,227 +384,16 @@ Grow your business by combining your own customer payment plans with our open so
 
 
 ;For Developers
-डेवेलपर्स के लिए 
-
-
-# # LOCATION OVERLAY AND MAP ##
-;Location
-स्थान
-
-
-;Firefox at MWC 2013 — Stand F20, Hall 8.1, App Planet
-एमडब्लूसी(MWC) २०१३ में फ़ायरफ़ॉक्स — स्टैंड F२०, हॉल ८.१, एप प्लेनेट 
-
-
-;From the South Entrance:
- दक्षिणी प्रवेशद्वार से 
-
-
-;Walk straight down the main hallway of Hall 8.1. Our stand is located in the middle of the hall on the right.
-हॉल ८.१ के मुख्य हॉलवे से सीधे चलते हुए जायें | हॉल के बीच में दाईं और हमारा स्टैंड स्थित है |
-
-
-;From the North Entrance:
-उत्तरी प्रवेशद्वार से
-
-
-;Go up the escalator to Hall 8.1. Our stand is located in the middle of the hall.
-Go up the escalator to Hall 8.1. Our stand is located in the middle of the hall.
-
-
-;Download map (PDF)
-नक्शा डाउनलोड करें (PDF)
+डेवेलपर्स के लिए
 
 
 ;For Operators & Manufacturers
-ऑपरेटरों और निर्माताओं के लिए 
+ऑपरेटरों और निर्माताओं के लिए
 
 
-;Mobile World Congress, Barcelona, 25 - 28 February 2013
-मोबाइल विश्व कोंग्रेस, बार्सिलोना, २५ - २८ फरवरी २०१३ 
-
-
-;Firefox at MWC 2013 — Schedule of events
-एमडब्लूसी (MWC) २०१३ - घटनाओं का कार्यक्रम
-
-
-;Schedule
-कार्यक्रम
-
-
-;09:00-10:30 CET
-०९:००-१०:०० CET
-
-
-;12:30-13:00 CET
-१२:३०-१३:०० CET
-
-
-;09:00-16:00 CET
-०९:००-१६:०० CET
-
-
-;13:00-15:00 CET
-१३:००-१५:०० CET
-
-
-;16:00-17:30 CET
-१६:००-१७:३० CET
-
-
-;16:00-23:00 CET (awards at 22:30)
-१६:००-२३:०० CET (पुरस्कार २२:३० बजे)
-
-
-;17:45-18:30 CET
-१७:४५-१८:३० CET
-
-
-;09:00 – 11:30:
-०९:०० – ११:३०:
-
-
-;11:30 – 14:00:
-११:३० – १४:००:
-
-
-;14:00 – 16:30:
-१४:०० – १६:३०:
-
-
-;16:30 – 19:00:
-१६:३० – १९:००:
-
-
-;VP of Products, Mozilla
-वीपी ऑफ़ प्रोडक्ट्स, मोज़िला 
-
-
-# Title
-;Gary Kovacs CEO of Mozilla Keynote
-गैरी कोवक्स, मोज़िला के सीईओ की कीनोट
-
-
-;Mozilla CEO Gary Kovacs’ keynote speech will discuss the benefits of an Open Web device in markets around the world and how Firefox OS will help operators, phone manufacturers and developers reach the next billion Web users.
-Mozilla CEO Gary Kovacs’ keynote speech will discuss the benefits of an Open Web device in markets around the world and how Firefox OS will help operators, phone manufacturers and developers reach the next billion Web users.
-
-
-;Hall 4, Conference Village, Auditorium 1
-हॉल ४, कांफ्रेंस विलेज, ऑडीटोरियम १ 
-
-
-# Title, Mobile World Live is to keep in English http://www.mobileworldlive.com
-;Mobile World Live Keynote with Mitchell Baker
-मिचेल बेकर के साथ मोबाईल विश्व किनोट का सीधा प्रसारण
-
-
-;Mitchell Baker, Chairperson of the Mozilla Foundation, will discuss the importance of bringing Open Web innovation to mobile devices.
-Mitchell Baker, Chairperson of the Mozilla Foundation, will discuss the importance of bringing Open Web innovation to mobile devices.
-
-
-# Title
-;Mobile App Privacy Debate
-मोबाइल अनुप्रयोग गोपनीयता बहस 
-
-
-;Harvey Anderson, Vice President of Business Affairs and General Counsel at Mozilla, will take part in the debate “Mobile app privacy: What’s your view?” This interactive session is for anyone interested in helping consumers easily make privacy choices on a mobile device.
-Harvey Anderson, Vice President of Business Affairs and General Counsel at Mozilla, will take part in the debate “Mobile app privacy: What’s your view?” This interactive session is for anyone interested in helping consumers easily make privacy choices on a mobile device.
-
-
-# Title
-;Apps Panel: Evolving Ecosystems
-एप्स पैनल: एवोल्विंग एकोसिस्टम्स
-
-
-;Jay Sullivan, Vice President of Products, will take part in the Apps Panel: Evolving Ecosystems. The panel will discuss the current state of the apps industry and consider how the roles and responsibilities within it are adapting as the apps market evolves.
-Jay Sullivan, Vice President of Products, will take part in the Apps Panel: Evolving Ecosystems. The panel will discuss the current state of the apps industry and consider how the roles and responsibilities within it are adapting as the apps market evolves.
-
-
-;Hall 4, Conference Village, Auditorium 2
-हॉल ४, कांफ्रेंस विलेज, ऑडीटोरियम २ 
-
-
-;GSMA Pavilion, Congress Square (CS80)
-GSMA पवेलियन, कांग्रेस स्क्वायर (CS80)
-
-
-# Title: keep Mobile World Live TV in English : http://www.mobileworldcongress.com/mobile-world-live/
-;Mobile World Live TV Panel
-मोबाइल विश्व का सीधा प्रसारण टीवी पैनल 
-
-
-;Johnathan Nightingale, VP of Firefox Engineering, will participate in a discussion about future opportunities in the apps market.
-Johnathan Nightingale, VP of Firefox Engineering, will participate in a discussion about future opportunities in the apps market.
-
-
-;Location: the live panel will be streamed on all major screens throughout the show area
-Location: the live panel will be streamed on all major screens throughout the show area
-
-
-# Title
-;Mobile Premier Awards & AppCircus After Party
-मोबाइल प्रीमियर पुरस्कार और एपसर्कस आफ्टर पार्टी 
-
-
-;Firefox Marketplace VP Rick Fant will select and present the winning app.
-फ़ायरफ़ॉक्स मार्केटप्लेस वीपी रिक फेंट विजेता अनुप्रयोग चुनेंगे और प्रस्तुत करेंगे |
-
-
-# Title
-;WIP Jam - Day for Developers
-डब्लूआईपी जैम - डेवेलपर्स का दिवस 
-
-
-;The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and Mozilla Developer Evangelist Robert Nyman will host a workshop and Q&A session on “Why Open Web Apps & Firefox OS are good for mobile developers.” Mozilla developer evangelist Chris Heilmann will present an UnPanel on "HTML5 Beyond the Hype" and lead several HTML5 discussion groups. WIP Jam will also see DemoCamps of HTML5 apps created during Mozilla Developer Days. Full schedule available here: %(link)s
-The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and Mozilla Developer Evangelist Robert Nyman will host a workshop and Q&A session on “Why Open Web Apps & Firefox OS are good for mobile developers.” Mozilla developer evangelist Chris Heilmann will present an UnPanel on "HTML5 Beyond the Hype" and lead several HTML5 discussion groups. WIP Jam will also see DemoCamps of HTML5 apps created during Mozilla Developer Days. Full schedule available here: %(link)s
-
-
-;Location TBD
-लोकेशन टीबीडी (TBD)
-
-
-;Monday
-सोमवार
-
-
-;Tuesday
-मंगलवार
-
-
-;Wednesday
-बुधवार
-
-
-;Thursday
-गरुवार
-
-
-;February 25
-२५ फरवरी
-
-
-;February 26
-२६ फरवरी
-
-
-;February 27
-२७ फरवरी
-
-
-;February 28
-२८ फरवरी
-
-
-;CEO, Mozilla
-सीईओ, मोज़िला 
-
-
+# form, asking for mobile phone number
 ;Mobile
 मोबाइल
-
-
-;Back to top
-पीछे शीर्ष पर 
 
 
 ;Firefox Marketplace — Developer testimonials
@@ -651,9 +401,123 @@ The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and Mozilla
 
 
 ;Get it on Google Play
-इसे गूगल प्ले पर पायें 
+इसे गूगल प्ले पर पायें
+
+
+# altenate text on an image
+;Mobile World Congress 2014
+Mobile World Congress 2014
 
 
 # Press title in Recent News
-;Mozilla Announces Global Expansion for Firefox OS
-फ़ायरफ़ॉक्स ओएस के लिए मोज़िला वैश्विक विस्तार घोषित करता है 
+;Watch our wrap-up video from Mobile World Congress 2013
+Watch our wrap-up video from Mobile World Congress 2013
+
+
+# Press title in Recent News
+;Mozilla and partners prepare to launch first Firefox OS smartphones
+Mozilla and partners prepare to launch first Firefox OS smartphones
+
+
+# Line break below is presentational only
+;View available Firefox OS devices
+View available Firefox OS devices
+
+
+# Line break below is presentational only
+;Watch the daily <br>MWC video recap
+Watch the daily <br>MWC video recap
+
+
+# Line break below is presentational only, Fox Den should remain in English, it is a location at the event on the Mozilla stand
+;Fox Den &amp; other <br>MWC events
+Fox Den &amp; other <br>MWC events
+
+
+# Title for the schedule overlay
+;Firefox at MWC 2014 &ndash; Schedule of Events
+Firefox at MWC 2014 &ndash; Schedule of Events
+
+
+# Line break below is presentational only
+;Firefox tweets from <br>MWC in Barcelona
+Firefox tweets from <br>MWC in Barcelona
+
+
+;View the version notes
+View the version notes
+
+
+;Read about features, changes and more
+Read about features, changes and more
+
+
+# Form field
+;Description
+Description
+
+
+# Form error message
+;Please enter your first name.
+Please enter your first name.
+
+
+# Form error message
+;Please enter your last name.
+Please enter your last name.
+
+
+# Form error message
+;Please enter your company name.
+Please enter your company name.
+
+
+# Form error message
+;Please supply a valid URL.
+Please supply a valid URL.
+
+
+# Form error message
+;Please enter a valid email address
+Please enter a valid email address
+
+
+# Form, Physical address field (street, city...)
+;Address
+Address
+
+
+# Form field
+;City
+City
+
+
+# Form field
+;State/Province
+State/Province
+
+
+# Form field
+;Country
+Country
+
+
+# Form field, postal code
+;Zip
+Zip
+
+
+# This will be a link visible on the page on February 23 to view demos on the Mozilla stand
+;Register for a session
+Register for a session
+
+
+# map header
+;Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30
+Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30
+
+
+;Download PDF
+Download PDF
+
+

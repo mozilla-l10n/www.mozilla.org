@@ -13,6 +13,7 @@ Telefoni i adaptueshem
 ;The Features
 Karakteristikat
 
+
 ;The Mission
 Misioni
 
@@ -46,6 +47,11 @@ Muzikë
 Harta
 
 
+# Icon bar item. This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
+;Dual SIM
+Dual SIM
+
+
 # Icon bar item
 ;Messages
 Mesazhet
@@ -57,7 +63,7 @@ Marketplace
 
 
 ;Make every <br>moment count
-Bëni çdo <br>moment të vlejë 
+Bëni çdo <br>moment të vlejë
 
 
 ;Your needs change from one moment to the next. That’s why Firefox OS does the same. It gives you the power to live every moment to its fullest and participate in a better world.
@@ -119,6 +125,7 @@ Firefox OS përmban funksionalitet që ju bëjnë te dëshironi një smartphone.
 ;Made for the moments of your life
 I bërë për momentet e jetës tuaj
 
+
 # Title
 ;Moments with friends
 Momente me shokët
@@ -136,6 +143,7 @@ Momente kreative
 ;Take photos on the go then make them amazing using built-in style filters.
 Bëj foto ndërkohë që je në lëvizje dhe bëji të veçantë duke përdorur filtra të integruara.
 
+
 # Title
 ;Moments that entertain
 Momente zbavitëse
@@ -149,8 +157,19 @@ Dëgjoni këngët tuaja të preferuara, artistët dhe stacionet e radios, të gj
 ;Moments in between
 Momente ndërmjet
 
+
 ;Get to where you’re going with directions, traffic and local transit information.
 Shkoni atje ku je nisur me informacion drejtimesh, trafiku dhe tranziti lokal .
+
+
+# Title: This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
+;Moments of choice
+Moments of choice
+
+
+# Title: This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
+;Take full control of calls and messages with dual SIM and dual standby functionality.
+Take full control of calls and messages with dual SIM and dual standby functionality.
 
 
 # Title
@@ -186,8 +205,8 @@ Nga komuniteti ynë të i juaji
 
 
 ;Most smartphones are made by a small number of people, all in one place, probably pretty far from where you live. Firefox OS phones are different. They’re made by a huge global community and are the only smartphones that understand and deliver what you want and need.
-Shumica e celularëve janë projektuar nga një numër i vogël njerëzish, nga i njëjti vend, me siguri shumë larg nga vendi ku jetoni. Telefonat Firefox OS janë ndryshe. Ata janë prodhuar 
-nga një komunitet i madh global dhe janë të vetmit celularë që kuptojnë dhe dërgojnë çdo lloj gjëje që dëshironi dhe keni nevojë.
+Shumica e celularëve janë projektuar nga një numër i vogël njerëzish, nga i njëjti vend, me siguri shumë larg nga vendi ku jetoni. Telefonat Firefox OS janë ndryshe. Ata janë prodhuar
+
 
 # Title
 ;The best of the Web
@@ -196,7 +215,6 @@ Më e mira e webit
 
 ;Firefox changed browsing forever by putting users first and offering a new level of choice and innovation online. Now we’re doing it all over again with Firefox OS, while bringing the same superior browsing experience to your smartphone. So you can take control of your life online and get the best the Web has to offer no matter where you go.
 Firefox ndryshoi përgjithmonë lundrimin duke vënë përdoruesit në rradhë të parë dhe duke ofruar një nivel të ri zgjedhjeje dhe inovacioni online. Tani po e bëjmë përsëri me Firefox OS, duke sjellë të njëjtën eksperiencë lundrimi në celularët tuaj. Kështu që ju mund të kontrolloni jetën tuaj online dhe të merrni më të mirën që web-i ka për të ofruar, kudo që të ndodheni.
-
 
 
 # Title
@@ -221,13 +239,13 @@ Për përdorues:
 Në rast se keni nevojë për pak ndihmë <a href="%(link)s">Kërkojeni nga miqtë tuaj tek Mozilla Support</a>
 
 
-;All your questions will be answered <a href="%(link)s">Read our extra helpful FAQ</a> 
+;All your questions will be answered <a href="%(link)s">Read our extra helpful FAQ</a>
 Të gjithë pyetjet tuaja do të kenë përgjigje<a href="%(link)s">Lexo pyetje të bëra më shpesh</a>
 
 
 # image alt text
 ;Email app
-Email 
+Email
 
 
 # image alt text
@@ -295,6 +313,7 @@ Faleminderit për regjistrimin!
 # Page <title> tag, also used for search engines
 ;Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More
 Firefox OS — Telefon i adaptueshëm —Karakteristika mahnitëse të Celularëe, Aplikacione dhe më shumë.
+
 
 ;View the version notes <a href="%(link)s">Read about features, changes and more</a>
 Shiko shënimet e versionit <a href="%(link)s">Lexo rreth karakteristikave, ndryshimeve dhe më shumë</a>

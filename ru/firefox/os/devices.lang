@@ -343,6 +343,10 @@ Qualcomm Snapdragon 200, двухъядерный процессор с част
 MSM8210, двухъядерный с частотой 1,2 ГГц
 
 
+;Dual core 1.2 GHz
+Dual core 1.2 GHz
+
+
 ;Spreadtrum SC6821
 Spreadtrum SC6821 {ok}
 
@@ -541,6 +545,10 @@ Li-Ion 1540 мАч
 4,0" HVGA
 
 
+;4.5" qHD
+4.5" qHD
+
+
 ;3.5" HVGA 320 x 480 pixels, 262K color display
 3,5" HVGA 320 x 480 пикселей, дисплей с 262 тыс. цветов
 
@@ -559,31 +567,6 @@ Li-Ion 1540 мАч
 
 ;4.0" 320 x 480 pixels (~144 ppi pixel density)
 4,0" 320 x 480 пикселей (плотность пикселей около 144 ppi)
-
-
-# Old strings with wrong typography, will be removed soon
-;3.5” HVGA
-3,5” HVGA {ok}
-
-
-;3.5” HVGA 320 x 480 pixels, 262K color display
-3,5” HVGA 320 x 480 пикселей, дисплей с 262 тыс. цветов
-
-
-;3.5” HVGA 480 x 320 pixels
-3,5” HVGA 480 x 320 пикселей
-
-
-;4.0” WVGA 800 x 480 pixels
-4,0” WVGA 800 x 480 пикселей
-
-
-;4.0” WVGA 800 x 400 pixels
-4,0” WVGA 800 x 400 пикселей
-
-
-;4.0” 320 x 480 pixels (~144 ppi pixel density)
-4,0” 320 x 480 пикселей (плотность пикселей около 144 ppi)
 
 
 # other screen strings

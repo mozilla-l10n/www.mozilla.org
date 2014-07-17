@@ -27,6 +27,14 @@ Find and file bugs and generally make sure things work as they should.
 Start testing
 
 
+# Link used for the "Start testing" button.
+# You can instead use your own link if your community have a similar onboarding page about how to test Mozilla products.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://
+;https://oneanddone.mozilla.org
+https://oneanddone.mozilla.org
+
+
 ;Code
 Code
 
@@ -39,6 +47,14 @@ File bugs and work on the building blocks of the Firefox browser.
 Start coding
 
 
+# Link used for the "Start coding" button.
+# You can instead use your own link if your community have a similar onboarding page about how to contribute to Firefox code.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://
+;https://developer.mozilla.org/docs/Introduction
+https://developer.mozilla.org/docs/Introduction
+
+
 ;Localize
 Localize
 
@@ -49,6 +65,14 @@ Make Firefox available (and better) in more languages around the world.
 
 ;Start localizing
 Start localizing
+
+
+# Link used for the "Start localizing" button.
+# You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://
+;https://wiki.mozilla.org/L10n:Contribute
+https://wiki.mozilla.org/L10n:Contribute
 
 
 ;Show everyone that you’re helping to build the Web the world needs.

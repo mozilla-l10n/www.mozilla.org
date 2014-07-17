@@ -27,6 +27,14 @@ Découvrez et signalez les dysfonctionnements et faites en sorte que tout foncti
 Commencez à tester
 
 
+# Link used for the "Start testing" button.
+# You can instead use your own link if your community have a similar onboarding page about how to test Mozilla products.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://
+;https://oneanddone.mozilla.org
+https://oneanddone.mozilla.org {ok}
+
+
 ;Code
 Coder
 
@@ -39,6 +47,14 @@ Signalez les dysfonctionnements et travaillez directement sur les fondations du 
 Commencez à coder
 
 
+# Link used for the "Start coding" button.
+# You can instead use your own link if your community have a similar onboarding page about how to contribute to Firefox code.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://
+;https://developer.mozilla.org/docs/Introduction
+https://developer.mozilla.org/docs/Introduction {ok}
+
+
 ;Localize
 Traduire
 
@@ -49,6 +65,14 @@ Rendez Firefox disponible dans davantage de langues ou contribuez aux traduction
 
 ;Start localizing
 Commencez à traduire
+
+
+# Link used for the "Start localizing" button.
+# You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://
+;https://wiki.mozilla.org/L10n:Contribute
+http://wiki.mozfr.org/Cat%C3%A9gorie:Traduction
 
 
 ;Show everyone that you’re helping to build the Web the world needs.

@@ -1,6 +1,8 @@
 ## active ##
 ## contribute_faces ##
+## contribute_mayupdates ##
 ## webmaker_update ##
+## contribute_fellowship ##
 # Used for HTML title attribute
 ;Get Involved: Volunteer Opportunities at Mozilla
 ¡Participa! Oportunidades para colaborar como voluntario en Mozilla
@@ -176,11 +178,11 @@ Control de calidad
 
 
 ;Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
-Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+Garantizar la calidad es una de las formas más fáciles de comenzar con Mozilla y una forma genial de familiarizarte con nuestro código y nuestras herramientas.
 
 
 ;<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
-<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+<a href="%(oneanddone_url)s">Selecciona una tarea desde One and Done</a> para iniciar, trabaja sobre <a href="%(desktopfx_url)s">Firefox de escritorio</a>, <a href="%(websites_url)s">prueba sitios Web de Mozilla</a>, <a href="%(testday_url)s"> únete para el Test Day</a>, o <a href="%(qateams_url)s">aprende más acerca de oportunidades para hacer pruebas</a>.
 
 
 # Coding
@@ -211,7 +213,7 @@ Nuestros sitios web están abiertos para que los desarrolladores hackeen. <a hre
 
 # Firefox Marketplace
 ;<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
-<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+<a href="%(marketplace_url)s">Firefox Marketplace</a> provee contenido – juegos, música, aplicaciones de redes sociales y más – construido con los estándares de HTML5 y los valores del código abierto. Con<a href="%(mktcontrib_url)s">oportunidades de contribución</a> para todos los niveles de habilidad, ¡es fácil hacer un impacto!
 
 
 # Add-ons
@@ -236,11 +238,11 @@ Mozilla Developer Network es el centro de información sobre tecnologías Mozill
 
 # Fellowships
 ;Fellowships
-Fellowships
+Becas
 
 
 ;Interested in shaping the future of the open Web? Knight-Mozilla’s <a href="%(fellowship)s">OpenNews Fellowship program</a> matches emerging digital leaders with journalism opportunities to build the open Web for everyone.
-Interested in shaping the future of the open Web? Knight-Mozilla’s <a href="%(fellowship)s">OpenNews Fellowship program</a> matches emerging digital leaders with journalism opportunities to build the open Web for everyone.
+¿Interesado en la configuración del futuro de la Web abierta, caballeros de Mozilla? <a href="%(fellowship)s">El programa de becas OpenNews</a> combina líderes digitales con oportunidades laborales para construir la Web abierta para todos.
 
 
 # Old string, will be removed when all locales have the new text
@@ -253,7 +255,7 @@ mapa
 
 
 ;Find Mozillians near you
-Busca a los Mozillians cerca de ti.
+Encuentra Mozilleros cerca de tí
 
 
 ;US and Canada
@@ -346,7 +348,7 @@ Este video requiere un navegador compatible con un formato abierto de video o <a
 
 # Old string, will be removed when all locales have the new text
 ;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
-Garantizar la calidad es una de las formas más fáciles de comenzar con Mozilla y una forma genial de familiarizarte con nuestro código y nuestras herramientas. Ayúdanos a <a href="%(qa_bugs_url)s">detectar bugs</a> en Firefox, <a href="%(qa_web_url)s">probar los sitios web de Mozilla</a> u obtén más información sobre <a href="%(qa_url)s">otras oportunidades de testeo</a>.
+Garantizar la calidad es una de las formas más fáciles de comenzar con Mozilla y una forma genial de familiarizarte con nuestro código y nuestras herramientas. Ayúdanos a <a href="%(qa_bugs_url)s">detectar errores</a> en Firefox, <a href="%(qa_web_url)s">probar los sitios web de Mozilla</a> y obtén más información sobre <a href="%(qa_url)s">otras oportunidades de pruebas</a>.
 
 
 # Old string, will be removed when all locales have the new text

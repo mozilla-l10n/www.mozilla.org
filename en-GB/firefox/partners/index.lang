@@ -26,7 +26,7 @@ First Name
 Last Name
 
 
-# Field
+# Field, e.g. president, CEO...
 ;Title
 Title
 
@@ -459,19 +459,9 @@ Read about features, changes and more
 Description
 
 
-# Form field
-;First Name
-First Name
-
-
 # Form error message
 ;Please enter your first name.
 Please enter your first name.
-
-
-# Form field
-;Last Name
-Last Name
 
 
 # Form error message
@@ -479,24 +469,9 @@ Last Name
 Please enter your last name.
 
 
-# ex: president, CEO...
-;Title
-Title
-
-
-# Form field
-;Company
-Company
-
-
 # Form error message
 ;Please enter your company name.
 Please enter your company name.
-
-
-# Form field
-;Website
-Website
 
 
 # Form error message
@@ -507,16 +482,6 @@ Please supply a valid URL.
 # Form error message
 ;Please enter a valid email address
 Please enter a valid email address
-
-
-# Form field
-;Phone
-Phone
-
-
-# form, asking for mobile phone number
-;Mobile
-Mobile
 
 
 # Form, Physical address field (street, city...)

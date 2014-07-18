@@ -55,6 +55,7 @@
 ;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
 Είμαστε ενήμεροι για κάποιο πρόβλημα στην ανίχνευση των τρεχουσών εκδόσεων του πρόσθετου της Java και στην εσφαλμένη δήλωσή τους ως ευάλωτων σε θέματα ασφάλειας.
 
+
 ;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 Εργαζόμαστε για να διορθώσουμε αυτό το σφάλμα. Στο μεταξύ, μπορείτε να <a href="%(download)s">επισκεφθείτε τον ιστότοπο της Java</a> για λήψη της τελευταίας έκδοσης.
 
@@ -164,18 +165,6 @@
 Παραπάνω, ανιχνεύσαμε αυτόματα τις πρόσθετες λειτουργίες σας, για να δείτε τις πρόσθετες λειτουργίες που έχετε εγκαταστήσει στον Firefox ακολουθήστε αυτά τα βήματα:
 
 
-;Open the Tools menu.
-Κάντε κλικ στο κουμπί Firefox.
-
-
-;Choose Add-ons.
-Επιλέξτε τα «Πρόσθετα».
-
-
-;Click the plugins tab.
-Επιλέξτε από τη λίστα τις «Πρόσθετες λειτουργίες».
-
-
 ;Want to spread the word?
 Θέλετε να το διαδώσετε;
 
@@ -190,6 +179,18 @@
 
 ;In Firefox:
 Στον Firefox:
+
+
+;Open the Tools menu.
+Κάντε κλικ στο κουμπί Firefox.
+
+
+;Choose Add-ons.
+Επιλέξτε τα «Πρόσθετα».
+
+
+;Click the plugins tab.
+Επιλέξτε από τη λίστα τις «Πρόσθετες λειτουργίες».
 
 
 ;Click on a plugin in the list.

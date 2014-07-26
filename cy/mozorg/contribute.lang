@@ -3,6 +3,8 @@
 ## contribute_mayupdates ##
 ## webmaker_update ##
 ## contribute_fellowship ##
+## contribute_fellowship ##
+## hiveglobal ##
 # Used for HTML title attribute
 ;Get Involved: Volunteer Opportunities at Mozilla
 Ymuno: Cyfleoedd Gwirfoddoli gyda Mozilla
@@ -13,7 +15,7 @@ Mae llwyddiant ein hymdrechion yn dibynnu ar gyfraniadau gan bobl fel chi.
 
 
 ;Proudly non-profit, Mozilla makes products like Firefox with a mission to keep the power of the Web in the hands of users everywhere.
-Yn falch o fod yn ddi-elw, mae Mozilla yn gwneud cynnyrch fel Firefox gyda chenhadaeth i gadw grym y We yn nwylo defnyddwyr ym mhob man.
+Yn falch o fod yn ddi-elw, mae Mozilla yn creu cynnyrch fel Firefox gyda chenhadaeth i gadw grym y We yn nwylo defnyddwyr ym mhob man.
 
 
 # Used as caption of the video in the new design
@@ -96,7 +98,7 @@ Mae gen i awgrym ar gyfer Firefox
 
 
 ;I need help with a Firefox issue
-Rwyf Angen cymorth gyda mater yn ymwneud â Firefox
+Rwyf angen cymorth gyda mater yn ymwneud â Firefox
 
 
 ;YOUR EMAIL HERE
@@ -132,7 +134,7 @@ Dewiswch faes diddordeb.
 
 
 ;Please tell us more about your interests.
-Dwedwch fwy am eich diddordebau.
+Dwedwch ragor am eich diddordebau.
 
 
 ;Your CAPTCHA response did not match. Please try again.
@@ -247,17 +249,17 @@ Diddordeb mewn siapio dyfodol y We? Mae rhaglen <a href="%(fellowship)s">Cymrodo
 
 # For reference see http://hivelearningnetworks.org
 ;Hive Networks
-Hive Networks
+Hive Networks {ok}
 
 
 # For reference see http://hivelearningnetworks.org
 ;<a href="%(hivenetworks)s">Hive Learning Networks</a> are a growing constellation of communities around the globe that are championing digital skills and web literacy through connected learning. <a href="%(hivenetworks)s">Learn more</a> about how to start a Hive in your community.
-<a href="%(hivenetworks)s">Hive Learning Networks</a> are a growing constellation of communities around the globe that are championing digital skills and web literacy through connected learning. <a href="%(hivenetworks)s">Learn more</a> about how to start a Hive in your community.
+Mae'r <a href="%(hivenetworks)s">Hive Learning Networks</a> yn gasgliad o gymunedau o amgylch y byd sydd ar gynnydd ac yn annog sgiliau digidol a llythrennedd gwe drwy ddysgu cysylltiedig. <a href="%(hivenetworks)s">Dysgwch rhagor</a> am sut i gychwyn Hive yn eich cymuned chi.
 
 
 # Old string, will be removed when all locales have the new text
 ;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
-Helpwch greu cenhedlaeth o gwewneuthwyr trwy addysgu pobl eraill sut mae'r we yn gweithio. <a href="%(moz_webmaker)s ">Archwiliwch beth mae prosiect Webmaker Mozilla yn ei wneud</a> neu gychwyn dysgu eraill trwy <a href="%(webmaker)s">ddarparu ddigwyddiad yn eich cymuned chi heddiw</a>.
+Helpwch greu cenhedlaeth o we-wneuthwyr trwy addysgu pobl eraill sut mae'r we'n gweithio. <a href="%(moz_webmaker)s ">Archwiliwch beth mae prosiect Webmaker Mozilla yn ei wneud</a> neu gychwyn dysgu eraill trwy <a href="%(webmaker)s">ddarparu ddigwyddiad yn eich cymuned chi heddiw</a>.
 
 
 ;map

@@ -24,15 +24,15 @@ Oldingi maqola
 
 # The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
 ;We are %(mozilla_wordmark)s
-Biz %(mozilla_wordmark)s
+Biz - %(mozilla_wordmark)s
 
 
 ;Doing good is part of our code
-Kodimizga yaxshi tomonlama hissa qo‘shing
+Kodimizning negizida ezgulik yotadi
 
 
 ;Get involved
-Hissangizni qo‘shing
+Jamiyatga qo‘shiling
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
@@ -45,11 +45,11 @@ Bizning prinsiplarimiz harakatlarimizni belgilaydi
 
 
 ;We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
-Biz internetni yashab qolishi va hamma uchun mavjud bo‘lishi uchun ishlovchi texnologlar, o‘ylovchilar va tuzuvchilarning global jamiyati hisoblanamiz.
+Biz internetni yashab qolishi va hamma uchun mavjud bo‘lishi uchun ishlovchi texnologlar, o‘ylovchilar va tuzuvchilarning global hamjamiyati hisoblanamiz.
 
 
 ;Read more about our mission
-Bizning vazifamiz haqida ko‘proq o‘qing
+Bizning maqsadimiz haqida ko‘proq o‘qing
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
@@ -76,11 +76,11 @@ Hamjamiyatimizga <i>qo‘shiling</i>
 
 # This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 ;Join our<br> developer community
-Bizning dasturchilarimiz<br> jamiyatiga qo‘shiling
+Bizning dasturchilarimiz<br> hamjamiyatiga qo‘shiling
 
 
 ;Get docs and demos, tools and tutorials and everything related to the Open Web.
-Hujjatlar va demolar, asboblar va qo‘llarnmalar hamda barcha ochiq internetga aloqador narsalarni oling.
+Hujjatlar va namoyishlar, asboblar va qo‘llanmalar hamda barcha ochiq internetga aloqador narsalarni oling.
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
@@ -121,7 +121,7 @@ Barcha yangiliklarni ko‘rish
 
 # This string is displayed only for locales where we launch Firefox OS soon
 ;Help launch Firefox OS in your country.
-"Firefox OS"ni davlatingizda ishga tushirishda yordam bering.
+"Firefox OS"ni mamlakatingizda ishga tushirishda yordam bering.
 
 
 # This string is displayed only for locales where we launch Firefox OS soon
@@ -134,7 +134,7 @@ Mozilla loyihasida ishtirok etishingiz uchun dasturlashni bilishingiz shart emas
 
 
 ;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a rel="external" href="%(link_l10n)s">Help translate them into yours</a>.
-Global jamiyatimizga rahmat, Mozilla mahsulotlari va veb sahifasi 70 dan ortiq tilda mavjud. <a rel="external" href="%(link_l10n)s">Ularga o‘z tilingizga tarjima qilishda yordam bering</a>.
+Global hamjamiyatimiz mehnati tufayli Mozilla mahsulotlari va veb sahifasi 70 dan ortiq tilda mavjud. <a rel="external" href="%(link_l10n)s">Ularga ona tilingizga tarjima qilishda yordam bering</a>.
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
@@ -144,7 +144,7 @@ Kuzatuvchilar ortidan <i>kuzating</i>
 
 # Lightbeam promo
 ;See who’s watching you online
-Kim sizni kuzatayotganini ko‘ring
+Kim sizni internetda kuzatayotganini bilib oling
 
 
 # Lightbeam promo
@@ -176,7 +176,7 @@ Vebmeyker bo‘ling
 
 # New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>See</i> the new MDN
-Yangi MDN’ni <i>ko‘ring</i>
+Yangi MDN <i> (Mozilla dasturchilar tarmog‘i)ni ko‘ring</i>
 
 
 # New MDN promo: this <br> is strictly for visual formatting; translations can omit or reposition as needed.
@@ -186,7 +186,7 @@ Dasturchilar uchun <br>yangiliklarni ko‘ring
 
 # New MDN promo:
 ;Our community hub for docs, demos and other resources just got a brand new look.
-Bizning hujjatlar, demonstratsiya markazalarimiz jamiyatlari va boshqa manbalar yangicha ko‘rinish oldi.
+Hujjatlar, namoyish fayllari va boshqa resurslar uchun hamjamiyat markazimiz o’zgacha ko’rinish oldi.
 
 
 # New MDN promo:
@@ -211,7 +211,7 @@ Siz uchun eng asosiysi kelajak internetini shakllantirishni ayting.
 
 # Australis launch promo tile on April 29, call to action link to Glow 2014 site
 ;Share your vision
-Tasavvurlaringizni baham ko‘ring
+Tasavvurlaringizni bo‘lishing
 
 
 # This is the label seen when the panel is collapsed so it may need to be altered to fit a limited space. The active phrase should be wrapped in <i></i> tags.
@@ -225,7 +225,7 @@ Eng zo‘r "Firefox"ni sinab ko‘ring
 
 
 ;Learn more about the free desktop browser that’s committed to you, your privacy and an open Web.
-Ochiq tarmoq, xavfsizligingiz va siz uchun mo‘ljallangan stol kompyuteri uchun tekin brauzer haqida ko‘proq ma’lumot oling.
+Siz, sizning xavfsizligingiz va ochiq tarmoq uchun mo‘ljallangan kompyuter uchun bepul brauzer haqida ko‘proq ma’lumot oling.
 
 
 ;See what’s new
@@ -245,7 +245,7 @@ Bizning xalqaro <br>"Maker Party"ga qo‘shiling
 
 
 ;From July to September, help us teach, learn and make the Web at hands-on community events.
-Iyuldan Sentabrgacha o‘qitish, o‘rganish va internetni ijtimoiy tadbirlarda sinab ko‘rishda bizga yordam bering.
+Iyuldan sentabrgacha o‘qitish, o‘rganish va internetni ijtimoiy tadbirlarda sinab ko‘rishda bizga yordam bering.
 
 
 ;Learn about events near you

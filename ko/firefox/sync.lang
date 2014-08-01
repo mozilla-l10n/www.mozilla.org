@@ -16,7 +16,7 @@ Sync를 사용하세요. 빠르고 안전하고 쉽습니다:
 
 # (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Firefox 우측 상단의 <a class="menu" href="%(url)s#w_a-handy-new-menu">메뉴</a>를 열고 “<strong>Sync에 로그인</strong>”을 선택하세요.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -26,7 +26,7 @@ Firefox 우측 상단의 <a href="%(url)s#w_a-handy-new-menu">메뉴</a>를 열�
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+탭에서 “<strong>시작하기</strong>”를 누르세요.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -36,7 +36,7 @@ Click “<strong>Get started</strong>” in the tab that opens.
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+이메일 주소와 비밀번호를 입력하면 “<strong>Firefox Account가 생성</strong>” 됩니다.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -46,7 +46,7 @@ Enter an email address and password to “<strong>Create a Firefox Account.</str
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+“<strong>다음</strong>”을 누르면 메일로 확인 코드가 발송됩니다.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
@@ -76,7 +76,7 @@ Click “<strong>Next</strong>” to get a verification sent to your email.
 
 # (NEW STRING)
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">안드로이드용 Firefox를 사용하면</a> 데스크탑과 모바일 기기를 동기화 할 수 있습니다.
 
 
 # (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.

@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: url is https://www-dev.allizom.org/firefox/nightly/firstrun/
 
 
@@ -19,7 +20,6 @@ Firefox와 사용자를 더 낫게 하기 위한 참여 프로그램 선택하�
 
 ;Find and file bugs and generally make sure things work as they should.
 프로그램을 테스트하고 문제점을 발견하는데 도움을 줍니다.
-Find and file bugs and generally make sure things work as they should.
 
 
 ;Start testing
@@ -31,7 +31,7 @@ Find and file bugs and generally make sure things work as they should.
 # If you don't have a community page, just add " {ok}" after the en-US link
 # Links must start with http:// or https://
 ;https://oneanddone.mozilla.org
-https://oneanddone.mozilla.org
+https://oneanddone.mozilla.org {ok}
 
 
 ;Code
@@ -51,7 +51,7 @@ Firefox 브라우저를 직접 만드는 프로그래밍에 동참하세요
 # If you don't have a community page, just add " {ok}" after the en-US link
 # Links must start with http:// or https://
 ;https://developer.mozilla.org/docs/Introduction
-https://developer.mozilla.org/docs/Introduction
+https://developer.mozilla.org/docs/Introduction {ok}
 
 
 ;Localize
@@ -71,11 +71,12 @@ Firefox를 여러 국가 언어로 제공하는 일에 참여하세요.
 # If you don't have a community page, just add " {ok}" after the en-US link
 # Links must start with http:// or https://
 ;https://wiki.mozilla.org/L10n:Contribute
-https://wiki.mozilla.org/L10n:Contribute
+https://wiki.mozilla.org/L10n:Contribute {ok}
 
 
 ;Show everyone that you’re helping to build the Web the world needs.
 여러분이 웹과 세상에 변화를 돕고 있다는 것을 알려보세요.
+
 
 ;Get your Nightly User badge
 나이틀리 사용자 뱃지 받기

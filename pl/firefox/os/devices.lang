@@ -412,6 +412,10 @@ GSM 900/1800 MHz
 GSM 850/900/1800/1900 {ok}
 
 
+;GSM (850/900/1800/1900)
+GSM (850/900/1800/1900)
+
+
 ;UMTS/HSDPA/HSPA/HSPA+: MSM7225A: HSPA (7.2 Mbps DL / 5.76 Mbps UL)
 UMTS/HSDPA/HSPA/HSPA+: MSM7225A: HSPA (7,2 Mbps DL / 5,76 Mbps UL)
 
@@ -433,6 +437,10 @@ GPRS/EDGE
 
 
 # Wireless/Ports
+;Wi-Fi
+Wi-Fi
+
+
 ;Wi-Fi 802.11 b/g/n
 Wi-Fi 802,11 b/g/n
 
@@ -464,6 +472,10 @@ Radio stereo
 
 ;3.2 MP
 3,2 MP
+
+
+;3 MP (Fixed-focus)
+3 MP (Fixed-focus)
 
 
 ;3.0 MP (Fixed-focus)
@@ -499,6 +511,10 @@ VGA {ok}
 
 
 # Bluetooth
+;Bluetooth
+Bluetooth
+
+
 ;Bluetooth v2.1
 Bluetooth v2.1 {ok}
 

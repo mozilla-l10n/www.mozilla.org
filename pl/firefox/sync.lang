@@ -7,22 +7,60 @@
 Synchronizuj swojego Firefoksa
 
 
-;Instantly make Firefox your own wherever you use it. Seamlessly sync your bookmarks, history, passwords and more and access them from any device.
-Natychmiast dostosuj Firefoksa do siebie, gdziekolwiek z niego korzystasz. Bezproblemowo synchronizuj swoje zakładki, historię przeglądania, hasła i inne dane, by mieć do nich dostęp na wielu urządzeniach.
+;Ready, Set, Sync
+Ready, Set, Sync
 
 
-;Get started with Sync. It’s fast, safe and easy:
-Zacznij korzystać z Sync. To szybkie, proste i bezpieczne:
+;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
 
 
-# (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
-;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Otwórz <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a>  prawym górnym rogu Firefoksa i wybierz „<strong>Zaloguj się do Sync</strong>”.
+;Take your Web with you
+Take your Web with you
 
 
-# (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
-Otwórz <a href="%(url)s#w_a-handy-new-menu">menu</a> w prawym górnym rogu Firefoksa i wybierz „Zaloguj się do Sync”.
+;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+
+
+;It looks like you’re running an older version of Firefox.
+It looks like you’re running an older version of Firefox.
+
+
+;The new version of Sync only works with the latest version of Firefox
+The new version of Sync only works with the latest version of Firefox
+
+
+;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+
+
+;Download Firefox for Android
+Download Firefox for Android
+
+
+;Need help?
+Need help?
+
+
+;Get started with Sync
+Get started with Sync
+
+
+;Update your Firefox
+Update your Firefox
+
+
+;Download Firefox
+Download Firefox
+
+
+;Get started with Sync in four easy steps:
+Get started with Sync in four easy steps:
+
+
+;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -30,19 +68,9 @@ Otwórz <a href="%(url)s#w_a-handy-new-menu">menu</a> w prawym górnym rogu Fire
 Kliknij „<strong>Konfiguruj</strong>” w karcie, która się otworzy
 
 
-# (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-;Click “Get started” in the tab that opens.
-Kliknij „Konfiguruj” w karcie, która się otworzy.
-
-
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
 Wprowadź adres e-mail oraz hasło i „<strong>Utwórz konto Firefox</strong>”.
-
-
-# (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-;Enter an email address and password to “Create a Firefox Account.”
-Wprowadź adres e-mail oraz hasło i „Utwórz konto Firefox”.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -50,17 +78,8 @@ Wprowadź adres e-mail oraz hasło i „Utwórz konto Firefox”.
 Kliknij „<strong>Dalej</strong>”, aby otrzymać potwierdzenie na swój adres e-mail.
 
 
-# (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-;Click “Next” to get a verification sent to your email.
-Kliknij „Dalej”, aby otrzymać potwierdzenie na swój adres e-mail.
-
-
-;Check your email and click the verification link.
-Sprawdź pocztę i kliknij odnośnik z potwierdzeniem.
-
-
-;You’re all set! Firefox will automatically sync in the background from now on.
-Gotowe! Od teraz Firefox będzie się automatycznie synchronizował w tle.
+;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
 
 
 ;Get more detailed instructions.
@@ -71,20 +90,147 @@ Bardziej szczegółowe instrukcje.
 Korzystasz ze starszej wersji Sync?
 
 
+# This string is displayed on Android devices
+;How to set up Sync in five easy steps:
+How to set up Sync in five easy steps:
+
+
+# <strong> tags below used for font color formatting.
+# This string is displayed on Android devices
+;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+
+
+# This string is displayed on Android devices
+;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+
+
+# This string is displayed on Android devices
+;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+
+
+# This string is displayed on Android devices
+;The <strong>Create a Firefox Account page</strong> will open in a new tab.
+The <strong>Create a Firefox Account page</strong> will open in a new tab.
+
+
+# This string is displayed on Android devices
+;Fill out the form and click <strong>Next</strong>.
+Fill out the form and click <strong>Next</strong>.
+
+
+# This string is displayed on Android devices
+;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+
+
+;Sync a little. Sync a lot.
+Sync a little. Sync a lot.
+
+
+;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+
+
+;At home
+At home
+
+
+;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+
+
+;At work
+At work
+
+
+;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+
+
+;On the go
+On the go
+
+
+;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+
+
+;Have an <b>Android smartphone</b> or <b>tablet</b>?
+Have an <b>Android smartphone</b> or <b>tablet</b>?
+
+
+;DOWNLOAD FIREFOX FOR ANDROID
+DOWNLOAD FIREFOX FOR ANDROID
+
+
+;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+
+
+# Used in old page, do not remove , do not remove
+;Instantly make Firefox your own wherever you use it. Seamlessly sync your bookmarks, history, passwords and more and access them from any device.
+Natychmiast dostosuj Firefoksa do siebie, gdziekolwiek z niego korzystasz. Bezproblemowo synchronizuj swoje zakładki, historię przeglądania, hasła i inne dane, by mieć do nich dostęp na wielu urządzeniach.
+
+
+# Used in old page, do not remove
+;Get started with Sync. It’s fast, safe and easy:
+Zacznij korzystać z Sync. To szybkie, proste i bezpieczne:
+
+
+# Used in old page, do not remove
+;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Otwórz <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a>  prawym górnym rogu Firefoksa i wybierz „<strong>Zaloguj się do Sync</strong>”.
+
+
+# Used in old page, do not remove
+;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
+Otwórz <a href="%(url)s#w_a-handy-new-menu">menu</a> w prawym górnym rogu Firefoksa i wybierz „Zaloguj się do Sync”.
+
+
+# Used in old page, do not remove
+;Click “Get started” in the tab that opens.
+Kliknij „Konfiguruj” w karcie, która się otworzy.
+
+
+# Used in old page, do not remove
+;Enter an email address and password to “Create a Firefox Account.”
+Wprowadź adres e-mail oraz hasło i „Utwórz konto Firefox”.
+
+
+# Used in old page, do not remove
+;Click “Next” to get a verification sent to your email.
+Kliknij „Dalej”, aby otrzymać potwierdzenie na swój adres e-mail.
+
+
+# Used in old page, do not remove
+;Check your email and click the verification link.
+Sprawdź pocztę i kliknij odnośnik z potwierdzeniem.
+
+
+# Used in old page, do not remove
+;You’re all set! Firefox will automatically sync in the background from now on.
+Gotowe! Od teraz Firefox będzie się automatycznie synchronizował w tle.
+
+
+# Used in old page, do not remove
 ;Have an Android phone or tablet?
 Masz telefon lub tablet z Androidem?
 
 
-# (NEW STRING)
+# Used in old page, do not remove
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
 <a href="%(url)s">Pobierz Firefoksa na Androida</a> i zsynchronizuj komputer stacjonarny z urządzeniem przenośnym.
 
 
-# (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
+# Used in old page, do not remove
 ;Download Firefox for Android to sync between your desktop and mobile devices.
 Pobierz Firefoksa na Androida i zsynchronizuj komputer stacjonarny z urządzeniem przenośnym.
 
 
+# Used in old page, do not remove
 ;Get it free from Google Play
 Pobierz za darmo z Google Play
 

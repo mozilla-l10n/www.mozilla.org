@@ -5,10 +5,6 @@
 Firefox OS 지주 묻는 질문 (FAQ)
 
 
-;Built entirely using HTML5 and other open Web standards, Firefox OS is free from the rules and restrictions of existing proprietary platforms.
-HTML5 및 개방형 웹 표준 기술로만 만들어진 Firefox OS는 기존 상용 플랫폼의 제한 과 규정에서 자유롭습니다.
-
-
 ;Firefox OS FAQ
 Firefox OS FAQ
 
@@ -20,8 +16,13 @@ Firefox OS 소개
 ;What is Firefox OS?
 Firefox OS는 무엇인가요?
 
+
 ;Backed by some of the biggest names in the industry, Firefox OS is a new open operating system for smartphones developed by Mozilla.
-업계 유명 벤더들이 많이 있지만, Firefox OS는 Mozilla가 만드는 스마트폰을 위한 새로운 개방형 운영체제입니다. 전적으로 HTML5와 개방형 웹 표준으로만 만들어지고 있으며 기존의 상용 플랫폼의 제한과 규정으로 부터 자유로운 운영체제입니다. 
+업계 유명 벤더들이 많이 있지만, Firefox OS는 Mozilla가 만드는 스마트폰을 위한 새로운 개방형 운영체제입니다. 전적으로 HTML5와 개방형 웹 표준으로만 만들어지고 있으며 기존의 상용 플랫폼의 제한과 규정으로 부터 자유로운 운영체제입니다.
+
+
+;Built entirely using HTML5 and other open Web standards, Firefox OS is free from the rules and restrictions of existing proprietary platforms.
+HTML5 및 개방형 웹 표준 기술로만 만들어진 Firefox OS는 기존 상용 플랫폼의 제한 과 규정에서 자유롭습니다.
 
 
 ;How is Firefox OS different from other operating systems?
@@ -29,11 +30,11 @@ Firefox OS는 무엇인가요?
 
 
 ;Firefox OS is the only operating system with Adaptive App Search.
-Firefox OS는 진화하는 앱 검색이 가능한 운영체제입니다. 
+Firefox OS는 진화하는 앱 검색이 가능한 운영체제입니다.
 
 
 ;While every other phone today is static, giving you the exact same apps each time you turn it on, Firefox OS is always changing to offer exactly the apps you need at any moment in your life.
-다른 폰은 켜면 같은 앱만 보이는 정적인 화면을 제공한다면, Firefox OS는 여러분의 삶의 시간에 필요한 정확한 앱을 늘 변화하면서 제공해줄 것입니다. 
+다른 폰은 켜면 같은 앱만 보이는 정적인 화면을 제공한다면, Firefox OS는 여러분의 삶의 시간에 필요한 정확한 앱을 늘 변화하면서 제공해줄 것입니다.
 
 
 ;It adapts so you can live every moment to its fullest.
@@ -41,19 +42,20 @@ Firefox OS는 진화하는 앱 검색이 가능한 운영체제입니다.
 
 
 ;Firefox OS is brought to you by Mozilla, a global nonprofit organization that emphasizes principle over profit.
-Firefox OS는 이익을 넘어 원칙을 중요시 하는 글로벌 비영리 단체인 Mozilla가 만들고 있습니다. 
+Firefox OS는 이익을 넘어 원칙을 중요시 하는 글로벌 비영리 단체인 Mozilla가 만들고 있습니다.
 
 
 ;We believe that the Web is a shared public resource to be cared for, not a commodity to be sold.
-우리는 웹이 공유해야할 공적 자원이며, 쓰고 버리는 소모품이 아니라고 믿습니다. 
+우리는 웹이 공유해야할 공적 자원이며, 쓰고 버리는 소모품이 아니라고 믿습니다.
 
 
 ;We work with a worldwide community to create open source products like Mozilla Firefox and to innovate for the benefit of the individual and the betterment of the Web.
-우리는 전 세계 커뮤니티 회원들과 함께 오픈 소스 프로젝트로서 Firefox 웹 브라우저 같은 제품을 만들어 배포하고 있으며, 웹과 개인의 이익을 위해 혁신해 왔습니다. 
+우리는 전 세계 커뮤니티 회원들과 함께 오픈 소스 프로젝트로서 Firefox 웹 브라우저 같은 제품을 만들어 배포하고 있으며, 웹과 개인의 이익을 위해 혁신해 왔습니다.
 
 
 ;The result is great products built by passionate people and better choices for everyone.
 그 결과 모든 사람이 선택 가능한 뛰어난 제품을 열정있는 사람에 의해 만들고 있습니다.
+
 
 ;Buying Firefox OS
 Firefox OS 폰 구매하기
@@ -63,6 +65,11 @@ Firefox OS 폰 구매하기
 Firefox OS폰이 출시되었나요?
 
 
+;To see a full list of available Firefox OS phones, please visit the <a href="%(link)s">devices page</a>.
+To see a full list of available Firefox OS phones, please visit the <a href="%(link)s">devices page</a>.
+
+
+# String for previous version of the page
 ;You can purchase Firefox OS on a ZTE Open, LG Fireweb or an Alcatel One Touch device.
 Firefox OS를 탑재한 ZTE Open, LG Fireweb 및 Alcatel One Touch 기기를 구매할 수 있습니다. 더 많은 단말기들이 계속해서 발표됩니다.
 
@@ -71,82 +78,106 @@ Firefox OS를 탑재한 ZTE Open, LG Fireweb 및 Alcatel One Touch 기기를 구
 Firefox OS폰을 어디서 구매할 수 있나요?
 
 
+;To purchase a Firefox OS phone, please visit the <a href="%(link)s">devices page</a> and select your available country.
+To purchase a Firefox OS phone, please visit the <a href="%(link)s">devices page</a> and select your available country.
+
+
+# String for previous version of the page
 ;Firefox OS is available to buy across 14 countries across the globe. You can purchase a device in:
 Firefox OS 탑재 스마트폰은 전 세계 14개국에서 구매할 수 있습니다. 판매 기기는 아래와 같습니다.
 
 
+# String for previous version of the page
 ;Spain with <a href="%s">Movistar</a>
 스페인- <a href="%s">Movistar</a>
 
 
+# String for previous version of the page
 ;Chile with <a href="%s">Movistar</a>
 칠레- <a href="%s">Movistar</a>
 
 
+# String for previous version of the page
 ;Poland with <a href="%s">T-Mobile</a>
 폴란드- <a href="%s">T-Mobile</a>
 
 
+# String for previous version of the page
 ;Venezuela with <a href="%s">Movistar</a>
 베네주엘라- <a href="%s">Movistar</a>
 
 
+# String for previous version of the page
 ;Colombia with <a href="%s">Movistar</a>
 콜롬비아- <a href="%s">Movistar</a>
 
 
+# String for previous version of the page
 ;Hungary with both <a href="%s">Telenor</a> and <a href="%s">T-Mobile</a>
 헝가리- <a href="%s">Telenor</a> 및 <a href="%s">T-Mobile</a>
 
 
+# String for previous version of the page
 ;Peru with <a href="%s">Movistar</a>
 페루- <a href="%s">Movistar</a>
 
 
+# String for previous version of the page
 ;Serbia with <a href="%s">Telenor</a>
 세르비아- <a href="%s">Telenor</a>
 
 
+# String for previous version of the page
 ;Montenegro with <a href="%s">Telenor</a>
 몬테니그로-  <a href="%s">Telenor</a>
 
 
+# String for previous version of the page
 ;Greece with <a href="%s">Cosmote</a>
 그리스- <a href="%s">Cosmote</a>
 
 
+# String for previous version of the page
 ;Germany with <a href="%s">Congstar</a>
 독일- <a href="%s">Congstar</a>
 
 
+# String for previous version of the page
 ;Brazil with <a href="%s">Vivo</a>
 브라질- <a href="%s">Vivo</a>
 
 
+# String for previous version of the page
 ;Mexico with <a href="%s">Movistar</a>
 멕시코- <a href="%s">Movistar</a>
 
 
+# String for previous version of the page
 ;Italy with <a href="%s">TIM</a>
 이탈리아- <a href="%s">TIM</a>
 
 
+# String for previous version of the page
 ;Uruguay with <a href="%s">Movistar</a>
 우루과이- <a href="%s">Movistar</a>
 
 
+# String for previous version of the page
 ;To date, 17 Operators spanning the globe have committed to distributing Firefox OS devices:
 지금까지 17개 통신사 전 세계에서 Firefox OS를 판매하고 있습니다.
 
 
+# String for previous version of the page
 ;América Móvil, China Unicom, Deutsche Telekom, Etisalat, Hutchison Three Group, KDDI, Korea Telecom, MegaFon, Qtel, SingTel, Smart, Sprint, Telecom Italia Group, Telefónica, Telenor, TMN and VimpelCom.
 América Móvil, China Unicom, Deutsche Telekom, Etisalat, Hutchison Three Group, KDDI, Korea Telecom, MegaFon, Qtel, SingTel, Smart, Sprint, Telecom Italia Group, Telefónica, Telenor, TMN and VimpelCom.
 
 
+# String for previous version of the page
 ;As a result, more countries and mobile phone operators will be selling Firefox OS in the future.
 As a result, more countries and mobile phone operators will be selling Firefox OS in the future.
 
 
+# String for previous version of the page
 ;Our operator partners will distribute the phones through a variety of locally-specific channels.
 Our operator partners will distribute the phones through a variety of locally-specific channels.
 
@@ -293,3 +324,5 @@ Developer Questions
 
 ;Are you a developer? Have questions? <a href="%(url)s">Learn more at the Mozilla Developer Network.</a>
 Are you a developer? Have questions? <a href="%(url)s">Learn more at the Mozilla Developer Network.</a>
+
+

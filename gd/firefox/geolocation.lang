@@ -171,11 +171,11 @@ Ciamar a chuireas mi dheth am brabhsadh a mhothaicheas dha m' ionad gu buan?
 
 
 ;Location-Aware Browsing is always opt-in in Firefox. No location information is ever sent without your permission. If you wish to disable the feature completely, please follow this set of steps:
-'S e gleus thaghas cuideigin iad fhèin ann am Firefox a tha sa bhrabhsadh a mhothaicheas dha d' àite. Cha dèid fiosrachadh a thoirt seachad gun chead uat idir. Ma tha thu ag iarraidh am feart seo a chur dheth gu tur, dèan na leanas:
+Cha bhi brabhsadh a mhothaicheas ri d' àite air o thùs idir. Cha dèid fiosrachadh mu d' àite a chur a-null gun do chead idir.  Ma tha thu airson am feart seo a chur dheth gu tur, dèan nan leanas:
 
 
 ;In the URL bar, type <code>about:config</code>
-Cuir a-steach <code>about:config</code> ann am bàr nan URL
+Cuir na leanas ann am bàr an URL:<code>about:config</code>
 
 
 ;Type <code>geo.enabled</code>
@@ -187,14 +187,14 @@ Dèan briogadh dùbailte air an roghainn <em>geo.enabled</em>
 
 
 ;Location-Aware Browsing is now disabled
-Bidh am brabhsaidh a mhothaicheas dha d' àite dheth a-nis
+Tha brabhsadh a mhothaicheas dha d' àite dheth a-nis
 
 
 ;Where am I?
-Cà bheil mi?
+Càit a bheil mi?
 
 
 ;Oops! An error occurred while trying to determine your position.
-Mo chreach! Thachair mearachd nuair a bhathar airson d' àite amasadh.
+Ìoc! Thachair mearachd fhad 's a bha sinn a' fiosrachadh d' àite.
 
 

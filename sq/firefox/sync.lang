@@ -60,7 +60,6 @@ Shkarkoni Firefox-in
 Fillojani me Sync-un përmes katër hapash të kollajtë:
 
 
-# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
 Hapni <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menunë</a> në cepin e sipërm të Firefox-it dhe përzgjidhni “<strong>Hyni te Sync-u.</strong>”
 
@@ -77,7 +76,7 @@ Jepni adresën email dhe fjalëkalimin që të “<strong>Krijoni një Llogari F
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Klikoni mbi “<strong>Pasuesin</strong>” që të merrni një kod verifikimi të dërguar me email.
+Klikoni mbi “<strong>Pasuesin</strong>” që të merrni një kod verifikimi dërguar me email.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
@@ -89,7 +88,7 @@ Merrni udhëzime më të hollësishme.
 
 
 ;Using an older version of Sync?
-Përdorni ende një version më të vjetër të Sync-ut?
+Përdorni ende version të vjetër të Sync-ut?
 
 
 # This string is displayed on Android devices
@@ -235,5 +234,4 @@ Shkarkoni Firefox-in për Android që të kryeni njëkohësime mes desktopit dhe
 # Used in old page, do not remove
 ;Get it free from Google Play
 Merreni falas prej Google Play-it
-
 

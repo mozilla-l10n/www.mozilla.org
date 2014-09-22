@@ -1,4 +1,5 @@
 ## active ##
+## firefox_sync_redesign ##
 ## sync_new_markup ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
@@ -8,61 +9,61 @@ Hâld jo Firefox syngroan
 
 
 ;Ready, Set, Sync
-Ready, Set, Sync
+Klear foar de start, Sync
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+Jo binne registrearre en kinne <em>jo</em> Firefox no oeral en altyd benaderje.
 
 
 ;Take your Web with you
-Take your Web with you
+Nim jo web mei jo mei
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+Syngronisear Firefox fanôf eltse snoadfoan, tablet of kompjûter om jo blêdwizers, wachtwurden, ljepblêden en mear te benaderjen.
 
 
 ;It looks like you’re running an older version of Firefox.
-It looks like you’re running an older version of Firefox.
+It liket derop dat jo in âldere ferzje fan Firefox brûke.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-The new version of Sync only works with the latest version of Firefox
+De nije ferzje fan Sync wurket allinnich mei de nijste ferzje fan Firefox
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+Sync is inkeld ien fan de bjusterbaarlike funksjes dy't jo allinnich yn Firefox fine. Untdek se allgearre!
 
 
 ;Download Firefox for Android
-Download Firefox for Android
+Download Firefox foar Android
 
 
 ;Need help?
-Need help?
+Help nedich?
 
 
 ;Get started with Sync
-Get started with Sync
+Begjinne mei Sync
 
 
 ;Update your Firefox
-Update your Firefox
+Fernij jo Firefox
 
 
 ;Download Firefox
-Download Firefox
+Download Firefox {ok}
 
 
 ;Get started with Sync in four easy steps:
-Get started with Sync in four easy steps:
+Begjin mei Sync yn fjouwer ienfâldige stappen:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Iepenje it <a class="menu ga-link" href="%(url)s#w_een-handig-nieuw-menu">menu</a> rjochtsboppe yn Firefox en selektearje “<strong>Oanmelden by Sync</strong>”.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -81,7 +82,7 @@ Klik op “<strong>Folgjende</strong>” om in ferifikaasjekeppeling nei jo e-ma
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+Neidat jo jo e-mail kontrolearre hawwe en op de ferifikaasjekeppeling klikt hawwe, binne jo klear! Firefox sil fan ôf dat momint automatysk op de achtergrûn syngronisearje.
 
 
 ;Get more detailed instructions.
@@ -94,82 +95,82 @@ Brûke jo in âldere ferzje fan Sync?
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-How to set up Sync in five easy steps:
+Sync ynstelle yn fiif ienfâldige stappen:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+Tik op de knop <strong>Menu</strong> (ûnder yn it skerm of yn de rjochterboppehoek fan de browser).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+Selektearje <strong>Ynstellingen</strong> (mooglik moatte jo earst op <strong>Mear</strong> tikke).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+Tik op <strong>Sync</strong> en dêrnei op <strong>Begjinne</strong>.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+De <strong>side Firefox-account oanmeitsje</strong> wurdt yn in nij ljepblêd iepene.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+Folje it formulier yn en klik op <strong>Folgjende</strong>.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+Neidat jo jo e-mail kontrolearre hawwe en op de ferifikaasjekeppeling klikt hawwe, binne jo klear! Ferjit net al jo oare apparaten te ferbinen om it measte út Sync te heljen.
 
 
 ;Sync a little. Sync a lot.
-Sync a little. Sync a lot.
+Syngronisear in bytsje. Syngronisear in protte.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+Jo kieze hokker ûnderdielen fan jo Firefox jo syngronisearje wolle en wêr't jo dizze syngronisearje wolle. Nim jo iepene ljepblêden daagliks mei. Benaderje jo blêdwizers op it wurk. Wat, wannear en wêr dan ek.
 
 
 ;At home
-At home
+Thús
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Gean fan jo kantaor nei de bank sûnder mar wat te missen. Benaderje jo iepen ljepblêden op jo snoadfoan, of besjoch jo blêdwizers fanôf jo tablet.
 
 
 ;At work
-At work
+Op it wurk
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+Bliuw ferbûn mei al jo wichtige gegevens. Syngronisearje de wachtwurden en blêdwizers dy't jo op elts winske momint benaderje wolle. Krekt as Firefox is it sa feilich as it mar kin.
 
 
 ;On the go
-On the go
+Underweis
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Hâld jo favorite websites by, of foltogje it ferhaal dat jo thús begûn – wêr't jo ek nei ta geat. It is noait sa maklik west as mei Sync.
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Have an <b>Android smartphone</b> or <b>tablet</b>?
+Hawwe jo in <b>Android-snoadfoan</b> of <b>-tablet</b>?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-DOWNLOAD FIREFOX FOR ANDROID
+DOWNLOAD FIREFOX FOAR ANDROID
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+Nim foar de folsleine Sync-ûnderfining jo web mei jo mei, oeral wêr't jo Firefox brûke. Ferbyn jo snoadfoan, tablet, kompjûter en laptop.
 
 
 # Used in old page, do not remove , do not remove

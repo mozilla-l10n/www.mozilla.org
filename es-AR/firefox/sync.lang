@@ -1,4 +1,5 @@
 ## active ##
+## firefox_sync_redesign ##
 ## sync_new_markup ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
@@ -62,7 +63,7 @@ Empezá a usar Sync en cuatro pasos:
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Abrí el <a class="menu ga-link" href="https://support.mozilla.org/es/kb/mas-informacion-sobre-el-diseno-del-nuevo-firefox#w_un-nuevo-menaj-maas-accesible">menú</a> que está en la esquina superior de Firefox y elegí “<strong>Ingresá a Sync.</strong>”
+Abrí el <a class="menu ga-link" href="%(url)s#w_un-nuevo-menaj-maas-accesible">menú</a> que está en la esquina superior de Firefox y elegí “<strong>Ingresá a Sync.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.

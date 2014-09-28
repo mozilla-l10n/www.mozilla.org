@@ -8,80 +8,79 @@ Tartsa Firefox böngészőjét szinkronban a Sync-kel
 
 
 ;Ready, Set, Sync
-Ready, Set, Sync
+Vigyázz, kész, Sync
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+Regisztráció után elérheti a <em>saját</em> Firefoxát akárhol, akármikor.
 
 
 ;Take your Web with you
-Take your Web with you
+Vigye magával az internetet
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-
+A Firefox Sync segítségével bárhonnan, bármilyen telefonról, tabletről, asztali gépről elérheti könyvjelzőit, jelszavait, böngészőlapjait.
 
 ;It looks like you’re running an older version of Firefox.
-It looks like you’re running an older version of Firefox.
+Úgy tűnik, a Firefox régebbi verzióját használja.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-The new version of Sync only works with the latest version of Firefox
+A Sync új verziója csak a legújabb Firefoxszal működik.
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+A Sync egyike azoknak a remek lehetőségeknek, amelyeket a Firefox kínál. Fedezze fel mindet!
 
 
 ;Download Firefox for Android
-Download Firefox for Android
+Töltse le a Firefox for Androidot
 
 
 ;Need help?
-Need help?
+Segítségre van szüksége?
 
 
 ;Get started with Sync
-Get started with Sync
+A Sync használata
 
 
 ;Update your Firefox
-Update your Firefox
+Firefox frissítés
 
 
 ;Download Firefox
-Download Firefox
+Firefox letöltés
 
 
 ;Get started with Sync in four easy steps:
-Get started with Sync in four easy steps:
+A Sync használatának négy egyszerű kezdőlépése:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Nyissa meg a <a class="menu ga-link" href="%(url)s#w_praktikus-ajj-menak">menüt</a> a Firefox jobb felső sarkában, és válassza a „<strong>Jelentkezzen be a Syncbe</strong>” menüpontot.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-A megnyíló lapon kattintson a “<strong>Kezdő lépések</strong>” gombra.
+A megnyíló lapon kattintson a „<strong>Kezdő lépések</strong>” gombra.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Adja meg az e-mail címét és egy jelszót a “<strong>Firefox Account létrehozásához.</strong>”
+Adja meg az e-mail címét és egy jelszót a „<strong>Firefox fiók létrehozásához.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Kattintson a “<strong>Következő</strong>”, amely után egy azonosító levelet fog kapni.
+Kattintson a „<strong>Következő</strong>” gombra, ami után egy ellenőrző levelet fog kapni.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+Miután rákattintott az e-mailben talált érvényesítő hivatkozásra, kész is van! A Firefox mostantól automatikusan szinkronizál a háttérben.
 
 
 ;Get more detailed instructions.
@@ -94,87 +93,87 @@ A Sync régebbi verzióját használja?
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-How to set up Sync in five easy steps:
+Hogyan állítsa be a Sync-et öt egyszerű lépésben:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+Érintse meg a <strong>Menü</strong> gombot (akár a képernyő alján található, akár a böngésző jobb felső sarkában).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+Válassza ki a <strong>Beállítások</strong> menüpontot (lehetséges, hogy előbb a <strong>Tovább</strong> gombot kell megérinteni).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+Érintse meg a <strong>Sync</strong> gombot, majd utána a <strong>Kezdő lépések</strong> gombot.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+A <strong>Firefox fiók létrehozása</strong> új lapon fog megnyílni.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+Töltse ki az adatlapot, és kattintson a <strong>Tovább</strong> gombra.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+Miután rákattintott az e-mailben kapott érvényesítő hivatkozásra, kész is van! Ne felejtse el az összes készülékén aktiválni, hogy a lehető legtöbbet hozhassa ki a Sync-ből.
 
 
 ;Sync a little. Sync a lot.
-Sync a little. Sync a lot.
+Használja a Sync-et részben, vagy teljes körűen.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+Ön dönti el, hogy a Firefox melyik részeit szeretné szinkronizálni. Nyissa meg böngészőlapjait a napi ingázás során. Használja könyvjelzőit munka közben. Akármit, akármikor, akárhol.
 
 
 ;At home
-At home
+Otthon
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Dolgozzon kényelmesen akár a kanapéról. Férjen hozzá böngészőjéhez a telefonjáról, keresgéljen a könyvjelzői között a tabletjén.
 
 
 ;At work
-At work
+Munkában
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+Férjen hozzá mindig a legfontosabb adataihoz. Szinkronizálja a jelszavakat és könyvjelzőket, ha azt szeretné, hogy mindig kéznél legyenek. Mint a Firefox, ez is a lehető legbiztonságosabb.
 
 
 ;On the go
-On the go
+Útközben
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Akármerre is jár: kövesse kedvenc weboldalait, fejezze be egy történet olvasását, amit még otthon kezdett el. Soha nem volt még ilyen egyszerű a Sync-nek köszönhetően.
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Have an <b>Android smartphone</b> or <b>tablet</b>?
+<b>Android okostelefonja</b> vagy <b>tabletje</b> van?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-DOWNLOAD FIREFOX FOR ANDROID
+FIREFOX FOR ANDROID LETÖLTÉSE
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+Hogy teljesen kihasználja a Sync lehetőségeit, vigye magával mindenhová, ahol Firefoxot használ. Kösse össze vele okostelefonját, tabletjét, asztali számítógépét vagy laptopját.
 
 
 # Used in old page, do not remove , do not remove
 ;Instantly make Firefox your own wherever you use it. Seamlessly sync your bookmarks, history, passwords and more and access them from any device.
-Alakítsa a Firefoxot teljesen az Önévé, bármikor is használja. Problémamentesen szinkronizálja könyvjelzőit, böngészési előzményeit, jelszavait és minden mást és érje el őket bármely eszközéről.
+Alakítsa a Firefoxot teljesen saját ízlésére, bármikor is használja. Problémamentesen szinkronizálja könyvjelzőit, böngészési előzményeit, jelszavait és minden mást és érje el őket bármely eszközéről.
 
 
 # Used in old page, do not remove
@@ -184,12 +183,12 @@ Kezdje el használni a Sync-et. Gyors, biztonságos és egyszerű:
 
 # Used in old page, do not remove
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Nyissa meg a <a class="menu" href="%(url)s#w_a-handy-new-menu">menüt</a> a Firefox ablak jobb felső részén, és válassza ki a “<strong>Jelentkezzen be a Syncbe</strong>” lehetőséget.
+Nyissa meg a <a class="menu" href="%(url)s#w_a-handy-new-menu">menüt</a> a Firefox ablak jobb felső részén, és válassza ki a „<strong>Jelentkezzen be a Syncbe</strong>” lehetőséget.
 
 
 # Used in old page, do not remove
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
-Nyissa meg a <a href="%(url)s#w_a-handy-new-menu">menü</a>t a Firefox ablak jobb felső részén, és válassza ki a „Jelentkezzen be a Syncbe” lehetőséget.
+Nyissa meg a <a href="%(url)s#w_a-handy-new-menu">menüt</a> a Firefox ablak jobb felső részén, és válassza ki a „Jelentkezzen be a Syncbe” lehetőséget.
 
 
 # Used in old page, do not remove
@@ -199,17 +198,17 @@ A megnyíló lapon kattintson a „Kezdő lépések” gombra.
 
 # Used in old page, do not remove
 ;Enter an email address and password to “Create a Firefox Account.”
-Adja meg email címét és egy jelszót a „Firefox fiók létrehozása” művelet megkezdéséhez.
+Adja meg e-mail címét és egy jelszót a „Firefox fiók létrehozása” művelet megkezdéséhez.
 
 
 # Used in old page, do not remove
 ;Click “Next” to get a verification sent to your email.
-Kattintson a „Következő” gombra, amely után egy azonosító levelet fog kapni.
+Kattintson a „Tovább” gombra, amely után egy ellenőrző levelet fog kapni.
 
 
 # Used in old page, do not remove
 ;Check your email and click the verification link.
-Nyissa meg a levelet, és kattintson a ellenőrzőő hivatkozásra.
+Nyissa meg a levelet, és kattintson az ellenőrző hivatkozásra.
 
 
 # Used in old page, do not remove
@@ -235,5 +234,3 @@ Az asztali és mobil eszközeinek szinkronizálásához töltse le a Firefox for
 # Used in old page, do not remove
 ;Get it free from Google Play
 Szerezze be a Google Play-ről
-
-

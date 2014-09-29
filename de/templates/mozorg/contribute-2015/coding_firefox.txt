@@ -1,12 +1,76 @@
-Hi,
-I'm Josh, one of many Firefox developers. Glad to hear from you! Feel free to have a look at http://whatcanidoformozilla.org/#!/progornoprog/proglang if you're interested in joining a particular project or team. Meanwhile, I'll tell you about some general opportunities for writing code for Firefox.
+Guten Tag,
 
-To get started with the codebase, have a look at http://developer.mozilla.org/En/Introduction.
+vielen Dank für die Unterstützung von Mozillas Streben nach einem freien und allen zugänglichen Internet.
 
-If you need any help, you can obtain it on IRC. I recommend visiting #introduction, which is specifically for newcomers. See http://irc.mozilla.org for how to access it.
+Die meisten Projekte haben gute Einführungen hinsichtlich des Programmierens. Es ist nicht nötig, alle in einem Projekt verwendeten Programmiersprachen zu beherrschen, um bestimmte Probleme zu beheben bzw. Änderungen vorzunehmen.
 
-Feel free to contact me anytime if you're having any problems! I'm jdm on IRC, or just josh@joshmatthews.net.
+Firefox (bitte lesen, trifft größtenteils auch auf andere Anwendungen zu):
+- Programmiersprachen: C++, HTML, XUL ähnlich HTML, JavaScript, XPCOM ähnlich JavaScript
+- Dokumentation: https://developer.mozilla.org/en/Introduction
+- Entwicklerchat: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23introduction (#introduction auf irc.mozilla.org)
 
-Happy hacking,
-Josh
+Firefox für Android:
+- Programmiersprachen: Java, C++, HTML, JavaScript, XPCOM ähnlich JavaScript
+- Dokumentation: https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_for_Android
+- Entwicklerchat: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23mobile (#mobile auf irc.mozilla.org)
 
+Thunderbird:
+- Programmiersprachen: C++, HTML, XUL ähnlich HTML, JavaScript, XPCOM ähnlich JavaScript
+- Dokumentation: https://developer.mozilla.org/en-US/docs/Simple_Thunderbird_build
+- Entwicklerchat: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23maildev (#maildev auf irc.mozilla.org)
+
+Firefox OS, das Betriebssystem für Mobilgeräte:
+- Programmiersprachen: C++, HTML, JavaScript
+- Dokumentation: https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS
+- Entwicklerchat: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23b2g (#b2g auf irc.mozilla.org)
+
+Webseiten:
+- Programmiersprachen: HTML, JavaScript, Python, etwas PHP, Datenbanken (MySQL, PostgreSQL, ...)
+- Dokumentation: https://wiki.mozilla.org/Webdev/GetInvolved
+- Entwicklerchat: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23webdev (#webdev auf irc.mozilla.org)
+
+Einen Überblick über viele der Projekte Mozillas bieten folgende Seiten:
+- http://hg.mozilla.org/ — hauptsächlich Desktop-Anwendungen für Endbenutzer
+- https://github.com/mozilla — viele neuere Projekte und Entwicklungen mit Bezug zu Websites
+- https://github.com/mozilla-b2g — Projekte rund um Firefox OS
+
+Sollten Sie keine Antwort im Chat erhalten oder die Frage umfangreicher sein, so stellen Sie diese bitte unter http://ask.mozilla.org/questions/
+
+Manchmal bietet es sich auch an, eine zusätzliche Funktion für eine Anwendung als Add-on zu entwickeln.
+
+Weitreichende Dokumentation zur Add-ons-Entwicklung finden Sie im Mozilla Developer Network (MDN) unter https://developer.mozilla.org/en-US/docs/Extensions
+
+Sehen Sie sich auch im Add-on-Entwicklerzentrum um. Dort gibt es Dokumentation, Werkzeuge und Informationen dazu, wie Sie mit anderen Entwicklern in Kontakt treten können:
+https://addons.mozilla.org/developers/
+
+SDK: Eine Möglichkeit, Add-ons zu erstellen, welche zur Installation keinen Neustart der Anwendung benötigen:
+https://addons.mozilla.org/de/developers/builder
+
+XUL School: Eine vollständige Anleitung für fortgeschrittenere Entwickler:
+https://developer.mozilla.org/de/docs/XUL/School_tutorial
+
+Codevorlagen für bestimmte Aufgaben finden Sie unter https://developer.mozilla.org/en-US/Add-ons/Code_snippets
+
+Sie können im Add-ons-Forum Fragen stellen und mit anderen Add-on-Entwicklern in Verbindung treten:
+https://forums.mozilla.org/addons/
+
+Wenn Sie noch weitere Fragen haben:
+- Melden Sie sich einfach in unserem Forum: https://forums.mozilla.org/addons/
+- Bei Fragen zur Entwicklung mit dem Add-ons SDK (Jetpack): Besuchen Sie den Chat: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23jetpack (#jetpack auf irc.mozilla.org)
+- Bei Fragen zur Entwicklung mit traditioneller Add-ons mit XUL: Besuchen Sie den Chat: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23extdev (#extdev auf irc.mozilla.org)
+- Bei Fragen zur Überprüfung Ihres auf addons.mozilla.org eingereichten Add-ons: Besuchen Sie den Chat: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23amo-editors (#amo-editors auf irc.mozilla.org)
+
+Um ein gutes Problem für den Einstieg zu finden, empfiehlt es sich passend zu den eigenen Fähigkeiten nach Vorschlägen auf http://www.joshmatthews.net/bugsahoy/ zu suchen. Alle Probleme und Verbesserungsvorschläge finden sich unter https://bugzilla.mozilla.org/.
+
+Bei Fragen und Problemen können Sie sich an Josh Matthews wenden: jdm im IRC oder unter josh@joshmatthews.net
+
+Viele deutschsprachige Mitwirkende treffen sich jeden Mittwoch um 21 Uhr im IRC-Chat auf irc.mozilla.org in #deMeeting — jeder Neuzugang ist herzlich eingeladen. Link: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23demeeting
+
+Zu anderen Zeiten findet die Kommunikation in #firefox.de statt, wo auch Nutzern geholfen wird. Link: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23firefox.de
+
+Für Rückfragen stehen wir selbstverständlich zur Verfügung.
+
+P.S. Wir Duzen uns untereinander, überlassen es aber anderen Personen, auf deren Wunsch damit zu beginnen. 
+
+Mit freundlichen Grüßen,
+Team Mozilla

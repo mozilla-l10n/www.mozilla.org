@@ -186,6 +186,11 @@ Firefox에서:
 도구 메뉴 열기.
 
 
+# If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
+;Open the <span class="menu">menu</span>.
+Open the <span class="menu">menu</span>.
+
+
 ;Choose Add-ons.
 부가 기능 선택하기.
 
@@ -194,8 +199,16 @@ Firefox에서:
 플러그인 탭 선택하기
 
 
+;Click on the drop down next to the plugin you wish to disable.
+Click on the drop down next to the plugin you wish to disable.
+
+
 ;Click on a plugin in the list.
 현재 페이지에서 플러그인 클릭
+
+
+;Select "Never Activate" from the available choices.
+Select "Never Activate" from the available choices.
 
 
 ;Click the Disable button.

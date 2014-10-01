@@ -183,6 +183,11 @@ Firefox இல்:
 கருவிகள் மெனுவைத் திறக்கவும்.
 
 
+# If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
+;Open the <span class="menu">menu</span>.
+Open the <span class="menu">menu</span>.
+
+
 ;Choose Add-ons.
 துணை நிரல்கள் என்பதைத் தேர்வு செய்யவும்.
 
@@ -191,8 +196,16 @@ Firefox இல்:
 செருகு நிரல்கள் தத்தலை சொடுக்கவும்.
 
 
+;Click on the drop down next to the plugin you wish to disable.
+Click on the drop down next to the plugin you wish to disable.
+
+
 ;Click on a plugin in the list.
 பட்டியலில் இருந்து ஒரு செருகு நிரலை சொடுக்கவும்.
+
+
+;Select "Never Activate" from the available choices.
+Select "Never Activate" from the available choices.
 
 
 ;Click the Disable button.

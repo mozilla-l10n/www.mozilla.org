@@ -184,6 +184,11 @@ Add-Ons प्रबंधक का स्क्रीनशॉट
 उपकरण मेनू खोलें.
 
 
+# If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
+;Open the <span class="menu">menu</span>.
+Open the <span class="menu">menu</span>.
+
+
 ;Choose Add-ons.
 सहयुक्ति चुनें
 
@@ -192,8 +197,16 @@ Add-Ons प्रबंधक का स्क्रीनशॉट
 प्लगिन टैब पर क्लिक करें.
 
 
+;Click on the drop down next to the plugin you wish to disable.
+Click on the drop down next to the plugin you wish to disable.
+
+
 ;Click on a plugin in the list.
 सूची में प्लगइन पर क्लिक करें.
+
+
+;Select "Never Activate" from the available choices.
+Select "Never Activate" from the available choices.
 
 
 ;Click the Disable button.

@@ -186,6 +186,11 @@ Firefox 可以如何幫助我？
 開啟工具選單。
 
 
+# If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
+;Open the <span class="menu">menu</span>.
+Open the <span class="menu">menu</span>.
+
+
 ;Choose Add-ons.
 選擇附加元件。
 
@@ -194,8 +199,16 @@ Firefox 可以如何幫助我？
 點一下外掛程式標籤。
 
 
+;Click on the drop down next to the plugin you wish to disable.
+Click on the drop down next to the plugin you wish to disable.
+
+
 ;Click on a plugin in the list.
 點一下清單當中要停用的外掛程式。
+
+
+;Select "Never Activate" from the available choices.
+Select "Never Activate" from the available choices.
 
 
 ;Click the Disable button.

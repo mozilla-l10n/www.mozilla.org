@@ -183,6 +183,11 @@ Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</
 টুল মেনু খুলুন।
 
 
+# If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
+;Open the <span class="menu">menu</span>.
+Open the <span class="menu">menu</span>.
+
+
 ;Choose Add-ons.
 অ্যাড-অন নির্বাচন
 
@@ -191,8 +196,16 @@ Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</
 প্লাগিন ট্যাব ক্লিক করুন
 
 
+;Click on the drop down next to the plugin you wish to disable.
+Click on the drop down next to the plugin you wish to disable.
+
+
 ;Click on a plugin in the list.
 তালিকার একটি প্লাগিনে ক্লিক করুন।
+
+
+;Select "Never Activate" from the available choices.
+Select "Never Activate" from the available choices.
 
 
 ;Click the Disable button.

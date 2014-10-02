@@ -4,7 +4,7 @@
 ## webmaker_update ##
 ## contribute_fellowship ##
 ## hiveglobal ##
-## NOTE: https://www-demo3.allizom.org/en-US/contribute/
+## NOTE: https://www-demo3.allizom.org/contribute/
 
 
 # Used for HTML title attribute
@@ -83,7 +83,7 @@ Mozilla 的志願貢獻&hellip;
 
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
-;is about more than lending a hand. It’s about learning,<br> collaborating and sharing your skills with a global<br> community of Mozillians — coders, organizers, activists<br> and more — who help shape the Web every day.
+;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
 不只是幫人一把，而是學習、協作並與全球的程式設計師、組織者、活動家等，每天都在幫助塑造 Web 的 Mozillian 所組成的全球社群分享您的能力。
 
 
@@ -194,10 +194,6 @@ IRC 頻道
 # Used as title of the /stories sub-page
 ;Mozillian Stories
 Mozillian 的志工故事
-
-
-;Meet Mozilla volunteers from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
-見過全球的 Mozilla 志工，了解他們曾貢獻過那些專案，還有他們現在正在幫助那些專案。
 
 
 # Used as a toggle to display more content.
@@ -352,6 +348,10 @@ Mozillian 的志工故事
 國家
 
 
+;Preferred language
+Preferred language
+
+
 ;select
 選擇
 
@@ -362,6 +362,10 @@ Mozillian 的志工故事
 
 ;(Optional)
 （非必填）
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
 
 
 ;Start contributing
@@ -444,8 +448,8 @@ Web 相容性
 網站在地化
 
 
-;Localization tools
-在地化工具
+;I’d like to work on localization tools
+I’d like to work on localization tools
 
 
 ;Social media
@@ -522,6 +526,10 @@ Open Web 科學研究
 
 ;City
 城市
+
+
+;Events
+Events
 
 
 # Used as title of the thank you page displayed after users send the form

@@ -4,7 +4,7 @@
 ## webmaker_update ##
 ## contribute_fellowship ##
 ## hiveglobal ##
-## NOTE: https://www-demo3.allizom.org/en-US/contribute/
+## NOTE: https://www-demo3.allizom.org/contribute/
 
 
 # Used for HTML title attribute
@@ -83,8 +83,8 @@ Mozilla’da gönüllü olmak&hellip;
 
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
-;is about more than lending a hand. It’s about learning,<br> collaborating and sharing your skills with a global<br> community of Mozillians — coders, organizers, activists<br> and more — who help shape the Web every day.
-bir yardım eli uzatmaktan çok daha fazlası. Her gün Web’i<br> şekillendiren Mozillian’lardan (programcılar, organizatörler,<br>aktivistler) oluşan küresel bir toplulukla becerilerinizi<br> paylaşacak, öğrenecek, işbirliği yapacaksınız.
+;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
+bir yardım eli uzatmaktan çok daha fazlası. Her gün Web’i şekillendiren Mozillian’lardan (programcılar, organizatörler, aktivistler) oluşan küresel bir toplulukla becerilerinizi paylaşacak, öğrenecek, işbirliği yapacaksınız.
 
 
 ;See our community in action
@@ -194,10 +194,6 @@ Topluluktan haberleri alın
 # Used as title of the /stories sub-page
 ;Mozillian Stories
 Mozillian Öyküleri
-
-
-;Meet Mozilla volunteers from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
-Dünyanın her yanındaki Mozilla gönüllüleri ile tanışın. Üzerinde çalıştıkları projeleri öğrenin, şu anda nelere yardımcı olduklarını görün.
 
 
 # Used as a toggle to display more content.
@@ -352,6 +348,10 @@ E-posta adresiniz
 Ülkeniz
 
 
+;Preferred language
+Preferred language
+
+
 ;select
 seçin
 
@@ -362,6 +362,10 @@ Neden Mozilla gönüllü olmak istiyorsunuz?
 
 ;(Optional)
 (Tercihe bağlı)
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
 
 
 ;Start contributing
@@ -444,8 +448,8 @@ Web uyumlululuğu
 Web sitesi yerelleştirme
 
 
-;Localization tools
-Yerelleştirme araçları
+;I’d like to work on localization tools
+I’d like to work on localization tools
 
 
 ;Social media
@@ -522,6 +526,10 @@ Etkinlik
 
 ;City
 Şehir
+
+
+;Events
+Events
 
 
 # Used as title of the thank you page displayed after users send the form

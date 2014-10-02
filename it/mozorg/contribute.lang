@@ -4,7 +4,7 @@
 ## webmaker_update ##
 ## contribute_fellowship ##
 ## hiveglobal ##
-## NOTE: https://www-demo3.allizom.org/en-US/contribute/
+## NOTE: https://www-demo3.allizom.org/contribute/
 
 
 # Used for HTML title attribute
@@ -64,7 +64,6 @@ Eventi internazionali in programma
 lingue in continuo aumento, in ogni continente
 
 
-
 ;Join a global community of game-changers.
 Unisciti a una comunità globale e innovativa.
 
@@ -84,8 +83,8 @@ Collaborare come volontario in Mozilla&hellip;
 
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
-;is about more than lending a hand. It’s about learning,<br> collaborating and sharing your skills with a global<br> community of Mozillians — coders, organizers, activists<br> and more — who help shape the Web every day.
-Non si tratta semplicemente di darci una mano. Si tratta di diffondere la conoscenza,<br>collaborare e condividere le tue competenze in una comunità globale<br> di Mozilliani — programmatori, organizzatori, attivisti<br> e altro ancora — che contribuisce a dar forma al Web ogni giorno.
+;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
+Non si tratta semplicemente di darci una mano. Si tratta di diffondere la conoscenza, collaborare e condividere le tue competenze in una comunità globale di Mozilliani — programmatori, organizzatori, attivisti e altro ancora — che contribuisce a dar forma al Web ogni giorno.
 
 
 ;See our community in action
@@ -141,7 +140,7 @@ Leggi il nostro Manifesto
 
 
 ;Like us on Facebook
- Clicca “Mi piace” sulla nostra pagina Facebook
+Clicca “Mi piace” sulla nostra pagina Facebook
 
 
 ;Follow us on Twitter
@@ -195,10 +194,6 @@ Ricevi le ultime novità sulla comunità
 # Used as title of the /stories sub-page
 ;Mozillian Stories
 Le storie dei Mozilliani
-
-
-;Meet Mozilla volunteers from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
-Incontra i volontari Mozilla di tutto il mondo. Informati sui progetti a cui hanno contribuito e guarda in quale campo stanno collaborando ora.
 
 
 # Used as a toggle to display more content.
@@ -353,6 +348,10 @@ Indirizzo email
 Nazione
 
 
+;Preferred language
+Lingua preferita
+
+
 ;select
 seleziona
 
@@ -363,6 +362,10 @@ Perché desideri diventare un volontario Mozilla?
 
 ;(Optional)
 (facoltativo)
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+Acconsento al trattamento dei dati da parte di Mozilla secondo quanto indicato nell’<a href="%(privacy)s">informativa sulla privacy</a>
 
 
 ;Start contributing
@@ -445,8 +448,8 @@ Localizzazione prodotti
 Localizzazione siti web
 
 
-;Localization tools
-Strumenti per la localizzazione
+;I’d like to work on localization tools
+Vorrei lavorare sugli strumenti di localizzazione
 
 
 ;Social media
@@ -523,6 +526,10 @@ Evento
 
 ;City
 Città
+
+
+;Events
+Eventi
 
 
 # Used as title of the thank you page displayed after users send the form

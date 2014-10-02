@@ -4,7 +4,7 @@
 ## webmaker_update ##
 ## contribute_fellowship ##
 ## hiveglobal ##
-## NOTE: https://www-demo3.allizom.org/en-US/contribute/
+## NOTE: https://www-demo3.allizom.org/contribute/
 
 
 # Used for HTML title attribute
@@ -83,8 +83,8 @@
 
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
-;is about more than lending a hand. It’s about learning,<br> collaborating and sharing your skills with a global<br> community of Mozillians — coders, organizers, activists<br> and more — who help shape the Web every day.
-представља много више од помагања. Ради се о учењу,<br> сарађивању и дељењу ваших вештина са глобалном<br> заједницом Мозилијана — програмерима, организаторима, активистима<br> и многим другим — са онима који помажу у свакодневном обликовању веба.
+;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
+представља много више од помагања. Ради се о учењу, сарађивању и дељењу ваших вештина са глобалном заједницом Мозилијана — програмерима, организаторима, активистима и многим другим — са онима који помажу у свакодневном обликовању веба.
 
 
 ;See our community in action
@@ -112,7 +112,7 @@
 
 
 ;Stand by for an email that will connect you to the Mozilla community
-Очекујте е-пошту која ће Вас спојити са Mozilla заједницом 
+Очекујте е-пошту која ће Вас спојити са Mozilla заједницом
 
 
 ;Create your Mozillians account and share your contributions with the world
@@ -174,6 +174,7 @@ IRC канали
 ;More links
 Још веза
 
+
 ;Submit Firefox feedback
 Поднесите повратне информације о Firefox-у
 
@@ -193,10 +194,6 @@ IRC канали
 # Used as title of the /stories sub-page
 ;Mozillian Stories
 Приче Мозилијана
-
-
-;Meet Mozilla volunteers from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
-Упознајте се са волонтерима Mozilla-е широм света. Сазнајте о пројектима на којима су радили и погледајте чему тренутно доприносе.
 
 
 # Used as a toggle to display more content.
@@ -260,7 +257,7 @@ IRC канали
 
 
 ;Help make the Mozilla products you use — and love — even better.
-Помозите да учинимо Mozilla производе које користите — и волите — још бољим. 
+Помозите да учинимо Mozilla производе које користите — и волите — још бољим.
 
 
 ;Writing
@@ -351,6 +348,10 @@ IRC канали
 Држава
 
 
+;Preferred language
+Preferred language
+
+
 ;select
 изаберите
 
@@ -361,6 +362,10 @@ IRC канали
 
 ;(Optional)
 (необавезно)
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
 
 
 ;Start contributing
@@ -443,12 +448,13 @@ Firefox и Firefox OS
 Превођење веб сајтова
 
 
-;Localization tools
-Алатке за превођење
+;I’d like to work on localization tools
+I’d like to work on localization tools
 
 
 ;Social media
 Друштвене мреже
+
 
 ;Journalism
 Журналистику
@@ -520,6 +526,10 @@ Event
 
 ;City
 City
+
+
+;Events
+Events
 
 
 # Used as title of the thank you page displayed after users send the form

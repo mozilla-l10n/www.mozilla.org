@@ -4,7 +4,7 @@
 ## webmaker_update ##
 ## contribute_fellowship ##
 ## hiveglobal ##
-## NOTE: https://www-demo3.allizom.org/en-US/contribute/
+## NOTE: https://www-demo3.allizom.org/contribute/
 
 
 # Used for HTML title attribute
@@ -83,8 +83,8 @@ Se voluntario en Mozilla&hellip;
 
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
-;is about more than lending a hand. It’s about learning,<br> collaborating and sharing your skills with a global<br> community of Mozillians — coders, organizers, activists<br> and more — who help shape the Web every day.
-es más que dar una mano. Se trata de aprender,<br> colaborando y compartiendo tus habilidades con una comunidad<br> mundial de mozilleros — programadores, organizadores, activistas<br> y más — que ayudan a dar forma a la Web todos los días.
+;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
+es más que dar una mano. Se trata de aprender, colaborando y compartiendo tus habilidades con una comunidad mundial de mozilleros — programadores, organizadores, activistas y más — que ayudan a dar forma a la Web todos los días.
 
 
 ;See our community in action
@@ -196,10 +196,6 @@ Recibir actualizaciones de la comunidad
 Historias de mozilleros
 
 
-;Meet Mozilla volunteers from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
-Conoce a voluntarios de Mozilla de todo el mundo. Aprende acerca de los proyectos en los que han trabajado y mira en que están ayudando ahora.
-
-
 # Used as a toggle to display more content.
 ;More
 Más
@@ -212,6 +208,7 @@ Menos
 
 ;Read more Mozillian stories
 Leer más historias de mozilleros
+
 
 ;Discover even more stories on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
 Descubre aún más historias en Twitter con <a href="%(link_hashtag)s">#IAmAMozillian</a>
@@ -351,6 +348,10 @@ Correo
 País
 
 
+;Preferred language
+Preferred language
+
+
 ;select
 seleccionar
 
@@ -361,6 +362,10 @@ seleccionar
 
 ;(Optional)
 (Opcional)
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
 
 
 ;Start contributing
@@ -443,8 +448,8 @@ Localización de productos
 Localización de sitios Web
 
 
-;Localization tools
-Herramientas de localización
+;I’d like to work on localization tools
+I’d like to work on localization tools
 
 
 ;Social media
@@ -469,6 +474,7 @@ Documentos técnicos para complementos para Firefox
 
 ;Technical docs for HTML5 apps
 Documentos técnicos para apps en HTML5
+
 
 ;Teach the Web (Webmaker)
 Enseñar la Web (Webmaker)
@@ -520,6 +526,10 @@ Evento
 
 ;City
 Ciudad
+
+
+;Events
+Events
 
 
 # Used as title of the thank you page displayed after users send the form

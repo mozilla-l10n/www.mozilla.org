@@ -4,7 +4,7 @@
 ## webmaker_update ##
 ## contribute_fellowship ##
 ## hiveglobal ##
-## NOTE: https://www-demo3.allizom.org/en-US/contribute/
+## NOTE: https://www-demo3.allizom.org/contribute/
 
 
 # Used for HTML title attribute
@@ -83,8 +83,8 @@ Volunteer as much as you like. Or as little.<br> It’s totally up to you.
 
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
-;is about more than lending a hand. It’s about learning,<br> collaborating and sharing your skills with a global<br> community of Mozillians — coders, organizers, activists<br> and more — who help shape the Web every day.
-это больше, чем протягивание руки. Это обучение,<br> совместная работа и обмен навыками с глобальным<br> сообществом Мозилльцев — кодерами, организаторами, активистами<br> и многими другими — теми, кто каждый день помогает формировать Интернет.
+;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
+это больше, чем протягивание руки. Это обучение, совместная работа и обмен навыками с глобальным сообществом Мозилльцев — кодерами, организаторами, активистами и многими другими — теми, кто каждый день помогает формировать Интернет.
 
 
 ;See our community in action
@@ -194,10 +194,6 @@ IRC-каналы
 # Used as title of the /stories sub-page
 ;Mozillian Stories
 Истории Мозилльцев
-
-
-;Meet Mozilla volunteers from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
-Встретьтесь с волонтерами Mozilla со всего мира. Узнайте, над каким проектами они работали, и посмотрите, в чём они помогают сейчас.
 
 
 # Used as a toggle to display more content.
@@ -352,6 +348,10 @@ IRC-каналы
 Страна
 
 
+;Preferred language
+Preferred language
+
+
 ;select
 выберите
 
@@ -362,6 +362,10 @@ IRC-каналы
 
 ;(Optional)
 (Необязательно)
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
 
 
 ;Start contributing
@@ -444,8 +448,8 @@ Firefox и Firefox OS
 Локализация веб-сайтов
 
 
-;Localization tools
-Инструменты локализации
+;I’d like to work on localization tools
+I’d like to work on localization tools
 
 
 ;Social media
@@ -522,6 +526,10 @@ Firefox и Firefox OS
 
 ;City
 Город
+
+
+;Events
+Events
 
 
 # Used as title of the thank you page displayed after users send the form

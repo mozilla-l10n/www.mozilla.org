@@ -4,7 +4,7 @@
 ## webmaker_update ##
 ## contribute_fellowship ##
 ## hiveglobal ##
-## NOTE: https://www-demo3.allizom.org/en-US/contribute/
+## NOTE: https://www-demo3.allizom.org/contribute/
 
 
 # Used for HTML title attribute
@@ -83,8 +83,8 @@ Vullnetarizmi me Mozilla-n&hellip;
 
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
-;is about more than lending a hand. It’s about learning,<br> collaborating and sharing your skills with a global<br> community of Mozillians — coders, organizers, activists<br> and more — who help shape the Web every day.
-është më shumë se të japësh një dorë. Bëhet fjalë për të mësuar,<br> bashkëpunuar dhe ndarë aftësitë tuaja me një bashkësi<br> mbarëbotërore Moxillianësh — programues, organizatorë, aktivistë<br> dhe  të tjerë — që japin çdo ditë ndihmesën e tyre për t’i dhën formë Web-it.
+;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
+është më shumë se të japësh një dorë. Bëhet fjalë për të mësuar, bashkëpunuar dhe ndarë aftësitë tuaja me një bashkësi mbarëbotërore Moxillianësh — programues, organizatorë, aktivistë dhe  të tjerë — që japin çdo ditë ndihmesën e tyre për t’i dhën formë Web-it.
 
 
 ;See our community in action
@@ -194,10 +194,6 @@ Merrni përditësime bashkësie
 # Used as title of the /stories sub-page
 ;Mozillian Stories
 Shembuj Moxillianësh
-
-
-;Meet Mozilla volunteers from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
-Njihuni me vullnetarë të Mozilla-s nga anembanë bota. Mësoni rreth projekteve për të cilat kanë punuar dhe shihni se si po ndihmojnë tani.
 
 
 # Used as a toggle to display more content.
@@ -352,6 +348,10 @@ Adresa email
 Vendi
 
 
+;Preferred language
+Preferred language
+
+
 ;select
 përzgjidhni
 
@@ -362,6 +362,10 @@ Pse doni të bëheni vullnetar te Mozilla?
 
 ;(Optional)
 (Opsionale)
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
 
 
 ;Start contributing
@@ -444,8 +448,8 @@ Përkthim produktesh
 Përkthim sajti Web
 
 
-;Localization tools
-Mjete përkthimi
+;I’d like to work on localization tools
+I’d like to work on localization tools
 
 
 ;Social media
@@ -522,6 +526,10 @@ Veprimtari
 
 ;City
 Qytet
+
+
+;Events
+Events
 
 
 # Used as title of the thank you page displayed after users send the form
@@ -941,3 +949,5 @@ Provat për sigurimin e cilësisë janë një nga rrugët më të lehta për të
 # Old string, will be removed when all locales have the new text
 ;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
 Produktet Mozilla kanë një sistem të fuqishëm zgjerimesh që ju lejojnë të bëni përimtim të vockla ose shtesa të rëndësishme. Mësoni më tepër se si <a href="%(addons_url)s">të ndërtoni një shtesë</a>. Për programues të sprovuar, shihni se si <a href="%(addons_wiki)s">të bëheni një redaktor te AMO</a>.
+
+

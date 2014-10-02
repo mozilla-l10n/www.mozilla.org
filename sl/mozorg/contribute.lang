@@ -4,7 +4,7 @@
 ## webmaker_update ##
 ## contribute_fellowship ##
 ## hiveglobal ##
-## NOTE: https://www-demo3.allizom.org/en-US/contribute/
+## NOTE: https://www-demo3.allizom.org/contribute/
 
 
 # Used for HTML title attribute
@@ -83,8 +83,8 @@ Prostovoljstvo pri Mozilli ...
 
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
-;is about more than lending a hand. It’s about learning,<br> collaborating and sharing your skills with a global<br> community of Mozillians — coders, organizers, activists<br> and more — who help shape the Web every day.
-je več kot ponujanje pomoči. Gre se za učenje,<br> sodelovanje in delitev veščin z globalno skupnostjo Mozillanov - piscem kode, organizatorjem, aktivistom<br> in še drugim - tistim, ki dnevno pomagajo oblikovati splet.
+;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
+je več kot ponujanje pomoči. Gre se za učenje, sodelovanje in delitev veščin z globalno skupnostjo Mozillanov - piscem kode, organizatorjem, aktivistom in še drugim - tistim, ki dnevno pomagajo oblikovati splet.
 
 
 ;See our community in action
@@ -194,10 +194,6 @@ Dobite posodobitve iz skupnosti
 # Used as title of the /stories sub-page
 ;Mozillian Stories
 Zgodbe Mozillijanov
-
-
-;Meet Mozilla volunteers from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
-Srečajte se z Mozillinimi prostovoljci s celega sveta. Spoznajte projekte, na katerih delajo, in izvedite s čim trenutno pomagajo.
 
 
 # Used as a toggle to display more content.
@@ -352,6 +348,10 @@ E-poštni naslov
 Država
 
 
+;Preferred language
+Preferred language
+
+
 ;select
 izberite
 
@@ -362,6 +362,10 @@ Zakaj želite postati prostovoljec pri Mozilli?
 
 ;(Optional)
 (Opcija)
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
 
 
 ;Start contributing
@@ -444,8 +448,8 @@ Lokalizacija izdelkov
 Lokalizacija spletnih strani
 
 
-;Localization tools
-Lokalizacijska orodja
+;I’d like to work on localization tools
+I’d like to work on localization tools
 
 
 ;Social media
@@ -522,6 +526,10 @@ Dogodek
 
 ;City
 Mesto
+
+
+;Events
+Events
 
 
 # Used as title of the thank you page displayed after users send the form

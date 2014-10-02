@@ -4,12 +4,13 @@
 ## webmaker_update ##
 ## contribute_fellowship ##
 ## hiveglobal ##
-## NOTE: https://www-demo3.allizom.org/en-US/contribute/
+## NOTE: https://www-demo3.allizom.org/contribute/
 
 
 # Used for HTML title attribute
 ;Volunteer Opportunities at Mozilla
 Oportunidades de voluntariado na Mozilla
+
 
 # this string is used for accessibility reasons, it's not visible in the page
 ;Menu
@@ -82,8 +83,8 @@ Ser voluntário na Mozilla&hellip
 
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
-;is about more than lending a hand. It’s about learning,<br> collaborating and sharing your skills with a global<br> community of Mozillians — coders, organizers, activists<br> and more — who help shape the Web every day.
-É mais do que ajudar... É aprender,<br> colaborar e compartilher habilidades com uma comunidade mundial<br> de Mozillians - programadores, organizadores, ativistas<br>e muitos outros - que trabalham para melhorar a Web a cada dia.
+;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
+É mais do que ajudar... É aprender, colaborar e compartilher habilidades com uma comunidade mundial de Mozillians - programadores, organizadores, ativistas e muitos outros - que trabalham para melhorar a Web a cada dia.
 
 
 ;See our community in action
@@ -195,10 +196,6 @@ Receba atualizações da comunidade
 Histórias de Mozillians
 
 
-;Meet Mozilla volunteers from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
-Conheça alguns voluntários da Mozilla de todas as partes do mundo. Veja em quais projetos eles trabalharam e saiba com o que eles estão ajudando neste momento.
-
-
 # Used as a toggle to display more content.
 ;More
 Mais
@@ -211,6 +208,7 @@ Menos
 
 ;Read more Mozillian stories
 Quero ler mais histórias de Mozillians
+
 
 ;Discover even more stories on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
 Veja muitas outras histórias no Twitter com a hashtag <a href="%(link_hashtag)s">#IAmAMozillian</a>
@@ -345,8 +343,13 @@ Nome
 ;Email address
 Email
 
+
 ;Country
 País
+
+
+;Preferred language
+Preferred language
 
 
 ;select
@@ -361,11 +364,17 @@ Porque você quer ser voluntário na Mozilla?
 (Opcional)
 
 
+;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+
+
 ;Start contributing
 Comece a contribuir
 
+
 ;Sign me up for community updates
 Me coloque na lista para receber atualizações da comunidade
+
 
 ;(English)
 (Inglês)
@@ -439,8 +448,8 @@ Tradução de produtos
 Tradução de sites
 
 
-;Localization tools
-Ferramentas de tradução
+;I’d like to work on localization tools
+I’d like to work on localization tools
 
 
 ;Social media
@@ -519,6 +528,10 @@ Evento
 Cidade
 
 
+;Events
+Events
+
+
 # Used as title of the thank you page displayed after users send the form
 ;Thank you!
 Muito obrigado!
@@ -547,14 +560,18 @@ Ficamos muito felizes em ver que você está interessado em ensinar e mal podemo
 ;We’re thrilled to see that you’re interested in helping and can’t wait to get you started.
 Ficamos muito felizes em ver que você está interessado em ajudar e mal podemos esperar para te ter conosco.
 
+
 ;We’re thrilled to see that you’re interested in translating and can’t wait to get you started.
 Ficamos muito felizes em ver que você está interessado em traduzir e mal podemos esperar para te ter conosco.
+
 
 ;We’re thrilled to see that you’re interested in activism and can’t wait to get you started.
 Ficamos muito felizes em ver que você está interessado em ser ativista e mal podemos esperar para te ter conosco.
 
+
 ;We’re thrilled to see that you’re interested in volunteering and can’t wait to get you started.
 Ficamos muito felizes em ver que você está interessado em ser voluntário e mal podemos esperar para te ter conosco.
+
 
 ;Keep an eye on your inbox for an important message from us.
 Fique de olho na sua caixa de entrada, entraremos em contato em breve.

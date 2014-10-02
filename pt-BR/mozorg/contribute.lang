@@ -42,49 +42,49 @@ Seu país
 
 # This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
 ;I live in&hellip;
-Eu moro no&hellip
+Meus país é...
 
 
 ;Volunteer with Mozilla!
-Seja voluntário com a Mozilla!
+Seja voluntário na Mozilla!
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians worldwide
-Mozillians ativos no mundo inteiro
+Mozillians trabalhando no mundo inteiro
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events around the globe
-eventos programados ao redor do globo
+eventos vão acontecer ao redor do mundo
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 ;languages and counting, on every continent
-idiomas (e aumentando), em cada continente
+idiomas, e aumentando cada vez mais
 
 
 ;Join a global community of game-changers.
-Participe de uma comunidade mundial de pessoas que fazem a difrença.
+Participe de uma comunidade mundial de pessoas que fazem a diferença.
 
 
 # this br is for formatting, omit or reposition as needed
 ;Volunteer as much as you like. Or as little.<br> It’s totally up to you.
-Seja voluntário quando quiser. É você quem decide.
+Faça seu trabalho quando quiser. É você quem decide.
 
 
 # this br is for formatting, omit or reposition as needed
 ;Share your skills and pick up<br> a few new ones along the way.
-Compartilhe suas habilidades e adquira mais algumas<br> durante sua jornada.
+Compartilhe e adquira novas habilidades enquanto você contribui.
 
 
 ;Volunteering with Mozilla&hellip;
-Ser voluntário na Mozilla&hellip
+Ser voluntário na Mozilla...
 
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 ;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
-É mais do que ajudar... É aprender, colaborar e compartilher habilidades com uma comunidade mundial de Mozillians - programadores, organizadores, ativistas e muitos outros - que trabalham para melhorar a Web a cada dia.
+É mais do que ajudar... É aprender, colaborar e compartilhar habilidades com uma comunidade mundial de Mozillians (programadores, organizadores, ativistas e muitos outros) que trabalham para fazer da Web um lugar melhor para todos nós.
 
 
 ;See our community in action
@@ -92,19 +92,19 @@ Veja nossa comunidade em ação
 
 
 ;How Mozillians help every day
-Como os Mozillians ajudam todo dia
+Conheça a história de alguns Mozillians
 
 
 ;Read his story
-Leia a história dele
+Ler a história dele
 
 
 ;Read her story
-Leia a história dela
+Ler a história dela
 
 
 ;Want to get involved? Here’s how.
-Quer se envolver? Saiba como.
+Quer se envolver? É fácil
 
 
 ;Choose what interests you and tell us how you’d like to help
@@ -156,7 +156,7 @@ Ver todos os eventos
 
 
 ;Communicate
-Comunique-se
+Contatos
 
 
 ;Mozilla communities
@@ -224,11 +224,11 @@ Envolva-se: oportunidades para tornar-se voluntário na Mozilla
 
 
 ;To get started, tell us what interests you.
-Para começar, nos diga o que te interessa.
+Primeir, nos diga como você gostaria de ajudar.
 
 
 ;Choose one for now. You can always contribute to other areas later.
-Você vai escolher somente uma agora, mas poderá contribuir com outras áreas no futuro.
+Agora você vai escolher apenas uma área, mas em breve poderá contribuir com outras áreas também.
 
 
 # This text is used for accessibility reasons, it's not visible
@@ -257,7 +257,7 @@ Quero saber mais sobre testar
 
 
 ;Help make the Mozilla products you use — and love — even better.
-Ajude a fazer os produtos da Mozilla que você usa - e ama - ainda melhores.
+Ajude a fazer os produtos da Mozilla que você usa (e ama) ainda melhores.
 
 
 ;Writing
@@ -293,7 +293,7 @@ Quero saber mais sobre ajudar
 
 
 ;Provide support to users who need it and help everyone get the most out of their Mozilla products.
-Dê suporte à usuários que precisam de sua ajuda e garanta que todas as pessoas aproveitem ao máximo os produtos da Mozilla.
+Ajude usuários que precisam de sua ajuda e garanta que todas as pessoas aproveitem ao máximo os produtos da Mozilla.
 
 
 ;Translating
@@ -317,7 +317,7 @@ Quero saber mais sobre ativismo
 
 
 ;Get involved with our opportunities to support freedom, security and privacy on the open Web.
-Envolva-se com nossas oportunidades de apoiar a liberdade, segurança e privacidade na Web aberta.
+Participe de nossos movimentos para apoiar a liberdade, segurança e privacidade na Web.
 
 
 ;I don’t know
@@ -329,11 +329,11 @@ Mais maneiras de contribuir
 
 
 ;Not sure how you want to help? No problem. We can find the appropriate contribution activity for you.
-Ainda não está seguro sobre como quer ajudar? Não tem problema, nós vamos te ajudar a encontrar a atividade certa para você.
+Ainda não tem certeza sobre qual área escolher? Sem problemas, a gente te ajudar a escolher.
 
 
 ;Now tell us a little about yourself:
-Agora, que tal nos dizer um pouco mais sobre você:
+Agora, nos diga um pouco mais sobre você:
 
 
 ;Name
@@ -361,11 +361,11 @@ Porque você quer ser voluntário na Mozilla?
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
-I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+Eu concordo que a Mozilla trate essas informações conforme explicado <a href="%(privacy)s">nesta Política de Privacidade</a>.
 
 
 ;Start contributing
-Comece a contribuir
+Quero ajudar
 
 
 ;Sign me up for community updates
@@ -445,7 +445,7 @@ Tradução de sites
 
 
 ;I’d like to work on localization tools
-I’d like to work on localization tools
+Gostaria de trabalhar em ferramentas de tradução
 
 
 ;Social media
@@ -525,7 +525,7 @@ Cidade
 
 
 ;Events
-Events
+Eventos
 
 
 # Used as title of the thank you page displayed after users send the form
@@ -538,35 +538,35 @@ Obrigado!
 
 
 ;We’re thrilled to see that you’re interested in coding and can’t wait to get you started.
-Ficamos muito felizes em ver que você está interessado em codificar e mal podemos esperar para te ter conosco.
+Ficamos muito felizes em ver que você está interessado em codificar e estamos ansiosos para te ter conosco.
 
 
 ;We’re thrilled to see that you’re interested in testing and can’t wait to get you started.
-Ficamos muito felizes em ver que você está interessado em testar e mal podemos esperar para te ter conosco.
+Ficamos muito felizes em ver que você está interessado em testar e estamos ansiosos para te ter conosco.
 
 
 ;We’re thrilled to see that you’re interested in writing and can’t wait to get you started.
-Ficamos muito felizes em ver que você está interessado em escrever e mal podemos esperar para te ter conosco.
+Ficamos muito felizes em ver que você está interessado em escrever e estamos ansiosos para te ter conosco.
 
 
 ;We’re thrilled to see that you’re interested in teaching and can’t wait to get you started.
-Ficamos muito felizes em ver que você está interessado em ensinar e mal podemos esperar para te ter conosco.
+Ficamos muito felizes em ver que você está interessado em ensinar e estamos ansiosos para te ter conosco.
 
 
 ;We’re thrilled to see that you’re interested in helping and can’t wait to get you started.
-Ficamos muito felizes em ver que você está interessado em ajudar e mal podemos esperar para te ter conosco.
+Ficamos muito felizes em ver que você está interessado em ajudar e estamos ansiosos para te ter conosco.
 
 
 ;We’re thrilled to see that you’re interested in translating and can’t wait to get you started.
-Ficamos muito felizes em ver que você está interessado em traduzir e mal podemos esperar para te ter conosco.
+Ficamos muito felizes em ver que você está interessado em traduzir e estamos ansiosos para te ter conosco.
 
 
 ;We’re thrilled to see that you’re interested in activism and can’t wait to get you started.
-Ficamos muito felizes em ver que você está interessado em ser ativista e mal podemos esperar para te ter conosco.
+Ficamos muito felizes em ver que você está interessado em ser ativista e estamos ansiosos para te ter conosco.
 
 
 ;We’re thrilled to see that you’re interested in volunteering and can’t wait to get you started.
-Ficamos muito felizes em ver que você está interessado em ser voluntário e mal podemos esperar para te ter conosco.
+Ficamos muito felizes em ver que você está interessado em ser voluntário e estamos ansiosos para te ter conosco.
 
 
 ;Keep an eye on your inbox for an important message from us.
@@ -586,7 +586,7 @@ Enquanto isso&hellip;
 
 
 ;You can create your Mozillians account now to connect with fellow Mozillians.
-Você pode criar sua conta no Mozillians agora para conectar-se com outros Mozillians.
+Você pode criar uma conta no Mozillians e se conectar com nossa comunidade.
 
 
 ;Yes, create my Mozillians account
@@ -598,7 +598,7 @@ Será necessário que você faça login antes de continuar
 
 
 ;No thanks, I’ll just wait for the email
-Não, obrigado, mas vou apenas esperar o email de vocês
+Obrigado, mas vou apenas esperar o email chegar.
 
 
 ;The success of our mission depends on participation from people like you.

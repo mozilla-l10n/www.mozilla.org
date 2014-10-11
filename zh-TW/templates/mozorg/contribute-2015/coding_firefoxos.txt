@@ -1,12 +1,69 @@
-Hi,
-I'm Josh, one of many Firefox developers. Glad to hear from you! Feel free to have a look at http://whatcanidoformozilla.org/#!/progornoprog/proglang if you're interested in joining a particular project or team. Meanwhile, I'll tell you about some general opportunities for writing code for Firefox.
+Hi, 我是 MozTW 社群的 Kanru。
 
-To get started with the codebase, have a look at http://developer.mozilla.org/En/Introduction.
+歡迎您加入 Mozilla 社群的大家族。Mozilla 社群是為維護網路的自由與創新的非營利組織，也是 Firefox 的開發者。如果您想要更深入的認識 Mozilla，以下 Youtube 頻道四部短片推薦您觀看：
+http://www.youtube.com/playlist?list=PLOHV-5SHjI8hJTZ6rW-cLmPp7tzgI8bji
 
-If you need any help, you can obtain it on IRC. I recommend visiting #introduction, which is specifically for newcomers. See http://irc.mozilla.org for how to access it.
+我們 Mozilla 台灣社群（MozTW, http://moztw.org）是一群愛好網路的人，為了支持與實踐 Mozilla 宣言（ http://www.mozilla.org/about/manifesto.zh-tw.html ），聚集在一起付出與學習。我們的主要任務是推廣 Mozilla & Firefox 的理念，以及進行正體中文在地化工作（目前負責 Firefox 及 Mozilla 相關軟體、網站的正體中文翻譯）。
+目前社群的一些日常工作、以及需要各位貢獻的項目，在此頁中有條列整理。您可以看看，並且將您有興趣的部分告知我們：http://moztw.org/contribute
 
-Feel free to contact me anytime if you're having any problems! I'm jdm on IRC, or just josh@joshmatthews.net.
+如果您來自香港，我們在此也向您推介介紹香港 Mozilla 社群，歡迎看看以下幾個推廣及集人氣的 Facebook 頁面：http://fb.me/mozillahk、http://fb.me/firefoxhk。香港社群不定期會舉行一些社群聚會，到時歡迎來聊聊啊。
 
-Happy hacking,
-Josh
+以下提供您關於 Coding 方面的貢獻資訊。
 
+
+== Firefox 除錯 ==
+
+首先，Firefox 的基礎架構是 C/C++ / JS / XUL，只要了解 JS 或 CSS 就能幫 Firefox 除錯，在 Mozilla 寫軟體有蠻多面向可以選擇，例如你可以學習 Firefox 或 Thunderbird 的程式設計，主要以 C 或 C++ 為主。其實 Firefox Coding 並不難，對於剛起步的應該可以先從跑流程開始。兩個較大的挑戰是 build Firefox 與 hg version control system。
+
+您可以先參考以下介紹，了解基本概念：
+Mozilla Links 正體中文版: 摩茲動手做（一）如何幫 Firefox 抓蟲 
+http://mozlinks-zh.blogspot.com/2012/02/firefox_25.html
+
+這邊有每個步驟的詳細影片教學：http://codefirefox.com/
+
+Mozilla 對於新手貢獻程式，有一個「Good First Bug」專案，一步步協助大家嘗試解決 Firefox 的第一個 bug，你可以上 Bugs Ahoy 系統，查詢你的專長面上，有哪些 Firefox 新手 Bug 可以挑戰：http://www.joshmatthews.net/bugsahoy/
+
+
+== Firefox OS ==
+
+Firefox OS 主要有三個層次 Gonk, Gecko, Gaia：
+* Gonk: 作業系統相關，如果你有興趣 porting Firefox OS 到新裝置請參考相關文件：http://mzl.la/1hL80Ah
+* Gecko: 包含 Web API 實作以及 Browser Engine，此部份跟一般 Firefox Browser 開發相同，所作的變更也是與 Firefox Browser 共用（只是有可能預設關閉）
+* Gaia: Firefox OS 的預載 App，如 Calendar、Gallery、Music…等等，也包含 Notification 以及 Windows Manager 等系統元件。文件請直接參考 github README：https://github.com/mozilla-b2g/gaia
+
+這邊是一些由 Firefox OS 在台灣工程師整理出的新手 Bug，如果您有興趣挑戰，可以回信告訴我們，由工程師協助您一步步進行： http://mzl.la/mentor-lang-zh
+
+如果你想試著開發 Firefox OS 平台的 App，請參考 Marketplace Developer Hub 中的文件：https://marketplace.firefox.com/developers/
+
+如果您想參與 Firefox OS QA，請看 irc.mozilla.org #fxosqa 頻道。
+
+
+== HTML5 DEMO 開發 ==
+
+如果您喜歡實驗 HTML5 的最新技術，歡迎挑戰 Mozilla 開發者社群每個月不同主題的 Demo 開發比賽：https://developer.mozilla.org/zh-TW/demos/devderby
+
+
+== 網頁開發 ==
+
+此外，MozTW 在 github ( https://github.com/moztw/central ) ，還有一些網頁、以及其他 HTML5/CSS3 的專案，是可以您可以著手幫忙的部分。Issue 中有一些網站相關的 Bug、與新功能的點子，等你一起來幫忙改。
+
+
+== 其他專案 ==
+
+Mozilla 有整理了一個 What Can I Do For Mozilla 的網站，能提示您哪一些 Mozilla 的專案能運用上你感興趣的程式技能，歡迎你試試：http://whatcanidoformozilla.org/
+
+
+
+
+請先看看你對什麼比較有興趣，然後回信告訴我們，我們可以協助您更深入了解。
+
+此外，也邀請您訂閱 Mozilla 中文開發者郵件群組（https://lists.mozilla.org/listinfo/dev-general-zh）你可以在此與其他對 Mozilla 開發感興趣的朋友互相交流。關於開發方面的問題也歡迎上 irc.mozilla.org 的 #mozilla-taiwan 頻道發問，這裡有不少 Mozilla 台灣分公司的工程師與社群成員常駐。
+
+另外也歡迎訂閱社群一般事項的郵件群組，與社群的成員一起討論、分享您的想法與點子。訂閱之後，您就會開始收到大家互相討論的 email。加入群組之後歡迎發封信跟大家打個招呼喔！
+https://groups.google.com/group/moztw-general 
+
+最後，MozTW 社群目前每週五晚上 7:30，在台北有個咖啡小聚，如果您時間上允許，也歡迎來當面跟我們聊聊，地點詳情在此：http://moztw.org/events/moztw-lab/
+
+
+Kanru
+MozTW, Mozilla 台灣社群

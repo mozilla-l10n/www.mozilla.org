@@ -19,7 +19,7 @@
 
 # this br is for formatting, omit or reposition as needed
 ;Find<br> an event
-कोई ईवेंट <br> का पता लगाएं
+ईवेंट<br> का पता लगाएं
 
 
 # this br is for formatting, omit or reposition as needed
@@ -28,7 +28,7 @@
 
 
 ;Get involved
-Get involved
+शामिल हों
 
 
 ;Your country
@@ -79,7 +79,7 @@ Get involved
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 ;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
-is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
+ये एक हाथ से ज्यादा साथ देने से है |  यह सहयोग सीखने और <br>Mozillians की एक वैश्विक समुदाय के साथ <br>  अपने कौशल को साझा करने के बारे में है |coader , आयोजकों, कार्यकर्ताओं<br> और अधिक - उन लोगो के लिए जो हर दिन वेब को आकार देने में लगे है
 
 
 ;See our community in action
@@ -388,7 +388,7 @@ Mozilla से में ख़ुश हु जेसे इसने मेरी
 
 
 ;(English)
-(English)
+(अंग्रेजी में)
 
 
 ;What particular area?
@@ -424,7 +424,7 @@ Firefox OS
 
 
 ;Websites
-Websites
+वेबसाइट
 
 
 ;Firefox add-ons
@@ -540,7 +540,7 @@ Hive -समुदाय आधारित डिजिटल शिक्ष�
 
 
 ;Events
-Events
+घटना
 
 
 # Used as title of the thank you page displayed after users send the form
@@ -786,12 +786,12 @@ Mozilla में आपका स्वागत है!
 
 
 ;<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
-<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+<a href="%(oneanddone_url)s">एक से एक कार्य उठाओ </a>और उसे चालू करदे ,  डेस्कटॉप firefox <a href="%(desktopfx_url)s"> </a> परीक्षण mozilla  वेब<a href="%(websites_url)s"> साइटों पर काम अन्य परीक्षण के अवसरों के बारे में अधिक जानने </a>के लिए एक<a href="%(qateams_url)s"> टेस्ट दिवस के लिए हमारे साथ शामिल हो | </a>
 
 
 # Coding
 ;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
-<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
+<a href="%(dev_intro_url)s">डेवलपर्स </a>, नई सुविधाओं को जोड़ने के लिए हमारी प्रौद्योगिकी छोटा करने और तेजी से और दूसरों के लिए आसान विकास बनाकर मोज़िला मदद कर कते हैं | हमें अपने <a href="%(what_url)s"> पसंदीदा प्रोग्रामिंग भाषा  </a>बताएँ और हम आप के लिए परियोजना खोजेंगे |
 
 
 ;Spread the Word
@@ -812,22 +812,22 @@ Mozilla में आपका स्वागत है!
 
 # Web development
 ;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
-Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
+वेब डेवलपर्स पर हैक करने के लिए हमारी वेबसाइट खुले हैं | <a href="%(webdev_url)s"> एक वेबसाइट परियोजना का पता लगाएं</a>सुरुआत करने के लिए | <a href="%(gaia_url)s">आप  अपनी  वेब कौशल क उपयोग  हमारे नए Firefox OS की  मदद करने के लिए इस्तेमाल कर सकते है | </a>
 
 
 # Firefox Marketplace
 ;<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
-<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+खेल, संगीत, सामाजिक क्षुधा और अधिक -<a href="%(marketplace_url)s">फ़ायरफ़ॉक्स बाज़ार</a> हमे यह सामग्री प्रदान करता है यह सब एचटीएमएल 5 मानक और खुला स्रोत मूल्यों के साथ बनाये गये है | हर कौशल स्तर में <a href="%(mktcontrib_url)s">योगदान के अवसर </a>के साथ | यह  प्रभाव बनाना  आसान है!
 
 
 # Add-ons
 ;Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
-Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+Add-ons वो चीज़ है जो   Firefox को सबसे एक्स्टेंसिबल और अनुकूलन ब्राउज़र उपलब्ध बनाता है | <a href="%(addons_url)s">ऐड-ओंस  बनाना</a> सुरु करिये और जानिए अन्य <a href="%(addons_wiki)s"> योगदान करने के तरीके |</a>
 
 
 # Visual design
 ;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
-We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
+हम यह संभव कलाकारों मोज़िला से प्रेरित डिजाइन के साथ वेब और लोगों को कवर करने के लिए करना चाहते हैं. | <a href="%(creative_url)s">भाग लेने के लिए कैसे करें के बारे में अधिक जानकारी </a> के लिए रचनात्मक टीम ब्लॉग  की जाँच करें.
 
 
 # Documentation and writing
@@ -837,7 +837,7 @@ We want to make it possible for artists to cover the web and people with designs
 
 # Education
 ;Interested in helping others understand how the Web works? <a href="%(webmaker)s">Mozilla Webmaker</a> is a global community dedicated to sharing digital skills using <a href="%(webmaker_tools)s">free tools</a>, <a href="%(webmaker_resources)s">teaching resources</a> and <a href="%(webmaker_events)s">community events</a>.
-Interested in helping others understand how the Web works? <a href="%(webmaker)s">Mozilla Webmaker</a> is a global community dedicated to sharing digital skills using <a href="%(webmaker_tools)s">free tools</a>, <a href="%(webmaker_resources)s">teaching resources</a> and <a href="%(webmaker_events)s">community events</a>.
+दूसरों की मदद करने में रुचि रखते  तो सीखे वेब कैसे काम करता है ? <a href="%(webmaker)s">Mozilla वेब-मेकर</a><a href="%(webmaker_tools)s">  नि: शुल्क उपकरण</a><a href="%(webmaker_resources)s"> शिक्षण संसाधनों </a> और<a href="%(webmaker_events)s"> समुदाय की घटनाओं </a> का उपयोग कर डिजिटल कौशल साझा करने के लिए समर्पित एक वैश्विक समुदाय है |
 
 
 # Fellowships
@@ -846,7 +846,7 @@ Interested in helping others understand how the Web works? <a href="%(webmaker)s
 
 
 ;Interested in shaping the future of the open Web? Knight-Mozilla’s <a href="%(fellowship)s">OpenNews Fellowship program</a> matches emerging digital leaders with journalism opportunities to build the open Web for everyone.
-Interested in shaping the future of the open Web? Knight-Mozilla’s <a href="%(fellowship)s">OpenNews Fellowship program</a> matches emerging digital leaders with journalism opportunities to build the open Web for everyone.
+खुला वेब के भविष्य को आकार देने के इच्छुक हैं? Knight-Mozilla’s <a href="%(fellowship)s"> फैलोशिप कार्यक्रम </a>सभी के लिए खुला वेब का निर्माण करने के लिए पत्रकारिता के अवसरों के साथ डिजिटल नेताओं उभरते मेल खाता है.
 
 
 # For reference see http://hivelearningnetworks.org
@@ -856,12 +856,12 @@ Hive नेटवर्क
 
 # For reference see http://hivelearningnetworks.org
 ;<a href="%(hivenetworks)s">Hive Learning Networks</a> are a growing constellation of communities around the globe that are championing digital skills and web literacy through connected learning. <a href="%(hivenetworks)s">Learn more</a> about how to start a Hive in your community.
-<a href="%(hivenetworks)s">Hive Learning Networks</a> are a growing constellation of communities around the globe that are championing digital skills and web literacy through connected learning. <a href="%(hivenetworks)s">Learn more</a> about how to start a Hive in your community.
+<a href="%(hivenetworks)s">Hive लर्निंग नेटवर्क </a>जुड़ा शिक्षा के माध्यम से डिजिटल कौशल और वेब साक्षरता championing रहे हैं कि विश्व भर में समुदायों की बढ़ती नक्षत्र हैं. अपने समुदाय में एक <a href="%(hivenetworks)s"> Hive शुरू करने के बारे में अधिक जानें.</a>
 
 
 # Old string, will be removed when all locales have the new text
 ;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
-Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
+एक इसे समुदाय की रचना करो जहा लोगो को वेब के काम करने के तरीके के बारे में मालूम हो |<a href="%(moz_webmaker)s "> mozilla के वेब-मकर</a> प्रोजेक्ट के बारे में बताओ और दुसरो को पढना सुरु करदे , एक <a href="%(webmaker)s">घटना अपने समुदाय के आयोजीत करे </a>ताकि लोग  वेब-मेकर से रुब -रु हो सके |
 
 
 ;map
@@ -959,6 +959,6 @@ Help build a generation of webmakers by teaching others how the web works. <a hr
 
 # Old string, will be removed when all locales have the new text
 ;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
-Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
+mozilla एक शक्तिशाली विस्तार प्रणाली है. जो आपको उत्पादों आप छोटे tweaks या प्रमुख फाईल बनाने के लिए अनुमति देता है | <a href="%(addons_url)s">ऐड -ओं केसे बनाते है जाने </a> | अनुभवी डेवलपर्स के लिए, एक जाने केसे<a href="%(addons_wiki)s"> AMO संपादक बने | </a>
 
 

@@ -363,7 +363,7 @@ MicroSD upp till 4 GB
 
 
 ;112.2 x 62 x 11.95 mm
-112.2 x 62 x 11.95 mm
+112,2 x 62 x 11,95 mm
 
 
 ;120 g (4.2 oz)
@@ -408,7 +408,7 @@ QCT 8210 dubbelkärnig 1,2 GHz
 
 
 ;1.0 GHz
-1,0 GHz {ok}
+1,0 GHz
 
 
 ;Spreadtrum SC6821
@@ -416,7 +416,7 @@ Spreadtrum SC6821 {ok}
 
 
 ;Spreadtrum 6821 1.0 GHz
-Spreadtrum 6821 1.0 GHz
+Spreadtrum 6821 1,0 GHz
 
 
 # Networks
@@ -449,11 +449,11 @@ UMTS/HSDPA/HSPA/HSPA+: MSM7225A: HSPA (7,2 Mbit/s nedl. / 5,76 Mbit/s uppl.)
 
 
 ;GSM Dualband 850/1900 (4020A/E); 900/1800 (4020X/D)
-GSM Dualband 850/1900 (4020A/E); 900/1800 (4020X/D)
+GSM dubbelband 850/1900 (4020A/E); 900/1800 (4020X/D)
 
 
 ;EDGE
-EDGE
+EDGE {ok}
 
 
 ;EDGE 850/900/1800/1900 MHz
@@ -560,7 +560,7 @@ Bluetooth v2.1 {ok}
 
 
 ;Bluetooth v2.1 A2DP
-Bluetooth v2.1 A2DP
+Bluetooth v2.1 A2DP {ok}
 
 
 ;Bluetooth v2.1 EDR
@@ -577,7 +577,7 @@ Bluetooth v3.0 A2DP {ok}
 
 # Battery
 ;1000 mAh
-1000 mAh
+1000 mAh {ok}
 
 
 ;1100 mAh
@@ -621,7 +621,7 @@ Li-jon 1540 mAh
 
 
 ;7 h
-7 h
+7 tim
 
 
 ;9 h
@@ -633,7 +633,7 @@ Li-jon 1540 mAh
 
 
 ;160 h
-160 h
+160 tim
 
 
 ;176 h
@@ -670,11 +670,11 @@ Upp till 280 tim (2G)
 
 # Screen
 ;3.5" HVGA
-3,5" HVGA {ok}
+3,5" HVGA
 
 
 ;3.5" TFT HVGA
-3,5" TFT HVGA {ok}
+3,5" TFT HVGA
 
 
 ;3.5" HVGA 320 x 480 pixels, 262K color display
@@ -686,11 +686,11 @@ Upp till 280 tim (2G)
 
 
 ;4.0" WVGA
-4,0" WVGA {ok}
+4,0" WVGA
 
 
 ;4.0" HVGA
-4,0" HVGA {ok}
+4,0" HVGA
 
 
 ;4.0" WVGA 800 x 480 pixels
@@ -702,11 +702,11 @@ Upp till 280 tim (2G)
 
 
 ;4.0" 320 x 480 pixels (~144 ppi pixel density)
-4,0" 320 x 480 pixel (pixeltäthet ~144 px/tum)
+4,0" 320 x 480 pixel (pixeltäthet ca. 144 px/tum)
 
 
 ;4.5" qHD
-4,5" qHD {ok}
+4,5" qHD
 
 
 # other screen strings

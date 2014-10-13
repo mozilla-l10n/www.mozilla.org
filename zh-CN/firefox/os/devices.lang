@@ -362,6 +362,10 @@ GPS / A-GPS{ok}
 115.6 x 62 x 11.2 mm{ok}
 
 
+;112.2 x 62 x 11.95 mm
+112.2 x 62 x 11.95 mm
+
+
 ;120 g (4.2 oz)
 120 克 (4.2 oz)
 
@@ -411,6 +415,10 @@ QCT 8210 双核 1.2 GHz
 Spreadtrum SC6821{ok}
 
 
+;Spreadtrum 6821 1.0 GHz
+Spreadtrum 6821 1.0 GHz
+
+
 # Networks
 ;UMTS 900/2100 and 850/1900/2100 - 3G Data up to 7.2 Mbps DL and 384 Kbps UL
 UMTS 900/2100 and 850/1900/2100 - 3G 传输速度最高下行 7.2 Mbps 上行 384 Kbps
@@ -438,6 +446,14 @@ GSM (850/900/1800/1900){ok}
 
 ;UMTS/HSDPA/HSPA/HSPA+: MSM7225A: HSPA (7.2 Mbps DL / 5.76 Mbps UL)
 UMTS/HSDPA/HSPA/HSPA+: MSM7225A: HSPA (上行 7.2 Mbps / 下行 5.76 Mbps)
+
+
+;GSM Dualband 850/1900 (4020A/E); 900/1800 (4020X/D)
+GSM Dualband 850/1900 (4020A/E); 900/1800 (4020X/D)
+
+
+;EDGE
+EDGE
 
 
 ;EDGE 850/900/1800/1900 MHz
@@ -543,6 +559,10 @@ VGA{ok}
 蓝牙 v2.1
 
 
+;Bluetooth v2.1 A2DP
+Bluetooth v2.1 A2DP
+
+
 ;Bluetooth v2.1 EDR
 蓝牙 v2.1 EDR
 
@@ -556,6 +576,10 @@ VGA{ok}
 
 
 # Battery
+;1000 mAh
+1000 mAh
+
+
 ;1100 mAh
 1100 mAh{ok}
 
@@ -596,12 +620,20 @@ VGA{ok}
 6.7 小时
 
 
+;7 h
+7 h
+
+
 ;9 h
 9 小时
 
 
 ;9 h 20 m
 9 小时 20 分钟
+
+
+;160 h
+160 h
 
 
 ;176 h

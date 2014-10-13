@@ -362,6 +362,10 @@ MicroSD up to 4 GB
 115.6 x 62 x 11.2 mm
 
 
+;112.2 x 62 x 11.95 mm
+112.2 x 62 x 11.95 mm
+
+
 ;120 g (4.2 oz)
 120 g (4,2 oz)
 
@@ -411,6 +415,10 @@ QCT 8210 dual core 1.2 GHz
 Spreadtrum SC6821 {ok}
 
 
+;Spreadtrum 6821 1.0 GHz
+Spreadtrum 6821 1.0 GHz
+
+
 # Networks
 ;UMTS 900/2100 and 850/1900/2100 - 3G Data up to 7.2 Mbps DL and 384 Kbps UL
 UMTS 900/2100 and 850/1900/2100 - Dane 3G do 7,2 Mbps DL i 384 Kbps UL
@@ -438,6 +446,14 @@ GSM (850/900/1800/1900)
 
 ;UMTS/HSDPA/HSPA/HSPA+: MSM7225A: HSPA (7.2 Mbps DL / 5.76 Mbps UL)
 UMTS/HSDPA/HSPA/HSPA+: MSM7225A: HSPA (7,2 Mbps DL / 5,76 Mbps UL)
+
+
+;GSM Dualband 850/1900 (4020A/E); 900/1800 (4020X/D)
+GSM Dualband 850/1900 (4020A/E); 900/1800 (4020X/D)
+
+
+;EDGE
+EDGE
 
 
 ;EDGE 850/900/1800/1900 MHz
@@ -543,6 +559,10 @@ Bluetooth
 Bluetooth v2.1 {ok}
 
 
+;Bluetooth v2.1 A2DP
+Bluetooth v2.1 A2DP
+
+
 ;Bluetooth v2.1 EDR
 Bluetooth v2.1 EDR {ok}
 
@@ -556,6 +576,10 @@ Bluetooth v3.0 A2DP {ok}
 
 
 # Battery
+;1000 mAh
+1000 mAh
+
+
 ;1100 mAh
 1100 mAh {ok}
 
@@ -596,12 +620,20 @@ Li-Ion 1540 mAh {ok}
 6,7 godziny
 
 
+;7 h
+7 h
+
+
 ;9 h
 9 godzin
 
 
 ;9 h 20 m
 9 godzin 20 minut
+
+
+;160 h
+160 h
 
 
 ;176 h

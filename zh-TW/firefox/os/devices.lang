@@ -363,7 +363,7 @@ GPS / A-GPS {OK}
 
 
 ;112.2 x 62 x 11.95 mm
-112.2 x 62 x 11.95 mm
+112.2 x 62 x 11.95 mm {OK}
 
 
 ;120 g (4.2 oz)
@@ -416,7 +416,7 @@ Spreadtrum SC6821 {OK}
 
 
 ;Spreadtrum 6821 1.0 GHz
-Spreadtrum 6821 1.0 GHz
+Spreadtrum 6821 1.0 GHz {OK}
 
 
 # Networks
@@ -449,11 +449,11 @@ UMTS/HSDPA/HSPA/HSPA+: MSM7225A: HSPA（上傳 7.2 Mbps / 下載 5.76 Mbps）
 
 
 ;GSM Dualband 850/1900 (4020A/E); 900/1800 (4020X/D)
-GSM Dualband 850/1900 (4020A/E); 900/1800 (4020X/D)
+GSM 850/1900 雙頻 (4020A/E); 900/1800 (4020X/D)
 
 
 ;EDGE
-EDGE
+EDGE {OK}
 
 
 ;EDGE 850/900/1800/1900 MHz
@@ -560,7 +560,7 @@ Bluetooth v2.1 {OK}
 
 
 ;Bluetooth v2.1 A2DP
-Bluetooth v2.1 A2DP
+Bluetooth v2.1 A2DP {OK}
 
 
 ;Bluetooth v2.1 EDR
@@ -577,7 +577,7 @@ Bluetooth v3.0 A2DP {OK}
 
 # Battery
 ;1000 mAh
-1000 mAh
+1000 mAh {OK}
 
 
 ;1100 mAh
@@ -621,7 +621,7 @@ Bluetooth v3.0 A2DP {OK}
 
 
 ;7 h
-7 h
+7 小時
 
 
 ;9 h
@@ -633,7 +633,7 @@ Bluetooth v3.0 A2DP {OK}
 
 
 ;160 h
-160 h
+160 小時
 
 
 ;176 h

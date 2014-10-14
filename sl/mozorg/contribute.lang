@@ -20,17 +20,17 @@ Meni
 
 # this br is for formatting, omit or reposition as needed
 ;Why<br> volunteer
-Zakaj<br> sodelovati
+Zakaj postati<br> prostovoljec
 
 
 # this br is for formatting, omit or reposition as needed
 ;Find<br> an event
-Najdite<br> dogodek
+Poiščite<br> dogodek
 
 
 # this br is for formatting, omit or reposition as needed
 ;Meet<br> Mozillians
-Srečajte<br> Mozillijane
+Spoznajte<br> Moziljane
 
 
 ;Get involved
@@ -47,12 +47,12 @@ Vaša država
 
 
 ;Volunteer with Mozilla!
-Prostovoljstvo pri Mozilli!
+Postanite Mozillin prostovoljec!
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians worldwide
-aktivnih Mozillijanov širom sveta
+aktivnih Moziljanov širom sveta
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
@@ -62,7 +62,7 @@ prihajajočih dogodkov po svetu
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 ;languages and counting, on every continent
-jezikov in raste, na vsakem kontinentu
+jezikov in raste, na vsaki celini
 
 
 ;Join a global community of game-changers.
@@ -71,7 +71,7 @@ Pridružite se skupnosti piscev novih pravil igre.
 
 # this br is for formatting, omit or reposition as needed
 ;Volunteer as much as you like. Or as little.<br> It’s totally up to you.
-Prostovoljci do mere, ki jo sami izberete.<br> Vse je odvisno od vas.
+Sodelujte po svojih najboljših močeh.<br> Vse je odvisno od vas.
 
 
 # this br is for formatting, omit or reposition as needed
@@ -85,7 +85,7 @@ Prostovoljstvo pri Mozilli ...
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 ;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
-je več kot ponujanje pomoči. Gre se za učenje, sodelovanje in delitev veščin z globalno skupnostjo Mozillanov - piscem kode, organizatorjem, aktivistom in še drugim - tistim, ki dnevno pomagajo oblikovati splet.
+je več kot ponujanje pomoči. Gre za učenje, sodelovanje in izmenjavo veščin z globalno skupnostjo Moziljanov - programerjev, organizatorjev, aktivistov in drugih - ki dan za dnem pomagajo oblikovati splet.
 
 
 ;See our community in action
@@ -93,17 +93,17 @@ Oglejte si našo skupnost pri dejanjih
 
 
 ;How Mozillians help every day
-Kako Mozilliani vsak dan pomagajo
+Kako Moziljani vsak dan pomagajo
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Spain &middot; Activism
-Španija · Aktivisti
+Španija · Aktivizem
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Philippines &middot; Activism
-Filipini · Aktivisti
+Filipini · Aktivizem
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
@@ -125,19 +125,19 @@ Preberite njeno zgodbo
 
 
 ;Want to get involved? Here’s how.
-Se želite pridružiti? Poglejte si možnosti.
+Se želite pridružiti? Oglejte si, kako.
 
 
 ;Choose what interests you and tell us how you’d like to help
-Izberite kaj vas zanima in nam povejte, kako bi želeli pomagati
+Izberite, kaj vas zanima, in nam povejte, kako želite pomagati
 
 
 ;Stand by for an email that will connect you to the Mozilla community
-Počakajte na elektronsko pošto, ki vas bo povezala s skupnostjo Mozillijanov
+Počakajte na e-pošto, ki vas bo povezala s skupnostjo Moziljanov
 
 
 ;Create your Mozillians account and share your contributions with the world
-Ustvarite svoj račun pri Mozillijanih in delite svoje prispevke s svetom
+Ustvarite račun za Mozillians in delite svoje prispevke s svetom
 
 
 ;Get started
@@ -149,7 +149,7 @@ Začni
 
 
 ;Here are a few other ways you can support Mozilla right now.
-Prikazanih je nekaj drugih načinov, kako lahko takoj podprete Mozillo.
+Tudi na drugačen način lahko namudoma podprete Mozillo.
 
 
 ;Donate to Mozilla
@@ -157,11 +157,11 @@ Donirajte Mozilli
 
 
 ;Read our Manifesto
-Preberite si naš manifest
+Preberite naš manifest
 
 
 ;Like us on Facebook
-Všečkajte nas na Facebooku
+Všečkajte nas na FB
 
 
 ;Follow us on Twitter
@@ -173,23 +173,23 @@ Prihajajoči dogodki
 
 
 ;See all events
-Poglejte vse dogodke
+Pregled vseh dogodkov
 
 
 ;Communicate
-Komunicirajte
+Ostanite v stiku
 
 
 ;Mozilla communities
-Skupnosti Mozille
+Mozilline skupnosti
 
 
 ;Mailing lists
-Poštni seznami
+Dopisni seznami
 
 
 ;IRC channels
-IRC kanali
+IRC-kanali
 
 
 ;More links
@@ -209,12 +209,12 @@ Poiščite pomoč za Firefox
 
 
 ;Get community updates
-Pridobite novosti skupnosti
+Novice skupnosti
 
 
 # Used as title of the /stories sub-page
 ;Mozillian Stories
-Zgodbe Mozillijanov
+Zgodbe Moziljanov
 
 
 # Used as a toggle to display more content.
@@ -228,11 +228,11 @@ Manj
 
 
 ;Read more Mozillian stories
-Preberite več zgodb Mozillijanov
+Preberite več zgodb Moziljanov
 
 
 ;Discover even more stories on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
-Preberite še več zgodb na Twitterju z oznako <a href="%(link_hashtag)s">#IAmAMozillian</a>
+Odkrijte še več zgodb na Twitterju z oznako <a href="%(link_hashtag)s">#IAmAMozillian</a>
 
 
 ;More coming soon
@@ -245,11 +245,11 @@ Pridružite se: priložnosti za prostovoljce pri Mozilli
 
 
 ;To get started, tell us what interests you.
-Za začetek nam povejte, kaj vas veseli.
+Za začetek nam sporočite, kaj vas zanima.
 
 
 ;Choose one for now. You can always contribute to other areas later.
-Zaenkrat izberite eno. Kasneje boste lahko prispevali tudi na drugih območjih.
+Zaenkrat izberite eno možnost. Pozneje boste lahko prispevali tudi na drugih področjih.
 
 
 # This text is used for accessibility reasons, it's not visible
@@ -266,19 +266,19 @@ Več o programiranju
 
 
 ;Contribute code to a whole range of Mozilla products, including Firefox and Firefox OS.
-Prispevajte programsko kodo za različne Mozilline izdelke, kar obsega tudi Firefox in Firexox OS.
+Prispevajte programsko kodo za različne Mozilline izdelke, kar obsega tudi Firefox in Firefox OS.
 
 
 ;Testing
-Testiranje
+Preizkušanje
 
 
 ;More about testing
-Več o testiranju
+Več o preizkušanju
 
 
 ;Help make the Mozilla products you use — and love — even better.
-Pomagajte izdelati Mozilline izdelke, ki jih uporabljate - in obožujete - še boljše.
+Pomagajte narediti Mozilline izdelke, ki jih uporabljate — in obožujete — še boljše.
 
 
 ;Writing
@@ -290,7 +290,7 @@ Več o pisanju
 
 
 ;Lend your voice to Mozilla — from blogging and social media to providing technical documents for users and developers.
-Posodite svoj glas Mozilli - od pisanja blogov in objav na družabnih medijh do prispevanja tehničnih navodil za uporabnike in razvijalce.
+Posodite svoj glas Mozilli – od pisanja blogov in objav na družbenih omrežjih do prispevanja tehničnih navodil za uporabnike in razvijalce.
 
 
 ;Teaching
@@ -374,11 +374,11 @@ izberite
 
 
 ;Why do you want to be a Mozilla volunteer?
-Zakaj želite postati prostovoljec pri Mozilli?
+Zakaj želite postati Mozillin prostovoljec?
 
 
 ;(Optional)
-(Opcija)
+(neobvezno)
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
@@ -386,15 +386,15 @@ Strinjam se, da Mozilla obdeluje moje podatke, kot je razloženo v <a href="%(pr
 
 
 ;Start contributing
-Začnite prispevati
+Začni prispevati
 
 
 ;Sign me up for community updates
-Prijavite se na novosti skupnosti
+Prijavite se na novice skupnosti
 
 
 ;(English)
-(Angleščina)
+(angleščina)
 
 
 ;What particular area?
@@ -406,7 +406,7 @@ Kaj želite programirati?
 
 
 ;What would you like to test?
-Kaj želite testirati?
+Kaj želite preizkušati?
 
 
 ;What would you like to translate?
@@ -438,11 +438,11 @@ Dodatki za Firefox
 
 
 ;HTML5 apps
-Aplikacije HTML5
+HTML5-aplikacije
 
 
 ;Diagnosing Web compatibility issues
-Iskanje napak na spletni kompatibilnosti
+Odkrivanje težav z združljivostjo
 
 
 ;Online services
@@ -454,7 +454,7 @@ Firefox in Firefox OS
 
 
 ;Web compatibility
-Spletna kompatibilnost
+Spletna združljivost
 
 
 ;Product localization
@@ -470,7 +470,7 @@ Lokalizacija spletnih strani
 
 
 ;Social media
-Družabno omrežje
+Družbena omrežja
 
 
 ;Journalism
@@ -486,11 +486,11 @@ Tehnična dokumentacija za razvijalce
 
 
 ;Technical docs for Firefox add-ons
-Tehnična dokumentacija za Firefox dodatke
+Tehnična dokumentacija za dodatke
 
 
 ;Technical docs for HTML5 apps
-Tehnična dokumentacija za HTML5 aplikacije
+Tehnična dokumentacija za HTML5-aplikacije
 
 
 ;Teach the Web (Webmaker)
@@ -498,11 +498,11 @@ Poučujte splet (Webmaker)
 
 
 ;Open News fellowships
-Bratovščina odprtih novic
+Bratovščina Open News
 
 
 ;Hive - Community based digital education
-Panj – digitalno izobraževanje skupnosti
+Hive – digitalno izobraževanje skupnosti
 
 
 ;Open Web science research
@@ -563,7 +563,7 @@ Navdušeni smo nad vašim zanimanjem za programiranje in komaj čakamo, da začn
 
 
 ;We’re thrilled to see that you’re interested in testing and can’t wait to get you started.
-Navdušeni smo nad vašim zanimanjem za testiranje in komaj čakamo, da začnemo sodelovati.
+Navdušeni smo nad vašim zanimanjem za preizkušanje in komaj čakamo, da začnemo sodelovati.
 
 
 ;We’re thrilled to see that you’re interested in writing and can’t wait to get you started.
@@ -607,15 +607,15 @@ Medtem …
 
 
 ;You can create your Mozillians account now to connect with fellow Mozillians.
-Ustvarite si svoj račun pri Mozillijanih in se povežite s kolegi v skupnosti.
+Ustvarite lahko račun za Mozillians in se povežete z ostalimi Moziljani.
 
 
 ;Yes, create my Mozillians account
-Da, kreiraj moj račun Mozillijana
+Da, ustvari račun za Mozillians
 
 
 ;You will be asked to sign in before proceeding
-Pred nadaljevanjem vas bomo prosili, da se vpišete
+Pred nadaljevanjem vas bomo prosili, da se prijavite
 
 
 ;No thanks, I’ll just wait for the email
@@ -718,7 +718,7 @@ Pošljite nam sporočilo in kmalu lahko začnemo sodelovati.
 
 
 ;Hi, I’m interested in…
-Živjo, mene pa zanima …
+Živjo, mene zanima …
 
 
 ;I’d like to receive regular contribution news by email
@@ -758,11 +758,11 @@ Zelo nam je žal, vendar je prišlo do težave z našim sistemom. Poskusite pono
 
 
 ;Someone from Mozilla will get back to you soon with information about how to get involved. While you’re waiting, browse through some of the volunteer opportunities available below.
-Nekdo z Mozille se vam bo kmalu oglasil z informacijami, kako se nam lahko pridružite. Medtem ko čakate, pa lahko pobrskate skozi nekatere priložnosti za prostovoljce, ki so na voljo spodaj.
+Nekdo iz Mozille se vam bo kmalu oglasil z informacijami, kako se nam lahko pridružite. Medtem ko čakate, pa lahko spodaj pobrskate po nekaterih priložnostih za prostovoljce, ki so na voljo.
 
 
 ;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
-Ni potrebno obvladati C++ (ali da veste, kaj to pomeni!).<br><b>Samo radi morate imeti splet.</b>
+Za sodelovanje ni potrebno obvladati C++ (ali vedeti, kaj to pomeni!).<br><b>Samo radi morate imeti splet.</b>
 
 
 ;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
@@ -792,7 +792,7 @@ Zagotavljanje kakovosti je eden najlažjih načinov, kako začeti sodelovanje z 
 
 
 ;<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
-Začnete lahko na <a href="%(oneanddone_url)s">seznamu kratkih opravil</a>, lotite se <a href="%(desktopfx_url)s">Firefoxa za namizja</a>, <a href="%(websites_url)s">preizkusite Mozilline spletne strani</a>, <a href="%(testday_url)s">sodelujte na naših testnih dneh</a> ali pa se <a href="%(qateams_url)s">podučite o drugih možnostih zagotavljanja kakovosti</a>.
+Začnete lahko na <a href="%(oneanddone_url)s">seznamu kratkih opravil</a>, lotite se <a href="%(desktopfx_url)s">Firefoxa za namizja</a>, <a href="%(websites_url)s">preizkusite Mozilline spletne strani</a>, <a href="%(testday_url)s">sodelujte na naših preizkuševalskih dneh</a> ali pa se <a href="%(qateams_url)s">podučite o drugih možnostih zagotavljanja kakovosti</a>.
 
 
 # Coding
@@ -833,7 +833,7 @@ Zaradi dodatkov je Firefox najbolj razširljiv in prilagodljiv brskalnik. Začni
 
 # Visual design
 ;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
-Umetnikom želimo omogočiti, da pokažeju splet in ljudem z zasnove, na katere je vplivala Mozilla. Preverite <a href="%(creative_url)s">Blog kreativne ekipe</a> za več informacij, kako lahko sodelujete.
+Umetnikom želimo omogočiti, da na spletu pokažejo svoje stvaritve, navdahnjene z Mozilo. Za več informacij o sodelovanju preverite <a href="%(creative_url)s">Blog ekipe za kreativo</a>.
 
 
 # Documentation and writing
@@ -887,7 +887,7 @@ Evropa
 
 
 ;Latin America
-Južna Amerika
+Latinska Amerika
 
 
 ;Africa and the Middle East
@@ -927,7 +927,7 @@ Bistvo dostopnosti je, da stvari delujejo vsem. Pomagajte <a href="%(access_url)
 
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!
-Postanite del raziskovalne ekipe&mdash;ne glede na to, ali želite postati <a href="%(survey_url)s">udeleženec v prihajajoči študiji</a>, <a href="%(test_email)s">se sami udeležiti preizkusov uporabnosti</a>, ali <a href="%(test_pilot)s">analizirati podatke pilotskega projekta </a>&mdash;želimo si, da se nam pridružite!
+Postanite del raziskovalne ekipe – ne glede na to, ali želite postati <a href="%(survey_url)s">udeleženec v prihajajoči študiji</a>, <a href="%(test_email)s">se sami udeležiti preizkusov uporabnosti</a>, ali <a href="%(test_pilot)s">analizirati podatke pilotskega projekta </a> – želimo si, da se nam pridružite!
 
 
 ;Facebook
@@ -960,7 +960,7 @@ Ta posnetek zahteva brskalnik s podporo za odprti video ali <a href="http://www.
 
 # Old string, will be removed when all locales have the new text
 ;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
-Preizkušanje zagotavljanja kakovosti je eden od najlažjih načinov začetka z Mozillo in odličen način spoznavanja naše kode ter orodij. Pomagajte nam <a href="%(qa_bugs_url)s">uloviti hrošče</a> v Firefoxu, <a href="%(qa_web_url)s">testirajte Mozillino spletno stran</a> ali se naučite več <a href="%(qa_url)s">o ostalih preizkuševalnih priložnostih</a>.
+Zagotavljanje kakovosti je eden najlažjih načinov, kako začeti sodelovanje z Mozillo, in odlična priložnost za spoznavanje naše kode in orodij. Pomagajte nam <a href="%(qa_bugs_url)s">uloviti hrošče</a> v Firefoxu, <a href="%(qa_web_url)s">preizkušajte Mozilline spletne strani</a> ali se naučite več <a href="%(qa_url)s">o ostalih priložnostih za preizkuševalce</a>.
 
 
 # Old string, will be removed when all locales have the new text

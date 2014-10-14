@@ -1,6 +1,7 @@
 ## active ##
 ## contribute_faces ##
 ## contribute_fellowship ##
+## contribute_may_updates ##
 ## hiveglobal ##
 ## webmaker_update ##
 ## NOTE: https://www-demo3.allizom.org/contribute/
@@ -18,7 +19,7 @@
 
 # this br is for formatting, omit or reposition as needed
 ;Why<br> volunteer
-स्वयंसेवक <br> क्यों 
+स्वयंसेवक <br> क्यों
 
 
 # this br is for formatting, omit or reposition as needed
@@ -28,7 +29,7 @@
 
 # this br is for formatting, omit or reposition as needed
 ;Meet<br> Mozillians
-मोज़िल्लिंस <br>से मिलो 
+मोज़िल्लिंस <br>से मिलो
 
 
 ;Get involved
@@ -41,11 +42,11 @@
 
 # This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
 ;I live in&hellip;
-में रहता हु&hellip 
+में रहता हु&hellip;
 
 
 ;Volunteer with Mozilla!
-मोज़िला के साथ स्वयंसेवक! 
+मोज़िला के साथ स्वयंसेवक!
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
@@ -83,7 +84,7 @@
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 ;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
-ये एक हाथ से ज्यादा साथ देने से है |  यह सहयोग सीखने और <br>Mozillians की एक वैश्विक समुदाय के साथ <br>  अपने कौशल को साझा करने के बारे में है |coader , आयोजकों, कार्यकर्ताओं<br> और अधिक - उन लोगो के लिए जो हर दिन वेब को आकार देने में लगे है
+ये एक हाथ से ज्यादा साथ देने से है. यह सहयोग सीखने और Mozillians— की एक वैश्विक समुदाय के साथ अपने कौशल को साझा करने के बारे में है. coader , आयोजकों, कार्यकर्ताओ और अधिक—उन लोगो के लिए जो हर दिन वेब को आकार देने में लगे है.
 
 
 ;See our community in action
@@ -778,7 +779,7 @@ Mozilla में आपका स्वागत है!
 
 # Helping users
 ;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
-Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
+हमारे समर्थन प्रक्रिया आप जैसे उत्साही योगदानकर्ताओं पर निर्भर करता है जो दूसरों मोज़िला उत्पादों का बेहतरीन बहार लाने में मदद करता हैं. और अधिक जानकारी प्राप्त करें <a href="%(fx_support_url)s">Firefox उपयोगकर्ताओं की मदद कैसे करने </a> और <a href="%(tb_support_url)s">Thunderbird उपयोगकर्ताओं की मदद कैसे करने </a>.
 
 
 ;Quality Assurance
@@ -790,7 +791,7 @@ Our support process relies on enthusiastic contributors like you to help others 
 
 
 ;<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
-<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+<a href="%(oneanddone_url)s">एक और किया हुआ से एक कार्य उठाओ </a> आरंभ करने के लिए, इस पर काम करे <a href="%(desktopfx_url)s">डेस्कटॉप Firefox</a>, <a href="%(websites_url)s">Mozilla वेब साइट का परीक्षण करें</a>, <a href="%(testday_url)s">एक टेस्ट दिवस के लिए हमारे साथ शामिल हों</a>, or <a href="%(qateams_url)s">अन्य परीक्षण अवसरों के बारे में अधिक जानने</a>.
 
 
 # Coding

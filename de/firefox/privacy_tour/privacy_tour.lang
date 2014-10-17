@@ -92,7 +92,7 @@ Schließen
 
 
 # STEP 1 of the tour (Forget button)
-# %s will be replaced by an add-on name
+# %s is a searchplugin name
 ;<span>Next:</span> %s
 <span>Weiter:</span> %s
 
@@ -140,7 +140,7 @@ Jetzt ist Sie da, wann immer Sie sie brauchen. Um Sie zu verschieben oder zu ent
 Möchten Sie sie später hinzufügen? Öffnen Sie dieses Menü und wählen Sie Anpassen. Ziehen Sie sie (oder jede andere Schaltfläche) dann dahin, wo Sie sie benötigen.
 
 
-# STEP 2 of the tour (add-on)
+# STEP 2 of the tour (search engines)
 ;<span>Previous:</span> Forget
 <span>Zurück:</span> Löschen
 
@@ -149,7 +149,7 @@ Möchten Sie sie später hinzufügen? Öffnen Sie dieses Menü und wählen Sie A
 <span>Weiter:</span> Privater Modus
 
 
-# %s will be replaced by an add-on name. <br> tag below used for formatting only.
+# %s is a searchplugin name. <br> tag below used for formatting only.
 ;%s lets you <br>search anonymously
 Mit %s können Sie <br>anonym suchen
 
@@ -166,7 +166,7 @@ Machen Sie sie (oder eine andere) zu Ihrem Standard
 Finden Sie, was Sie suchen – auf Ihre Weise
 
 
-# %s will be replaced by an add-on name
+# %s is a searchplugin name
 ;<span>Previous:</span> %s
 <span>Zurück:</span> %s
 

@@ -15,6 +15,7 @@
 ;Let’s go
 出發吧
 
+
 # This is the label for a button that delays starting the tour
 ;Not now
 現在不要
@@ -91,7 +92,7 @@
 
 
 # STEP 1 of the tour (Forget button)
-# %s will be replaced by an add-on name
+# %s is a searchplugin name
 ;<span>Next:</span> %s
 <span>下一個:</span> %s
 
@@ -139,7 +140,7 @@
 想要稍後再放嗎？打開這個選單並選擇「自訂」，然後把「忘記」按鈕（或任何其他按鈕）拖到您想要的位置即可。
 
 
-# STEP 2 of the tour (add-on)
+# STEP 2 of the tour (search engines)
 ;<span>Previous:</span> Forget
 <span>上一個:</span>「忘記」按鈕
 
@@ -148,7 +149,7 @@
 <span>下一個:</span> 隱私瀏覽
 
 
-# %s will be replaced by an add-on name. <br> tag below used for formatting only.
+# %s is a searchplugin name. <br> tag below used for formatting only.
 ;%s lets you <br>search anonymously
 %s 讓您能<br>匿名搜尋
 
@@ -165,7 +166,7 @@
 用您的方式尋找您想要的東西
 
 
-# %s will be replaced by an add-on name
+# %s is a searchplugin name
 ;<span>Previous:</span> %s
 <span>上一個:</span> %s
 

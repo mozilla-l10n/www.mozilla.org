@@ -1,0 +1,622 @@
+## active ##
+## NOTE: https://www-dev.allizom.org/contribute/
+
+
+# Used for HTML title attribute
+;Volunteer Opportunities at Mozilla
+Возможности для волонтеров в Mozilla
+
+
+# this string is used for accessibility reasons, it's not visible in the page
+;Menu
+Меню
+
+
+# this br is for formatting, omit or reposition as needed
+;Why<br> volunteer
+Зачем<br> помогать
+
+
+# this br is for formatting, omit or reposition as needed
+;Find<br> an event
+Найти<br> мероприятие
+
+
+# this br is for formatting, omit or reposition as needed
+;Meet<br> Mozillians
+Встретьте<br> Мозилльцев
+
+
+;Get involved
+Примите участие
+
+
+;Your country
+Ваша страна
+
+
+# This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
+;I live in&hellip;
+Я живу в&hellip;
+
+
+;Volunteer with Mozilla!
+Станьте волонтером Mozilla!
+
+
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;active Mozillians worldwide
+активных Мозилльцев по всему миру
+
+
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;upcoming events around the globe
+предстоящих мероприятий по всему миру
+
+
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
+;languages and counting, on every continent
+языков на всех континентах
+
+
+;Join a global community of game-changers.
+Присоединяйтесь к глобальное сообществу тех, кто меняет правила игры.
+
+
+# this br is for formatting, omit or reposition as needed
+;Volunteer as much as you like. Or as little.<br> It’s totally up to you.
+Помогайте в той мере, в какой вы этого хотите. <br> Это зависит только от вас.
+
+
+# this br is for formatting, omit or reposition as needed
+;Share your skills and pick up<br> a few new ones along the way.
+Поделитесь своими навыками и по пути<br> приобретите несколько новых.
+
+
+;Volunteering with Mozilla&hellip;
+Волонтерство в Mozilla&hellip;
+
+
+# This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
+;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
+это больше, чем протягивание руки. Это обучение, совместная работа и обмен навыками с глобальным сообществом Мозилльцев — кодерами, организаторами, активистами и многими другими — теми, кто каждый день помогает формировать Интернет.
+
+
+;See our community in action
+Посмотрите на наше сообщество в действии
+
+
+;How Mozillians help every day
+Как Мозилльцы помогают каждый день
+
+
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
+;Spain &middot; Activism
+Испания &middot; Активизм
+
+
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
+;Philippines &middot; Activism
+Филиппины &middot; Активизм
+
+
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
+;Switzerland &middot; Coding
+Швейцария &middot; Разработка
+
+
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
+;India &middot; Teaching
+Индия &middot; Преподавание
+
+
+;Read his story
+Прочтите его историю
+
+
+;Read her story
+Прочтите её историю
+
+
+;Want to get involved? Here’s how.
+Хотите принять участие? Вот как это сделать.
+
+
+;Choose what interests you and tell us how you’d like to help
+Выберите то, что вас интересует и расскажите, как бы вы хотели помочь
+
+
+;Stand by for an email that will connect you to the Mozilla community
+Приготовьтесь получить письмо, которое соединит вас с сообществом Mozilla
+
+
+;Create your Mozillians account and share your contributions with the world
+Создайте учётную запись Мозилльца и поделитесь своим вкладом со всем миром
+
+
+;Get started
+Начать
+
+
+;Not ready to dive in just yet?
+Не готовы пока нырять с головой?
+
+
+;Here are a few other ways you can support Mozilla right now.
+Вот несколько способов, которыми вы можете сейчас поддержать Mozilla.
+
+
+;Donate to Mozilla
+Сделать пожертвование для Mozilla
+
+
+;Read our Manifesto
+Прочтите наш манифест
+
+
+;Like us on Facebook
+Лайкнуть нас на Фейсбук
+
+
+;Follow us on Twitter
+Следовать за нами на Твиттер
+
+
+;Upcoming event
+Предстоящее мероприятие
+
+
+;See all events
+Показать все мероприятия
+
+
+;Communicate
+Связь
+
+
+;Mozilla communities
+Сообщества Mozilla
+
+
+;Mailing lists
+Списки рассылки
+
+
+;IRC channels
+IRC-каналы
+
+
+;More links
+Другие ссылки
+
+
+;Submit Firefox feedback
+Отправить отзыв на Firefox
+
+
+;Explore Mozilla careers
+Узнать о вакансиях в Mozilla
+
+
+;Get help with Firefox
+Получить помощь с Firefox
+
+
+;Get community updates
+Получить обновления сообщества
+
+
+# Used as title of the /stories sub-page
+;Mozillian Stories
+Истории Мозилльцев
+
+
+# Used as a toggle to display more content.
+;More
+Больше
+
+
+# Used as a toggle to display less content.
+;Less
+Меньше
+
+
+;Read more Mozillian stories
+Прочесть больше историй Мозилльцев
+
+
+;Discover even more stories on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
+Откройте ещё больше историй на Твиттере с тегом <a href="%(link_hashtag)s">#IAmAMozillian</a>
+
+
+;More coming soon
+Скоро будет больше
+
+
+# Used as title of the /signup sub-page
+;Get Involved: Volunteer Opportunities at Mozilla
+Примите участие: Возможности для добровольцев в Mozilla
+
+
+;To get started, tell us what interests you.
+Для начала расскажите, что вас интересует.
+
+
+;Choose one for now. You can always contribute to other areas later.
+Выберите пока одно. Вы всегда можете попозже помочь в других областях.
+
+
+# This text is used for accessibility reasons, it's not visible
+;Where would you like to get started?
+Где бы вы хотели начать?
+
+
+;Coding
+Разработка
+
+
+;More about coding
+Подробнее о разработке
+
+
+;Contribute code to a whole range of Mozilla products, including Firefox and Firefox OS.
+Помогите в написании кода для целого ряда продуктов Mozilla, включая Firefox и Firefox OS.
+
+
+;Testing
+Тестирование
+
+
+;More about testing
+Подробнее о тестировании
+
+
+;Help make the Mozilla products you use — and love — even better.
+Помогите сделать продукты Mozilla, которые вы используете — и любите — ещё лучше.
+
+
+;Writing
+Писательство
+
+
+;More about writing
+Подробнее о писательстве
+
+
+;Lend your voice to Mozilla — from blogging and social media to providing technical documents for users and developers.
+Станьте ​​голосом Mozilla — от блогов и социальных медиа до написания технических документов для пользователей и разработчиков.
+
+
+;Teaching
+Преподавание
+
+
+;More about teaching
+Подробнее о преподавании
+
+
+;Share your skills with a community that’s eager to learn. Take advantage of our free tools, teaching resources and events.
+Поделитесь своими навыками с сообществом, которое хочет учиться. Воспользуйтесь нашими бесплатными инструментами, учебным материалом и мероприятиями.
+
+
+;Helping
+Помощь
+
+
+;More about helping
+Подробнее о помощи
+
+
+;Provide support to users who need it and help everyone get the most out of their Mozilla products.
+Предоставьте поддержку пользователям и помогите каждому из них получить максимальную отдачу от продуктов Mozilla.
+
+
+;Translating
+Перевод
+
+
+;More about translating
+Подробнее о переводе
+
+
+;Help make Mozilla stuff available in other languages. Translate everything from newsletters and websites to copy for Firefox and Firefox OS.
+Помогите обеспечить доступ к материалам Mozilla на других языках. Переводите всё, от бюллетеней и веб-сайтов до интерфейса Firefox и Firefox OS.
+
+
+;Activism
+Активизм
+
+
+;More about activism
+Подробнее об активизме
+
+
+;Get involved with our opportunities to support freedom, security and privacy on the open Web.
+Примите участие в наших сообществах, чтобы поддержать свободу, безопасность и приватность для открытого Интернета.
+
+
+;I don’t know
+Я не знаю
+
+
+;More about how you can contribute
+Подробнее о том, как вы можете помочь
+
+
+;Not sure how you want to help? No problem. We can find the appropriate contribution activity for you.
+Не уверены, как вы хотите помочь? Нет проблем. Мы можем найти для вас подходящую область деятельности.
+
+
+;Now tell us a little about yourself:
+Теперь расскажите немного о себе:
+
+
+;Name
+Имя
+
+
+;Email address
+Адрес электронной почты
+
+
+;Country
+Страна
+
+
+;select
+выберите
+
+
+;Why do you want to be a Mozilla volunteer?
+Почему вы хотите быть волонтером Mozilla?
+
+
+;(Optional)
+(Необязательно)
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+Я согласен с тем, как Mozilla обращается с моей информацией, согласно <a href="%(privacy)s">этой Политике приватности</a>
+
+
+;Start contributing
+Начать помогать
+
+
+;Sign me up for community updates
+Подпишите меня на обновления сообщества
+
+
+;(English)
+(на английском)
+
+
+;What particular area?
+В какой области?
+
+
+;What would you like to code?
+Что бы вы хотели разрабатывать?
+
+
+;What would you like to test?
+Что бы вы хотели тестировать?
+
+
+;What would you like to translate?
+Что бы вы хотели переводить?
+
+
+;What would you like to write?
+В какой области вы бы хотели писать?
+
+
+;What would you like to teach?
+Что бы вы хотели преподавать?
+
+
+;Firefox
+Firefox {ok}
+
+
+;Firefox OS
+Firefox OS {ok}
+
+
+;Websites
+Веб-сайты
+
+
+;Firefox add-ons
+Дополнения Firefox
+
+
+;HTML5 apps
+Приложения HTML5
+
+
+;Diagnosing Web compatibility issues
+Диагностика проблем веб-совместимости
+
+
+;Online services
+Онлайн-сервисы
+
+
+;Firefox and Firefox OS
+Firefox и Firefox OS
+
+
+;Web compatibility
+Веб-совместимость
+
+
+;Product localization
+Локализация продуктов
+
+
+;Website localization
+Локализация веб-сайтов
+
+
+;I’d like to work on localization tools
+Я хотел бы работать над инструментами локализации
+
+
+;Social media
+Социальные медиа
+
+
+;Journalism
+Журналистика
+
+
+;Technical docs for users
+Техническая документация для пользователей
+
+
+;Technical docs for developers
+Техническая документация для разработчиков
+
+
+;Technical docs for Firefox add-ons
+Техническая документация для дополнений Firefox
+
+
+;Technical docs for HTML5 apps
+Техническая документация для приложений HTML5
+
+
+;Teach the Web (Webmaker)
+Преподавание Интернета (Вебмейкер)
+
+
+;Open News fellowships
+Содружества Открытых Новостей
+
+
+;Hive - Community based digital education
+Улей - Совместное цифровое образование
+
+
+;Open Web science research
+Научное исследование открытого Интернета
+
+
+;Community Events
+Мероприятия сообщества
+
+
+;Find events
+Найти мероприятия
+
+
+;By city, country, or event:
+По городу, стране или мероприятию:
+
+
+;By date:
+По дате:
+
+
+;month
+месяц
+
+
+;year
+год
+
+
+;Date
+Дата
+
+
+;Event
+Мероприятие
+
+
+;Location
+Местоположение
+
+
+;City
+Город
+
+
+;Events
+Мероприятия
+
+
+# Used as title of the thank you page displayed after users send the form
+;Thank you!
+Спасибо!
+
+
+;Thanks!
+Спасибо!
+
+
+;We’re thrilled to see that you’re interested in coding and can’t wait to get you started.
+Мы очень рады видеть, что вы заинтересованы в разработке, и с нетерпением ждём начала работы.
+
+
+;We’re thrilled to see that you’re interested in testing and can’t wait to get you started.
+Мы очень рады видеть, что вы заинтересованы в тестировании, и с нетерпением ждём начала работы.
+
+
+;We’re thrilled to see that you’re interested in writing and can’t wait to get you started.
+Мы очень рады видеть, что вы заинтересованы в писательстве, и с нетерпением ждём начала работы.
+
+
+;We’re thrilled to see that you’re interested in teaching and can’t wait to get you started.
+Мы очень рады видеть, что вы заинтересованы в преподавании, и с нетерпением ждём начала работы.
+
+
+;We’re thrilled to see that you’re interested in helping and can’t wait to get you started.
+Мы очень рады видеть, что вы заинтересованы в оказании помощи, и с нетерпением ждём начала работы.
+
+
+;We’re thrilled to see that you’re interested in translating and can’t wait to get you started.
+Мы очень рады видеть, что вы заинтересованы в переводе, и с нетерпением ждём начала работы.
+
+
+;We’re thrilled to see that you’re interested in activism and can’t wait to get you started.
+Мы очень рады видеть, что вы заинтересованы в активизме, и с нетерпением ждём начала работы.
+
+
+;We’re thrilled to see that you’re interested in volunteering and can’t wait to get you started.
+Мы очень рады видеть, что вы заинтересованы стать добровольцем, и с нетерпением ждём начала работы.
+
+
+;Keep an eye on your inbox for an important message from us.
+Следите за своим почтовым ящиком - у нас для вас будет важное сообщение.
+
+
+;Hello!
+Привет!
+
+
+;Your Name
+Ваше имя
+
+
+;In the meantime&hellip;
+Тем временем&hellip;
+
+
+;You can create your Mozillians account now to connect with fellow Mozillians.
+Вы можете создать учётную запись Мозилльца, чтобы связаться с другими Мозилльцами.
+
+
+;Yes, create my Mozillians account
+Да, создать мою учётную запись Мозилльца
+
+
+;You will be asked to sign in before proceeding
+Перед продолжением вам будет предложено войти
+
+
+;No thanks, I’ll just wait for the email
+Нет, спасибо, я просто подожду письма
+
+

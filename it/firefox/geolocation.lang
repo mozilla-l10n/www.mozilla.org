@@ -23,7 +23,7 @@ Che cosa si intende con navigazione geolocalizzata?
 
 
 ;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
-Un sito web che utilizza la navigazione geolocalizzata potrà richiedere la tua posizione per offrire informazioni più rilevanti e ricerche più rapide. Ipotizziamo che tu stia cercando una pizzeria vicino a dove ti trovi. Il sito potrà chiederti di comunicare la tua posizione e fare in modo che, cercando "pizza", vengano mostrati solo risultati utili… senza bisogno di digitare nessun’altra informazione.
+Un sito web che utilizza la navigazione geolocalizzata potrà richiedere la tua posizione per offrire informazioni più rilevanti e ricerche più rapide. Ipotizziamo che tu stia cercando una pizzeria vicino a dove ti trovi. Il sito potrà chiederti di comunicare la tua posizione e fare in modo che, cercando “pizza”, vengano mostrati solo risultati utili… senza bisogno di digitare nessun’altra informazione.
 
 
 ;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
@@ -83,7 +83,7 @@ Un codice identificativo casuale del client, assegnato da Google, che scade ogni
 
 
 ;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
-Per una descrizione completa delle informazioni raccolte e utilizzate da Firefox, fai riferimento all’<a href="%(url)s">informativa sulla privacy di Firefox</a> (in inglese).
+Per una descrizione completa delle informazioni raccolte e utilizzate da Firefox, fai riferimento all’<a href="%(url)s">Informativa sulla privacy di Firefox</a>.
 
 
 ;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
@@ -147,7 +147,7 @@ Modifica le impostazioni della sezione <em>Comunicare la posizione</em>.
 
 
 ;How do I clear the “random client identification number”?
-Come posso reimpostare il "codice identificativo casuale del client”?
+Come posso reimpostare il ’codice identificativo casuale del client”?
 
 
 ;Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>
@@ -171,7 +171,7 @@ Come posso disattivare definitivamente la navigazione geolocalizzata?
 
 
 ;Location-Aware Browsing is always opt-in in Firefox. No location information is ever sent without your permission. If you wish to disable the feature completely, please follow this set of steps:
-In Firefox la navigazione geolocalizzata è una funzione attivata solo "a richiesta". Non viene mai inviata alcuna informazione relativa alla posizione senza il tuo esplicito consenso. Se vuoi disattivare completamente questa funzione, segui queste istruzioni:
+In Firefox la navigazione geolocalizzata è una funzione attivata solo “a richiesta”. Non viene mai inviata alcuna informazione relativa alla posizione senza il tuo esplicito consenso. Se vuoi disattivare completamente questa funzione, segui queste istruzioni:
 
 
 ;In the URL bar, type <code>about:config</code>

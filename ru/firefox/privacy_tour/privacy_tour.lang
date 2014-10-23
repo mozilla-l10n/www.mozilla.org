@@ -3,201 +3,201 @@
 
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
-See what’s new
+Ознакомиться с новинками
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
 ;You’re up to date with the latest features to help keep you in control.
-You’re up to date with the latest features to help keep you in control.
+Теперь вы в курсе новейших функций, которые помогут вам поддерживать контроль.
 
 
 # This is the label for a button that starts the tour
 ;Let’s go
-Let’s go
+Вперёд
 
 
 # This is the label for a button that delays starting the tour
 ;Not now
-Not now
+Не сейчас
 
 
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
-Open tour
+Открыть тур
 
 
 # This is the label for a button that closes the tour modal dialog
 ;Close tour
-Close tour
+Закрыть тур
 
 
 # This is the text for a call to action that appears in the web page
 ;See the newest ways you can take control of your digital life
-See the newest ways you can take control of your digital life
+Ознакомьтесь с последними новинками, которые помогут вам взять под контроль свою цифровую жизнь
 
 
 # This is the label that represents tour step one of three
 ;1/3
-1/3
+1/3 {ok}
 
 
 # This is the label that represents tour step two of three
 ;2/3
-2/3
+2/3 {ok}
 
 
 # This is the label that represents tour step three of three
 ;3/3
-3/3
+3/3 {ok}
 
 
 ;Declare your independence
-Declare your independence
+Объявите о своей независимости
 
 
 ;Thank you for choosing Firefox
-Thank you for choosing Firefox
+Благодарим вас за выбор Firefox
 
 
 ;Watch the video to see our story
-Watch the video to see our story
+Посмотрите видео, чтобы увидеть нашу историю
 
 
 ;Now share it with your world
-Now share it with your world
+Теперь поделитесь им с вашим миром
 
 
 ;Play
-Play
+Воспроизвести
 
 
 ;Play the video
-Play the video
+Воспроизвести видео
 
 
 ;Replay the video
-Replay the video
+Повторить видео
 
 
 ;Share
-Share
+Поделиться
 
 
 ;Share the video
-Share the video
+Поделиться видео
 
 
 ;Start browsing
-Start browsing
+Начать веб-сёрфинг
 
 
 ;Previous
-Previous
+Назад
 
 
 ;Next
-Next
+Далее
 
 
 ;Close
-Close
+Закрыть
 
 
 # STEP 1 of the tour (Forget button)
 # %s is a searchplugin name
 ;<span>Next:</span> %s
-<span>Next:</span> %s
+<span>Далее:</span> %s
 
 
 # <br> tag below used for formatting only.
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 # http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 ;Use Forget to cover your tracks or escape from sites you don’t trust
-Use Forget to cover your tracks or escape from sites you don’t trust
+Используйте функцию Забыть, чтобы замести следы или сбежать с сайтов, которым вы не доверяете
 
 
 ;Remove browsing history from your computer
-Remove browsing history from your computer
+Удаляет историю веб-сёрфинга с вашего компьютера
 
 
 ;Erase website information after the fact
-Erase website information after the fact
+Стирает информацию веб-сайтов после посещения
 
 
 ;Add it above for quick, easy access
-Add it above for quick, easy access
+Добавьте её наверх для быстрого, легкого доступа
 
 
 ;The new Forget button
-The new Forget button
+Новая кнопка Забыть
 
 
 ;Want to cover your tracks? Activate the Forget button and leave no trace.
-Want to cover your tracks? Activate the Forget button and leave no trace.
+Хотите замести следы? Нажмите на кнопку Забыть и вы не оставите следов.
 
 
 ;Add it now
-Add it now
+Добавить её сейчас
 
 
 ;Later
-Later
+Позже
 
 
 ;Now it’s here whenever you need it. To move or remove it, just open the menu and select Customize.
-Now it’s here whenever you need it. To move or remove it, just open the menu and select Customize.
+Теперь она здесь, когда она понадобится. Для её перемещения или удаления просто откройте меню и выберите Изменить.
 
 
 ;Want to add it later? Open this menu and select Customize. Then drag it (or any other button) where you want.
-Want to add it later? Open this menu and select Customize. Then drag it (or any other button) where you want.
+Хотите добавить её позже? Откройте это меню и выберите Изменить. Затем перетащите её (или любую другую кнопку), куда хотите.
 
 
 # STEP 2 of the tour (search engines)
 ;<span>Previous:</span> Forget
-<span>Previous:</span> Forget
+<span>Назад:</span> Забыть
 
 
 ;<span>Next:</span> Private Browsing
-<span>Next:</span> Private Browsing
+<span>Далее:</span> Приватный веб-сёрфинг
 
 
 # %s is a searchplugin name. <br> tag below used for formatting only.
 ;%s lets you <br>search anonymously
-%s lets you <br>search anonymously
+%s даёт вам возможность <br> анонимного поиска
 
 
 ;Get great results with less tracking
-Get great results with less tracking
+Отличные результаты - и меньше отслеживания
 
 
 ;Make it (or any other) your default
-Make it (or any other) your default
+Установите его (или любой другой) по умолчанию
 
 
 ;Find what you’re looking for, your way
-Find what you’re looking for, your way
+Находит то, что вы ищете, на ваших условиях
 
 
 # %s is a searchplugin name
 ;<span>Previous:</span> %s
-<span>Previous:</span> %s
+<span>Назад:</span> %s
 
 
 # STEP 3 of the tour (Private Browsing)
 # <br> tag below used for formatting only.
 ;Private Browsing: <br>Our original privacy tool
-Private Browsing: <br>Our original privacy tool
+Приватный веб-сёрфинг: <br>Наш оригинальный инструмент для приватности
 
 
 ;Keep history and other info off your computer
-Keep history and other info off your computer
+Не храните историю и другую информацию на вашем компьютере
 
 
 ;Browse without recording where you’ve been
-Browse without recording where you’ve been
+Сёрфите, не ведя журнал мест, где вы побывали
 
 
 ;So others using your computer can’t see it
-So others using your computer can’t see it
+Чтобы другие, использующие ваш компьютер, ничего не увидели
 
 

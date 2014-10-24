@@ -3,32 +3,32 @@
 
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
-See what’s new
+新機能のご紹介
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
 ;You’re up to date with the latest features to help keep you in control.
-You’re up to date with the latest features to help keep you in control.
+お使いの Firefox には、いくつかの新機能が追加されています。
 
 
 # This is the label for a button that starts the tour
 ;Let’s go
-Let’s go
+詳しく見る
 
 
 # This is the label for a button that delays starting the tour
 ;Not now
-Not now
+今は見ない
 
 
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
-Open tour
+ツアーを始める
 
 
 # This is the label for a button that closes the tour modal dialog
 ;Close tour
-Close tour
+ツアーを閉じる
 
 
 # This is the text for a call to action that appears in the web page
@@ -38,17 +38,17 @@ See the newest ways you can take control of your digital life
 
 # This is the label that represents tour step one of three
 ;1/3
-1/3
+1/3{ok}
 
 
 # This is the label that represents tour step two of three
 ;2/3
-2/3
+2/3{ok}
 
 
 # This is the label that represents tour step three of three
 ;3/3
-3/3
+3/3{ok}
 
 
 ;Declare your independence
@@ -56,7 +56,7 @@ Declare your independence
 
 
 ;Thank you for choosing Firefox
-Thank you for choosing Firefox
+Firefox を利用いただきありがとうございます。
 
 
 ;Watch the video to see our story
@@ -68,136 +68,136 @@ Now share it with your world
 
 
 ;Play
-Play
+再生
 
 
 ;Play the video
-Play the video
+動画を再生する
 
 
 ;Replay the video
-Replay the video
+もう一度再生する
 
 
 ;Share
-Share
+シェア
 
 
 ;Share the video
-Share the video
+動画をシェアする
 
 
 ;Start browsing
-Start browsing
+ブラウジングを開始
 
 
 ;Previous
-Previous
+戻る
 
 
 ;Next
-Next
+進む
 
 
 ;Close
-Close
+閉じる
 
 
 # STEP 1 of the tour (Forget button)
 # %s is a searchplugin name
 ;<span>Next:</span> %s
-<span>Next:</span> %s
+<span>次：</span> %s
 
 
 # <br> tag below used for formatting only.
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 # http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 ;Use Forget to cover your tracks or escape from sites you don’t trust
-Use Forget to cover your tracks or escape from sites you don’t trust
+「今見たページのこと、忘れて！」を実現する忘却ボタン
 
 
 ;Remove browsing history from your computer
-Remove browsing history from your computer
+ブラウジングした履歴を削除できます
 
 
 ;Erase website information after the fact
-Erase website information after the fact
+後から Web サイトに関する情報を削除できます
 
 
 ;Add it above for quick, easy access
-Add it above for quick, easy access
+カスタマイズして、素早く、簡単にこの機能を使えるようにしましょう
 
 
 ;The new Forget button
-The new Forget button
+今のこと、忘れて！
 
 
 ;Want to cover your tracks? Activate the Forget button and leave no trace.
-Want to cover your tracks? Activate the Forget button and leave no trace.
+サイトの閲覧履歴を削除するならボタン。跡形もなく消し去ります。
 
 
 ;Add it now
-Add it now
+今すぐ追加する
 
 
 ;Later
-Later
+追加しない
 
 
 ;Now it’s here whenever you need it. To move or remove it, just open the menu and select Customize.
-Now it’s here whenever you need it. To move or remove it, just open the menu and select Customize.
+ボタンが追加されました。メニューからカスタマイズを選ぶことで、場所の移動や削除ができます。
 
 
 ;Want to add it later? Open this menu and select Customize. Then drag it (or any other button) where you want.
-Want to add it later? Open this menu and select Customize. Then drag it (or any other button) where you want.
+後から追加する場合は、メニューを開きカスタマイズを選ぶと、ドラッグ＆ドロップでボタンを追加できます。
 
 
 # STEP 2 of the tour (search engines)
 ;<span>Previous:</span> Forget
-<span>Previous:</span> Forget
+<span>前：</span> 忘却ボタン
 
 
 ;<span>Next:</span> Private Browsing
-<span>Next:</span> Private Browsing
+<span>次：</span> プライベートブラウジング
 
 
 # %s is a searchplugin name. <br> tag below used for formatting only.
 ;%s lets you <br>search anonymously
-%s lets you <br>search anonymously
+%s を利用した匿名での検索
 
 
 ;Get great results with less tracking
-Get great results with less tracking
+トラッキングされることなく、検索できます。
 
 
 ;Make it (or any other) your default
-Make it (or any other) your default
+デフォルトの検索エンジンとして利用できます
 
 
 ;Find what you’re looking for, your way
-Find what you’re looking for, your way
+今までと同じやり方で検索できます
 
 
 # %s is a searchplugin name
 ;<span>Previous:</span> %s
-<span>Previous:</span> %s
+<span>前：</span> %s
 
 
 # STEP 3 of the tour (Private Browsing)
 # <br> tag below used for formatting only.
 ;Private Browsing: <br>Our original privacy tool
-Private Browsing: <br>Our original privacy tool
+プライベートブラウジング：オリジナルなプライバシーツール
 
 
 ;Keep history and other info off your computer
-Keep history and other info off your computer
+ブラウジングの履歴や cookie などが記録されません
 
 
 ;Browse without recording where you’ve been
-Browse without recording where you’ve been
+内緒のブラウジングをするのに役立ちます
 
 
 ;So others using your computer can’t see it
-So others using your computer can’t see it
+他の人にコンピュータを貸しても、安心です
 
 

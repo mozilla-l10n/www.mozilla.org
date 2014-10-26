@@ -3,84 +3,84 @@
 
 
 ;Keep your Firefox in sync
-Pidä Firefoxisi synkassa
+Pidä Firefoxisi synkronoituna
 
 
 ;Ready, Set, Sync
-Ready, Set, Sync
+Valmiinanne, paikoillanne, synkronoikaa
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+Olet kirjautunut ja valmis käyttämään <em>omaa</em> Firefoxiasi missä ja milloin vain.
 
 
 ;Take your Web with you
-Take your Web with you
+Ota verkko mukaasi
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+Voit synkronoida Firefoxin siellä missä käytät sitä. Pääset käsiksi kirjanmerkkeihin, salasanoihin, välilehtiin ja muihin miltä tahansa älypuhelimelta, tabletilta tai tietokoneelta.
 
 
 ;It looks like you’re running an older version of Firefox.
-It looks like you’re running an older version of Firefox.
+Näyttää siltä, että käytät Firefoxin vanhentunutta versiota.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-The new version of Sync only works with the latest version of Firefox
+Syncin uusi versio toimii vain Firefoxin uusimman version kanssa
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+Sync on vain yksi niistä hienoista ominaisuuksista, jotka tulevat Firefoxin mukana. Tutustu niihin kaikkiin!
 
 
 ;Download Firefox for Android
-Download Firefox for Android
+Lataa Firefox Androidille
 
 
 ;Need help?
-Need help?
+Tarvitsetko apua?
 
 
 ;Get started with Sync
-Get started with Sync
+Näin pääset alkuun Syncin käytössä
 
 
 ;Update your Firefox
-Update your Firefox
+Päivitä Firefox
 
 
 ;Download Firefox
-Download Firefox
+Lataa Firefox
 
 
 ;Get started with Sync in four easy steps:
-Get started with Sync in four easy steps:
+Neljä helppoa vaihetta Syncin käytön aloitukseen:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Avaa <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">valikko</a> Firefoxin oikeassa yläkulmassa ja valitse “<strong>Kirjaudu sisään Sync-palveluun.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+Napsauta “<strong>Aloitetaan</strong>” välilehdessä, joka aukeaa.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Anna sähköpostiosoite ja salasana ja napsauta “<strong>Luo Firefox-tili.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+Napsauta “<strong>Seuraava</strong>”, niin saat varmistusviestin sähköpostiisi.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+Asia on kunnossa, kun tarkistat sähköpostisi ja napsautat varmennuslinkkiä. Firefox synkronoituu automaattisesti taustalla siitä lähtien.
 
 
 ;Get more detailed instructions.
@@ -93,82 +93,82 @@ Käytätkö Syncin vanhempaa versiota?
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-How to set up Sync in five easy steps:
+Näin otat Syncin käyttöön viidessä helpossa vaiheessa:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+Paina <strong>Valikko</strong>-painiketta (joko näytön alapuolella tai selaimen oikeassa yläkulmassa)
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+Valitse <strong>Asetukset</strong> (saatat joutua painamaan <strong>Lisää</strong> ensin).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+Paina <strong>Sync</strong> ja sitten <strong>Aloitetaan</strong>.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+<strong>Luo Firefox-tili -sivu</strong> avautuu uuteen välilehteen.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+Täytä lomake ja paina <strong>Seuraava</strong>.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+Asia on kunnossa, kun tarkistat sähköpostisi ja napsautat varmennuslinkkiä. Muista liittää kaikki muut laitteesi saadaksesi kaiken irti Syncistä.
 
 
 ;Sync a little. Sync a lot.
-Sync a little. Sync a lot.
+Synkronoi vähän tai paljon.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+Sinä päätät, mitä osia Firefoxista haluat synkronoida ja missä haluat synkronoida ne. Ota avoimet välilehtesi mukaan työmatkallesi. Käytä kirjanmerkkejäsi töistä käsin. Mitä tahansa, milloin tahansa, kaikkialla.
 
 
 ;At home
-At home
+Kotona
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Voit siirtyä työpöydän äärestä sohvalle, eikä sinulta jää piiruakaan väliin. Pääset käsiksi avoimiin välilehtiisi älypuhelimelta, tai voit jatkaa kirjanmerkkien selausta tabletilta.
 
 
 ;At work
-At work
+Töissä
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+Pysy yhteydessä kaikkiin tärkeisiin tietoihisi. Synkronoi salasanat ja kirjanmerkit, joita saatat tarvita milloin tahansa. Se on yhtä turvallista kuin Firefox itse.
 
 
 ;On the go
-On the go
+Tien päällä
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Voit seurata suosikkisivustojasi tai kirjoittaa loppuun tarinan, jonka aloitit kotona — minne menetkin. Syncin ansiosta se on helpompaa kuin koskaan.
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Have an <b>Android smartphone</b> or <b>tablet</b>?
+Onko sinulla <b>Android-älypuhelin</b> tai <b>tabletti</b>?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-DOWNLOAD FIREFOX FOR ANDROID
+Lataa Firefox Androidille
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+Saadaksesi täydellisen Sync-kokemuksen, ota verkko mukaasi kaikkialla, missä käytät Firefoxia. Yhdistä älypuhelimesi, tablettisi, pöytäkoneesi ja kannettavan tietokoneesi.
 
 
 # Used in old page, do not remove , do not remove
@@ -183,7 +183,7 @@ Aloita Sync-palvelun käyttö. Se on nopeaa, turvallista ja vaivatonta:
 
 # Used in old page, do not remove
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Avaa <a class="menu" href="%(url)s#w_a-handy-new-menu">valikko</a> Firefoxin oikeasta yläkulmasta ja valitse “<strong>Kirjaudu sisään Sync-palveluun.</strong>”
 
 
 # Used in old page, do not remove
@@ -223,7 +223,7 @@ Onko käytössäsi Android-puhelin tai -tabletti?
 
 # Used in old page, do not remove
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Lataa Firefox Androidille</a> synkronoidaksesi pöytäkoneesi ja mobiililaitteesi keskenään.
 
 
 # Used in old page, do not remove

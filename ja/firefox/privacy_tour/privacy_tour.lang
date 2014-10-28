@@ -56,15 +56,15 @@ Declare your independence
 
 
 ;Thank you for choosing Firefox
-Firefox を利用いただきありがとうございます。
+Firefox をご利用いただきありがとうございます
 
 
 ;Watch the video to see our story
-Watch the video to see our story
+動画を再生
 
 
 ;Now share it with your world
-Now share it with your world
+動画をシェア
 
 
 ;Play
@@ -72,11 +72,11 @@ Now share it with your world
 
 
 ;Play the video
-動画を再生する
+動画を再生
 
 
 ;Replay the video
-もう一度再生する
+もう一度再生
 
 
 ;Share
@@ -84,7 +84,7 @@ Now share it with your world
 
 
 ;Share the video
-動画をシェアする
+動画をシェア
 
 
 ;Start browsing
@@ -113,15 +113,15 @@ Now share it with your world
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 # http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 ;Use Forget to cover your tracks or escape from sites you don’t trust
-「今見たページのこと、忘れて！」を実現する忘却ボタン
+<span style="display:inline-block;">「今見たページのこと、忘れて！」</span><span style="display:inline-block;">を実現する</span><span style="display:inline-block;">忘れるボタン</span>
 
 
 ;Remove browsing history from your computer
-ブラウジングした履歴を削除できます
+期間を指定して、ブラウジングした履歴を削除できます
 
 
 ;Erase website information after the fact
-後から Web サイトに関する情報を削除できます
+閲覧履歴だけではなく、Web サイトにアクセスしたこと自体をブラウザから削除します
 
 
 ;Add it above for quick, easy access
@@ -133,11 +133,11 @@ Now share it with your world
 
 
 ;Want to cover your tracks? Activate the Forget button and leave no trace.
-サイトの閲覧履歴を削除するならボタン。跡形もなく消し去ります。
+サイトの閲覧履歴を削除する「忘れる」ボタン。跡形もなく消し去ります。
 
 
 ;Add it now
-今すぐ追加する
+追加する
 
 
 ;Later
@@ -154,7 +154,7 @@ Now share it with your world
 
 # STEP 2 of the tour (search engines)
 ;<span>Previous:</span> Forget
-<span>前：</span> 忘却ボタン
+<span>前：</span> 忘れるボタン
 
 
 ;<span>Next:</span> Private Browsing
@@ -167,15 +167,15 @@ Now share it with your world
 
 
 ;Get great results with less tracking
-トラッキングされることなく、検索できます。
+他と比べて匿名性が高く、トラッキングされる可能性は少ない検索エンジンです
 
 
 ;Make it (or any other) your default
-デフォルトの検索エンジンとして利用できます
+利用を明示的に指定する検索することもできますし、Firefox で利用するデフォルトの検索エンジンとして設定することもできます
 
 
 ;Find what you’re looking for, your way
-今までと同じやり方で検索できます
+使い方は他の検索エンジンと変わりません。今までと同じようなやり方で検索できます
 
 
 # %s is a searchplugin name
@@ -186,18 +186,18 @@ Now share it with your world
 # STEP 3 of the tour (Private Browsing)
 # <br> tag below used for formatting only.
 ;Private Browsing: <br>Our original privacy tool
-プライベートブラウジング：オリジナルなプライバシーツール
+<span style="display:inline-block;">プライベートブラウジング：</span><span style="display:inline-block;">オリジナルなプライバシーツール</span>
 
 
 ;Keep history and other info off your computer
-ブラウジングの履歴や cookie などが記録されません
+サイトの閲覧履歴や cookie などが記録されないモードです
 
 
 ;Browse without recording where you’ve been
-内緒のブラウジングをするのに役立ちます
+どこへアクセスしたか、どんなコンテンツを見たか。このような情報は記録されません。
 
 
 ;So others using your computer can’t see it
-他の人にコンピュータを貸しても、安心です
+閲覧履歴などが残らないので、他の人にコンピュータを貸しても閲覧履歴やログイン情報が漏れる心配はありません
 
 

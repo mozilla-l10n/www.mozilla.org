@@ -1,5 +1,5 @@
 ## active ##
-## NOTE: url is https://www.mozilla.org/firefox/geolocation/
+## NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
 
 
 ;Geolocation in Firefox
@@ -92,6 +92,7 @@ Firefox が収集、利用する情報の詳細な説明については、Firefo
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
 あなたのプライバシーを守るため、これらの情報は暗号化された接続を通じて送受信されます。Firefox は位置情報を受け取ると、情報を求めてきた元のサイトにそれを知らせます。あなたが開いたサイトの名前やアドレス、あるいは Cookie が Google Location Service に知らされることはありません。
+
 
 ;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
 Mozilla も Google も、Google Location Service によって収集された情報を、あなた個人を特定したり、あなたの行動を追跡したりする目的で利用することはありません。
@@ -195,3 +196,5 @@ Firefox で位置情報通知機能を利用するかどうかの選択は、常
 
 ;Oops! An error occurred while trying to determine your position.
 位置情報の取得中にエラーが発生しました。
+
+

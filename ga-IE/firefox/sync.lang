@@ -21,7 +21,7 @@ Beir do Ghréasán féin leat
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+Sioncrónaigh Firefox in aon áit chun teacht ar do chuid leabharmharcanna, focail fhaire, cluaisíní, agus tuilleadh ó do ghuthán cliste, táibléad, nó ríomhaire.
 
 
 ;It looks like you’re running an older version of Firefox.
@@ -50,7 +50,7 @@ An bhfuil cabhair uait?
 
 
 ;Get started with Sync
-Get started with Sync
+Firefox Sync: Tús Maith
 
 
 ;Update your Firefox
@@ -65,12 +65,14 @@ Nuashonraigh Firefox
 Ceithre chéim shimplí chun tosú le Sync:
 
 
+# is ionann an t-aistriúchán anseo agus an ceann i bhFirefox
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Oscail an <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">roghchlár</a> ag barr an scáileáin ar thaobh na láimhe deise agus roghnaigh “<strong>Logáil isteach i Sync.</strong>”
 
 
+# is ionann an t-aistriúchán anseo agus an ceann i bhFirefox
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
 Cliceáil “<strong>Tús maith</strong>” sa chluaisín a osclaíonn.
@@ -87,7 +89,7 @@ Cliceáil “<strong>Ar Aghaidh</strong>” agus seolfar nasc deimhnithe chugat 
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+Tar éis duit an ríomhphost a fháil agus an nasc deimhnithe a chliceáil, beidh tú réidh! Beidh Firefox sioncrónaithe go huathoibríoch sa chúlra as sin amach.
 
 
 ;Get more detailed instructions.
@@ -100,42 +102,42 @@ An bhfuil tú ag úsáid seanleagan de Sync?
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-How to set up Sync in five easy steps:
+Cúig chéim shimplí chun Sync a chur ar siúl:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+Tapáil an cnaipe <strong>Roghchlár</strong> (faoin scáileán nó ag barr an bhrabhsálaí ar thaobh na láimhe deise).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+Roghnaigh <strong>Socruithe</strong> (seans gur ghá duit <strong>Tuilleadh</strong> a thapáil ar dtús).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+Tapáil <strong>Sync</strong> ansin <strong>Tús Maith</strong>.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+Osclófar an leathanach <strong>Cruthaigh Cuntas Firefox</strong> i gcluaisín nua.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+Líon an fhoirm isteach agus cliceáil <strong>Ar Aghaidh</strong>.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+Tar éis duit an ríomhphost a fháil agus an nasc deimhnithe a chliceáil, beidh tú réidh! Ná déan dearmad do chuid gléasanna eile a cheangal chun an tairbhe is mó a bhaint as Sync.
 
 
 ;Sync a little. Sync a lot.
-Sync a little. Sync a lot.
+Sioncrónaigh beagán nó mórán.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
@@ -143,15 +145,15 @@ You choose what parts of your Firefox you want to sync and where you want to syn
 
 
 ;At home
-At home
+Sa bhaile
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Téigh ó do dheasc go dtí an tolg gan aon stró. Beidh tú in ann teacht ar do chuid cluaisíní oscailte ar do ghuthán cliste, nó do chuid leabharmharcanna a úsáid go díreach ó do tháibléad.
 
 
 ;At work
-At work
+San oifig
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
@@ -159,23 +161,23 @@ Stay connected to all of your important information. Sync the passwords and book
 
 
 ;On the go
-On the go
+Sa siúl
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Coinnigh cothrom le dáta leis na suímh is ansa leat, nó cuir an scéal sin a thosaigh tú sa bhaile i gcrích, in áit ar bith.  Tá sé an-éasca le Sync.
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Have an <b>Android smartphone</b> or <b>tablet</b>?
+An bhfuil <b>guthán</b> nó <b>táibléad Android</b> agat?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-DOWNLOAD FIREFOX FOR ANDROID
+ÍOSLUCHTAIGH FIREFOX AR ANDROID
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+Chun an leas is mó a bhaint as Sync, beir do Ghréasán féin leat gach uile áit a n-úsáideann tú Firefox. Ceangail do ghuthán cliste, táibléad, ríomhaire, agus ríomhaire glúine.
 
 
 # Used in old page, do not remove , do not remove

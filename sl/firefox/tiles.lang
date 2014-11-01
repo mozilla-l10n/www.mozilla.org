@@ -6,7 +6,7 @@ Povsem nova izkušnja ploščic
 
 
 ;With Enhanced Tiles and Directory Tiles, Firefox provides users easy access to interesting, relevant content, whether it’s the sites they visit most or new sites for them to discover.
-Z izboljšanimi ploščicami in ploščicami iz seznama ponuja Firefox svojim uporabnikom preprost dostop do zanimive in ustrezne vsebine, ali so to strani, ki jih najpogosteje obiščejo ali pa na novo odkrite strani.
+Z obogatenimi ploščicami in ploščicami iz seznama ponuja Firefox svojim uporabnikom preprost dostop do zanimive in ustrezne vsebine, tako do najpogosteje obiskanih strani kot tudi do novih.
 
 
 ;What are Tiles?
@@ -14,7 +14,7 @@ Kaj so ploščice?
 
 
 ;When you open a new tab in Firefox, you see several rectangles that link to different websites.
-Kadar v Firefoxu odprete nov zavihek, se prikaže več pravokotnikov, ki se povezujejo z različnimi spletnimi stranmi.
+Ko v Firefoxu odprete nov zavihek, se prikaže več pravokotnikov, ki se povezujejo z različnimi spletnimi stranmi.
 
 
 ;Some people call them squares, windows or bookmarks; we call them Tiles.
@@ -22,19 +22,19 @@ Nekateri ljudje jim pravijo kvadratki, okna ali zaznamki, mi jim pravimo plošč
 
 
 ;What are Enhanced Tiles?
-Kaj so izboljšane ploščice?
+Kaj so obogatene ploščice?
 
 
 ;Existing Firefox users will be offered a set of Enhanced Tiles based on their browsing history.
-Obstoječim Firefoxovim uporabnikom bomo ponudili niz izboljšanih ploščic glede na njihovo zgodovino brskanja.
+Obstoječim Firefoxovim uporabnikom bomo ponudili niz obogatenih ploščic glede na njihovo zgodovino brskanja.
 
 
 ;The Enhanced versions replace the default screenshot with a better image and are displayed only for sites that the user has visited.
-Izboljšane različice nadomeščajo privzet zaslonski posnetek z boljšo sliko in so prikazane samo za strani, ki ste jih obiskali.
+Obogatene različice nadomeščajo privzet zaslonski posnetek z boljšo sliko in so prikazane samo za strani, ki ste jih obiskali.
 
 
 ;The improved image is supplied by the site or partner and can include a logo plus a rollover image.
-Izboljšano sliko dobavi spletna stran ali partner in lahko vključuje logotip in prehodno sliko.
+Izboljšano sliko zagotavlja spletna stran ali partner in lahko vključuje logotip ali prehodno sliko.
 
 
 ;If you frequent Amazon.com, for example, you might see the Amazon logo or icon, instead of a screenshot.
@@ -54,7 +54,7 @@ Namesto prikaza praznega niza ploščic bo Firefox prikazal vsebino od Mozille a
 
 
 ;All partner content is marked as “sponsored” and users have complete control to edit or remove any Tile.
-Partnerska vsebina je označena kot "sponzorirana" in uporabniki imajo popoln nadzor nad urejenjem in odstranitvijo ploščic.
+Partnerska vsebina je označena kot "sponzorirana" in uporabniki imajo popoln nadzor nad urejanjem in odstranjevanjem ploščic.
 
 
 ;Respects your privacy
@@ -74,11 +74,11 @@ Določanje osebne istovetnosti ni mogoče. Z drugimi besedami, ne vemo kdo klikn
 
 
 ;We just know the total number of views and clicks an individual Tile receives. This helps us deliver the most interesting and relevant content.
-Vemo samo skupno število ogledov in klikov na posmezno pločico. To nam omogoča dostaviti najbolj zanimovo in ustrezno vsebino.
+Poznamo samo skupno število ogledov in klikov na posamezno ploščico. To nam omogoča zagotavljanje najbolj zanimive in ustrezne vsebine.
 
 
 ;You can deactivate click and impression tracking by clicking on the gear icon on the top right corner of the new tab page, and selecting Classic to show only unenhanced History Tiles or Blank mode.
-Sledenje klikom in ogledom lahko onemogočite s klikom na ikono zobnika v zgornjem desnem kotu strani novega zavihka in izbiri Klasični, da prikažete samo neizboljšane ploščice iz zgodovine ali prazni način.
+Sledenje klikom in ogledom lahko onemogočite s klikom na ikono zobnika v zgornjem desnem kotu strani novega zavihka in izbiro Običajno (neobogatene ploščice iz zgodovine brskanja) ali Prazno.
 
 
 ;Frequently Asked Questions
@@ -86,11 +86,11 @@ Pogosto zastavljena vprašanja
 
 
 ;Are you tracking users now?
-Ali sedaj sledite uporabnikom?
+Ali zdaj sledite uporabnikom?
 
 
 ;We only collect data from the New Tab page in aggregate form, meaning no data is personally identifiable.
-Iz strani novega zavihka zbiramo samo podatke v skupni obliki, kar pomeni, da noben podatek ne omogoča osebne istovetnosti.
+Iz strani novega zavihka zbiramo samo podatke v skupnem seštevku, torej noben podatek ni vezan na določeno osebo.
 
 
 ;What data is being collected?
@@ -98,7 +98,7 @@ Katere podatke zbirate?
 
 
 ;Aggregate data from the New Tab page includes impressions, clicks and tile placement.
-Skupni podatki iz strani novega zavihka vključujejo obiske, klike in umestitve ploščic.
+Zbrani podatki strani novega zavihka vključujejo obiske, klike in umestitve ploščic.
 
 
 ;What data is collected when I opt out?
@@ -106,7 +106,7 @@ Katere podatke zbirate, kadar to možnost izključim?
 
 
 ;No data is collected when a user chooses to opt out of the enhanced Tiles experience.
-Če uporabnik izključi izboljšano izkušnjo ploščic, ne zbiramo nobenih podatkov.
+Če uporabnik izključi obogateno izkušnjo ploščic, ne zbiramo nobenih podatkov.
 
 
 ;Where can I learn more?
@@ -115,7 +115,7 @@ Kje lahko izvem več o tem?
 
 # Link to https://blog.mozilla.org/futurereleases/2014/09/04/new-tab-page-experiments-in-firefox-beta/
 ;New Tab Experiments in Firefox Beta
-Poskusi z novim zavihki v Firefoxu beta
+Poskusi z novimi zavihki v Firefoxu beta
 
 
 # Link to https://blog.mozilla.org/advancingcontent/2014/08/21/a-call-for-trust-transparency-and-user-control-in-advertising/
@@ -139,6 +139,6 @@ Zaslonski posnetek
 
 # Link points to https://support.mozilla.org/kb/how-do-tiles-work-firefox
 ;For more help please see the <a href="%(url)s">Tiles Support Page</a>
-Za več pomoči glejte <a href="%(url)s">Stran podpore za ploščice</a>
+Za pomoč se obrnite na <a href="%(url)s">strani s podporo za ploščice</a>
 
 

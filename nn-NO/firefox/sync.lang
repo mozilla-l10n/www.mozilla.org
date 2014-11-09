@@ -1,3 +1,6 @@
+## firefox_sync_non_fx ##
+## firefox_sync_redesign ##
+## sync_new_markup ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
@@ -6,237 +9,237 @@ Keep your Firefox in sync
 
 
 ;Ready, Set, Sync
-Ready, Set, Sync
+Klar, Vel, Sync
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+Du er registrert og klar for å få tilgang til <em>your</em> Firefox kvar som helst, når som helst.
 
 
 ;Take your Web with you
-Take your Web with you
+Tak veven med deg
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+Sync Firefox kvar som helst du brukar han for å få tilgang til bokmerke, passord, faner, og meir, frå smartmobilar, nettbrett eller datamaskin.
 
 
 ;It looks like you’re running an older version of Firefox.
-It looks like you’re running an older version of Firefox.
+Det ser ut til at du brukar ein eldre versjon av Firefox.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-The new version of Sync only works with the latest version of Firefox
+Den nye versjonen av Sync verkar berre med den siste versjonen av Firefox
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+Sync er ein av dei mange eigenskapane du berre får med Firefox. Oppdag alle!
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync is just one of the great features you’ll only get with Firefox.
+Sync er ein av dei mange eigenskapane du berre får med Firefox.
 
 
 ;Download Firefox for Android
-Download Firefox for Android
+Last ned Firefox for Android
 
 
 ;Need help?
-Need help?
+Treng du hjelp?
 
 
 ;Get started with Sync
-Get started with Sync
+Kom i gang med Sync
 
 
 ;Update your Firefox
-Update your Firefox
+Oppdater Firefox
 
 
 ;Download Firefox
-Download Firefox
+Last ned Firefox
 
 
 ;Get started with Sync in four easy steps:
-Get started with Sync in four easy steps:
+Kom i gang med Sync med fire enkle steg:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Opna <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menyen</a> oppe til høgre i Firefox og vel “<strong>Logg inn på Sync.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+Klikk i “<strong>Get started</strong>” fana som opnar seg.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Skriv inn ei e-postadresse og passord for å “<strong>oppretta ein Firefox-konto.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+Klikk “<strong>Neste</strong>” for å få ei stadfesting sendt på e-post.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+Etter at du har sjekka e-posten din, og klikka på stadfestingslenkja, er alt klart! Firefox vil frå då av synkronisera i bakgrunnen.
 
 
 ;Get more detailed instructions.
-Get more detailed instructions.
+Få meir detaljert rettleiing.
 
 
 ;Using an older version of Sync?
-Using an older version of Sync?
+Brukar du ein eldre versjon av Sync?
 
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-How to set up Sync in five easy steps:
+Korleis setja opp Sync i fem enkle steg:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+Trykk på <strong>Meny</strong>-knappen (anten nedanfor skjermen eller oppe i høgre hjørne av nettlesaren).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+Vel <strong>Innstillingar</strong> (du må kanskje trykkja på <strong>Meir</strong> fyrst).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+Trykk på <strong>Sync</strong> og so <strong>Kom i gang</strong>.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+Sida <strong>Lag ei Firefox kontoside</strong> vil opna seg i ei ny fane.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+Fyll ut skjemaet og klikk <strong>Neste</strong>.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+Etter at du har sjekka e-posten din, og klikka på stadfestingslenkja, er du klar! Ikkje gløym å kopla til alle andre einingane dine for å få mest mogleg ut av Sync.
 
 
 ;Sync a little. Sync a lot.
-Sync a little. Sync a lot.
+Sync litt. Sync mykje.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+Du vel kva du vil synkronisera i Firefox og kvar du vil synkronisera det du vel. Ta med deg dei opne fanene dine når du er på farten . Få tilgang til bokmerka dine på jobben. Kva som helst, når som helst, alle stadar.
 
 
 ;At home
-At home
+Heime
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Gå frå skrivebord til sofa utan å missa noko. Få tilgang til fanene dine på smarttelefonen din, eller bla i bokmerka dine direkte på nettbrettet ditt.
 
 
 ;At work
-At work
+På jobb
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+Ha all viktig informasjon med deg. Synkroniser passord og bokmerke som du kan trenga å ha tilgang til når som helst. Akkurat som Firefox, han er so trygg som det er råd å gjera han.
 
 
 ;On the go
-On the go
+På farten
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Hald følgje med favorittsidene dine, eller avlutt det du byrja å lesa heime — same kva stad du har tenkt deg. Med Sync har det aldri vore lettare.
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Have an <b>Android smartphone</b> or <b>tablet</b>?
+Har du ein <b>Android smartmobil</b> eller eit <b>nettbrett</b>?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-DOWNLOAD FIREFOX FOR ANDROID
+LAST NED FIREFOX FOR ANDROID
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+For å få ei full Sync-oppleving, tak med deg veven alle stadar du nyttar Firefox. Kopla til smarttelefonen din, nettbrett, datamaskin og berbar.
 
 
 # Used in old page, do not remove , do not remove
 ;Instantly make Firefox your own wherever you use it. Seamlessly sync your bookmarks, history, passwords and more and access them from any device.
-Instantly make Firefox your own wherever you use it. Seamlessly sync your bookmarks, history, passwords and more and access them from any device.
+Gjer Firefox med ein gong til din eigen når som helst når du brukar han. synkroniser bokmerke, historikk og passord, på ein enkel måte, og meir, og ha tilgang til dei frå alle eiingar.
 
 
 # Used in old page, do not remove
 ;Get started with Sync. It’s fast, safe and easy:
-Get started with Sync. It’s fast, safe and easy:
+Kom i gang med Sync. Det er raskt, trygt og enkelt:
 
 
 # Used in old page, do not remove
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Opna <a class="menu" href="%(url)s#w_a-handy-new-menu">menyen</a> oppe i høgre hjørnet av Firefox og vel “<strong>Logg inn på Sync.</strong>”
 
 
 # Used in old page, do not remove
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
-Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
+Opna <a href="%(url)s#w_a-handy-new-menu">menyen</a> oppe i høgre hjørnet av Firefox og vel “Logg in på Sync.”
 
 
 # Used in old page, do not remove
 ;Click “Get started” in the tab that opens.
-Click “Get started” in the tab that opens.
+Trykk «Kom i gang» i fana som opnar.
 
 
 # Used in old page, do not remove
 ;Enter an email address and password to “Create a Firefox Account.”
-Enter an email address and password to “Create a Firefox Account.”
+Skriv inn ei e-postadresse og passord for å “Lage ein Firefox-konto.”
 
 
 # Used in old page, do not remove
 ;Click “Next” to get a verification sent to your email.
-Click “Next” to get a verification sent to your email.
+Klikk «Neste» for å få ei stadfestingslenkje på e-post.
 
 
 # Used in old page, do not remove
 ;Check your email and click the verification link.
-Check your email and click the verification link.
+Sjekk innboksen din og klikk på stadfestingslenkja
 
 
 # Used in old page, do not remove
 ;You’re all set! Firefox will automatically sync in the background from now on.
-You’re all set! Firefox will automatically sync in the background from now on.
+No er du klar! Firefox vil automatisk synkronisera i bakgrunnen frå no av.
 
 
 # Used in old page, do not remove
 ;Have an Android phone or tablet?
-Have an Android phone or tablet?
+Har du ein Android-mobil eller eit nettbrett?
 
 
 # Used in old page, do not remove
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Last ned Firefox for Android</a> for å synkronisera mellom skrivebord og mobileiningar.
 
 
 # Used in old page, do not remove
 ;Download Firefox for Android to sync between your desktop and mobile devices.
-Download Firefox for Android to sync between your desktop and mobile devices.
+Last ned Firefox for Android for å synkronisera skrivebordet ditt med mobile einingar.
 
 
 # Used in old page, do not remove
 ;Get it free from Google Play
-Get it free from Google Play
+Få han gratis på Google Play
 
 

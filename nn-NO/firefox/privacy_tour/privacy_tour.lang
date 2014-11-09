@@ -1,195 +1,192 @@
+﻿## active ##
 ## NOTE: we don't have a demo server yet
-
 
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
-See what’s new
+Sjå kva som er nytt
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
 ;You’re up to date with the latest features to help keep you in control.
-You’re up to date with the latest features to help keep you in control.
+Du er oppdatert med dei siste funksjonane som hjelper deg med å halda kontrollen.
 
 
 # This is the label for a button that starts the tour
 ;Let’s go
-Let’s go
+La oss starta
 
 
 # This is the label for a button that delays starting the tour
 ;Not now
-Not now
+Ikkje no
 
 
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
-Open tour
+Opna tur
 
 
 # This is the label for a button that closes the tour modal dialog
 ;Close tour
-Close tour
+Lukk tur
 
 
 # This is the text for a call to action that appears in the web page
 ;See the newest ways you can take control of your digital life
-See the newest ways you can take control of your digital life
+Sjå dei nyaste måtane du kan ta kontroll på det digitale livet ditt
 
 
 # This is the label that represents tour step one of three
 ;1/3
-1/3
+1/3 {ok}
 
 
 # This is the label that represents tour step two of three
 ;2/3
-2/3
+2/3 {ok}
 
 
 # This is the label that represents tour step three of three
 ;3/3
-3/3
+3/3 {ok}
 
 
 ;Declare your independence
-Declare your independence
+Proklamer sjølvstende
 
 
 ;Thank you for choosing Firefox
-Thank you for choosing Firefox
+Takk for at du brukar Firefox
 
 
 ;Watch the video to see our story
-Watch the video to see our story
+Sjå den nye videoen med soga vår
 
 
 ;Now share it with your world
-Now share it with your world
+Og no kan du dele det med resten av verda
 
 
 ;Play
-Play
+Spel av
 
 
 ;Play the video
-Play the video
+Spel av videoen
 
 
 ;Share
-Share
+Del
 
 
 ;Start browsing
-Start browsing
-
+Start nettlesinga
 
 ;Previous
-Previous
+Førre
 
 
 ;Next
-Next
+Neste
 
 
 ;Close
-Close
-
+Lukk
 
 # STEP 1 of the tour (Forget button)
 # %s is a searchplugin name
 ;<span>Next:</span> %s
-<span>Next:</span> %s
+<span>Neste:</span> %s
 
 
 # <br> tag below used for formatting only.
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 # http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 ;Use Forget to cover your tracks or escape from sites you don’t trust
-Use Forget to cover your tracks or escape from sites you don’t trust
+Bruk Gløym for å løyna spora dine eller å rømma frå sider du ikkje stolar på
 
 
 ;Remove browsing history from your computer
-Remove browsing history from your computer
+Fjern nettlesarhistorikk frå datamaskina di
 
 
 ;Erase website information after the fact
-Erase website information after the fact
+Slett vevsideinfo etter fakta
 
 
 ;Add it above for quick, easy access
-Add it above for quick, easy access
+Legg til ovanfor for rask og enkel tilgang
 
 
 ;The new Forget button
-The new Forget button
+Den nye Gløym-knappen
 
 
 ;Want to cover your tracks? Activate the Forget button and leave no trace.
-Want to cover your tracks? Activate the Forget button and leave no trace.
+Vil du løyna spora dine? Slå på Gløym-knappen slikat du ikkje legg att spor.
 
 
 ;Add it now
-Add it now
+Legg han til no
 
 
 ;Later
-Later
+Seinare
 
 
 ;Now it’s here whenever you need it. To move or remove it, just open the menu and select Customize.
-Now it’s here whenever you need it. To move or remove it, just open the menu and select Customize.
+No er han her kvar gong du treng han. For å flytta han, kan du berre opna menyen og velja Tilpass.
 
 
 ;Want to add it later? Open this menu and select Customize. Then drag it (or any other button) where you want.
-Want to add it later? Open this menu and select Customize. Then drag it (or any other button) where you want.
+Vil du leggja han til seinare? Opna denne menyen og vel Tilpass. Drag han(eller ein annan knapp) dit du ynskjer å ha han.
 
 
 # STEP 2 of the tour (search engines)
 ;<span>Previous:</span> Forget
-<span>Previous:</span> Forget
+<span>Førre:</span> Forget
 
 
 ;<span>Next:</span> Private Browsing
-<span>Next:</span> Private Browsing
+<span>Neste:</span> Private Browsing
 
 
 # %s is a searchplugin name. <br> tag below used for formatting only.
 ;%s lets you <br>search anonymously
-%s lets you <br>search anonymously
+%s lèt deg <br>søkja anonymt
 
 
 ;Get great results with less tracking
-Get great results with less tracking
+Flott resultat med mindre sporing
 
 
 ;Make it (or any other) your default
-Make it (or any other) your default
+Gjer han (eller ein annan ) til din standard
 
 
 ;Find what you’re looking for, your way
-Find what you’re looking for, your way
+Finn det du leitar etter på din måte
 
 
 # %s is a searchplugin name
 ;<span>Previous:</span> %s
-<span>Previous:</span> %s
+<span>Førre:</span> %s
 
 
 # STEP 3 of the tour (Private Browsing)
 # <br> tag below used for formatting only.
 ;Private Browsing: <br>Our original privacy tool
-Private Browsing: <br>Our original privacy tool
+Privat nettlesing: <br>Det originale personvernverktyet vårt
 
 
 ;Keep history and other info off your computer
-Keep history and other info off your computer
+Hald historikk og anna info vekke frå datamaskina di
 
 
 ;Browse without recording where you’ve been
-Browse without recording where you’ve been
+Surf utan at det vert registrert kvar du har vore
 
 
 ;So others using your computer can’t see it
-So others using your computer can’t see it
-
+Slik at andre som brukar datamaskina di ikkje kan sjå det
 

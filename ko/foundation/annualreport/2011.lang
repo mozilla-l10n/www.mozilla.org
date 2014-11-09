@@ -5,7 +5,7 @@
 
 
 ;Firefox for Android
-Firefox 안드로이드 버전
+Android용 Firefox 버전
 
 
 ;Welcome
@@ -80,7 +80,7 @@ Firefox OS 기기는 2013년 초 <a href="%(telefonica_url)s" rel="external">Tel
 
 
 ;In June 2012 we released an update to <a href="%(mobile_url)s" rel="external">Firefox for Android</a> that we believe is the best browser for Android available. We completely rebuilt and redesigned the product in native UI, resulting in a snappy and dynamic upgrade to mobile browsing that is significantly faster than the Android stock browser. This made Firefox significantly faster on Android and delivered a much better browsing experience to users than the one offered by the device’s stock browser. We also added Do Not Track to Firefox for Android to let users express their intent for privacy, even on mobile and are the first mobile browser to offer Do Not Track. Firefox for Android is a critical part of supporting the open Web. This is a great start, but it is only a start. We want these opportunities to exist at all layers of our Web experience.
-2012년 6월 우리는 안드로이드에 가장 적합한 브라우저로서 완전히 새로운 디자인을 가진 <a href="%(mobile_url)s" rel="external">Firefox for Android</a>를 출시 하였습니다. 안드로이드 내장 기본 브라우저보다 훨씬 빠른 모바일 검색과 똑똑하고 동적인 업그레이드 결과로 네이티브 UI를 채택하면서 매우 빠르고 사용자에게 더 나은 검색 경험을 제공하고 있습니다. 또한, 사용자가 모바일에서 개인 정보 보호를 위해 자신의 의도를 표현할 수 있도록 안드로이드용 Firefox에 추적 방지 요청 기능을 제공하는 최초 모바일 브라우저입니다. Android 용 Firefox는 오픈 웹을 지원하는 중요한 부분입니다. 이제 막 시작 되었으며 이 기회를 우리의 웹 경험이 모든 인터넷 환경에 퍼지기를 바랍니다.
+2012년 6월 우리는 Android에 가장 적합한 브라우저로서 완전히 새로운 디자인을 가진 <a href="%(mobile_url)s" rel="external">Firefox for Android</a>를 출시 하였습니다. Android 내장 기본 브라우저보다 훨씬 빠른 모바일 검색과 똑똑하고 동적인 업그레이드 결과로 네이티브 UI를 채택하면서 매우 빠르고 사용자에게 더 나은 검색 경험을 제공하고 있습니다. 또한, 사용자가 모바일에서 개인 정보 보호를 위해 자신의 의도를 표현할 수 있도록 Android용 Firefox에 추적 방지 요청 기능을 제공하는 최초 모바일 브라우저입니다. Android 용 Firefox는 오픈 웹을 지원하는 중요한 부분입니다. 이제 막 시작 되었으며 이 기회를 우리의 웹 경험이 모든 인터넷 환경에 퍼지기를 바랍니다.
 
 ;Firefox for Windows, Mac and Linux
 Firefox (PC용/윈도/맥/리눅스)
@@ -141,7 +141,7 @@ Do Not Track-사용자 추적 방지
 우리가 인터넷을 이용할 때, 많은 개인 정보가 사용됩니다. 우리가 온라인상에서 누구인가를 나타내는 정보, 즉 프로파일이 됩니다. 우리가 누구이며, 무엇을 하는가 하는 정보를 어떤 조직이 감시, 기록, 저장, 사용 및 연결지어서 판매 할 수 있다는 것은 개인 및 사회에 있어 매우 커다란 영향을 끼치게 됩니다.
 
 ;In an effort to give users more control over their Web experiences, we developed the <a href="%(dnt_url)s" rel="external">Do Not Track</a> feature in Firefox. We also became the first browser manufacturer to offer it on multiple platforms, including Windows, Mac, Linux and Android. <a href="%(dntfxos_url)s" rel="external">Do Not Track is even available for Firefox OS</a> so that user privacy settings can be controlled on a system-wide level to ensure that every third-party application on a user's device respects their choice.
-사용자가 자신의 웹 경험을 스스로 제어 하는 권한을 강화하기 위해 Mozilla는 Firefox에 <a href="%(dnt_url)s" rel="external">Do Not Track</a>(행동 추적 거부) 기능을 탑재했습니다. Mozilla는 이 기능을 윈도우와 맥, 리눅스, 안드로이드와 같은 다양한 프랫폼에 제공하는 첫번째 브라우저 제작사가 되었습니다. <a href="%(dntfxos_url)s" rel="external">DNT는 Firefox OS에 탑재</a>되어 있기 때문에 사용자는 시스템 전체로 개인 정보 설정을 제어 할 수 있어 자신이 선택한 개인 정보 보호의 설정이 자신의 기기상 모든 애플리케이션에서 제어 가능합니다.
+사용자가 자신의 웹 경험을 스스로 제어 하는 권한을 강화하기 위해 Mozilla는 Firefox에 <a href="%(dnt_url)s" rel="external">Do Not Track</a>(행동 추적 거부) 기능을 탑재했습니다. Mozilla는 이 기능을 윈도우와 맥, 리눅스, Android와 같은 다양한 프랫폼에 제공하는 첫번째 브라우저 제작사가 되었습니다. <a href="%(dntfxos_url)s" rel="external">DNT는 Firefox OS에 탑재</a>되어 있기 때문에 사용자는 시스템 전체로 개인 정보 설정을 제어 할 수 있어 자신이 선택한 개인 정보 보호의 설정이 자신의 기기상 모든 애플리케이션에서 제어 가능합니다.
 
 ;Do Not Track is important because it gives users a voice online to express their preference for privacy and personalization. It captures the user’s intent and allows them to put their hand up and ask for privacy online.
 Do Not Track은 중요한 기능입니다. 왜냐하면 사용자는이 기능에 의해서 개인 정보와 사용자 지정에 관한 자신의 취향을 온라인상에서 웹 사이트에게 전할 수 있기 때문입니다. 이 기능을 이용하는 것에 의해서 사용자의 의지가 반영되어 사용자는 온라인상에서 개인 정보 보호를 요구하는 의지 표시를 할 수 있습니다.
@@ -184,7 +184,7 @@ Mozilla Reps {ok}
 
 
 ;The <a href="%(reps_url)s" rel="external">Mozilla Reps</a> program, designed to empower volunteers to become official representatives of Mozilla in their region, has grown to more than 350 people in more than 70 countries in a little more than a year. The program plays a critical role in helping Mozilla execute against its organizational goals around the promotion and development of Firefox OS, Firefox for Windows, Mac and Linux and Firefox for Android. Reps have organized more than 700 events around the world and have successfully recruited and trained hundreds of new contributors across dozens of functional areas.
-자원 봉사자가 자신의 지역에서 Mozilla를 공식적으로 대표할 수 있도록 고안된 <a href="%(reps_url)s" rel="external">Mozilla Reps</a> 프로그램은 일년이 조금 넘는 기간에 70개국 이상의 국가에서 350명 이상의 사람들 규모로 성장하였습니다. 이 프로그램은 Mozilla가 Firefox OS나 윈도우용 Firefox, 맥용 Firefox, 리눅스용 Firefox, 안드로이드용 Firefox를 홍보하고 개발하는 목표를 달성하는데 핵심적인 역할을 하고 있습니다. Reps는 전세계 700 개 이상의 이벤트를 조직하고 수십개의 기능 영역의 새로운 참여자 수백을 모집하고 훈련했습니다.
+자원 봉사자가 자신의 지역에서 Mozilla를 공식적으로 대표할 수 있도록 고안된 <a href="%(reps_url)s" rel="external">Mozilla Reps</a> 프로그램은 일년이 조금 넘는 기간에 70개국 이상의 국가에서 350명 이상의 사람들 규모로 성장하였습니다. 이 프로그램은 Mozilla가 Firefox OS나 윈도우용 Firefox, 맥용 Firefox, 리눅스용 Firefox, Android용 Firefox를 홍보하고 개발하는 목표를 달성하는데 핵심적인 역할을 하고 있습니다. Reps는 전세계 700 개 이상의 이벤트를 조직하고 수십개의 기능 영역의 새로운 참여자 수백을 모집하고 훈련했습니다.
 
 
 ;MozCamps

@@ -31,7 +31,7 @@ Eldri Firefox notendum verður boðið upp á endurbætta kassa sem notast við 
 
 
 ;The Enhanced versions replace the default screenshot with a better image and are displayed only for sites that the user has visited.
-Endurbættar útgáfur munu koma í staðinn fyrir sjálfgefið skjáskot og verða með endurbætta mynd og mun bara birtast fyrir þau vefsvæði sem notandi hefur heimsótt.
+Endurbættar útgáfur munu koma í staðinn fyrir skjáskot og verða með endurbætta mynd og birtist bara fyrir þau vefsvæði sem notandi hefur heimsótt.
 
 
 ;The improved image is supplied by the site or partner and can include a logo plus a rollover image.
@@ -39,7 +39,7 @@ Endurbætta myndin er fengin frá vefsvæðinu eða öðrum aðila og getur inni
 
 
 ;If you frequent Amazon.com, for example, you might see the Amazon logo or icon, instead of a screenshot.
-Ef þú ferð t.d. oft á Amazon.com, gætirðu séð Amazon lógo eða táknmynd, í staðinn fyrir skjákost.
+Ef þú ferð t.d. oft á Amazon.com, gæti verið birt Amazon lógoið eða táknmynd, í staðinn fyrir skjáskotið.
 
 
 ;What are Directory Tiles?
@@ -51,7 +51,7 @@ Nýir Firefox notendur fá í upphafi samansafn af upplýsingakössum fyrir þau
 
 
 ;Instead of displaying a blank set of Tiles, Firefox shows content from Mozilla and some Mozilla partners.
-Í staðinn fyrir að birta tóma kassa, Firefox birtir innihald frá Mozilla og öðrum Mozilla meðlimum.
+Í staðinn fyrir að birta tóma kassa, birtir Firefox innihald frá Mozilla og öðrum félögum tengdum Mozilla.
 
 
 ;All partner content is marked as “sponsored” and users have complete control to edit or remove any Tile.
@@ -59,19 +59,19 @@ Allt innihald frá þriðja aðila er merkt sem “sponsored” og notendur hafa
 
 
 ;Respects your privacy
-Passar upp á virða friðhelgi
+Við pössum upp á að virða friðhelgi
 
 
 ;As with all Mozilla products, Tiles provide users with extensive control over their personal data.
-Eins og er með öll Mozilla forrit, þá bjóða kassarnir notendum upp á að stjórna öllu í sambandi við persónuleg gögn.
+Eins og með öll Mozilla forrit, þá bjóða kassarnir notendum upp á að stjórna öllu sem viðkemur persónulegum gögnum.
 
 
 ;Data collection is limited to the aggregate number of impressions, clicks and Tile placement.
-Gagnasöfnun er takmörkuð við fjölda birtinga, smella og staðsetning kassa.
+Gagnasöfnun er takmörkuð við fjölda birtinga, smella og staðsetningu kassa.
 
 
 ;Nothing is ever personally identifiable. In other words, we don’t know who clicks on what.
-Engar persónulegar greinanlegar upplýsingar. Með öðrum orðum, við vitum ekki hver smellir á hvað.
+Engar persónulega greinanlega upplýsingar. Með öðrum orðum, við vitum ekki hver smellir á hvað.
 
 
 ;We just know the total number of views and clicks an individual Tile receives. This helps us deliver the most interesting and relevant content.
@@ -80,6 +80,14 @@ Við fáum bara að vita fjölda birtinga og hvað oft er smellt á einstakan ka
 
 ;You can deactivate click and impression tracking by clicking on the gear icon on the top right corner of the new tab page, and selecting Classic to show only unenhanced History Tiles or Blank mode.
 Þú getur slökkt á gagnasöfnun fyrir smelli og birtingar með því að smella á táknið fyrir gír efst í hægra horni á nýjum flipa, og valið þar Classic til að sýna bara venjulega kassa eða tóma síðu.
+
+
+;Tiles play a role in empowering thousands of Mozilla volunteers to support our mission by promoting local open source events and content.
+Kassar skipta máli í því að hjálpa þúsundum Mozilla þátttakendum við það að styðja okkar verkefni með því að auglýsa atburði sem eru tengdir frjálsum hugbúnaði og innihaldi.
+
+
+;You can learn more about how to participate in your local Mozilla community <a href="%s">here</a>.
+Þú getur lesið meira um hvernig þú getur tekið þátt í Mozilla samfélagi á þínu svæði <a href="%s">hérna</a>.
 
 
 ;Frequently Asked Questions
@@ -99,7 +107,7 @@ Hvaða gögnum er verið að safna?
 
 
 ;Aggregate data from the New Tab page includes impressions, clicks and tile placement.
-Yfirlitsgög frá nýju flipasíðunni sem inniheldur, birtingar, smelli og staðsetningu kassa.
+Yfirlitsgögn frá nýju flipasíðunni sem inniheldur, birtingar, smelli og staðsetningu kassa.
 
 
 ;What data is collected when I opt out?

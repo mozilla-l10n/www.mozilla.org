@@ -1,10 +1,6 @@
 ## active ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/developer
-
-
-# Note that "Firefox Developer Edition" won't be localizable inside the product (it's part of branding, like "Beta" or "Nightly")
-;Firefox Developer Edition
-Firefox Developer Edition{ok}
+## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated. It also won't be localizable inside the product, like "Beta" or "Nightly"
 
 
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox today!
@@ -167,7 +163,8 @@ Web ページで利用されている CSS を編集できます。また新し�
 <span style="display:inline-block;">Firefox を</span><span style="display:inline-block;">利用しよう</span>
 
 
-# The following strings are used for the tour displayed in whatsnew/firstrun
+# The following strings are used for the tour displayed on /firstrun
+# https://www.mozilla.org/firefox/35.0a2/firstrun/
 ;Welcome to Firefox Developer Edition
 Firefox Developer Edition
 
@@ -185,7 +182,7 @@ Firefox Developer Edition は、開発者のことを考えて作られました
 
 
 ;Try WebIDE
-WebIDE 
+WebIDE
 
 
 ;Develop, deploy and debug Firefox OS apps directly in your browser or on a Firefox OS device.

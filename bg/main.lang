@@ -68,7 +68,7 @@
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%Y-%m-%d {OK}
+%d.%m.%Y {OK}
 
 
 ;Legal
@@ -122,11 +122,11 @@ Firefox Съдружници
 
 
 ;Download
-Изтегли
+Изтегляне
 
 
 ;Previous
-Previous
+Предишен
 
 
 ;Next
@@ -151,7 +151,7 @@ MБ
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-Освен ако не е <a href="%s">отбелязано друго</a>, съдържанието на този сайт е лицензирано според <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a>, или по-късна версия.
+Освен ако не е <a href="%s">отбелязано друго</a>, съдържанието на този сайт е лицензирано според <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> или по-нова версия.
 
 
 ;Report Trademark Abuse
@@ -159,12 +159,12 @@ MБ
 
 
 ;Free Upgrade
-Безплатно надграждане
+Безплатно актуализиране
 
 
 # social networks such as Facebook and Twitter
 ;Follow us on:
-Следете ни:
+Следвайте ни:
 
 
 ;Customize with Add-ons
@@ -214,7 +214,7 @@ MБ
 
 
 ;Check out the new look and feel of Firefox.
-Изпробвай новия вид и функционалност на Firefox.
+Изпробвайте новите изглед и функционалност на Firefox.
 
 
 ;View Full Site
@@ -222,11 +222,11 @@ MБ
 
 
 ;Get Firefox for Android
-Вземи Firefox за Android
+Вземете Firefox за Android
 
 
 ;Download for <span>Android</span>
-Изтегли за <span>Android</span>
+Изтегляне за <span>Android</span>
 
 
 ;Desktop
@@ -258,7 +258,7 @@ Firefox за мобилни телефони
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Имаш нужда от обновяване на версията! Погрижи се за своята сигурност за по-малко от минута. <br/> Започни да използваш новия Firefox за най-доброто сърфиране и персонализация в Интернет пространството. <br/> Той е бърз и свободен!
+Имате нужда от обновяване на версията! Погрижете се за своята сигурност за по-малко от минута. <br/> Започнете да използвате новия Firefox за най-доброто решение за сърфиране и персонализация в Интернет пространството. <br/> Той е бърз и свободен!
 
 
 ;Upgrade now
@@ -285,7 +285,7 @@ Firefox за мобилни телефони
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Части от това съдържание са ©1998–%(current_year)s от индивидуални mozilla.org сътрудници. Съдържанието е достъпно под <a href="%(url)s">Creative Commons license</a>.
+Части от това съдържание са ©1998–%(current_year)s на индивидуални mozilla.org сътрудници. Съдържанието е достъпно под <a href="%(url)s">Creative Commons license</a>.
 
 
 # Footer string
@@ -305,22 +305,22 @@ Firefox за мобилни телефони
 
 # Footer item
 ;Partner with Us
-Бъди партньор
+Бъдете партньор
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync
+Sync {ok}
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-Добавки
+Десктоп добавки
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+Android добавки
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -330,17 +330,17 @@ Android Add-ons
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Поддръжка за настолната версия
+Десктоп поддръжка
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+Android поддръжка
 
 
 # Top menu item on firefox/update page
 ;Performance
-Характеристики
+Бързодействие
 
 
 # Top menu item on firefox/update page
@@ -395,12 +395,12 @@ Firefox за организации
 
 # Top menu item on firefox/update page
 ;Join Mozilla
-Стани част от Mozilla
+Станете част от Mozilla
 
 
 # Top menu item on firefox/update page
 ;Participate
-Участвай
+Участвайте
 
 
 # Top menu item on firefox/update page
@@ -420,7 +420,7 @@ Firefox за организации
 
 # share button for social networks
 ;Share
-Сподели
+Споделете
 
 
 # footer link
@@ -470,7 +470,7 @@ Firefox във Facebook
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Стани доброволец в някоя от многото сфери.
+Станете доброволец в някое от многото направления.
 
 
 # This is a non-visible string for blind people to indicate where the menu is
@@ -506,12 +506,12 @@ Firefox във Facebook
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Запазете страстта към разрастването на свободния и отворен Интернет! #ChooseIndependent. Изберете Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+Моля активирайте JavaScript във Вашия браузър за да ползвате пълните възможности на тази страница.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -521,7 +521,7 @@ Firefox възможности
 
 # Used as link to SUMO in footers on some pages
 ;Firefox Help
-Firefox Помощ
+Firefox помощ
 
 
 ;January

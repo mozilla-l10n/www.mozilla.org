@@ -1,45 +1,49 @@
+## active ##
+## firefox_sync_non_fx ##
+## firefox_sync_redesign ##
+## sync_new_markup ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
 ;Keep your Firefox in sync
-Keep your Firefox in sync
+War Firefox gaabu Sync ra
 
 
 ;Ready, Set, Sync
-Ready, Set, Sync
+Soolu, kanandi, Sync
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+War hantum ka huru nda soolu ka duu <em>war</em>Firefox-oo nungu kul ra, waati kul.
 
 
 ;Take your Web with you
-Take your Web with you
+Interneti kanbe war bande
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+Sync nda Firefox waati kul kaŋ war ga goy nd'a ka duu war doo-šilbawey, šennikufaley, nor lokey nda haya booboyaŋ kaŋ hun talfon carma, walha wala ordinater ga.
 
 
 ;It looks like you’re running an older version of Firefox.
-It looks like you’re running an older version of Firefox.
+A ga hima kaŋ Firefox dumi žeena foo ma dira war do.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-The new version of Sync only works with the latest version of Firefox
+Firefox dumi kokorantaa hinne ga Sync dumi taaga ga dira
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+Sync ti alhaali šifante foo de ibooboyaŋ ra kaŋ ga kaa war se Firefox ra. Ikul guna sohõ!
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync is just one of the great features you’ll only get with Firefox.
+Sync ti alhaali šifante foo de ibooboyaŋ ra kaŋ ga kaa war se Firefox ra.
 
 
 ;Download Firefox for Android
-Download Firefox for Android
+Firefox zumandi Android se
 
 
 ;Need help?
@@ -47,11 +51,11 @@ Ga baa faaba?
 
 
 ;Get started with Sync
-Get started with Sync
+Šintin nda Sync
 
 
 ;Update your Firefox
-Update your Firefox
+Wa Firefox taagandi
 
 
 ;Download Firefox
@@ -59,184 +63,184 @@ Firefox zumandi
 
 
 ;Get started with Sync in four easy steps:
-Get started with Sync in four easy steps:
+Wa šintin nda Sync fondo faala taaci ra:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+<a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">Silbayboŋ</a> feeri Firefox beene kanbe guma lokoo ra nda “<strong>Huru Sync ra</strong>” suba.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+Naagu “<strong>Šintin</strong> nor lokoo kaŋ ga feera ra.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Bataga aderesu nda šennikufal dam ka “<strong>Firefox kontu tee</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+Naagu “<strong>Jine</strong> hala duu tabatandiyan tiira ma sanbandi war se bataga ra.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+Nda war na war batagaa guna ka ben nda tabatandiyan doboo naagu, kul war soolu ka ben! Firefox ga hayey hangandi cere nga boŋ se bandafaaroo ra hiino se.
 
 
 ;Get more detailed instructions.
-Get more detailed instructions.
+Wa duu šilbayyaŋ ka tonton.
 
 
 ;Using an older version of Sync?
-Using an older version of Sync?
+Goo ma goy nda Sync dumi žeena?
 
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-How to set up Sync in five easy steps:
+Taka kaŋ nda Sync ga kayandi fondo faala guu ra:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+<strong>Šilbayboŋ</strong> butoŋoo karkar (dijoo ganda here wala ceecikaa beene kanbe guma lokoo).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+<strong>Kayandiyaney</strong> (war ga hin ka <strong>Ka tonton</strong> naagu jinay).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+<strong>Sync</strong> naagu de wa <strong>Šintin</strong>.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+<strong>Firefox kontu tee moo</strong> ga feera nor loku taaga foo ra.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+Takaddaa toonandi nda <strong>Jine</strong> naagu.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+Za war na war batagaa guna nda tabatandiyan doboo naagu, kul war soolu ka koy! Wa ši dirŋa ka war jinawey dobu ka Snyc fellaa.
 
 
 ;Sync a little. Sync a lot.
-Sync a little. Sync a lot.
+Sync kayna. Snyc boobo.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+War ma suuba war Firefox nungey kaŋ war ga boona k'i hangandi cere nda nungu kaŋ r'i ga marga. War nor loku feerantey kanbe war zaari dirawey ra. Duu war doo-šilbawey goydogoo ra. Haya kul, waati kul, nungu kul ra.
 
 
 ;At home
-At home
+Hugay do
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Hun war taabaloo ga ka goro kužeeraa ra bila nda haya-ize ma war hoo. Duu war nor loku feerantey war talfon carmaa ra wala gaabandi ka war nor  lokey naaru ne da war walhaa ga.
 
 
 ;At work
-At work
+Goydogoo ra
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+Gaabandi ka maa war alhabar nafantey kul. Sync ka šennikufaley nda doo-šilbawey hangandi cere kaŋ war ma hin ka too i ga waati kul. Sanda de Firefox, a ga saajaw taka kul kaŋ ga hima ra.
 
 
 ;On the go
-On the go
+Fondaa ra
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Gaabandi war nungu kaasey bande, wala žentoo kaŋ war n'a šintin benandi hugay do — nungu kul kaŋ ra war koy. Haya kul ši faala ka bisa goyyan nda Sync.
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Have an <b>Android smartphone</b> or <b>tablet</b>?
+Goo nda <b>Android talfon carma</b> wala <b>walha</b> foo?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-DOWNLOAD FIREFOX FOR ANDROID
+FIREFOX ZUMANDI ANDROID SE
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+Ka duu Sync fellaa, wa war internetoo kanbe war bande nungu kul kaŋ ra war ga goy nda Firefox. Ciya nda war talfon carmaa, walhaa, ordinateroo nda kanbe ordinateroo.
 
 
 # Used in old page, do not remove , do not remove
 ;Instantly make Firefox your own wherever you use it. Seamlessly sync your bookmarks, history, passwords and more and access them from any device.
-Instantly make Firefox your own wherever you use it. Seamlessly sync your bookmarks, history, passwords and more and access them from any device.
+Dogoo ra Firefox tee war boŋ wanoo nungu kul kaŋ ra war ga goy. Sync ga war doo-šilbawey, taarikoo, šennikufaley nda haya taney hangandi cere ka duwandi jinay foo kul ga.
 
 
 # Used in old page, do not remove
 ;Get started with Sync. It’s fast, safe and easy:
-Get started with Sync. It’s fast, safe and easy:
+Šintin nda Sync. A ga cahã, saajaw nda faala:
 
 
 # Used in old page, do not remove
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+<a class="menu" href="%(url)s#w_a-handy-new-menu">Šilbayboŋ</a> feeri Firefox beene kanbe gumaa de ma tee “<strong>Huru Sync ra.</strong>”
 
 
 # Used in old page, do not remove
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
-Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
+<a href="%(url)s#w_a-handy-new-menu">Šilbayboŋ</a> feeri Firefox beene kanbe gumaa ga nda ma “Huru Sync ra.”
 
 
 # Used in old page, do not remove
 ;Click “Get started” in the tab that opens.
-Click “Get started” in the tab that opens.
+“Šintin” naagu nor lokoo kaŋ ga feera ra.
 
 
 # Used in old page, do not remove
 ;Enter an email address and password to “Create a Firefox Account.”
-Enter an email address and password to “Create a Firefox Account.”
+Bataga aderesu nda šennikufal dam ka “Firefox kontu tee.”
 
 
 # Used in old page, do not remove
 ;Click “Next” to get a verification sent to your email.
-Click “Next” to get a verification sent to your email.
+“Jine” naagu hala tabatantiyan bataga ma sanbandi war se.
 
 
 # Used in old page, do not remove
 ;Check your email and click the verification link.
-Check your email and click the verification link.
+War batagaa guna nda tabatandiyan doboo naagu.
 
 
 # Used in old page, do not remove
 ;You’re all set! Firefox will automatically sync in the background from now on.
-You’re all set! Firefox will automatically sync in the background from now on.
+War soolu! Firefox ga kanandi nga boŋ se bandafaaroo za sohõ.
 
 
 # Used in old page, do not remove
 ;Have an Android phone or tablet?
-Have an Android phone or tablet?
+Goo nda Android talfon wala walha?
 
 
 # Used in old page, do not remove
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Firefox zumandi Android se</a> ka war ordinateroo nda kanbe talfon hangandi cere.
 
 
 # Used in old page, do not remove
 ;Download Firefox for Android to sync between your desktop and mobile devices.
-Download Firefox for Android to sync between your desktop and mobile devices.
+Firefox zumandi Android se ka war ordinateroo nda kanbe talfoney hangandi cere.
 
 
 # Used in old page, do not remove
 ;Get it free from Google Play
-Get it free from Google Play
+A zaa forba Google Play ra
 
 

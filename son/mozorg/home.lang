@@ -1,27 +1,34 @@
+## active ##
+## promo_fxdesktop ##
+## promo_lightbeam ##
+## promo_new_mdn ##
+## promo_sumo ##
+## promo_webmaker ##
+## promo_webwewant ##
 ## NOTE: demo server for home page is https://www-dev.allizom.org
 
 
 ;Home of the Mozilla Project
-Home of the Mozilla Project
+Mozilla Porožewo šintin moo
 
 
 # Used as a label for a button that scrolls through latest news.
 ;Next article
-Next article
+Jine hantum
 
 
 # Used as a label for a button that scrolls through latest news.
 ;Previous article
-Previous article
+Hantum bisante
 
 
 # The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
 ;We are %(mozilla_wordmark)s
-We are %(mozilla_wordmark)s
+Ir ti %(mozilla_wordmark)s
 
 
 ;Doing good is part of our code
-Doing good is part of our code
+Goy henna teeyan goo ir linjey ra
 
 
 ;Get involved
@@ -30,24 +37,24 @@ Wa huru goyoo ra
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Explore</i> our mission
-<i>Explore</i> our mission
+<i>Guna</i> ir allaahidoo
 
 
 ;Our principles guide us
-Our principles guide us
+Ga hanga ir aladabey bande
 
 
 ;We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
-We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
+Ir ti adduɲɲaa-mee baykaw, cawkaw nda cinakaw jamaa kaŋ ga goy ka interneti hunandi nda k'a feeri borey kul se.
 
 
 ;Read more about our mission
-Read more about our mission
+Ir anniyaa bay ka tonton
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Look</i> ahead
-<i>Look</i> ahead
+<i>Guna</i> jinehere
 
 
 ;Look ahead
@@ -55,71 +62,71 @@ Lawre
 
 
 ;We‘re bringing more people to the Web in more ways and from more places than ever before.
-We‘re bringing more people to the Web in more ways and from more places than ever before.
+Boro hinna kaŋ ir g'a kate interneti ra nda taka booboyaŋ ka hun nungu boobo ra mana bay ka tee.
 
 
 ;Learn more about Firefox OS
-Bay ka tonton Firefox OS še?
+Bay ka tonton Firefox OS ga
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Join</i> our community
-<i>Join</i> our community
+<i>Huru</i> ir jamaa ra
 
 
 # This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 ;Join our<br> developer community
-Join our<br> developer community
+Huru ir<br> cinakaw jamaa
 
 
 ;Get docs and demos, tools and tutorials and everything related to the Open Web.
-Get docs and demos, tools and tutorials and everything related to the Open Web.
+Duu takkada, cebeyan widewo, cawandi nda haya kul kaŋ ti interneti feerante mise.
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Forge</i> the future
-<i>Forge</i> the future
+<i>Tee</i> hiino zamanoo se
 
 
 ;Mozilla Festival
-Mozilla Festival
+Mozilla Festival {ok}
 
 
 # This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 ;Forge the future<br> of the Web
-Forge the future<br> of the Web
+Tee<br> interneti hiino zamanoo
 
 
 ;Learn from some of the most passionate thinkers and inventors from around the world.
-Learn from some of the most passionate thinkers and inventors from around the world.
+Wa caw adduɲɲaa-mee baykaw and haya taaga teekaw kul durkutantey bande.
 
 
 ;Come to the Mozilla Festival
-Come to the Mozilla Festival
+Kaa Mozilla Festival batoo ra
 
 
 ;Different by&nbsp;design
-Nda fasalroo ga waati
+Kaŋ fasalyanoo ga waani
 
 
 # This string is displayed only for locales with a press agency blog
 ;In the news
-In the news
+Goo alhabarey ra
 
 
 # This string is displayed only for locales with a press agency blog
 ;See all news
-See all news
+Dii alhabarey kul
 
 
 # This string is displayed only for locales where we launch Firefox OS soon
 ;Help launch Firefox OS in your country.
-Help launch Firefox OS in your country.
+Faaba ka Firefox OS dam hebu war koyraa ra.
 
 
 # This string is displayed only for locales where we launch Firefox OS soon
 ;Become a Mobilizer today.
-Become a Mobilizer today.
+Wa tee jamaa tunandikaw za hõ.
 
 
 ;You don’t have to know how to code to get involved with Mozilla. <a href="%s">Learn more about our volunteer opportunities</a>.
@@ -127,69 +134,69 @@ A mano too war ma wan porogaram hantumyan ka Mozilla kanbuzaamay. <a href="%s">C
 
 
 ;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a rel="external" href="%(link_l10n)s">Help translate them into yours</a>.
-Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a rel="external" href="%(link_l10n)s">Help translate them into yours</a>.
+Ir adduɲɲaa-mee jamaa sabboo ra, Mozilla jinawey nda nungey kaŋ ga bara sanda šenni 70 ra. <a rel="external" href="%(link_l10n)s">Faaba k'i berandi war šennoo ra</a>.
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Watch</i> the watchers
-<i>Watch</i> the watchers
+Hawgaykey <i>hawgay</i>
 
 
 # Lightbeam promo
 ;See who’s watching you online
-See who’s watching you online
+Dii may ma war hawgay interneti ra
 
 
 # Lightbeam promo
 ;Shine a light on the third parties that are collecting data about your online activity.
-Shine a light on the third parties that are collecting data about your online activity.
+Wa dii boro taney kaŋ no war bayhaya marga war interneti goymiɲey ga.
 
 
 ;Install the Lightbeam add-on
-Install the Lightbeam add-on
+Denjigaayay tontonoo sinji
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Learn</i> the Web
-<i>Learn</i> the Web
+Interneti <i>caw</i>
 
 
 # Webmaker promo
 ;We teach the Web
-We teach the Web
+Ir ga interneti cawandi
 
 
 ;Let‘s explore, tinker and create together to build a Web that‘s open and made by everyone.
-Let‘s explore, tinker and create together to build a Web that‘s open and made by everyone.
+Ir ma fansa ka dii, hayey dam cere ra ka soobay ka interneti cin cere bande k'a feeri nda k'a tee nda borey kul.
 
 
 ;Become a Webmaker
-Become a Webmaker
+Wa caw nda Webmaker
 
 
 # New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>See</i> the new MDN
-<i>See</i> the new MDN
+<i>Dii</i> MDN taagaa
 
 
 # New MDN promo: this <br> is strictly for visual formatting; translations can omit or reposition as needed.
 ;See what’s new <br>for developers
-See what’s new <br>for developers
+Dii haya tejey <br>cinakey se
 
 
 # New MDN promo:
 ;Our community hub for docs, demos and other resources just got a brand new look.
-Our community hub for docs, demos and other resources just got a brand new look.
+Ir jamaa kubaydogoo takadda, cebeyan widewo nda aššil tanayaŋ se n' ka taalam taaga.
 
 
 # New MDN promo:
 ;Visit the Mozilla Developer Network
-Visit the Mozilla Developer Network
+Mozilla cinakaw kondaa naaru
 
 
 # Australis launch promo tile on April 29, call to action link to Glow 2014 site
 ;The Web needs you
-The Web needs you
+Interneti ga too ni ga
 
 
 # Australis launch promo tile on April 29, headline
@@ -199,7 +206,7 @@ Interneti dumi foo no war ga baa?
 
 # Australis launch promo tile on April 29, main text
 ;Tell us what matters most to you and help shape the future of the Web.
-Tell us what matters most to you and help shape the future of the Web.
+Har ir se woo kaŋ ti war huzun beeroo nd'ir gaa ka hiino internetoo fasal.
 
 
 # Australis launch promo tile on April 29, call to action link to Glow 2014 site
@@ -209,58 +216,58 @@ War anniyaa bayrandi
 
 # This is the label seen when the panel is collapsed so it may need to be altered to fit a limited space. The active phrase should be wrapped in <i></i> tags.
 ;<i>Try the best</i> Firefox yet
-<i>Try the best</i> Firefox yet
+<i>Bešere šii</i> Firefox šiiyan se
 
 
 # This is the headline seen when the panel is open so it can be longer than the panel label.
 ;Try the best Firefox yet
-Try the best Firefox yet
+Bešere šii Firefox šiiyan se
 
 
 ;Learn more about the free desktop browser that’s committed to you, your privacy and an open Web.
-Learn more about the free desktop browser that’s committed to you, your privacy and an open Web.
+Bay ka tonton ordinater ceecikaw forbaa ga kaŋ huzunoo ti war de, war suturaa nda interneti feerantaa.
 
 
 ;See what’s new
-See what’s new
+Dii haya tejey
 
 
 # promo_makerparty, temporarily disabled
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 ;<i>Join</i> our <br>Maker Party
-<i>Join</i> our <br>Maker Party
+<i>Huru</i> ir <br>Maker Party batoo ra
 
 
 # promo_makerparty, temporarily disabled
 # This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 ;Join our global <br>Maker Party
-Join our global <br>Maker Party
+Huru ir adduɲɲaa-mee <br>Maker Party batoo ra
 
 
 # promo_makerparty, temporarily disabled
 ;From July to September, help us teach, learn and make the Web at hands-on community events.
-From July to September, help us teach, learn and make the Web at hands-on community events.
+Za žuyye hala sektanbur, ir faaba ka cawandi, caw nda interneti tee kanbe-goykaw jamaa batey ra.
 
 
 # promo_makerparty, temporarily disabled
 ;Learn about events near you
-Learn about events near you
+Bay batey kaŋ goo war gandaa ra
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>Help</i> Mozilla users
-<i>Help</i> Mozilla users
+Mozilla goykey <i>faaba</i>
 
 
 ;We need your help
-We need your help
+Ir ga baa war faabaa
 
 
 ;Learn about the ways you can help millions of users get the most out of their favorite browser.
-Learn about the ways you can help millions of users get the most out of their favorite browser.
+Bay takawey kaŋ nda war ga hin ka goykaw miliyoŋyaŋ gaa ka duu ngi ceecikaw cerecerantaa fellaa.
 
 
 ;Join our support team
-Join our support team
+Huru ir gaakašinay kondaa ra
 
 

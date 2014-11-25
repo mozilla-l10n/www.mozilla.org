@@ -1,4 +1,5 @@
-# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
+
 
 ;Get Monthly News
 Get Monthly News
@@ -63,8 +64,10 @@ We look forward to soon begin sharing tips &amp; tricks on getting the most out 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 
+
 ;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
 We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+
 
 ;Read all about it in our <span>newsletter</span>
 Read all about it in our <span>newsletter</span>
@@ -73,8 +76,10 @@ Read all about it in our <span>newsletter</span>
 ;Your newsletter subscription has been confirmed.
 Your newsletter subscription has been confirmed.
 
+
 ;Format
 Format
+
 
 ;You’re All Set! <span>But Wait, There’s More</span>
 You’re All Set! <span>But Wait, There’s More</span>
@@ -83,20 +88,127 @@ You’re All Set! <span>But Wait, There’s More</span>
 ;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
 Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
 
+
+# Name for the newsletter in Newsletter subscription page
 ;Firefox & You
 Firefox & You
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox & You)
+;A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
+A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox OS News
+Firefox OS News
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS News)
+;A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
+A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Mozilla Communities
+Mozilla Communities
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla Communities)
+;Bringing you the best new opportunities to help support the open Web.
+Bringing you the best new opportunities to help support the open Web.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox Student Ambassadors
+Firefox Student Ambassadors
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+;A monthly newsletter on how to get involved with Mozilla on your campus.
+A monthly newsletter on how to get involved with Mozilla on your campus.
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+;A monthly newsletter to keep you up to date with the Firefox Affiliates program.
+A monthly newsletter to keep you up to date with the Firefox Affiliates program.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox Apps & Hacks
+Firefox Apps & Hacks
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
+;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
+News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Mozillians
+Mozillians
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox for desktop
+Firefox for desktop
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+;Don’t miss the latest announcements about our desktop browser.
+Don’t miss the latest announcements about our desktop browser.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox for Android
+Firefox for Android
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+;Keep up with releases and news about Firefox for Android.
+Keep up with releases and news about Firefox for Android.
+
+
+# Description for the in Newsletter subscription page (Firefox OS)
+;Be the first to know when Firefox OS devices are available in your country.
+Be the first to know when Firefox OS devices are available in your country.
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+;Special announcements and messages from the team dedicated to keeping the Web free and open.
+Special announcements and messages from the team dedicated to keeping the Web free and open.
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Marketplace)
+;Know when the coolest apps hit the Marketplace for your platform:
+Know when the coolest apps hit the Marketplace for your platform:
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox OS smartphone owner?
+Firefox OS smartphone owner?
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+;Don’t miss important news and updates about your Firefox OS device.
+Don’t miss important news and updates about your Firefox OS device.
+
 
 ;Our Other Newsletters:
 Our Other Newsletters:
 
+
 ;Get the latest tips and tricks for getting the most out of your favorite browser.
 Get the latest tips and tricks for getting the most out of your favorite browser.
+
 
 ;Firefox Mobile
 Firefox Mobile
 
+
 ;Learn about the hottest new add-ons and features for Firefox mobile.
 Learn about the hottest new add-ons and features for Firefox mobile.
+
 
 ;Beta News
 Beta News
@@ -112,6 +224,42 @@ Firefox is also on your favorite social networking sites. Connect with us and jo
 
 ;Manage your <span>Newsletter Subscriptions</span>
 Manage your <span>Newsletter Subscriptions</span>
+
+
+;Manage your Email Preferences
+Manage your Email Preferences
+
+
+;We love sharing updates about all the awesome things happening at Mozilla.
+We love sharing updates about all the awesome things happening at Mozilla.
+
+
+;Set your preferences below to make sure you always receive the news you want.
+Set your preferences below to make sure you always receive the news you want.
+
+
+;Newsletters
+Newsletters
+
+
+;Getting too much email from us?
+Getting too much email from us?
+
+
+;Not interested in our newsletters, but like those special announcements? No problem.
+Not interested in our newsletters, but like those special announcements? No problem.
+
+
+;We can keep in touch with occasional messages that matter most to you.
+We can keep in touch with occasional messages that matter most to you.
+
+
+;Check all categories that apply to you, and we promise to keep the mail to a minimum.
+Check all categories that apply to you, and we promise to keep the mail to a minimum.
+
+
+;I’m interested in:
+I’m interested in:
 
 
 ;Subscribe
@@ -133,12 +281,14 @@ Remove me from all Mozilla emails
 ;Save Preferences
 Save Preferences
 
+
 ;Thanks for updating your email preferences.
 Thanks for updating your email preferences.
 
 
 ;You've been unsubscribed.
 You've been unsubscribed.
+
 
 ;We’re sorry to see you go. Would you mind telling us why you’re leaving?
 We’re sorry to see you go. Would you mind telling us why you’re leaving?
@@ -166,6 +316,7 @@ I'm keeping in touch with Mozilla on Facebook and Twitter instead.
 
 ;Submit
 Submit
+
 
 ;Thanks for telling us why you’re leaving.
 Thanks for telling us why you’re leaving.
@@ -195,6 +346,7 @@ Get Firefox news
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
 YOUR EMAIL HERE
+
 
 # Button
 ;Sign me up
@@ -326,29 +478,11 @@ Periodic email updates about our annual international film competition.
 
 
 # Description for the newsletter in Newsletter subscription page
-;A monthly newsletter to keep you up to date with the Firefox Affiliates program.
-A monthly newsletter to keep you up to date with the Firefox Affiliates program.
-
-
-# Description for the newsletter in Newsletter subscription page
-;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
-News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
-
-
-# Description for the newsletter in Newsletter subscription page
 ;Email updates for vouched Mozillians on mozillians.org.
 Email updates for vouched Mozillians on mozillians.org.
 
 
 # Description for the newsletter in Newsletter subscription page
-;A monthly newsletter on how to get involved with Mozilla on your campus.
-A monthly newsletter on how to get involved with Mozilla on your campus.
-
-
-# Description for the newsletter in Newsletter subscription page
 ;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
 Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
-
-
-
 

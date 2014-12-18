@@ -1,4 +1,6 @@
 ## active ##
+## firefox_sync_non_fx ##
+## firefox_sync_redesign ##
 ## sync_new_markup ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
@@ -12,7 +14,7 @@ Tayyor, moslash, sinxronlash
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+Siz ro‘yxatdan o‘tgansiz va Firefox’ga xohlagan vaqtingizda <em>your</em> xohlagan yeringizda kirishga tayyorsiz.
 
 
 ;Take your Web with you
@@ -20,7 +22,7 @@ Internet doim siz bilan birga
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+Firefox Sinx orqali qayerda bo‘lishingizdan qat’i nazar xatcho‘plaringiz, parollaring, ichki oynalaringiz va boshqa ko‘pgina narsalaringizga telefoningizdan, planshetingiz yoki kompyuteringizdan kirish uchun foydalanishingiz mumkin.
 
 
 ;It looks like you’re running an older version of Firefox.
@@ -28,7 +30,7 @@ Siz "Firefox"ning eski versiyasidan foydalanayotganga o‘xshaysiz.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-The new version of Sync only works with the latest version of Firefox
+Sinx’ning yangi versiyasi faqat Firefox’ning so‘nggi versiyasi bilan ishlaydi
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
@@ -37,7 +39,7 @@ Sinxronlash Firefox’ning zo‘r xususiyatlaridan faqatgina bittasi. Ularning h
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync is just one of the great features you’ll only get with Firefox.
+Sinx Firefox’dan siz oladigan eng zo‘r xususiyatlardan biridir.
 
 
 ;Download Firefox for Android
@@ -67,7 +69,7 @@ To‘rtta oson bosqichda sinxronlashni ishlatishni boshlang:
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+"Firefox"ning yuqori o‘ng tomonidan <a class="menu" href="%(url)s#w_a-handy-new-menu">menyu</a>ni oching va “<strong>Sinxronlash uchun kirish</strong>”ni bosing.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -105,7 +107,7 @@ Sinxronlashni oson besh bosqichda qanday moslash mumkin:
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+<strong>Menyu</strong> tugmasiga (ekranning pastida yoki brauzerning yuqori o‘ng burchagida) bosing.
 
 
 # This string is displayed on Android devices
@@ -120,7 +122,7 @@ Tap the <strong>Menu</strong> button (either below the screen or at the top righ
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+<strong>Firefox hisobi sahifasini yaratish</strong> yangi ichki oynada ochiladi.
 
 
 # This string is displayed on Android devices
@@ -146,7 +148,7 @@ Uyda
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Partangizdan divanga birorta detalni ham qoldirmasdan o‘ting. Telefoningizdagi ochiq ichki oynalaringizga kiring yoki xatcho‘plaringizni ko‘rish huquqini planshetingizda saqlang.
 
 
 ;At work

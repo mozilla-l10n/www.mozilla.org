@@ -1,13 +1,120 @@
+## NOTE: this page is used for the old version of Get Involved page. For the new version look at mozorg/contribute/ folder
+
+
+# Used for HTML title attribute
 ;Get Involved: Volunteer Opportunities at Mozilla
 Kanbe dam: Nafaw goy misey Mozilla do
 
 
-;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
-Widewo woo ceecikaw wažibandi kaŋ goo nda widewo feerante jinay wala <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+;The success of our mission depends on participation from people like you.
+Ir anniyaa ma too nga ši hun kala borey kaŋ ga hima war kanbedamyan ra.
 
 
-;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
-A mana too ma tee C++ goni (wala ma baa woo maanaa bay!) ka kanbuzaamay. <br><b>War Interneti baajoo de wasa.</b>
+;Proudly non-profit, Mozilla makes products like Firefox with a mission to keep the power of the Web in the hands of users everywhere.
+Bila nda arriba goy kaŋ nd'ir ga ɲaali, Mozilla ga jinayyaŋ tee sanda Firefox kaŋ ga anniyaa dii, hala intereneti sahã ma cindi goykey kanbey ra nungu kul ra.
+
+
+# Used as caption of the video in the new design
+;We are Mozillians
+Mozila-izey ti iri
+
+
+;This video shows members of the worldwide Mozilla community.
+Widewo woo ga Mozilla jamaa kondayzey cebe adduɲɲaa kul ra.
+
+
+# L10n: Used as a label for a button that plays a video.
+;Play video
+Widewo hẽenandi
+
+
+# L10n: Used as a label for a button that pauses a video.
+;Pause video
+Widewo hunanzam
+
+
+;Want to help?
+Ga baa faaba?
+
+
+;Area of interest?
+Boonay haya?
+
+
+;Helping Users
+Goykey faaba
+
+
+;Testing and QA
+Hennayyan adadu šiiyan
+
+
+;Coding
+Ašariya hantumyan
+
+
+;Marketing
+Feeyan
+
+
+;Localization and Translation
+Gorodoo kayandiyan nda šenni berandiyan
+
+
+;Web Development
+Interneti cinakayan
+
+
+;Firefox Marketplace
+Firefox Marketplace {ok}
+
+
+;Add-ons
+Tontoney
+
+
+;Visual Design
+Bii fasalyan
+
+
+;Documentation and Writing
+Fahamandiyan nda hantum
+
+
+;Education
+Cawyan
+
+
+;Other
+Tana
+
+
+;I have a suggestion for Firefox
+Ay ga haya foo honnandi Firefox se
+
+
+;I need help with a Firefox issue
+Ay ga baa faaba Firefox šenday foo se
+
+
+;YOUR EMAIL HERE
+WAR BATAGAA NE
+
+
+;Send us a note and we can get you started right away.
+Hantum-ize sanba ir še hal'ir ma hin ka war gaa ka tun sohõ.
+
+
+;Hi, I’m interested in…
+Baani de, woo n'ay ga baa...
+
+
+;I’d like to receive regular contribution news by email
+Ay ga boona hankul kanbuzaamay alhabar bataga ra
+
+
+;Submit&nbsp;»
+Sanba&nbsp;»
 
 
 ;Please enter a valid email address.
@@ -30,104 +137,133 @@ War boonay misey har ir še taare.
 War CAPTCHA zaaboo mana tenji. A tee koyne taare.
 
 
-;Want to help?
-Ga baa faaba?
-
-
-;YOUR EMAIL HERE
-WAR BATAGAA NE
-
-
-;Submit&nbsp;»
-Sanba&nbsp;»
-
-
-;Send us a note and we can get you started right away.
-Hantum-ize sanba ir še hal'ir ma hin ka war gaa ka tun sohõ.
-
-
-;Hi, I’m interested in…
-Baani de, woo n'ay ga baa...
-
-
-;I’d like to receive regular contribution news by email
-Ay ga boona hankul kanbuzaamay alhabar bataga ra
-
-
 ;Thank you for getting in touch.
 Foo nda alhabar nooyan.
+
+
+;We are sorry, but there was a problem with our system. Please try again later!
+War m'alhaa naŋ kaŋ war dii šenday nd'ir dabariɲaŋoo. Ceeci koyne taare!
 
 
 ;Someone from Mozilla will get back to you soon with information about how to get involved. While you’re waiting, browse through some of the volunteer opportunities available below.
 Mozilla boro foo ka tuuru war še nd'alhabar takaa kaŋ nda war ga huru goyoo ra ga. Kaŋ war goo ma batu, guna ne ganda kanbuzaamay goy fondawey kaŋ ga bara.
 
 
+;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
+A mana too ma tee C++ goni (wala ma baa woo maanaa bay!) ka kanbuzaamay. <br><b>War Interneti baajoo de wasa.</b>
+
+
+;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
+Maa hantum jirbiiyye alhabar bataga še kaŋ ga too nda jamaa alhabar nda kanbuzaamay fondo.
+
+
+# Subject of email sent to end-users
+;Welcome to Mozilla!
+Kubayni Mozilla do!
+
+
 ;Find an opportunity
 Goymee foo sanbu
 
 
-;Sort By:
-Fay nda:
-
-
-;Interest
-Binebaayi
-
-
-;Location
-Gorodoo
-
-
-;Newsletter
-Alhabar bataga
-
-
-;Helping Users
-Goykey faaba
-
-
-;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
-Ga booma ka borey gaa ka goy nda Firefox and Mozilla porože taney ngey fellaa ra? Ir gaakašinay fondaa ga naata goykaw ɲaakante sanda war da ga.
+# Helping users
+;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
+Ir gaakašinay fondaa ra kanbuzaakaw booboyaŋ goo ga gaa borey jerey da ma duu Mozilla jinawey fellaa. Bay ka tonton <a href="%(fx_support_url)s">taka kaŋ nda boro ga Firefox goykey faaba</a> nda <a href="%(tb_support_url)s">taka kaŋ nda boro ga Thunderbird goykey faaba</a>.
 
 
 ;Quality Assurance
 Hennari alhakiikandiyan
 
 
-;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
-Hennari alhakiikandiyan šiiroo goo fondo kul faalantey ra kaŋ nda Mozilla ga tunandi nda 
+;Quality Assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools.
+Hennayyan alhakiikandiyan šiiyanoo goo fondo kul faalantey ra kaŋ nda Mozilla ga tunandi nd'a ga tee dabari šifante kaŋ nda boro g'ir ašariyawey nda goyjinawey bay.
 
 
-;Help us <a href="http://quality.mozilla.org/teams/desktop-firefox/">hunt down bugs</a> in Firefox, <a href="http://quality.mozilla.org/teams/web-qa/">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
-Ir gaa ka<a href="http://quality.mozilla.org/teams/desktop-firefox/">goy laybey hoo</a> Firefox ra, <a href="http://quality.mozilla.org/teams/web-qa/">Mozilla Interneti nungey šii</a> wala bay ka tonton <a href="%(qa_url)s">šiiyan fondo taney</a> ga.
+;<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
+<a href="%(oneanddone_url)s">Goy foo suuba Affoo nda Ben ra</a> ka šintin, goy <a href="%(desktopfx_url)s">Desktop Firefox</a> ga, <a href="%(websites_url)s">ka Mozilla interneti nungey šii</a>, <a href="%(testday_url)s">kaa ir bande šiiyan zaari se</a>, wala <a href="%(qateams_url)s">bay ka tonton šiiyan fondawey ga</a>.
 
 
-;Coding
-Ašariya hantumyan
-
-
-;<a href="https://developer.mozilla.org/en/Introduction">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others.
-<a href="https://developer.mozilla.org/en/Introduction">Cinakey ga hin ka gaa</a> nda alhaali taaga tontoni Mozilla ga, ka too ir dabaribayraa ma kacca nda cahã nd'a ma borey jerey gaa ka koy nda jine nda faala.
-
-
-;You can find many developers on <a href="http://irc.mozilla.org">IRC</a> so stop by and ask questions to learn more. Our web sites are <a href="http://blog.mozilla.com/webdev/get-involved/">open for web ninjas</a> to hack on too.
-War ga hin ka dii cinakaw booboyaŋ <a href="http://irc.mozilla.org">IRC</a> ga, adiši kay ne nda wa hãa ka bay ka tonton. Ir Interneti nungey ga <a href="http://blog.mozilla.com/webdev/get-involved/">feera Interneti ninja-yaŋ še</a> k'i kaa carmay.
+# Coding
+;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
+<a href="%(dev_intro_url)s">Cinakey ga hin ka faaba</a> nd'i ga Mozilla alhaali taagey tonton, k'ir goyyan dabari taagey boryandi nda cahãndi nda ga cinayan faaalandi borey se. Har ir se <a href="%(what_url)s">war porogaram hantumyan šennoo kaasoo</a> nd'ir ga porožewoo ceeci war se.
 
 
 ;Spread the Word
 Alhabaroo say
 
 
-;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="https://affiliates.mozilla.org">becoming an Affiliate</a> and then check out our <a href="https://wiki.mozilla.org/MarketingGuide">Marketing Guide</a> for more ways to get involved.
-Ir gaa k'alhabaroo say takaa kaŋ nda Firefox nda Mozilla goo ma Interneti bešere cin. Firefox žemna adduɲɲaa še nda <a href="https://affiliates.mozilla.org">war tee margante</a> nda wa guna ir <a href="https://wiki.mozilla.org/MarketingGuide">Feeyan tiira</a> ka dii takawey kaŋ nda war mma hin ka kanbe dam.
+;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
+Ir gaa k'alhabaroo say takaa kaŋ nda Firefox nda Mozilla porože taney goo ma interneti bešere cin. Firefox žemna adduɲɲaa se nda war <a  href="%(affiliates_url)s">ma tee kondayze</a> nda wa guna ir <a href="%(marketing_url)s">Feeyan tiira</a> ka dii takawey kaŋ nda war mma hin ka kanbe dam.
 
 
-;Find out about <a href="/contribute/areas.html">more areas of interest…</a>
-Guna da <a href="/contribute/areas.html">binebaayi gandawey ka tonton…</a>
+;Localization
+Berandiyan
+
+
+;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
+Kanbe dam Mozilla ka Firefox, Thunderbird nda porože taney <a href="%(l10n_url)s">kaŋ ga bara war šennoo ra</a>. Nd'ir gaa ka har adduɲɲaa se takaa kaŋ nda Mozilla goo nda interneti bešere cin nda <a href="%(l10n_web_url)s">gundekuna berandiyan</a> ir interneti nungey ra.
+
+
+# Web development
+;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
+Ir interneti nungey ga feera interneti cinakey se ka alhiila šii. <a href="%(webdev_url)s">Zaa interneti porože foo</a> ka šintin a ga. War interneti waanaa ga hin ka <a href="%(gaia_url)s">ir gaa k'ir Firefox OS taagaa tee</a>.
+
+
+# Firefox Marketplace
+;<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
+<a href="%(marketplace_url)s">Firefox Marketplace</a ga gundekuna noo – hooray, miiziki, jama porogaramize nda tanayaŋ – kaŋ cinandi nda HTML5 alhaali tabatantey nda aššil feerante anniya. Nda waanay alkadar kul <a href="%(mktcontrib_url)s">kanbuzaamay</a>, a ga faala boro ma nga kayna tee!
+
+
+# Add-ons
+;Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
+Tontoney ga too Firefox ma hin ka cendandi ka tee ceecikaw kul ifaalaataa kaŋ ga bara. Šintin <a href="%(addons_url)s">ka tontoni foo cin</a>, nda <a href="%(addons_wiki)s">bay ka tonton fondawey kaŋ nda war ga hin ka kanbuzaamay tee</a>.
+
+
+# Visual design
+;We want to make it possible for artists to cover the web and people with designs inspired by Mozilla. Check out the <a href="%(creative_url)s">Creative team blog</a> for more information about how to take part.
+Ir ga baa goyteerey ma hin ka hin ka interneti nda borey taalam nda Mozilla noonawey. Ir <a href="%(creative_url)s">Goyteeri konday blogoo</a> guna ka duu alhabar tontoni kanbedamyan fondaa ga.
+
+
+# Documentation and writing
+;The Mozilla Developer Network is the hub for information about Mozilla technologies. Help <a href="%(dev_url)s">make our documentation better</a> by writing new content, correcting existing material or translating content into new languages.
+Mozilla Developer Network ti marga doo Mozilla dabaribayray alhabarey se. Gaa <a href="%(dev_url)s">k'ir fahamandi tiiraa boryandi ka tonton</a> nda gundekuna hantumm hantum barantey šerrandi wala ka gundekuna berandi šenni taagayaŋ ra.
+
+
+# Education
+;Interested in helping others understand how the Web works? <a href="%(webmaker)s">Mozilla Webmaker</a> is a global community dedicated to sharing digital skills using <a href="%(webmaker_tools)s">free tools</a>, <a href="%(webmaker_resources)s">teaching resources</a> and <a href="%(webmaker_events)s">community events</a>.
+War ga boona ka gaa ka borey fahamandi nda interneti goyyan? <a href="%(webmaker)s">Mozilla Webmaker</a> ti adduɲɲaa-mee jamaa kaŋ ga durkutu ka ordinater goy waanay žemni nda <a href="%(webmaker_tools)s">goyjinay forba</a>, <a href="%(webmaker_resources)s">cawandi tiira</a> nda <a href="%(webmaker_events)s">jama batey</a>.
+
+
+# Fellowships
+;Fellowships
+Cawyan nooru
+
+
+;Interested in shaping the future of the open Web? Knight-Mozilla’s <a href="%(fellowship)s">OpenNews Fellowship program</a> matches emerging digital leaders with journalism opportunities to build the open Web for everyone.
+War ga baa ka hiino internetoo fasal? Knight-Mozilla <a href="%(fellowship)s">OpenNews Cawyan nooru porogaramoo</a> ka kanbe dam ka interneti goy jineborey sahãndi nda alhabar toonandiyan ka interneti cin kaŋ ga feeri borey kul se.
+
+
+# For reference see http://hivelearningnetworks.org
+;Hive Networks
+Networks
+
+
+# For reference see http://hivelearningnetworks.org
+;<a href="%(hivenetworks)s">Hive Learning Networks</a> are a growing constellation of communities around the globe that are championing digital skills and web literacy through connected learning. <a href="%(hivenetworks)s">Learn more</a> about how to start a Hive in your community.
+<a href="%(hivenetworks)s">Hive Learning Networks</a> ti jama margayaŋ kaŋ goo ma fatta adduɲɲaa kul ra ka ordinater nda interneti waanay boobandi nda interneti-bande cawyan. <a href="%(hivenetworks)s">Bay ka tonton</a> taka kaŋ war ga hin ka Hive foo šintin war gandaa ra.
+
+
+# Old string, will be removed when all locales have the new text
+;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
+Faaba ka zaman taagaa interneti cinakey gorandi nda war ga borey waanandi taka kaŋ interneti ga dira. <a href="%(moz_webmaker)s ">Guna woo kaŋ Mozilla Webmaker porožewoo g'a tee</a> wala ka šintin ka borey cawandi <a href="%(webmaker)s">batu foo ra war koyraa ra hõ</a>.
 
 
 ;map
 dawšifa
+
+
+;Find Mozillians near you
+Dii Mozilla-izey war gandaa ra
 
 
 ;US and Canada
@@ -154,17 +290,77 @@ Azi nda Pazifiki gurma
 Antarkutika
 
 
-;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
-Maa hantum jirbiiyye alhabar bataga še kaŋ ga too nda jamaa alhabar nda kanbuzaamay fondo.
+;Sort By:
+Fay nda:
+
+
+;Interest
+Binebaayi
+
+
+;Location
+Gorodoo
+
+
+;Newsletter
+Alhabar bataga
+
+
+;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
+Ga booma ka borey gaa ka goy nda Firefox and Mozilla porože taney ngey fellaa ra? Ir gaakašinay fondaa ga naata goykaw ɲaakante sanda war da ga.
 
 
 ;Thank you!
 Foo nda goy!
 
 
-;You can also join our <a href="https://support.mozilla.org/army-of-awesome">Army of Awesome</a> by helping users on Twitter.
-War ga hin ka huro da <a href="https://support.mozilla.org/army-of-awesome">Army of Awesome</a> ra ka goykey gaa Twitter ga.
+;Accessibility is about making things work for everyone. Help <a href="%(access_url)s">create tools and resources for Firefox end users with disabilities</a> and help <a href="%(access_wiki)s">make web content available to non visual agents</a> such as screen readers.
+Jinayyaŋ tee kaŋ boro kul ga hin ka duu w'ey. Faaba <a href="%(access_url)s">ka jinayyan nda dalilyaŋ tee interneti goykey kaŋ goo nda nakaši tanayaŋ</a> nda gaa <a href="%(access_wiki)s">ka interneti gundekuna tee kaŋ duwandi borey kaŋ ši dii haya se</a> sanda diji cawkey.
 
 
-;Find out more about <a href="https://support.mozilla.org/kb/superheroes-wanted">supporting Firefox</a> and <a href="http://support.mozillamessaging.com/en-US/kb/superheroes-wanted">Thunderbird</a> users.
-Caw ka tonton <a href="https://support.mozilla.org/kb/superheroes-wanted">Firefox gaakašinay</a> nda <a href="http://support.mozillamessaging.com/en-US/kb/superheroes-wanted">Thunderbird</a> goykey ga.
+;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!
+Huru ceeciyan konday ra&mdash;nda war ga baa ka <a href="%(survey_url)s">kanbe dam hiino ceeci-caw ra</a>, <a href="%(test_email)s">goyyan šiiyan tee</a> war boŋ ga wala <a href="%(test_pilot)s">šiiyan bayhayey fesu-fesu</a>&mdash;ir ga war ma kaa ir do!
+
+
+;Facebook
+Facebook {ok}
+
+
+;Firefox Affiliates
+Firefox kondantey
+
+
+;Developer Documentation
+Fahamandi tiira cinakey se
+
+
+;Mozilla
+Mozilla {ok}
+
+
+;Thank you for signing up!
+Foo nda war maa hantumoo!
+
+
+;Menu
+Šilbayboŋ
+
+
+;Twitter
+Twitter {ok}
+
+
+;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+Widewo woo ceecikaw wažibandi kaŋ goo nda widewo feerante jinay wala <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+
+
+# Old string, will be removed when all locales have the new text
+;Quality assurance testing is one of the easiest ways to get started with Mozilla and is a great way to get familiar with our code and tools. Help us <a href="%(qa_bugs_url)s">hunt down bugs</a> in Firefox, <a href="%(qa_web_url)s">test Mozilla web sites</a> or learn more about <a href="%(qa_url)s">other testing opportunities</a>.
+Šiiyan kaŋ ga hennandiyan tabatandi ti fondo faalante ka šintin nda Mozilla nda woo ga boori ka ašariya nda goyjinawey bay jina. Ir gaa ka <a href="%(qa_bugs_url)s">hasaraw dogey cebe</a> Firefox ra, <a href="%(qa_web_url)s">Mozilla interneti nungey šii</a> wala bay ka tonton <a href="%(qa_url)s">šiiyan fondo tanayaŋ</a> ga.
+
+
+# Old string, will be removed when all locales have the new text
+;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
+Mozilla jinawey goo nda dobuyan dabariɲaa sahãntaa kaŋ nda hansari wala tontoni kaynayaŋ ga hin ka tee. Bay ka tonton taka kaŋ nda <a href="%(addons_url)s">tontoni ga cina</a>. Waanay cinakey se, war ga hin ka hin ka <a href="%(addons_wiki)s">tee AMO wallafikaw</a>.
+
+

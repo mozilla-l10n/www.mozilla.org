@@ -31,7 +31,7 @@ Mae Mozilla Firefox yn cynnig y nodwedd Dim Tracio sy'n caniatáu i chi ddewis p
 
 
 ;Frequently Asked <span>Questions</span>
-<span>Cwestiynau</span>Cyffredin
+<span>Cwestiynau</span> Cyffredin
 
 
 ;What is Do Not Track?
@@ -39,15 +39,15 @@ Beth yw Dim Tracio?
 
 
 ;Do Not Track is a step toward putting you in control of the way your information is collected and used online. Do Not Track is a feature in Firefox that allows you to let a website know you would like to opt-out of third-party tracking for purposes including behavioral advertising. It does this by transmitting a Do Not Track HTTP header every time your data is requested from the Web.
-Mae Dim Tracio'n gam tuag at eich rhoi i chi reolaeth o'r ffordd mae eich manylion yn cael eu casglu a'i ddefnyddio ar-lein. Mae Dim Tracio'n nodwedd o fewn Firefox sy'n caniatáu i chi adael i wefannau wybod nad ydych am fod yn rhan o dracio trydydd parti ar gyfer pethau fel hysbysebu ymddygiadol. Mae'n gwneud hyn drwy ddangos pennyn HTTP Dim Tracio bob tro mae cais am eich manylion ar y We.
+Mae Dim Tracio'n gam tuag at eich rhoi i chi reolaeth o'r ffordd mae eich manylion yn cael eu casglu a'u defnyddio ar-lein. Mae Dim Tracio'n nodwedd o fewn Firefox sy'n caniatáu i chi adael i wefannau wybod nad ydych am fod yn rhan o dracio trydydd parti ar gyfer pethau fel hysbysebu ymddygiadol. Mae'n gwneud hyn drwy ddangos pennyn HTTP Dim Tracio bob tro mae'n derbyn cais am eich manylion ar y We.
 
 
 ;Is Do Not Track available on Firefox for Android?
-Ydy Dim Tracio ar gael yn Firefox Android?
+Ydy Dim Tracio ar gael ar Firefox Android?
 
 
 ;Yes. Firefox for Android is the first mobile Web browser to offer the Do Not Track privacy feature, and behaves the same way it does on the desktop. To turn Do Not Track on in Firefox for Android, simply swipe left and tap on Browser Tools. From the Preferences pane, tap on the box next to &quot;Tell sites not to track me&quot; to turn this option on or off.
-Ydy. Firefox Android yw'r porwr gwe symudol cyntaf i gynnig y nodwedd preifatrwydd Dim Tracio, ac mae'n gweithio'n yr un ffordd âr fersiwn ar gyfrifiadur. I gychwyn Dim Tracio yn Firefox Android, llusgwch i'r chwith a thapio ar Offer Porwr. O'r Dewisiadau, tapiwch y blwch nesaf at &quot;Dweud wrth wefannau i beisio fy nrhacio&quot; i gychwyn neu ddiffodd y dewis hwn.
+Ydy. Firefox Android yw'r porwr gwe symudol cyntaf i gynnig y nodwedd preifatrwydd Dim Tracio, ac mae'n gweithio yn yr un ffordd a'r fersiwn ar gyfrifiadur. I gychwyn Dim Tracio ar Firefox Android, llusgwch i'r chwith a thapio ar Offer Porwr. O'r Dewisiadau, tapiwch y blwch nesaf at &quot;Dweud wrth wefannau i beidio fy nrhacio&quot; i gychwyn neu ddiffodd y dewis hwn.
 
 
 ;Does Do Not Track block ads?
@@ -67,15 +67,15 @@ Mae Dim Tracio'n un o nifer o atebion ar gyfer preifatrwydd. Nid yw Dim Tracio'n
 
 
 ;Will Do Not Track affect the rest of my Web experience?
-A fydd Dim Tracio'n effeithio ar fy mhrofiad ar y We?
+A fydd Dim Tracio yn effeithio ar fy mhrofiad ar y We?
 
 
 ;Do Not Track may interfere with some personalized services you enjoy. For example, a Do Not Track request might mean you would have to type in your zip code each time you want to view a weather report, rather than seeing the weather automatically displayed. Personalization on websites can save you time and repetitive typing, but it requires data.
-Gall Dim Tracio effeithio ar rhai gwasanaethau personol rydych y eu mwynhau. Er enghraifft, gall cais Dim Tracio olygu bod yn rhaid i chi deipio eich cod post bob tro rydych am weld adroddiad tywydd, yn lle gweld y tywydd yn cael ei ddangos yn awtomatig. Mae personoli ar wefannau yn gallu arbed amser a theipio ond mae'n gofyn am ddata.
+Gall Dim Tracio effeithio ar rhai gwasanaethau personol rydych y eu mwynhau. Er enghraifft, gall cais Dim Tracio olygu bod yn rhaid i chi deipio eich cod post bob tro rydych am weld adroddiad tywydd, yn lle gweld y tywydd yn cael ei ddangos yn awtomatig. Mae personoli ar wefannau yn gallu arbed amser a theipio, ond mae'n gofyn rhannu am data.
 
 
 ;How do I enable Do Not Track in Firefox?
-Sut ydw i'n cychwyn Dim Tracio yn Firefox?
+Sut ydw i'n cychwyn Dim Tracio ar Firefox?
 
 
 ;This feature is not enabled by default. You can find the Do Not Track request on the Privacy pane. <span id="%(id)s">On Windows, go to Tools &gt; Options&hellip; &gt; Privacy.</span>
@@ -87,7 +87,7 @@ Ar Max OS X, ewch i Firefox &gt; Dewisiadau... &gt; Preifatrwydd. Ar Linux, ewch
 
 
 ;Click to check the box next to &quot;Tell websites I do not want to be tracked&quot;. For more information, see the help file on <a href="%(url)s">how to stop websites from tracking you</a>.
-Cliciwch i dicio'r blwch nesaf at &quot;Dweud wrth wefannau: Dim Tracio&quot;. Am ragor o wybodaeth, gw y ffeil gymorth ar <a href="%(url)s">sut mae stopio gwefannau rhag eich tracio </a>.
+Cliciwch i dicio'r blwch nesaf at &quot;Dweud wrth wefannau: Dim Tracio&quot;. Am ragor o wybodaeth, gw y ffeil Cymorth ar <a href="%(url)s">sut mae rhwystro gwefannau rhag eich tracio </a>.
 
 
 ;Will companies honor my Do Not Track preference?
@@ -107,7 +107,7 @@ Gwaith arall o ddiddordeb am Dim Tracio a phreifatrwydd ar-lein:
 
 
 ;<a href="%s">Private browsing</a> in Firefox &#8212; limits saving data about which sites and pages you have visited online
-Mae <a href="%s">pori preifat</a> yn Firefox &#8212; yn cyfyngu ar gadw data ar dudalennau a gwefannau rydych wedi ymweld â nhw.
+Mae <a href="%s">pori preifat</a> yn Firefox &#8212; yn cyfyngu ar gadw data ar dudalennau a gwefannau rydych wedi ymweld â nhw
 
 
 ;<a href="%(url1)s">Managing cookies</a> in Firefox &#8212; lets you control how <a href="%(url2)s">cookies</a> are saved on your computer
@@ -115,11 +115,11 @@ Mae <a href="%(url1)s">rheoli cwcis</a> yn Firefox &#8212; yn caniatáu i chi re
 
 
 ;<a href="%s">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from Mozilla’s Technology and Privacy Officer
-<a href="%s">Blog Mozilla Alex Fowler&#8212; y newyddion diweddaraf gan Swyddog Technoleg a Phreifatrwydd Mozilla.
+<a href="%s">Blog Mozilla Alex Fowler</a> &#8212; y newyddion diweddaraf gan Swyddog Technoleg a Phreifatrwydd Mozilla
 
 
 ;<a href="%s">donottrack.us</a> project &#8212; Stanford researchers working on the ideas behind Do Not Track
-Project&#8212; <a href="%s">donottrack.us</a> yr ymchwilwyr o Stanford sy'n gweithio ar y syniadau tu ól i Dim Tracio
+Project&#8212; <a href="%s">donottrack.us</a> gan yr ymchwilwyr o Stanford sy'n gweithio ar y syniadau tu ôl i Dim Tracio
 
 
 ;The Tracking Preference Expression (DNT) <a href="%s">W3C Editor’s Draft</a>
@@ -127,7 +127,7 @@ The Tracking Preference Expression (DNT) <a href="%s">Drafft Golygyddol W3C</a>
 
 
 ;Tracking Compliance and Scope <a href="%s">W3C Editor’s Draft</a>
-Tracking Compliance and Scope <a href="%s">Drafft Golygyddol W3C</a></a>
+Tracking Compliance and Scope <a href="%s">Drafft Golygyddol W3C</a>
 
 
 ;The W3C <a href="%s">Tracking Protection Working Group</a>
@@ -139,15 +139,15 @@ Tracking Compliance and Scope <a href="%s">Drafft Golygyddol W3C</a></a>
 
 
 ;See <a href="%s">where your data goes</a> before you click &#8212; an image from the Future of Privacy Forum
-Gweld <a href="%s">lle mae'ch manylion yn mynd</a> cyn clicio &#8212; delwedd o'r Future of Privacy Forum
+Gweld <a href="%s">lle mae'ch manylion yn mynd</a> cyn clicio &#8212; darlun gan y Future of Privacy Forum
 
 
 ;Mozilla and Stanford’s Do Not Track <a href="%(url)s">submission to the IETF</a> &#8212; IETF is a standards body that helps define how the Web works, regardless of which Internet browser you use
-Cyflwyniad Mozilla a Stanford ar Do Not Track (Dim Tracio) <a href="%(url)s">i'r IETF</a> &#8212; Mae IETF yn gorff safoni sy'n cynorthwyo i ddiffinio sut mae'r We'n gweithio, pa bynnag borwr rydych yn ei ddefnyddio
+Cyflwyniad Mozilla a Stanford ar Do Not Track (Dim Tracio) <a href="%(url)s">i'r IETF</a> &#8212; IETF yw'r cgorff safoni sy'n cynorthwyo i ddiffinio sut mae'r We'n gweithio, pa bynnag borwr rydych yn ei ddefnyddio
 
 
 ;Enable Do Not Track in Firefox
-Cychwyn Dim Tracio yn Firefox
+Cychwyn Dim Tracio ar Firefox
 
 
 ;Options window - Advanced panel - Do Not Track
@@ -167,6 +167,6 @@ Cychwyn Dim Tracio ar Internet Explorer 9
 
 
 ;To enable Do Not Track in IE 9, you need to enable IE 9’s <a href="%(url)s">Tracking Protection</a> feature. The easiest way to do that is to install <a href="%(tpl)s">Mozilla’s Simple Tracking Protection List</a>. If you view this page in IE 9, there will be instructions right here.
-I gychwyn Dim Tracio yn IE 9 mae angen i chi gychwyn ei nodwedd <a href="%(url)s">Diogelu Rhag Tracio</a>. Y ffordd hawsaf o wneud hynny yw gosod <a href="%(tpl)s">Rhestr Syml Diogelu Rhag Tracio Mozilla</a>. Os ydych yn darllen y dudalen hon yn IE 9 bydd cyfarwyddiadau ar gael ar eich cyfer yma.
+I gychwyn Dim Tracio ar IE 9, mae angen i chi gychwyn ei nodwedd <a href="%(url)s">Diogelu Rhag Tracio</a>. Y ffordd hawsaf o wneud hynny yw gosod <a href="%(tpl)s">Rhestr Syml Mozilla ar Ddiogelu Rhag Tracio </a>. Os ydych yn darllen y dudalen hon yn IE 9 bydd cyfarwyddiadau ar gael ar eich cyfer yma.
 
 

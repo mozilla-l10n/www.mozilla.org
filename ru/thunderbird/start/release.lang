@@ -50,6 +50,12 @@ Thunderbird исполнилось 10 лет. С днём рождения!
 Если вы не можете найти ответ, <a href="%s">задайте свой вопрос на нашем форуме поддержки</a>.
 
 
+# If your locale has a dedicated Thunderbird support forum, you can localize the URL
+# used in the previous string to point there. Otherwise simply mark the string as {ok}
+;https://support.mozilla.org/questions/new/thunderbird
+https://support.mozilla.org/questions/new/thunderbird
+
+
 ;Features
 Возможности
 

@@ -21,6 +21,7 @@ Thunderbird に貢献しよう
 ;To ensure that Thunderbird continues to improve, as it has for the last ten years, active contributors <a href="%s">recently organized</a> to focus on the future.
 過去 10 年と同様に、Thunderbird を改良し続けるため、 <a href="%s">貢献者が結束し</a>、未来に向かって集中することとなりました。
 
+
 ;Now is a great time for you to <a href="%s" class="iconic">get involved</a>.
 そんな今こそ <a href="%s" class="iconic">貢献する</a>チャンスです。
 
@@ -47,6 +48,12 @@ Thunderbird に貢献しよう
 
 ;If you can’t find an answer, <a href="%s">ask your question on our support forum</a>.
 こちらで解決できない場合は、<a href="%s">サポートフォーラム</a> をご利用ください。
+
+
+# If your locale has a dedicated Thunderbird support forum, you can localize the URL
+# used in the previous string to point there. Otherwise simply mark the string as {ok}
+;https://support.mozilla.org/questions/new/thunderbird
+https://support.mozilla.org/questions/new/thunderbird
 
 
 ;Features

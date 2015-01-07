@@ -50,6 +50,12 @@ La majoria de preguntes sobre el Thunderbird tenen resposta a la <a href="%s">Ba
 Si no trobeu la resposta, <a href="%s">feu una pregunta al nostre fòrum de suport</a>.
 
 
+# If your locale has a dedicated Thunderbird support forum, you can localize the URL
+# used in the previous string to point there. Otherwise simply mark the string as {ok}
+;https://support.mozilla.org/questions/new/thunderbird
+https://support.mozilla.org/questions/new/thunderbird
+
+
 ;Features
 Característiques
 

@@ -50,6 +50,12 @@ Většina dotazů k Thunderbirdu je zodpovězena v <a href="%s">Nápovědě k Th
 Pokud se vám nepodaří odpověď na vaši otázku nalézt, <a href="%s">zeptejte se přímo na našem fóru</a>.
 
 
+# If your locale has a dedicated Thunderbird support forum, you can localize the URL
+# used in the previous string to point there. Otherwise simply mark the string as {ok}
+;https://support.mozilla.org/questions/new/thunderbird
+https://support.mozilla.org/questions/new/thunderbird
+
+
 ;Features
 Vlastnosti
 

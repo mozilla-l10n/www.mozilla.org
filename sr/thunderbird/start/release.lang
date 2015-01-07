@@ -50,6 +50,12 @@ Mozilla је најавила Thunderbird 1.0 пре десет година. Д
 Ако не можете наћи одговор, <a href="%s">поставите питање на нашем форуму подршке</a>.
 
 
+# If your locale has a dedicated Thunderbird support forum, you can localize the URL
+# used in the previous string to point there. Otherwise simply mark the string as {ok}
+;https://support.mozilla.org/questions/new/thunderbird
+https://support.mozilla.org/questions/new/thunderbird
+
+
 ;Features
 Могућности
 

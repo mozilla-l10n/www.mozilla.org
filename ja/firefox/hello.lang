@@ -17,12 +17,12 @@ Firefox Hello の詳細な説明。どこの誰とでも無料でつながるビ
 # In this case 'hello' is simply a greeting, not the product name. The message is that Firefox Hello is easy to use, as easy as greeting someone.
 # An alternative headline could be "The easiest way to connect".
 ;As easy as saying hello
-あいさつと同じくらいの気軽さで
+<span style="display:inline-block;">あいさつと</span><span style="display:inline-block;">同じくらいの</span><span style="display:inline-block;">気軽さで</span>
 
 
 # “Firefox Hello” is the product name and should not be localized
 ;Meet Firefox Hello, the easiest way to connect for free over video with anyone, anywhere.
-Firefox Hello。どこにいる誰とでも。ブラウザだけで簡単に使えるビデオ通話。
+<span style="display:inline-block;">どこにいる誰とでも。</span><span style="display:inline-block;">ブラウザだけで</span><span style="display:inline-block;">簡単に使える</span><span style="display:inline-block;">ビデオ通話。</span><span style="display:inline-block;">Firefox Hello。</span>
 
 
 # “Firefox Hello” is the product name and should not be localized
@@ -31,7 +31,7 @@ Firefox Hello を起動
 
 
 ;All you need is Firefox
-必要なのは Firefox だけ
+<span style="display:inline-block;">必要なのは</span> <span style="display:inline-block;">Firefox だけ</span>
 
 
 # “Hello” is the product name and should not be localized
@@ -48,11 +48,11 @@ Hello を使うのに必要なものは、最新の Firefox だけ。
 
 
 ;Simple.
-シンプル。
+とても気軽に始められます。
 
 
 ;Invite anyone, anywhere
-どこにいる誰とでも
+<span style="display:inline-block;">どこにいる</span><span style="display:inline-block;">誰とでも</span>
 
 
 # “Hello” is the product name and should not be localized
@@ -69,7 +69,7 @@ Firefox と互換性があるブラウザであれば、通話に参加できま
 
 
 ;Safe, secure, protected
-プライバシーの面でも安心、安全
+<span style="display:inline-block;">プライバシーの面でも</span><span style="display:inline-block;">安心、</span><span style="display:inline-block;">安全</span>
 
 
 # “Hello” is the product name and should not be localized
@@ -82,7 +82,7 @@ Firefox はプライバシーを第一に作られています。そんな Firef
 
 
 ;Do more with a Firefox Account
-Firefox アカウントがあれば、より便利に
+<span style="display:inline-block;">Firefox アカウントがあれば、<span style="display:inline-block;"><span style="display:inline-block;">より便利に</span>
 
 
 ;To start a conversation with someone directly, simply create a free Firefox Account or sign in if you have one already &mdash; it’s the same account you use with Sync.
@@ -94,7 +94,7 @@ Firefox アカウントがあれば、通話をするのにリンクを送る必
 
 
 ;Get Firefox to get started
-Firefox をダウンロードして、Hello をはじめよう
+<span style="display:inline-block;">Firefox を</span><span style="display:inline-block;">ダウンロードして、<s/apn><span style="display:inline-block;">Hello を</span><span style="display:inline-block;">はじめよう</span>
 
 
 # “Hello” is the product name and should not be localized
@@ -107,11 +107,11 @@ Hello をはじめませんか？
 
 
 ;Download Firefox to start your first conversation.
-Firefox をダウンロードして、最初の通話を体験しよう。
+<span style="display:inline-block;">Firefox を</span><span style="display:inline-block;">使って、</span><span style="display:inline-block;">最初の通話を</span><span style="display:inline-block;">体験しよう。</span>
 
 
 ;Get Firefox and start your first conversation
-Firefox をダウンロードして、最初の通話を体験しよう。
+<span style="display:inline-block;">Firefox を</span><span style="display:inline-block;">使って、</span><span style="display:inline-block;">最初の通話を</span><span style="display:inline-block;">体験しよう。</span>
 
 
 ;Update your Firefox to start using Hello
@@ -119,7 +119,7 @@ Firefox をダウンロードして、最初の通話を体験しよう。
 
 
 ;Start your first conversation today
-最初の通話を体験しませんか？
+<span style="display:inline-block;">最初の通話を</span><span style="display:inline-block;">体験しませんか？</span>
 
 
 # “Hello” is the product name and should not be localized

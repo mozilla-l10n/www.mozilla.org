@@ -47,13 +47,13 @@ De fleste spørgsmål om Thunderbird er allerede besvaret i vores <a href="%s">v
 
 
 ;If you can’t find an answer, <a href="%s">ask your question on our support forum</a>.
-Kan du ikke finde svar på et spørgsmål, kan du spørge i vores engelske <a href="%s">supportforum</a>. Du kan få hjælp på dansk i MozillaDanmarks <a href="http://forum.mozilladanmark.dk/viewforum.php?f=2">danske supportforum</a>.
+Kan du ikke finde svar på et spørgsmål, kan du spørge i vores <a href="%s">supportforum</a>.
 
 
 # If your locale has a dedicated Thunderbird support forum, you can localize the URL
 # used in the previous string to point there. Otherwise simply mark the string as {ok}
 ;https://support.mozilla.org/questions/new/thunderbird
-https://support.mozilla.org/questions/new/thunderbird
+http://forum.mozilladanmark.dk/viewforum.php?f=2
 
 
 ;Features

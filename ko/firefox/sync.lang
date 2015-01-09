@@ -4,70 +4,70 @@
 
 
 ;Keep your Firefox in sync
-Sync와 함께 Firefox를 사용하세요
+Firefox 동기화 사용하기
 
 
 ;Ready, Set, Sync
-Ready, Set, Sync
+준비, 설정 및 동기화
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+가입하시면 언제 어디서나 여러분의 <em>최신</em> Firefox를 사용할 수 있습니다.
 
 
 ;Take your Web with you
-Take your Web with you
+어디서나 최신 웹 서비스
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+여러분의 스마트폰, 태블릿 및 PC에서 언제 어디서나 최신 북마크, 저장암호, 탭 정보 등을 동기화해서 사용하세요.
 
 
 ;It looks like you’re running an older version of Firefox.
-It looks like you’re running an older version of Firefox.
+Firefox 예전 버전을 사용하고 계십니다.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-The new version of Sync only works with the latest version of Firefox
+새로운 동기화 기능은 최신 Firefox 버전에서만 동작합니다. 
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+동기화 기능은 Firefox 사용에 있어서 매우 중요하고 필수적인 기능입니다. 직접 사용해 보세요!
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync is just one of the great features you’ll only get with Firefox.
+Firefox 동기화 기능은 가장 필수적인 기능 중 하나입니다.
 
 
 ;Download Firefox for Android
-Download Firefox for Android
+Firefox 안드로이드용 다운로드
 
 
 ;Need help?
-Need help?
+도움이 필요하세요?
 
 
 ;Get started with Sync
-Get started with Sync
+동기화 시작하기
 
 
 ;Update your Firefox
-Update your Firefox
+Firefox 업데이트
 
 
 ;Download Firefox
-Download Firefox
+Firefox 다운로드
 
 
 ;Get started with Sync in four easy steps:
-Get started with Sync in four easy steps:
+동기화를 시작하기 위한, 네 가지 단계:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Firefox 우측 상단에 <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">메뉴</a>를 눌러 “<strong>동기화 로그인</strong>”을 선택합니다.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -77,7 +77,7 @@ Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in t
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-이메일 주소와 비밀번호를 입력하면 “<strong>Firefox Account가 생성</strong>” 됩니다.
+이메일 주소와 암호를 입력하면 “<strong>Firefox Account를 생성</strong>”합니다.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -86,7 +86,7 @@ Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in t
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+메일에서 인증 링크를 누르면 완료됩니다. Firefox에서 백그라운드로 동기화 작업이 시작됩니다.
 
 
 ;Get more detailed instructions.
@@ -99,87 +99,86 @@ After you check your email and click the verification link, you’ll be all set!
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-How to set up Sync in five easy steps:
+다섯 단계로 동기화 설정하기:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+브라우저 우측 상단에 <strong>메뉴</strong>  버튼을 선택합니다.
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+<strong>설정</strong>을 선택하세요. (처음에는 <strong>자세히</strong>를 눌러야합니다).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+<strong>동기화</strong>를 눌러 <strong>시작하기</strong>를 선택하세요.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+<strong>Firefox 계정 페이지</strong>가 새 탭에 열립니다.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+필요 정보를 입력한 후, <strong>다음</strong>을 누릅니다.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+이메일을 확인하여, 인증 링크를 클릭하면 완료됩니다. 동기화 기능을 사용할 다른 기기에서도 연결하는 것을 잊지마세요.
 
 
 ;Sync a little. Sync a lot.
-Sync a little. Sync a lot.
+동기화 내역 설정하기
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+Firefox에서 동기화 하고자 하는 항목을 선택할 수 있습니다. 새 탭을 열었을 때, 같은 북마크를 나타나게 하실 수 있습니다.
 
 
 ;At home
-At home
+집
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+회사 책상에서 집안 소파에서도 언제든 원하는 정보를 함께 접근할 수 있습니다. 스마트폰이나 태블릿에서도 같은 웹 경험이 유지됩니다.
 
 
 ;At work
-At work
+직장
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-
+모든 중요 정보는 여전히 연결되어 있습니다. 암호 및 북마크 모두 동기화 되지만, Firefox 처럼 안전하게 서비스됩니다.
 
 ;On the go
-On the go
+언제나 어디서나
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+즐겨 찾는 사이트를 유지하거나 집에서 사용했던 사이트를 계속 쓰려면 함께 하실 수 있습니다.
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Have an <b>Android smartphone</b> or <b>tablet</b>?
+<b>안드로이드폰</b>이나 <b>태블릿</b>을 가지고 계신가요?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-DOWNLOAD FIREFOX FOR ANDROID
+FIREFOX 안드로이드 버전 다운로드
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+동기화 기능을 이용하시면 어디서나 Firefox 데이터를 공유할 수 있습니다. 스마트폰, 태블릿, PC나 랩탑에서 가능합니다.
 
 
 # Used in old page, do not remove , do not remove
 ;Instantly make Firefox your own wherever you use it. Seamlessly sync your bookmarks, history, passwords and more and access them from any device.
-어디에서 사용하든 Firefox를 내것으로 만들 수 있습니다. 즐겨찾기, 방문목록, 비밀번호 등을 다양한 기기에서 접근해서 끊김없는 경험을 할 수 있습니다.
+어디에서 사용하든 Firefox를 내것으로 만들 수 있습니다. 즐겨찾기, 방문목록, 암호 등을 다양한 기기에서 접근해서 끊김없는 경험을 할 수 있습니다.
 
 
 # Used in old page, do not remove
@@ -189,7 +188,7 @@ Sync를 사용하세요. 빠르고 안전하고 쉽습니다:
 
 # Used in old page, do not remove
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Firefox 우측 상단의 <a class="menu" href="%(url)s#w_a-handy-new-menu">메뉴</a>를 열고 “<strong>Sync에 로그인</strong>”을 선택하세요.
+Firefox 우측 상단의 <a class="menu" href="%(url)s#w_a-handy-new-menu">메뉴</a>를 열고 “<strong>Sync 로그인</strong>”을 선택하세요.
 
 
 # Used in old page, do not remove
@@ -199,7 +198,7 @@ Firefox 우측 상단의 <a href="%(url)s#w_a-handy-new-menu">메뉴</a>를 열�
 
 # Used in old page, do not remove
 ;Click “Get started” in the tab that opens.
-새로 열린 탭의 “시작하기”를 클릭하세요.
+새 탭의 “시작하기”를 클릭하세요.
 
 
 # Used in old page, do not remove
@@ -239,6 +238,6 @@ Android 전화기나 태블릿을 가지고 계세요?
 
 # Used in old page, do not remove
 ;Get it free from Google Play
-구글 플레이에서 무료로 받기
+구글 플레이에서 무료 다운로드
 
 

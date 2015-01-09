@@ -47,13 +47,13 @@ Thunderbird에 대한 주요한 질문에 대한 답변은 <a href="%s">지식 �
 
 
 ;If you can’t find an answer, <a href="%s">ask your question on our support forum</a>.
-답변을 얻지 못하셨다면, <a href="%s">고객 지원 포럼</a>(영문)에 문의해 보시거나 <a href="http://forums.mozilla.or.kr">한국어 포럼</a>을 활용하세요.
+답변을 얻지 못하셨다면, <a href="%s">한국어 사용자 포럼</a>에 문의해 보시기 바랍니다.
 
 
 # If your locale has a dedicated Thunderbird support forum, you can localize the URL
 # used in the previous string to point there. Otherwise simply mark the string as {ok}
 ;https://support.mozilla.org/questions/new/thunderbird
-https://support.mozilla.org/questions/new/thunderbird {ok}
+http://forums.mozilla.or.kr/viewforum.php?f=3
 
 
 ;Features

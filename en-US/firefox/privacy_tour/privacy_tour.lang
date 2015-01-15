@@ -1,0 +1,193 @@
+## NOTE: we don't have a demo server yet
+
+# This is the title for a door-hanger menu that shows in the browser chrome
+;See what’s new
+See what’s new
+
+
+# This is the text for a door-hanger menu that shows in the browser chrome
+;You’re up to date with the latest features to help keep you in control.
+You’re up to date with the latest features to help keep you in control.
+
+
+# This is the label for a button that starts the tour
+;Let’s go
+Let’s go
+
+
+# This is the label for a button that delays starting the tour
+;Not now
+Not now
+
+
+# This is the label for a button that opens the tour modal dialog
+;Open tour
+Open tour
+
+
+# This is the label for a button that closes the tour modal dialog
+;Close tour
+Close tour
+
+
+# This is the text for a call to action that appears in the web page
+;See the newest ways you can take control of your digital life
+See the newest ways you can take control of your digital life
+
+
+# This is the label that represents tour step one of three
+;1/3
+1/3
+
+
+# This is the label that represents tour step two of three
+;2/3
+2/3
+
+
+# This is the label that represents tour step three of three
+;3/3
+3/3
+
+
+;Declare your independence
+Declare your independence
+
+
+;Thank you for choosing Firefox
+Thank you for choosing Firefox
+
+
+;Watch the video to see our story
+Watch the video to see our story
+
+
+;Now share it with your world
+Now share it with your world
+
+
+;Play
+Play
+
+
+;Play the video
+Play the video
+
+
+;Share
+Share
+
+
+;Start browsing
+Start browsing
+
+
+;Previous
+Previous
+
+
+;Next
+Next
+
+
+;Close
+Close
+
+
+# STEP 1 of the tour (Forget button)
+# %s is a searchplugin name
+;<span>Next:</span> %s
+<span>Next:</span> %s
+
+
+# <br> tag below used for formatting only.
+# Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
+;Use Forget to cover your tracks or escape from sites you don’t trust
+Use Forget to cover your tracks or escape from sites you don’t trust
+
+
+;Remove browsing history from your computer
+Remove browsing history from your computer
+
+
+;Erase website information after the fact
+Erase website information after the fact
+
+
+;Add it above for quick, easy access
+Add it above for quick, easy access
+
+
+;The new Forget button
+The new Forget button
+
+
+;Want to cover your tracks? Activate the Forget button and leave no trace.
+Want to cover your tracks? Activate the Forget button and leave no trace.
+
+
+;Add it now
+Add it now
+
+
+;Later
+Later
+
+
+;Now it’s here whenever you need it. To move or remove it, just open the menu and select Customize.
+Now it’s here whenever you need it. To move or remove it, just open the menu and select Customize.
+
+
+;Want to add it later? Open this menu and select Customize. Then drag it (or any other button) where you want.
+Want to add it later? Open this menu and select Customize. Then drag it (or any other button) where you want.
+
+
+# STEP 2 of the tour (search engines)
+;<span>Previous:</span> Forget
+<span>Previous:</span> Forget
+
+
+;<span>Next:</span> Private Browsing
+<span>Next:</span> Private Browsing
+
+
+# %s is a searchplugin name. <br> tag below used for formatting only.
+;%s lets you <br>search anonymously
+%s lets you <br>search anonymously
+
+
+;Get great results with less tracking
+Get great results with less tracking
+
+
+;Make it (or any other) your default
+Make it (or any other) your default
+
+
+;Find what you’re looking for, your way
+Find what you’re looking for, your way
+
+
+# %s is a searchplugin name
+;<span>Previous:</span> %s
+<span>Previous:</span> %s
+
+
+# STEP 3 of the tour (Private Browsing)
+# <br> tag below used for formatting only.
+;Private Browsing: <br>Our original privacy tool
+Private Browsing: <br>Our original privacy tool
+
+
+;Keep history and other info off your computer
+Keep history and other info off your computer
+
+
+;Browse without recording where you’ve been
+Browse without recording where you’ve been
+
+
+;So others using your computer can’t see it
+So others using your computer can’t see it
+

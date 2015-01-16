@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Thunderbird start page,  url is https://www-dev.allizom.org/thunderbird/release/start/
 
 
@@ -47,6 +48,12 @@ Semua pertanyaan terkait dukungan Thunderbird telah dijawab di <a href="%s">Pund
 
 ;If you can’t find an answer, <a href="%s">ask your question on our support forum</a>.
 Jika Anda tidak menemukan jawabannya, <a href="%s">ajukan pertanyaan Anda di forum dukungan kami</a>.
+
+
+# If your locale has a dedicated Thunderbird support forum, you can localize the URL
+# used in the previous string to point there. Otherwise simply mark the string as {ok}
+;https://support.mozilla.org/questions/new/thunderbird
+https://support.mozilla.org/questions/new/thunderbird
 
 
 ;Features

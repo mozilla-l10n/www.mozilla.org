@@ -1,4 +1,7 @@
 ## active ##
+## firefox_sync_non_fx ##
+## firefox_sync_redesign ##
+## sync_new_markup ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
@@ -7,40 +10,40 @@ Neka vaš Firefox bude sinkroniziran
 
 
 ;Ready, Set, Sync
-Ready, Set, Sync
+Priprema, pozor, sinkroniziraj
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+Prijavljeni ste i spremni za pristup <em>vašem</em> Firefoxu bilo gdje, bilo kad.
 
 
 ;Take your Web with you
-Take your Web with you
+Ponesite svoj Web sa sobom
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+Sinkronizirajte Firefox gdje god ga koristili kako biste pristupili svojim zabilješkama, lozinkama, karticama i više, sa bilo kojeg pametnog telefona, tableta ili računala.
 
 
 ;It looks like you’re running an older version of Firefox.
-It looks like you’re running an older version of Firefox.
+Čini se da koristite stariju inačicu Firefoxa.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-The new version of Sync only works with the latest version of Firefox
+Nova Sync inačica radi isključivo sa najnovijom inačicom Firefoxa
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+Sync je samo jedna od odličnih mogućnosti koje ćete dobiti samo sa Firefoxom. Otkrijte ih sve!
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync is just one of the great features you’ll only get with Firefox.
+Sync je samo jedna od odličnih mogućnosti koje ćete dobiti samo sa Firefoxom.
 
 
 ;Download Firefox for Android
-Download Firefox for Android
+Preuzmite Firefox za Android
 
 
 ;Need help?
@@ -52,7 +55,7 @@ Započnite koristiti Sync
 
 
 ;Update your Firefox
-Update your Firefox
+Ažurirajte svoj Firefox
 
 
 ;Download Firefox
@@ -60,32 +63,32 @@ Preuzmite Firefox
 
 
 ;Get started with Sync in four easy steps:
-Get started with Sync in four easy steps:
+Krenite koristiti Sync u četiri lagana koraka:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Otvorite <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">izbornik</a> u gornjem desnom dijelu Firefoxa, te odaberite “<strong>Prijavite se u Sync.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+Kliknite “<strong>Započnite</strong>” u kartici koja se otvorila.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Upišite adresu e-pošte i lozinku u “<strong>Otvorite Firefox račun.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+Kliknite na “<strong>Dalje</strong>” kako biste putem e-pošte dobili poruku potvrde.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+Nakon što provjerite svoju e-poštu i kliknete na poveznicu za potvrdu, biti ćete gotovi! Firefox će se od tada automatski sinkronizirati u pozadini.
 
 
 ;Get more detailed instructions.
@@ -98,82 +101,82 @@ Korisite stariju inačicu Synca?
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-How to set up Sync in five easy steps:
+Kako podesiti Sync u pet laganih koraka:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+Pritisnite tipku <strong>izbornika</strong> (ili ispod ekrana ili u gornjem desnom uglu preglednika).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+Odaberite <strong>Postavke</strong> (možda ćete morati prvo pritisnuti <strong>Više</strong>).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+Pritisnite <strong>Sync</strong> i onda <strong>Započnite</strong>.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+<strong>Stvorite Firefox račun stranica</strong> će se otvoriti u novoj kartici.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+Popunite obrazac i kliknite <strong>Sljedeće</strong>.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+Nakon što provjerite svoju e-poštu i kliknete na poveznicu za potvrdu, biti ćete gotovi! Ne zaboravite povezati sve svoje druge uređaje kako biste najbolje iskoristili Sync.
 
 
 ;Sync a little. Sync a lot.
-Sync a little. Sync a lot.
+Sinkronizirajte malo. Sinkronizirajte puno.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+Vi birate koje dijelove vašeg Firefoxa žalite sinkronizirati i gdje ih želite sinkronizirati. Preuzmite svoje otvorene kartice u dnevnoj razmjeni. Pristupite svojim zabilješkama na poslu. Bilo što, bilo kada, svugdje.
 
 
 ;At home
-At home
+Kod kuće
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Premjestite se sa stola na kauč bez problema. Pristupite svojim otvorenim karticama na pametnom telefonu, ili nastavite pregledavati svoje zabilješke na svojem tabletu.
 
 
 ;At work
-At work
+Na poslu
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+Ostanite povezani sa svim svojim važnim informacijama. Sinkronizirajte lozinke i zabilješke koje ćete možda trebati za pristup u bilo koje vrijeme. Baš kao i Firefox, najsigurnije je što može biti.
 
 
 ;On the go
-On the go
+Na putu
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Pratite svoje omiljene stranice ili završite priču koju ste započeli kod kuće — bilo gdje da idete. Sa Sync, nikada nije bilo lakše.
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Have an <b>Android smartphone</b> or <b>tablet</b>?
+Imate li <b>Android pametni telefon</b> ili <b>tablet</b>?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-DOWNLOAD FIREFOX FOR ANDROID
+PREUZMITE FIREFOX ZA ANDROID
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+Kako biste doživili potpuno Sync iskustvo, ponesite svoj Web sa sobom gdje god koristite Firefox. Povežite svoj pametni telefon, tablet, računalo ili laptop.
 
 
 # Used in old page, do not remove , do not remove
@@ -188,7 +191,7 @@ Započnite koristiti Sync. Jednostavno je, brzo i sigurno:
 
 # Used in old page, do not remove
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Otvorite <a class="menu" href="%(url)s#w_a-handy-new-menu">izbornik</a> u gornjem desnom dijelu Firefoxa, te odaberite “<strong>Prijavite se u Sync.</strong>”
 
 
 # Used in old page, do not remove
@@ -228,7 +231,7 @@ Imate Android telefon ili tablet?
 
 # Used in old page, do not remove
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Preuzmite Firefox za Android</a> kako biste mogli sinkronizirati podatke između računala i vaših mobilnih uređaja.
 
 
 # Used in old page, do not remove

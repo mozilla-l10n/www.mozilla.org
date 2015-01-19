@@ -43,6 +43,7 @@ Jeśli posiadasz najnowszą wersję Firefoksa, wówczas posiadasz również funk
 ;There’s no account or sign-in required and nothing extra to download.
 Nie trzeba się nigdzie rejestrować, logować, ani pobierać niczego dodatkowego.
 
+
 ;Just start a conversation, send your friend a link and ask them to click it.
 Wystarczy rozpocząć rozmowę, wysłać znajomej osobie odnośnik i poprosić, by go otworzyła.
 
@@ -153,6 +154,12 @@ Pytania?
 Odwiedź Mozilla Support
 
 
+# %s will be replaced by an image of Telefonica's logo. The current string is the same used in Firefox for Firefox Hello
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/loop/loop.properties:powered_by_beforeLogo&repo=beta
+;Powered by %s
+Obsługiwane przez %s
+
+
 # The following strings are used for the First Time interactive experience, don't add HTML tags.
 # “Hello” is the product name and should not be localized
 ;Welcome to Hello
@@ -229,4 +236,5 @@ Po prostu zacznij rozmowę w Firefoksie i zaproś do niej kogokolwiek, skądkolw
 
 ;You’ve started your first conversation. Wasn’t that easy?
 To Twoja pierwsza rozmowa. Prawda, że to proste?
+
 

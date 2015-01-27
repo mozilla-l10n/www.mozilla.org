@@ -3,7 +3,7 @@
 
 
 ;Geolocation in Firefox
-Геолокација у Фајерфоксу (Firefox)
+Геолокација у Firefox-у
 
 
 ;Location-Aware Browsing
@@ -11,7 +11,7 @@
 
 
 ;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
-Фајерфокс уме да обавести веб сајтове о Вашој локацији како бисте добили значајније и корисније информације. То чини веб свеукупно паметнијим &ndash; и то тако да у потпуности поштује Вашу приватност. <a href="%(url)s" id="%(id)s" style="%(style)s">Испробајте га!</a>
+Firefox може да обавести веб сајтове о Вашој локацији како бисте добили значајније и корисније информације. То чини веб свеукупно паметнијим &ndash; и то тако да у потпуности поштује Вашу приватност. <a href="%(url)s" id="%(id)s" style="%(style)s">Испробајте га!</a>
 
 
 ;Frequently asked Questions
@@ -23,15 +23,15 @@
 
 
 ;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
-Веб сајтови који користе прегледавање осетљиво на положај ће Вас питати где се налазите тако да Вам понуде корисније инфомрације, или да Вам уштеде време при претрази. Рецимо да тражите италијански ресторан у Вашој близини. Веб сајтови ће Вас питати где се налазите, тако да само тражење италијанског ресторана даје резултате који Вам требају; нећете морати да унесете ништа више.
+Веб сајтови који користе прегледавање осетљиво на положај ће Вас питати где се налазите да би Вам пружио корисније информације, или да Вам уштеде време при претрази. Рецимо да тражите италијански ресторан у Вашој близини. Веб сајтови ће Вас питати где се налазите, тако да само тражење италијанског ресторана даје резултате који Вам требају; нећете морати да унесете ништа више.
 
 
 ;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
-Или, ако желите упутства како да донекле стигнете, веб сајт ће већ знати одакле крећете тако да ће бити довољно да назначите где желите да стигнете.
+Или, ако желите упутства како да стигнете до неког места, веб сајт ће већ знати одакле крећете тако да ће бити довољно да назначите где желите да стигнете.
 
 
 ;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
-Ова услуга је изборна &ndash; Фајерфокс не објављује Вашу локацију без Вашег пристанка &ndash; и то чини са потпуним обзиром на Вашу приватност. Као и сви остали делови Фајерфокса, и овај део је направљен употребом отворених стандарда, како би програмери веба могли што лакше да га искористе.
+Ова услуга је у потпуности изборна &ndash; Firefox не објављује Вашу локацију без Вашег пристанка &ndash; и то чини са потпуним обзиром на Вашу приватност. Као и сви остали делови Firefox-а, и овај део је направљен употребом отворених стандарда, како би програмери веба могли што лакше да га искористе.
 
 
 ;How does it work?
@@ -39,15 +39,15 @@
 
 
 ;When you visit a location-aware website, Firefox will ask you if you want to share your location.
-Када посетите сајт који уме да обрађује локације, Фајерфокс ће Вас питати да ли желите да објавите где се налазите.
+Када посетите сајт који уме да обрађује локације, Firefox ће Вас питати да ли желите да објавите своју локацију.
 
 
 ;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
-Ако се сагласите, фајерфокс ће сакупити податке о Вашем положају помоћу оближњих приступа бежичним мрежама и анализе ваше интернет адресе. Фајерфокс затим шаље ове податке добављачу геолокацијских података (Гугловим услугама за лоцирање, Google Location Services) како би проценио Ваш положај. Процењени положај се затим шаље веб сајту који га је захтевао.
+Ако се сагласите, Firefox ће сакупити податке о Вашем положају помоћу оближњих приступа бежичним мрежама и анализе Ваше интернет адресе. Firefox затим шаље ове податке добављачу геолокацијских података, Google-овим услугама за лоцирање (Google Location Services) како би проценио Ваш положај. Процењени положај се затим шаље веб сајту који га је захтевао.
 
 
 ;If you say that you do not consent, Firefox will not do anything.
-Ако се не сагласите, Фајерфокс неће урадити ништа.
+Ако се не сагласите, Firefox неће урадити ништа.
 
 
 ;How accurate are the locations?
@@ -63,15 +63,15 @@
 
 
 ;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
-Ваша приватност нам је изузетно важна; Фајерфокс никада не објављује Ваш положај без Ваше дозволе. Када посетите страну која тражи Ваше податке, бићете питани пре него се било какве информације пошаљу сајту или било ком добављачу услуга.
+Ваша приватност нам је изузетно битна; Firefox никада не објављује Ваш положај без Ваше дозволе. Када посетите страну која тражи Ваше податке, бићете питани пре него се било какве информације пошаљу сајту или било ком добављачу услуга.
 
 
 ;By default, Firefox uses Google Location Services to determine your location by sending:
-Изворно, Фајерфокс користи гуглове услуге за лоцирање тако што шаље:
+По подразумеваним поставкама, Firefox користи Googleове услуге за лоцирање тако што шаље:
 
 
 ;your computer’s IP address,
-Интернет адресу Вашег рачунара,
+IP адресу Вашег рачунара,
 
 
 ;information about the nearby wireless access points, and
@@ -79,39 +79,39 @@
 
 
 ;a random client identifier, which is assigned by Google, that expires every 2 weeks.
-случајно генерисани идентификатор клијента, који истиче сваке две седмице.
+случајно генерисани идентификатор, који додељује Google, који истиче сваке две седмице.
 
 
 ;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
-За потпуни опис података које сакупља и користи Фајерфокс, молимо да видите <a href="%(url)s">Фајерфоксову полису о приватности</a> (на енглеском).
+За потпуни опис података које сакупља и користи Firefox, молимо погледајте <a href="%(url)s">Полису о приватности Firefox-а</a>.
 
 
 ;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
-Гуглове услуге локализације затим допремају процењени гео-положај(географску ширину и дужину). За потпун списак података које сакупља и користи Гугл, молимо да погледате <a href="%(url)s" class="%(class)s">Гуглову полису о приватности при гео-локацији (Google Geolocation Privacy Policy)</a> (на енглеском).
+Google-ове услуге лоцирања затим враћају Вашу процењену геолокацију (нпр. географску ширину и дужину). За потпун списак података које сакупља и користи Google, молимо погледате <a href="%(url)s" class="%(class)s">Полису о приватности Google-ове услуге геолоцирања</a>.
 
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
-Подаци се размењују преко шифроване везе како би Ваша приватност била заштићена. Када је Фајерфокс једном добио Ваш положај, он га прослеђује веб сајту који га је потражио. Име или адреса сајта којег посећујете, као ни колачићи, се никада не шаљу Гугловим услугама
+Подаци се размењују преко шифроване везе како би Ваша приватност била заштићена. Када је Firefox једном добио Ваш положај, он га прослеђује веб сајту који га је потражио. Име или адреса сајта којег посећујете, као ни колачићи, се никада не шаљу Google-овим услугама геолоцирања.
 
 
 ;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
-Нити Мозила, нити Гугл не користе, нити ће икада користити податке о Вашем положају како би Вас идентификовали или шпијунирали.
+Нити Mozilla, нити Google не користе, нити ће икада користити податке о Вашем положају како би Вас идентификовали или шпијунирали.
 
 
 ;For information about what the requesting website does with your location information, please refer to that website’s privacy policy.
-За податке о томе шта одредишни веб сајт ради са подацима о Вашем положају, молимо да погледате полису о приватности дотичног сајта.
+За податке о томе шта одредишни веб сајт ради са подацима о Вашем положају, молимо да погледате Полису приватности дотичног сајта.
 
 
 ;For more information about your privacy, you should also read:
-За више података о приватности, молимо Вас да погледате:
+За више података о приватности, молимо Вас да прочитате:
 
 
 ;Mozilla Firefox Privacy Notice
-Полису о приватности Мозилиног Фајерфокса
+Полису Приватности Mozilla Firefox-а
 
 
 ;Google privacy policy
-Гуглову полису о приватности
+Полису о приватности Google-а
 
 
 ;Am I being tracked as I browse the web?
@@ -119,7 +119,7 @@
 
 
 ;No. Firefox only requests a location when a website makes a request, and only shares your location when the user has approved the request. Firefox does not track or remember your location as you browse.
-Не. Фајерфокс тражи податке о Вашем положају само у случају да неки веб сајт то затражи, и само уколико сте сагласни да то уради. Фајерфокс не прати, нити бележи Ваш положај док прегледате веб.
+Не. Firefox тражи податке о Вашем положају само у случају да неки веб сајт то затражи, и само уколико сте сагласни да то уради. Firefox не прати, нити бележи Ваш положај док прегледате веб.
 
 
 ;How do I undo a permission granted to a site?
@@ -127,11 +127,11 @@
 
 
 ;If you've given Firefox permission to always give your location to a site and later change your mind, you can easily revoke that permission. Here's how:
-Ако сте дозволили Фајерфоксу да увек дојављује Ваш положај неком сајту, а касније се предомислите, можете врло лако да опозовете дозволу. Ево како:
+Ако сте дозволили Firefox-у да увек дојављује Ваш положај неком сајту, а касније се предомислите, можете врло лако да опозовете дозволу. Ево како:
 
 
 ;Navigate to the site to which you’ve given permission
-Идите на адресу сајта о ком је реч
+Идите на адресу сајта којем сте дали дозволу
 
 
 ;Go to the <em>Tools</em> menu, then select <em>Page Info</em>
@@ -143,11 +143,11 @@
 
 
 ;Change the setting for <em>Share Location</em>
-Промените подешавања за <em>дојаву положаја</em>
+Промените подешавања за <em>Дељење локације</em>
 
 
 ;How do I clear the “random client identification number”?
-Како могу да уклоним „случајни број за идентификацију клијента‟?
+Како могу да уклоним “случајни број за идентификацију клијента”?
 
 
 ;Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>
@@ -159,7 +159,7 @@
 
 
 ;Ensure that <em>Cookies</em> is selected
-Проверите да су <em>колачићи</em> обележени
+Проверите да су <em>Колачићи</em> обележени
 
 
 ;Click on <em>Clear Now</em>
@@ -171,15 +171,15 @@
 
 
 ;Location-Aware Browsing is always opt-in in Firefox. No location information is ever sent without your permission. If you wish to disable the feature completely, please follow this set of steps:
-За дојаву положаја се у Фајерфоксу увек морате сами пријавити. Никакви подаци о Вашем положају не дојављују се без Вашег пристанка. Ако желите да трајно искључите ову могућност, молимо да испратите ових неколико корака:
+За дојаву положаја се у Firefox-у увек морате сами пријавити. Никакви подаци о Вашем положају не дојављују се без Вашег пристанка. Ако желите да трајно искључите ову могућност, молимо да испратите ових неколико корака:
 
 
 ;In the URL bar, type <code>about:config</code>
-У адресној траци, куцајте <code>about:config</code>
+У адресној траци, укуцајте <code>about:config</code>
 
 
 ;Type <code>geo.enabled</code>
-Куцајте <code>geo.enabled</code>
+Укуцајте <code>geo.enabled</code>
 
 
 ;Double click on the <em>geo.enabled</em> preference
@@ -191,12 +191,12 @@
 
 
 ;How can I add support for Geolocation to my web site?
-How can I add support for Geolocation to my web site?
+Како могу да додам подршку за геолокацију на мом веб сајту?
 
 
 # Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 ;You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
-You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
+Можете интегрисати подршку за геолокацију у Вашу услугу тако што ћете пратити упутства у <a href="%(url)s">Mozilla-ином центру за програмере</a>.
 
 
 ;Where am I?

@@ -51,11 +51,11 @@ Om du inte ger ditt medgivande kommer Firefox inte att göra någonting.
 
 
 ;How accurate are the locations?
-Hur exakt är postionsbestämningen?
+Hur exakt är positionsbestämningen?
 
 
 ;Accuracy varies greatly from location to location. In some places, our service providers may be able to provide a location to within a few meters. However, in other areas it might be much more than that. All locations returned by our service providers are estimates only and we do not guarantee the accuracy of the locations provided. Please do not use this information for emergencies. Always use common sense.
-Noggrannheten varierar mycket från plats till plats. På vissa ställen kan vår tjänsteleveratör kanske ge en position på några meter när. På andra ställen kan det röra sig om betydligt större avvikelse. Alla positioner som ges av vår tjänsteleverantör är endast uppskattningar och vi garanterar inte någon precision i den uppgivna positionen. Du bör inte använda dessa positionsuppgifter vid nödsituationer. Använd alltid ditt sunda förnuft.
+Noggrannheten varierar mycket från plats till plats. På vissa ställen kan vår tjänsteleverantör kanske ge en position på några meter när. På andra ställen kan det röra sig om betydligt större avvikelse. Alla positioner som ges av vår tjänsteleverantör är endast uppskattningar och vi garanterar inte någon precision i den uppgivna positionen. Du bör inte använda dessa positionsuppgifter vid nödsituationer. Använd alltid ditt sunda förnuft.
 
 
 ;What information is being sent, and to whom? How is my privacy protected?
@@ -83,11 +83,11 @@ och en slumpmässig klientidentifierare, som tilldelats av Google och som förfa
 
 
 ;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
-För en fullständig beskrivning av information som samlas in och används av Firefox, se <a href="%(url)s">Firefox Privacy Policy</a> (på engelska).
+För en fullständig beskrivning av information som samlas in och används av Firefox, se <a href="%(url)s">Firefox sekretesspolicy</a> (på engelska).
 
 
 ;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
-Google Location Services skickar sedan tillbaka din beräknade geografiska position (med andra ord, latitud och longitud). För en fullständig beskrivning av information som samlas in och används av Google, se <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a> (på engelska).
+Google Location Services skickar sedan tillbaka din beräknade geografiska position (med andra ord, latitud och longitud). För en fullständig beskrivning av information som samlas in och används av Google, se <a href="%(url)s" class="%(class)s">Googles sekretesspolicy gällande geolokalisering</a> (på engelska).
 
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
@@ -99,7 +99,7 @@ Varken Mozilla eller Google kommer någonsin att använda uppgifterna som samlat
 
 
 ;For information about what the requesting website does with your location information, please refer to that website’s privacy policy.
-Information om vad den förfrågande webbplatsen gör med dina positionsuppgifter får du söka i webbplatsens sekretesspolicy.
+Information om vad den begärande webbplatsen gör med dina positionsuppgifter får du söka i webbplatsens sekretesspolicy.
 
 
 ;For more information about your privacy, you should also read:
@@ -191,12 +191,12 @@ Positionsbestämd webbläsning är nu inaktiverad
 
 
 ;How can I add support for Geolocation to my web site?
-How can I add support for Geolocation to my web site?
+Hur lägger jag till stöd för geolokalisering på min webbplats?
 
 
 # Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 ;You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
-You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
+Du kan integrera stöd för geolokalisering med din tjänst genom att följa instruktionerna i <a href="%(url)s">Mozillas center för utvecklare, MDN</a>.
 
 
 ;Where am I?

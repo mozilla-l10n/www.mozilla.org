@@ -43,7 +43,7 @@ Zodra u een locatiebewuste website bezoekt, zal Firefox u vragen of u uw locatie
 
 
 ;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
-Als u akkoord gaat, verzamelt Firefox informatie over draadloze toegangspunten in uw omgeving en het IP-adres van uw computer. Firefox verstuurt deze informatie vervolgens naar de standaard geolocatieserviceprovider, Google Location Services, om een inschatting van uw locatie te bepalen. Deze geschatte locatie wordt vervolgens gedeeld met de website die erom vraagt.
+Als u akkoord gaat, verzamelt Firefox gegevens over draadloze toegangspunten in uw omgeving en het IP-adres van uw computer. Firefox verstuurt deze gegevens vervolgens naar de standaard geolocatieserviceprovider, Google Location Services, om een inschatting van uw locatie te bepalen. Deze geschatte locatie wordt vervolgens gedeeld met de website die erom vraagt.
 
 
 ;If you say that you do not consent, Firefox will not do anything.
@@ -59,11 +59,11 @@ Nauwkeurigheid varieert enorm van locatie tot locatie. Op sommige posities kunne
 
 
 ;What information is being sent, and to whom? How is my privacy protected?
-Welke informatie wordt er verstuurd, en naar wie? Hoe wordt mijn privacy beschermd?
+Welke gegevens worden er verstuurd, en naar wie? Hoe wordt mijn privacy beschermd?
 
 
 ;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
-Uw privacy is voor ons van het grootste belang, en Firefox deelt uw locatie nooit zonder uw toestemming. Wanneer u een pagina bezoekt die om uw informatie vraagt, zal u hiernaar worden gevraagd voordat er enige informatie met de verzoekende website en onze serviceprovider van derden wordt gedeeld.
+Uw privacy is voor ons van het grootste belang, en Firefox deelt uw locatie nooit zonder uw toestemming. Wanneer u een pagina bezoekt die om uw gegevens vraagt, zal u hiernaar worden gevraagd voordat er enige gegevens met de verzoekende website en onze serviceprovider van derden worden gedeeld.
 
 
 ;By default, Firefox uses Google Location Services to determine your location by sending:
@@ -75,7 +75,7 @@ het IP-adres van uw computer,
 
 
 ;information about the nearby wireless access points, and
-informatie over de draadloze toegangspunten in de buurt, en
+Gegevens over de draadloze toegangspunten in de buurt, en
 
 
 ;a random client identifier, which is assigned by Google, that expires every 2 weeks.
@@ -91,15 +91,15 @@ Google Location Services geeft vervolgens uw geschatte geolocatiegegevens terug 
 
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
-Om uw privacy te beschermen wordt de informatie over een versleutelde verbinding uitgewisseld. Als Firefox uw geolocatie-informatie eenmaal heeft, geeft het dit door aan de website die hierom vroeg. De naam of locatie van de website die u bezoekt of bepaalde cookies zullen op geen enkel moment met Google Location Services worden gedeeld.
+Om uw privacy te beschermen worden de gegevens over een versleutelde verbinding uitgewisseld. Als Firefox uw geolocatiegegevens eenmaal heeft, geeft het deze door aan de website die hierom vroeg. De naam of locatie van de website die u bezoekt of bepaalde cookies zullen op geen enkel moment met Google Location Services worden gedeeld.
 
 
 ;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
-Noch Mozilla noch Google zal de door Google Location Services verzamelde informatie ooit gebruiken om u te identificeren of te bespioneren.
+Noch Mozilla noch Google zal de door Google Location Services verzamelde gegevens ooit gebruiken om u te identificeren of te bespioneren.
 
 
 ;For information about what the requesting website does with your location information, please refer to that website’s privacy policy.
-Wend u voor informatie over wat de verzoekende website met uw locatie-informatie doet tot het privacybeleid van de betreffende website.
+Wend u voor informatie over wat de opvragende website met uw locatiegegevens doet tot het privacybeleid van de betreffende website.
 
 
 ;For more information about your privacy, you should also read:
@@ -171,7 +171,7 @@ Hoe schakel ik Locatiebewust navigeren permanent uit?
 
 
 ;Location-Aware Browsing is always opt-in in Firefox. No location information is ever sent without your permission. If you wish to disable the feature completely, please follow this set of steps:
-Locatiebewust navigeren wordt altijd op aanvraag gebruikt in Firefox. Er wordt nooit informatie verzonden zonder uw toestemming. Als u de functie volledig wilt uitschakelen, volg dan de volgende stappen:
+Locatiebewust navigeren wordt altijd op aanvraag gebruikt in Firefox. Er worden nooit gegevens verzonden zonder uw toestemming. Als u de functie volledig wilt uitschakelen, volg dan de volgende stappen:
 
 
 ;In the URL bar, type <code>about:config</code>
@@ -191,12 +191,12 @@ Locatiebewust navigeren is nu uitgeschakeld
 
 
 ;How can I add support for Geolocation to my web site?
-How can I add support for Geolocation to my web site?
+Hoe kan ik ondersteuning voor geolocatie aan mijn website toevoegen?
 
 
 # Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 ;You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
-You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
+U kunt ondersteuning voor geolocatie in uw service integreren door de instructies in het <a href="%(url)s">Mozilla Developer Center</a> te volgen.
 
 
 ;Where am I?

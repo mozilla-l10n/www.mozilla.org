@@ -1,4 +1,4 @@
-## active ##
+﻿## active ##
 ## NOTE: this file covers both the product page and the first time experience (interactive UI Tour)
 ## NOTE: check https://groups.google.com/forum/#!topic/mozilla.dev.l10n.web/4uNJ7sz9xmw for instructions on how to test the tour page
 ## NOTE: product page demo URL (work in progress) https://www-demo2.allizom.org/firefox/hello/
@@ -157,7 +157,7 @@ Visita la Ayuda de Mozilla
 # %s will be replaced by an image of Telefonica's logo. The current string is the same used in Firefox for Firefox Hello
 # http://transvision.mozfr.org/string/?entity=browser/chrome/browser/loop/loop.properties:powered_by_beforeLogo&repo=beta
 ;Powered by %s
-Basado en %s
+Impulsado por %s
 
 
 # The following strings are used for the First Time interactive experience, don't add HTML tags.
@@ -167,7 +167,7 @@ Te damos la bienvenida a Hello
 
 
 ;Open a video conversation with a single click, then invite a friend to join.
-Abre una conversación por vídeo con solo un clic, después invita a un amigo a que se una.
+Inicia una conversación por vídeo con solo un clic, después invita a un amigo a que se una.
 
 
 ;Share your link with a friend
@@ -201,15 +201,15 @@ La forma más fácil de mantener una conversación por vídeo gratis con quien q
 
 
 ;Start a conversation right from Firefox
-Inicia una conversación desde Firefox
+Inicia una conversación desde Firefox.
 
 
 ;Invite a friend by sending them a link
-Invita a un amigo enviándole un enlace
+Invita a un amigo enviándole un enlace.
 
 
 ;The Hello icon will change to blue once they’ve joined
-El icono Hello se pondrá azul cuando se haya unido
+El icono Hello se pondrá azul cuando se haya unido.
 
 
 # “Hello” is the product name and should not be localized

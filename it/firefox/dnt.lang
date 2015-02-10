@@ -84,11 +84,11 @@ Come attivo l’antitracciamento in Firefox?
 
 
 ;This feature is not enabled by default. You can find the Do Not Track request on the Privacy pane. <span id="%(id)s">On Windows, go to Tools &gt; Options&hellip; &gt; Privacy.</span>
-Questa funzione non è attivata di default. E’ possibile trovare la richiesta di antitracciamento nel pannello Privacy. <span id="%(id)s">Su Windows, andare in Strumenti > Opzioni… > Privacy.</span>
+Questa funzione non è attivata di default. E’ possibile trovare la preferenza per attivarla nel pannello Privacy. <span id="%(id)s">In Windows, andare in Strumenti &gt; Opzioni… &gt; Privacy.</span>
 
 
 ;On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
-Su Mac OS X, andare in Firefox > Preferenze… > Privacy. Su Linux, andare in Modifica > Preferenze > Privacy.
+In Mac OS X, andare in Firefox &gt; Preferenze… &gt; Privacy. In Linux, andare in Modifica &gt; Preferenze &gt; Privacy.
 
 
 ;Click to check the box next to &quot;Tell websites I do not want to be tracked&quot;. For more information, see the help file on <a href="%(url)s">how to stop websites from tracking you</a>.
@@ -110,7 +110,7 @@ Dove è possibile approfondire l’argomento?
 
 
 ;Other interesting work about Do Not Track and online privacy:
-Altri interessanti lavori sulla funzione di antitracciamento e la privacy in rete:
+Altri interessanti studi e risorse sulla funzione di antitracciamento e la privacy online:
 
 
 ;<a href="%s">Private browsing</a> in Firefox &#8212; limits saving data about which sites and pages you have visited online
@@ -121,7 +121,7 @@ Altri interessanti lavori sulla funzione di antitracciamento e la privacy in ret
 <a href="%(url1)s">Gestione dei cookie</a> in Firefox — permette di controllare come <a href="%(url2)s"> i cookie</a> sono memorizzati nel computer
 
 ;<a href="%s">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from Mozilla’s Technology and Privacy Officer
-<a href="%s">Alex Fowler sul blog Mozilla</a> — le ultime novità dal Technology and Privacy Officer di Mozilla
+<a href="%s">Articoli di Alex Fowler sul blog Mozilla</a> — le ultime novità dal Technology and Privacy Officer di Mozilla
 
 
 ;<a href="%s">donottrack.us</a> project &#8212; Stanford researchers working on the ideas behind Do Not Track
@@ -149,7 +149,7 @@ Guarda l’immagine <a href="%s">where your data goes before you click</a> reali
 
 
 ;Mozilla and Stanford’s Do Not Track <a href="%(url)s">submission to the IETF</a> &#8212; IETF is a standards body that helps define how the Web works, regardless of which Internet browser you use
-<a href="%(url)s">Documento sul Do Not Track presentato all’IETF da Mozilla e dall’università di Stanford</a>>— l’Internet Engineering Task Force, IETF, è un organismo di standardizzazione che si occupa della definizione degli standard web, validi indipendentemente dal browser utilizzato.
+<a href="%(url)s">Documento sul Do Not Track presentato all’IETF da Mozilla e dall’università di Stanford</a>— l’Internet Engineering Task Force, IETF, è un organismo di standardizzazione che si occupa della definizione degli standard web, validi indipendentemente dal browser utilizzato.
 
 
 ;Enable Do Not Track in Firefox

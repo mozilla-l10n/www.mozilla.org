@@ -110,30 +110,30 @@ Dove è possibile approfondire l’argomento?
 
 
 ;Other interesting work about Do Not Track and online privacy:
-Altri interessanti studi e risorse sulla funzione di antitracciamento e la privacy online:
+Altri utili risorse sulla funzione di antitracciamento e la privacy online:
 
 
 ;<a href="%s">Private browsing</a> in Firefox &#8212; limits saving data about which sites and pages you have visited online
-<a href="%s">Navigazione anonima</a> in Firefox — non memorizza dati riguardo alle pagine e ai siti visitati
+<a href="%s">Navigazione anonima</a> in Firefox — consente di non memorizzare dati sulle pagine e sui siti visitati
 
 
 ;<a href="%(url1)s">Managing cookies</a> in Firefox &#8212; lets you control how <a href="%(url2)s">cookies</a> are saved on your computer
-<a href="%(url1)s">Gestione dei cookie</a> in Firefox — permette di controllare come <a href="%(url2)s"> i cookie</a> sono memorizzati nel computer
+<a href="%(url1)s">Gestione dei cookie</a> in Firefox — permette di controllare la modalità con cui i <a href="%(url2)s"> i cookie</a> vengono memorizzati nel proprio computer
 
 ;<a href="%s">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from Mozilla’s Technology and Privacy Officer
 <a href="%s">Articoli di Alex Fowler sul blog Mozilla</a> — le ultime novità dal Technology and Privacy Officer di Mozilla
 
 
 ;<a href="%s">donottrack.us</a> project &#8212; Stanford researchers working on the ideas behind Do Not Track
-progetto <a href="%s">donottrack.us</a> — Ricercatori di Stanford che lavorano sui principi fondanti dell’antitracciamento
+<a href="%s">donottrack.us</a> — un progetto di alcuni Ricercatori di Stanford che lavorano sui principi fondanti dell’antitracciamento
 
 
 ;The Tracking Preference Expression (DNT) <a href="%s">W3C Editor’s Draft</a>
-La bozza del direttivo del W3C <a href="%s">The Tracking Preference Expression (DNT)</a>
+La bozza preliminare di un revisore del W3C <a href="%s">The Tracking Preference Expression (DNT)</a>
 
 
 ;Tracking Compliance and Scope <a href="%s">W3C Editor’s Draft</a>
-La bozza del direttivo del W3C <a href="%s">Tracking Compliance and Scope </a>
+La bozza preliminare di un revisore del W3C <a href="%s">Tracking Compliance and Scope </a>
 
 
 ;The W3C <a href="%s">Tracking Protection Working Group</a>
@@ -141,7 +141,7 @@ Il <a href="%s">Tracking Protection Working Group</a> del W3C
 
 
 ;<a href="%s">Ghostery</a> &#8212; a tool that lets you learn which sites are tracking you online
-<a href="%s">Ghostery</a> — uno strumento che consente di conoscere i siti che ti stanno tracciando
+<a href="%s">Ghostery</a> — uno strumento che consente di identificare i siti che tracciano la navigazione
 
 
 ;See <a href="%s">where your data goes</a> before you click &#8212; an image from the Future of Privacy Forum
@@ -173,6 +173,6 @@ Attivare la funzione di antitracciamento in Internet Explorer 9
 
 
 ;To enable Do Not Track in IE 9, you need to enable IE 9’s <a href="%(url)s">Tracking Protection</a> feature. The easiest way to do that is to install <a href="%(tpl)s">Mozilla’s Simple Tracking Protection List</a>. If you view this page in IE 9, there will be instructions right here.
-Per attivare la funzione di antitracciamento in IE9, è necessario attivare la funzione <a href="%(url)s">Protezione da monitoraggio</a> di IE 9. Il modo più semplice per farlo è quello di installare <a href="%(tpl)s">Mozilla’s Simple Tracking Protection List</a>. Se si visualizza la pagina in IE 9, le istruzioni saranno visualizzate qui.
+Per attivare la funzione di antitracciamento in IE9, è necessario attivare la funzione <a href="%(url)s">Protezione da monitoraggio</a> di IE 9. Il modo più semplice per farlo è quello di installare la lista <a href="%(tpl)s">Simple Tracking Protection List di Mozilla</a>. Visitando la pagina con IE9 verranno mostrate le istruzioni per l’installazione.
 
 

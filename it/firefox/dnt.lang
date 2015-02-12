@@ -9,6 +9,7 @@ Mozilla Firefox offre una funzione di antitracciamento che consente di esprimere
 ;Do Not Track FAQ
 Domande frequenti sulla funzione di antitracciamento
 
+
 ;Your Status:
 Stato:
 
@@ -25,7 +26,6 @@ Antitracciamento disattivato
 Mozilla è una associazione senza fini di lucro impegnata a migliorare il Web a livello globale. Poniamo l’accento sui principi oltre i profitti e crediamo che il Web sia una risorsa pubblica condivisa da tutelare, non una merce da vendere. Non rendiamo conto a nessun altro che a te e crediamo sia fondamentale garantirti il pieno controllo della tua esperienza online. Puntiamo a accrescere la tua consapevolezza e il tuo controllo delle informazioni personali che vengono raccolte, utilizzate, memorizzate e condivise in rete.
 
 
-
 ;Mozilla Firefox offers a Do Not Track feature that lets you express a preference not to be tracked by websites. When the feature is enabled, Firefox will tell advertising networks and other websites and applications that you want to opt-out of tracking for purposes like behavioral advertising.
 Mozilla Firefox offre una funzione di antitracciamento che permette di esprimere la volontà di non essere tracciati dai siti web. Attivando l’antitracciamento in Firefox è possibile comunicare ai network pubblicitari, ai siti web e alle applicazioni che non vuoi che i tuoi dati personali siano utilizzati per scopi come la visualizzazione di avvisi pubblicitari mirati.
 
@@ -38,10 +38,8 @@ Mozilla Firefox offre una funzione di antitracciamento che permette di esprimere
 Che cos’è la funzione di antitracciamento?
 
 
-;Do Not Track is a step toward putting you in control of the way your information is collected and used online. Do Not Track is a feature in Firefox that allows you to let a website know you would like to opt-out of third-party tracking for purposes including behavioral advertising. It does this by transmitting a Do Not Track HTTP header every time your data is requested from the Web. 
+;Do Not Track is a step toward putting you in control of the way your information is collected and used online. Do Not Track is a feature in Firefox that allows you to let a website know you would like to opt-out of third-party tracking for purposes including behavioral advertising. It does this by transmitting a Do Not Track HTTP header every time your data is requested from the Web.
 La funzione di antitracciamento è un ulteriore passo verso la meta finale che è quella di darti il pieno controllo su come i tuoi dati personali vengono raccolti e utilizzati online. L’antitracciamento è una funzionalità di Firefox che permette di comunicare a un sito web la tua intenzione di non voler essere tracciato per scopi quali la visualizzazione di avvisi pubblicitari mirati. Questo avviene trasmettendo un header HTTP di tipo Do Not Track ogni qualvolta i tuoi dati personali vengono richiesti online.
-
-
 
 
 ;Is Do Not Track available on Firefox for Android?
@@ -64,10 +62,8 @@ No, con la funzione di antitracciamento attivata si continueranno a vedere gli a
 Come interagisce la funzione di antitracciamento con gli altri strumenti per la privacy?
 
 
-
 ;Do Not Track is one of many privacy solutions. Do Not Track does not replace your anti-virus software, will not encrypt data, and is not a security mechanism. There are several other <a href="%(url)s">privacy and security</a> features within Firefox.
 La funzione di antitracciamento è una delle tante soluzioni per la privacy. Essa non sostituisce i software antivirus, non cifra i dati non è un meccanismo di sicurezza. Esistono diverse altre caratteristiche in materia di <a href="%(url)s">privacy e sicurezza</a> all’interno di Firefox.
-
 
 
 ;Will Do Not Track affect the rest of my Web experience?
@@ -76,7 +72,6 @@ La funzione di antitracciamento può influenzare il resto della mia navigazione?
 
 ;Do Not Track may interfere with some personalized services you enjoy. For example, a Do Not Track request might mean you would have to type in your zip code each time you want to view a weather report, rather than seeing the weather automatically displayed. Personalization on websites can save you time and repetitive typing, but it requires data.
 La funzione di antitracciamento potrebbe interferire con alcune caratteristiche di servizi online che utilizzi e che richiedono l’accesso a dati personali. Ad esempio l’utilizzo dell’antitracciamento comporterà il dover digitare il proprio codice di avviamento postale ogni volta che si vogliono consultare le previsioni del tempo, piuttosto che vedere il tempo visualizzato automaticamente. La personalizzazione nei siti web può far risparmiare tempo e digitazioni ripetitive, ma richiede l’accesso ai propri dati personali.
-
 
 
 ;How do I enable Do Not Track in Firefox?
@@ -95,10 +90,8 @@ In Mac OS X, andare in Firefox &gt; Preferenze… &gt; Privacy. In Linux, andare
 Fare clic per selezionare la casella accanto a “Comunica ai siti visitati la volontà di non essere tracciato”. Per ulteriori informazioni, consultare il file della guida <a href="%(url)s">Impedire il tracciamento da parte dei siti web</a>.
 
 
-
 ;Will companies honor my Do Not Track preference?
 Le aziende rispetteranno le preferenze espresse tramite la funzione di antitracciamento?
-
 
 
 ;Companies are starting to support Do Not Track, but you may not notice any changes initially. We are actively working with companies that have started to implement Do Not Track, with others who have committed to doing so soon.
@@ -119,6 +112,7 @@ Altri utili risorse sulla funzione di antitracciamento e la privacy online:
 
 ;<a href="%(url1)s">Managing cookies</a> in Firefox &#8212; lets you control how <a href="%(url2)s">cookies</a> are saved on your computer
 <a href="%(url1)s">Gestione dei cookie</a> in Firefox — permette di controllare la modalità con cui i <a href="%(url2)s">cookie</a> vengono memorizzati nel proprio computer
+
 
 ;<a href="%s">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from Mozilla’s Technology and Privacy Officer
 <a href="%s">Articoli di Alex Fowler sul blog Mozilla</a> — le ultime novità dal Technology and Privacy Officer di Mozilla

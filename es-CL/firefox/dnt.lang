@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: page is at https://www-dev.allizom.org/firefox/dnt/
 
 
@@ -40,6 +41,7 @@ Mozilla Firefox ofrece una función llamada "No rastrear" que te permite expresa
 ;Do Not Track is a step toward putting you in control of the way your information is collected and used online. Do Not Track is a feature in Firefox that allows you to let a website know you would like to opt-out of third-party tracking for purposes including behavioral advertising. It does this by transmitting a Do Not Track HTTP header every time your data is requested from the Web.
 No rastrear es un paso adelante para ponerte en control respecto a como es tu información recolectada y usada en línea. No rastrear es una función en Firefox que te permite comentarle a un sitio web que no quieres ser rastreado por terceros para propósitos que incluyen la publicidad en base a tu comportamiento. Lo hace transmitiendo una cabecera HTTP "Do Not Track" cada vez que tus datos son solicitados por la Web.
 
+
 ;Is Do Not Track available on Firefox for Android?
 ¿Está No rastrear disponible en Firefox para Android?
 
@@ -54,6 +56,7 @@ Si. Firefox para Android es el primer navegador Web móvil que ofreció la funci
 
 ;No, you will still see ads with Do Not Track enabled. However, Do Not Track may change the type of ads you see. For example, behavioral ads are targeted to your interests based on the websites you visit and the search terms you use. If you request that websites Do Not Track you, and the sites respect your privacy preferences, you will see more generic ads in place of behavioral ads.
 No, seguirás viendo publicidad con No rastrear activado. Sin embargo, No rastrear puede cambiar el tipo de publicidad que verás. Por ejemplo, la publicidad en base al comportamiento apunta a tus intereses basándose en los sitios web que visitas y los términos de búsqueda que usas. Si solicitas que los sitios no te rastreen, y los sitios respetan tus preferencias de privacidad, verás algunas publicidades más genéricas en lugar de anuncios basados en el comportamiento.
+
 
 ;How does Do Not Track work with other privacy tools?
 ¿Cómo funciona No rastrear con otras herramientas de privacidad?
@@ -114,6 +117,7 @@ Otros trabajos interesantes sobre No rastrear y la privacidad en línea:
 ;<a href="%s">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from Mozilla’s Technology and Privacy Officer
 <a href="%s">Blog de Mozilla de Alex Fowler</a> &#8212; las últimas noticias del funcionario de tecnología y privacidad de Mozilla
 
+
 ;<a href="%s">donottrack.us</a> project &#8212; Stanford researchers working on the ideas behind Do Not Track
 Proyecto <a href="%s">donottrack.us</a> &#8212; Investigadores de Stanford trabajando en las ideas detrás de No rastrear
 
@@ -164,4 +168,5 @@ Activar No rastrear en Internet Explorer 9
 
 ;To enable Do Not Track in IE 9, you need to enable IE 9’s <a href="%(url)s">Tracking Protection</a> feature. The easiest way to do that is to install <a href="%(tpl)s">Mozilla’s Simple Tracking Protection List</a>. If you view this page in IE 9, there will be instructions right here.
 Para activar No rastrear en IE 9, necesitas activar la función de <a href="%(url)s">Protección de rastreo</a> de IE 9. La forma más fácil de hacer esto es instalar la <a href="%(tpl)s">Lista de protección de rastreo simple de Mozilla</a>. Si miras este sitio en IE 9, habrán instrucciones allí.
+
 

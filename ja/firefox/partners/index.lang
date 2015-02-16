@@ -102,8 +102,8 @@ Mozilla のパートナーとなることについて関心をお寄せいただ
 Mozilla は、通信事業者、電話機メーカー、開発者が、カスタマーとの関係を改善、カスタマイズ、コントロールできるようにするためのモバイル製品として、<a %(url1)s>Firefox OS</a>、<a %(url2)s>Firefox Marketplace</a>、<a %(url3)s>Android 版 Firefox</a> を提供しています。
 
 
-;In our first year, we’ve brought openness, accessibility and opportunity to 15 countries with 4 hardware partners, 7 operators and 16 launches.
-Mozilla は、オープンでインターネットに簡単に接続でき、さまざまな機会をもたらす製品を、最初の 1 年間で 15 か国の 4 社のハードウェアパートナー、7 社の通信会社とともに 16 回の製品発表を行いました。
+;Firefox OS has brought openness, accessibility and opportunity to 30 countries with more than 50 launches and 14 global operators — and that momentum continues in 2015.
+Firefox OS has brought openness, accessibility and opportunity to 30 countries with more than 50 launches and 14 global operators — and that momentum continues in 2015.
 
 
 ;See what’s next for mobile with <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
@@ -123,9 +123,18 @@ Mozilla は、オープンでインターネットに簡単に接続でき、さ
 モバイルの未来を切り開く Firefox OS
 
 
-# This is a button showing the contact form
-;Partner with us
-Mozilla のパートナーになる
+# This is used as a button label that links to https://mobilepartners.mozilla.org/
+;Be a partner
+Be a partner
+
+
+# Title
+;Just what your customers need
+Just what your customers need
+
+
+;Easy to use. Easy to customize. Firefox OS is an open platform that fosters greater participation in the value chain.
+Easy to use. Easy to customize. Firefox OS is an open platform that fosters greater participation in the value chain.
 
 
 # Title
@@ -133,17 +142,12 @@ Mozilla のパートナーになる
 Web こそがプラットフォーム
 
 
-;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
-Firefox OS は業界の大手各社に支持されているオープンなプラットフォームであり、このバリューチェーンに参加するパートナーはますます増えています。<a %(url)s>私たちのバリューチェーンに参加する方法は、こちらをご覧ください</a>。また<a href="%(url2)s">消費者にとってどのような意味を持つかについてはこちらをご覧ください</a>。
+;Firefox OS is an independent alternative ecosystem free from the rules and restrictions of existing proprietary platforms.
+Firefox OS is an independent alternative ecosystem free from the rules and restrictions of existing proprietary platforms.
 
 
-# Title
-;Made of the Web
-Web を生かす
-
-
-;Built entirely using HTML5 and other open Web standards, Firefox OS is free from the rules and restrictions of existing proprietary platforms.
-Firefox OS はすべて HTML5 と他のオープンな Web 標準技術を使用して開発されているため、既存の独自仕様のプラットフォームによる支配や規制を受けることはありません。
+;Our partners are industry leaders that have realized the value that a differentiated offering can bring to their target markets.
+Our partners are industry leaders that have realized the value that a differentiated offering can bring to their target markets.
 
 
 # Title
@@ -155,39 +159,48 @@ Firefox で生み出す
 Mozilla は過去 15 年間にわたり、Web をオープンで誰でもアクセスできるものにするための革新と方向付けに役立ってきました。そうした取り組みの結果、現在では Web 上でのすべてのアクティビティの 5 分の 1 が Firefox 製品を介して行われています。
 
 
-# Title
-;The difference the Open Web makes
-オープンな Web がもたらす大きなメリット
+# Main title of the FxOS - Operators & Manufacturers section
+;The Open Web advantage
+The Open Web advantage
 
 
 # List title
-;Firefox OS offers:
-Firefox OS は次のことを実現します。
+;With Firefox OS you can:
+With Firefox OS you can:
 
 
 # List item
-;A level playing field against other OS and marketplace providers
-他の OS プロバイダやマーケットプレイスプロバイダとの公平な競争の機会
+;Create unique user experiences to deliver on specific market needs
+Create unique user experiences to deliver on specific market needs
 
 
 # List item
-;Greater participation in the value chain
-バリューチェーンへの参加の拡大
+;Own and control your relationship with your consumers
+Own and control your relationship with your consumers
 
 
 # List item
-;Ownership and control over relationships with customers
-カスタマーとの関係を自分たちで管理してコントロール
+;Explore alternative business models
+Explore alternative business models
 
 
 # List item
-;Customized phones that meet the specific needs of various target markets
-さまざまな対象市場特有のニーズに合わせてカスタマイズしたスマートフォン
+;Stimulate increased Internet use
+Stimulate increased Internet use
 
 
-# This is the same string as the one in the contact form but it doesn't have a final dot
-;Contact our business development team to get on board
-参加ご希望の方は、Mozilla のビジネス開発チームにご連絡ください
+# List item
+;Level the playing field against other OS and marketplace providers
+Level the playing field against other OS and marketplace providers
+
+
+# Title
+;Firefox OS at home
+Firefox OS at home
+
+
+;The power of the Web is coming to Panasonic TVs later this year
+The power of the Web is coming to Panasonic TVs later this year
 
 
 # Title
@@ -195,26 +208,26 @@ Firefox OS は次のことを実現します。
 HTML5 アプリをすべての人に
 
 
-;Discover a new way to participate in an ecosystem that features the world’s most popular apps as well as more relevant, targeted content to suit customers’ local needs. See how that can help <a %(url1)s>operators and manufacturers</a> as well as <a %(url2)s>developers</a>.
-世界で最も人気の高いアプリと、カスタマーのローカルなニーズに合わせて関連性が高く対象を絞ったコンテンツを集めたエコシステムに、これまでにない新しい方法で参加できます。このエコシステムが<a %(url1)s>通信会社と電話機メーカー</a>、および<a %(url2)s>開発者</a>にとってどのように役立つかをご覧ください。
+;Discover a new way to participate in an ecosystem that features the world’s most popular apps as well as more relevant, targeted content to suit your customers’ local needs.
+Discover a new way to participate in an ecosystem that features the world’s most popular apps as well as more relevant, targeted content to suit your customers’ local needs.
 
 
 # Title
-;Your needs
-パートナーのニーズに対応
+;Your own business model
+Your own business model
 
 
-;Grow your business by combining your own customer payment plans with our open source service offerings, reach new markets and customize purchasing and app experiences to meet your specific needs.
-パートナーがカスタマー向けに設定する独自の支払いプランと、Mozilla が提供するオープンソースのサービスを組み合わせることにより、パートナーのビジネスを成長させ、新しい市場を開拓できます。また、購入とアプリの使用体験をパートナー固有のニーズに合わせてカスタマイズできます。
+;Grow your business by combining your own customer payment plans with our open source service offerings. Customize purchasing and app experiences to meet your specific needs and reach new markets.
+Grow your business by combining your own customer payment plans with our open source service offerings. Customize purchasing and app experiences to meet your specific needs and reach new markets.
 
 
 # Title
-;Our experience
-Mozilla の経験を生かす
+;Revolutionary content discovery
+Revolutionary content discovery
 
 
-;Our proven track record of providing excellent user experiences and serving content to huge global audiences runs through everything we do. Our directory of add-ons serves content to hundreds of millions of users worldwide.
-世界中で多くの人々に優れたユーザ体験とコンテンツを提供してきた Mozilla の確かな実績は、Mozilla のすべての活動に生かされています。Mozilla が提供するアドオンのディレクトリは、世界全体で数億人のユーザに利用されています。
+;App experts and Mozilla community members from all over the world help identify relevant content on the Firefox Marketplace. This ensures that your customers can easily find the content that matters most to them.
+App experts and Mozilla community members from all over the world help identify relevant content on the Firefox Marketplace. This ensures that your customers can easily find the content that matters most to them.
 
 
 # Title
@@ -239,9 +252,9 @@ Twitter で @firefoxapps をフォロー
 アプリのブログを読む
 
 
-# Title
-;The world’s largest developer community
-世界最大の開発者コミュニティ
+# Main title of the Marketplace - Operators & Manufacturers section
+;A direct path to your customers
+A direct path to your customers
 
 
 # List title
@@ -249,14 +262,24 @@ Twitter で @firefoxapps をフォロー
 Marketplace により、次のことを実現できます。
 
 
-# List item. Tier 1 developers = very famous developpers from top companies
-;Commitment from well-known, tier 1 developers
-著名な一流の開発者たちの熱心な協力
+# List item
+;Operator billing that lets you participate in the mobile ecosystem and develop direct relationships with end users
+Operator billing that lets you participate in the mobile ecosystem and develop direct relationships with end users
 
 
 # List item
-;Micro-targeted content for every use-case to meet customers’ local needs
-あらゆる用途に合わせて対象を細かく絞ったコンテンツにより、カスタマーのローカルなニーズに対応
+;An operator shelf where you can promote your messaging, content and app collections relevant to your customers and markets
+An operator shelf where you can promote your messaging, content and app collections relevant to your customers and markets
+
+
+# List item
+;A unique content discovery mechanism with fresh, regularly-updated, relevant apps micro-targeted to meet customers’ local needs
+A unique content discovery mechanism with fresh, regularly-updated, relevant apps micro-targeted to meet customers’ local needs
+
+
+# List item. Tier 1 developers = very famous developers from top companies
+;Commitment from well-known, tier 1 developers
+著名な一流の開発者たちの熱心な協力
 
 
 # List item
@@ -270,13 +293,13 @@ Marketplace でアプリを公開し開発者になろう
 
 
 # List item
-;Apps that customers can access across multiple platforms, devices and operating systems
-カスタマーが複数のプラットフォーム、デバイス、オペレーティングシステムでアクセスできるアプリ
+;Apps that customers can discover easily and access across multiple platforms, devices and operating systems
+Apps that customers can discover easily and access across multiple platforms, devices and operating systems
 
 
 # List item
-;Flexible business models and multiple payment monetization options
-柔軟なビジネスモデルと、支払いを収益化する複数のオプション
+;Flexible business models, including advertising and multiple payment monetization options that make in-app payments simple
+Flexible business models, including advertising and multiple payment monetization options that make in-app payments simple
 
 
 # List item
@@ -285,8 +308,8 @@ Marketplace でアプリを公開し開発者になろう
 
 
 # List item
-;The ability to connect with hundreds of millions of Firefox supporters around the world
-世界中の数億人にのぼる Firefox の支持者に接触できる
+;The ability to connect with hundreds of millions of Firefox users and supporters around the world
+The ability to connect with hundreds of millions of Firefox users and supporters around the world
 
 
 # List item
@@ -313,30 +336,34 @@ Marketplace でアプリを公開し開発者になろう
 
 
 # Title
-;A superior Web experience
-優れた Web 体験
+;A superior mobile experience
+A superior mobile experience
 
 
-;With high-performance, advanced cross-platform features and the latest in security, our top-rated browser offers an alternative to closed platforms, giving you the flexibility to design, distribute and charge as you see fit. <a %(url)s>Learn more about partner opportunities.</a>
-Mozilla の Firefox はハイパフォーマンスで高度なクロスプラットフォーム機能と最新のセキュリティ機能を備えた最高水準のブラウザであり、クローズドなプラットフォームの代替として、ニーズに合わせた柔軟な設計、配布、課金を可能にします。<a %(url)s>パートナーのメリットについて、詳しくはこちらをご覧ください。</a>
-
-
-# Title
-;Strengthen customer relationships
-カスタマーとの関係を強化
-
-
-;Create your own unique branded sections of Firefox for Android and Firefox Marketplace for a more engaging user experience and to increase the visibility of your brand.
-Android 版 Firefox と Firefox Marketplace にパートナー独自のブランドによるセクションを設け、より魅力的なユーザ体験を提供するとともに、パートナーのブランド認知度を向上できます。
+;With connected features and the latest in security and privacy, our top-rated browser offers an alternative to closed platforms and provides a valuable way to connect with smartphones and tablets users alike.
+With connected features and the latest in security and privacy, our top-rated browser offers an alternative to closed platforms and provides a valuable way to connect with smartphones and tablets users alike.
 
 
 # Title
-;Create new value for both you and your users
-パートナーとそのカスタマー双方に新しい価値を提供
+;Customize relationships
+Customize relationships
 
 
-;Take advantage of service opportunities like Firefox Marketplace and WebRTC to create new, platform-independent offerings and establish direct customer billing.
-Firefox Marketplace や WebRTC などによるサービス提供の機会を活用して、プラットフォームに依存しない新しいサービスを開発し、カスタマーに直接請求する仕組みを確立できます。
+;Provide your users with your own flavor of Firefox for Android and Firefox Marketplace for a more engaging user experience that increases the visibility of your brand.
+Provide your users with your own flavor of Firefox for Android and Firefox Marketplace for a more engaging user experience that increases the visibility of your brand.
+
+
+# Title
+;Create new value
+Create new value
+
+
+;Step into the Firefox ecosystem to take advantage of opportunities like Firefox Marketplace and WebRTC. You can display new Web content or integrate into your customer’s living room to create new, platform-independent offerings.
+Step into the Firefox ecosystem to take advantage of opportunities like Firefox Marketplace and WebRTC. You can display new Web content or integrate into your customer’s living room to create new, platform-independent offerings.
+
+
+;Learn more about partner opportunities.
+Learn more about partner opportunities.
 
 
 # Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
@@ -344,8 +371,8 @@ Firefox Marketplace や WebRTC などによるサービス提供の機会を活�
 誰よりも注目される存在に
 
 
-;Take advantage of our strong brand and service offerings to differentiate your product and drive sales.
-Mozilla の強力なブランド力とサービスを生かし、パートナーの製品を差別化して売上高を増やすことができます。
+;Take advantage of our differentiated offering, strong brand and customer love for the Firefox ecosystem to drive sales and data usage.
+Take advantage of our differentiated offering, strong brand and customer love for the Firefox ecosystem to drive sales and data usage.
 
 
 # List Title
@@ -353,7 +380,7 @@ Mozilla の強力なブランド力とサービスを生かし、パートナー
 Android 版 Firefox により、以下のことが可能になります。
 
 
-# list item sub-title
+# List item sub-title
 ;Customize the experience
 体験のカスタマイズ
 
@@ -362,22 +389,22 @@ Android 版 Firefox により、以下のことが可能になります。
 パートナーのブランドやコンテンツを追加してカスタマーとの接点を増やし、顧客維持率を向上させて将来の売上高を増やすことができます。
 
 
-# list item sub-title
-;Build new service offerings
-新しいサービスの開発
+# List item sub-title
+;Build new differentiated offerings
+Build new differentiated offerings
 
 
-;Integrate services directly into the browser with Firefox Marketplace and WebRTC to free yourself from the constraints of proprietary platforms.
-パートナーは Firefox Marketplace や WebRTC を利用してブラウザに直接サービスを組み込むことができ、独自仕様のプラットフォームの制約から解放されます。
+;Integrate services directly into the browser to free yourself from the constraints of proprietary platforms.
+Integrate services directly into the browser to free yourself from the constraints of proprietary platforms.
 
 
-# list item sub-title
-;Direct customer billing
-カスタマーへの直接請求
+# List item sub-title
+;Step into the Firefox ecosystem
+Step into the Firefox ecosystem
 
 
-;Grow your business by combining your own customer payment plans with our open source service offerings.
-パートナーがカスタマー向けに設定する独自の支払いプランを、Mozilla が提供するオープンソースのサービスと組み合わせることにより、パートナーのビジネスを成長させることができます。
+;Leverage the Firefox Marketplace, WebRTC technology, direct customer billing support, search enhancements, new Firefox cloud services and more.
+Leverage the Firefox Marketplace, WebRTC technology, direct customer billing support, search enhancements, new Firefox cloud services and more.
 
 
 ;Partner Opportunities
@@ -417,11 +444,6 @@ Mobile World Congress 2013 のハイライトを動画で見る
 # Press title in Recent News
 ;Mozilla and partners prepare to launch first Firefox OS smartphones
 Mozilla とパートナーは最初の Firefox OS 搭載スマートフォンを提供の準備を行っています。
-
-
-# Line break below is presentational only
-;View available Firefox OS devices
-購入可能な Firefox OS 端末はこちらからご覧になれます
 
 
 # Line break below is presentational only
@@ -519,5 +541,175 @@ Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30 {ok}
 
 ;Download PDF
 PDF 版をダウンロード
+
+
+# Old version of the page (do not remove)
+;In our first year, we’ve brought openness, accessibility and opportunity to 15 countries with 4 hardware partners, 7 operators and 16 launches.
+Mozilla は、オープンでインターネットに簡単に接続でき、さまざまな機会をもたらす製品を、最初の 1 年間で 15 か国の 4 社のハードウェアパートナー、7 社の通信会社とともに 16 回の製品発表を行いました。
+
+
+# Old version of the page (do not remove)
+;Partner with us
+Mozilla のパートナーになる
+
+
+# Old version of the page (do not remove)
+;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
+Firefox OS は業界の大手各社に支持されているオープンなプラットフォームであり、このバリューチェーンに参加するパートナーはますます増えています。<a %(url)s>私たちのバリューチェーンに参加する方法は、こちらをご覧ください</a>。また<a href="%(url2)s">消費者にとってどのような意味を持つかについてはこちらをご覧ください</a>。
+
+
+# Old version of the page (do not remove)
+;View available Firefox OS devices
+購入可能な Firefox OS 端末はこちらからご覧になれます
+
+
+# Old version of the page (do not remove)
+;Made of the Web
+Web を生かす
+
+
+# Old version of the page (do not remove)
+;Built entirely using HTML5 and other open Web standards, Firefox OS is free from the rules and restrictions of existing proprietary platforms.
+Firefox OS はすべて HTML5 と他のオープンな Web 標準技術を使用して開発されているため、既存の独自仕様のプラットフォームによる支配や規制を受けることはありません。
+
+
+# Old version of the page (do not remove)
+;The difference the Open Web makes
+オープンな Web がもたらす大きなメリット
+
+
+# Old version of the page (do not remove)
+;Firefox OS offers:
+Firefox OS は次のことを実現します。
+
+
+# Old version of the page (do not remove)
+;A level playing field against other OS and marketplace providers
+他の OS プロバイダやマーケットプレイスプロバイダとの公平な競争の機会
+
+
+# Old version of the page (do not remove)
+;Greater participation in the value chain
+バリューチェーンへの参加の拡大
+
+
+# Old version of the page (do not remove)
+;Ownership and control over relationships with customers
+カスタマーとの関係を自分たちで管理してコントロール
+
+
+# Old version of the page (do not remove)
+;Customized phones that meet the specific needs of various target markets
+さまざまな対象市場特有のニーズに合わせてカスタマイズしたスマートフォン
+
+
+# Old version of the page (do not remove)
+;Contact our business development team to get on board
+参加ご希望の方は、Mozilla のビジネス開発チームにご連絡ください
+
+
+# Old version of the page (do not remove)
+;Discover a new way to participate in an ecosystem that features the world’s most popular apps as well as more relevant, targeted content to suit customers’ local needs. See how that can help <a %(url1)s>operators and manufacturers</a> as well as <a %(url2)s>developers</a>.
+世界で最も人気の高いアプリと、カスタマーのローカルなニーズに合わせて関連性が高く対象を絞ったコンテンツを集めたエコシステムに、これまでにない新しい方法で参加できます。このエコシステムが<a %(url1)s>通信会社と電話機メーカー</a>、および<a %(url2)s>開発者</a>にとってどのように役立つかをご覧ください。
+
+
+# Old version of the page (do not remove)
+;Your needs
+パートナーのニーズに対応
+
+
+# Old version of the page (do not remove)
+;Grow your business by combining your own customer payment plans with our open source service offerings, reach new markets and customize purchasing and app experiences to meet your specific needs.
+パートナーがカスタマー向けに設定する独自の支払いプランと、Mozilla が提供するオープンソースのサービスを組み合わせることにより、パートナーのビジネスを成長させ、新しい市場を開拓できます。また、購入とアプリの使用体験をパートナー固有のニーズに合わせてカスタマイズできます。
+
+
+# Old version of the page (do not remove)
+;Our experience
+Mozilla の経験を生かす
+
+
+# Old version of the page (do not remove)
+;Our proven track record of providing excellent user experiences and serving content to huge global audiences runs through everything we do. Our directory of add-ons serves content to hundreds of millions of users worldwide.
+世界中で多くの人々に優れたユーザ体験とコンテンツを提供してきた Mozilla の確かな実績は、Mozilla のすべての活動に生かされています。Mozilla が提供するアドオンのディレクトリは、世界全体で数億人のユーザに利用されています。
+
+
+# Old version of the page (do not remove)
+;The world’s largest developer community
+世界最大の開発者コミュニティ
+
+
+# Old version of the page (do not remove)
+;Micro-targeted content for every use-case to meet customers’ local needs
+あらゆる用途に合わせて対象を細かく絞ったコンテンツにより、カスタマーのローカルなニーズに対応
+
+
+# Old version of the page (do not remove)
+;Apps that customers can access across multiple platforms, devices and operating systems
+カスタマーが複数のプラットフォーム、デバイス、オペレーティングシステムでアクセスできるアプリ
+
+
+# Old version of the page (do not remove)
+;Flexible business models and multiple payment monetization options
+柔軟なビジネスモデルと、支払いを収益化する複数のオプション
+
+
+# Old version of the page (do not remove)
+;The ability to connect with hundreds of millions of Firefox supporters around the world
+世界中の数億人にのぼる Firefox の支持者に接触できる
+
+
+# Old version of the page (do not remove)
+;A superior Web experience
+優れた Web 体験
+
+
+# Old version of the page (do not remove)
+;With high-performance, advanced cross-platform features and the latest in security, our top-rated browser offers an alternative to closed platforms, giving you the flexibility to design, distribute and charge as you see fit. <a %(url)s>Learn more about partner opportunities.</a>
+Mozilla の Firefox はハイパフォーマンスで高度なクロスプラットフォーム機能と最新のセキュリティ機能を備えた最高水準のブラウザであり、クローズドなプラットフォームの代替として、ニーズに合わせた柔軟な設計、配布、課金を可能にします。<a %(url)s>パートナーのメリットについて、詳しくはこちらをご覧ください。</a>
+
+
+# Old version of the page (do not remove)
+;Strengthen customer relationships
+カスタマーとの関係を強化
+
+
+# Old version of the page (do not remove)
+;Create your own unique branded sections of Firefox for Android and Firefox Marketplace for a more engaging user experience and to increase the visibility of your brand.
+Android 版 Firefox と Firefox Marketplace にパートナー独自のブランドによるセクションを設け、より魅力的なユーザ体験を提供するとともに、パートナーのブランド認知度を向上できます。
+
+
+# Old version of the page (do not remove)
+;Create new value for both you and your users
+パートナーとそのカスタマー双方に新しい価値を提供
+
+
+# Old version of the page (do not remove)
+;Take advantage of service opportunities like Firefox Marketplace and WebRTC to create new, platform-independent offerings and establish direct customer billing.
+Firefox Marketplace や WebRTC などによるサービス提供の機会を活用して、プラットフォームに依存しない新しいサービスを開発し、カスタマーに直接請求する仕組みを確立できます。
+
+
+# Old version of the page (do not remove)
+;Take advantage of our strong brand and service offerings to differentiate your product and drive sales.
+Mozilla の強力なブランド力とサービスを生かし、パートナーの製品を差別化して売上高を増やすことができます。
+
+
+# Old version of the page (do not remove)
+;Build new service offerings
+新しいサービスの開発
+
+
+# Old version of the page (do not remove)
+;Integrate services directly into the browser with Firefox Marketplace and WebRTC to free yourself from the constraints of proprietary platforms.
+パートナーは Firefox Marketplace や WebRTC を利用してブラウザに直接サービスを組み込むことができ、独自仕様のプラットフォームの制約から解放されます。
+
+
+# Old version of the page (do not remove)
+;Direct customer billing
+カスタマーへの直接請求
+
+
+# Old version of the page (do not remove)
+;Grow your business by combining your own customer payment plans with our open source service offerings.
+パートナーがカスタマー向けに設定する独自の支払いプランを、Mozilla が提供するオープンソースのサービスと組み合わせることにより、パートナーのビジネスを成長させることができます。
 
 

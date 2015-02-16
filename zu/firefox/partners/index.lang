@@ -101,8 +101,8 @@ Thukulula ikusasa
 Sihlomisa abasebenzisi, abakhiqizi bezingcingo nabaqambi ukuze balawule, baqambe ngokwabo baphinde bathuthukise abudlelwano babo namakhasimende abo ngemikhiqizo yomakhalekhukhwini: <a %(url1)s>i-Firefox OS</a>, <a %(url2)s>i-Firefox Marketplace</a> kanye ne<a %(url3)s>-Firefox ye-Android</a>.
 
 
-;In our first year, we’ve brought openness, accessibility and opportunity to 15 countries with 4 hardware partners, 7 operators and 16 launches.
-Ngonyaka wethu wokuqala, silethe ukuvuleleka, ukufinyeleleka namathuba emazweni ayi-15 nophathina bama-hardware abangu-4, abaqambi abayisi-7 kanye nezinhlelo zokwethula eziyi-16.
+;Firefox OS has brought openness, accessibility and opportunity to 30 countries with more than 50 launches and 14 global operators — and that momentum continues in 2015.
+Firefox OS has brought openness, accessibility and opportunity to 30 countries with more than 50 launches and 14 global operators — and that momentum continues in 2015.
 
 
 ;See what’s next for mobile with <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
@@ -122,9 +122,18 @@ Izindaba ezintsha
 I-Firefox OS ithukulula Ikusasa Likamakhalekhukhwini
 
 
-# This is a button showing the contact form
-;Partner with us
-Hlanganyela kanye nathi
+# This is used as a button label that links to https://mobilepartners.mozilla.org/
+;Be a partner
+Be a partner
+
+
+# Title
+;Just what your customers need
+Just what your customers need
+
+
+;Easy to use. Easy to customize. Firefox OS is an open platform that fosters greater participation in the value chain.
+Easy to use. Easy to customize. Firefox OS is an open platform that fosters greater participation in the value chain.
 
 
 # Title
@@ -132,17 +141,12 @@ Hlanganyela kanye nathi
 IWebhu iyinkundla
 
 
-;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
-Isekelwe ngamanye amagama amakhulu embonini, i-Firefox OS yinkundla evulelekile negqugquzela ukuzibandakanya okukhulu kuleli ketango lokuhweba. <a %(url)s>Buka ngezindlela ongazibandakanya ngazo </a> noma <a href="%(url2)s">funda kabanzi ngokuthi lokhu kunamthelela muni kubathengi</a>.
+;Firefox OS is an independent alternative ecosystem free from the rules and restrictions of existing proprietary platforms.
+Firefox OS is an independent alternative ecosystem free from the rules and restrictions of existing proprietary platforms.
 
 
-# Title
-;Made of the Web
-Yenzelwe iWebhu
-
-
-;Built entirely using HTML5 and other open Web standards, Firefox OS is free from the rules and restrictions of existing proprietary platforms.
-Yakhiwe isebenzisa i-HTML5 kanye namanye amazinga eWebhu, i-Firefox OS ayivinjiwe yimithetho nemikhawulo yabanikazi yezinkundla ezisebenzayo.
+;Our partners are industry leaders that have realized the value that a differentiated offering can bring to their target markets.
+Our partners are industry leaders that have realized the value that a differentiated offering can bring to their target markets.
 
 
 # Title
@@ -154,39 +158,48 @@ Yenziwe yi-Firefox
 Eminyakeni eyi-15 edlule, besiyingxenye yokuqamba amasu amasha nokulungisa iWebhu ukuze ihlale ivulelekile futhi ifinyeleleka kuwo wonke umuntu. Ngenxa yemizamo yethu, ingxenye yokuhlanu okwenzeka kuWebhu manje kwenzeka ngemikhiqizo ye-Firefox.
 
 
-# Title
-;The difference the Open Web makes
-Umehluko owenziwa yiWebhu Evulelekile
+# Main title of the FxOS - Operators & Manufacturers section
+;The Open Web advantage
+The Open Web advantage
 
 
 # List title
-;Firefox OS offers:
-I-Firefox OS ikuhlinzeka:
+;With Firefox OS you can:
+With Firefox OS you can:
 
 
 # List item
-;A level playing field against other OS and marketplace providers
-Inkundla yokudlala eyisicaba ibhekene namanye ama-OS nebahlinzki abasezimakethe
+;Create unique user experiences to deliver on specific market needs
+Create unique user experiences to deliver on specific market needs
 
 
 # List item
-;Greater participation in the value chain
-Ukuzibandakanya okukhulu kule mboni
+;Own and control your relationship with your consumers
+Own and control your relationship with your consumers
 
 
 # List item
-;Ownership and control over relationships with customers
-Ubunikazi nokulawula ubudlelano namakhasimende
+;Explore alternative business models
+Explore alternative business models
 
 
 # List item
-;Customized phones that meet the specific needs of various target markets
-Qamba ngokuthanda kwakho ezingcingweni ezihlangabezana nezidingo ezahlukene ezimakethe ezikhonjiwe
+;Stimulate increased Internet use
+Stimulate increased Internet use
 
 
-# This is the same string as the one in the contact form but it doesn't have a final dot
-;Contact our business development team to get on board
-Thinta ithimba lethu lokuthuthukiswa kwebhizinisi ukuze ube yingxenye
+# List item
+;Level the playing field against other OS and marketplace providers
+Level the playing field against other OS and marketplace providers
+
+
+# Title
+;Firefox OS at home
+Firefox OS at home
+
+
+;The power of the Web is coming to Panasonic TVs later this year
+The power of the Web is coming to Panasonic TVs later this year
 
 
 # Title
@@ -194,26 +207,26 @@ Thinta ithimba lethu lokuthuthukiswa kwebhizinisi ukuze ube yingxenye
 Ama-HTML5 app kubo bonke
 
 
-;Discover a new way to participate in an ecosystem that features the world’s most popular apps as well as more relevant, targeted content to suit customers’ local needs. See how that can help <a %(url1)s>operators and manufacturers</a> as well as <a %(url2)s>developers</a>.
-Thola indlela entsha yokuzibandakanya kulolu hleloxhumano olunama-app athandwa kakhulu kanjalo nadingekayo, imininingwane elungiselwe izidingo zamakhasimende. Buka ukuthi lokho kungasiza kanjani <a %(url1)s>abasebenzisi nabakhiqizi</a> kanjalo <a %(url2)s>nabaqambi</a>.
+;Discover a new way to participate in an ecosystem that features the world’s most popular apps as well as more relevant, targeted content to suit your customers’ local needs.
+Discover a new way to participate in an ecosystem that features the world’s most popular apps as well as more relevant, targeted content to suit your customers’ local needs.
 
 
 # Title
-;Your needs
-Izidingo zakho
+;Your own business model
+Your own business model
 
 
-;Grow your business by combining your own customer payment plans with our open source service offerings, reach new markets and customize purchasing and app experiences to meet your specific needs.
-Khulisa ibhizinisi lakho ngokuhlanganisa izinhlelo zakho njengekhasimende zokukhokha ngosizo lwethu oluvulelekile, ufinyelele izimakethe ezintsha wenze kuhambelane nawe izindlela zokuthenga nokusebenzisa ama-app ukuze kunelise ezakho izidingo.
+;Grow your business by combining your own customer payment plans with our open source service offerings. Customize purchasing and app experiences to meet your specific needs and reach new markets.
+Grow your business by combining your own customer payment plans with our open source service offerings. Customize purchasing and app experiences to meet your specific needs and reach new markets.
 
 
 # Title
-;Our experience
-Indlela esibone ngayo thina
+;Revolutionary content discovery
+Revolutionary content discovery
 
 
-;Our proven track record of providing excellent user experiences and serving content to huge global audiences runs through everything we do. Our directory of add-ons serves content to hundreds of millions of users worldwide.
-Umlando wethu uyafakaza ngokuthi sihlinzeka usizo olusezingeni futhi ukuphakela imininingwane kubantu abaningi emhlabeni kungenye yezinto esizenzayo. Uhla lwethu lwezinezelo luyimininingwane efinyelelwa yizigidi ezingamakhulu ngamakhulu abasebenzisi emhlabeni-jikelele.
+;App experts and Mozilla community members from all over the world help identify relevant content on the Firefox Marketplace. This ensures that your customers can easily find the content that matters most to them.
+App experts and Mozilla community members from all over the world help identify relevant content on the Firefox Marketplace. This ensures that your customers can easily find the content that matters most to them.
 
 
 # Title
@@ -238,9 +251,9 @@ Silandele ku @firefoxapps ku-Twitter
 Funda kabanzi ku-Apps Blog
 
 
-# Title
-;The world’s largest developer community
-Umphakathi wabasunguli omkhulukazi emhlabeni
+# Main title of the Marketplace - Operators & Manufacturers section
+;A direct path to your customers
+A direct path to your customers
 
 
 # List title
@@ -248,14 +261,24 @@ Umphakathi wabasunguli omkhulukazi emhlabeni
 I-Marketplace ikuhlinzeka ngalokhu:
 
 
-# List item. Tier 1 developers = very famous developpers from top companies
-;Commitment from well-known, tier 1 developers
-Ukuzibophezela kwabasunguli abaziwayo nabeqophelo loku-1
+# List item
+;Operator billing that lets you participate in the mobile ecosystem and develop direct relationships with end users
+Operator billing that lets you participate in the mobile ecosystem and develop direct relationships with end users
 
 
 # List item
-;Micro-targeted content for every use-case to meet customers’ local needs
-Imininingwane eyenziwe ngokubheka izidingo zabathengi
+;An operator shelf where you can promote your messaging, content and app collections relevant to your customers and markets
+An operator shelf where you can promote your messaging, content and app collections relevant to your customers and markets
+
+
+# List item
+;A unique content discovery mechanism with fresh, regularly-updated, relevant apps micro-targeted to meet customers’ local needs
+A unique content discovery mechanism with fresh, regularly-updated, relevant apps micro-targeted to meet customers’ local needs
+
+
+# List item. Tier 1 developers = very famous developers from top companies
+;Commitment from well-known, tier 1 developers
+Ukuzibophezela kwabasunguli abaziwayo nabeqophelo loku-1
 
 
 # List item
@@ -269,13 +292,13 @@ Yiba ngumqambi we-Marketplace
 
 
 # List item
-;Apps that customers can access across multiple platforms, devices and operating systems
-Ama-app amakhasimende akwazi ukufinyelela kuwo ngezinkundla eziningi, amadivayisi kanye nezinhlelo zokusebenza
+;Apps that customers can discover easily and access across multiple platforms, devices and operating systems
+Apps that customers can discover easily and access across multiple platforms, devices and operating systems
 
 
 # List item
-;Flexible business models and multiple payment monetization options
-Amamodeli ebhizinisi akhululekile kanye nezindlela eziningi zokwenza izinkokhelo
+;Flexible business models, including advertising and multiple payment monetization options that make in-app payments simple
+Flexible business models, including advertising and multiple payment monetization options that make in-app payments simple
 
 
 # List item
@@ -284,8 +307,8 @@ Izindlela eziningi zokubiza imali kubathuthi ezizindeni zemali ezehlukile
 
 
 # List item
-;The ability to connect with hundreds of millions of Firefox supporters around the world
-Ukukwazi ukuxhumana nezigidi zamakhulu ngamakhulu kwabeseka i-Firefox emhlabeni jikelele
+;The ability to connect with hundreds of millions of Firefox users and supporters around the world
+The ability to connect with hundreds of millions of Firefox users and supporters around the world
 
 
 # List item
@@ -312,30 +335,34 @@ Yilethe ku-Firefox marketplace namhlanje
 
 
 # Title
-;A superior Web experience
-Umuzwa osezingeni eliphezulu weWebhu
+;A superior mobile experience
+A superior mobile experience
 
 
-;With high-performance, advanced cross-platform features and the latest in security, our top-rated browser offers an alternative to closed platforms, giving you the flexibility to design, distribute and charge as you see fit. <a %(url)s>Learn more about partner opportunities.</a>
-Njengoba inamafisha asebenza ngokusezingeni eliphezulu, amafisha avumela ukusebenza ezinkundleni ezahlukene kanye namafisha aphambili okuphepha, ibrawuza yethu elinganiselwa njengephambili ihlinzeka ngokunye ongakukhetha kunezinkundla ezivaliwe, nokukunikeza ithuba lokuklama, wabe ubize nangokubona kufanelekile. <a %(url)s>Funda kabanzi ngamathuba ophathina.</a>
-
-
-# Title
-;Strengthen customer relationships
-Qinisa ubudlelano namakhasimende
-
-
-;Create your own unique branded sections of Firefox for Android and Firefox Marketplace for a more engaging user experience and to increase the visibility of your brand.
-Yakha ezakho iziqephu ezinophawu lwe-Firefox ye-Android ne-Firefox Marketplace ukuze uthole amava athokozisayo okusebnzisa kanye nokugqamisa uphawu lwakho.
+;With connected features and the latest in security and privacy, our top-rated browser offers an alternative to closed platforms and provides a valuable way to connect with smartphones and tablets users alike.
+With connected features and the latest in security and privacy, our top-rated browser offers an alternative to closed platforms and provides a valuable way to connect with smartphones and tablets users alike.
 
 
 # Title
-;Create new value for both you and your users
-Yakha ukubaluleka okusha kwakho nabasebenzisi bakho
+;Customize relationships
+Customize relationships
 
 
-;Take advantage of service opportunities like Firefox Marketplace and WebRTC to create new, platform-independent offerings and establish direct customer billing.
-Sebenzisa amathuba afana ne-Firefox Marketplace kanye ne-WebRTC ukwakha izinto ezincike ezinkundleni kanye nokusungula indlela yokukhokha ngqo kwabathengi.
+;Provide your users with your own flavor of Firefox for Android and Firefox Marketplace for a more engaging user experience that increases the visibility of your brand.
+Provide your users with your own flavor of Firefox for Android and Firefox Marketplace for a more engaging user experience that increases the visibility of your brand.
+
+
+# Title
+;Create new value
+Create new value
+
+
+;Step into the Firefox ecosystem to take advantage of opportunities like Firefox Marketplace and WebRTC. You can display new Web content or integrate into your customer’s living room to create new, platform-independent offerings.
+Step into the Firefox ecosystem to take advantage of opportunities like Firefox Marketplace and WebRTC. You can display new Web content or integrate into your customer’s living room to create new, platform-independent offerings.
+
+
+;Learn more about partner opportunities.
+Learn more about partner opportunities.
 
 
 # Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
@@ -343,8 +370,8 @@ Sebenzisa amathuba afana ne-Firefox Marketplace kanye ne-WebRTC ukwakha izinto e
 Hluka <br>kuningi
 
 
-;Take advantage of our strong brand and service offerings to differentiate your product and drive sales.
-Sebenzisa umkhiqizo wethu onamandla nezinsiza ukwenza owakho umkhiqizo wehluke kukhule namanani okudayisa.
+;Take advantage of our differentiated offering, strong brand and customer love for the Firefox ecosystem to drive sales and data usage.
+Take advantage of our differentiated offering, strong brand and customer love for the Firefox ecosystem to drive sales and data usage.
 
 
 # List Title
@@ -352,7 +379,7 @@ Sebenzisa umkhiqizo wethu onamandla nezinsiza ukwenza owakho umkhiqizo wehluke k
 I-Firefox ye-Android ikunikeza ithuba lokwenza lokhu:
 
 
-# list item sub-title
+# List item sub-title
 ;Customize the experience
 Yenza isimo sivumelane nawe
 
@@ -361,22 +388,22 @@ Yenza isimo sivumelane nawe
 Faka owakho umkhiqizo nemininingwane ukuze ukhuphule izindlela zokuxhumana namakhasimende, ukhuphule amanani okugcina amakhasimende enawe kanjalo nokusimamisa ukuthengwa esikhathini esizayo.
 
 
-# list item sub-title
-;Build new service offerings
-Yakha izinsiza zokunikeza usizo ezintsha
+# List item sub-title
+;Build new differentiated offerings
+Build new differentiated offerings
 
 
-;Integrate services directly into the browser with Firefox Marketplace and WebRTC to free yourself from the constraints of proprietary platforms.
-Hlanganisa izinsiza ngqo kubrawuza ye-Firefox Marketplace ne-WebRTC ukuze uzikhulule emikhawulweni yabanikazi bezinkundla.
+;Integrate services directly into the browser to free yourself from the constraints of proprietary platforms.
+Integrate services directly into the browser to free yourself from the constraints of proprietary platforms.
 
 
-# list item sub-title
-;Direct customer billing
-Ukuzikhokhela ngqo kwamakhasimende
+# List item sub-title
+;Step into the Firefox ecosystem
+Step into the Firefox ecosystem
 
 
-;Grow your business by combining your own customer payment plans with our open source service offerings.
-Khulisa ibhizinisi lakho ngokuhlanganisa ezakho izinhlelo zokukhokha kanye nosizo lwezinsiza esiluhlinzekayo.
+;Leverage the Firefox Marketplace, WebRTC technology, direct customer billing support, search enhancements, new Firefox cloud services and more.
+Leverage the Firefox Marketplace, WebRTC technology, direct customer billing support, search enhancements, new Firefox cloud services and more.
 
 
 ;Partner Opportunities
@@ -416,11 +443,6 @@ Buka ividiyo yethu yokugoqa yaseNgqungqutheleni Yomhlaba Yomakhalekhukhwini Cong
 # Press title in Recent News
 ;Mozilla and partners prepare to launch first Firefox OS smartphones
 I-Mozilla nophathina balungiselela ukwethula ama-Firefox OS smartphones okuqala
-
-
-# Line break below is presentational only
-;View available Firefox OS devices
-Buka amadivayisi atholakala ku-Firefox OS
 
 
 # Line break below is presentational only
@@ -518,5 +540,175 @@ I-Firefox e-MWC 2014 &ndash; Hall 3, Stand 3C30
 
 ;Download PDF
 Dawuniloda i-PDF
+
+
+# Old version of the page (do not remove)
+;In our first year, we’ve brought openness, accessibility and opportunity to 15 countries with 4 hardware partners, 7 operators and 16 launches.
+Ngonyaka wethu wokuqala, silethe ukuvuleleka, ukufinyeleleka namathuba emazweni ayi-15 nophathina bama-hardware abangu-4, abaqambi abayisi-7 kanye nezinhlelo zokwethula eziyi-16.
+
+
+# Old version of the page (do not remove)
+;Partner with us
+Hlanganyela kanye nathi
+
+
+# Old version of the page (do not remove)
+;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
+Isekelwe ngamanye amagama amakhulu embonini, i-Firefox OS yinkundla evulelekile negqugquzela ukuzibandakanya okukhulu kuleli ketango lokuhweba. <a %(url)s>Buka ngezindlela ongazibandakanya ngazo </a> noma <a href="%(url2)s">funda kabanzi ngokuthi lokhu kunamthelela muni kubathengi</a>.
+
+
+# Old version of the page (do not remove)
+;View available Firefox OS devices
+Buka amadivayisi atholakala ku-Firefox OS
+
+
+# Old version of the page (do not remove)
+;Made of the Web
+Yenzelwe iWebhu
+
+
+# Old version of the page (do not remove)
+;Built entirely using HTML5 and other open Web standards, Firefox OS is free from the rules and restrictions of existing proprietary platforms.
+Yakhiwe isebenzisa i-HTML5 kanye namanye amazinga eWebhu, i-Firefox OS ayivinjiwe yimithetho nemikhawulo yabanikazi yezinkundla ezisebenzayo.
+
+
+# Old version of the page (do not remove)
+;The difference the Open Web makes
+Umehluko owenziwa yiWebhu Evulelekile
+
+
+# Old version of the page (do not remove)
+;Firefox OS offers:
+I-Firefox OS ikuhlinzeka:
+
+
+# Old version of the page (do not remove)
+;A level playing field against other OS and marketplace providers
+Inkundla yokudlala eyisicaba ibhekene namanye ama-OS nebahlinzki abasezimakethe
+
+
+# Old version of the page (do not remove)
+;Greater participation in the value chain
+Ukuzibandakanya okukhulu kule mboni
+
+
+# Old version of the page (do not remove)
+;Ownership and control over relationships with customers
+Ubunikazi nokulawula ubudlelano namakhasimende
+
+
+# Old version of the page (do not remove)
+;Customized phones that meet the specific needs of various target markets
+Qamba ngokuthanda kwakho ezingcingweni ezihlangabezana nezidingo ezahlukene ezimakethe ezikhonjiwe
+
+
+# Old version of the page (do not remove)
+;Contact our business development team to get on board
+Thinta ithimba lethu lokuthuthukiswa kwebhizinisi ukuze ube yingxenye
+
+
+# Old version of the page (do not remove)
+;Discover a new way to participate in an ecosystem that features the world’s most popular apps as well as more relevant, targeted content to suit customers’ local needs. See how that can help <a %(url1)s>operators and manufacturers</a> as well as <a %(url2)s>developers</a>.
+Thola indlela entsha yokuzibandakanya kulolu hleloxhumano olunama-app athandwa kakhulu kanjalo nadingekayo, imininingwane elungiselwe izidingo zamakhasimende. Buka ukuthi lokho kungasiza kanjani <a %(url1)s>abasebenzisi nabakhiqizi</a> kanjalo <a %(url2)s>nabaqambi</a>.
+
+
+# Old version of the page (do not remove)
+;Your needs
+Izidingo zakho
+
+
+# Old version of the page (do not remove)
+;Grow your business by combining your own customer payment plans with our open source service offerings, reach new markets and customize purchasing and app experiences to meet your specific needs.
+Khulisa ibhizinisi lakho ngokuhlanganisa izinhlelo zakho njengekhasimende zokukhokha ngosizo lwethu oluvulelekile, ufinyelele izimakethe ezintsha wenze kuhambelane nawe izindlela zokuthenga nokusebenzisa ama-app ukuze kunelise ezakho izidingo.
+
+
+# Old version of the page (do not remove)
+;Our experience
+Indlela esibone ngayo thina
+
+
+# Old version of the page (do not remove)
+;Our proven track record of providing excellent user experiences and serving content to huge global audiences runs through everything we do. Our directory of add-ons serves content to hundreds of millions of users worldwide.
+Umlando wethu uyafakaza ngokuthi sihlinzeka usizo olusezingeni futhi ukuphakela imininingwane kubantu abaningi emhlabeni kungenye yezinto esizenzayo. Uhla lwethu lwezinezelo luyimininingwane efinyelelwa yizigidi ezingamakhulu ngamakhulu abasebenzisi emhlabeni-jikelele.
+
+
+# Old version of the page (do not remove)
+;The world’s largest developer community
+Umphakathi wabasunguli omkhulukazi emhlabeni
+
+
+# Old version of the page (do not remove)
+;Micro-targeted content for every use-case to meet customers’ local needs
+Imininingwane eyenziwe ngokubheka izidingo zabathengi
+
+
+# Old version of the page (do not remove)
+;Apps that customers can access across multiple platforms, devices and operating systems
+Ama-app amakhasimende akwazi ukufinyelela kuwo ngezinkundla eziningi, amadivayisi kanye nezinhlelo zokusebenza
+
+
+# Old version of the page (do not remove)
+;Flexible business models and multiple payment monetization options
+Amamodeli ebhizinisi akhululekile kanye nezindlela eziningi zokwenza izinkokhelo
+
+
+# Old version of the page (do not remove)
+;The ability to connect with hundreds of millions of Firefox supporters around the world
+Ukukwazi ukuxhumana nezigidi zamakhulu ngamakhulu kwabeseka i-Firefox emhlabeni jikelele
+
+
+# Old version of the page (do not remove)
+;A superior Web experience
+Umuzwa osezingeni eliphezulu weWebhu
+
+
+# Old version of the page (do not remove)
+;With high-performance, advanced cross-platform features and the latest in security, our top-rated browser offers an alternative to closed platforms, giving you the flexibility to design, distribute and charge as you see fit. <a %(url)s>Learn more about partner opportunities.</a>
+Njengoba inamafisha asebenza ngokusezingeni eliphezulu, amafisha avumela ukusebenza ezinkundleni ezahlukene kanye namafisha aphambili okuphepha, ibrawuza yethu elinganiselwa njengephambili ihlinzeka ngokunye ongakukhetha kunezinkundla ezivaliwe, nokukunikeza ithuba lokuklama, wabe ubize nangokubona kufanelekile. <a %(url)s>Funda kabanzi ngamathuba ophathina.</a>
+
+
+# Old version of the page (do not remove)
+;Strengthen customer relationships
+Qinisa ubudlelano namakhasimende
+
+
+# Old version of the page (do not remove)
+;Create your own unique branded sections of Firefox for Android and Firefox Marketplace for a more engaging user experience and to increase the visibility of your brand.
+Yakha ezakho iziqephu ezinophawu lwe-Firefox ye-Android ne-Firefox Marketplace ukuze uthole amava athokozisayo okusebnzisa kanye nokugqamisa uphawu lwakho.
+
+
+# Old version of the page (do not remove)
+;Create new value for both you and your users
+Yakha ukubaluleka okusha kwakho nabasebenzisi bakho
+
+
+# Old version of the page (do not remove)
+;Take advantage of service opportunities like Firefox Marketplace and WebRTC to create new, platform-independent offerings and establish direct customer billing.
+Sebenzisa amathuba afana ne-Firefox Marketplace kanye ne-WebRTC ukwakha izinto ezincike ezinkundleni kanye nokusungula indlela yokukhokha ngqo kwabathengi.
+
+
+# Old version of the page (do not remove)
+;Take advantage of our strong brand and service offerings to differentiate your product and drive sales.
+Sebenzisa umkhiqizo wethu onamandla nezinsiza ukwenza owakho umkhiqizo wehluke kukhule namanani okudayisa.
+
+
+# Old version of the page (do not remove)
+;Build new service offerings
+Yakha izinsiza zokunikeza usizo ezintsha
+
+
+# Old version of the page (do not remove)
+;Integrate services directly into the browser with Firefox Marketplace and WebRTC to free yourself from the constraints of proprietary platforms.
+Hlanganisa izinsiza ngqo kubrawuza ye-Firefox Marketplace ne-WebRTC ukuze uzikhulule emikhawulweni yabanikazi bezinkundla.
+
+
+# Old version of the page (do not remove)
+;Direct customer billing
+Ukuzikhokhela ngqo kwamakhasimende
+
+
+# Old version of the page (do not remove)
+;Grow your business by combining your own customer payment plans with our open source service offerings.
+Khulisa ibhizinisi lakho ngokuhlanganisa ezakho izinhlelo zokukhokha kanye nosizo lwezinsiza esiluhlinzekayo.
 
 

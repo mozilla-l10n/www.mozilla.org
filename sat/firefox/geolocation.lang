@@ -1,0 +1,208 @@
+## NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
+
+
+;Geolocation in Firefox
+फायार फ़क्स रे ओतनोक् ठांव .
+
+
+;Location-Aware Browsing
+ठांव-सोनतोर ब्राउसिंग .
+
+
+;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
+फायारफॉक्स वेबसाइट ए  ला़य दाड़ेयाया ओकारे आमेम ठांव आकाना ओना ते-आम ला़य सोदोर एम ञाम दाड़ेयाक् आ ओका दो बाड़ती सोम्बोंधा आर बाड़ती लाब आना, नोवा दो वेब स्मार्टार r &ndash; तेयार ला़गिदोक् काना आर मित् होर रे का़मी याकाना ओका आमाक् निजेराक् पुरा़य मानोता. <a href="%(url)s" id="%(id)s" style="%(style)s">नोवा मित् कुरुमुटु एमा !</a>
+
+
+;Frequently asked Questions
+बोराबोर कुकली को कुली या .
+
+
+;What is Location-Aware Browsing?
+ठांव-होंसिया़र ब्राउसिंग दो चेत् काना ?
+
+
+;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
+वेबसाइट को सांव -होंसिया़र ब्राउसिंग ए बेभारा कुली या ओकारे आम मे नामा ाम ठेन बाड़ती सोम्बोंध ला़य सोदोर आ़गु लेका ते, आर बाङ पानते जोहोक आमाक् ओकतो सांचाव रे. मेन होचो जे  आम आमाक् जायगा रे पिजा रे स्टुरेंट एम ञेलेत् आ. मित् वेब साइट आमे कुली केमा जे आम आमाक् ठांव हा़टिञ के ओना ते  “पिजा ” ला़गित् साधारोन पानतेयेत् आ आमेम ला़कती कान ला़ना़य आ़गु आमा ...जाहान माड़ाङ सेदाक् ला़य सोदोर आर बाङ बाड़ातेयाक् टाइपिंग ला़कती आ.
+
+
+;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
+आर बाङ जुदी आम जाहां रे ञाम ला़गित् उदुक् होरा नोकसा आकाना, वेबसाइट ए बाडाया ओकारे आम एहोबा जोतो आपे पे का़मी या ओना खोन नोवा लाया ओका रे आम चालाक् सानामा.
+
+
+;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
+नोवा का़मी दो पुरा़ आपनार मोने तेयाक्  &ndash; काना फायारफॉक्स आमाक् ठांव बाय हा़टिञा आमाक् बेगोर छा़ड ते   &ndash;आर आमाक् निजेराक् ला़गित् जोसकोस मा़न सांव का़मी आकाना, आर फायारफॉक्स रेयाक् जोतो जिनिस लेका, नोवा दो वेब लाहा होचो को दाराय ते आलगा ते हाताव ला़गित् झिज बातावाक को बेभार ए तेयारेत् आ  .
+
+
+;How does it work?
+नोवा चेत् लेका का़मी या ?
+
+
+;When you visit a location-aware website, Firefox will ask you if you want to share your location.
+तिन रे आम मित् ठांव-होंसियार वेब साइट ञेलाम, फायारफॉक्स कुली येचा जुदी आम आमाक् ठांव हा़टिञा सानाम.
+
+
+;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
+जुदी आम सिका़रेम एमोक् आ, फायारफॉक्स सुर रेयाक् बायारलेंस आ़तुर टुडा़क को बाबोत ते ला़य सोदोर तुमा़म जारवा या आर, आमाक् काम्प्युटार रेयाक्  IP ठिका़ना. एना़ तायोम फायारफॉक्स हुड़ाक् ओतनोक् ठांव का़मी एमोगिजा ठेन नोवा ला़य सोदोरे कुला, गुगाल ठांव का़मी को, आमाक् ठांव रेयाक् मित् पोड़ता हिसाव ञाम ला़गित् ओना ठांव पोड़ता हिसांव दो इना़ तायोम नेहोराक् वेब साइट सांव हा़टिञा. .
+
+
+;If you say that you do not consent, Firefox will not do anything.
+जुदी आमेम ला़या  जो आम र्का़र बाम एमा, फायारफॉ्कस चेत् हो बाय का़मी या .
+
+
+;How accurate are the locations?
+तिना़क सुही ठांव को मेनाक् आ ?
+
+
+;Accuracy varies greatly from location to location. In some places, our service providers may be able to provide a location to within a few meters. However, in other areas it might be much more than that. All locations returned by our service providers are estimates only and we do not guarantee the accuracy of the locations provided. Please do not use this information for emergencies. Always use common sense.
+सुही ठांव-ठांव खोन आ़डी भेगारोक् आ. तिना़क् गान जायगा को रे ,आले रिन का़मी एमोक् को का़च् गान मिटार को भितिर मित् ठांव एमोक ला़गित् लेक को हुय दाड़ेयाक् आ. एन रेहों, एटाक् जायगा को रे नोवा खोन आ़डी बाड़ती हुय दाड़ेयाक् आ, जोतो ठांव आलेरिन का़मी एमोक् को दाराय ते रुवा़ड़ दो एकेन पोड़ता हुयुक् आ आर आले ठांव को एम रेयाक् सुही दो बाले मेयादी या. आकोट को ला़गित् नोवा ला़य सोदोर आलोम बेभारा, जावगे साधारोन हुदिस बेभार मे .
+
+
+;What information is being sent, and to whom? How is my privacy protected?
+चेद ला़य सोदोर दो कुलुक् आ, आर ओकोय ला़गित्  ? चेत् लेका इञा निजेराक् आ़डोक आ ?
+
+
+;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
+आमाक् निजेराक् दो आ़डी तेत् गे आले ला़गित् मोहोता, आर फायारफॉक्स बेगोर आमाक् छा़ड ते आमाक् ठांव तिस हों बाय हा़टिञोक आ. तिन रे आम मित् साहताम ञेला ओना आमाक् ला़य सोदोर ए नेहोरा, कुलिक् आ नेहोराक् वेबसाइट आर आलेरिन तेसार-दोल का़मी एमोक् को सांव हा़टिञोक् आ.
+
+
+;By default, Firefox uses Google Location Services to determine your location by sending:
+हुड़ाक् दाराय ते, फायारफॉक्स कुल दाराय ते आमाक् ठांव गोटाय ला़गित् गुगाल ठांव का़मी को बेभारा:
+
+
+;your computer’s IP address,
+आमाक् काम्प्युटार रेयाक्  IP  ठिका़ना ,
+
+
+;information about the nearby wireless access points, and
+सुर को रेयाक् वायारलेस आ़तुर टुडा़क् आर बाबोत तेयाक् ला़य सोदोर .
+
+
+;a random client identifier, which is assigned by Google, that expires every 2 weeks.
+मित् टाटका गांहकी चिनहा़विच्, ओका दो गुगाल दाराय ते हाताव आकान, ओका जोतो  2 हाट रे ओकतो पारोमोक् आ.
+
+
+;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
+ला़य सोदोर तुमा़ल जारवा रेयाक् पुरा़ बोरनोन ला़गित् आर फायारफॉक्स दाराय ते बेभार, ञेल मे  <a href="%(url)s">फायारफॉक्स निजेराक् इतला़य </a>.
+
+
+;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
+गुगाल ठांव का़मी को इना़ तायोम आमाक् पोड़ता ओतनोक ठांव रे रुवा़ड़ा  (जे लेका ., आक्षांस आर देसान्तर ). ला़य सोदोर तुमा़ल जारवा आर गुगाल दाराय ते बेभार रेयाक् पुरा़ बोरनोन ला़गित्, ञेल मे   <a href="%(url)s" class="%(class)s"> गुगाल ओतनोक् ठांव निजेराक् नीति </a>.
+
+
+;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
+ला़य सोदोर दो आमाक् निजेराक् आ़ड ला़गित् मित् दानाङाक् जोनोड़ाव चेतान बोदोल आकाना, मित् धाव फायारफॉक्स आमाक्  ठांव ला़य सोदोर रे हुयुक् नोवा वेबसाइट रे पारोम ओका नोवा नेहोर लेन ताहेंना. जाहान ओकतो ञुतुम बाङ रे  आर  बाङ आमेम ञेलेत वेब साइट रेयाक् ठांव, आर बाङ जाहान कुकी को ताहेन, गुगाल ठां व का़मी को सांव जावगे हा़टिञा.
+
+
+;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
+बाङ दो मोजिला आर बाङ गुगाल दो जावगे बाय बेभारा आम चिनहा़व आर बाङ मिदिया रे गुगाल ठांव का़मी को दाराय ते तुमा़ जारवा ला़य सोदोर बेभार मे.
+
+
+;For information about what the requesting website does with your location information, please refer to that website’s privacy policy.
+आमाक् ठांव ला़य सोदोर सांव नेहोराक् वेबसाइट चेत् ए का़मी आकात् बाबोत ते ला़य सोदोर ला़गित् , ओना वेबसाइट रेयाक् निजेराक् नीति रे कुल मे.
+
+
+;For more information about your privacy, you should also read:
+आमाक् निजेराक् बाबोत ते बाड़ती ला़य सोदोर , आम पाड़हाव हों ला़कती :
+
+
+;Mozilla Firefox Privacy Notice
+मोजिला फायारफॉक्स निजेराक् इतला़य .
+
+
+;Google privacy policy
+गुगाल निजेराक् नीति.
+
+
+;Am I being tracked as I browse the web?
+चेत् इञ वेबइञ ब्राउज लेका पांजाक् काना ?
+
+
+;No. Firefox only requests a location when a website makes a request, and only shares your location when the user has approved the request. Firefox does not track or remember your location as you browse.
+बाङ .फायारफॉक्स मित् ठांव ए नेहोरा तिन रे वेबसाइट मित् नेहोर तेयारा, आर एकेन आमाक् ठांव ए हा़टिञा तिन रे बेभारिच् नेहोर ए बातावाक् आ. फायारफॉक्स आमेम पानते लेका आमाक् ठांव बाय पांजा आर बाङ उयहा़रा.
+
+
+;How do I undo a permission granted to a site?
+चेत् लेका रे इँञ मित् साइट रे बातावाक् छा़ड ञाम रुवा़ड़ा ?
+
+
+;If you've given Firefox permission to always give your location to a site and later change your mind, you can easily revoke that permission. Here's how:
+जुदी आम मित् साइट रे आमाक् ठांव जावगे एम ला़गित् एम आकान फायारफॉक्स छा़ड मेनाक् आ आर तायोम आमाक् मोने बोदोलोक् आ, आम ओना छा़ड आलगा ते ओता दाड़ेयाक् आ. नोडे ओका लेका :
+
+
+;Navigate to the site to which you’ve given permission
+साइट रे पानते ओका रे आम छा़ड एम एमाकाना .
+
+
+;Go to the <em>Tools</em> menu, then select <em>Page Info</em>
+<em>टल्स </em> मिनु रे चालाव, इना़ तायोम  <em> साहटा ला़य सोदोर </em> बाछाव मे.
+
+
+;Select the <em>Permissions</em> tab
+<em> छा़ड को </em>टैब बाछाव मे .
+
+
+;Change the setting for <em>Share Location</em>
+r <em> हा़टिञ ठांव </em>ला़गित् साजाव बोदोल.
+
+
+;How do I clear the “random client identification number”?
+चेत् लेका रे इञ  “ टाटका गांहकी चिनहा़ होचो लेखा ” फारचाया?
+
+
+;Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>
+<em>टुल्स</em>मिनु रे चालाक् मे, इना़ तायोम  <em> हा़लियाके हिता़ल फारचा </em> बाछाव मे.
+
+
+;Click the <em>Details</em> arrow
+<em>पुरा़ बिबरोन </em> सार ओताय मे .
+
+
+;Ensure that <em>Cookies</em> is selected
+गोटाय मे <em>कुकी को </em> दो बाचावाकाना .
+
+
+;Click on <em>Clear Now</em>
+<em>नित फारचा</em> रे ओताय मे
+
+
+;How do I turn off Location-Aware Browsing permanently?
+चेत् लेका रे इञ जाव ला़गित् बोनदो होचो या ठांव-होंसियार ब्राउसिंग ?
+
+
+;Location-Aware Browsing is always opt-in in Firefox. No location information is ever sent without your permission. If you wish to disable the feature completely, please follow this set of steps:
+ठांव होंसिया़र ब्राउजिंग दो फायारफॉक्स रे  जावगे आपनार मोने तेयाक् भितरी आ. जाहान ठांव ला़य सोदोर दो जाव ला़गित् बाय कुलुक् आ बेगोर आमाक् छा़ड ते. जुदी आम गुन को पुरा़ बाङ हुय होचो सानाम काना, झांप को रेयाक् नोवा साजाव पांजाय मे.
+
+
+;In the URL bar, type <code>about:config</code>
+URL बार रे,  <code>बाबोत् ते : भितिर तेयार </code> टाइप मे.
+
+
+;Type <code>geo.enabled</code>
+<code>ओतनो. हुय होचो </code> टाइप मे.
+
+
+;Double click on the <em>geo.enabled</em> preference
+<em>ओतनो . हुयहोचो </em> कुसियाक् रे बार धाव ओताय मे .
+
+
+;Location-Aware Browsing is now disabled
+ठांव-होंसिया़र ब्राउजिंग दो नितोक् बाङ हुय होची आकाना .
+
+
+;How can I add support for Geolocation to my web site?
+How can I add support for Geolocation to my web site?
+
+
+# Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
+;You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
+You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
+
+
+;Where am I?
+ओकारे इञ दो ?
+
+
+;Oops! An error occurred while trying to determine your position.
+ओहो!  आमाक् ओबोसता गोटाय ला़गित् कुरुमुटु दोहोक् मित् भुल हुय एना   .
+
+

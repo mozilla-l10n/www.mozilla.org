@@ -2,8 +2,58 @@
 Menu di navigazione
 
 
+# Used in the new Firefox family navigation menu. Main level item.
+# Example: https://www-demo2.allizom.org/it/mwc/
+;<span>for</span> Desktop
+<span>per</span> Desktop
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+# Example: https://www-demo2.allizom.org/it/mwc/
+;Overview
+Panoramica
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Trusted
+Affidabile
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Flexible
+Flessibile
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Fast
+Veloce
+
+
+# Used in the new Firefox family navigation menu. Main level item.
+# Example: https://www-demo2.allizom.org/it/mwc/
+;<span>for</span> Android
+<span>per</span> Android
+
+
+# Used in the new Firefox family navigation menu. Main level item.
+# Example: https://www-demo2.allizom.org/it/mwc/
+;OS
+OS {ok}
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
 ;About
 Informazioni
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Devices
+Dispositivi
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;For partners
+Partner
 
 
 ;Donate
@@ -364,11 +414,6 @@ Versioni
 
 
 # Top menu item on firefox/update page
-;Overview
-Panoramica
-
-
-# Top menu item on firefox/update page
 ;Firefox
 Firefox {ok}
 
@@ -481,21 +526,6 @@ Diventa un volontario con opportunità di collaborazione in diversi settori.
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
 Menu {ok}
-
-
-# Menu item on top of Australis Firefox pages
-;Trusted
-Affidabile
-
-
-# Menu item on top of Australis Firefox pages
-;Flexible
-Flessibile
-
-
-# Menu item on top of Australis Firefox pages
-;Fast
-Veloce
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)

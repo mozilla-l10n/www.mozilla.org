@@ -2,8 +2,56 @@
 Menüü
 
 
+# Used in the new Firefox family navigation menu. Main level item.
+# Menu will be enabled on Firefox OS family on March 1st.
+# Example: https://www-demo2.allizom.org/it/mwc/
+;<span>for</span> Desktop
+<span>for</span> Desktop
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Overview
+Ülevaade
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Trusted
+Usaldatud
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Flexible
+Paindlik
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Fast
+Kiire
+
+
+# Used in the new Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>for</span> Android
+
+
+# Used in the new Firefox family navigation menu. Main level item.
+;OS
+OS
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
 ;About
 Teave
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Devices
+Devices
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;For partners
+For partners
 
 
 ;Donate
@@ -364,11 +412,6 @@ Väljalasked
 
 
 # Top menu item on firefox/update page
-;Overview
-Ülevaade
-
-
-# Top menu item on firefox/update page
 ;Firefox
 Firefox {ok}
 
@@ -481,21 +524,6 @@ Liitu vabatahtliku kaastöötajana mitmetes erinevates valdkondades.
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
 Menüü
-
-
-# Menu item on top of Australis Firefox pages
-;Trusted
-Usaldatud
-
-
-# Menu item on top of Australis Firefox pages
-;Flexible
-Paindlik
-
-
-# Menu item on top of Australis Firefox pages
-;Fast
-Kiire
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)

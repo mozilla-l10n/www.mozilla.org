@@ -1,6 +1,9 @@
 ## fx10_independent ##
 ## fundraising_2014 ##
+## gear_store ##
+## hello_promo ##
 ## privacy_day ##
+## webmaker_promo_make ##
 ## NOTE: demo server at https://www-dev.allizom.org/
 ## URL: https://www-dev.allizom.org/%LOCALE%
 
@@ -17,26 +20,24 @@ Read more
 Community
 
 
-## TAG: fx10_independent
-# New tiles for Firefox Anniversary are visible on https://www-demo3.allizom.org/
-;Firefox: The independent choice
-Firefox: The independent choice
-
-
-## TAG: fx10_independent
-;Help us celebrate 10 years of choice and independence online.
-Help us celebrate 10 years of choice and independence online.
-
-
-## TAG: fx10_independent
-;Watch our video
-Watch our video
-
-
-## TAG: fx10_independent
 # This is used as a link to dismiss the video overlay and continue to mozilla.org website
 ;Continue to mozilla.org
 Continue to mozilla.org
+
+
+## TAG: hello_promo
+;Meet<br> Firefox Hello
+Meet<br> Firefox Hello
+
+
+## TAG: hello_promo
+;The easiest way to connect for free over video.
+The easiest way to connect for free over video.
+
+
+## TAG: hello_promo
+;Try Firefox Hello
+Try Firefox Hello
 
 
 ;Discover <br>what drives our mission
@@ -69,21 +70,19 @@ Download Firefox
 Learn more
 
 
-## TAG: privacy_day
-# This string is displayed as title when the tile is inactive.
-;Get Smart on Privacy
-Get Smart on Privacy
+## TAG: webmaker_promo_make
+;Make the Web you want
+Make the Web you want
 
 
-## TAG: privacy_day
-;Learn how to give yourself more control online in four easy steps.
-Learn how to give yourself more control online in four easy steps.
+## TAG: webmaker_promo_make
+;Build a Web page or app in minutes<br> — no coding required.
+Build a Web page or app in minutes<br> — no coding required.
 
 
-## TAG: privacy_day
-# This is used as button label when the tile is hovered.
-;Get smart on privacy
-Get smart on privacy
+## TAG: webmaker_promo_make
+;Become a Webmaker
+Become a Webmaker
 
 
 ;Teach the Web
@@ -92,10 +91,6 @@ Teach the Web
 
 ;Let’s build a Web that’s open <br>and made by everyone.
 Let’s build a Web that’s open <br>and made by everyone.
-
-
-;Become a Webmaker
-Become a Webmaker
 
 
 ;Build an app <br>in seconds
@@ -161,7 +156,8 @@ Your gift helps us build the Internet the world needs.
 Donate today
 
 
-# This string is currently unused (tile will link to Mozilla Gear Store)
+## TAG: gear_store
+# Used in a small tile
 ;Official Mozilla gear is here
 Official Mozilla gear is here
 

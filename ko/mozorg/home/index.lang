@@ -1,6 +1,7 @@
 ## active ##
 ## fundraising_2014 ##
 ## fx10_independent ##
+## gear_store ##
 ## NOTE: demo server at https://www-dev.allizom.org/
 
 
@@ -16,22 +17,21 @@ Mozilla 프로젝트 홈페이지
 커뮤니티
 
 
-# New tiles for Firefox Anniversary are visible on https://www-demo3.allizom.org/
-;Firefox: The independent choice
-Firefox: 자유를 위한 선택
-
-
-;Help us celebrate 10 years of choice and independence online.
-지난 10년간 온라인 자유를 지켜온 것을 축하해 주세요.
-
-
-;Watch our video
-동영상 보기
-
-
 # This is used as a link to dismiss the video overlay and continue to mozilla.org website
 ;Continue to mozilla.org
 mozilla.org 사이트 이동
+
+
+;Meet<br> Firefox Hello
+Meet<br> Firefox Hello
+
+
+;The easiest way to connect for free over video.
+The easiest way to connect for free over video.
+
+
+;Try Firefox Hello
+Try Firefox Hello
 
 
 ;Discover <br>what drives our mission
@@ -63,18 +63,16 @@ Firefox 다운로드
 자세히 보기
 
 
-# This string is displayed as title when the tile is inactive.
-;Get Smart on Privacy
-Get Smart on Privacy
+;Make the Web you want
+Make the Web you want
 
 
-;Learn how to give yourself more control online in four easy steps.
-Learn how to give yourself more control online in four easy steps.
+;Build a Web page or app in minutes<br> — no coding required.
+Build a Web page or app in minutes<br> — no coding required.
 
 
-# This is used as button label when the tile is hovered.
-;Get smart on privacy
-Get smart on privacy
+;Become a Webmaker
+Webmaker 참여하기
 
 
 ;Teach the Web
@@ -83,10 +81,6 @@ Get smart on privacy
 
 ;Let’s build a Web that’s open <br>and made by everyone.
 모두가 함께 만드는 개방된 <br>웹을 만듭시다.
-
-
-;Become a Webmaker
-Webmaker 참여하기
 
 
 ;Build an app <br>in seconds
@@ -146,7 +140,7 @@ Mozilla 기부하기
 바로 기부하기
 
 
-# This string is currently unused (tile will link to Mozilla Gear Store)
+# Used in a small tile
 ;Official Mozilla gear is here
 Mozilla 공식 상품 구매처
 

@@ -3,8 +3,56 @@
 Navigasie
 
 
+# Used in the new Firefox family navigation menu. Main level item.
+# Menu will be enabled on Firefox OS family on March 1st.
+# Example: https://www-demo2.allizom.org/it/mwc/
+;<span>for</span> Desktop
+<span>for</span> Desktop
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Overview
+Oorsig
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Trusted
+Betroubaar
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Flexible
+Aanpasbaar
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Fast
+Vinnig
+
+
+# Used in the new Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>for</span> Android
+
+
+# Used in the new Firefox family navigation menu. Main level item.
+;OS
+OS
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
 ;About
 Meer oor
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Devices
+Devices
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;For partners
+For partners
 
 
 ;Donate
@@ -365,11 +413,6 @@ Vrystellings
 
 
 # Top menu item on firefox/update page
-;Overview
-Oorsig
-
-
-# Top menu item on firefox/update page
 ;Firefox
 Firefox {ok}
 
@@ -482,21 +525,6 @@ Word 'n vrywilliger in enige van 'n aantal areas.
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
 Kieslys
-
-
-# Menu item on top of Australis Firefox pages
-;Trusted
-Betroubaar
-
-
-# Menu item on top of Australis Firefox pages
-;Flexible
-Aanpasbaar
-
-
-# Menu item on top of Australis Firefox pages
-;Fast
-Vinnig
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)

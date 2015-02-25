@@ -2,8 +2,56 @@
 Navigation {ok}
 
 
+# Used in the new Firefox family navigation menu. Main level item.
+# Menu will be enabled on Firefox OS family on March 1st.
+# Example: https://www-demo2.allizom.org/it/mwc/
+;<span>for</span> Desktop
+<span>for</span> Desktop
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Overview
+Übersicht
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Trusted
+Vertrauenswürdig
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Flexible
+Flexibel
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Fast
+Schnell
+
+
+# Used in the new Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>for</span> Android
+
+
+# Used in the new Firefox family navigation menu. Main level item.
+;OS
+OS
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
 ;About
 Über uns
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Devices
+Devices
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;For partners
+For partners
 
 
 ;Donate
@@ -364,11 +412,6 @@ Versionen
 
 
 # Top menu item on firefox/update page
-;Overview
-Übersicht
-
-
-# Top menu item on firefox/update page
 ;Firefox
 Firefox {ok}
 
@@ -481,21 +524,6 @@ Werden Sie freiwilliger Mitwirkender in verschiedenen Bereichen.
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
 Menü
-
-
-# Menu item on top of Australis Firefox pages
-;Trusted
-Vertrauenswürdig
-
-
-# Menu item on top of Australis Firefox pages
-;Flexible
-Flexibel
-
-
-# Menu item on top of Australis Firefox pages
-;Fast
-Schnell
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)

@@ -2,8 +2,56 @@
 Navigasi
 
 
+# Used in the new Firefox family navigation menu. Main level item.
+# Menu will be enabled on Firefox OS family on March 1st.
+# Example: https://www-demo2.allizom.org/it/mwc/
+;<span>for</span> Desktop
+<span>for</span> Desktop
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Overview
+Tinjauan
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Trusted
+Tepercaya
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Flexible
+Luwes
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Fast
+Cepat
+
+
+# Used in the new Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>for</span> Android
+
+
+# Used in the new Firefox family navigation menu. Main level item.
+;OS
+OS
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
 ;About
 Tentang
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;Devices
+Devices
+
+
+# Used in the new Firefox family navigation menu. Sub-item.
+;For partners
+For partners
 
 
 ;Donate
@@ -364,11 +412,6 @@ Rilis
 
 
 # Top menu item on firefox/update page
-;Overview
-Tinjauan
-
-
-# Top menu item on firefox/update page
 ;Firefox
 Firefox {ok}
 
@@ -481,21 +524,6 @@ Mari menjadi kontributor sukarelawan di berbagai bidang.
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
 Menu {ok}
-
-
-# Menu item on top of Australis Firefox pages
-;Trusted
-Tepercaya
-
-
-# Menu item on top of Australis Firefox pages
-;Flexible
-Luwes
-
-
-# Menu item on top of Australis Firefox pages
-;Fast
-Cepat
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)

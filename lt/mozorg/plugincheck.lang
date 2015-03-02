@@ -1,6 +1,8 @@
 ## active ##
 ## java_notice ##
 ## plugin_disable_warning ##
+## plugin_updated_content ##
+## share_cta ##
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 
 
@@ -55,7 +57,7 @@ Reguliariai atnaujinant papildinius, jūsų „Firefox“ naršyklė bus saugesn
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
-Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
+Papildiniai ne visada atsinaujina automatiškai. Patikrinkite savuosius dabar – naršykite saugiai ir netrukdomi!
 
 
 ;Looks like you’re using an older version of Firefox.
@@ -197,19 +199,19 @@ atverkite meniu Priemonės;
 
 # If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 ;Open the <span class="menu">menu</span>.
-Open the <span class="menu">menu</span>.
+atverkite <span class="menu">meniu</span>;
 
 
 ;Choose Add-ons.
-jame pasirinkite punktą Priedai;
+jame pasirinkite punktą „Priedai“;
 
 
 ;Click the plugins tab.
-spustelėkite kortelę Papildiniai.
+spustelėkite kortelę „Papildiniai“;
 
 
 ;Click on the drop down next to the plugin you wish to disable.
-Click on the drop down next to the plugin you wish to disable.
+išskleiskite norimo išjungti papildinio eilutėje esantį išskleidžiamąjį sąrašą;
 
 
 ;Click on a plugin in the list.
@@ -217,7 +219,7 @@ iš sąrašo išsirinkite papildinį;
 
 
 ;Select "Never Activate" from the available choices.
-Select "Never Activate" from the available choices.
+iš atsiradusio meniu pasirinkite punktą „Niekada neaktyvinti“.
 
 
 ;Click the Disable button.

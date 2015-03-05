@@ -4,7 +4,7 @@
 
 
 ;Geolocation in Firefox
-Geolokalizacja w Firefoksie
+Geolokalizacja w Firefoksie
 
 
 ;Location-Aware Browsing
@@ -12,7 +12,7 @@ Przeglądanie uwzględniające położenie
 
 
 ;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
-Firefox może informować witryny internetowe o położeniu geograficznym użytkownika, pozwalając na odnalezienie bardziej użytecznych i&nbsp;przydatnych informacji. W&nbsp;ten sposób strony WWW działają inteligentniej &ndash; przy pełnym poszanowaniu prywatności. <a href="%(url)s" id="%(id)s" style="%(style)s">Zobacz, jak to działa!</a>
+Firefox może informować witryny internetowe o położeniu geograficznym użytkownika, pozwalając na odnalezienie bardziej użytecznych i&nbsp;przydatnych informacji. W&nbsp;ten sposób strony WWW działają inteligentniej &ndash; przy pełnym poszanowaniu prywatności. <a href="%(url)s" id="%(id)s" style="%(style)s">Zobacz, jak to działa!</a>
 
 
 ;Frequently asked Questions
@@ -24,11 +24,11 @@ Czym jest przeglądanie uwzględniające położenie?
 
 
 ;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
-Witryny używające technik geolokalizacji mogą poprosić o informacje na temat położenia geograficznego użytkownika, by dostarczyć bardziej przydatnych informacji, czy też zaoszczędzić czas poświęcony na wyszukiwanie. Na przykład, możesz szukać pizzerii w&nbsp;okolicy. Witryna może poprosić o&nbsp;informacje o&nbsp;położeniu, dzięki czemu, by odnaleźć najbliższą pizzerię wystarczy wyszukać hasła &bdquo;pizza&rdquo; &ndash; nie potrzeba nic więcej.
+Witryny używające technik geolokalizacji mogą poprosić o informacje na temat położenia geograficznego użytkownika, by dostarczyć bardziej przydatnych informacji, czy też zaoszczędzić czas poświęcony na wyszukiwanie. Na przykład, możesz szukać pizzerii w&nbsp;okolicy. Witryna może poprosić o&nbsp;informacje o&nbsp;położeniu, dzięki czemu, by odnaleźć najbliższą pizzerię wystarczy wyszukać hasła &bdquo;pizza&rdquo; &ndash; nie potrzeba nic więcej.
 
 
 ;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
-Inny przykład: chcesz wyznaczyć trasę przejazdu do jakiegoś miejsca &ndash; witryna będzie wiedziała, skąd zaczynasz podróż, więc wystarczy jej podać tylko informacje o tym, dokąd chcesz jechać.
+Inny przykład: chcesz wyznaczyć trasę przejazdu do jakiegoś miejsca &ndash; witryna będzie wiedziała, skąd zaczynasz podróż, więc wystarczy jej podać tylko informacje o tym, dokąd chcesz jechać.
 
 
 ;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
@@ -44,7 +44,7 @@ Kiedy użytkownik odwiedza witrynę używającą geolokalizacji, Firefox wymaga 
 
 
 ;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
-Jeśli wyrazisz zgodę, Firefox zbierze informacje na temat punktów dostępowych sieci bezprzewodowej w&nbsp; okolicy oraz adres IP komputera. Dane te zostaną potem przesłane do domyślnego dostawcy usług geolokalizacji, Google Location Services, aby wyznaczyć przybliżone położenie. Dane o tym położeniu są następnie przesyłane do witryny, która o&nbsp;nie prosiła.
+Jeśli wyrazisz zgodę, Firefox zbierze informacje na temat punktów dostępowych sieci bezprzewodowej w&nbsp; okolicy oraz adres IP komputera. Dane te zostaną potem przesłane do domyślnego dostawcy usług geolokalizacji, Google Location Services, aby wyznaczyć przybliżone położenie. Dane o tym położeniu są następnie przesyłane do witryny, która o&nbsp;nie prosiła.
 
 
 ;If you say that you do not consent, Firefox will not do anything.
@@ -56,7 +56,7 @@ Jak dokładnie wyznaczane jest położenie?
 
 
 ;Accuracy varies greatly from location to location. In some places, our service providers may be able to provide a location to within a few meters. However, in other areas it might be much more than that. All locations returned by our service providers are estimates only and we do not guarantee the accuracy of the locations provided. Please do not use this information for emergencies. Always use common sense.
-Dokładność może być różna w&nbsp;zależności od miejsca. Często nasi dostawcy usług mogą być w&nbsp;wstanie określić położenie z dokładnością do kilku metrów, jednakże w innych miejscach dokładność ta może być znacznie mniejsza. Wszystkie dane o położeniu dostarczone przez naszych dostawców usług są wyłącznie wartościami przybliżonymi, nie gwarantujemy ich dokładności ani prawidłowości. Danych tych nie należy używać w&nbsp;sytuacjach krytycznych. Warto też pamiętać o&nbsp;zdrowym rozsądku.
+Dokładność może być różna w&nbsp;zależności od miejsca. Często nasi dostawcy usług mogą być w&nbsp;wstanie określić położenie z dokładnością do kilku metrów, jednakże w innych miejscach dokładność ta może być znacznie mniejsza. Wszystkie dane o położeniu dostarczone przez naszych dostawców usług są wyłącznie wartościami przybliżonymi, nie gwarantujemy ich dokładności ani prawidłowości. Danych tych nie należy używać w&nbsp;sytuacjach krytycznych. Warto też pamiętać o&nbsp;zdrowym rozsądku.
 
 
 ;What information is being sent, and to whom? How is my privacy protected?
@@ -64,7 +64,7 @@ Jakie informacje są przesyłane i&nbsp;do kogo? Jak chroniona jest moja prywatn
 
 
 ;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
-Twoja prywatność jest dla nas niezmiernie ważna. Firefox nigdy nie udzieli witrynom informacji geolokalizacyjnych bez Twojej zgody. Kiedy otwierasz stronę proszącą o dane na temat położenia, zostaniesz poproszony o potwierdzenie przed jakimkolwiek przesłaniem informacji do tej witryny jak i&nbsp;do naszego zewnętrznego dostawcy usług.
+Twoja prywatność jest dla nas niezmiernie ważna. Firefox nigdy nie udzieli witrynom informacji geolokalizacyjnych bez Twojej zgody. Kiedy otwierasz stronę proszącą o dane na temat położenia, zostaniesz poproszony o potwierdzenie przed jakimkolwiek przesłaniem informacji do tej witryny jak i&nbsp;do naszego zewnętrznego dostawcy usług.
 
 
 ;By default, Firefox uses Google Location Services to determine your location by sending:
@@ -76,11 +76,11 @@ adres IP komputera,
 
 
 ;information about the nearby wireless access points, and
-informacje o najbliższych punktach dostępowych sieci bezprzewodowych,
+informacje o najbliższych punktach dostępowych sieci bezprzewodowych,
 
 
 ;a random client identifier, which is assigned by Google, that expires every 2 weeks.
-losowy identyfikator klienta, przypisany przez Google, który wygasa po 2 tygodniach.
+losowy identyfikator klienta, przypisany przez Google, który wygasa po 2 tygodniach.
 
 
 ;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
@@ -92,7 +92,7 @@ Google Location Services zwracają przybliżone położenie geograficzne (szerok
 
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
-Informacje te przesyłane są szyfrowanym połączeniem, chroniąc prywatność użytkownika. Kiedy Firefox uzyska informacje na temat położenia, przekazuje je do witryny, która o nie prosiła. Nigdy nie są przesyłane do Google Location Services nazwa odwiedzanej strony, jej adres, ani tzw. ciasteczka.
+Informacje te przesyłane są szyfrowanym połączeniem, chroniąc prywatność użytkownika. Kiedy Firefox uzyska informacje na temat położenia, przekazuje je do witryny, która o nie prosiła. Nigdy nie są przesyłane do Google Location Services nazwa odwiedzanej strony, jej adres, ani tzw. ciasteczka.
 
 
 ;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
@@ -128,7 +128,7 @@ Jak cofnąć zgodę na dostęp witryny do danych o&nbsp;położeniu?
 
 
 ;If you've given Firefox permission to always give your location to a site and later change your mind, you can easily revoke that permission. Here's how:
-Jeśli użytkownik wyraził zgodę na powiadamianie przez Firefoksa danej witryny o&nbsp;położeniu geograficznym, a następnie zmienił zdanie, może tę zgodę wycofać. Oto, jak to zrobić:
+Jeśli użytkownik wyraził zgodę na powiadamianie przez Firefoksa danej witryny o&nbsp;położeniu geograficznym, a następnie zmienił zdanie, może tę zgodę wycofać. Oto, jak to zrobić:
 
 
 ;Navigate to the site to which you’ve given permission
@@ -197,7 +197,7 @@ Jak dodać obsługę usług lokalizacyjnych do strony WWW?
 
 # Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 ;You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
-Obsługę usług lokalizacyjnych można zintegrować z witryną podążając za instrukcjami z <a href="%(url)s">Mozilla Developer Center</a>.
+Obsługę usług lokalizacyjnych można zintegrować z witryną podążając za instrukcjami z <a href="%(url)s">Mozilla Developer Center</a>.
 
 
 ;Where am I?

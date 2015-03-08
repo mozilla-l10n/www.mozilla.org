@@ -1,4 +1,5 @@
 ## active ##
+## sync_new_markup ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
@@ -66,7 +67,7 @@ Get started with Sync in four easy steps:
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Digorit al <a class="menurev ga-link" href="%(url)s#w_a-handy-new-menu">lañser</a> e lein war tu dehou Firefox ha diuzit "<strong>Kennaskañ ouzh Sync.</strong>"
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -76,12 +77,12 @@ Click “<strong>Get started</strong>” in the tab that opens.
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Enankit ur chomlec'h postel hag ur ger-tremen e "<strong>Krouiñ ur gont Firefox</strong>".
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+Klikit war "<strong>War-lec'h</strong>" da gaout ur gwiriadur kaset d'ho postel.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
@@ -188,7 +189,7 @@ Krogit gant Sync. Herrek, diarvar hag aes ez eo :
 
 # Used in old page, do not remove
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Digorit al <a class="menu" href="%(url)s#w_a-handy-new-menu">lañser</a> e lein war tu dehou Firefox ha diuzit "<strong>Kennaskañ ouzh Sync.</strong>"
 
 
 # Used in old page, do not remove
@@ -228,7 +229,7 @@ Ur pellgomzer pe un tabler dre Android zo ganeoc'h ?
 
 # Used in old page, do not remove
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Pellgargit Firefox evit Android</a> da c'houbredañ hoc'h urzhiataer burev gant ho trevnadoù hezoug.
 
 
 # Used in old page, do not remove

@@ -2,64 +2,114 @@
 Навігація
 
 
-# Used in the new Firefox family navigation menu. Main level item.
-# Menu will be enabled on Firefox OS family on March 1st.
-# Example: https://www-dev.allizom.org/it/firefox/os
+# Firefox family navigation menu. Main level item.
+# Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
 <span>для</span> Робочого столу
 
 
-# Used in the new Firefox family navigation menu. Sub-item.
-;Overview
-Огляд
-
-
-# Used in the new Firefox family navigation menu. Sub-item.
-;Trusted
-Довірений
-
-
-# Used in the new Firefox family navigation menu. Sub-item.
-;Flexible
-Гнучкий
-
-
-# Used in the new Firefox family navigation menu. Sub-item.
-;Fast
-Швидкий
-
-
-# Used in the new Firefox family navigation menu. Main level item.
+# Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
 <span>для</span> Android
 
 
-# Used in the new Firefox family navigation menu. Main level item.
+# Firefox family navigation menu. Main level item.
 ;OS
 OS {ok}
 
 
-# Used in the new Firefox family navigation menu. Sub-item.
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For desktops &amp; laptops
+For desktops &amp; laptops
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+For phones &amp; tablets
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+Огляд
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Довірений
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Гнучкий
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Швидкий
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Про…
 
 
-# Used in the new Firefox family navigation menu. Sub-item.
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
 Пристрої
 
 
-# Used in the new Firefox family navigation menu. Sub-item.
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
 Партнерам
 
 
-# Used in the new Firefox family navigation menu. Item in the '...' button
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Do Not Track
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Tiles
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Interest Dashboard
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer Edition
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Private Browsing
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+Потрібна допомога?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Новини
 
 
-# Used in the new Firefox family navigation menu. Item in the '...' button
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+For developers
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Find My Device
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
 Розробники
 
@@ -331,11 +381,6 @@ Email {ok}
 Підтримувані пристрої
 
 
-# Used in several pages (firefox/new, firefox/sync, etc.) as a link to SUMO
-;Need help?
-Потрібна допомога?
-
-
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 ;What’s New
 Що нового
@@ -504,6 +549,11 @@ Firefox на Facebook
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
 Форуми
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Leadership
 
 
 # sidebar link in some /about pages (e.g. Manifesto)

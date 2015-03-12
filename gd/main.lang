@@ -2,64 +2,114 @@
 Seòladh
 
 
-# Used in the new Firefox family navigation menu. Main level item.
-# Menu will be enabled on Firefox OS family on March 1st.
-# Example: https://www-dev.allizom.org/it/firefox/os
+# Firefox family navigation menu. Main level item.
+# Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
 <span>airson</span> an deasga
 
 
-# Used in the new Firefox family navigation menu. Sub-item.
-;Overview
-Foir-shealladh
-
-
-# Used in the new Firefox family navigation menu. Sub-item.
-;Trusted
-Earbsach
-
-
-# Used in the new Firefox family navigation menu. Sub-item.
-;Flexible
-Sùbailte
-
-
-# Used in the new Firefox family navigation menu. Sub-item.
-;Fast
-Luath
-
-
-# Used in the new Firefox family navigation menu. Main level item.
+# Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
 <span>airson</span> Android
 
 
-# Used in the new Firefox family navigation menu. Main level item.
+# Firefox family navigation menu. Main level item.
 ;OS
 OS {ok}
 
 
-# Used in the new Firefox family navigation menu. Sub-item.
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For desktops &amp; laptops
+For desktops &amp; laptops
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+For phones &amp; tablets
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+Foir-shealladh
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Earbsach
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Sùbailte
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Luath
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Mu dhèidhinn
 
 
-# Used in the new Firefox family navigation menu. Sub-item.
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
 Uidheaman
 
 
-# Used in the new Firefox family navigation menu. Sub-item.
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
 Airson com-pàirtichean
 
 
-# Used in the new Firefox family navigation menu. Item in the '...' button
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Do Not Track
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Tiles
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Interest Dashboard
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer Edition
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Private Browsing
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+Cobhair a dhìth?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Naidheachdan
 
 
-# Used in the new Firefox family navigation menu. Item in the '...' button
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+For developers
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Find My Device
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
 Luchd-leasachaidh
 
@@ -331,11 +381,6 @@ B' fheairrde dhut àrdachadh! Faigh àrdachadh a chum do thèarainteachd fhèin 
 Uidheaman ris a bheil taic
 
 
-# Used in several pages (firefox/new, firefox/sync, etc.) as a link to SUMO
-;Need help?
-Cobhair a dhìth?
-
-
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 ;What’s New
 Na tha ùr
@@ -504,6 +549,11 @@ Firefox air Facebook
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
 Fòraman
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Leadership
 
 
 # sidebar link in some /about pages (e.g. Manifesto)

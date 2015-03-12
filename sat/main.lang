@@ -2,64 +2,114 @@
 पानते ञाम
 
 
-# Used in the new Firefox family navigation menu. Main level item.
-# Menu will be enabled on Firefox OS family on March 1st.
-# Example: https://www-dev.allizom.org/it/firefox/os
+# Firefox family navigation menu. Main level item.
+# Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
 <span>for</span> Desktop
 
 
-# Used in the new Firefox family navigation menu. Sub-item.
-;Overview
-ञेल राकाब
-
-
-# Used in the new Firefox family navigation menu. Sub-item.
-;Trusted
-पा़तियाव आ
-
-
-# Used in the new Firefox family navigation menu. Sub-item.
-;Flexible
-टानागाक्
-
-
-# Used in the new Firefox family navigation menu. Sub-item.
-;Fast
-लोगोन
-
-
-# Used in the new Firefox family navigation menu. Main level item.
+# Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
 <span>for</span> Android
 
 
-# Used in the new Firefox family navigation menu. Main level item.
+# Firefox family navigation menu. Main level item.
 ;OS
 OS {ok}
 
 
-# Used in the new Firefox family navigation menu. Sub-item.
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For desktops &amp; laptops
+For desktops &amp; laptops
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+For phones &amp; tablets
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+ञेल राकाब
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+पा़तियाव आ
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+टानागाक्
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+लोगोन
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 बाबोत ते
 
 
-# Used in the new Firefox family navigation menu. Sub-item.
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
 Devices
 
 
-# Used in the new Firefox family navigation menu. Sub-item.
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
 For partners
 
 
-# Used in the new Firefox family navigation menu. Item in the '...' button
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Do Not Track
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Tiles
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Interest Dashboard
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer Edition
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Private Browsing
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+चेत् गोड़ो ला़कती ?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 News
 
 
-# Used in the new Firefox family navigation menu. Item in the '...' button
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+For developers
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Find My Device
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
 लाहा होचो को
 
@@ -331,11 +381,6 @@ MPEG-4 तेयार
 गोड़ोवाक् डिबाइस को .
 
 
-# Used in several pages (firefox/new, firefox/sync, etc.) as a link to SUMO
-;Need help?
-चेत् गोड़ो ला़कती ?
-
-
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 ;What’s New
 चेत् दो नावा आ
@@ -504,6 +549,11 @@ MPEG-4 तेयार
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
 फोरुम
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Leadership
 
 
 # sidebar link in some /about pages (e.g. Manifesto)

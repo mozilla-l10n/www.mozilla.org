@@ -2,64 +2,114 @@
 주요 메뉴
 
 
-# Used in the new Firefox family navigation menu. Main level item.
-# Menu will be enabled on Firefox OS family on March 1st.
-# Example: https://www-dev.allizom.org/it/firefox/os
+# Firefox family navigation menu. Main level item.
+# Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
 데스크톱
 
 
-# Used in the new Firefox family navigation menu. Sub-item.
-;Overview
-소개
-
-
-# Used in the new Firefox family navigation menu. Sub-item.
-;Trusted
-신뢰
-
-
-# Used in the new Firefox family navigation menu. Sub-item.
-;Flexible
-유연함
-
-
-# Used in the new Firefox family navigation menu. Sub-item.
-;Fast
-빠름
-
-
-# Used in the new Firefox family navigation menu. Main level item.
+# Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
 Android
 
 
-# Used in the new Firefox family navigation menu. Main level item.
+# Firefox family navigation menu. Main level item.
 ;OS
 운영체제
 
 
-# Used in the new Firefox family navigation menu. Sub-item.
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For desktops &amp; laptops
+For desktops &amp; laptops
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+For phones &amp; tablets
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+소개
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+신뢰
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+유연함
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+빠름
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 소개
 
 
-# Used in the new Firefox family navigation menu. Sub-item.
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
 기기
 
 
-# Used in the new Firefox family navigation menu. Sub-item.
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
 파트너
 
 
-# Used in the new Firefox family navigation menu. Item in the '...' button
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Do Not Track
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Tiles
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Interest Dashboard
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer Edition
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Private Browsing
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+도움이 필요한가요?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 News
 
 
-# Used in the new Firefox family navigation menu. Item in the '...' button
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+For developers
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+내 기기 찾기
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
 개발자
 
@@ -331,11 +381,6 @@ Firefox 모바일
 지원 기기
 
 
-# Used in several pages (firefox/new, firefox/sync, etc.) as a link to SUMO
-;Need help?
-도움이 필요한가요?
-
-
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 ;What’s New
 새로운 기능
@@ -504,6 +549,11 @@ Firefox 페이스북
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
 포럼
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Leadership
 
 
 # sidebar link in some /about pages (e.g. Manifesto)

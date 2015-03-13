@@ -5,12 +5,12 @@
 # Firefox family navigation menu. Main level item.
 # Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>面向</span> 桌面
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>面向</span> Android
 
 
 # Firefox family navigation menu. Main level item.
@@ -20,12 +20,12 @@
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+面向桌面 &amp; 笔记本电脑
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+面向手机 &amp; 平板电脑
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -55,38 +55,38 @@ For phones &amp; tablets
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+设备
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+面向合作伙伴
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+请勿跟踪
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+磁贴
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+兴趣仪表盘
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+开发者版本
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+隐私浏览
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -96,12 +96,12 @@ Private Browsing
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+新闻
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+面向开发者
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -185,7 +185,7 @@ For developers
 
 # Used as link in the footer
 ;Cookies
-Cookie
+Cookie {ok}
 
 
 # Used as link in the footer
@@ -553,7 +553,7 @@ Facebook 上的 Firefox
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+领导者
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -715,6 +715,6 @@ Firefox 帮助
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox 即将登陆 iOS ！<a href="{url}">注册以了解更多详情</a>。
 
 

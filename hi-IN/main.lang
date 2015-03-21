@@ -5,12 +5,12 @@
 # Firefox family navigation menu. Main level item.
 # Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+डेस्कटॉप <span>के लिए</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>एंड्राइड</span>  के लिए
 
 
 # Firefox family navigation menu. Main level item.
@@ -21,12 +21,12 @@ OS {ok}
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+लैपटॉप &amp; डेस्कटॉप  के लिए
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+फोन &amp; टैबलेट के लिए
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -36,7 +36,7 @@ For phones &amp; tablets
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
-Trusted
+विश्वसनीय
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -46,7 +46,7 @@ Trusted
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Fast
-Fast
+तेज़ी से
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -56,38 +56,38 @@ Fast
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+उपकरण
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+सहभागीयों के लिए
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+ट्रैक न करें
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+टाइलें
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+रूचि डैशबोर्ड
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+डेवलपर संस्करण
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+निजी ब्राउज़िंग
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -97,17 +97,17 @@ Private Browsing
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+समाचार
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+डेवलपर्स के लिए
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-मेरी युक्ति ढूँढ़ें
+मेरा डिवाइस खोंजे
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -117,12 +117,12 @@ For developers
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+स्वतंत्र ब्राउज़र चुनें
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+फ़ायरफ़ॉक्स एक गैर-लाभ, गैर-कॉर्पोरेट, गैर-समझौता है। फ़ायरफ़ॉक्स को चुनना सिर्फ एक ब्राउज़र को चुनने के बराबर नहीं है। यह व्यक्तिगत स्वतंत्रता के लिए एक वोट है।
 
 
 ;Donate
@@ -301,7 +301,7 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 
 # Link used to play again an animation or a video
 ;Replay
-Replay
+पुनःचलाएं
 
 
 ;Watch the video
@@ -309,11 +309,11 @@ Replay
 
 
 ;Replay the video
-Replay the video
+वीडियो पुन: चलाएं
 
 
 ;Share the video
-Share the video
+वीडियो का साझा करें
 
 
 ;WebM format
@@ -439,7 +439,7 @@ Ogg थियोरा प्रारूप
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+एंड्राइड एड-ऑनस
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -454,7 +454,7 @@ Android Add-ons
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+एंड्राइड सहयोग
 
 
 # Top menu item on firefox/update page
@@ -544,7 +544,7 @@ Android Support
 
 # footer link
 ;Firefox on Twitter
-Twitter में Firefox
+ट्विटर पर फ़ायरफ़ॉक्स
 
 
 # footer link
@@ -564,7 +564,7 @@ Facebook पर Firefox
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+नेतृत्व
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -604,18 +604,18 @@ Leadership
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Choose Independent
+स्वतंत्र चुनें
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+एक स्वतंत्र और खुला इंटरनेट उज्ज्वल के लिए जुनून बनाये रखें! #ChooseIndependent। Firefox चुनें:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+सही ढंग से इस पेज को प्रदर्शित करने के लिए JavaScript को चालू करें।
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -625,7 +625,7 @@ Firefox सुविधाएँ
 
 # Used as link to SUMO in footers on some pages
 ;Firefox Help
-फ़ायरफ़ॉक्स मदद
+Firefox मदद
 
 
 ;January
@@ -633,7 +633,7 @@ Firefox सुविधाएँ
 
 
 ;February
-फरवरी
+फ़रवरी
 
 
 ;March
@@ -661,7 +661,7 @@ Firefox सुविधाएँ
 
 
 ;September
-सितंबर
+सितम्बर
 
 
 ;October
@@ -673,23 +673,23 @@ Firefox सुविधाएँ
 
 
 ;December
-दिसबंर
+दिसम्बर
 
 
 ;<abbr>Jan</abbr>
-<abbr>जन</abbr>
+<abbr>जनवरी</abbr>
 
 
 ;<abbr>Feb</abbr>
-<abbr>फर</abbr>
+<abbr>फरवरी</abbr>
 
 
 ;<abbr>Mar</abbr>
-<abbr>मार्त</abbr>
+<abbr>मार्च</abbr>
 
 
 ;<abbr>Apr</abbr>
-<abbr>अप्रै</abbr>
+<abbr>अप्रेल</abbr>
 
 
 ;<abbr>May</abbr>
@@ -701,31 +701,31 @@ Firefox सुविधाएँ
 
 
 ;<abbr>Jul</abbr>
-<abbr>जुल</abbr>
+<abbr>जुलाई</abbr>
 
 
 ;<abbr>Aug</abbr>
-<abbr>अग</abbr>
+<abbr>अगस्त</abbr>
 
 
 ;<abbr>Sep</abbr>
-<abbr>सितं</abbr>
+<abbr>सितम्बर</abbr>
 
 
 ;<abbr>Oct</abbr>
-<abbr>अक्टू</abbr>
+<abbr>अक्टूबर</abbr>
 
 
 ;<abbr>Nov</abbr>
-<abbr>नबं</abbr>
+<abbr>नवम्बर</abbr>
 
 
 ;<abbr>Dec</abbr>
-<abbr>दिसं</abbr>
+<abbr>दिसम्बर</abbr>
 
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox iOS के लिए जल्द ही आ रहा है! <a href="{url}"> जानने के लिए साइन अप करें</a>.
 
 

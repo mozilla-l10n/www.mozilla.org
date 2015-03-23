@@ -5,12 +5,12 @@
 # Firefox family navigation menu. Main level item.
 # Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>για</span> υπολογιστές
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>για</span> Android
 
 
 # Firefox family navigation menu. Main level item.
@@ -21,12 +21,12 @@ OS {ok}
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+Για υπολογιστές &amp; laptops
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+Για κινητά &amp; tablets
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -56,38 +56,38 @@ For phones &amp; tablets
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+Συσκευές
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+Για συνεργάτες
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+Do Not Track {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+Πλακίδια
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+Interest Dashboard {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+Developer Edition {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+Ιδιωτική Περιήγηση
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -97,12 +97,12 @@ Private Browsing
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+Νέα
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+Για δημιουργούς
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -117,12 +117,12 @@ For developers
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Επιλέξτε τον ανεξάρτητο περιηγητή
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Ο Firefox είναι μη κερδοσκοπικός, μη εταιρικός και μη συμβιβάσιμος. Επιλέγοντας τον Firefox δεν επιλέγετε απλά έναν περιηγητή. Επιλέγετε την προσωπική ελευθερία.
 
 
 ;Donate
@@ -564,7 +564,7 @@ Firefox στο Facebook
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+Ηγεσία
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -726,6 +726,6 @@ Leadership
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Ο Firefox έρχεται σύντομα στο iOS! <a href="{url}">Εγγραφείτε για να μάθετε περισσότερα</a>.
 
 

@@ -1,16 +1,16 @@
 ;Navigation
-تصفح
+تصفّح
 
 
 # Firefox family navigation menu. Main level item.
 # Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>على</span> الحواسيب المكتبيّة
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>على</span> أندرويد
 
 
 # Firefox family navigation menu. Main level item.
@@ -21,12 +21,12 @@
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+للحواسيب المكتبيّة والمحمولة
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+للهواتف الذّكيّة والأجهزة اللوحيّة
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -56,33 +56,33 @@ For phones &amp; tablets
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+أجهزة
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+للشّركاء
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+خاصّيّة عدم المُتابعة
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+وُريقات
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+لوحة الاهتمامات
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+نسخة المُطوّرين
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -97,12 +97,12 @@ Private Browsing
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+أخبار
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+للمُطوّرين
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -117,12 +117,12 @@ Find My Device
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+اختر المُتصفّح الحر
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+فيَرفُكس ليس ربحيًّا وليس شركة وليس مُخترقًا. اختيار  فيَرفُكس ليس مُجرّد اختيار مُتصفّح. إنّه اختيار حرّيتك الشّخصيّة.
 
 
 ;Donate
@@ -564,7 +564,7 @@ Sync {ok}
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+الفريق الإداري
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -726,6 +726,6 @@ Leadership
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+سيصل فيَرفُكس قريبًا إلى نظام iOS <a href="{url}">سجّل لتعرف المزيد</a>.
 
 

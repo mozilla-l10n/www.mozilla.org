@@ -5,7 +5,7 @@ Navigare
 # Firefox family navigation menu. Main level item.
 # Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>pentru</span> desktop
 
 
 # Firefox family navigation menu. Main level item.
@@ -21,12 +21,12 @@ OS {ok}
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+Pentru calculatoare și laptopuri
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-Pentru telefoane &amp; tablete
+Pentru telefoane și tablete
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -51,7 +51,7 @@ Rapid
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
-Despre noi
+Despre
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -66,33 +66,33 @@ Pentru parteneri
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-NU mă urmări
+Nu mă urmări
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+Miniaturi
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+Tablou de interese
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+Developer Edition {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+Navigare fără urme
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 ;Need help?
-Aveți nevoie de ajutor?
+Ai nevoie de ajutor?
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -107,7 +107,7 @@ Pentru dezvoltatori
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+Găsește-mi dispozitivul
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -117,12 +117,12 @@ Dezvoltatori
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Alege navigatorul independent
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox este nonprofit, fără legături corporative și realizat fără compromisuri. Alegând Firefox nu alegi doar un navigator. Este un vot pentru libertatea personală.
 
 
 ;Donate
@@ -166,7 +166,7 @@ Despre Mozilla
 
 
 ;Get Involved
-Contribuie
+Implică-te
 
 
 ;Careers
@@ -191,7 +191,7 @@ Alte limbi:
 
 
 ;Legal
-Legal{ok}
+Mențiuni legale
 
 
 # Used as link in the footer
@@ -213,7 +213,7 @@ Politică de confidențialitate
 
 
 ;Release Notes
-Despre versiunea curentă
+Note privind lansarea
 
 
 ;Other Systems and Languages
@@ -229,7 +229,7 @@ Alte sisteme de operare și limbi
 
 
 ;Return to top
-Întoarcere la partea de sus
+Întoarce-te la partea de sus
 
 
 ;Features
@@ -274,7 +274,7 @@ Cu excepția cazurilor când <a href="%s">se specifică altfel</a>, conținutul 
 
 
 ;Report Trademark Abuse
-Raportați un abuz al mărcilor înregistrate
+Raportează un abuz al mărcilor înregistrate
 
 
 ;Free Upgrade
@@ -291,12 +291,12 @@ Personalizare cu suplimente
 
 
 ;Learn More
-Aflați mai multe
+Află mai multe
 
 
 # Same as previous above but with no capitalization on More
 ;Learn more
-Aflați mai multe
+Află mai multe
 
 
 # Link used to play again an animation or a video
@@ -305,11 +305,11 @@ Reia
 
 
 ;Watch the video
-Urmăriți clipul video
+Urmărește videoclipul
 
 
 ;Replay the video
-Replay the video
+Reia videoclipul
 
 
 ;Share the video
@@ -333,11 +333,11 @@ Mobil
 
 
 ;Check out the new look and feel of Firefox.
-Încercați noul aspect al Firefox.
+Încearcă noul aspect al Firefox.
 
 
 ;View Full Site
-Vizitați saitul complet
+Vezi saitul complet
 
 
 ;Get Firefox for Android
@@ -349,7 +349,7 @@ Descarcă pentru <span>Android</span>
 
 
 ;Desktop
-Desktop{ok}
+Desktop {ok}
 
 
 ;Firefox Beta for mobile
@@ -361,7 +361,7 @@ Firefox pentru mobil
 
 
 ;Email
-Email{ok}
+E-mail
 
 
 ;Super speed
@@ -373,11 +373,11 @@ Grafică uimitoare
 
 
 ;The latest technologies
-Ultimele tehnologii
+Cele mai noi tehnologii
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Ai nevoie de actualizare! Vei fi în siguranță în mai puțin de un minut. < /br> Începe să folosești noul Firefox pentru cea mai bună navigare și personalizare a Web-ului.
+Ai nevoie de actualizare! Vei fi în siguranță în mai puțin de un minut. <br/> Începe să folosești noul Firefox pentru cea mai bună navigare și personalizare de pe Web. <br/> Este rapid și gratuit!
 
 
 ;Upgrade now
@@ -394,7 +394,7 @@ Dispozitive suportate
 
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 ;What’s New
-Ce e nou
+Ce este nou
 
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
@@ -404,7 +404,7 @@ Confidențialitate
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Porțiuni din acest conținut sunt scrise între ©1998–%(current_year)s de contribuitori individuali la mozilla.org. Conținut disponibil sub <a href="%(url)s">licența Creative Commons</a>.
+Porțiuni din acest conținut sunt scrise între ©1998–%(current_year)s de contribuitori individuali mozilla.org. Conținut disponibil sub <a href="%(url)s">licența Creative Commons</a>.
 
 
 # Footer string (will replace "Contribute to this page")
@@ -459,7 +459,7 @@ Suport desktop
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+Suport Android
 
 
 # Top menu item on firefox/update page
@@ -484,7 +484,7 @@ Lansări
 
 # Top menu item on firefox/update page
 ;Firefox
-Firefox{ok}
+Firefox {ok}
 
 
 # Top menu item on firefox/update page
@@ -504,7 +504,7 @@ Suport mobil
 
 # Top menu item on firefox/update page
 ;Blog
-Blog{ok}
+Blog {ok}
 
 
 # Top menu item on firefox/update page
@@ -524,7 +524,7 @@ Participă
 
 # Top menu item on firefox/update page
 ;Brand Toolkit
-Set unelte pentru marcă
+Set de unelte pentru marcă
 
 
 # Top menu item on firefox/update page
@@ -569,7 +569,7 @@ Forumuri
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+Conducerea
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -609,18 +609,18 @@ Creat pentru tine, pentru confidențialitatea ta și pentru un web deschis.
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Choose Independent
+Alege independent
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Menține vie flacăra pasiunii pentru un Internet liber și deschis! #ChooseIndependent. Alege Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+Te rugăm să pornești JavaScript pentru a afișa această pagină corect.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -686,15 +686,15 @@ Decembrie
 
 
 ;<abbr>Feb</abbr>
-<abbr>Feb</abbr>
+<abbr>Feb</abbr> {ok}
 
 
 ;<abbr>Mar</abbr>
-<abbr>Mar</abbr>
+<abbr>Mar</abbr> {ok}
 
 
 ;<abbr>Apr</abbr>
-<abbr>Apr</abbr>
+<abbr>Apr</abbr> {ok}
 
 
 ;<abbr>May</abbr>
@@ -710,15 +710,15 @@ Decembrie
 
 
 ;<abbr>Aug</abbr>
-<abbr>Aug</abbr>
+<abbr>Aug</abbr> {ok}
 
 
 ;<abbr>Sep</abbr>
-<abbr>sep</abbr>
+<abbr>Sep</abbr> {ok}
 
 
 ;<abbr>Oct</abbr>
-<abbr>Oct</abbr>
+<abbr>Oct</abbr> {ok}
 
 
 ;<abbr>Nov</abbr>
@@ -726,11 +726,11 @@ Decembrie
 
 
 ;<abbr>Dec</abbr>
-<abbr>Dec</abbr>
+<abbr>Dec</abbr> {ok}
 
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox vine în curând pe iOS! <a href="{url}">Înregistrează-te pentru a afla mai multe</a>.
 
 

@@ -9,17 +9,17 @@
 
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
-Țineți Firefox sănătos cu un control rapid
+Mențineți-vă Firefox sănătos cu un control rapid
 
 
 # Used as page description in HTML meta tag
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Utilizați Flash? QuickTime? Java? Dacă utilizați acestea pentru a face experiența cu Firefox mai frumoasă, verificați modulele dumneavoastră! Ar putea avea nevoie să fie actualizate.
+Folosiți Flash? QuickTime? Java? Dacă folosiți acestea pentru a face experiența cu Firefox mai minunată, verificați-vă modulele! S-ar putea să aibă nevoie să fie actualizate.
 
 
 # Old page <title> tag
 ;Plugin Check &amp; Updates
-Verificare și actualizare module (plugins)
+Verificare și actualizare module
 
 
 # This is a button telling the user to update their plugin
@@ -34,17 +34,17 @@ Cercetează
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-versiunea curentă a modulului
+versiunea actuală a modulului
 
 
 # This is a button informing the user that their plugin is up to date
 ;Up to Date
-La zi
+Modul la zi
 
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Pictogramă plugin
+Iconița modulului
 
 
 # This is the string used to indicate that the plugin is unknown
@@ -68,27 +68,27 @@ Păstrând modulele actualizate, veți avea un Firefox care rulează sigur și l
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
-Modulele nu sunt întotdeauna actualizate automat. Verificați-le acum pentru a fi în siguranță și a naviga fără întreruperi!
+Modulele nu se actualizează întotdeauna automat. Verificați-le acum pentru a fi în siguranță și a naviga fără întreruperi!
 
 
 ;Looks like you’re using an older version of Firefox.
-Se pare că utilizați o versiune mai veche de Firefox.
+Se pare că folosești o versiune mai veche de Firefox.
 
 
 ;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-Suntem conștienți de o problemă de detectare a versiunilor curente ale pluginului Java și rapoartele eronate a acestuia ca vulnerabil.
+Suntem conștienți de o problemă privind detectarea versiunilor actuale ale modulului Java și raportarea eronată ca fiind vulnerabil.
 
 
 ;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-Lucrăm încă pentru a corecta această eroare. Între timp, puteți <a href="%(download)s"> vizita site-ul Java </a> pentru a descărca cea mai recentă versiune.
+Lucrăm încă pentru a corecta această eroare. Între timp, puteți <a href="%(download)s">vizita saitul Java</a> pentru a descărca cea mai recentă versiune.
 
 
 ;Plugin Status
-Stare modul
+Starea modulelor
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
-Verificarea modulelor <strong>pentru Internet Explorer e limitată</strong>. Încercați și Unelte -> Gestionare extensii
+Verificarea modulelor <strong>pentru Internet Explorer e limitată</strong>. Încercați și Unelte -> Gestionează suplimente
 
 
 ;Step 1: Click Update to update a plugin.
@@ -100,7 +100,7 @@ Pasul 2: Efectuați toate actualizările recomandate înainte de a reporni navig
 
 
 ;Potentially vulnerable plugins
-Module cu vulnerabilități potențiale
+Module potențial vulnerabile
 
 
 ;Plugin
@@ -128,15 +128,15 @@ Aceste module sunt actualizate
 
 
 ;Back to Top
-Întoarcere în partea de sus
+Întoarceți-vă în partea de sus
 
 
 ;Frequently Asked Questions
-Întrebări frecvente
+Întrebări adresate frecvent
 
 
 ;What is a plugin?
-Ce este un modul (plugin)?
+Ce este un modul?
 
 
 ;Plugins power videos, animation and games
@@ -144,7 +144,7 @@ Modulele vă oferă videoclipuri, animații și jocuri.
 
 
 ;They're built outside of Firefox by companies like Adobe Systems and Apple
-Ele sunt construite de alte companii cum ar fi Adobe Systems și Apple.
+Ele sunt construite de alte companii precum Adobe Systems și Apple.
 
 
 ;Plugins don't always update automatically.
@@ -156,15 +156,15 @@ De ce ar trebui să îmi actualizez modulele?
 
 
 ;Old plugins can interrupt browsing and waste your time.
-Plugin-urile vechi pot întrerupe navigarea și vă fac să pierdeți timpul.
+Modulele vechi pot întrerupe navigarea și să pierdeți timpul.
 
 
 ;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
-Plugin-urile vechi <strong>cresc riscul</strong> de a fi atacat de programe rău intenționate, virusuri sau alte amenințări de securitate.
+Modulele vechi <strong>sporesc riscul</strong> de a fi atacat de programe rău intenționate, viruși sau alte amenințări de securitate.
 
 
 ;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
-<strong>Plugin-urile actualizate au îmbunătățiri</strong> care fac internetul <strong>mai bun și mai sigur</strong> pentru dumneavoastră.
+<strong>Modulele actualizate au îmbunătățiri</strong> care fac Web-ul <strong>mai bun și mai sigur</strong> pentru dumneavoastră.
 
 
 # alt image
@@ -181,19 +181,19 @@ Cum mă poate ajuta Firefox?
 
 
 ;Which Plugins do I have?
-Ce module am instalate?
+Ce module am?
 
 
 ;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
-Am detectat automat modulele instalate și le-am afișat mai sus, pentru a vedea modulele instalate în Firefox urmați acești pași:
+V-am detectat automat modulele și le-am afișat mai sus, pentru a vedea modulele instalate în Firefox urmați acești pași:
 
 
 ;Want to spread the word?
-Doriți să spune-ți și altora?
+Doriți să dați de veste?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Ajutați-vă prietenii să stea în siguranță online! Vizitați <a href="%(url)s">Afiliați Firefox</a> pentru a obține un ecuson cu verificare plugin pentru saitul dumneavoastră.
+Ajutați-vă prietenii să stea în siguranță online! Vizitați <a href="%(url)s">Afiliați Firefox</a> pentru a obține un ecuson cu verificare de module pentru saitul dumneavoastră.
 
 
 ;How do I disable a plugin?
@@ -218,11 +218,11 @@ Alegeți Suplimente.
 
 
 ;Click the plugins tab.
-Alegeți fila Module.
+Clic pe fila Module.
 
 
 ;Click on the drop down next to the plugin you wish to disable.
-Clic pe meniul derulant de lângă plugin-ul pe care doriți să dezactivați.
+Clic pe meniul derulant de lângă modulul pe care doriți să îl dezactivați.
 
 
 ;Click on a plugin in the list.
@@ -230,7 +230,7 @@ Clic pe un modul din listă.
 
 
 ;Select "Never Activate" from the available choices.
-Selectați „Nicodată activat” din lista de opțiuni disponibile.
+Selectați „Nu activa niciodată” din lista de opțiuni disponibile.
 
 
 ;Click the Disable button.
@@ -238,15 +238,15 @@ Clic pe butonul Dezactivează.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
-Atenție: dezactivarea unui modul înseamnă că nu-i mai permiteți să facă diverse lucruri. De exemplu, dacă dezactivați Flash, nu veți mai putea viziona filme pe YouTube.
+Atenție: dezactivarea unui modul înseamnă că nu-i mai permiteți să facă diverse lucruri. De exemplu, dacă dezactivați Flash, nu veți mai putea viziona videoclipuri pe YouTube.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
-Atenție: dezactivarea unui plugin înseamnă că nu-i mai permiteți să facă diverse lucruri. De exemplu, dacă dezactivați Flash, nu veți mai putea viziona filme pe cele mai populare saituri transmisiuni video.
+Atenție: dezactivarea unui modul înseamnă că nu-i mai permiteți să facă diverse lucruri. De exemplu, dacă dezactivați Flash, nu veți mai putea viziona videoclipuri pe cele mai populare saituri transmisiuni video.
 
 
 ;Mozilla Support
-Suport Mozilla
+Mozilla Support
 
 
 ;Have more questions?

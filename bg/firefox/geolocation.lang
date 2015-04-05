@@ -12,7 +12,7 @@
 
 
 ;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
-Firefox може да информира страниците, който посещавате за вашето местоположение, така че да ви предоставят по-точна и полезна информация. Става въпрос за подобрение в Интернет &ndash; и то по начин, който напълно запазва вашата лична информация. <a href="%(url)s" id="%(id)s" style="%(style)s">Пробвай сегa!</a>
+Firefox може да информира страниците, който посещавате за вашето местоположение, така че да ви предоставят по-точна и полезна информация. Става въпрос за подобрение в Интернет &ndash; и то по начин, който напълно запазва вашата лична информация. <a href="%(url)s" id="%(id)s" style="%(style)s">Пробвайте сегa!</a>
 
 
 ;Frequently asked Questions
@@ -24,11 +24,11 @@ Firefox може да информира страниците, който пос
 
 
 ;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
-Интернет страниците, които използват сърфирането с известено местоположение, ще запитват къде се намирате, с цел да ви предоставят по-точна информация или да ви спестят време в търсене. Нека да кажем, че търсите пицария във вашата околност. Интернет страницата ще може да ви попита, дали искате да споделите информацията за вашето местоположение, така че едно обикновенно търсене на "пица" ще ви даде резултатите, които търсите.... без да се изисква допълнителна информация.
+Интернет страниците, които използват сърфирането с известено местоположение, ще запитват къде се намирате, с цел да ви предоставят по-точна информация или да ви спестят време в търсене. Нека да кажем, че търсите пицария във вашата околност. Интернет страницата ще може да ви попита, дали искате да споделите информацията за вашето местоположение, така че едно обикновенно търсене на "пица" ще ви даде резултатите, които търсите… без да се изисква допълнителна информация.
 
 
 ;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
-Или, ако търсите маршрути до дадено място, интернет страницата ще знае от каде ще тръгнете, и всичко което трябва да направите е да й кажете къде искате да отидете.
+Или, ако търсите маршрути до дадено място, интернет страницата ще знае от къде ще тръгнете и всичко което трябва да направите е да ѝ кажете къде искате да отидете.
 
 
 ;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
@@ -48,7 +48,7 @@ Firefox може да информира страниците, който пос
 
 
 ;If you say that you do not consent, Firefox will not do anything.
-Ако не се съгласите, Firefox няма да направи Нищо.
+Ако не се съгласите, Firefox няма да направи нищо.
 
 
 ;How accurate are the locations?
@@ -136,35 +136,35 @@ Google Политика на Личните данни
 
 
 ;Go to the <em>Tools</em> menu, then select <em>Page Info</em>
-Отидете на меню <em>Tools</em> , и изберете <em>Page Info</em>
+Отидете на меню <em>Инструменти</em>, и изберете <em>Информация за страницата</em>
 
 
 ;Select the <em>Permissions</em> tab
-Изберете <em>Permissions</em> таб-а
+Изберете секцията <em>Права</em>
 
 
 ;Change the setting for <em>Share Location</em>
-Променете настройките на <em>Share Location</em>
+Променете настройките на <em>Достъп до местоположението</em>
 
 
 ;How do I clear the “random client identification number”?
-Как да изчистя “случайно генерирания клиентски код”?
+Как да изчистя „случайно генерирания клиентски код“?
 
 
 ;Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>
-Отидете на меню <em>Tools</em> , и изберете <em>Clear Recent History</em>
+Отидете на меню <em>История</em>, и изберете <em>Изчистване на скорошна история</em>
 
 
 ;Click the <em>Details</em> arrow
-Натиснете стрелката <em>Details</em>
+Натиснете стрелката <em>Подробности</em>
 
 
 ;Ensure that <em>Cookies</em> is selected
-Проверете, че <em>Cookies</em> е маркирано
+Проверете, че <em>Бисквитки</em> е избрано
 
 
 ;Click on <em>Clear Now</em>
-Натиснете <em>Clear Now</em>
+Натиснете <em>Изчистване</em>
 
 
 ;How do I turn off Location-Aware Browsing permanently?
@@ -176,7 +176,7 @@ Google Политика на Личните данни
 
 
 ;In the URL bar, type <code>about:config</code>
-Във URL лентата, въведете <code>about:config</code>
+В адресната лента въведете <code>about:config</code>
 
 
 ;Type <code>geo.enabled</code>
@@ -184,7 +184,7 @@ Google Политика на Личните данни
 
 
 ;Double click on the <em>geo.enabled</em> preference
-Натиснете два пъти вурху опцията <em>geo.enabled</em>
+Натиснете два пъти върху настройката <em>geo.enabled</em>
 
 
 ;Location-Aware Browsing is now disabled

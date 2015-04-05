@@ -21,12 +21,12 @@
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+За компютри и лаптопи
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+За телефони и таблети
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -66,28 +66,29 @@ For phones &amp; tablets
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+Без проследяване
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+Витрини
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+Табло на интересите
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+Развойна версия
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
 Private Browsing
+Поверително сърфиране
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -97,17 +98,17 @@ Private Browsing
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+Новини
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+За разработчиците
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Намери устройството ми
+Изгубено устройство
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -117,12 +118,12 @@ For developers
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Изберете независимият браузър
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox остана не-комерсиален, не-корпоративен, не-компрометиран. Избирайки Firefox не избирате само браузър. Това е Вашият глас за лична свобода.
 
 
 ;Donate
@@ -254,11 +255,11 @@ Firefox Съдружници
 
 # MegaBytes abbreviation
 ;MB
-MБ {ok}
+MБ
 
 
 ;MegaBytes
-Мегабайти
+Мегабайта
 
 
 ;FAQ
@@ -270,15 +271,15 @@ MБ {ok}
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-Освен ако не е <a href="%s">отбелязано друго</a>, съдържанието на този сайт е лицензирано според <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> или по-нова версия.
+Освен ако не е <a href="%s">изрично упоменато</a>, съдържанието на този сайт е лицензирано според<br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> или по-нова версия.
 
 
 ;Report Trademark Abuse
-Съобщаване за нарушение на търговска марка
+Доклад за злоупотреба с търговска марка
 
 
 ;Free Upgrade
-Безплатно актуализиране
+Безплатно обновяване
 
 
 # social networks such as Facebook and Twitter
@@ -377,7 +378,7 @@ Firefox за мобилни телефони
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Имате нужда от обновяване на версията! Погрижете се за своята сигурност за по-малко от минута. <br/> Започнете да използвате новия Firefox за най-доброто решение за сърфиране и персонализация в Интернет пространството. <br/> Той е бърз и свободен!
+Имате нужда от обновяване на версията! Погрижете се за своята сигурност за по-малко от минута.<br/>Започнете да използвате новия Firefox за най-доброто решение за сърфиране и персонализация в Интернет пространството.<br/>Той е бърз и свободен!
 
 
 ;Upgrade now
@@ -409,7 +410,7 @@ Firefox за мобилни телефони
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+Принос към тази страница
 
 
 # Footer string
@@ -484,7 +485,7 @@ Android поддръжка
 
 # Top menu item on firefox/update page
 ;Firefox
-Firefox {OK}
+Firefox {ok}
 
 
 # Top menu item on firefox/update page
@@ -534,7 +535,7 @@ Firefox за организации
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-Получаване на нови версии от Mozilla
+Получаване на новини от Mozilla
 
 
 # share button for social networks
@@ -620,7 +621,7 @@ Leadership
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Моля активирайте JavaScript във Вашия браузър за да ползвате пълните възможности на тази страница.
+Моля включете JavaScript във Вашия браузър, за да ползвате пълните възможности на страницата.
 
 
 # Used as link to /firefox/desktop in footers on some pages

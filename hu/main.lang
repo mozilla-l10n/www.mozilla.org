@@ -5,12 +5,12 @@ Navigáció
 # Firefox family navigation menu. Main level item.
 # Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>asztali számítógépre</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>Androidra</span>
 
 
 # Firefox family navigation menu. Main level item.
@@ -21,12 +21,12 @@ OS {ok}
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+Asztali gépekre és laptopokra
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+Telefonokra és tabletekre
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -56,28 +56,28 @@ Bemutatkozás
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+Készülékek
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+Partnereknek
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+Ne kövessenek
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+Csempék
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+Érdeklődés vezérlőpult
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -87,7 +87,7 @@ Developer Edition
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+Privát böngészés
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -97,17 +97,17 @@ Segítségre van szüksége?
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+Hírek
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+Fejlesztőknek
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Keresem a telefonom
+Eszközkereső
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -117,12 +117,12 @@ Fejlesztők
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Válassza a független böngészőt
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+A Firefox non-profit, nem vállalati, nem kompromittálódott. A Firefox választása nem csupán egy böngésző választása: Szavazat a személyes szabadság mellett.
 
 
 ;Donate
@@ -187,7 +187,7 @@ Más nyelvek:
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%Y.%m.%d.
+%Y. %m. %d.
 
 
 ;Legal
@@ -409,7 +409,7 @@ A tartalom egy részét ©1998–%(current_year)s mozilla.org közreműködők k
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+Legyen közreműködő
 
 
 # Footer string
@@ -569,7 +569,7 @@ Fórumok
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+Vezetés
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -731,6 +731,6 @@ December {ok}
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+A Firefox hamarosan megérkezik iOS-re! <a href="{url}">Iratkozzon fel további hírekért</a>.
 
 

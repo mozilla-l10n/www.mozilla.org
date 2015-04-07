@@ -23,7 +23,7 @@
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Синхронизирайте Firefox без значение къде го използвате, за да имате достъп до Вашите отметки, пароли, табове и още много от всеки смартфон, таблет или компютър.
+Синхронизирайте Firefox без значение къде го използвате, за да имате достъп до Вашите отметки, пароли, подпрозорци и още много от всеки смартфон, таблет или компютър.
 
 
 ;It looks like you’re running an older version of Firefox.
@@ -70,7 +70,7 @@ Sync е само едно от чудесните нововъведения, к
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Отворете <a class="menurev ga-link" href="%(url)s#w_a-handy-new-menu">меню</a> на Firefox в горната дясна част на Вашия екран и изберете “<strong>Регистрирайте се в Sync.</strong>”
+Отворете <a class="menurev ga-link" href="%(url)s#w_a-handy-new-menu">менюто</a> в горната дясна част на Firefox и изберете “<strong>Вписване в Sync.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -80,16 +80,16 @@ Sync е само едно от чудесните нововъведения, к
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Въведете имейл адрес и парола за да “<strong>създадете Firefox профил.</strong>”
+Въведете адрес на ел. поща и парола, за да “<strong>създадете Firefox Account.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Изберете “<strong>Продължи</strong>” за да получите информация за потвърждение на Вашия имейл.
+Изберете “<strong>Регистриране</strong>”, за да получите информация за потвърждение на Вашия имейл.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-След като прегледате и използвате връзката за потвърждение през Вашия имейл, Вашите настройки са готови! Firefox ще синхронизира автоматично от този момент нататък.
+След като прегледате и посетите препратката за потвърждение през Вашия имейл, настройки са готови! Firefox ще синхронизира автоматично от този момент нататък.
 
 
 ;Get more detailed instructions.
@@ -141,7 +141,7 @@ Sync е само едно от чудесните нововъведения, к
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-Вие преценяте къде и какво точно да синхронизирате от Вашия Firefox. Получете отворените табове по време на дневните ви пътувания. Получете достъп до Вашите отметки на работното си място. Каквото и да е, когато и да е, навсякъде.
+Вие преценявате къде и какво да синхронизирате от Вашия Firefox. Получете отворените подпрозорци по време на дневните си пътувания. Получете достъп до Вашите отметки на работното си място. Каквото и да е, когато и да е, навсякъде.
 
 
 ;At home
@@ -149,7 +149,7 @@ Sync е само едно от чудесните нововъведения, к
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Преместете се от бюрото си на дивана в пълен комфорт. Достигнете отворените табове на любимия си браъзър от Вашия смартфон или разгледайте отметките си през Вашия таблет.
+Преместете се от бюрото си на дивана в пълен комфорт. Достигнете отворените подпрозорци на любимия си браъзър от Вашия смартфон или разгледайте отметките си през Вашия таблет.
 
 
 ;At work
@@ -157,7 +157,7 @@ Sync е само едно от чудесните нововъведения, к
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Получете достъп до цялата важна за Вас инфромация. Синхронизирайте паролите и отметките, до които бихте искали да имате достъп по всяко време. Това е сигурно и безопасно, тоно какъвто е Firefox.
+Получете достъп до цялата важна за Вас инфромация. Синхронизирайте паролите и отметките, до които бихте искали да имате достъп по всяко време. Това е сигурно и безопасно, точно какъвто е и Firefox.
 
 
 ;On the go
@@ -165,11 +165,11 @@ Sync е само едно от чудесните нововъведения, к
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Останете близо до Вашите любими сайтове или довършете разказа, който започнахте в къщи - където и да сте. Със Sync, това никога не е било по-лесно.
+Останете близо до Вашите любими страници или довършете разказа, който започнахте вкъщи - където и да сте. Със Sync, това никога не е било по-лесно.
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Имате <b>Android смартфон</b> или <b>таблет</b>?
+Имате <b>смартфон</b> или <b>таблет с Android</b>?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID

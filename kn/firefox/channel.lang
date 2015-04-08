@@ -1,70 +1,72 @@
 ## active ##
+## channel_dev_edition ##
+## telemetry_notice ##
 ## NOTE: url is https://www-dev.allizom.org/firefox/channel/
 ## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 
 
 # This is the string for the <title> tag on the page.
 ;Download Firefox Developer Edition or Beta &amp; Help Determine the Next Firefox
-Download Firefox Developer Edition or Beta &amp; Help Determine the Next Firefox
+Firefox ಅರೋರ ಅಥವಾ ಬೀಟಾ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ &amp; ಮುಂದಿನ Firefox ಅನ್ನು ನಿರ್ಧರಿಸಲು ಸಹಾಯ ಮಾಡಿ
 
 
 # This is the string for the <title> tag on the page.
 ;Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox
-Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox
+ಫೈರ್‌ಫಾಕ್ಸ್ ಅರೋರ ಅಥವಾ ಬೀಟಾ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ &amp; ಮುಂದಿನ ಫೈರ್‌ಫಾಕ್ಸ್‌ಅನ್ನು ನಿರ್ಧರಿಸಲು ಸಹಾಯ ಮಾಡಿ
 
 
 ;Download and test Firefox future releases. Experience the newest innovations with the Developer Edition or Beta builds.
-Download and test Firefox future releases. Experience the newest innovations with the Developer Edition or Beta builds.
+Firefoxನ ಭವಿಷ್ಯದ ಬಿಡುಗಡೆಗಳನ್ನು ಇಳಿಸಿಕೊಳ್ಳಿ ಮತ್ತು ಪರೀಕ್ಷಿಸಿ. ಅರೋರಾ ಮತ್ತು ಬೀಟಾ ನಿರ್ಮಾಣಗಳಲ್ಲಿನ ಹೊಚ್ಚ ಹೊಸ ಆವಿಷ್ಕಾರಗಳನ್ನು ಬಳಸಿ ನೋಡಿ.
 
 
 # This description applies to Firefox Beta
 ;The latest features in a more stable environment
-The latest features in a more stable environment
+ಅತ್ಯಂತ ಹೊಸ ವೈಶಿಷ್ಟ್ಯಗಳು ಇನ್ನೂ ಸ್ಥಿರವಾದ ಪರಿಸರದಲ್ಲಿ
 
 
 ;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
-Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox ಬೀಟಾ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ತನ್ನಂತಾನೇ Mozillaಗೆ ಕಳುಹಿಸುತ್ತದೆ. <a href="%(link)s">ಹೆಚ್ಚು ತಿಳಿಯಿರಿ</a>.
 
 
 ;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
-<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a href="%(feedback)s">ಅನಿಸಿಕೆಯನ್ನು ನಮಗೆ ನೀಡಿ</a> ಕಾರ್ಯನಿರ್ವಹಣೆ ಮತ್ತು ಕಾರ್ಯಶೀಲತೆಯಲ್ಲಿ ಅಂತಿಮ ಸರಿಪಡಿಕೆಗಳನ್ನು ಮಾಡುವಲ್ಲಿ ನೆರವಾಗಿ.
 
 
 ;Firefox Aurora and Firefox Developer Edition automatically send feedback to Mozilla. <a href="%(link)s">Learn more</a>.
-Firefox Aurora and Firefox Developer Edition automatically send feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox ಅರೋರ ಮತ್ತು Firefox ಡೆವೆಲಪರ್ ಆವೃತ್ತಿ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು Mozilla ಗೆ ಕಳಿಸುತ್ತವೆ. <a href="%(link)s">ಹೆಚ್ಚು ತಿಳಿಯಿರಿ</a>.
 
 
 ;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
-Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+ಫೈರ್‌ಫಾಕ್ಸ್ ಅರೋರ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ತನ್ನಂತಾನೇ ಮೋಜಿಲಾ‌ಗೆ ಕಳುಹಿಸುತ್ತದೆ. <a href="%(link)s">ಹೆಚ್ಚು ತಿಳಿಯಿರಿ</a>.
 
 
 ;Built for those who build the Web
-Built for those who build the Web
+ಜಾಲವನ್ನು ಕಟ್ಟುತ್ತಿರುವವರಿಗಾಗಿ ರಚಿಸಿದ್ದು
 
 
 # This description applies to Firefox Aurora
 ;The newest innovations in an experimental environment
-The newest innovations in an experimental environment
+ಎಲ್ಲ ಹೊಸ ಆವಿಷ್ಕಾರಗಳು ಪರೀಕ್ಷಾರ್ಥ ಪರಿಸರದಲ್ಲಿ
 
 
 ;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
-Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+ಪ್ರಾಯೋಗಿಕ ಪರಿಸರದಲ್ಲಿ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಪರೀಕ್ಷಿಸಿ, ದೋಷಗಳನ್ನು ಸಲ್ಲಿಸಿ ಮತ್ತು <a href="%(feedback)s">ಬೀಟಾ ಆವೃತ್ತಿಗೆ ಬೇಕಾಗಿರುವುದನ್ನು ನಾವರಿಯಲು ಸಹಕರಿಸಿ</a>.
 
 
 # This description applies to Firefox on the Release channel
 ;Tried, tested and used by millions around the world
-Tried, tested and used by millions around the world
+ವಿಶ್ವದ ಲಕ್ಷಾಂತರ ಜನರಿಂದ ಉಪಯೋಗಿಸಲ್ಪಟ್ಟಿದೆ, ಪರೀಕ್ಷಿಸಲ್ಪಟ್ಟಿದೆ ಮತ್ತು ಬಳಸಲಾಗುತ್ತಿದೆ
 
 
 ;Learn more about Firefox Beta
-Learn more about Firefox Beta
+ಫೈರ್‌ಫಾಕ್ಸ್ ಬೀಟಾದ ಬಗ್ಗೆ ಹೆಚ್ಚು ತಿಳಿಯಿರಿ
 
 
 ;Learn more about Firefox Aurora
-Learn more about Firefox Aurora
+ಫೈರ್‌ಫಾಕ್ಸ್ ಅರೋರದ ಬಗ್ಗೆ ಹೆಚ್ಚು ತಿಳಿಯಿರಿ
 
 
 ;Learn more about Firefox
-Learn more about Firefox
+ಫೈರ್‌ಫಾಕ್ಸ್ ಬಗ್ಗೆ ಹೆಚ್ಚು ತಿಳಿಯಿರಿ
 
 

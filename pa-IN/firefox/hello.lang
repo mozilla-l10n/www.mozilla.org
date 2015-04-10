@@ -3,7 +3,7 @@
 ## NOTE: this file covers both the product page and the first time experience (interactive UI Tour)
 ## NOTE: check https://groups.google.com/forum/#!topic/mozilla.dev.l10n.web/4uNJ7sz9xmw for instructions on how to test the tour page
 ## NOTE: product page demo URL (work in progress) https://www-dev.allizom.org/firefox/hello/
-## NOTE: firts time experience demo URL https://www-dev.allizom.org/firefox/37.0a1/hello/start/
+## NOTE: firts time experience demo URL https://www-dev.allizom.org/firefox/38.0a1/hello/start/
 
 
 # “Firefox Hello” is the product name and should not be localized
@@ -45,12 +45,47 @@ Firefox Hello ਵਰਤ ਕੇ ਦੇਖੋ
 ਕਿਸੇ ਵੀ ਖਾਤੇ ਜਾਂ ਸਾਇਨ ਦੀ ਲੋੜ ਨਹੀਂ ਅਤੇ ਕੁਝ ਵੀ ਵਾਧੂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕਰਨਾ ਹੈ।
 
 
+;Just send a conversation link to a friend and ask them to click it.
+Just send a conversation link to a friend and ask them to click it.
+
+
+# This string will be an active link to SUMO: https://support.mozilla.org/kb/which-browsers-will-work-firefox-hello-video-chat
+;See which browsers are compatible with Firefox Hello
+See which browsers are compatible with Firefox Hello
+
+
 ;Just start a conversation, send your friend a link and ask them to click it.
 ਗੱਲਬਾਤ ਸ਼ੁਰੂ ਕਰੋ, ਆਪਣੇ ਦੋਸਤ ਨੂੰ ਲਿੰਕ ਭੇਜੋ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਬੱਸ ਉਸ ਉੱਤੇ ਕਲਿੱਕ ਕਰਨ ਲਈ ਕਹੋ।
 
 
 ;Simple.
 ਨਮੂਨਾ।
+
+
+# This is an English idiomatic expression: http://www.phrases.org.uk/meanings/316750.html
+# Feel free to adapt it to your locale.
+;Share and share alike
+Share and share alike
+
+
+;Want to show off some new baby pictures?
+Want to show off some new baby pictures?
+
+
+;Share travel options over the Web?
+Share travel options over the Web?
+
+
+;Check in on a project from half a world away?
+Check in on a project from half a world away?
+
+
+;Screen sharing on Firefox Hello makes it all possible.
+Screen sharing on Firefox Hello makes it all possible.
+
+
+;Try it out in your next conversation and share the things that matter most.
+Try it out in your next conversation and share the things that matter most.
 
 
 ;Invite anyone, anywhere
@@ -77,6 +112,15 @@ Hello ਵਰਤਣ ਲਈ ਬਹੁਤ ਸੌਖਾ ਹੈ ਅਤੇ ਤੁਹ�
 # “Hello” is the product name and should not be localized
 ;Because Hello is built right into Firefox, you can rest easy knowing that your conversations and information will remain private and secure.
 ਕਿਉਂਕਿ Hello ਨੂੰ ਫਾਇਰਫਾਕਸ ਵਿੱਚ ਬਣਾਇਆ ਗਿਆ ਹੈ, ਇਸਕਰਕੇ ਤੁਸੀਂ ਬੇਫ਼ਿਕਰ ਹੋ ਸਕਦੇ ਹੋ ਕਿ ਤੁਹਾਡੀਆਂ ਗੱਲਾਂ ਤੇ ਜਾਣਕਾਰੀ ਨਿੱਜੀ ਅਤੇ ਸੁਰੱਖਿਅਤ ਰਹੇਗੀ।
+
+
+;And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
+And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
+
+
+# This will be an active link. Destination URL currently not available
+;Learn more about WebRTC encryption
+Learn more about WebRTC encryption
 
 
 ;That’s part of our mission, and it’s behind everything we do around here.
@@ -166,6 +210,11 @@ Firefox Hello ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ ਅਤੇ ਖੁਦ ਦੇ�
 
 
 # The following strings are used for the First Time interactive experience, don't add HTML tags.
+# The %s placeholder is an image of the Hello screen sharing icon, and can be moved around to fit the translation appropriately.
+;Now see how easy it is to share your screen. Click %s in your conversation window to try it.
+Now see how easy it is to share your screen. Click %s in your conversation window to try it.
+
+
 # “Hello” is the product name and should not be localized
 ;Welcome to Hello
 ਹੈਲੋ ਲਈ ਜੀ ਆਇਆਂ ਨੂੰ

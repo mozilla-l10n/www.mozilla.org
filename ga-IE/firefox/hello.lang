@@ -1,4 +1,5 @@
 ## active ##
+## hello_screen_sharing ##
 ## ios_announce ##
 ## NOTE: this file covers both the product page and the first time experience (interactive UI Tour)
 ## NOTE: check https://groups.google.com/forum/#!topic/mozilla.dev.l10n.web/4uNJ7sz9xmw for instructions on how to test the tour page
@@ -46,12 +47,12 @@ Níl cuntas nó logáil isteach ag teastáil, agus níl íosluchtú breise le d�
 
 
 ;Just send a conversation link to a friend and ask them to click it.
-Just send a conversation link to a friend and ask them to click it.
+Seol nasc le comhrá chuig duine de do chairde, agus iarr air/uirthi é a chliceáil.
 
 
 # This string will be an active link to SUMO: https://support.mozilla.org/kb/which-browsers-will-work-firefox-hello-video-chat
 ;See which browsers are compatible with Firefox Hello
-See which browsers are compatible with Firefox Hello
+Brabhsálaithe atá comhoiriúnach le Firefox Hello
 
 
 ;Just start a conversation, send your friend a link and ask them to click it.
@@ -65,27 +66,27 @@ Furasta.
 # This is an English idiomatic expression: http://www.phrases.org.uk/meanings/316750.html
 # Feel free to adapt it to your locale.
 ;Share and share alike
-Share and share alike
+Do chuid agus do chomhroinn
 
 
 ;Want to show off some new baby pictures?
-Want to show off some new baby pictures?
+Ar mhaith leat grianghrafanna de do chlann a chomhroinnt?
 
 
 ;Share travel options over the Web?
-Share travel options over the Web?
+Roghanna taistil a chomhroinnt ar an nGréasán?
 
 
 ;Check in on a project from half a world away?
-Check in on a project from half a world away?
+Páirt a ghlacadh i dtionscadal in imigéin?
 
 
 ;Screen sharing on Firefox Hello makes it all possible.
-Screen sharing on Firefox Hello makes it all possible.
+Tá chuile rud indéanta trí scáileán a chomhroinnt le Firefox Hello.
 
 
 ;Try it out in your next conversation and share the things that matter most.
-Try it out in your next conversation and share the things that matter most.
+Bain triail as sa chéad chomhrá eile s'agat agus comhroinn na rudaí is tábhachtaí.
 
 
 ;Invite anyone, anywhere
@@ -115,12 +116,12 @@ Dá bharr go bhfuil Hello ionsuite go díreach laistigh de Firefox, is féidir l
 
 
 ;And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
-And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
+Agus slándáil níos fearr, a bhuíochas ar chriptiú de ghrád WebRTC.
 
 
 # This will be an active link. Destination URL currently not available
 ;Learn more about WebRTC encryption
-Learn more about WebRTC encryption
+Tuilleadh eolais faoi chriptiú WebRTC
 
 
 ;That’s part of our mission, and it’s behind everything we do around here.
@@ -212,7 +213,7 @@ Tabhair cuairt ar Tacaíocht Mozilla
 # The following strings are used for the First Time interactive experience, don't add HTML tags.
 # The %s placeholder is an image of the Hello screen sharing icon, and can be moved around to fit the translation appropriately.
 ;Now see how easy it is to share your screen. Click %s in your conversation window to try it.
-Now see how easy it is to share your screen. Click %s in your conversation window to try it.
+Tá sé fíoréasca do scáileán a chomhroinnt. Cliceáil %s i bhfuinneog do chomhrá le triail a bhaint as.
 
 
 # “Hello” is the product name and should not be localized

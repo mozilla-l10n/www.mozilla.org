@@ -1,4 +1,5 @@
 ## active ##
+## hello_screen_sharing ##
 ## ios_announce ##
 ## NOTE: this file covers both the product page and the first time experience (interactive UI Tour)
 ## NOTE: check https://groups.google.com/forum/#!topic/mozilla.dev.l10n.web/4uNJ7sz9xmw for instructions on how to test the tour page
@@ -46,12 +47,12 @@ No us cal registrar-vos ni baixar res.
 
 
 ;Just send a conversation link to a friend and ask them to click it.
-Just send a conversation link to a friend and ask them to click it.
+Inicieu una conversa, envieu l'enllaç al vostre amic i digueu-li que hi faci clic.
 
 
 # This string will be an active link to SUMO: https://support.mozilla.org/kb/which-browsers-will-work-firefox-hello-video-chat
 ;See which browsers are compatible with Firefox Hello
-See which browsers are compatible with Firefox Hello
+Els navegadors que són compatibles amb el Firefox Hello
 
 
 ;Just start a conversation, send your friend a link and ask them to click it.
@@ -65,27 +66,27 @@ Simple. {ok}
 # This is an English idiomatic expression: http://www.phrases.org.uk/meanings/316750.html
 # Feel free to adapt it to your locale.
 ;Share and share alike
-Share and share alike
+A parts iguals
 
 
 ;Want to show off some new baby pictures?
-Want to show off some new baby pictures?
+Voleu mostrar fotografies noves de la vostra criatura?
 
 
 ;Share travel options over the Web?
-Share travel options over the Web?
+Compartir opcions per un viatge pel web?
 
 
 ;Check in on a project from half a world away?
-Check in on a project from half a world away?
+Apuntar-vos a un projecte a l'altra punta del món?
 
 
 ;Screen sharing on Firefox Hello makes it all possible.
-Screen sharing on Firefox Hello makes it all possible.
+La compartició de pantalla del Firefox Hello ho fa tot possible.
 
 
 ;Try it out in your next conversation and share the things that matter most.
-Try it out in your next conversation and share the things that matter most.
+Proveu-ho a la vostra propera conversa i compartiu les coses que us importen.
 
 
 ;Invite anyone, anywhere
@@ -115,12 +116,12 @@ Com que el Hello és dins el Firefox mateix, podeu relaxar-vos sabent que les vo
 
 
 ;And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
-And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
+I gràcies al xifrat de nivell alt de WebRTC, gaudireu d'un nivell afegit de seguretat.
 
 
 # This will be an active link. Destination URL currently not available
 ;Learn more about WebRTC encryption
-Learn more about WebRTC encryption
+Més informació sobre el xifrat de WebRTC
 
 
 ;That’s part of our mission, and it’s behind everything we do around here.
@@ -212,7 +213,7 @@ Funciona amb %s
 # The following strings are used for the First Time interactive experience, don't add HTML tags.
 # The %s placeholder is an image of the Hello screen sharing icon, and can be moved around to fit the translation appropriately.
 ;Now see how easy it is to share your screen. Click %s in your conversation window to try it.
-Now see how easy it is to share your screen. Click %s in your conversation window to try it.
+Compartir la vostra pantalla és d'alló més simple. Feu clic a %s a la vostra conversa per provar-ho.
 
 
 # “Hello” is the product name and should not be localized

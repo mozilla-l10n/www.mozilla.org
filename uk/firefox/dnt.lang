@@ -66,19 +66,19 @@ Mozilla Firefox пропонує функцію захисту від стеже
 
 
 ;Will Do Not Track affect the rest of my Web experience?
-Will Do Not Track affect the rest of my Web experience?
+Чи впливає захист від стеження на мою іншу роботу в Інтернеті?
 
 
 ;Do Not Track may interfere with some personalized services you enjoy. For example, a Do Not Track request might mean you would have to type in your zip code each time you want to view a weather report, rather than seeing the weather automatically displayed. Personalization on websites can save you time and repetitive typing, but it requires data.
-Do Not Track may interfere with some personalized services you enjoy. For example, a Do Not Track request might mean you would have to type in your zip code each time you want to view a weather report, rather than seeing the weather automatically displayed. Personalization on websites can save you time and repetitive typing, but it requires data.
+Захист від стеження може перешкоджати роботі деяких служб, які базуються на персоналізації. Наприклад, запит про захист від стеження може означати, що вам доведеться щоразу для перегляду прогнозу погоди вводити свій поштовий індекс, аніж дивитися погоду, надану автоматично. Персоналізація на веб-сайтах може заощадити ваш час та повторювані введення, але для цього потрібні ваші дані.
 
 
 ;How do I enable Do Not Track in Firefox?
-How do I enable Do Not Track in Firefox?
+Як я можу увімкнути захист від стеження в Firefox?
 
 
 ;This feature is not enabled by default. You can find the Do Not Track request on the Privacy pane. <span id="%(id)s">On Windows, go to Tools &gt; Options&hellip; &gt; Privacy.</span>
-This feature is not enabled by default. You can find the Do Not Track request on the Privacy pane. <span id="%(id)s">On Windows, go to Tools &gt; Options&hellip; &gt; Privacy.</span>
+Типово, ця функція не увімкнена. Ви можете знайти її на вкладці Приватність. <span id="%(id)s">У Windows перейдіть до Меню &gt; Налаштування&hellip; &gt; Приватність.</span>
 
 
 ;On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
@@ -90,11 +90,11 @@ Click to check the box next to &quot;Tell websites I do not want to be tracked&q
 
 
 ;Will companies honor my Do Not Track preference?
-Will companies honor my Do Not Track preference?
+Чи будуть компанії поважати моє побажання про захист від стеження?
 
 
 ;Companies are starting to support Do Not Track, but you may not notice any changes initially. We are actively working with companies that have started to implement Do Not Track, with others who have committed to doing so soon.
-Companies are starting to support Do Not Track, but you may not notice any changes initially. We are actively working with companies that have started to implement Do Not Track, with others who have committed to doing so soon.
+Компанії починають підтримувати захист від стеження, але ви можете не помітити жодних змін одразу. Ми активно співпрацюємо з компаніями, які почали впроваджувати захист від стеження, а також з іншими, хто збирається зробити це найближчим часом.
 
 
 ;Where can I learn more?
@@ -102,23 +102,23 @@ Companies are starting to support Do Not Track, but you may not notice any chang
 
 
 ;Other interesting work about Do Not Track and online privacy:
-Other interesting work about Do Not Track and online privacy:
+Інша цікава робота щодо захисту від стеження та онлайн-приватності:
 
 
 ;<a href="%s">Private browsing</a> in Firefox &#8212; limits saving data about which sites and pages you have visited online
-<a href="%s">Private browsing</a> in Firefox &#8212; limits saving data about which sites and pages you have visited online
+<a href="%s">Приватний перегляд</a> у Firefox &#8212; обмежує збереження даних про відвідані вами в інтернеті сайти та сторінки
 
 
 ;<a href="%(url1)s">Managing cookies</a> in Firefox &#8212; lets you control how <a href="%(url2)s">cookies</a> are saved on your computer
-<a href="%(url1)s">Managing cookies</a> in Firefox &#8212; lets you control how <a href="%(url2)s">cookies</a> are saved on your computer
+<a href="%(url1)s">Керування куками</a> у Firefox &#8212; дозволяє вам контролювати збереження <a href="%(url2)s">куків</a> на комп'ютері
 
 
 ;<a href="%s">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from Mozilla’s Technology and Privacy Officer
-<a href="%s">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from Mozilla’s Technology and Privacy Officer
+<a href="%s">Блог Mozilla Алекса Фоулера</a> &#8212; останні новини від уповноваженого щодо приватності та про технології Mozilla
 
 
 ;<a href="%s">donottrack.us</a> project &#8212; Stanford researchers working on the ideas behind Do Not Track
-<a href="%s">donottrack.us</a> project &#8212; Stanford researchers working on the ideas behind Do Not Track
+Проект <a href="%s">donottrack.us</a> &#8212; Дослідники Стенфорду працюють над ідеями, які стоять за захистом від стеження
 
 
 ;The Tracking Preference Expression (DNT) <a href="%s">W3C Editor’s Draft</a>
@@ -154,15 +154,15 @@ Options window - Advanced panel - Do Not Track
 
 
 ;Enabling Do Not Track
-Enabling Do Not Track
+Увімкнення захисту від стеження
 
 
 ;Click for Instructions
-Click for Instructions
+Натисніть для інструкцій
 
 
 ;Enable Do Not Track in Internet Explorer 9
-Enable Do Not Track in Internet Explorer 9
+Увімкнення захисту від стеження в Internet Explorer 9
 
 
 ;To enable Do Not Track in IE 9, you need to enable IE 9’s <a href="%(url)s">Tracking Protection</a> feature. The easiest way to do that is to install <a href="%(tpl)s">Mozilla’s Simple Tracking Protection List</a>. If you view this page in IE 9, there will be instructions right here.

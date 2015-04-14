@@ -5,12 +5,12 @@
 # Firefox family navigation menu. Main level item.
 # Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+ಡೆಸ್ಕಟಾಪ್ <span>ಗಾಗಿ</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+ಆಂಡ್ರಾಯ್ಡ್ <span>ಗಾಗಿ</span>
 
 
 # Firefox family navigation menu. Main level item.
@@ -21,12 +21,12 @@ OS {ok}
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+ಡೆಸ್ಕಟಾಪ್‌ಗಳು &amp; ಲ್ಯಾಪ್‌ಟಾಪ್‌ಗಳಿಗಾಗಿ
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+ಫೋನ್‌ಗಳು &amp; ಟ್ಯಾಬ್‌ಲೆಟ್‌ಗಳಿಗಾಗಿ
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -56,12 +56,12 @@ For phones &amp; tablets
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+ಸಾಧನಗಳು
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+ಪಾಲುದಾರರುಗಳಿಗೆ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -71,18 +71,18 @@ For partners
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+ಹೆಂಚುಗಳು
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+ಆಸಕ್ತಿಯ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+ಡೆವಲಪರ್ ಎಡಿಶನ್
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -92,22 +92,22 @@ Developer Edition
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 ;Need help?
-ನೆರವು ಬೇಕೆ?
+ಸಹಾಯ ಬೇಕಿದೆಯೆ?
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+ಸುದ್ದಿ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+ಡೆವೆಲಪರ್‌ಗಳಿಗಾಗಿ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+ನನ್ನ ಸಾಧನವನ್ನು ಹುಡುಕು
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -117,7 +117,7 @@ Find My Device
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+ಸ್ವತಂತ್ರವಾದ ಬ್ರೌಸರ್‌ ಅನ್ನು ಆಯ್ದುಕೊಳ್ಳಿ
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -201,7 +201,7 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 
 # Used as link in the footer
 ;Firefox Affiliates
-Firefox Affiliates
+Firefox ಭಾಗೀದಾರರು
 
 
 ;Legal Notices
@@ -309,7 +309,7 @@ FAQ {ok}
 
 
 ;Replay the video
-Replay the video
+ವೀಡಿಯೊ ರೀಪ್ಲೇ ಮಾಡಿ
 
 
 ;Share the video
@@ -409,7 +409,7 @@ MPEG-4 ವಿನ್ಯಾಸ
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+ಈ ತಾಣಕ್ಕೆ ಕೊಡುಗೆ ನೀಡಿ
 
 
 # Footer string
@@ -444,7 +444,7 @@ Contribute to this site
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+ಆಂಡ್ರಾಯ್ಡ್ ಆಡ್-ಆನ್‌ಗಳು
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -459,7 +459,7 @@ Android Add-ons
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+ಆಂಡ್ರಾಯ್ಡ್ ಬೆಂಬಲ
 
 
 # Top menu item on firefox/update page
@@ -569,7 +569,7 @@ Android Support
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+ನಾಯಕತ್ವ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -609,7 +609,7 @@ Leadership
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Choose Independent
+ಸ್ವತಂತ್ರವಾದದ್ದನ್ನು ಆಯ್ಕೆಮಾಡು
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
@@ -731,6 +731,6 @@ Firefox ಸಹಾಯ
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox ಶೀಘ್ರದಲ್ಲಿ iOS ಗೂ ಬರಲಿದೆ! <a href="{url}">ಇನ್ನಷ್ಟು ಕಲಿಯಲು ಸೈನ್‌ ಅಪ್ ಮಾಡಿ</a>.
 
 

@@ -9,7 +9,7 @@
 
 # Used for HTML title attribute
 ;Get Involved: Volunteer Opportunities at Mozilla
-Pomóż nam: Oferty wolontariatu w Mozilli
+Pomóż nam: wolontariat w Mozilli
 
 
 ;The success of our mission depends on participation from people like you.
@@ -44,7 +44,7 @@ Chcesz pomóc?
 
 
 ;Area of interest?
-Co Cię interesuje?
+Co Ciebie interesuje?
 
 
 ;Helping Users
@@ -68,7 +68,7 @@ Lokalizacja i tłumaczenie
 
 
 ;Web Development
-Programiści internetowi
+Tworzenie stron
 
 
 ;Firefox Marketplace
@@ -100,7 +100,7 @@ Mam sugestię dotyczącą Firefoksa
 
 
 ;I need help with a Firefox issue
-Mam problem z Firefoksem i potrzebna mi pomoc
+Mam problem z Firefoksem i potrzebuję pomocy
 
 
 ;YOUR EMAIL HERE
@@ -108,7 +108,7 @@ Twój adres e–mail
 
 
 ;Send us a note and we can get you started right away.
-Napisz do nas, znajdziemy Ci zajęcie.
+Napisz do nas, znajdziemy Tobie zajęcie.
 
 
 ;Hi, I’m interested in…
@@ -140,7 +140,7 @@ Powiedz nam więcej o swoich zainteresowaniach.
 
 
 ;Your CAPTCHA response did not match. Please try again.
-Wpisany kod CAPTCHA nie był poprawny. Spróbuj ponownie.
+Wpisano nieprawidłowy kod CAPTCHA. Proszę spróbować ponownie.
 
 
 ;Thank you for getting in touch.
@@ -148,11 +148,11 @@ Dziękujemy za kontakt.
 
 
 ;We are sorry, but there was a problem with our system. Please try again later!
-Przepraszamy, wystąpił problem z naszym systemem. Spróbuj ponownie później!
+Przepraszamy, wystąpił problem z naszym systemem. Proszę spróbować ponownie później!
 
 
 ;Someone from Mozilla will get back to you soon with information about how to get involved. While you’re waiting, browse through some of the volunteer opportunities available below.
-Niedługo napisze do Ciebie ktoś związany z Mozillą i powie Ci, jak możesz się zaangażować. W międzyczasie możesz przejrzeć oferty wolontariatu wymienione poniżej.
+Niedługo napisze do Ciebie ktoś związany z Mozillą i opisze, jak możesz się zaangażować. W międzyczasie możesz przejrzeć propozycje wolontariatu wymienione poniżej.
 
 
 ;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
@@ -160,7 +160,7 @@ Niedługo napisze do Ciebie ktoś związany z Mozillą i powie Ci, jak możesz
 
 
 ;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
-Zgłoś się po cotygodniowy biuletyn pełen informacji o społeczności i możliwościach współpracy.
+Subskrybuj cotygodniowy biuletyn pełen informacji o społeczności i możliwościach współpracy.
 
 
 # Subject of email sent to end-users
@@ -169,12 +169,12 @@ Witaj w Mozilli!
 
 
 ;Find an opportunity
-Znajdź ofertę
+Propozycje wolontariatu
 
 
 # Helping users
 ;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
-Nasz proces udzielania pomocy opiera się o takich entuzjastów jak Ty, którzy pomagają innym użytkownikom w pełni wykorzystać możliwości produktów Mozilli. Sprawdź jak pomóc użytkownikom <a href="%(fx_support_url)s">Firefoksa</a> i <a href="%(tb_support_url)s">Thunderbirda</a>.
+Nasz proces udzielania pomocy opiera się na entuzjastach, którzy pomagają innym użytkownikom w pełni wykorzystać możliwości produktów Mozilli. Sprawdź jak pomóc użytkownikom <a href="%(fx_support_url)s">Firefoksa</a> i <a href="%(tb_support_url)s">Thunderbirda</a>.
 
 
 ;Quality Assurance
@@ -186,20 +186,20 @@ Kontrola jakości i testowanie to jeden z najłatwiejszych sposóbów na doł�
 
 
 ;<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
-<a href="%(oneanddone_url)s">Wybierz zadanie z witryny One and Done (j. angielski)</a> i zacznij pracować przy <a href="%(desktopfx_url)s">Firefoksie</a>, <a href="%(websites_url)s">testuj witryny Mozilli</a>, <a href="%(testday_url)s">dołącz do nas w dniu testowym</a> i <a href="%(qateams_url)s">dowiedz się więcej o innych metodach testowania naszych produktów</a>.
+<a href="%(oneanddone_url)s">Wybierz zadanie z witryny „One and Done” (po angielsku)</a> i zacznij pracować przy <a href="%(desktopfx_url)s">Firefoksie</a>, <a href="%(websites_url)s">testuj witryny Mozilli</a>, <a href="%(testday_url)s">dołącz do nas w dniu testowym</a> i <a href="%(qateams_url)s">dowiedz się więcej o innych metodach testowania naszych produktów</a>.
 
 
 # Coding
 ;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
-<a href="%(dev_intro_url)s">Programiści mogą pomóc</a> Mozilli dodając nowe opcje, zmniejszając rozmiar i zwiększając prędkość naszej technologii, a także ułatwianie innym korzystania z niej. Powiedz nam, <a href="%(what_url)s">który język programowania lubisz najbardziej</a>, a my znajdziemy Ci odpowiedni projekt.
+<a href="%(dev_intro_url)s">Programiści mogą pomóc</a> Mozilli dodając nowe opcje, zmniejszając rozmiar i zwiększając prędkość naszej technologii, a także ułatwiając innym korzystanie z niej. Wybierz, <a href="%(what_url)s">który język programowania lubisz najbardziej</a>, a my postaramy się dobrać odpowiedni projekt.
 
 
 ;Spread the Word
-Szerzenie nowiny
+Promocja
 
 
 ;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
-Pomóż nam tłumaczyć ludziom, jak Firefox i inne projekty Mozilli budują lepszy Internet. Podziel się Firefoksem ze światem, <a href="%(affiliates_url)s">zostając jego Partnerem</a>, a potem zajrzyj do naszego <a href="%(marketing_url)s">Poradnika Marketingu (po angielsku)</a> i dowiedz się, jak inaczej możesz pomóc.
+Pomóż nam tłumaczyć ludziom, jak Firefox i inne projekty Mozilli pomagają tworzyć lepszy Internet. Podziel się Firefoksem ze światem, <a href="%(affiliates_url)s">zostając Partnerem</a>, a potem zajrzyj do naszego <a href="%(marketing_url)s">Poradnika Marketingu (po angielsku)</a> i dowiedz się, jak inaczej możesz pomóc.
 
 
 ;Localization
@@ -207,7 +207,7 @@ Lokalizacja
 
 
 ;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
-Zacznij współpracę z Mozillą, lokalizując Firefoksa, Thunderbirda i inne projekty na <a href="%(l10n_url)s">swój język</a>. Pomóż nam tłumaczyć ludziom, jak Firefox i inne projekty Mozilli budują lepszy Internet poprzez <a href="%(l10n_web_url)s">tłumaczenie treści</a> naszych witryn internetowych.
+Zacznij współpracę z Mozillą, lokalizując Firefoksa, Thunderbirda i inne projekty na <a href="%(l10n_url)s">swój język</a>. Pomóż nam tłumaczyć ludziom, jak Firefox i inne projekty Mozilli pomagają tworzyć lepszy Internet poprzez <a href="%(l10n_web_url)s">tłumaczenie treści</a> naszych witryn internetowych.
 
 
 # Web development
@@ -242,21 +242,21 @@ Chcesz pomagać innym zrozumieć, jak działa Sieć? <a href="%(webmaker)s">Mozi
 
 # Fellowships
 ;Fellowships
-Staże
+OpenNews Knight-Mozilla
 
 
 ;Interested in shaping the future of the open Web? Knight-Mozilla’s <a href="%(fellowship)s">OpenNews Fellowship program</a> matches emerging digital leaders with journalism opportunities to build the open Web for everyone.
-Chcesz kształtować przyszłość otwartej Sieci? Program stażowy <a href="%(fellowship)s">OpenNews Knight-Mozilla</a> szuka możliwości rozwoju dziennikarskiego dla rozwijających się liderów branży cyfrowej, aby stworzyć otwartą Sieć dla wszystkich.
+Chcesz kształtować przyszłość otwartej Sieci? Program <a href="%(fellowship)s">OpenNews Knight-Mozilla</a> daje możliwości rozwoju dziennikarskiego rozwijającym się liderom branży cyfrowej, aby stworzyć otwartą Sieć dla wszystkich.
 
 
 # For reference see http://hivelearningnetworks.org
 ;Hive Networks
-Sieci Hive
+Hive Learning Networks
 
 
 # For reference see http://hivelearningnetworks.org
 ;<a href="%(hivenetworks)s">Hive Learning Networks</a> are a growing constellation of communities around the globe that are championing digital skills and web literacy through connected learning. <a href="%(hivenetworks)s">Learn more</a> about how to start a Hive in your community.
-<a href="%(hivenetworks)s">Sieci edukacyjne Hive</a> to rozwijające, połączone społeczności z całego świata, które promują znajomość Internetu i technologii cyfrowych poprzez wspólną naukę. <a href="%(hivenetworks)s">Dowiedz się więcej</a> o tym, jak stworzyć miejscowy Hive.
+<a href="%(hivenetworks)s">Hive Learning Networks</a> to rozwijające, połączone społeczności z całego świata, które promują znajomość Internetu i technologii cyfrowych poprzez wspólną naukę. <a href="%(hivenetworks)s">Dowiedz się więcej</a> o tym, jak stworzyć miejscowy Hive.
 
 
 # Old string, will be removed when all locales have the new text
@@ -321,7 +321,7 @@ Dziękujemy!
 
 
 ;Accessibility is about making things work for everyone. Help <a href="%(access_url)s">create tools and resources for Firefox end users with disabilities</a> and help <a href="%(access_wiki)s">make web content available to non visual agents</a> such as screen readers.
-Dostępność w Sieci oznacza takie tworzenie treści, aby każdy mógł je odczytać. Pomóż nam <a href="%(access_url)s">tworzyć narzędzia i zasoby dla niepełnosprawnych użytkowników Firefoksa</a> oraz <a href="%(access_wiki)s">dostosowywać treści z Sieci do odczytania przez niewizualnych pośredników</a>, np. czytniki ekranowe.
+Dostępność w Sieci oznacza takie tworzenie treści, aby każdy mógł z niej korzystać. Pomóż nam <a href="%(access_url)s">tworzyć narzędzia i zasoby dla niepełnosprawnych użytkowników Firefoksa</a> oraz <a href="%(access_wiki)s">dostosowywać treści z Sieci do odczytania przez niewizualnych pośredników</a>, np. czytniki ekranowe.
 
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!
@@ -337,7 +337,7 @@ Partnerzy Firefoksa
 
 
 ;Developer Documentation
-Dokumentacja programistów
+Dokumentacja dla programistów
 
 
 ;Mozilla

@@ -5,12 +5,12 @@
 # Firefox family navigation menu. Main level item.
 # Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+డెస్క్‌టాప్ <span>కొరకు</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+ఆండ్రాయిడ్ <span>కొరకు</span>
 
 
 # Firefox family navigation menu. Main level item.
@@ -21,12 +21,12 @@ OS
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+డెస్క్‌టాపులు &amp; లాప్‌టాపుల కొరకు
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+ఫోన్లు &amp; టాబ్లెట్ల కొరకు
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -56,38 +56,38 @@ For phones &amp; tablets
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+పరికరాలు
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+భాగస్వాముల కొరకు
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+ట్రాక్ చెయ్యవద్దు
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+టైల్స్
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+ఆసక్తి డాష్‌బోర్డు
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+డెవలపర్ ఎడిషన్
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+అంతరంగిక విహరణ
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -97,32 +97,32 @@ Private Browsing
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+వార్తలు
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+డెవలపర్ల కొరకు
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+నా పరికరాన్ని కనిపెట్టు
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
-Developers
+డెవలపర్లు
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+స్వతంత్ర విహారిణిని ఎంచుకోండి
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+ఫైర్‌ఫాక్స్ అనేది లాభాపేక్ష లేనిది, వ్యాపారం కానిది, రాజీ పడనిది. ఫైర్‌ఫాక్స్‌ని ఎంచుకోవడమంటే కేవలం విహారిణిని ఎంచుకోవడమే కాదు. అది వ్యక్తిగత స్వేచ్ఛకి ఎంపిక.
 
 
 ;Donate
@@ -305,15 +305,15 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 
 
 ;Watch the video
-వీడియోని చూడండి
+వీడియోను చూడండి
 
 
 ;Replay the video
-Replay the video
+వీడియోను మళ్ళీ చూడండి
 
 
 ;Share the video
-Share the video
+వీడియోను పంచుకోండి
 
 
 ;WebM format
@@ -349,7 +349,7 @@ MPEG-4 ఫార్మాటు
 
 
 ;Desktop
-రంగస్థలం
+డెస్క‌టాప్
 
 
 ;Firefox Beta for mobile
@@ -409,7 +409,7 @@ MPEG-4 ఫార్మాటు
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+ఈ సైటుకి తోడ్పడండి
 
 
 # Footer string
@@ -569,7 +569,7 @@ Contribute to this site
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+నాయకత్వం
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -609,7 +609,7 @@ Leadership
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Choose Independent
+స్వతంత్రతని ఎంచుకోండి
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
@@ -620,7 +620,7 @@ Choose Independent
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+ఈ పేజీ సరిగా కనబడటానికి జావాస్క్రిప్టుని చేతనం చేయండి.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -731,6 +731,6 @@ Please turn on JavaScript to display this page correctly.
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+ఫైర్‌ఫాక్స్ iOSకి వస్తోంది! <a href="{url}">మరింత తెలుసుకోడానికి నమోదవ్వండి</a>.
 
 

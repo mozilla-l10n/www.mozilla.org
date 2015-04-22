@@ -46,12 +46,12 @@ Hello を使うのに必要なものは、最新の Firefox だけ。
 
 
 ;Just send a conversation link to a friend and ask them to click it.
-Just send a conversation link to a friend and ask them to click it.
+通話に招待するリンクを友達にクリックしてもらうだけで OK です。
 
 
 # This string will be an active link to SUMO: https://support.mozilla.org/kb/which-browsers-will-work-firefox-hello-video-chat
 ;See which browsers are compatible with Firefox Hello
-See which browsers are compatible with Firefox Hello
+Firefox Hello を利用できるブラウザはこちら
 
 
 ;Just start a conversation, send your friend a link and ask them to click it.
@@ -65,27 +65,27 @@ See which browsers are compatible with Firefox Hello
 # This is an English idiomatic expression: http://www.phrases.org.uk/meanings/316750.html
 # Feel free to adapt it to your locale.
 ;Share and share alike
-Share and share alike
+離れた人とシェアしよう
 
 
 ;Want to show off some new baby pictures?
-Want to show off some new baby pictures?
+赤ちゃんの写真を家族へ見せたい。
 
 
 ;Share travel options over the Web?
-Share travel options over the Web?
+離れた場所にいる友達と、同じ Web ページを見ながら旅行プランを立てたい。
 
 
 ;Check in on a project from half a world away?
-Check in on a project from half a world away?
+地球の裏側でやっているプロジェクトへ参加したい。
 
 
 ;Screen sharing on Firefox Hello makes it all possible.
-Screen sharing on Firefox Hello makes it all possible.
+そういったことの全てが、Firefox Hello のスクリーンシェアリングなら全部可能になります。
 
 
 ;Try it out in your next conversation and share the things that matter most.
-Try it out in your next conversation and share the things that matter most.
+スクリーンシェアを使ってシェアをする方法はこちら
 
 
 ;Invite anyone, anywhere
@@ -115,12 +115,12 @@ Firefox はプライバシーを最優先に作られています。そんな Fi
 
 
 ;And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
-And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
+また WebRTC の暗号化機能によって、通話が盗み見られることもありません。
 
 
 # This will be an active link. Destination URL currently not available
 ;Learn more about WebRTC encryption
-Learn more about WebRTC encryption
+WebRTC の暗号化機能の詳細はこちら
 
 
 ;That’s part of our mission, and it’s behind everything we do around here.
@@ -212,7 +212,7 @@ Powered by %s {ok}
 # The following strings are used for the First Time interactive experience, don't add HTML tags.
 # The %s placeholder is an image of the Hello screen sharing icon, and can be moved around to fit the translation appropriately.
 ;Now see how easy it is to share your screen. Click %s in your conversation window to try it.
-Now see how easy it is to share your screen. Click %s in your conversation window to try it.
+かんたんにスクリーンをシェアできます。通話ウィンドウにある %s をクリックしてください。
 
 
 # “Hello” is the product name and should not be localized

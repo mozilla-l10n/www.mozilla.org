@@ -5,28 +5,28 @@ Uabiri
 # Firefox family navigation menu. Main level item.
 # Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>ya</span> Desktop
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>ya</span> Android
 
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OS
+OS {ok}
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+Ya Desktop &amp; kompyuta bebe
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+Ya simu &amp; au tabo
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -56,38 +56,38 @@ Kuhusu
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+Vifaa
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+Kwa wahisrika
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+Usinifwatilie
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+Vigao
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+Dashbodi ya Maslahi
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+Toleo la Muendelezi
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+Kuvinjari kwa Faragha
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -97,12 +97,12 @@ Je unahitaji usaidizi?
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+Habari
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+Kwa waendelezi
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -112,17 +112,17 @@ Tafuta Kifaa Changu
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
-Developers
+Waendelezaji
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Chagua kivinjari kilicho huru
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox ni isiyo-ya-faida, isiyo ya kishirika,isiyo athirika. Kuchagua Firefox si kuchagua tu kivinjari. Ni kura kwa uhuru wa mtu binafsi.
 
 
 ;Donate
@@ -409,7 +409,7 @@ Sehemu ya yaliyomo ni ©1998%(current_year)s na wachangiaji binafsi wa mozilla.o
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+Changia kwa hii tovuti
 
 
 # Footer string
@@ -569,7 +569,7 @@ Kongamano
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+Uongozi
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -731,6 +731,6 @@ Disemba
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox itakuja kwa iOS! hivi karibuni <a href="{url}">Jisajilishe ili kujua zaidi</a>.
 
 

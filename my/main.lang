@@ -5,33 +5,33 @@
 # Firefox family navigation menu. Main level item.
 # Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+ဒတ်စတောခ့် <span>အတွက်</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+Android <span>အတွက်</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+iOS <span>အတွက်</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OS
+OS {ok}
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+ဒတ်စတောခ့် &amp; လပ်တော့ပ်များအတွက်
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+ဖုန်းများ &amp; တပ်ဗလပ်များအတွက်
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -41,17 +41,17 @@ For phones &amp; tablets
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
-Trusted
+ယုံကြည်ထားသော
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Flexible
-Flexible
+ပြောင်းလွှဲနိုင်သော
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Fast
-Fast
+လျင်မြန်သော
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -61,43 +61,43 @@ Fast
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+ကိရိယာများ
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+ပါတနာများအတွက်
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+အက်ပ်များ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+နောက်ယောင်မခံပါနှင့်
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+အခင်းအကျင်းများ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+စိတ်ဝင်စားမှုပြ ဘုတ်
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+Developer သုံးဗားရှင်း
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+သီးသန့် လှော်လှန်ခြင်း
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -107,17 +107,17 @@ Private Browsing
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+သတင်း
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+Developer များအတွက်
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+ကျွနု်ပ်၏ကိရိယာအားရှာပါ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -127,12 +127,12 @@ Developers {ok}
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+တည်ခိုမှုမဲ့ဘယောက်ဆာအားရွေးပါ
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+မီးမြေခွေးသည် စီးပွားရေးဆိုင်ရာ​ အကျိုးအမြတ်ရယူခြင်းကင်းပါသည်။ မီးမြေခွေးအားရွေးချယ် ခြင်းသည်ဘယောက်ဆာ တစ်ခုအားရွေးချယ်ခြင်းသာမက တစ်ကိုယ်ရေ လွတ်လပ်မှု ကိုပါရယူခြင်းဖြစ်သည်။
 
 
 ;Donate
@@ -201,7 +201,7 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 
 
 ;Legal
-Legal
+တရားဝင်
 
 
 # Used as link in the footer
@@ -211,7 +211,7 @@ Legal
 
 # Used as link in the footer
 ;Firefox Affiliates
-Firefox Affiliates
+မီးမြေခွေး ကိုယ်စားလှယ်များ
 
 
 ;Legal Notices
@@ -255,7 +255,7 @@ Privacy Policy {ok}
 
 
 ;Previous
-Previous
+ရှေ့သို့
 
 
 ;Next
@@ -311,7 +311,7 @@ Follow us on: {ok}
 
 # Link used to play again an animation or a video
 ;Replay
-Replay
+ပြန်ပြ
 
 
 ;Watch the video
@@ -319,11 +319,11 @@ Replay
 
 
 ;Replay the video
-Replay the video
+ဗီဒီယိုအား ပြန်ပြပါ
 
 
 ;Share the video
-Share the video
+ဗီဒီယိုအားမျှဝေပါ
 
 
 ;WebM format
@@ -415,7 +415,7 @@ Portions of this content are ©1998–%(current_year)s by individual mozilla.org
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+ဤစာမျက်နှာအတွက်ကူညီမည်
 
 
 # Footer string
@@ -440,7 +440,7 @@ Contribute to this site
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync
+ထပ်တူချိတ်
 
 
 # Top menu item on pages like firefox/desktop/tips/

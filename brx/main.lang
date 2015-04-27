@@ -1,4 +1,4 @@
-;Navigation
+﻿;Navigation
 नेभिगेसन
 
 
@@ -14,11 +14,6 @@
 
 
 # Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>for</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
 ;OS
 OS {ok}
 
@@ -26,12 +21,12 @@ OS {ok}
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+डेस्कटप &amp; लेपटपनि थाखाय
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+फन &amp; टेबलेटनि थाखाय
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -69,35 +64,30 @@ For phones &amp; tablets
 बाहागोगिरिनि थाखाय
 
 
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Apps
-Apps
-
-
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+ट्रेक खालामनो नाङा
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+टाइल्स
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+मुजिहाबनाय डेसबर्ड
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+जौगाखांहोग्रा बिसान
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+प्राइभेट ब्राउजिं
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -112,12 +102,12 @@ Private Browsing
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+जौगाखांहोग्रानि थाखाय
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+आंनि डिभाइसखौ नागिरना दिहुन
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -127,13 +117,12 @@ Find My Device
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+उदां ब्राउजारखौ बासिख
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-
+फायारफक्सआ मुलाम्फा-गैयै, कर्प’रेट-नङै, गोरोबलायै। फायारफक्सखौ बासिखनाया ब्राउजारखौ बासिखनाय जाया। बेयो निजि उद्रांस्रिनि मोनसे बिबुंथिसो।
 
 ;Donate
 दान हो
@@ -180,7 +169,7 @@ Add-ons {ok}
 
 
 ;Careers
-जीउ राहा
+जीउनि हाबा 
 
 
 ;Press Center
@@ -280,7 +269,7 @@ FAQ {ok}
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-बेनि बादै, जेराव नङाब्ला <a href="%s">लिरसुंथाइ खालामबाय</a>, बे साइटनि थानाय-आयदाया <br /><a href="%s">सोरजिलु सरासनस्रा एट्‌ट्रिबिउसन शेयार-Alike लाइसेन्स v3.0</a> एबा जायखि जाया उननि बिसानआव मोननो हाथाव जायो।
+बेनि बादै, जेराव नङाब्ला <a href="%s">लिरसुंथाइ खालामबाय</a>, बे साइटनि आयदाया <br /><a href="%s">सोरजिलु सरासनस्रा एट्‌ट्रिबिउसन शेयार-बादि लाइसेन्स v3.0</a> एबा जायखि जाया उननि बिसानआव मोननो हाथाव जायो।
 
 
 ;Report Trademark Abuse
@@ -350,6 +339,10 @@ MPEG-4 फरमेट
 आबुं साइटखौ नाय
 
 
+;Get Firefox for Android
+एनड्र'इडनि थाखाय फायारफक्सखौ ला
+
+
 ;Download for <span>Android</span>
 एनड्र'इडनि थाखाय<span>डाउनल'ड खालाम</span>
 
@@ -415,7 +408,7 @@ MPEG-4 फरमेट
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+बे साइटआव बिहोमा हो
 
 
 # Footer string
@@ -575,8 +568,7 @@ Contribute to this site
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
-
+दैदेननाय
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
@@ -610,7 +602,7 @@ Leadership
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-नोंथांनो, नोंथांनि गुमुरथि आरो मोनसे अपेन वेबनों गथायना होबाय
+नोंथांनो नोंथांनि गुमुरथि आरो मोनसे अपेन वेब गथायना होबाय
 
 
 # Common title used in Fx 10 pages
@@ -688,7 +680,7 @@ Leadership
 
 
 ;<abbr>Jan</abbr>
-<abbr>दानुवारि</abbr>
+<abbr>जानुवारि</abbr>
 
 
 ;<abbr>Feb</abbr>
@@ -732,15 +724,12 @@ Leadership
 
 
 ;<abbr>Dec</abbr>
-<abbr>डिसेम्बर</abbr>
+<abbr>दिसेम्बर</abbr>
 
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
 फायारफक्सआ iOS आव फैगासिनो दं! <a href="{url}">गोबां सोलोंनो साइन आप खालाम</a>।
 
-
-;Congrats. You’re up to date!
-Congrats. You’re up to date!
 
 

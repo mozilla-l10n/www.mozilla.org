@@ -23,11 +23,11 @@ De qu'es una navigacion que depen de vòstre emplaçament geografic ?
 
 
 ;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
-Los sites web qu'utilizan la navigacion que depen de vòstre emplaçament geografic vos demandaràn ont vos trobatz per vos balhar d'entresenhas mai pertinentas o per vos far ganhar de temps de recèrca. Anam dire que cercatz un restaurant prèp d'en çò vòstre. Un site serà capable de vos demandar que partejètz vòstre emplaçament per qu'una simplòta recèrca de “restaurant” vos balhe las responsas que volètz... sens que d'autras entresenhas o de causas en mai a picar vos sián demandadas.
+Los sites web qu'utilizan la navigacion que depend de vòstre emplaçament geografic vos demandaràn ont vos trobatz per vos balhar d'entresenhas mai pertinentas o per vos far ganhar de temps de recèrca. Anam dire que cercatz un restaurant prèp d'en çò vòstre. Un site serà capable de vos demandar que partejètz vòstre emplaçament per qu'una simplòta recèrca de “restaurant” vos balhe las responsas que volètz... sens que d'autras entresenhas o de causas en mai a picar vos sián demandadas.
 
 
 ;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
-Autre cas : se cercatz una carta cap a un endrech, lo sit web vos dirà d'ont partissètz ; tot çò qu'auretz a far es doncas de dire ont volètz anar.
+Autre cas : se cercatz una mapa cap a un endrech, lo site web vos dirà d'ont partissètz ; tot çò qu'auretz a far es doncas de dire ont volètz anar.
 
 
 ;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
@@ -43,7 +43,7 @@ Quand visitatz un site web que la navigacion depen de vòstre emplaçament geogr
 
 
 ;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
-Se acceptatz, Firefox collecta las entresenhas suls punts d'accès inalambrics e l'adreça IP de vòstre ordenador. Firefox manda aquestas entresenhas al gestionari de geolocalizacion per defaut, Google Location Services, per obténer una estimacion de vòstre emplaçament. Un còp fach, aquesta aproximacion es partejada amb lo sit que lo demanda.
+Se acceptatz, Firefox collecta las entresenhas suls punts d'accès inalambrics e l'adreça IP de vòstre ordenador. Firefox manda aquestas entresenhas al gestionari de geolocalizacion per defaut, Google Location Services, per obténer una estimacion de vòstre emplaçament. Un còp fach, aquesta aproximacion es partejada amb lo site que lo demanda.
 
 
 ;If you say that you do not consent, Firefox will not do anything.
@@ -63,7 +63,7 @@ Quinas entresenhas son mandadas e a qual ? Cossí protegissètz ma vida privada 
 
 
 ;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
-Vòstra vida privada es bravament importanta per nosautres e Firefox parteja pas jamai vòstre emplaçament geografic sens que siatz d'acòrdi. Quand visitatz una pagina que demanda d'entresenhas sus vos, Firefox vos demanda abans de partejar quina entresenha que siá amb lo sit que lo demanda e lo servici tèrç.
+Vòstra vida privada es bravament importanta per nosautres e Firefox parteja pas jamai vòstre emplaçament geografic sens que siatz d'acòrdi. Quand visitatz una pagina que demanda d'entresenhas sus vos, Firefox vos demanda abans de partejar quina entresenha que siá amb lo site que lo demanda e lo servici tèrç.
 
 
 ;By default, Firefox uses Google Location Services to determine your location by sending:
@@ -83,23 +83,23 @@ un identificaire de client aleatòri, balhat per Google, que càmbia cada 2 setm
 
 
 ;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
-Per avar una descripcion complèta de las entresenhas que Firefox collecta e utiliza, legissètz la <a href="%(url)s">politica de Firefox sus las donadas privadas</a> (en anglés).
+Per aver una descripcion completa de las entresenhas que Firefox collècta e utiliza, legissètz la <a href="%(url)s">politica de Firefox sus las donadas privadas</a> (en anglés).
 
 
 ;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
-Google Location Services tòrna l'estimacion de vòstre emplaçament geografic (es a dire latitud e longitud). Per avar una descripcion complèta de las entresenhas que Google collecta e utiliza, legissèt la <a href="%(url)s" class="%(class)s">la politica de Google Geolocation sus las donadas privadas</a> (en anglés).
+Google Location Services tòrna l'estimacion de vòstre emplaçament geografic (es a dire latitud e longitud). Per aver una descripcion completa de las entresenhas que Google collecta e utiliza, legissèt la <a href="%(url)s" class="%(class)s">la politica de Google Geolocation sus las donadas privadas</a> (en anglés).
 
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
-Las entresenhas s'escàmbian per una connexion criptada per protegir vòstra vida privada. Un còp que Firefox a vòstras entresenhas d'emplaçament, las manda al sit que las demanda. Lo nom o l'emplaçament del sit que visitatz, o quin cookie que siá, serà jamai partejat amb Google Location Services.
+Las entresenhas s'escàmbian per una connexion criptada per protegir vòstra vida privada. Un còp que Firefox a vòstras entresenhas d'emplaçament, las manda al site que las demanda. Lo nom o l'emplaçament del site que visitatz, o quin cookie que siá, serà jamai partejat amb Google Location Services.
 
 
 ;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
-Ni Mozilla ni Google utilizarà las entresenhas collectadas per Google Location Services per vos identificar o vos espiar.
+Ni Mozilla ni Google utilizaràn pas las entresenhas collectadas per Google Location Services per vos identificar o vos espiar.
 
 
 ;For information about what the requesting website does with your location information, please refer to that website’s privacy policy.
-Per mai d'entresenhas sus çò que lo sit que las demanda fa de vòstras entresenhas d'emplaçament, legissètz la politica de vida privada del sit web.
+Per mai d'entresenhas sus çò que lo site que las demanda fa de vòstras entresenhas d'emplaçament, legissètz la politica de vida privada del site web.
 
 
 ;For more information about your privacy, you should also read:
@@ -107,11 +107,11 @@ Per mai d'entresenhas sus vòstra vida privada, podètz tanben legir la :
 
 
 ;Mozilla Firefox Privacy Notice
-politica de vida privada de Mozilla Firefox
+Politica de vida privada de Mozilla Firefox
 
 
 ;Google privacy policy
-politica de vida privada de Google
+Politica de vida privada de Google
 
 
 ;Am I being tracked as I browse the web?
@@ -119,31 +119,31 @@ Soi seguit quand navigui sus internet ?
 
 
 ;No. Firefox only requests a location when a website makes a request, and only shares your location when the user has approved the request. Firefox does not track or remember your location as you browse.
-Non. Firefox demanda un emplaçament sonque quand un sit ne fa la demanda e lo parteja sonque quand l'utilizaire es d'acòrdi. Firefox seguís pas e memoriza pas vòstre emplaçament quand navigatz.
+Non. Firefox demanda un emplaçament sonque quand un site ne fa la demanda e lo parteja sonque quand l'utilizaire es d'acòrdi. Firefox seguís pas e memoriza pas vòstre emplaçament quand navigatz.
 
 
 ;How do I undo a permission granted to a site?
-Cossí anullar la permission balhada a un sit ?
+Cossí anullar la permission balhada a un site ?
 
 
 ;If you've given Firefox permission to always give your location to a site and later change your mind, you can easily revoke that permission. Here's how:
-Se avètz balhar l'autorizacion a Firefox de balhar totjorn vòstre emplaçament a un sit e que cambiatz de vejaire pus tard, podètz aisidament anullar vòstra permission. Vaquí cossí cal far :
+Se avètz balhar l'autorizacion a Firefox de balhar totjorn vòstre emplaçament a un site e que cambiatz de vejaire pus tard, podètz aisidament anullar vòstra permission. Vaquí cossí cal far :
 
 
 ;Navigate to the site to which you’ve given permission
-navigatz sul sit qu'a la permission que volètz anullar
+Navigatz sul site qu'a la permission que volètz anullar
 
 
 ;Go to the <em>Tools</em> menu, then select <em>Page Info</em>
-anatz dins lo menut <em>Espleches</em>, puèi seleccionatz <em>Entresenhas sus la pagina</em>
+Anatz dins lo menú <em>Espleches</em>, puèi seleccionatz <em>Entresenhas sus la pagina</em>
 
 
 ;Select the <em>Permissions</em> tab
-seleccionatz l'onglet <em>Permissions</em>
+Seleccionatz l'onglet <em>Permissions</em>
 
 
 ;Change the setting for <em>Share Location</em>
-cambiatz lo paramètre de <em>Partejar l'emplaçament</em>
+Cambiatz lo paramètre de <em>Partejar l'emplaçament</em>
 
 
 ;How do I clear the “random client identification number”?
@@ -151,7 +151,7 @@ Cossí pòdi voidar lo "numèro aleatòri d'identificacion del client” ?
 
 
 ;Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>
-Anatz dins lo menut <em>Espleches</em> puèi seleccionatz <em>Voidar l'istoric recent</em>
+Anatz dins lo menú <em>Espleches</em> puèi seleccionatz <em>Voidar l'istoric recent</em>
 
 
 ;Click the <em>Details</em> arrow
@@ -163,7 +163,7 @@ Asseguratz-vos que <em>Cookies</em> es seleccionat
 
 
 ;Click on <em>Clear Now</em>
-clicatz sus <em>Voidar ara</em>
+Clicatz sus <em>Voidar ara</em>
 
 
 ;How do I turn off Location-Aware Browsing permanently?
@@ -175,15 +175,15 @@ La navigacion que depen de l'emplaçament geografic es totjorn opcionala dins Fi
 
 
 ;In the URL bar, type <code>about:config</code>
-dins la barra d'adreças, picatz <code>about:config</code>
+Dins la barra d'adreças, picatz <code>about:config</code>
 
 
 ;Type <code>geo.enabled</code>
-picatz <code>geo.enabled</code>
+Picatz <code>geo.enabled</code>
 
 
 ;Double click on the <em>geo.enabled</em> preference
-fasètz un doble clic sus la preferéncia <em>geo.enabled</em>
+Fasètz un doble clic sus la preferéncia <em>geo.enabled</em>
 
 
 ;Location-Aware Browsing is now disabled
@@ -191,12 +191,12 @@ La navigacion que depen de l'emplaçament geografic es ara desactivada.
 
 
 ;How can I add support for Geolocation to my web site?
-How can I add support for Geolocation to my web site?
+Cossí pòdi apondre la presa en carga de la geolocalizacion per mon site web&nbsp;?
 
 
 # Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 ;You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
-You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
+Vòstre servicis pòdon prene en carga la geolocalizacion gràcias a las instruccions disponiblas dins lo <a href="%(url)s">centre Mozilla pels desvolopaires</a>.
 
 
 ;Where am I?
@@ -204,6 +204,6 @@ Ont soi ?
 
 
 ;Oops! An error occurred while trying to determine your position.
-Oops ! I a aguda una error al moment d'ensajar de trobar vòstre emplaçament geografic.
+Ops ! I a agut una error al moment d'ensajar de trobar vòstre emplaçament geografic.
 
 

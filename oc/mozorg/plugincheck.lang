@@ -1,64 +1,69 @@
 ## active ##
+## java_notice ##
+## meta_update_201503 ##
+## plugin_disable_warning ##
+## plugin_updated_content ##
+## share_cta ##
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 
 
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
-Keep your Firefox healthy with a quick checkup
+Gardez Firefox en bonne santé avec une vérification rapide
 
 
 # Used as page description in HTML meta tag
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
+Vous utilisez Flash, QuickTime ou Java ? Si vous les utilisez pour rendre votre utilisation de Firefox plus agréable, lancez une vérification des plugins. Ils ont peut-être besoin d’être mis à jour.
 
 
 # Old page <title> tag
 ;Plugin Check &amp; Updates
-Plugin Check &amp; Updates
+Vérification et mise à jour des plugins
 
 
 # This is a button telling the user to update their plugin
 ;Update Now
-Metre a jorn ara
+Mettre à jour maintenant
 
 
 # This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
 ;Research
-Research
+Rechercher
 
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-current version plugin
+dernière version du plugin
 
 
 # This is a button informing the user that their plugin is up to date
 ;Up to Date
-Up to Date
+Plugin à jour
 
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+Icône du plugin
 
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+inconnu
 
 
 # This is the string used to indicate that the plugin is vulnerable
 ;vulnerable
-vulnerable
+vulnérable
 
 
 # Main title
 ;Check Your Plugins
-Check Your Plugins
+Vérification des plugins
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Keeping your plugins up to date helps Firefox run safely and smoothly.
+Conserver vos plugins à jour contribue au bon fonctionnement de Firefox et à votre sécurité.
 
 
 ;Currently the plugin check service is only available to Firefox users.
@@ -67,39 +72,39 @@ Currently the plugin check service is only available to Firefox users.
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
-Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
+Les plugins ne se mettent pas tous à jour de façon automatique. Vérifiez les vôtres pour naviguer en toute sécurité !
 
 
 ;Looks like you’re using an older version of Firefox.
-Sembla qu'utilizatz una anciana version de Firefox.
+Il semble que vous utilisiez une ancienne version de Firefox.
 
 
 ;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
+On nous a rapporté un problème avec les versions récentes du plugin Java qui sont détectées à tort comme vulnérables.
 
 
 ;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
+Dans l’attente d’un correctif de notre part, vous pouvez <a href="%(download)s">visiter le site de Java</a> pour télécharger la dernière version.
 
 
 ;Plugin Status
-Plugin Status
+État des plugins
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
-Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
+La  <strong>prise en charge d’Internet Explorer est limitée</strong>. Vous pouvez également utiliser le menu Outils &gt; Gérer les extensions.
 
 
 ;Step 1: Click Update to update a plugin.
-Step 1: Click Update to update a plugin.
+Étape&nbsp;1&nbsp;: Cliquez sur le bouton Mise à jour pour mettre le plugin à jour.
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
-Step 2: Complete all recommended updates before restarting your browser.
+Étape&nbsp;2&nbsp;: Effectuez toutes les mises à jour recommandées avant de redémarrer votre navigateur.
 
 
 ;Potentially vulnerable plugins
-Potentially vulnerable plugins
+Plugins potentiellement vulnérables&nbsp;
 
 
 ;Plugin
@@ -107,152 +112,152 @@ Plugin {ok}
 
 
 ;Status
-Estat
+État
 
 
 ;Action
-Accions
+Action {ok}
 
 
 ;Outdated Plugins
-Plugins obsolèts
+Plugins obsolètes
 
 
 ;Unknown Plugins
-Plugins desconeguts
+Plugins inconnus
 
 
 ;These plugins are up to date
-Aqueles plugins son a jorn
+Ces plugins sont à jour
 
 
 ;Back to Top
-Naut de la pagina
+Haut de la page
 
 
 ;Frequently Asked Questions
-Fèira de las questions
+Questions courantes
 
 
 ;What is a plugin?
-Qu'es aquò un plugin&nbsp;?
+Qu’est-ce qu’un plugin&nbsp;?
 
 
 ;Plugins power videos, animation and games
-Plugins power videos, animation and games
+Les plugins sont utilisés par les vidéos, les animations et les jeux.
 
 
 ;They're built outside of Firefox by companies like Adobe Systems and Apple
-They're built outside of Firefox by companies like Adobe Systems and Apple
+Ils sont élaborés en dehors de Firefox par des entreprises telles que Adobe Systems et Apple.
 
 
 ;Plugins don't always update automatically.
-Plugins don't always update automatically.
+Les plugins ne se mettent pas toujours à jour automatiquement.
 
 
 ;Why should I update my plugins?
-Why should I update my plugins?
+Pourquoi mettre à jour mes plugins&nbsp;?
 
 
 ;Old plugins can interrupt browsing and waste your time.
-Old plugins can interrupt browsing and waste your time.
+Les plugins trop anciens peuvent interrompre votre navigation et vous faire perdre votre temps.
 
 
 ;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
-Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
+Les plugins trop anciens <strong>augmentent les risques</strong> d’attaque des logiciels malveillants, virus et autres menaces pour votre sécurité.
 
 
 ;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
-<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
+<strong>Les plugins mis à jour bénéficient d’améliorations</strong> rendant le Web <strong>meilleur et plus sûr</strong> pour vous.
 
 
 # alt image
 ;Screenshot of Add-Ons manager
-Screenshot of Add-Ons manager
+Capture du gestionnaire de modules complémentaires
 
 
 ;How can Firefox help me?
-How can Firefox help me?
+Comment Firefox peut-il m’aider&nbsp;?
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
-In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
+À l’avenir, Firefox mettra les plugins à jour pour vous. D’ici là, vous devriez consulter régulièrement cette page et mettre vos plugins à jour pour rester protégé.
 
 
 ;Which Plugins do I have?
-Which Plugins do I have?
+Quels sont mes plugins&nbsp;?
 
 
 ;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
-We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
+Nous avons automatiquement détecté les plugins ci-dessus. Afin de voir vos plugins installés dans Firefox, suivez ces instructions&nbsp;:
 
 
 ;Want to spread the word?
-Want to spread the word?
+Voulez-vous faire passer le message&nbsp;?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+Permettez à vos amis de surfer en toute sécurité&nbsp;! Rendez-vous sur <a href="%(url)s">Firefox Affiliates</a> pour obtenir un badge &laquo;&nbsp;Vérifier les plugins&nbsp;&raquo; à afficher sur votre site.
 
 
 ;How do I disable a plugin?
-How do I disable a plugin?
+Comment puis-je désactiver un plugin&nbsp;?
 
 
 ;In Firefox:
-Dins Firefox&nbsp;:
+Dans Firefox&nbsp;:
 
 
 ;Open the Tools menu.
-Open the Tools menu.
+Ouvrez le menu Outils.
 
 
 # If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 ;Open the <span class="menu">menu</span>.
-Open the <span class="menu">menu</span>.
+Ouvrez le <span class="menurev">menu</span>.
 
 
 ;Choose Add-ons.
-Choose Add-ons.
+Choisissez Modules complémentaires.
 
 
 ;Click the plugins tab.
-Click the plugins tab.
+Cliquez sur l’onglet plugins.
 
 
 ;Click on the drop down next to the plugin you wish to disable.
-Click on the drop down next to the plugin you wish to disable.
+Cliquez sur le menu déroulant en face du plugin que vous souhaitez désactiver.
 
 
 ;Click on a plugin in the list.
-Click on a plugin in the list.
+Cliquez sur un plugin dans la liste.
 
 
 ;Select "Never Activate" from the available choices.
-Select "Never Activate" from the available choices.
+Sélectionnez &laquo;&nbsp;Ne jamais activer&nbsp;&raquo; parmi les choix proposés.
 
 
 ;Click the Disable button.
-Clicatz sul boton Desactivar.
+Cliquez sur le bouton Désactiver.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
-Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
+Attention&nbsp;: désactiver un plugin signifie que vous ne pourrez plus faire certaines choses. Par exemple, si vous désactivez Flash, la plupart des sites de diffusion de vidéos ne fonctionneront plus.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
-Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
+Attention&nbsp;: désactiver un plugin signifie que vous ne pourrez plus faire certaines choses. Par exemple, si vous désactivez Flash, certains sites de diffusion de vidéos ne fonctionneront plus.
 
 
 ;Mozilla Support
-Ajuda de Mozilla
+Mozilla Support {ok}
 
 
 ;Have more questions?
-De questions mai&nbsp;?
+D’autres questions&nbsp;?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
+Visitez <a href="%(sumo_url)s">support.mozilla.org</a> pour davantage d’aide&nbsp;!
 
 

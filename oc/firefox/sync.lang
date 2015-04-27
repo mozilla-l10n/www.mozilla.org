@@ -1,61 +1,62 @@
-## NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/sync/
+## active ##
+## firefox_sync_non_fx ##
+## firefox_sync_redesign ##
+## ios_announce ##
+## sync_new_markup ##
+## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
 ;Keep your Firefox in sync
-Keep your Firefox in sync
+Gardatz vòstre Firefox sincronizat
 
 
 ;Ready, Set, Sync
-Ready, Set, Sync
+A vòstras marcas&hellip; Prèstes&nbsp;? Sincronizatz&nbsp;!
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+Sètz inscrich e prèst a accedir a <em>vòstre</em> Firefox, ont volètz, quand o volètz.
 
 
 ;Take your Web with you
-Take your Web with you
+Emmenatz vòstre Web pertot
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-
-
-;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
-Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
+Sincronizatz Firefox pertot ont l’utilizatz, per accedir a totes vòstres marcapaginas, senhals, onglets e plan mai encara dempuèi quin smartphone, tauleta o ordenador que siá.
 
 
 ;It looks like you’re running an older version of Firefox.
-It looks like you’re running an older version of Firefox.
+Sembla qu'utilizatz una anciana version de Firefox.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-The new version of Sync only works with the latest version of Firefox
+La novèla version de Sync fonciona unicament amb la version la mai recenta de Firefox
 
 
 ;Soon you’ll be able to use Sync on your iOS device
-Soon you’ll be able to use Sync on your iOS device
+Lèu, seretz en mesura d’utilizar Sync sus vòstre aparelh iOS
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+Sync es solament una foncionalitat demest las nombrosas foncionalitats utilas de Firefox. Descobrissètz-las totas&nbsp;!
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync is just one of the great features you’ll only get with Firefox.
+Sync es solament una foncionalitat demest las nombrosas foncionalitats utilas de Firefox.
 
 
 ;Download Firefox for Android
-Download Firefox for Android
+Telecargar Firefox per Android
 
 
 ;Get started with Sync
-Get started with Sync
+Descobrir Sync
 
 
 ;Update your Firefox
-Update your Firefox
+Metre a jorn Firefox
 
 
 ;Download Firefox
@@ -63,220 +64,184 @@ Telecargar Firefox
 
 
 ;Get started with Sync in four easy steps:
-Get started with Sync in four easy steps:
+Lançatz-vos amb Sync en quatre etapas&nbsp;:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Dobrissètz lo <a class="menu ga-link" href="%(url)s#w_un-novèl-menu-pratique">menú</a> dins lo canton superior drech de Firefox puèi seleccionatz &laquo;&nbsp;<strong>Se connectar a Sync</strong>&nbsp;&raquo;.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+Clicatz sus &laquo;&nbsp;<strong>Aviar</strong>&nbsp;&raquo; dins l’onglet que se dobrís alara.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Picatz una adreça electronica e un senhal per &laquo;&nbsp;<strong>Crear un compte Firefox</strong>&nbsp;&raquo;.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+Clicatz sus &laquo;&nbsp;<strong>Seguent</strong>&nbsp;&raquo; per obténer lo messatge de validacion dins vòstra bóstia de recepcion.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+Aprèp aver consultat vòstra bóstia de recepcion e clicat sul ligam de verificacion, auretz acabat. Firefox sincronizarà automaticament vòstras donadas en rèire plan.
 
 
 ;Get more detailed instructions.
-Get more detailed instructions.
+Obténer d'informacions mai detalhadas.
 
 
 ;Using an older version of Sync?
-Using an older version of Sync?
+Utilizatz una anciana version de Sync&nbsp;?
 
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-How to set up Sync in five easy steps:
+Cossí configurar Sync en cinc etapas&nbsp;:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+Quichatz sul boton <strong>Menú</strong> (siá jos l’ecran, siá en naut a drecha del navigador).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+Seleccionatz <strong>Paramètres</strong> (benlèu que vos caldrà d’en primièr quichar sus <strong>Mai</strong>).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+Quichatz sus <strong>Sync</strong> puèi sus <strong>Aviar</strong>.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+La pagina <strong>Crear un compte Firefox</strong> se dobrirà dins un onglet novèl.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+Completatz lo formulari puèi clicatz sus <strong>Seguent</strong>.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+Aprèp aver consultat vòstra bóstia de messatjariá e clicat sul ligam de verificacion, auretz acabat. Doblidetz pas de connectar totes vòstres aparelhs per profechar plenament de Sync.
 
 
 ;Sync a little. Sync a lot.
-Sync a little. Sync a lot.
+Sincronizatz un peu. Sincronizatz beaucoup.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-
-
-;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-
-
-;Here’s what you can sync:
-Here’s what you can sync:
-
-
-;Bookmarks
-Bookmarks
-
-
-;Passwords
-Passwords
-
-
-;Open tabs
-Open tabs
-
-
-;History
-History
+Podètz causir çò que volètz sincronizar dins Firefox, e ont lo volètz sincronizar. Emportez vòstres onglets dobèrts a l'ocasion de vòstres desplaçaments. Accedissètz a vòstres marcapaginas al trabalh. Las possibilitats son infinidas&nbsp;!
 
 
 ;At home
-At home
+A l'ostal
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Trabalhatz puslèu dempuèi vòstre canapè, sens far de compromés. Accedissètz dempuèi vòstre smartphone a vòstres onglets dobèrts, o percorrètz vòstres marcapaginas sus vòstra tauleta.
 
 
 ;At work
-At work
+Al trabalh
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+Conservatz totas vòstras informacions importantas a portada de man. Sincronizatz los senhals e marcapaginas que ne poiriatz aver besonh, e accedissètz-i a tot moment. Tot coma Firefox, es tant securizat coma possible.
 
 
 ;On the go
-On the go
+D'emportar
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-
-
-;Add Firefox to your smartphone or tablet
-Add Firefox to your smartphone or tablet
-
-
-;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
-To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
-
-
-;Add Firefox
-Add Firefox
+Gardatz un uèlh sus vòstres sites preferits, o acabatz de legir aquesta istòria començada a l'ostal, ont que anetz. Aquò es pas jamai estat tan simple.
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Have an <b>Android smartphone</b> or <b>tablet</b>?
+Possedissètz un <b>telefòn</b> o una <b>tauleta Android</b>&nbsp;?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-DOWNLOAD FIREFOX FOR ANDROID
+TELECARGAR FIREFOX PER ANDROID
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+Per fin de profechar plenament de Sync, emmenatz vòstre Web, pertot ont utilizatz Firefox. Connectatz vòstre smartphone, vòstre tauleta, vòstre ordenador de bureau e vòstre ordenador portable.
 
 
 # Used in old page, do not remove , do not remove
 ;Instantly make Firefox your own wherever you use it. Seamlessly sync your bookmarks, history, passwords and more and access them from any device.
-Instantly make Firefox your own wherever you use it. Seamlessly sync your bookmarks, history, passwords and more and access them from any device.
+Retrobatz vòstre Firefox pertot ont l’utilizatz. Sincronizatz d'un biais transparent vòstres marcapaginas, vòstre istoric, vòstres senhals e plan mai encara, accedissètz a tot aquò dempuèi quin aparelh que siá.
 
 
 # Used in old page, do not remove
 ;Get started with Sync. It’s fast, safe and easy:
-Get started with Sync. It’s fast, safe and easy:
+Aviatz amb Sync. Es rapid, securizat e simple&nbsp;:
 
 
 # Used in old page, do not remove
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Dobrissètz lo <a class="menu" href="%(url)s#w_un-novel-menu-practic">menú</a> amont a drecha de Firefox e seleccionatz &laquo;&nbsp;<strong>Se connectar a Sync</strong>&nbsp;&raquo;.
 
 
 # Used in old page, do not remove
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
-Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
+Dobrissètz lo <a href="%(url)s#w_un-novel-menu-practic">menú</a> amont a drecha de Firefox e seleccionatz &laquo;&nbsp;Se connectar a Sync&nbsp;&raquo;
 
 
 # Used in old page, do not remove
 ;Click “Get started” in the tab that opens.
-Click “Get started” in the tab that opens.
+Clicatz sus &laquo;&nbsp;Aviar&nbsp;&raquo; dins l’onglet qui s’ouvre alors.
 
 
 # Used in old page, do not remove
 ;Enter an email address and password to “Create a Firefox Account.”
-Enter an email address and password to “Create a Firefox Account.”
+Saisissez una adreça electronica e un senhal per &laquo;&nbsp;Crear un compte Firefox&nbsp;&raquo;.
 
 
 # Used in old page, do not remove
 ;Click “Next” to get a verification sent to your email.
-Click “Next” to get a verification sent to your email.
+Clicatz sus &laquo;&nbsp;Seguent&nbsp;&raquo; per obténer lo messatge de validacion dins vòstre bóstia de letras.
 
 
 # Used in old page, do not remove
 ;Check your email and click the verification link.
-Check your email and click the verification link.
+Verificatz vòstre courriel e clicatz sul ligam de validation.
 
 
 # Used in old page, do not remove
 ;You’re all set! Firefox will automatically sync in the background from now on.
-You’re all set! Firefox will automatically sync in the background from now on.
+Es prêt&nbsp;! Firefox va ara aviar automaticament la sincronizacion en tâche de fond.
 
 
 # Used in old page, do not remove
 ;Have an Android phone or tablet?
-Have an Android phone or tablet?
+Avètz un telefòn o una tauleta Android&nbsp;?
 
 
 # Used in old page, do not remove
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Telecargatz Firefox per Android</a> per fin de sincronizar vòstre ordenador e vos aparelhs mobiles.
 
 
 # Used in old page, do not remove
 ;Download Firefox for Android to sync between your desktop and mobile devices.
-Download Firefox for Android to sync between your desktop and mobile devices.
+Telecargatz Firefox per Android per fin de sincronizar vòstre ordenador e vòstres aparelhs mobiles.
 
 
 # Used in old page, do not remove
 ;Get it free from Google Play
-Get it free from Google Play
+Installez-le gratuitament dempuèi Google Play
 
 

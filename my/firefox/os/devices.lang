@@ -451,19 +451,19 @@ QCT 8210 core နှစ်ခုသုံး 1.2 GHz
 
 
 ;1.0 GHz
-1.0 GHz
+1.0 GHz {ok}
 
 
 ;1.2 GHz
-1.2 GHz
+1.2 GHz {ok}
 
 
 ;Spreadtrum SC6821
-Spreadtrum SC6821
+Spreadtrum SC6821 {ok}
 
 
 ;Spreadtrum 6821 1.0 GHz
-Spreadtrum 6821 1.0 GHz
+Spreadtrum 6821 1.0 GHz {ok}
 
 
 # Networks
@@ -504,28 +504,28 @@ EDGE {ok}
 
 
 ;GPRS
-GPRS
+GPRS {ok}
 
 
 ;EDGE 850/900/1800/1900 MHz
-EDGE 850/900/1800/1900 MHz
+EDGE 850/900/1800/1900 MHz {ok}
 
 
 ;HSDPA 850/1900/2100 MHz
-HSDPA 850/1900/2100 MHz
+HSDPA 850/1900/2100 MHz {ok}
 
 
 ;GPRS/WCDMA/HSPA+
-GPRS/WCDMA/HSPA+
+GPRS/WCDMA/HSPA+ {ok}
 
 
 ;GPRS/EDGE
-GPRS/EDGE
+GPRS/EDGE {ok}
 
 
 # Wireless/Ports
 ;Wi-Fi
-Wi-Fi
+Wi-Fi {ok}
 
 
 ;Wi-Fi b/g/n
@@ -582,35 +582,35 @@ Micro USB 2.0 မြန်နှုန်းမြင့်
 
 
 ;3.0 MP (Fixed-focus)
-3.0 MP (Fixed-focus)
+3.0 MP (Fixed-focus) {ok}
 
 
 ;3.2 MP rear, 0.3 MP front
-3.2 MP rear, 0.3 MP front
+3.2 MP (နောက်ဘက်), 0.3 MP (ရှေ့ဘက်)
 
 
 ;5.0 MP
-5.0 MP
+5.0 MP {ok}
 
 
 ;5.0 MP, LED flash
-5.0 MP, LED flash
+5.0 MP, LED လျှပ်မီး
 
 
 ;5.0 MP rear, VGA front
-5.0 MP rear, VGA front
+နောက်ဘက် 5.0 MP, ရှေ့ဘက် VGA
 
 
 ;8.0 MP
-8.0 MP
+8.0 MP {ok}
 
 
 ;8.0 MP rear, 2.1 MP front
-8.0 MP rear, 2.1 MP front
+နောက်ဘက် 8.0 MP, ရှေ့ဘက် 2.1 MP
 
 
 ;Rear camera, VGA Front camera
-Rear camera, VGA Front camera
+နောက်ဘက်ကင်မရာ၊ VGA ရှေ့ဘက်ကင်မရာ
 
 
 ;Rear camera, 0.3 MP Front camera
@@ -652,43 +652,43 @@ VGA {ok}
 
 
 ;1100 mAh
-1100 mAh
+1100 mAh {ok}
 
 
 ;1150 mAh
-1150 mAh
+1150 mAh {ok}
 
 
 ;1200 mAh
-1200 mAh
+1200 mAh {ok}
 
 
 ;1250 mAh
-1250 mAh
+1250 mAh {ok}
 
 
 ;1400 mAh
-1400 mAh
+1400 mAh {ok}
 
 
 ;Li-Ion 1400 mAh
-Li-Ion 1400 mAh
+Li-Ion 1400 mAh {ok}
 
 
 ;Li-Ion 1540 mAh
-Li-Ion 1540 mAh
+Li-Ion 1540 mAh {ok}
 
 
 ;1730 mAh
-1730 mAh
+1730 mAh {ok}
 
 
 ;2370 mAh
-2370 mAh
+2370 mAh {ok}
 
 
 ;5.3 h
-5.3 h
+5.3 h {ok}
 
 
 ;6.7 h
@@ -724,40 +724,40 @@ Li-Ion 1540 mAh
 
 
 ;Up to 16 h
-Up to 16 h
+16 h အထိ
 
 
 ;Up to 350 h
-Up to 350 h
+350 h အထိ
 
 
 ;Up to 744 h
-Up to 744 h
+744 h အထိ
 
 
 ;Up to 6.7 h (2G), 3 h (3G)
-Up to 6.7 h (2G), 3 h (3G)
+6.7 h အထိ (2G), 3 h အထိ (3G)
 
 
 ;Up to 8 h (2G), 8 h (3G)
-Up to 8 h (2G), 8 h (3G)
+8 h အထိ (2G), 8 h အထိ (3G)
 
 
 ;Up to 280 h
-Up to 280 h
+280 h အထိ
 
 
 ;Up to 280 h (2G)
-Up to 280 h (2G)
+280 h အထိ (2G)
 
 
 ;Up to 720 h (LTE), 820 h (3G)
-Up to 720 h (LTE), 820 h (3G)
+720 h အထိ (LTE), 820 h အထိ (3G)
 
 
 # Screen
 ;3.5" HVGA
-3.5" HVGA
+3.5" HVGA {ok}
 
 
 ;3.5" TFT HVGA
@@ -797,33 +797,33 @@ Up to 720 h (LTE), 820 h (3G)
 
 
 ;4.5" qHD
-4.5" qHD
+4.5" qHD {ok}
 
 
 ;4.7"
-4.7"
+4.7" {ok}
 
 
 # other screen strings
 ;320 x 480 pixels
-320 x 480 pixels
+320 x 480 pixels {ok}
 
 
 ;480 x 800 pixels
-480 x 800 pixels
+480 x 800 pixels {ok}
 
 
 ;TFT capacitive touch
-TFT capacitive touch
+TFT capacitive touch {ok}
 
 
 ;TFT color display
-TFT color display
+TFT color display {ok}
 
 
 # Footer
 ;More about Firefox OS
-More about Firefox OS
+FirefoxOS အကြောင်း
 
 
 ;Read about the features and mission behind Firefox OS

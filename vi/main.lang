@@ -5,33 +5,33 @@
 # Firefox family navigation menu. Main level item.
 # Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>cho</span> Máy tính
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>cho</span> Android
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+<span>cho</span> iOS
 
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OS
+Hệ điều hành
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+Cho máy tính để bàn và laptop
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+Cho điện thoại và máy tính bảng
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -46,7 +46,7 @@ Tin cậy
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Flexible
-Mềm dẻo
+Linh hoạt
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -61,17 +61,17 @@ Giới thiệu
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+Các thiết bị
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+Dành cho các đối tác
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+App
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -81,23 +81,23 @@ Không theo dõi
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+Tile
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+Ứng dụng tổng quan theo dõi sở thích
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+Phiên bản cho lập trình viên
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+Duyệt web ẩn danh
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -107,36 +107,36 @@ Cần trợ giúp?
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+Tin tức
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+Dành cho lập trình viên
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+Tìm máy bị mất
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
-Nhà phát triển
+Lập trình viên
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Hãy chọn một trình duyệt không phụ thuộc bên thứ ba
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox là trình duyệt phi lợi nhuận, phi tập đoàn, không nhượng bộ. Lựa chọn Firefox không chỉ là lựa chọn một trình duyệt web. Đó là một lá phiếu cho sự tự do cá nhân của bạn.
 
 
 ;Donate
-Quyên góp
+Đóng góp tài chính
 
 
 ;Support
@@ -160,7 +160,7 @@ Phòng nghiên cứu
 
 
 ;skip to Navigation
-chuyển qua Khám phá
+nhảy tới mục Điều hướng
 
 
 ;switch language
@@ -180,11 +180,11 @@ Tham gia
 
 
 ;Careers
-Nghề nghiệp
+Cơ hội nghề nghiệp
 
 
 ;Press Center
-Trung tâm Báo chí
+Dành cho báo giới
 
 
 ;Contact Us
@@ -201,7 +201,7 @@ Ngôn ngữ khác:
 
 
 ;Legal
-Legal
+Thông tin pháp lý
 
 
 # Used as link in the footer
@@ -211,7 +211,7 @@ Cookie
 
 # Used as link in the footer
 ;Firefox Affiliates
-Firefox Affiliates
+Quảng cáo cho Firefox
 
 
 ;Legal Notices
@@ -223,11 +223,11 @@ Chính sách riêng tư
 
 
 ;Release Notes
-Ghi chú Phát hành
+Ghi chú của bản phát hành
 
 
 ;Other Systems and Languages
-Hệ thống và Ngôn ngữ khác
+Các hệ thống và ngôn ngữ khác
 
 
 ;Close
@@ -255,7 +255,7 @@ Tải xuống
 
 
 ;Previous
-Previous
+Trước
 
 
 ;Next
@@ -268,7 +268,7 @@ MB {ok}
 
 
 ;MegaBytes
-MegaBytes {ok}
+Megabyte
 
 
 ;FAQ
@@ -280,15 +280,15 @@ Video
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-Trừ khi <a href="%s">có ghi chú</a> khác, nội dung trên trang này tuân theo <br /><a href="%s">Creative Commons Attribution Share-Alike phiên bản 3.0</a> và bất kì phiên bản nào sau này của nó.
+Trừ khi <a href="%s">có ghi rõ</a>, nội dung trên trang này được ban hành với <br /><a href="%s">giấy phép Creative Commons Attribution Share-Alike phiên bản 3.0</a> hoặc bất kì phiên bản nào mới hơn.
 
 
 ;Report Trademark Abuse
-Báo cáo Lạm dụng Thương hiệu
+Báo cáo lạm dụng thương hiệu
 
 
 ;Free Upgrade
-Nâng cấp Miễn phí
+Nâng cấp miễn phí
 
 
 # social networks such as Facebook and Twitter
@@ -311,7 +311,7 @@ Tìm hiểu thêm
 
 # Link used to play again an animation or a video
 ;Replay
-Phát lại
+Xem lại
 
 
 ;Watch the video
@@ -319,11 +319,11 @@ Xem video
 
 
 ;Replay the video
-Replay the video
+Xem lại video này
 
 
 ;Share the video
-Share the video
+Chia sẻ video này
 
 
 ;WebM format
@@ -355,7 +355,7 @@ Tải xuống bản cho <span>Android</span>
 
 
 ;Desktop
-Màn hình nền
+Máy tính
 
 
 ;Firefox Beta for mobile
@@ -367,7 +367,7 @@ Firefox cho di động
 
 
 ;Email
-Thư điện tử
+Email {ok}
 
 
 ;Super speed
@@ -383,7 +383,7 @@ Công nghệ mới nhất
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Bạn cần nâng cấp! Chỉ cần một phút để lướt Web an toàn. <br/> Hãy bắt đầu dùng Firefox để duyệt web và được tùy biến tốt nhất. <br/> Firefox nhanh và miễn phí!
+Bạn cần nâng cấp! Chỉ cần một phút thôi để có thể lướt Web một cách an toàn. <br/> Hãy bắt đầu dùng Firefox bản mới để có trải nghiệm duyệt và tùy biến trên Web tốt nhất. <br/> Firefox vừa nhanh lại miễn phí!
 
 
 ;Upgrade now
@@ -410,12 +410,12 @@ Riêng tư
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Phần nội dung là ©1998–%(current_year)s thuộc về các cộng tác viên của mozilla.org. Nội dung có giá trị dưới <a href="%(url)s">giấy phép Creative Commons</a>.
+Một phần nội dung này được giữ bản quyền ©1998–%(current_year)s bởi từng cộng tác viên của mozilla.org độc lập. Nội dung được phát hành với <a href="%(url)s">giấy phép Creative Commons</a>.
 
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+Đóng góp cho trang web này
 
 
 # Footer string
@@ -425,7 +425,7 @@ Contribute to this site
 
 # Top menu item
 ;Mission
-Nhiệm vụ
+Sứ mệnh
 
 
 # Footer item on some pages to link to a tour of features
@@ -435,22 +435,22 @@ Tham quan
 
 # Footer item
 ;Partner with Us
-Cộng tác với chúng tôi
+Hợp tác với chúng tôi
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync
+Đồng bộ Sync
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-Add-on cho Desktop
+Add-on cho máy tính
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+Add-on cho Android
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -460,12 +460,12 @@ Chủ đề
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Hỗ trợ Desktop
+Hỗ trợ bản cho máy tính
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+Hỗ trợ trên Android
 
 
 # Top menu item on firefox/update page
@@ -480,12 +480,12 @@ Công nghệ
 
 # Top menu item on firefox/update page
 ;Privacy &amp; Security
-Riêng tư  &amp;  Bảo mật
+Riêng tư &amp; Bảo mật
 
 
 # Top menu item on firefox/update page
 ;Releases
-Phát hành
+Các bản phát hành
 
 
 # Top menu item on firefox/update page
@@ -495,7 +495,7 @@ Firefox {ok}
 
 # Top menu item on firefox/update page
 ;Firefox for Organizations
-Firefox dành cho các Tổ chức
+Firefox cho các tổ chức
 
 
 # Top menu item on firefox/update page
@@ -530,17 +530,17 @@ Tham gia
 
 # Top menu item on firefox/update page
 ;Brand Toolkit
-Bộ công cụ đóng nhãn
+Bộ công cụ thương hiệu
 
 
 # Top menu item on firefox/update page
 ;Partnerships
-Hiệp hội
+Hợp tác
 
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-Tải các cập nhật Mozilla
+Tải cập nhật của Mozilla
 
 
 # share button for social networks
@@ -575,12 +575,12 @@ Diễn đàn
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+Lãnh đạo
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
-Quản trị
+Hệ thống quản trị
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -595,7 +595,7 @@ Sản phẩm của chúng tôi
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
-Phần mềm và các cải tiến khác giúp thúc đẩy sứ mạng của chúng tôi.
+Phần mềm và các cải tiến khác giúp thúc đẩy sứ mệnh của chúng tôi.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -605,7 +605,7 @@ Trở thành một tình nguyện viên trong các lĩnh vực khác nhau.
 
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
-Trình đơn
+Menu {ok}
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
@@ -615,18 +615,18 @@ Vì bạn, vì tự do cá nhân và vì một nền tảng Web mở
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Choose Independent
+Hãy bỏ phiếu cho sự độc lập
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Hãy giữ cho ngọn lửa đam mê vì một Internet tự do và mở cháy mãi! #ChooseIndependent. Hãy lựa chọn Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+Xin hãy bật Javascript để trang web có thể hiển thị chính xác.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -640,107 +640,107 @@ Hỗ trợ Firefox
 
 
 ;January
-Tháng Một
+Tháng một
 
 
 ;February
-Tháng Hai
+Tháng hai
 
 
 ;March
-Tháng Ba
+Tháng ba
 
 
 ;April
-Tháng Tư
+Tháng tư
 
 
 ;May
-Tháng Năm
+Tháng năm
 
 
 ;June
-Tháng Sáu
+Tháng sáu
 
 
 ;July
-Tháng Bảy
+Tháng bảy
 
 
 ;August
-Tháng Tám
+Tháng tám
 
 
 ;September
-Tháng Chín
+Tháng chín
 
 
 ;October
-Tháng Mười
+Tháng mười
 
 
 ;November
-Tháng Mười Một
+Tháng mười một
 
 
 ;December
-Tháng Mười Hai
+Tháng mười hai
 
 
 ;<abbr>Jan</abbr>
-<abbr>Thg01</abbr>
+<abbr>Th01</abbr>
 
 
 ;<abbr>Feb</abbr>
-<abbr>Thg02</abbr>
+<abbr>Th02</abbr>
 
 
 ;<abbr>Mar</abbr>
-<abbr>Thg03</abbr>
+<abbr>Th03</abbr>
 
 
 ;<abbr>Apr</abbr>
-<abbr>Thg04</abbr>
+<abbr>Th04</abbr>
 
 
 ;<abbr>May</abbr>
-<abbr>Thg05</abbr>
+<abbr>Th05</abbr>
 
 
 ;<abbr>Jun</abbr>
-<abbr>Thg06</abbr>
+<abbr>Th06</abbr>
 
 
 ;<abbr>Jul</abbr>
-<abbr>Thg07</abbr>
+<abbr>Th07</abbr>
 
 
 ;<abbr>Aug</abbr>
-<abbr>Thg08</abbr>
+<abbr>Th08</abbr>
 
 
 ;<abbr>Sep</abbr>
-<abbr>Thg09</abbr>
+<abbr>Th09</abbr>
 
 
 ;<abbr>Oct</abbr>
-<abbr>Thg10</abbr>
+<abbr>Th10</abbr>
 
 
 ;<abbr>Nov</abbr>
-<abbr>Thg11</abbr>
+<abbr>Th11</abbr>
 
 
 ;<abbr>Dec</abbr>
-<abbr>Thg12</abbr>
+<abbr>Th12</abbr>
 
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox sắp ra phiên bản cho iOS! <a href="{url}">Hãy đăng ký để biết thêm chi tiết</a>.
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+Chúc mừng. Bạn đang dùng phiên bản mới nhất!
 
 

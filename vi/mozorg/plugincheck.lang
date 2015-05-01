@@ -5,12 +5,12 @@
 
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
-Keep your Firefox healthy with a quick checkup
+Kiểm tra nhanh để giúp Firefox khỏe mạnh
 
 
 # Used as page description in HTML meta tag
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
+Bạn có dùng Flash? QuickTime? Java? Nếu có thì bạn nên kiểm tra xem, có thể chúng cần phải cập nhật đấy.
 
 
 # Old page <title> tag
@@ -30,17 +30,17 @@ Tìm hiểu
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-phiên bản hiện tại plugin
+current version plugin {ok}
 
 
 # This is a button informing the user that their plugin is up to date
 ;Up to Date
-Đã là mới nhất
+Đã cập nhật
 
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Biểu tượng
+Biểu tượng plugin
 
 
 # This is the string used to indicate that the plugin is unknown
@@ -50,7 +50,7 @@ không rõ
 
 # This is the string used to indicate that the plugin is vulnerable
 ;vulnerable
-bị lỗi bảo mật
+có lỗi bảo mật
 
 
 # Main title
@@ -59,16 +59,16 @@ Kiểm tra các plugin của bạn
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Giữ các plugin của bạn được cập nhật giúp Firefox chạy an toàn và mượt.
+Giữ các plugin của bạn được cập nhật giúp Firefox an toàn và mượt mà.
 
 
 ;Currently the plugin check service is only available to Firefox users.
-Currently the plugin check service is only available to Firefox users.
+Hiện tại dịch vụ kiểm tra plugin chỉ dành cho người dùng Firefox.
 
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
-Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
+Không phải lúc nào plugin cũng tự động cập nhật. Kiểm tra ngay để duyệt web an toàn hơn!
 
 
 ;Looks like you’re using an older version of Firefox.
@@ -76,31 +76,31 @@ Có vẻ như bạn đang sử dụng phiên bản Firefox cũ.
 
 
 ;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-Chúng tôi nhận thấy có một vấn đề khi đang xác định các phiên bản hiện tại của Java plugin và báo cáo nhầm chúng như là nguy cơ.
+Chúng tôi được biết có hiện tượng kiểm tra sai phiên bản plugin Java và báo cáo nhầm là có lỗi bảo mật.
 
 
 ;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-Chúng tôi đang sửa lỗi này. Trong lúc đo, bạn có thể <a href="%(download)s">tới website của Java</a> để tải bản mới nhất.
+Chúng tôi đang sửa lỗi này. Trong lúc đó, bạn có thể <a href="%(download)s">tới website của Java</a> để tải bản mới nhất.
 
 
 ;Plugin Status
-Trạng thai plugin
+Trạng thái plugin
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
-Trình kiểm tra phần bổ trợ <strong>không hỗ trợ tốt Internet Explorer</strong>. Cũng dùng 'Công cụ' &gt; 'Quản lí Tiện ích'
+Dịch vụ kiểm tra plugin cho Internet Explorer <strong>chỉ có tính năng giới hạn</strong>. Bạn cũng nên dùng Công cụ &gt; Quản lý Tiện ích
 
 
 ;Step 1: Click Update to update a plugin.
-Bước 1: nhấn Cập nhật để nâng cấp plugin.
+Bước 1: Nhấn Cập nhật để nâng cấp plugin.
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
-Bước 2: Hoàn thành tất cả các cập nhật được yêu cầu trước khi khởi động lại trình duyệt của bạn.
+Bước 2: Cài đặt tất cả những cập nhật được đề nghị trước khi khởi động lại trình duyệt của bạn.
 
 
 ;Potentially vulnerable plugins
-Phần bổ trợ có thể bị lỗi
+Plugin có thể có lỗi bảo mật
 
 
 ;Plugin
@@ -108,7 +108,7 @@ Plugin {ok}
 
 
 ;Status
-Tình trạng
+Trạng thái
 
 
 ;Action
@@ -120,7 +120,7 @@ Plugin chưa cập nhật
 
 
 ;Unknown Plugins
-Plugin chưa xác định
+Plugin không rõ chủng loại
 
 
 ;These plugins are up to date
@@ -128,7 +128,7 @@ Những plugin này đã được cập nhật
 
 
 ;Back to Top
-Lên đầu trang
+Về đầu trang
 
 
 ;Frequently Asked Questions
@@ -136,19 +136,19 @@ Câu hỏi thường gặp
 
 
 ;What is a plugin?
-Phần bổ trợ là gì?
+Plugin là gì?
 
 
 ;Plugins power videos, animation and games
-Phần bổ trợ chi phốiđoạn phim, hình ảnh động và trò chơi.
+Plugin cho phép bạn xem video, hoạt hình hoặc chơi trò chơi
 
 
 ;They're built outside of Firefox by companies like Adobe Systems and Apple
-Phần bổ trợ được xây dựng bên ngoài Firefox bởi các công ty như Adobe Systems và Apple.
+Plugin được phát triển ngoài Firefox bởi các công ty thứ ba như Adobe Systems và Apple
 
 
 ;Plugins don't always update automatically.
-Plugin không thường xuyên cập nhật tự động.
+Plugin không phải lúc nào cũng cập nhật tự động.
 
 
 ;Why should I update my plugins?
@@ -156,20 +156,20 @@ Tại sao tôi nên cập nhật các plugin của tôi?
 
 
 ;Old plugins can interrupt browsing and waste your time.
-Các plugin cũ có thể gây đổ vỡ trình duyệt và làm mất thời gian của bạn.
+Các plugin cũ có thể gây hỏng hóc trình duyệt và làm mất thời gian của bạn.
 
 
 ;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
-Các plugin cũ <strong>làm tăng</strong> nguy cơ bị tấn công bởi phần mềm độc hại, virut, và những sự de dọa về bảo mật khác.
+Các plugin cũ không cập nhật <strong>làm tăng nguy cơ bị tấn công</strong> bởi phần mềm độc hại, virut, và những đe dọa về bảo mật khác.
 
 
 ;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
-<strong>Các plugin được cập nhật có những sự cải tiến</strong> giúp tạo một trang web tốt hơn và an toàn hơn</strong> cho bạn.
+Những plugin được cập nhật đi kèm những nâng cấp giúp cho bạn duyệt web <strong>tốt hơn và an toàn hơn</strong>.
 
 
 # alt image
 ;Screenshot of Add-Ons manager
-Ảnh chụp màn hình của trình quản lý add-on
+Ảnh chụp màn hình của trình Quản lý tiện ích
 
 
 ;How can Firefox help me?
@@ -177,27 +177,27 @@ Làm thế nào Firefox có thể giúp tôi?
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
-Trong tương lai, Firefox sẽ cập nhật các plugin cho bạn. Cho đến lúc đó, bạn phải thường xuyên vào trang này và cập nhật các plugin của bạn để web được an toàn hơn.
+Trong tương lai, Firefox sẽ cập nhật các plugin cho bạn. Cho đến lúc đó, bạn phải thường xuyên vào trang này và cập nhật các plugin của bạn để duyệt web an toàn hơn.
 
 
 ;Which Plugins do I have?
-Tôi đang có những phần bổ trợ nào?
+Tôi đang có những plugin nào?
 
 
 ;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
-Chúng tôi tự động dò các phần bổ trợ của bạn như trên, để xem các phần bổ trợ đã cài vào Firefox hãy làm theo các bước sau:
+Chúng tôi tự động phát hiện những plugin của bạn, để xem bạn đã cài plugin nào, xin hãy làm theo những bước sau:
 
 
 ;Want to spread the word?
-Bạn muốn chia sẻ trang này?
+Bạn muốn chia sẻ điều này?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Hãy giúp các bạn của mình an toàn khi trực tuyến! Tới <a href="%(url)s">Firefox Affiliates</a> để tải một plugin kiểm tra cho trang của bạn.
+Hãy giúp các bạn của mình duyệt web an toàn hơn! Truy cập <a href="%(url)s">Firefox Affiliates</a> để tải một plugin kiểm tra cho trang của bạn.
 
 
 ;How do I disable a plugin?
-Làm thế nào để tôi vô hiệu hóa một plugin?
+Làm thế nào để vô hiệu hóa một plugin?
 
 
 ;In Firefox:
@@ -210,7 +210,7 @@ Mở bảng chọn Công cụ.
 
 # If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 ;Open the <span class="menu">menu</span>.
-Open the <span class="menu">menu</span>.
+Mở <span class="menu">menu</span>.
 
 
 ;Choose Add-ons.
@@ -222,15 +222,15 @@ Nhấn vào thẻ plugin.
 
 
 ;Click on the drop down next to the plugin you wish to disable.
-Click on the drop down next to the plugin you wish to disable.
+Nhấn vào menu xổ ra cạnh plugin bạn muốn vô hiệu hóa.
 
 
 ;Click on a plugin in the list.
-Nhấn vào một plugin trên danh sách.
+Nhấn vào một plugin trong danh sách.
 
 
 ;Select "Never Activate" from the available choices.
-Select "Never Activate" from the available choices.
+Chọn "Không bao giờ kích hoạt".
 
 
 ;Click the Disable button.
@@ -238,11 +238,11 @@ Nhấn vào nút Vô hiệu hóa.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
-Cảnh báo: vô hiệu hóa một plugin đồng nghĩa với việc bạn sẽ không thể làm một số việc. Ví dụ, nếu bạn vô hiệu hóa Flash, bạn sẽ không thể xem các video trên YouTube.
+Chú ý: vô hiệu hóa một plugin đồng nghĩa với việc bạn sẽ không thể làm một số việc. Ví dụ, nếu bạn vô hiệu hóa Flash, bạn sẽ không thể xem video trên YouTube nữa.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
-Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
+Chú ý: vô hiệu hóa một plugin đồng nghĩa với việc bạn sẽ không thể làm một số việc. Ví dụ, nếu bạn vô hiệu hóa Flash, bạn sẽ không thể xem video trên các trang chia sẻ video nữa.
 
 
 ;Mozilla Support
@@ -254,6 +254,6 @@ Còn câu hỏi nào khác?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Vào trang <a href="%(sumo_url)s">support.mozilla.org</a> để được hộ trợ thêm!
+Hãy truy cập <a href="%(sumo_url)s">support.mozilla.org</a> để được hỗ trợ thêm!
 
 

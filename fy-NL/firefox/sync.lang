@@ -1,6 +1,7 @@
 ## active ##
 ## firefox_sync_non_fx ##
 ## firefox_sync_redesign ##
+## fx38_sync_updates ##
 ## ios_announce ##
 ## sync_new_markup ##
 ## NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/sync/
@@ -73,23 +74,23 @@ Begjin mei Sync yn fjouwer ienfâldige stappen:
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
-;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Iepenje it <a class="menu ga-link" href="%(url)s#w_een-handig-nieuw-menu">menu</a> rjochtsboppe yn Firefox en selektearje “<strong>Oanmelden by Sync</strong>”.
+;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select ‘<strong>Sign in to Sync.</strong>’
+Iepenje it <a class="menu ga-link" href="%(url)s#w_een-handig-nieuw-menu">menu</a> rjochtsboppe yn Firefox en selektearje ‘<strong>Oanmelden by Sync</strong>’.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
-;Click “<strong>Get started</strong>” in the tab that opens.
-Klik yn it ljepblêd dat iepene wurdt op “<strong>Begjinne</strong>”.
+;Click ‘<strong>Get started</strong>’ in the tab that opens.
+Klik yn it ljepblêd dat iepene wurdt op ‘<strong>Begjinne</strong>’.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
-;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Fier in e-mailadres en wachtwurd yn om “<strong>in Firefox-account oan te meitsjen.</strong>”
+;Enter an email address and password to ‘<strong>Create a Firefox Account.</strong>’
+Fier in e-mailadres en wachtwurd yn om ‘<strong>in Firefox-account oan te meitsjen.</strong>’
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
-;Click “<strong>Next</strong>” to get a verification sent to your email.
-Klik op “<strong>Folgjende</strong>” om in ferifikaasjekeppeling nei jo e-mail te ferstjoeren.
+;Click ‘<strong>Next</strong>’ to get a verification sent to your email.
+Klik op ‘<strong>Folgjende</strong>’ om in ferifikaasjekeppeling nei jo e-mail te ferstjoeren.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
@@ -149,27 +150,27 @@ Jo kieze hokker ûnderdielen fan jo Firefox jo syngronisearje wolle en wêr't jo
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+Wolle jo iepen ljepblêden fan jo kompjûter fanôf in oar apparaat besykje? Underweis jo navigaasjeskiednis benaderje? Jo wachtwurden meinimme? Dat kin no.
 
 
 ;Here’s what you can sync:
-Here’s what you can sync:
+Dit kinne jo syngronisearje:
 
 
 ;Bookmarks
-Bookmarks
+Blêdwizers
 
 
 ;Passwords
-Passwords
+Wachtwurden
 
 
 ;Open tabs
-Open tabs
+Iepen ljepblêden
 
 
 ;History
-History
+Skiednis
 
 
 ;At home
@@ -177,7 +178,7 @@ Thús
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Gean fan jo kantaor nei de bank sûnder mar wat te missen. Benaderje jo iepen ljepblêden op jo snoadfoan, of besjoch jo blêdwizers fanôf jo tablet.
+Gean fan jo kantoar nei de bank sûnder mar wat te missen. Benaderje jo iepen ljepblêden op jo snoadfoan, of besjoch jo blêdwizers fanôf jo tablet.
 
 
 ;At work
@@ -197,15 +198,15 @@ Hâld jo favorite websites by, of foltogje it ferhaal dat jo thús begûn – w�
 
 
 ;Add Firefox to your smartphone or tablet
-Add Firefox to your smartphone or tablet
+Foegje Firefox ta oan jo snoadfoan of tablet
 
 
 ;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
-To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
+Download Firefox foar iOS of Android en ferbyn al jo apparaten foar in folsleine Sync-ûnderfining – oeral wêr't jo Firefox brûke.
 
 
 ;Add Firefox
-Add Firefox
+Firefox tafoegje
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
@@ -231,28 +232,28 @@ Begjin mei it gebrûk fan Sync. It is fluch, feilich en ienfâldich:
 
 
 # Used in old page, do not remove
-;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Iepenje it <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> rjochtsboppe yn Firefox en selektearje “<strong>Oanmelde by Sync</strong>”.
+;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select ‘<strong>Sign in to Sync.</strong>’
+Iepenje it <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> rjochtsboppe yn Firefox en selektearje ‘<strong>Oanmelde by Sync</strong>’.
 
 
 # Used in old page, do not remove
-;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
-Iepenje it <a href="%(url)s#w_a-handy-new-menu">menu</a> rjochtsboppe yn Firefox en selektear “Oanmelde by Sync”.
+;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select ‘Sign in to Sync.’
+Iepenje it <a href="%(url)s#w_a-handy-new-menu">menu</a> rjochtsboppe yn Firefox en selektear ‘Oanmelde by Sync’.
 
 
 # Used in old page, do not remove
-;Click “Get started” in the tab that opens.
-Klik yn it ljepblêd dat iepene wurdt op “Begjinne”.
+;Click ‘Get started’ in the tab that opens.
+Klik yn it ljepblêd dat iepene wurdt op ‘Begjinne’.
 
 
 # Used in old page, do not remove
-;Enter an email address and password to “Create a Firefox Account.”
+;Enter an email address and password to ‘Create a Firefox Account.’
 Fier in e-mailadres en wachtwurd yn om in Firefox-account oan te meitsjen.
 
 
 # Used in old page, do not remove
-;Click “Next” to get a verification sent to your email.
-Klik op “Folgjende” om in ferifikaasjekeppeling per e-mail ferstjoere te litten.
+;Click ‘Next’ to get a verification sent to your email.
+Klik op ‘Folgjende’ om in ferifikaasjekeppeling per e-mail ferstjoere te litten.
 
 
 # Used in old page, do not remove

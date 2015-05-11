@@ -69,7 +69,7 @@ Get started with Sync in four easy steps:
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+பயர்பாக்ஸின் வலது மேல் மூலையில் உள்ள <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">பட்டியை</a> திறந்து “<strong> நுழைந்து ஒத்திசைவை ஆரம்பியுங்கள்.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -232,7 +232,7 @@ To get the full Sync experience, take your Web with you everywhere you use Firef
 
 # Used in old page, do not remove
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
-Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
+பயர்பாக்ஸ் வலது மேல் மூலையில் உள்ள <a href="%(url)s#w_a-handy-new-menu">பட்டியை</a> திறந்து "ஒத்திசைவை செய்ய உள்நுழை” என்பதை தேர்ந்தெடுங்கள்.
 
 
 # Used in old page, do not remove
@@ -247,7 +247,7 @@ Enter an email address and password to “Create a Firefox Account.”
 
 # Used in old page, do not remove
 ;Click “Next” to get a verification sent to your email.
-Click “Next” to get a verification sent to your email.
+“அடுத்து” என்பதைச் சொடுக்குவதன் மூலம் உறுதிப்படுத்தலை உங்கள் மின்னஞ்சலிற்கு அனுப்பிக்கொள்ளுங்கள்.
 
 
 # Used in old page, do not remove

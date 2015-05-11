@@ -1,4 +1,4 @@
-## active ##
+﻿## active ##
 ## firefox_sync_non_fx ##
 ## firefox_sync_redesign ##
 ## ios_announce ##
@@ -27,7 +27,7 @@ Llévate la Web contigo
 
 
 ;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
-Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
+<b>Sync</b>roniza tus marcadores, contraseñas, pestañas y mucho más con tu cuenta de Firefox, y accede a ellos donde quieras.
 
 
 ;It looks like you’re running an older version of Firefox.
@@ -74,22 +74,22 @@ Comienza con Sync en cuatro cómodos pasos:
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Abre el <a class="menurev ga-link" href="%(url)s#w_un-nuevo-menaj-maas-accesible">menú</a> de la parte superior de Firefox y selecciona '<strong>Conectarse a Sync</strong>'.
+Abre el <a class="menurev ga-link" href="%(url)s#w_un-nuevo-menaj-maas-accesible">menú</a> de la parte superior de Firefox y selecciona “<strong>Conectarse a Sync</strong>”.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-En la pestaña que se abre, haz clic en '<strong>Comenzar</strong>'.
+En la pestaña que se abre, haz clic en “<strong>Comenzar</strong>”.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Escribe una dirección de correo y una contraseña para '<strong>Crear una cuenta de Firefox</strong>'.
+Escribe una dirección de correo y una contraseña para “<strong>Crear una cuenta de Firefox</strong>”.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Haz clic en '<strong>Siguiente</strong>' para que enviemos un correo de verificación a tu dirección.
+Haz clic en “<strong>Siguiente</strong>” para que enviemos un correo de verificación a tu dirección.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
@@ -149,27 +149,27 @@ Tú eliges qué partes de Firefox quieres sincronizar y dónde quieres sincroniz
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+¿Quieres visitar las pestañas abiertas de tu equipo desde otro dispositivo? ¿Acceder al historial de navegación mientras te desplazas a otro lugar? ¿Tener a mano tus contraseñas? Ahora puedes.
 
 
 ;Here’s what you can sync:
-Here’s what you can sync:
+Puedes <strong>syc</strong>ronizar todo esto:
 
 
 ;Bookmarks
-Bookmarks
+Marcadores
 
 
 ;Passwords
-Passwords
+Contraseñas
 
 
 ;Open tabs
-Open tabs
+Pestañas abiertas
 
 
 ;History
-History
+Historial
 
 
 ;At home
@@ -197,15 +197,15 @@ Sigue la actualidad de tus sitios favoritos o termina esa historia que comenzast
 
 
 ;Add Firefox to your smartphone or tablet
-Add Firefox to your smartphone or tablet
+Añade Firefox a tu <em>smartphone</em> o tableta
 
 
 ;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
-To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
+Para disfrutar de la experiencia Sync al máximo, descárgate Firefox para iOS o Android y conecta todos tus dispositivos. Llévate Firefox adonde quieras.
 
 
 ;Add Firefox
-Add Firefox
+Añadir Firefox
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
@@ -257,7 +257,7 @@ Haz clic en 'Siguiente' para que enviemos un correo de verificación a tu direcc
 
 # Used in old page, do not remove
 ;Check your email and click the verification link.
-Comprueba tu correo y haz clic en el enlace de verificación.
+Revisa tu correo y haz clic en el enlace de verificación.
 
 
 # Used in old page, do not remove
@@ -282,6 +282,6 @@ Descarga Firefox para Android y sincroniza tus dispositivos móviles y de escrit
 
 # Used in old page, do not remove
 ;Get it free from Google Play
-Obtenlo gratis en Google Play
+Consíguelo gratis en Google Play
 
 

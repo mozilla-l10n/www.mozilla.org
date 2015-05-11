@@ -5,17 +5,17 @@ Navigacija
 # Firefox family navigation menu. Main level item.
 # Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>za</span> desktop
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>za</span> Android
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+<span>za</span> iOS
 
 
 # Firefox family navigation menu. Main level item.
@@ -26,12 +26,12 @@ OS {ok}
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+Za stolna i prijenosna računala
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+Za telefone i tablete
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -61,17 +61,17 @@ Informacije
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+Uređaji
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+Za partnere
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+Aplikacije
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -81,23 +81,23 @@ Do Not Track {ok}
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+Pločice
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+Nadzorna ploča interesa
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+Developer Edition {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+Privatno pretraživanje
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -107,17 +107,17 @@ Trebate pomoć?
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+Vijesti
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+Za programere
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+Pronađi moj uređaj
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -127,12 +127,12 @@ Razvijatelji
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Odaberite nezavisnog preglednika
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox je neprofitan, nezavisan, beskompromisan. Odabir Firefoxa nije samo odabir preglednika. To je glas za osobnu slobodu.
 
 
 ;Donate
@@ -415,7 +415,7 @@ Prava nad dijelovima ovog sadržaja (©1998–%(current_year)s) zadržali su ind
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+Doprinesite ovoj stranici
 
 
 # Footer string
@@ -575,7 +575,7 @@ Forumi
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+Vodstvo
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -737,10 +737,10 @@ Prosinac
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox uskoro dolazi na iOS! <a href="{url}">Pretplatite se da biste saznali više</a>.
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+Čestitamo, ažurni ste!
 
 

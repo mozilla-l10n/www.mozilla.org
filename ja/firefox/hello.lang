@@ -33,6 +33,16 @@ Firefox Hello の詳細な説明。どこの誰とでも無料でつながるビ
 Firefox Hello を起動
 
 
+# This string is displayed to users of Firefox 38 ESR, where Hello is not available
+;You need a different version of Firefox to use Hello.
+You need a different version of Firefox to use Hello.
+
+
+# This string is used as a button label, displayed to users of Firefox 38 ESR to download an updated version of Firefox
+;Try it now
+Hello を使ってみる
+
+
 ;All you need is Firefox
 <span style="display:inline-block;">必要なのは</span> <span style="display:inline-block;">Firefox だけ</span>
 

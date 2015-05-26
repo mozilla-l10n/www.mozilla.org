@@ -1,322 +1,729 @@
 ## active ##
-## NOTE: this page is obsolete, translate firefox/os/index-new.lang
+## mwc_2015 ##
+## NOTE: demo server for MWC 2015 updates available at https://www-dev.allizom.org/firefox/partners/
 
 
-# alt text on Firefox logo
-;Get Firefox OS
-Obtén Firefox&nbsp;OS
-
-
-;The Adaptive Phone
-El teléfono adaptativo
-
-
-;The Features
-Las características
-
-
-;The Mission
-La misión
-
-
-;The Devices
-Los dispositivos
-
-
-# top button
-;Get a phone
-Obtener un teléfono
-
-
-# Icon bar item
-;Social
-Social{ok}
-
-
-# Icon bar item
-;Photos
-Fotos
-
-
-# Icon bar item
-;Music
-Música
-
-
-# Icon bar item
-;Maps
-Mapas
-
-
-# Icon bar item. This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
-;Dual SIM
-Dual SIM
-
-
-# Icon bar item
-;Messages
-Mensajes
-
-
-# Icon bar item
-;Marketplace
-Marketplace {ok}
-
-
-;Make every <br>moment count
-Haz que cada momento cuente
-
-
-;Your needs change from one moment to the next. That’s why Firefox OS does the same. It gives you the power to live every moment to its fullest and participate in a better world.
-Tus necesidades cambian constantemente y Firefox&nbsp;OS cambia contigo. Te da el poder de vivir cada momento al máximo y participar en un mundo mejor.
-
-
-# Button
-;Get a Firefox OS smartphone today
-Obtener hoy un teléfono inteligente Firefox&nbsp;OS
-
-
-;Sign up for our monthly newsletter and get the latest on Firefox OS
-Suscríbete a nuestro boletín mensual para recibir las últimas noticias sobre Firefox&nbsp;OS
-
-
-;It adapts, so you <br>can too
-Se adapta para que tú también puedas hacerlo
-
-
-;Firefox OS anticipates your needs, adapts to every situation and instantly delivers the <br>information you want.
-Firefox OS se anticipa a tus necesidades, se adapta a todas las situaciones y te proporciona al instante la información que quieres.
-
-
-;That includes popular, big name apps, but also local content that means the most to you and your life.
-Esto incluye aplicaciones populares y conocidas, pero también contenido local que es de importancia para ti y significativo en tu vida.
+# <title> tag
+;Firefox OS, Marketplace, Android — Partners
+Firefox OS, Marketplace, Android — Socios
 
 
 # Title
-;Adaptive App Search
-Búsqueda de aplicaciones que se adapta a ti
+;Get involved
+Involúcrate
 
 
-;Type a word or subject you’re interested in
-Escribe una palabra o un tema que te interese
+# Sub-title
+;Contact our business development team to get on board.
+Contacta con nuestro equipo de desarrollo de negocio para unirte a nosotros.
 
 
-;Find exactly what you want — and more
-Encuentra exactamente lo que quieres y más
+# Field
+;First Name
+Nombre
 
 
-;Get instant access or save apps to your phone
-Obtén acceso inmediato a aplicaciones o guárdalas en tu dispositivo
+# Field
+;Last Name
+Apellidos
 
 
-;Discover more apps on Firefox Marketplace
-Descubre más aplicaciones en Firefox Marketplace
+# Field, e.g. president, CEO...
+;Title
+Puesto
 
 
-# Title
-;Have it all
-Puedes tenerlo todo
+# Field
+;Company
+Compañía
 
 
-;Firefox OS is packed with the features that made you want a smartphone in the first place. It fits your life perfectly so you can fit in with the world around you.
-Firefox&nbsp;OS dispone de todas las características que desde siempre te han hecho desear tener un teléfono inteligente. Se adapta a tu vida perfectamente para que tú puedas adaptarte al mundo que te rodea.
+# Field
+;Website
+Sitio web
 
 
-# Title
-;Made for the moments of your life
-Creado para los mejores momentos de tu vida
+# Field
+;Email
+Email {ok}
 
 
-# Title
-;Moments with friends
-Momentos para compartir con tus amigos
+# Form field
+;Phone
+Teléfono
 
 
-;Import your contacts directly from Facebook and share updates instantly.
-Puedes importar tus contactos directamente desde Facebook y compartir actualizaciones al instante.
+# Form field
+;Interest:
+Interés:
 
 
-# title
-;Creative moments
-Momentos para crear
+# Specific interest
+;Firefox for Android
+Firefox para Android
 
 
-;Take photos on the go then make them amazing using built-in style filters.
-Toma fotos sobre la marcha y hazlas espectaculares usando los filtros de estilo integrados.
+# Specific interest
+;Other
+Otro
 
 
-# Title
-;Moments that entertain
-Momentos para entretenerte
+# Tooltip for selected options
+;Interest
+Interés
 
 
-;Listen to your favorite songs, artists and radio stations, all from one device.
-Escucha tus canciones, artistas y emisoras de radio favoritas desde un único dispositivo.
+# Submit button text
+;Submit my request
+Enviar mi solicitud
 
 
-# Title
-;Moments in between
-Momentos para acompañarte
+;Thanks for your interest in partnering with us
+Gracias por tu interés en asociarte con nosotros
 
 
-;Get to where you’re going with directions, traffic and local transit information.
-Llega a tu destino con indicaciones de dirección e información de tráfico y tránsito local.
+;We will review your request and get back to you about possibilities and opportunities soon.
+Revisaremos tu solicitud y nos pondremos en contacto contigo muy pronto para valorar las diferentes posibilidades y oportunidades.
 
 
-# Title: This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
-;Moments of choice
-Moments of choice
+# Top menu item
+;Overview
+Inicio
 
 
-# Title: This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
-;Take full control of calls and messages with dual SIM and dual standby functionality.
-Take full control of calls and messages with dual SIM and dual standby functionality.
+# Text on the left, on top of the Firefox logo
+;Explore the site
+Explora el sitio
 
 
-# Title
-;Moments of connection
-Momentos para conectar
+# Page title
+;Unleash the future
+Desencadena el futuro
 
 
-;Stay in touch with family and friends by email and text message.
-Sigue en contacto con tus amigos y familiares por correo electrónico y mensajes de texto.
+# Page description (meta tag)
+;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
+Estamos haciendo posible que tanto operadores, fabricantes de telefonía como desarrolladores gestionen, personalicen y mejoren sus relaciones con los clientes directamente gracias a nuestros productos para dispositivos móviles: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> y <a %(url3)s>Firefox para Android</a>.
 
 
-# Title
-;Moments of discovery
-Momentos para descubrir
+;Firefox OS has brought openness, accessibility and opportunity to 29 countries with more than 50 launches and 14 global operators — and that momentum continues in 2015.
+Firefox OS ha llevado la apertura, la accesibilidad y la oportunidad a 29 países, con más de 50 lanzamientos y 14 operadores: y ese impulso continúa en 2015.
 
 
-;Find the best apps from around the world and your own backyard.
-Encuentra las mejores aplicaciones de todo el mundo y de tu entorno más cercano.
+;See what’s next for mobile with <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
+Descubre las novedades para dispositivos móviles con <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> y <a %(url3)s>Firefox para Android</a>.
 
 
-# Title
-;Transform the future
-Cambia el futuro
+;See more partners
+Ver más socios
 
 
-;We’re out to make a difference, not a profit. When you choose Firefox OS, you’re helping build a brighter future for the Web and users everywhere.
-Nuestro objetivo es marcar la diferencia, no obtener beneficios. Cuando eliges Firefox&nbsp;OS, estás contribuyendo en la construcción de un futuro mejor para Internet y sus usuarios en todo el mundo.
+;Recent news
+Últimas noticias
 
 
-# Title
-;From our community to yours
-De nuestra comunidad a la tuya
+# press release in English/Polish/French/Spanish/Portuguese/Italian, if your locale is not covered, you choose if you keep it in English or not
+;Firefox OS Unleashes the Future of Mobile
+Firefox OS te desvela el futuro de los dispositivos móviles
 
 
-;Most smartphones are made by a small number of people, all in one place, probably pretty far from where you live. Firefox OS phones are different. They’re made by a huge global community and are the only smartphones that understand and deliver what you want and need.
-La producción de la mayoría de teléfonos inteligentes suele concentrarse en un grupo reducido de personas y en un mismo lugar. Probablemente, bastante lejos de donde tú vives. Los teléfonos Firefox&nbsp;OS son muy diferentes. Creados por una gran comunidad global, son los únicos teléfonos inteligentes que entienden y ofrecen todo lo que tú quieres y necesitas.
-
-
-# Title
-;The best of the Web
-Lo mejor de la Web
-
-
-;Firefox changed browsing forever by putting users first and offering a new level of choice and innovation online. Now we’re doing it all over again with Firefox OS, while bringing the same superior browsing experience to your smartphone. So you can take control of your life online and get the best the Web has to offer no matter where you go.
-Firefox hizo posible un nuevo paradigma en el que se da prioridad a los usuarios y se ofrece un nuevo nivel de elección e innovación en Internet, cambiando la navegación para siempre. Ahora volvemos a hacerlo de nuevo con Firefox&nbsp;OS, llevando esta misma experiencia mejorada de navegación a tu teléfono inteligente. De esta forma, puedes tener el control sobre tu vida digital y obtener lo mejor de la Web sin importar donde estés.
-
-
-# Title
-;For partners &amp; developers:
-Para socios y desarrolladores:
-
-
-;Learn about partnership opportunities <a href="%(link)s">Visit the Firefox OS partner site</a>
-Infórmate sobre cómo puedes asociarte <a href="%(link)s"> Visita la página web de socios de Firefox&nbsp;OS</a>
-
-
-;Get your app on Firefox OS <a href="%(link)s">Submit it to Firefox Marketplace</a>
-Incluye tu aplicación en Firefox OS <a href="%(link)s">Envíala a Firefox Marketplace</a>
+# This is used as a button label that links to https://mobilepartners.mozilla.org/
+;Be a partner
+Sé nuestro socio
 
 
 # Title
-;For users:
-Para usuarios:
+;Just what your customers need
+Justo lo que tus clientes necesitan
 
 
-;In case you need a little help <a href="%(link)s">Get it from your friends at Mozilla Support</a>
-Si necesitas que te ayuden <a href="%(link)s">Pregunta a tus amigos de la Ayuda de Mozilla</a>
+;Easy to use. Easy to customize. Firefox OS is an open platform that fosters greater participation in the value chain.
+Fácil de usar. Fácil de personalizar. Firefox OS es una plataforma abierta que promueve una mayor participación en la cadena de valor.
 
 
-;All your questions will be answered <a href="%(link)s">Read our extra helpful FAQ</a>
-Responderemos a todas tus preguntas <a href="%(link)s">Lee nuestras superútiles FAQ</a>
+# Title
+;The Web is the platform
+La Web es la plataforma
 
 
-# image alt text
-;Email app
-Aplicación de correo electrónico
+;Firefox OS is an independent alternative ecosystem free from the rules and restrictions of existing proprietary platforms.
+Firefox OS es un ecosistema alternativo, independiente y libre de las normas y restricciones que caracterizan a las plataformas patentadas existentes.
 
 
-# image alt text
-;Contacts app
-Aplicación de contactos
+;Our partners are industry leaders that have realized the value that a differentiated offering can bring to their target markets.
+Nuestros socios son líderes de la industria que se han dado cuenta del valor que una oferta diferenciada puede aportar a sus mercados objetivo.
 
 
-# image alt text
-;Messages app
-Aplicación de mensajería
+# Title
+;Made by Firefox
+Hecho por Firefox
 
 
-# image alt text
-;Camera app
-Aplicación de cámara
+;For the past 15 years, we’ve been instrumental in innovating and shaping the Web to keep it open and accessible to all. As a result of our efforts, one fifth of all Web activity today happens through Firefox products.
+Durante los últimos 15 años hemos desempeñado un papel decisivo en la innovación y la transformación de la Web para que continúe siendo abierta y accesible para todos. Como resultado de nuestros esfuerzos, hoy en día una quinta parte de toda la actividad de la Web se genera a través de los productos Firefox.
 
 
-# image alt text
-;Facebook app
-Aplicación de Facebook
+# Main title of the FxOS - Operators & Manufacturers section
+;The Open Web advantage
+La ventaja de la Web abierta
 
 
-# image alt text
-;Maps app
-Aplicación de mapas
+# List title
+;With Firefox OS you can:
+Con Firefox OS puedes:
 
 
-# image alt text
-;Photos app
-Aplicación de imágenes
+# List item
+;Create unique user experiences to deliver on specific market needs
+Crear experiencias de usuario únicas para dar respuesta a las necesidades de un mercado concreto.
 
 
-# image alt text
-;Music app
-Aplicación de música
+# List item
+;Own and control your relationship with your consumers
+Tener el control de la relación con tus clientes.
 
 
-# image alt text
-;Radio app
-Aplicación de radio
+# List item
+;Explore alternative business models
+Explorar modelos alternativos de negocio.
 
 
-;We work with a number of providers to offer Firefox OS on a variety of devices.
-Trabajamos con una serie de proveedores para ofrecerte Firefox&nbsp;OS en una amplia gama de dispositivos.
+# List item
+;Stimulate increased Internet use
+Estimular cada vez más el uso de Internet.
 
 
-# Case 1: There are several phone providers
-;Choose one from the list below to get a Firefox OS smartphone in your country.
-Elige uno de la lista para obtener un teléfono Firefox&nbsp;OS en tu país.
+# List item
+;Level the playing field against other OS and marketplace providers
+Equilibrar las reglas de juego frente a otros proveedores de SO y mercados de aplicaciones.
 
 
-# Case 2: There is only one provider in the country
-;Click on the provider below to get a Firefox OS smartphone in your country.
-Haz clic en el proveedor para conseguir un teléfono Firefox&nbsp;OS en tu país.
+# Title
+;Firefox OS at home
+Firefox OS en casa
 
 
-;Sign up for our monthly newsletter
-Suscríbete a nuestro boletín mensual
+;The power of the Web is coming to Panasonic TVs later this year
+A lo largo de este año el poder de la Web va a llegar a los televisores Panasonic
 
 
-;Thank you for signing up!
-¡Gracias por suscribirte!
+# Title
+;HTML5 apps for all
+Apps HTML5 para todos
 
 
-# Page <title> tag, also used for search engines
-;Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More
-Firefox OS — El teléfono adaptativo — Grandes características, aplicaciones y mucho más para teléfonos inteligentes
+;Discover a new way to participate in an ecosystem that features the world’s most popular apps as well as more relevant, targeted content to suit your customers’ local needs.
+Descubre una nueva forma de participar en un ecosistema que dispone de las aplicaciones más populares del mundo, así como de contenidos relevantes y orientados a satisfacer las necesidades de tus clientes.
 
 
-;View the version notes <a href="%(link)s">Read about features, changes and more</a>
-Lee las notas de la versión <a href="%(link)s">Infórmate sobre las características, los cambios y mucho más</a>
+# Title
+;Your own business model
+Tu propio modelo de negocio
+
+
+;Grow your business by combining your own customer payment plans with our open source service offerings. Customize purchasing and app experiences to meet your specific needs and reach new markets.
+Haz crecer tu negocio integrando tus propios planes de pago para clientes con nuestras ofertas de servicios de código abierto. Personaliza el proceso de adquisición y compra para dar respuesta a tus necesidades concretas y llegar a nuevos mercados.
+
+
+# Title
+;Revolutionary content discovery
+Descubrimiento revolucionario de contenidos
+
+
+;App experts and Mozilla community members from all over the world help identify relevant content on the Firefox Marketplace. This ensures that your customers can easily find the content that matters most to them.
+Expertos en apps y miembros de la comunidad Mozilla de todo el mundo ayudan a identificar contenidos relevantes en Firefox Marketplace, lo que garantiza que tus clientes tengan la facilidad de encontrar aquellos contenidos que más le interesan.
+
+
+# Title
+;Testimonials
+Testimonios
+
+
+;See what Box, SoundCloud and others have to say
+Mira lo que Box, SoundCloud y algunos otros tienen que decir
+
+
+# Title
+;Join the Conversation
+Únete a la conversación
+
+
+;Follow @firefoxapps on Twitter
+Sigue a @firefoxapps en Twitter
+
+
+;Read more on the Apps Blog
+Infórmate de todo en el blog sobre apps
+
+
+# Main title of the Marketplace - Operators & Manufacturers section
+;A direct path to your customers
+El camino directo a tus clientes
+
+
+# List title
+;Marketplace offers:
+Marketplace ofrece:
+
+
+# List item
+;Operator billing that lets you participate in the mobile ecosystem and develop direct relationships with end users
+La facturación de operador que te permite participar en el ecosistema móvil y desarrollar relaciones directas con usuarios finales.
+
+
+# List item
+;An operator shelf where you can promote your messaging, content and app collections relevant to your customers and markets
+Una plataforma de operador en la que puedes promocionar tus comunicaciones, contenidos y colecciones de apps relevantes para tus clientes y mercados.
+
+
+# List item
+;A unique content discovery mechanism with fresh, regularly-updated, relevant apps micro-targeted to meet customers’ local needs
+Un exclusivo mecanismo de descubrimiento de contenidos con apps innovadoras, relevantes y que se actualizan con frecuencia, dirigidas a dar respuesta a las necesidades locales de los clientes.
+
+
+# List item. Tier 1 developers = very famous developers from top companies
+;Commitment from well-known, tier 1 developers
+Compromiso por parte de desarrolladores muy conocidos y de primer nivel.
+
+
+# List item
+;Lower barriers to entry for local app developers in both resource and cost
+Fácil acceso para los desarrolladores de aplicaciones locales tanto en recursos como en costes.
+
+
+# Title
+;Become a Marketplace developer
+Conviértete en desarrollador de Marketplace
+
+
+# List item
+;Apps that customers can discover easily and access across multiple platforms, devices and operating systems
+Apps que los clientes pueden descubrir fácilmente desde multitud de plataformas, dispositivos y sistemas operativos.
+
+
+# List item
+;Flexible business models, including advertising and multiple payment monetization options that make in-app payments simple
+Modelos de negocio flexibles, entre ellos publicidad e infinidad de opciones de monetización que facilitan los pagos en la aplicación.
+
+
+# List item
+;Optional carrier billing in regional currencies
+Facturación opcional de telefonía móvil en divisas regionales.
+
+
+# List item
+;The ability to connect with hundreds of millions of Firefox users and supporters around the world
+La posibilidad de conectar con cientos de millones de personas de todo el mundo que apoyan Firefox.
+
+
+# List item
+;Access to relatively untapped markets
+Acceso a mercados relativamente poco explotados.
+
+
+# Title
+;Developer hub
+Centro de Desarrolladores
+
+
+;Learn how to make HTML5 apps for an open marketplace
+Aprende a hacer apps HTML5 para un mercado abierto
+
+
+# Title
+;Have an app?
+¿Tienes una app?
+
+
+;Submit it to Firefox Marketplace today
+Envíala a Firefox Marketplace hoy
+
+
+# Title
+;A superior mobile experience
+Una experiencia móvil superior
+
+
+;With connected features and the latest in security and privacy, our top-rated browser offers an alternative to closed platforms and provides a valuable way to connect with smartphones and tablets users alike.
+Con características conectadas y lo último en seguridad y privacidad, nuestro navegador, uno de los mejor valorados, ofrece una alternativa a las plataformas cerradas y proporciona una forma valiosa de conectar con <i>smartlphones</i> y <i>tablets</i>.
+
+
+# Title
+;Customize relationships
+Personaliza las relaciones
+
+
+;Provide your users with your own flavor of Firefox for Android and Firefox Marketplace for a more engaging user experience that increases the visibility of your brand.
+Proporciona a tus usuarios un sabor inigualable de Firefox para Android y Firefox Marketplace que les va a ofrecer una experiencia de usuario apasionante y va a aumentar la visibilidad de tu marca.
+
+
+# Title
+;Create new value
+Genera nuevo valor
+
+
+;Step into the Firefox ecosystem to take advantage of opportunities like Firefox Marketplace and WebRTC. You can display new Web content or integrate into your customer’s living room to create new, platform-independent offerings.
+Adéntrate en el ecosistema Firefox y aprovecha las oportunidades de servicios como Firefox Marketplace y WebRTC. Puedes mostrar nuevos contenidos web o integrarlos en el salón de tu cliente para crear ofertas innovadoras e independientes de plataformas.
+
+
+;Learn more about partner opportunities.
+Descubre más sobre las oportunidades para socios.
+
+
+# Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
+;Stand out <br>from the crowd
+Sé diferente al resto
+
+
+;Take advantage of our differentiated offering, strong brand and customer love for the Firefox ecosystem to drive sales and data usage.
+Aprovecha nuestra oferta diferenciada, nuestra potente marca y el amor de nuestros clientes por el ecosistema Firefox para impulsar las ventas y el consumo de datos.
+
+
+# List Title
+;Firefox for Android lets you:
+Firefox para Android te permite:
+
+
+# List item sub-title
+;Customize the experience
+Personalizar la experiencia
+
+
+;Add your brand and content to increase customer touchpoints, improve retention and drive future sales.
+Añade tu marca y tus contenidos para aumentar el contacto con los clientes, mejorar la fidelización y aumentar las ventas en un futuro.
+
+
+# List item sub-title
+;Build new differentiated offerings
+Crear nuevas ofertas diferenciadas
+
+
+;Integrate services directly into the browser to free yourself from the constraints of proprietary platforms.
+Integra servicios directamente en el navegador y libérate de las limitaciones de las plataformas patentadas.
+
+
+# List item sub-title
+;Step into the Firefox ecosystem
+Adéntrate en el ecosistema Firefox
+
+
+;Leverage the Firefox Marketplace, WebRTC technology, direct customer billing support, search enhancements, new Firefox cloud services and more.
+Saca partido de Firefox Marketplace, la tecnología WebRTC, la asistencia técnica para la facturación directa al cliente, mejoras en la búsqueda, nuevos servicios Firefox en la nube y mucho más.
+
+
+;Partner Opportunities
+Oportunidades para socios
+
+
+;For Developers
+Para desarrolladores
+
+
+;For Operators & Manufacturers
+Para operadores y fabricantes
+
+
+;Mobile
+Dispositivos móviles
+
+
+;Firefox Marketplace — Developer testimonials
+Firefox Marketplace: testimonios de desarrolladores
+
+
+;Get it on Google Play
+Obtenlo en Google Play
+
+
+# altenate text on an image
+;Mobile World Congress 2014
+Mobile World Congress 2014 {ok}
+
+
+# Press title in Recent News
+;Watch our wrap-up video from Mobile World Congress 2013
+Mira nuestro vídeo resumen del Mobile World Congress 2013
+
+
+# Press title in Recent News
+;Mozilla and partners prepare to launch first Firefox OS smartphones
+Mozilla y sus socios se preparan para lanzar los primeros smartphones Firefox&nbsp;OS
+
+
+# Line break below is presentational only
+;Watch the daily <br>MWC video recap
+Mira el vídeo <br>resumen diario del MWC
+
+
+# Line break below is presentational only, Fox Den should remain in English, it is a location at the event on the Mozilla stand
+;Fox Den &amp; other <br>MWC events
+Fox Den y otros <br> eventos en el MWC
+
+
+# Line break below is presentational only
+;Firefox tweets from <br>MWC in Barcelona
+Tuits de Firefox desde <br>MWC en Barcelona
+
+
+;View the version notes
+Lee las notas de la versión
+
+
+;Read about features, changes and more
+Infórmate sobre características, cambios y mucho más
+
+
+# Form field
+;Description
+Descripción
+
+
+# Form error message
+;Please enter your first name.
+Escribe tu nombre.
+
+
+# Form error message
+;Please enter your last name.
+Escribe tus apellidos.
+
+
+# Form error message
+;Please enter your company name.
+Escribe el nombre de tu compañía.
+
+
+# Form error message
+;Please supply a valid URL.
+Proporciona una URL válida.
+
+
+# Form error message
+;Please enter a valid email address
+Escribe una dirección de correo válida
+
+
+# Form, Physical address field (street, city...)
+;Address
+Dirección
+
+
+# Form field
+;City
+Ciudad
+
+
+# Form field
+;State/Province
+Estado/provincia
+
+
+# Form field
+;Country
+País
+
+
+# Form field, postal code
+;Zip
+Código postal
+
+
+# This will be a link visible on the page on February 23 to view demos on the Mozilla stand
+;Register for a session
+Inscríbete en una sesión
+
+
+# Used for accessibility on the menu button
+;Map
+Mapa
+
+
+# Title for the map overlay
+;Firefox at MWC 2015 &ndash; Hall 3, Stand 3C30
+Firefox en el MWC 2015 &ndash; Hall 3, Stand 3C30
+
+
+# Used for accessibility on the menu button
+;Schedule
+Programa
+
+
+# Title for the schedule overlay
+;Firefox at MWC 2015 &ndash; Schedule of Events
+Firefox en el MWC 2015 y programa de eventos
+
+
+;Download PDF
+Descargar PDF
+
+
+# Old version of the page (do not remove)
+;In our first year, we’ve brought openness, accessibility and opportunity to 15 countries with 4 hardware partners, 7 operators and 16 launches.
+En nuestro primer año, hemos llevado la apertura, la accesibilidad y la oportunidad a 15 países de la mano de 4 socios de hardware, 7 operadores y 16 lanzamientos.
+
+
+# Old version of the page (do not remove)
+;Partner with us
+Sé nuestro socio
+
+
+# Old version of the page (do not remove)
+;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
+Con el respaldo de una de las marcas más grandes de la industria, Firefox OS es una plataforma abierta que promueve una mayor participación en la cadena de valor. <a %(url)s>Infórmate sobre cómo puedes involucrarte</a> o <a href="%(url2)s">descubre qué significa para los consumidores</a>.
+
+
+# Old version of the page (do not remove)
+;View available Firefox OS devices
+Descubre los dispositivos Firefox OS disponibles
+
+
+# Old version of the page (do not remove)
+;Made of the Web
+Hecho con la Web
+
+
+# Old version of the page (do not remove)
+;Built entirely using HTML5 and other open Web standards, Firefox OS is free from the rules and restrictions of existing proprietary platforms.
+Desarrollado completamente con HTML5 y otros estándares web abiertos, Firefox OS está libre de las limitaciones y normas que imponen las plataformas patentadas existentes.
+
+
+# Old version of the page (do not remove)
+;The difference the Open Web makes
+La diferencia que marca la Web abierta
+
+
+# Old version of the page (do not remove)
+;Firefox OS offers:
+Firefox OS ofrece:
+
+
+# Old version of the page (do not remove)
+;A level playing field against other OS and marketplace providers
+Igualdad de condiciones y oportunidades para todos frente a otros sistemas operativos y proveedores de mercado;
+
+
+# Old version of the page (do not remove)
+;Greater participation in the value chain
+Mayor participación en la cadena de valor;
+
+
+# Old version of the page (do not remove)
+;Ownership and control over relationships with customers
+Propiedad y control de las relaciones con los clientes;
+
+
+# Old version of the page (do not remove)
+;Customized phones that meet the specific needs of various target markets
+Teléfonos personalizados que dan respuesta a las necesidades específicas de los distintos mercados objetivo.
+
+
+# Old version of the page (do not remove)
+;Contact our business development team to get on board
+Contacta con nuestro equipo de desarrollo de negocio para unirte a nosotros
+
+
+# Old version of the page (do not remove)
+;Discover a new way to participate in an ecosystem that features the world’s most popular apps as well as more relevant, targeted content to suit customers’ local needs. See how that can help <a %(url1)s>operators and manufacturers</a> as well as <a %(url2)s>developers</a>.
+Descubre una nueva forma de participar en un ecosistema que dispone de las aplicaciones más populares del mundo así como contenido relevante y enfocado a un público concreto para satisfacer sus necesidades. Mira cómo puede ayudar a <a %(url1)s>operadores, a fabricantes</a> y a <a %(url2)s>desarrolladores</a>.
+
+
+# Old version of the page (do not remove)
+;Your needs
+Tus necesidades
+
+
+# Old version of the page (do not remove)
+;Grow your business by combining your own customer payment plans with our open source service offerings, reach new markets and customize purchasing and app experiences to meet your specific needs.
+Haz crecer tu negocio integrando tus propios planes de pago para clientes con nuestras ofertas de servicios de código abierto. Llega a nuevos mercados y personaliza el proceso de adquisición y compra. Brinda experiencias con aplicaciones únicas que den respuesta a tus necesidades concretas.
+
+
+# Old version of the page (do not remove)
+;Our experience
+Nuestra experiencia
+
+
+# Old version of the page (do not remove)
+;Our proven track record of providing excellent user experiences and serving content to huge global audiences runs through everything we do. Our directory of add-ons serves content to hundreds of millions of users worldwide.
+Nuestra reconocida trayectoria en lo que se refiere a proporcionar excelentes experiencias de usuario y servir contenidos a grandes audiencias globales está muy presente en todo lo que hacemos. Nuestro directorio de complementos sirve contenidos a cientos de millones de usuarios de todo el mundo.
+
+
+# Old version of the page (do not remove)
+;The world’s largest developer community
+La mayor comunidad de desarrolladores del mundo
+
+
+# Old version of the page (do not remove)
+;Micro-targeted content for every use-case to meet customers’ local needs
+Contenido orientado a un tipo de cliente muy concreto para dar respuesta a sus necesidades;
+
+
+# Old version of the page (do not remove)
+;Apps that customers can access across multiple platforms, devices and operating systems
+Aplicaciones a las que los clientes pueden acceder desde multitud de plataformas, dispositivos y sistemas operativos;
+
+
+# Old version of the page (do not remove)
+;Flexible business models and multiple payment monetization options
+Modelos de negocio flexibles e infinidad de opciones de monetización;
+
+
+# Old version of the page (do not remove)
+;The ability to connect with hundreds of millions of Firefox supporters around the world
+La posibilidad de conectar con cientos de millones de personas de todo el mundo que apoyan Firefox;
+
+
+# Old version of the page (do not remove)
+;A superior Web experience
+Una experiencia web inigualable
+
+
+# Old version of the page (do not remove)
+;With high-performance, advanced cross-platform features and the latest in security, our top-rated browser offers an alternative to closed platforms, giving you the flexibility to design, distribute and charge as you see fit. <a %(url)s>Learn more about partner opportunities.</a>
+Gracias a sus avanzadas características multiplataforma de alto rendimiento y lo último en seguridad, nuestro navegador es uno de los mejor valorados y ofrece una alterativa a las plataformas cerradas, dándote la flexibilidad para diseñar, distribuir y monetizar como consideres oportuno. <a %(url)s>Más información sobre oportunidades para socios.</a>
+
+
+# Old version of the page (do not remove)
+;Strengthen customer relationships
+Fortalece las relaciones con los consumidores
+
+
+# Old version of the page (do not remove)
+;Create your own unique branded sections of Firefox for Android and Firefox Marketplace for a more engaging user experience and to increase the visibility of your brand.
+Crea tus propias secciones de marca únicas de Firefox para Android y Firefox Marketplace para ofrecer una experiencia de usuario apasionante y aumentar la visibilidad de tu marca.
+
+
+# Old version of the page (do not remove)
+;Create new value for both you and your users
+Crea un valor innovador para ti y tus usuarios
+
+
+# Old version of the page (do not remove)
+;Take advantage of service opportunities like Firefox Marketplace and WebRTC to create new, platform-independent offerings and establish direct customer billing.
+Benefíciate de las oportunidades de servicios como Firefox Marketplace y WebRTC para crear ofertas innovadoras e independientes de plataformas y establecer un sistema de facturación directa a tus clientes.
+
+
+# Old version of the page (do not remove)
+;Take advantage of our strong brand and service offerings to differentiate your product and drive sales.
+Benefíciate de la fortaleza de nuestra marca y ofertas de servicios para diferenciar tu producto y aumentar las ventas.
+
+
+# Old version of the page (do not remove)
+;Build new service offerings
+Crear nuevas ofertas de servicios
+
+
+# Old version of the page (do not remove)
+;Integrate services directly into the browser with Firefox Marketplace and WebRTC to free yourself from the constraints of proprietary platforms.
+Integra servicios directamente en el navegador con Firefox Marketplace y WebRTC, y libérate de las limitaciones de las plataformas patentadas.
+
+
+# Old version of the page (do not remove)
+;Direct customer billing
+Facturar directamente al consumidor
+
+
+# Old version of the page (do not remove)
+;Grow your business by combining your own customer payment plans with our open source service offerings.
+Haz crecer tu negocio integrando tus propios planes de pago para clientes con nuestras ofertas de servicios de código abierto.
 
 

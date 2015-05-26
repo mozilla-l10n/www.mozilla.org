@@ -624,13 +624,85 @@ Devam etmeden önce oturum açmanız istenecektir
 Gerek yok, e-postayı bekleyeceğim
 
 
-# Old form (temporarily used while we set up the new back-end)
+# The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
+# Strings have been copied from the old template (mozorg/contribute.lang)
+;Area of interest?
+İlgi alanınız?
+
+
+;Helping Users
+Kullanıcılara Yardım
+
+
+;Testing and QA
+Test ve Kalite Kontrolü
+
+
+;Marketing
+Pazarlama
+
+
+;Localization and Translation
+Yerelleştirme ve Çeviri
+
+
+;Web Development
+Web Geliştirme
+
+
+;Firefox Marketplace
+Firefox Marketplace {ok}
+
+
+;Add-ons
+Eklentiler
+
+
+;Visual Design
+Görsel Tasarım
+
+
+;Documentation and Writing
+Belgelendirme ve Yazım
+
+
+;Education
+Eğitim
+
+
+;Other
+Diğer
+
+
+;Hi, I’m interested in…
+Merhaba, ilgi alanım…
+
+
 ;Send us a note and we can get you started right away.
 Size uygun bir şeyler bulmamız için bize bilgi verin.
 
 
-# Old form (temporarily used while we set up the new back-end)
-;Hi, I’m interested in…
-Merhaba, ilgi alanım…
+;I have a suggestion for Firefox
+Firefox için bir önerim var
+
+
+;I need help with a Firefox issue
+Bir Firefox sorunuyla ilgili yardıma ihtiyacım var
+
+
+;Please enter a valid email address.
+Lütfen geçerli bir e-posta adresi girin.
+
+
+;You must agree to the privacy policy.
+Gizlilik ilkelerini kabul etmelisiniz.
+
+
+;Please select an area of interest.
+Lütfen bir ilgi alanı seçin.
+
+
+;Please tell us more about your interests.
+Lütfen bize ilgi alanlarınızdan bahsedin.
 
 

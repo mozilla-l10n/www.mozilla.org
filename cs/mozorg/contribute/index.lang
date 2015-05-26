@@ -624,13 +624,85 @@ Před pokračování budete dotázáni na přihlašovací údaje
 Ne, děkuji. Počkám na e-mail
 
 
-# Old form (temporarily used while we set up the new back-end)
+# The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
+# Strings have been copied from the old template (mozorg/contribute.lang)
+;Area of interest?
+Oblast zájmu?
+
+
+;Helping Users
+Pomoc uživatelům
+
+
+;Testing and QA
+Testování a zajišťování kvality
+
+
+;Marketing
+Marketing {ok}
+
+
+;Localization and Translation
+Lokalizace a překlady
+
+
+;Web Development
+Vývoj webu
+
+
+;Firefox Marketplace
+Firefox Marketplace {ok}
+
+
+;Add-ons
+Doplňky
+
+
+;Visual Design
+Vizuální návrh
+
+
+;Documentation and Writing
+Dokumentování a psaní článků
+
+
+;Education
+Vzdělávání
+
+
+;Other
+Ostatní
+
+
+;Hi, I’m interested in…
+Ahoj, zajímá mě ...
+
+
 ;Send us a note and we can get you started right away.
 Pošlete nám zprávu a můžeme ihned začít.
 
 
-# Old form (temporarily used while we set up the new back-end)
-;Hi, I’m interested in…
-Ahoj, zajímá mě ...
+;I have a suggestion for Firefox
+Mám nový nápad pro Firefox
+
+
+;I need help with a Firefox issue
+Potřebuji pomoci s Firefoxem
+
+
+;Please enter a valid email address.
+Zadejte prosím platnou e-mailovou adresu.
+
+
+;You must agree to the privacy policy.
+Musíte souhlasit se zásadami soukromí.
+
+
+;Please select an area of interest.
+Zvolte prosím oblast, která vás zajímá.
+
+
+;Please tell us more about your interests.
+Řekněte nám prosím více o svých zájmech.
 
 

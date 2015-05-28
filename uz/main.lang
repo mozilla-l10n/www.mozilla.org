@@ -5,17 +5,17 @@ Navigatsiya
 # Firefox family navigation menu. Main level item.
 # Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+Kompyuter <span>uchun</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+Android <span>uchun</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+iOS <span>uchun</span>
 
 
 # Firefox family navigation menu. Main level item.
@@ -26,12 +26,12 @@ OS {ok}
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+Kompyuter va notebooklar uchun
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+Telefonlar va planshetlar uchun
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -61,17 +61,17 @@ Biz haqimizda
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+Qurilmalar
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+Hamkorlar uchun
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+Ilova dasturlar
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -81,18 +81,18 @@ Kuzatmang
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+Kataklar
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+Qiziqish boshqaruv paneli
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+Developer Edition {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -107,12 +107,12 @@ Yordam kerakmi?
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+Yangiliklar
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+Dasturchilar uchun
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -127,12 +127,12 @@ Dasturchilar
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Mustaqil brauzerni tanlang
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox - notijorat, nokorporativ, siquvlarsiz dasturiy ta’minot. Firefox brauzerini tanlash faqat brauzerni tanlash degani emas. Bu shaxsiy erkinlik uchun ovoz berishdir.
 
 
 ;Donate
@@ -415,7 +415,7 @@ Ushbu tarkib qismlari mozilla.org ishtirokchilari tomonidan ©1998–%(current_y
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+Ushbu saytga hissa qo‘shish
 
 
 # Footer string
@@ -575,7 +575,7 @@ Forumlar
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+Sardorlik
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -737,10 +737,10 @@ Dekabr
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox tez kunlarda iOS tizimida ham ishlay boshlaydi! <a href="{url}">Ko‘proq ma’lumot olish uchun ro‘yxatdan o‘ting</a>.
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+Tabriklaymiz. Brauzeringiz yap-yangi!
 
 

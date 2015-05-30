@@ -34,7 +34,7 @@ Firefox Hello ਵਰਤ ਕੇ ਦੇਖੋ
 
 # This string is displayed to users of Firefox 38 ESR, where Hello is not available
 ;You need a different version of Firefox to use Hello.
-You need a different version of Firefox to use Hello.
+Hello ਵਰਤਣ ਲਈ ਤੁਹਾਡੇ ਕੋਲ ਫਾਇਰਫਾਕਸ ਦਾ ਵੱਖਰਾ ਵਰਜ਼ਨ ਚਾਹੀਦਾ ਹੈ।
 
 
 # This string is used as a button label, displayed to users of Firefox 38 ESR to download an updated version of Firefox
@@ -56,12 +56,12 @@ You need a different version of Firefox to use Hello.
 
 
 ;Just send a conversation link to a friend and ask them to click it.
-Just send a conversation link to a friend and ask them to click it.
+ਦੋਸਤ ਨੂੰ ਗੱਲਬਾਤ ਲਿੰਕ ਭੇਜੋ ਅਤੇ ਉਸ ਨੂੰ ਇਹ ਉੱਤੇ ਕਲਿੱਕ ਕਰਨ ਲਈ ਕਹੋ।
 
 
 # This string will be an active link to SUMO: https://support.mozilla.org/kb/which-browsers-will-work-firefox-hello-video-chat
 ;See which browsers are compatible with Firefox Hello
-See which browsers are compatible with Firefox Hello
+ਵੇਖੋ ਕਿ ਕਿਹੜੇ ਬਰਾਊਜ਼ਰ Firefox Hello ਦੇ ਨਾਲ ਕੰਮ ਕਰਦੇ ਹਨ
 
 
 ;Just start a conversation, send your friend a link and ask them to click it.
@@ -75,27 +75,27 @@ See which browsers are compatible with Firefox Hello
 # This is an English idiomatic expression: http://www.phrases.org.uk/meanings/316750.html
 # Feel free to adapt it to your locale.
 ;Share and share alike
-Share and share alike
+ਵੰਡ ਛੱਕੋ
 
 
 ;Want to show off some new baby pictures?
-Want to show off some new baby pictures?
+ਕੀ ਨਵੇਂ ਬੱਚੇ ਦੀਆਂ ਤਸਵੀਰਾਂ ਸਾਂਝੀਆਂ ਕਰਨੀਆਂ ਚਾਹੁੰਦੇ ਹੋ?
 
 
 ;Share travel options over the Web?
-Share travel options over the Web?
+ਕੀ ਸੰਸਾਰ ਨਾਲ ਯਾਤਰਾ ਦੇ ਤਜਰਬੇ ਸਾਂਝੇ ਕਰਨ ਹਨ?
 
 
 ;Check in on a project from half a world away?
-Check in on a project from half a world away?
+ਸੰਸਾਰ ਦੇ ਕਿਸੇ ਥਾਂ ਤੋਂ ਪਰੋਜੈਕਟ ਦੀ ਜਾਂਚ ਕਰਨੀ ਹੈ?
 
 
 ;Screen sharing on Firefox Hello makes it all possible.
-Screen sharing on Firefox Hello makes it all possible.
+Firefox Hello ਨਾਲ ਸਕਰੀਨ ਸਾਂਝੀ ਕਰਨ ਨੇ ਇਹ ਸੰਭਵ ਬਣਾ ਦਿੱਤਾ ਹੈ।
 
 
 ;Try it out in your next conversation and share the things that matter most.
-Try it out in your next conversation and share the things that matter most.
+ਆਪਣੀ ਅਗਲੀ ਗੱਲਬਾਤ ਵਿੱਚ ਇਹ ਵਰਤ ਕੇ ਦੇਖੋ ਅਤੇ ਸਭ ਤੋਂ ਖਾਸ ਚੀਜ਼ਾਂ ਨੂੰ ਸਾਂਝਾ ਕਰੋ।
 
 
 ;Invite anyone, anywhere
@@ -125,12 +125,12 @@ Hello ਵਰਤਣ ਲਈ ਬਹੁਤ ਸੌਖਾ ਹੈ ਅਤੇ ਤੁਹ�
 
 
 ;And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
-And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
+WebRTC-ਪੱਧਰੀ ਇੰਕ੍ਰਿਪਸ਼ਨ ਦੇ ਕਰਕੇ ਤੁਸੀਂ ਵਾਧੂ ਸੁਰੱਖਿਆ ਦਾ ਆਨੰਦ ਲੈ ਸਕਦੇ ਹੋ।
 
 
 # This will be an active link. Destination URL currently not available
 ;Learn more about WebRTC encryption
-Learn more about WebRTC encryption
+WebRTC ਇੰਕ੍ਰਿਪਸ਼ਨ ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
 
 
 ;That’s part of our mission, and it’s behind everything we do around here.
@@ -216,13 +216,13 @@ Firefox Hello ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ ਅਤੇ ਖੁਦ ਦੇ�
 # %s will be replaced by an image of Telefonica's logo. The current string is the same used in Firefox for Firefox Hello
 # http://transvision.mozfr.org/string/?entity=browser/chrome/browser/loop/loop.properties:powered_by_beforeLogo&repo=beta
 ;Powered by %s
-ਇਖ਼ਤਿਆਰ %s
+%s ਰਾਹੀਂ ਇਖ਼ਤਿਆਰੀ
 
 
 # The following strings are used for the First Time interactive experience, don't add HTML tags.
 # The %s placeholder is an image of the Hello screen sharing icon, and can be moved around to fit the translation appropriately.
 ;Now see how easy it is to share your screen. Click %s in your conversation window to try it.
-Now see how easy it is to share your screen. Click %s in your conversation window to try it.
+ਦੇਖੋ ਕਿ ਹੁਣ ਆਪਣੀ ਸਕਰੀਨ ਸਾਂਝੀ ਕਰਨੀ ਕਿੰਨੀ ਸੌਖੀ ਹੈ। ਆਪਣੀ ਗੱਲਬਾਤ ਵਿੱਚ %s ਉੱਤੇ ਕਲਿੱਕ ਕਰਕੇ ਇਹ ਨੂੰ ਵਰਤ ਕੇ ਦੇਖੋ।
 
 
 # “Hello” is the product name and should not be localized

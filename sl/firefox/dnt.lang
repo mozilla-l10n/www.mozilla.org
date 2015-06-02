@@ -78,94 +78,94 @@ Kako omogočim Brez sledenja v Firefoxu?
 
 
 ;This feature is not enabled by default. You can find the Do Not Track request on the Privacy pane. <span id="%(id)s">On Windows, go to Tools &gt; Options&hellip; &gt; Privacy.</span>
-This feature is not enabled by default. You can find the Do Not Track request on the Privacy pane. <span id="%(id)s">On Windows, go to Tools &gt; Options&hellip; &gt; Privacy.</span>
+Možnost je privzeto izklopljena. Zahtevo Brez sledenja najdete na plošči Zasebnost. <span id="%(id)s">V sistemu Windows pojdite v meni Orodja &gt; Možnosti &hellip; &gt; Zasebnost.</span>
 
 
 ;On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
-On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
+V Mac OS X pojdite v meni Firefox &gt; Nastavitve … &gt; Zasebnost. V Linuxu pojdite v meni Urejanje &gt; Nastavitve &gt; Zasebnost.
 
 
 ;Click to check the box next to &quot;Tell websites I do not want to be tracked&quot;. For more information, see the help file on <a href="%(url)s">how to stop websites from tracking you</a>.
-Click to check the box next to &quot;Tell websites I do not want to be tracked&quot;. For more information, see the help file on <a href="%(url)s">how to stop websites from tracking you</a>.
+Odkljukajte polje poleg &quot;Stranem sporoči, naj mi ne sledijo&quot;. Za več informacij si oglejte datoteko s pomočjo o tem, <a href="%(url)s">kako spletnim mestom preprečiti sledenje</a>.
 
 
 ;Will companies honor my Do Not Track preference?
-Will companies honor my Do Not Track preference?
+Bodo podjetja upoštevala mojo nastavitev Brez sledenja?
 
 
 ;Companies are starting to support Do Not Track, but you may not notice any changes initially. We are actively working with companies that have started to implement Do Not Track, with others who have committed to doing so soon.
-Companies are starting to support Do Not Track, but you may not notice any changes initially. We are actively working with companies that have started to implement Do Not Track, with others who have committed to doing so soon.
+Podjetja začenjajo podpirati Brez sledenja, vendar na začetku morda ne boste opazili sprememb. Aktivno sodelujemo s podjetji, ki so začela upoštevati Brez sledenja ter z drugimi, ki so obljubila, da jo bodo začela upoštevati kmalu.
 
 
 ;Where can I learn more?
-Where can I learn more?
+Kje lahko izvem več?
 
 
 ;Other interesting work about Do Not Track and online privacy:
-Other interesting work about Do Not Track and online privacy:
+Še nekaj zanimivih stvari v zvezi z možnostjo Brez sledenja ter spletno zasebnostjo:
 
 
 ;<a href="%s">Private browsing</a> in Firefox &#8212; limits saving data about which sites and pages you have visited online
-<a href="%s">Private browsing</a> in Firefox &#8212; limits saving data about which sites and pages you have visited online
+<a href="%s">Zasebno brskanje</a> v Firefoxu &#8212; omeji zbiranje podatkov o tem, katere spletne strani ste obiskali
 
 
 ;<a href="%(url1)s">Managing cookies</a> in Firefox &#8212; lets you control how <a href="%(url2)s">cookies</a> are saved on your computer
-<a href="%(url1)s">Managing cookies</a> in Firefox &#8212; lets you control how <a href="%(url2)s">cookies</a> are saved on your computer
+<a href="%(url1)s">Upravljanje piškotkov</a> v Firefoxu &#8212; nadzor nad <a href="%(url2)s">piškotki</a>, shranjenimi na vašem računalniku
 
 
 ;<a href="%s">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from Mozilla’s Technology and Privacy Officer
-<a href="%s">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from Mozilla’s Technology and Privacy Officer
+<a href="%s">Mozillin blog Alexa Fowlerja</a> &#8212; sveže novice vodje Mozilline tehnologije in zasebnosti
 
 
 ;<a href="%s">donottrack.us</a> project &#8212; Stanford researchers working on the ideas behind Do Not Track
-<a href="%s">donottrack.us</a> project &#8212; Stanford researchers working on the ideas behind Do Not Track
+Projekt <a href="%s">donottrack.us</a> &#8212; Stanfordovi raziskovalci, ki razvijajo zamisli v ozadju možnosti Brez sledenja
 
 
 ;The Tracking Preference Expression (DNT) <a href="%s">W3C Editor’s Draft</a>
-The Tracking Preference Expression (DNT) <a href="%s">W3C Editor’s Draft</a>
+<a href="%s">Osnutek urednikov W3C</a> izraza nastavitve sledenja (DNT)
 
 
 ;Tracking Compliance and Scope <a href="%s">W3C Editor’s Draft</a>
-Tracking Compliance and Scope <a href="%s">W3C Editor’s Draft</a>
+<a href="%s">Osnutek urednikov W3C</a> sporazuma in obsega sledenja
 
 
 ;The W3C <a href="%s">Tracking Protection Working Group</a>
-The W3C <a href="%s">Tracking Protection Working Group</a>
+<a href="%s">Delovna skupina za zaščito pred sledenjem</a> W3C
 
 
 ;<a href="%s">Ghostery</a> &#8212; a tool that lets you learn which sites are tracking you online
-<a href="%s">Ghostery</a> &#8212; a tool that lets you learn which sites are tracking you online
+<a href="%s">Ghostery</a> &#8212; orodje, ki vam pove, katere strani vam sledijo na spletu
 
 
 ;See <a href="%s">where your data goes</a> before you click &#8212; an image from the Future of Privacy Forum
-See <a href="%s">where your data goes</a> before you click &#8212; an image from the Future of Privacy Forum
+Oglejte si, <a href="%s">kam gredo vaši podatki</a>, preden kliknete &#8212; slika s foruma Future of Privacy
 
 
 ;Mozilla and Stanford’s Do Not Track <a href="%(url)s">submission to the IETF</a> &#8212; IETF is a standards body that helps define how the Web works, regardless of which Internet browser you use
-Mozilla and Stanford’s Do Not Track <a href="%(url)s">submission to the IETF</a> &#8212; IETF is a standards body that helps define how the Web works, regardless of which Internet browser you use
+Mozillin in Stanfordov <a href="%(url)s">prispevek za IETF</a> Brez sledenja &#8212; IETF je telo standardov, ki pomaga določiti delovanje spleta ne glede na to, kateri spletni brskalnik uporabljate
 
 
 ;Enable Do Not Track in Firefox
-Enable Do Not Track in Firefox
+Omogočite Brez sledenja v Firefoxu
 
 
 ;Options window - Advanced panel - Do Not Track
-Options window - Advanced panel - Do Not Track
+Okno Možnosti - plošča Napredno - Brez sledenja
 
 
 ;Enabling Do Not Track
-Enabling Do Not Track
+Omogočanje Brez sledenja
 
 
 ;Click for Instructions
-Click for Instructions
+Kliknite za navodila
 
 
 ;Enable Do Not Track in Internet Explorer 9
-Enable Do Not Track in Internet Explorer 9
+Omogočite Brez sledenja v Internet Explorerju 9
 
 
 ;To enable Do Not Track in IE 9, you need to enable IE 9’s <a href="%(url)s">Tracking Protection</a> feature. The easiest way to do that is to install <a href="%(tpl)s">Mozilla’s Simple Tracking Protection List</a>. If you view this page in IE 9, there will be instructions right here.
-To enable Do Not Track in IE 9, you need to enable IE 9’s <a href="%(url)s">Tracking Protection</a> feature. The easiest way to do that is to install <a href="%(tpl)s">Mozilla’s Simple Tracking Protection List</a>. If you view this page in IE 9, there will be instructions right here.
+Da omogočite Brez sledenja v IE 9, morate omogočiti njegovo <a href="%(url)s">zaščito pred sledenjem</a>. To najpreprosteje storite tako, da namestite <a href="%(tpl)s">Mozillin preprosti seznam zaščite pred sledenjem</a>. Če si to stran ogledujete v IE 9, se bodo tu pojavila navodila.
 
 

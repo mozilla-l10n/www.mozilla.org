@@ -149,6 +149,12 @@ Lightbeam visualiza las relaciones entre los sitios que visitas y los sitios de 
 Como funciona el complemento.
 
 
+# New string (May 15) to reflect features that have been removed from the add-on.
+;Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+
+
+# Obsolete string, do not remove
 ;Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
 Usando tres distintas representaciones gráficas interactivas --- Gráfica, Reloj y Lista ---
 
@@ -159,10 +165,6 @@ La vista de Grafica por defecto provee una visualización en tiempo real de cada
 
 ;The Graph view also provides adjustable filters that allow you to visualize more types of data at a glance.
 La vista Gráfica también provee filtros ajustables que te permiten visualizar mas tipos de datos de un vistazo.
-
-
-;The Clock view allows you to examine connections over a 24-hour period.
-La vista de Reloj te permite examinar conexiones en un periodo de 24 horas.
 
 
 ;The List view provides more options for drilling down into individual sites.
@@ -233,6 +235,12 @@ La <a href="%s">Fundación Mozilla</a> es una organización sin fines de lucro q
 Formato de datos en Lightbeam
 
 
+# New string (May 15) to reflect features that have been removed from the add-on.
+;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam.
+Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam.
+
+
+# Obsolete string, do not remove
 ;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute data.
 Visita nuestra <a href="%s">documentación en Github</a> para saber más acerca de las extensiones de archivo usadas en Lightbeam y ver los detalles de los datos que se cargan si optas por contribuir con la base de datos.
 

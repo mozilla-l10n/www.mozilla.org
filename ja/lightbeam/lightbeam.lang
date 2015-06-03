@@ -149,6 +149,12 @@ Lightbeam はユーザがアクセスしたサイトと、そのページでア�
 Lightbeam が機能する仕組み
 
 
+# New string (May 15) to reflect features that have been removed from the add-on.
+;Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+
+
+# Obsolete string, do not remove
 ;Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
 Lightbeam では、Graph (グラフ)、Clock (時計)、List (リスト)という 3 つの異なるタイプのインタラクティブな可視化表示を使用して個々のサードパーティを時間の経過と空間に応じて調べ、それらのサードパーティがどこで自分のオンライン行動につながっているかを特定できます。また、ユーザはさまざまな方法でこの独特の Web 可視化に関わることができます。
 
@@ -159,10 +165,6 @@ Lightbeam では、Graph (グラフ)、Clock (時計)、List (リスト)とい�
 
 ;The Graph view also provides adjustable filters that allow you to visualize more types of data at a glance.
 調整可能なフィルタを使用して、より多くのタイプのデータを瞬時に可視化することもできます。
-
-
-;The Clock view allows you to examine connections over a 24-hour period.
-Clock ビューでは、24 時間の接続状態を調べることができます。
 
 
 ;The List view provides more options for drilling down into individual sites.
@@ -233,6 +235,12 @@ Lightbeam は、Web ユーザに個人データの高度なコントロールと
 Lightbeam のデータ形式
 
 
+# New string (May 15) to reflect features that have been removed from the add-on.
+;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam.
+Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam.
+
+
+# Obsolete string, do not remove
 ;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute data.
 Mozilla の<a href="%s">ファイル形式に関する Github のページ</a>を参照すると、Lightbeam で使用されているファイル形式の詳細と、データの提供を許可した場合にアップロードされるデータの詳細をご覧いただけます。
 

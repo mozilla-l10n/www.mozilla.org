@@ -1,3 +1,4 @@
+## update_may2015 ##
 ## NOTE: http://www-dev.allizom.org/lightbeam
 ## URL: http://www-dev.allizom.org/%LOCALE%/lightbeam
 
@@ -149,6 +150,13 @@ Lightbeam visualizes the relationships between the sites you visit and the third
 How the add-on works
 
 
+## TAG: update_may2015
+# New string (May 15) to reflect features that have been removed from the add-on.
+;Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+
+
+# Obsolete string, do not remove
 ;Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
 Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
 
@@ -159,10 +167,6 @@ The default Graph view provides a real time visualization of every site you visi
 
 ;The Graph view also provides adjustable filters that allow you to visualize more types of data at a glance.
 The Graph view also provides adjustable filters that allow you to visualize more types of data at a glance.
-
-
-;The Clock view allows you to examine connections over a 24-hour period.
-The Clock view allows you to examine connections over a 24-hour period.
 
 
 ;The List view provides more options for drilling down into individual sites.
@@ -233,6 +237,13 @@ The <a href="%s">Mozilla Foundation</a> is a non-profit organization that promot
 Data formats in Lightbeam
 
 
+## TAG: update_may2015
+# New string (May 15) to reflect features that have been removed from the add-on.
+;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam.
+Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam.
+
+
+# Obsolete string, do not remove
 ;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute data.
 Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute data.
 

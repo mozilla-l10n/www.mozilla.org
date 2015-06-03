@@ -149,6 +149,12 @@ Lightbeam wizualizuje zależności między witrynami odwiedzonymi bezpośrednio 
 Zasady działania dodatku
 
 
+# New string (May 15) to reflect features that have been removed from the add-on.
+;Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+
+
+# Obsolete string, do not remove
 ;Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
 Przy pomocy trzech wyrazistych, interaktywnych reprezentacji graficznych (wykresu, zegara oraz listy), Lightbeam umożliwia Ci obserwację witryn odwiedzanych pośrednio w czasie i przestrzeni, identyfikację momentów, w których wkraczają one w Twoją obecność w Sieci, oraz dostarcza sposoby na interakcję z tym wyjątkowym spojrzeniem na Sieć.
 
@@ -159,10 +165,6 @@ Podstawowy wykres wizualizuje w czasie rzeczywistym każdą odwiedzaną bezpoś
 
 ;The Graph view also provides adjustable filters that allow you to visualize more types of data at a glance.
 Możesz też modyfikować swój wykres filtrami, dzięki czemu już na pierwszy rzut oka zobaczysz wizualizację różnych typów informacji.
-
-
-;The Clock view allows you to examine connections over a 24-hour period.
-Zegar umożliwia Ci zbadanie połączeń w przeciągu doby.
 
 
 ;The List view provides more options for drilling down into individual sites.
@@ -233,6 +235,12 @@ Dowiedz się więcej o śledzeniu w Sieci i prywatności
 Formaty danych w dodatku Lightbeam
 
 
+# New string (May 15) to reflect features that have been removed from the add-on.
+;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam.
+Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam.
+
+
+# Obsolete string, do not remove
 ;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute data.
 Zajrzyj do naszej <a href="%s">dokumentacji na Githubie</a> i dowiedz się więcej o formatach plików, które wykorzystuje Lightbeam, oraz przeczytaj o szczegółach przesyłanych przez dodatek danych, jeśli wyrazisz zgodę na ich przesyłanie.
 

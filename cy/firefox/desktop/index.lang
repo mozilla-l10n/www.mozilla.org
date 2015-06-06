@@ -41,8 +41,8 @@ Wedi ei greu gyda'r bwriad o'ch rhoi chi'n gyntaf
 Rydym wedi cynllunio Firefox i diogelu a pharchu eich gwybodaeth breifat.
 
 
-;That’s why we’re proud to be voted the <a href="%(url1)s">Most Trusted Internet Company for Privacy.</a>
-Dyma pam rydym yn falch o fod wedi ein dewis fel y <a href="%(url1)s">Most Trusted Internet Company for Privacy.</a>
+;That’s why we’re proud to be voted the <a href="%(url1)s" data-interaction="outbound link">Most Trusted Internet Company for Privacy.</a>
+Dyma pam rydym yn falch o fod wedi ein dewis fel y <a href="%(url1)s" data-interaction="outbound link">Most Trusted Internet Company for Privacy.</a>
 
 
 ;Find out what makes Firefox the most trusted browser on the Web
@@ -77,8 +77,8 @@ Yn gyflym ar eich tasgau cyffredin
 Cafodd Firefox ei enwi fel y ”speed king” mewn profion meincnodi a pherfformiad yn erbyn porwyr eraill.
 
 
-;* Based on <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
-* Yn seiliedig ar ganlyniadau <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a>.
+;* Based on <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
+* Yn seiliedig ar ganlyniadau <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a>.
 
 
 ;Save time and do just about anything quicker than before.

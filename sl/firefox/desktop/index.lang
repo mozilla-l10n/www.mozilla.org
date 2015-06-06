@@ -42,8 +42,8 @@ Narejen, da vas postavi v ospredje
 Firefox oblikujemo, da ščiti in spoštuje vašo zasebnost.
 
 
-;That’s why we’re proud to be voted the <a href="%(url1)s">Most Trusted Internet Company for Privacy.</a>
-Ponosni smo, da smo bili izglasovani za <a href="%(url1)s">internetno podjetje, ki najbolj spoštuje uporabnikovo zasebnost.</a>
+;That’s why we’re proud to be voted the <a href="%(url1)s" data-interaction="outbound link">Most Trusted Internet Company for Privacy.</a>
+Ponosni smo, da smo bili izglasovani za <a href="%(url1)s" data-interaction="outbound link">internetno podjetje, ki najbolj spoštuje uporabnikovo zasebnost.</a>
 
 
 ;Find out what makes Firefox the most trusted browser on the Web
@@ -78,8 +78,8 @@ Hitrejši pri vsakodnevnih opravilih
 Firefox je na neodvisnem testiranju hitrosti in uspešnosti brskalnikov dobil oznako ”dirkač”.
 
 
-;* Based on <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
-* Na osnovi rezultatov <a href="%(url1)s">XVI. Velike nagrade brskalnikov Tom’s Hardware</a>.
+;* Based on <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
+* Na osnovi rezultatov <a data-interaction="outbound link" href="%(url1)s">XVI. Velike nagrade brskalnikov Tom’s Hardware</a>.
 
 
 ;Save time and do just about anything quicker than before.

@@ -41,8 +41,8 @@ Need help with anything?
 При разработке Firefox мы всегда ставим целью защищать и уважать ваши персональные данные.
 
 
-;That’s why we’re proud to be voted the <a href="%(url1)s">Most Trusted Internet Company for Privacy.</a>
-Вот почему мы гордимся тем, что нас выбрали <a href="%(url1)s">Интернет-компанией, вызывающей больше всего доверия в области приватности.</a>
+;That’s why we’re proud to be voted the <a href="%(url1)s" data-interaction="outbound link">Most Trusted Internet Company for Privacy.</a>
+Вот почему мы гордимся тем, что нас выбрали <a href="%(url1)s" data-interaction="outbound link">Интернет-компанией, вызывающей больше всего доверия в области приватности.</a>
 
 
 ;Find out what makes Firefox the most trusted browser on the Web
@@ -77,8 +77,8 @@ Firefox позволяет вам изменять его под себя.
 Firefox был назван ”королем скорости” по сравнению с другими браузерами в независимых тестах скорости и производительности.
 
 
-;* Based on <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
-* На основе результатов <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a>.
+;* Based on <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
+* На основе результатов <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a>.
 
 
 ;Save time and do just about anything quicker than before.

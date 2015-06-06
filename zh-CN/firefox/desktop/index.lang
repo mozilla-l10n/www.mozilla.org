@@ -41,8 +41,8 @@ Need help with anything?
 我们总是在设计 Firefox 时特别注意保护和尊重您的隐私信息。
 
 
-;That’s why we’re proud to be voted the <a href="%(url1)s">Most Trusted Internet Company for Privacy.</a>
-因此我们很自豪地被选为<a href="%(url1)s">隐私保护领域最受信任的互联网公司。</a>
+;That’s why we’re proud to be voted the <a href="%(url1)s" data-interaction="outbound link">Most Trusted Internet Company for Privacy.</a>
+因此我们很自豪地被选为<a href="%(url1)s" data-interaction="outbound link">隐私保护领域最受信任的互联网公司。</a>
 
 
 ;Find out what makes Firefox the most trusted browser on the Web
@@ -77,8 +77,8 @@ Firefox 可以改变自身适应您的需要。
 在独立的基准及绩效测试体系下，Firefox 获得“速度之王”称号。
 
 
-;* Based on <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
-* 基于 <a href="%(url1)s">Tom’s 硬件指南的第16届网络浏览器大奖赛</a> 的结果。
+;* Based on <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
+* 基于 <a data-interaction="outbound link" href="%(url1)s">Tom’s 硬件指南的第16届网络浏览器大奖赛</a> 的结果。
 
 
 ;Save time and do just about anything quicker than before.

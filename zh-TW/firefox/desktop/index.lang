@@ -42,8 +42,8 @@ Firefox 更新完成。
 我們總是將 Firefox 設計成保護並尊重您的隱私資訊的瀏覽器。
 
 
-;That’s why we’re proud to be voted the <a href="%(url1)s">Most Trusted Internet Company for Privacy.</a>
-這就是為什麼，我們很驕傲能被投票選為 <a href="%(url1)s">在隱私權方面最受信任的網路公司。</a>
+;That’s why we’re proud to be voted the <a href="%(url1)s" data-interaction="outbound link">Most Trusted Internet Company for Privacy.</a>
+這就是為什麼，我們很驕傲能被投票選為 <a href="%(url1)s" data-interaction="outbound link">在隱私權方面最受信任的網路公司。</a>
 
 
 ;Find out what makes Firefox the most trusted browser on the Web
@@ -78,8 +78,8 @@ Firefox 讓您可以調整，符合您的習慣。
 Firefox 在與其他瀏覽器的獨立測試中被稱呼為「速度之王」。
 
 
-;* Based on <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
-* 依照 <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> 測試結果。
+;* Based on <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
+* 依照 <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> 測試結果。
 
 
 ;Save time and do just about anything quicker than before.

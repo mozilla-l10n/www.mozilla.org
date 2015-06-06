@@ -41,8 +41,8 @@ Need help with anything?
 Отсекогаш сме го дизајнирале Firefox да ги заштитува и почитува Вашите приватни информации.
 
 
-;That’s why we’re proud to be voted the <a href="%(url1)s">Most Trusted Internet Company for Privacy.</a>
-Затоа сме горди што сме избрани за <a href="%(url1)s">Најдоверлива компанија за приватност на Интернет</a>.
+;That’s why we’re proud to be voted the <a href="%(url1)s" data-interaction="outbound link">Most Trusted Internet Company for Privacy.</a>
+Затоа сме горди што сме избрани за <a href="%(url1)s" data-interaction="outbound link">Најдоверлива компанија за приватност на Интернет</a>.
 
 
 ;Find out what makes Firefox the most trusted browser on the Web
@@ -77,8 +77,8 @@ Firefox Ви овозможува да го менувате како што В�
 Firefox беше именуван за „крал на брзина“ во независно тестирање во споредба со останатите прелистувачи.
 
 
-;* Based on <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
-* Врз основа на резултатите на <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a>.
+;* Based on <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
+* Врз основа на резултатите на <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a>.
 
 
 ;Save time and do just about anything quicker than before.

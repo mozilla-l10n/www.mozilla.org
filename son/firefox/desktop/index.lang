@@ -41,8 +41,8 @@ A tee nda anniya ka war dam jine
 Ir na Firefox fasal waati kul ka war sutura alhabar jejebu nd'a beerandi.
 
 
-;That’s why we’re proud to be voted the <a href="%(url1)s">Most Trusted Internet Company for Privacy.</a>
-Woo se ir ga fooma kaŋ ir tee <a href="%(url1)s">Interneti konpaɲe kul naanantaa war suturaa se.</a>
+;That’s why we’re proud to be voted the <a href="%(url1)s" data-interaction="outbound link">Most Trusted Internet Company for Privacy.</a>
+Woo se ir ga fooma kaŋ ir tee <a href="%(url1)s" data-interaction="outbound link">Interneti konpaɲe kul naanantaa war suturaa se.</a>
 
 
 ;Find out what makes Firefox the most trusted browser on the Web
@@ -77,8 +77,8 @@ Tee woo kaŋ war ga doona nda cahãri
 Firefox maaɲoo tee "cahãri kokoyoo" kaŋ naanay kalala nda goysahã neešiyan n'a tabatandi ceecikaw taney game.
 
 
-;* Based on <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
-* Tabati <a href="%(url1)s">Tom’s Hardware Web Browser Grand PrixXVI</a> konkossa banda ga.
+;* Based on <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
+* Tabati <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand PrixXVI</a> konkossa banda ga.
 
 
 ;Save time and do just about anything quicker than before.

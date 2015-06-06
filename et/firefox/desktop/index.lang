@@ -41,8 +41,8 @@ Valmistatud missioonil asetada sinu huvid esikohale
 Firefox on kujundatud sinu privaatseid andmeid kaitsma ning austama.
 
 
-;That’s why we’re proud to be voted the <a href="%(url1)s">Most Trusted Internet Company for Privacy.</a>
-Seetõttu oleme uhked, et meid hääletati <a href="%(url1)s">usaldatuimaks internetifirmaks privaatsuse alal.</a>
+;That’s why we’re proud to be voted the <a href="%(url1)s" data-interaction="outbound link">Most Trusted Internet Company for Privacy.</a>
+Seetõttu oleme uhked, et meid hääletati <a href="%(url1)s" data-interaction="outbound link">usaldatuimaks internetifirmaks privaatsuse alal.</a>
 
 
 ;Find out what makes Firefox the most trusted browser on the Web
@@ -77,8 +77,8 @@ Kiire sinu kõige sagedamates tegevustes
 Firefox nimetati sõltumatus jõudlustestis brauserite “kiirusekuningaks”.
 
 
-;* Based on <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
-* <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> võistluse tulemuste alusel.
+;* Based on <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
+* <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> võistluse tulemuste alusel.
 
 
 ;Save time and do just about anything quicker than before.

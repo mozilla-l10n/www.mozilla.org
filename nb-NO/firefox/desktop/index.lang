@@ -41,8 +41,8 @@ Laget med oppdraget å prioritere deg først
 Vi har alltid designet Firefox til å beskytte deg og respektere din personlige informasjon.
 
 
-;That’s why we’re proud to be voted the <a href="%(url1)s">Most Trusted Internet Company for Privacy.</a>
-Det er derfor vi er stolte til å bli stemt frem som <a href="%(url1)s">Internett-Selskapet med mest tillit til personvern.</a>
+;That’s why we’re proud to be voted the <a href="%(url1)s" data-interaction="outbound link">Most Trusted Internet Company for Privacy.</a>
+Det er derfor vi er stolte til å bli stemt frem som <a href="%(url1)s" data-interaction="outbound link">Internett-Selskapet med mest tillit til personvern.</a>
 
 
 ;Find out what makes Firefox the most trusted browser on the Web
@@ -77,8 +77,8 @@ Raskere til å gjøre du gjør oftest
 Firefox ble kalt for ”fartskongen” i en uavhengig måling av ytelse mot andre nettlesere.
 
 
-;* Based on <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
-* Basert på resultatene fra <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a>.
+;* Based on <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
+* Basert på resultatene fra <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a>.
 
 
 ;Save time and do just about anything quicker than before.

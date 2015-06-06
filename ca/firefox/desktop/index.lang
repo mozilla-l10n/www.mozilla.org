@@ -41,8 +41,8 @@ Fet amb una missió: posar-vos en primer lloc
 Sempre hem dissenyat el Firefox per a protegir i respectar la vostra informació privada.
 
 
-;That’s why we’re proud to be voted the <a href="%(url1)s">Most Trusted Internet Company for Privacy.</a>
-Per això estem orgullosos de ser escollits <a href="%(url1)s">l'organització d'Internet més fiable en privadesa.</a>
+;That’s why we’re proud to be voted the <a href="%(url1)s" data-interaction="outbound link">Most Trusted Internet Company for Privacy.</a>
+Per això estem orgullosos de ser escollits <a href="%(url1)s" data-interaction="outbound link">l'organització d'Internet més fiable en privadesa.</a>
 
 
 ;Find out what makes Firefox the most trusted browser on the Web
@@ -77,8 +77,8 @@ Més ràpid en allò que feu més freqüentment
 El Firefox fou nomenat rei de la velocitat per un test de referència independent i proves de rendiment en comparació amb altres navegadors.
 
 
-;* Based on <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
-* Basat en els resultats del «<a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a>».
+;* Based on <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
+* Basat en els resultats del «<a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a>».
 
 
 ;Save time and do just about anything quicker than before.

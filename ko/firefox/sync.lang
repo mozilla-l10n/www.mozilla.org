@@ -72,8 +72,8 @@ Firefox 다운로드
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
-;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Firefox 우측 상단에 <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">메뉴</a>를 눌러 “<strong>동기화 로그인</strong>”을 선택합니다.
+;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Firefox 우측 상단에 <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">메뉴</a>를 눌러 “<strong>동기화 로그인</strong>”을 선택합니다.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.

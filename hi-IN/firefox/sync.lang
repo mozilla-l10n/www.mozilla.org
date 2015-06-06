@@ -70,8 +70,8 @@ Sync is just one of the great features you’ll only get with Firefox.
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
-;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-फायरफॉक्स के ऊपरी दायें किनारे पे <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">मेनू </a>खोले <strong>सिंक में हस्ताक्षर करें </strong>
+;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+फायरफॉक्स के ऊपरी दायें किनारे पे <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">मेनू </a>खोले <strong>सिंक में हस्ताक्षर करें </strong>
 
 
 # (NEW STRING) <strong> tags used for font color formatting.

@@ -73,8 +73,8 @@ Rozpocznij synchronizację w czterech prostych krokach:
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
-;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Otwórz <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> w prawym górnym rogu Firefoksa i kliknij „<strong>Zaloguj się do Sync.</strong>”
+;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Otwórz <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> w prawym górnym rogu Firefoksa i kliknij „<strong>Zaloguj się do Sync.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.

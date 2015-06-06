@@ -26,8 +26,8 @@ See tuleb ühtviisi hästi toime nii tehniliste jõudlustestidega <br class="wid
 
 
 # L10n: Line break below is for wide screen formatting only.
-;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s">“speed king.”</a>
-Firefox edestas teisi veebilehitsejaid hiljuti sõltumatutes testides ning nimetati <br class="wide-br"> <a href="%(url1)s">“kiirusekuningaks”.</a>
+;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
+Firefox edestas teisi veebilehitsejaid hiljuti sõltumatutes testides ning nimetati <br class="wide-br"> <a href="%(url1)s" data-interaction="outbound link">“kiirusekuningaks”.</a>
 
 
 ;So you can browse with confidence with the fastest on the Web.

@@ -26,8 +26,8 @@ Firefox 史上最速。
 
 
 # L10n: Line break below is for wide screen formatting only.
-;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s">“speed king.”</a>
-Firefox は、独立したベンチマークテストで他のブラウザを上回る速度を叩き出し、<a href="%(url1)s">「スピードキング」</a>の称号を手に入れました。
+;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
+Firefox は、独立したベンチマークテストで他のブラウザを上回る速度を叩き出し、<a href="%(url1)s" data-interaction="outbound link">「スピードキング」</a>の称号を手に入れました。
 
 
 ;So you can browse with confidence with the fastest on the Web.

@@ -26,8 +26,8 @@ El “rey de la velocidad”
 
 
 # L10n: Line break below is for wide screen formatting only.
-;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s">“speed king.”</a>
-El rendimiento de Firefox superó al de otros navegadores en pruebas independientes efectuadas recientemente: <br class="wide-br">es <a href="%(url1)s">“el rey de la velocidad”.</a>
+;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
+El rendimiento de Firefox superó al de otros navegadores en pruebas independientes efectuadas recientemente: <br class="wide-br">es <a href="%(url1)s" data-interaction="outbound link">“el rey de la velocidad”.</a>
 
 
 ;So you can browse with confidence with the fastest on the Web.

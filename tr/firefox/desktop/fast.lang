@@ -26,8 +26,8 @@ Hem teknik performans <br class="wide-br">testlerinde uçuyor hem de sıkça yap
 
 
 # L10n: Line break below is for wide screen formatting only.
-;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s">“speed king.”</a>
-Firefox, güncel bağımsız testlerde diğer tarayıcıları alt ederek <a href="%(url1)s">“hız kralı”</a> <br class="wide-br">unvanını aldı.
+;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
+Firefox, güncel bağımsız testlerde diğer tarayıcıları alt ederek <a href="%(url1)s" data-interaction="outbound link">“hız kralı”</a> <br class="wide-br">unvanını aldı.
 
 
 ;So you can browse with confidence with the fastest on the Web.

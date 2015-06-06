@@ -26,8 +26,8 @@ Firefox` "արագության արքա", աշխարհի ամենարագ դիտ
 
 
 # L10n: Line break below is for wide screen formatting only.
-;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s">“speed king.”</a>
-Firefox-ը ավելի արագագործ է, քան այլ դիտարկիչները՝ համաձայն վերջին անկախ փորձարկումների: Ուստի այն անվանվել է <br class="wide-br"> <a href="%(url1)s">“արագության արքա”:</a>
+;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
+Firefox-ը ավելի արագագործ է, քան այլ դիտարկիչները՝ համաձայն վերջին անկախ փորձարկումների: Ուստի այն անվանվել է <br class="wide-br"> <a href="%(url1)s" data-interaction="outbound link">“արագության արքա”:</a>
 
 
 ;So you can browse with confidence with the fastest on the Web.

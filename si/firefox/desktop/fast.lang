@@ -26,8 +26,8 @@ Firefox — "වේගයේ රජු" - වෙබයේ වේගවත්ම 
 
 
 # L10n: Line break below is for wide screen formatting only.
-;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s">“speed king.”</a>
-Firefox <br class="wide-br"><a href="%(url1)s">“වේගයේ රජු”</a> ලෙස නම් ලැබීමට මෑතකදී සිදුකල ස්වාදහීන පරීක්සහණ වලින් අනෙක් බරවුසර පරදා ඇත.
+;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
+Firefox <br class="wide-br"><a href="%(url1)s" data-interaction="outbound link">“වේගයේ රජු”</a> ලෙස නම් ලැබීමට මෑතකදී සිදුකල ස්වාදහීන පරීක්සහණ වලින් අනෙක් බරවුසර පරදා ඇත.
 
 
 ;So you can browse with confidence with the fastest on the Web.

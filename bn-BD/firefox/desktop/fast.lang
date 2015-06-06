@@ -26,8 +26,8 @@
 
 
 # L10n: Line break below is for wide screen formatting only.
-;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s">“speed king.”</a>
-Firefox অন্যান্য ব্রাউজারদের ছাপিয়ে গেছে সাম্প্রতিক স্বাধীন পরীক্ষায় এবং তার নামকরণ হয়েছে <br class="wide-br"><a href="%(url1)s">“স্পিড কিং।”</a>
+;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
+Firefox অন্যান্য ব্রাউজারদের ছাপিয়ে গেছে সাম্প্রতিক স্বাধীন পরীক্ষায় এবং তার নামকরণ হয়েছে <br class="wide-br"><a href="%(url1)s" data-interaction="outbound link">“স্পিড কিং।”</a>
 
 
 ;So you can browse with confidence with the fastest on the Web.

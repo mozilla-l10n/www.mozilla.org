@@ -26,8 +26,8 @@ Firefox — "스피드 킹" - 웹에서 가장 빠른 브라우저
 
 
 # L10n: Line break below is for wide screen formatting only.
-;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s">“speed king.”</a>
-최근의 독립적인 테스트에서 Firefox가 다른 브라우저들을 제치고 <br class="wide-br"><a href="%(url1)s">“스피드 킹”</a>이라는 이름을 얻었습니다.
+;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
+최근의 독립적인 테스트에서 Firefox가 다른 브라우저들을 제치고 <br class="wide-br"><a href="%(url1)s" data-interaction="outbound link">“스피드 킹”</a>이라는 이름을 얻었습니다.
 
 
 ;So you can browse with confidence with the fastest on the Web.

@@ -26,8 +26,8 @@ Presegel je tehnična pričakovanja <br class="wide-br">in se izkazal pri vsakod
 
 
 # L10n: Line break below is for wide screen formatting only.
-;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s">“speed king.”</a>
-V neodvisnem testiranju je Firefox premagal vse ostale brskalnike in si zaslužil naziv <br class="wide-br"><a href="%(url1)s">“dirkač.”</a>
+;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
+V neodvisnem testiranju je Firefox premagal vse ostale brskalnike in si zaslužil naziv <br class="wide-br"><a href="%(url1)s" data-interaction="outbound link">“dirkač.”</a>
 
 
 ;So you can browse with confidence with the fastest on the Web.

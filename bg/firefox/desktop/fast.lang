@@ -26,8 +26,8 @@ Firefox — "Кралят на скоростта" - Най-бързият бр�
 
 
 # L10n: Line break below is for wide screen formatting only.
-;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s">“speed king.”</a>
-Firefox надмина други браузъри в скорошни независими тестове и беше избран за <br class="wide-br"><a href="%(url1)s">“краля на скоростта.”</a>
+;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
+Firefox надмина други браузъри в скорошни независими тестове и беше избран за <br class="wide-br"><a href="%(url1)s" data-interaction="outbound link">“краля на скоростта.”</a>
 
 
 ;So you can browse with confidence with the fastest on the Web.

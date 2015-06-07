@@ -5,17 +5,17 @@
 # Firefox family navigation menu. Main level item.
 # Example: https://www-demo2.allizom.org/firefox/os
 ;<span>for</span> Desktop
-데스크톱
+데스크톱용
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-Android
+Android용
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+iOS용
 
 
 # Firefox family navigation menu. Main level item.
@@ -26,12 +26,12 @@ Android
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+데스크톱과 랩톱용
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+전화기와 태블릿용
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -71,33 +71,33 @@ For phones &amp; tablets
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+앱
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+추척 반대
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+타일
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+관심사 대시보드
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+개발자 버전
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+사생활 보호 브라우징
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -107,12 +107,12 @@ Private Browsing
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+뉴스
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+개발자
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -127,12 +127,12 @@ For developers
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+독립적인 브라우저 선택하기
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox는 영리를 추구하지 않고 회사도 아니며 타협하지도 않습니다. Firefox를 선택하는 일은 단순히 브라우저를 선택하는 일이 아닙니다. 개인의 자유에 대한 지지입니다.
 
 
 ;Donate
@@ -415,8 +415,7 @@ Firefox 모바일
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
-
+사이트에 기여하기
 
 # Footer string
 ;Contribute to this page
@@ -575,7 +574,7 @@ Firefox 페이스북
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+리더쉽
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -741,6 +740,6 @@ Firefox iOS가 준비중입니다! <a href="{url}">자세히 보기</a>
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+축하합니다. 최신 버전 입니다!
 
 

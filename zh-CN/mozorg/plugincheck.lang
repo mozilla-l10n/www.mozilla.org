@@ -1,5 +1,4 @@
 ## active ##
-## java_notice ##
 ## meta_update_201503 ##
 ## plugin_disable_warning ##
 ## plugin_updated_content ##
@@ -77,14 +76,6 @@ Currently the plugin check service is only available to Firefox users.
 
 ;Looks like you’re using an older version of Firefox.
 看起来你正在使用老版本的 Firefox 。
-
-
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-我们注意到检测 Java 插件当前版本时遇到了问题并误报为漏洞。
-
-
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-我们正在努力解决这个错误。与此同时，您也可以 <a href="%(download)s">访问 Java 网站</a> 下载最新版本。
 
 
 ;Plugin Status

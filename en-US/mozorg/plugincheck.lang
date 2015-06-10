@@ -1,6 +1,5 @@
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 ## URL: https://www-dev.allizom.org/%LOCALE%/plugincheck
-## java_notice ##
 ## meta_update_201503 ##
 ## plugincheck_nosupport ##
 ## plugin_disable_warning ##
@@ -82,16 +81,6 @@ Plugins don’t always update automatically. Check yours now to stay safe and br
 
 ;Looks like you’re using an older version of Firefox.
 Looks like you’re using an older version of Firefox.
-
-
-## TAG: java_notice
-;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
-
-
-## TAG: java_notice
-;We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
-We’re working to correct this error. In the meantime, you can <a href="%(download)s">visit the Java website</a> to download the latest version.
 
 
 ;Plugin Status

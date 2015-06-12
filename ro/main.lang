@@ -15,12 +15,12 @@ Navigare
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+<span>pentru</span> iOS
 
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OS {ok}
+Sistem de operare (OS)
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -71,23 +71,23 @@ Pentru parteneri
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+Aplicații
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Nu mă urmări
+Nu mă urmăriți
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Miniaturi
+Panouri (Tiles)
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Tablou de interese
+Tabloul intereselor mele
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -102,7 +102,7 @@ Navigare fără urme
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 ;Need help?
-Ai nevoie de ajutor?
+Aveți nevoie de ajutor?
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -117,7 +117,7 @@ Pentru dezvoltatori
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Găsește-mi dispozitivul
+Găsiți dispozitivul meu
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -127,16 +127,16 @@ Dezvoltatori
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Alege navigatorul independent
+Alegeți navigatorul independent
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox este nonprofit, fără legături corporative și realizat fără compromisuri. Alegând Firefox nu alegi doar un navigator. Este un vot pentru libertatea personală.
+Firefox este nonprofit, fără legături corporatiste și este realizat fără compromisuri. Prin Firefox nu alegeți doar un navigator, este un vot pentru libertatea personală.
 
 
 ;Donate
-Donații
+Donați
 
 
 ;Support
@@ -148,7 +148,7 @@ Produse
 
 
 ;Add-ons
-Suplimente
+Suplimente (Add-ons)
 
 
 ;About Us
@@ -160,11 +160,11 @@ Laborator
 
 
 ;skip to Navigation
-sari la Navigare
+săriți la Navigare
 
 
 ;switch language
-schimbă limba
+schimbați limba
 
 
 ;Back to home page
@@ -176,7 +176,7 @@ Despre Mozilla
 
 
 ;Get Involved
-Implică-te
+Implicați-vă
 
 
 ;Careers
@@ -223,7 +223,7 @@ Politică de confidențialitate
 
 
 ;Release Notes
-Note privind lansarea
+Note privind ediția
 
 
 ;Other Systems and Languages
@@ -231,7 +231,7 @@ Alte sisteme de operare și limbi
 
 
 ;Close
-Închide
+Închideți
 
 
 ;(in English)
@@ -239,7 +239,7 @@ Alte sisteme de operare și limbi
 
 
 ;Return to top
-Întoarce-te la partea de sus
+Reveniți la partea de sus
 
 
 ;Features
@@ -251,7 +251,7 @@ Personalizare
 
 
 ;Download
-Descarcă
+Descărcați
 
 
 ;Previous
@@ -264,7 +264,7 @@ Descarcă
 
 # MegaBytes abbreviation
 ;MB
-MO
+MB {ok}
 
 
 ;MegaBytes
@@ -284,7 +284,7 @@ Cu excepția cazurilor când <a href="%s">se specifică altfel</a>, conținutul 
 
 
 ;Report Trademark Abuse
-Raportează un abuz al mărcilor înregistrate
+Raportați un abuz al mărcilor înregistrate
 
 
 ;Free Upgrade
@@ -293,7 +293,7 @@ Actualizare gratuită
 
 # social networks such as Facebook and Twitter
 ;Follow us on:
-Urmărește-ne pe:
+Urmăriți-ne pe:
 
 
 ;Customize with Add-ons
@@ -301,29 +301,29 @@ Personalizare cu suplimente
 
 
 ;Learn More
-Află mai multe
+Aflați mai multe
 
 
 # Same as previous above but with no capitalization on More
 ;Learn more
-Află mai multe
+Aflați mai multe
 
 
 # Link used to play again an animation or a video
 ;Replay
-Reia
+Reluați
 
 
 ;Watch the video
-Urmărește videoclipul
+Urmăriți videoclipul
 
 
 ;Replay the video
-Reia videoclipul
+Reluați videoclipul
 
 
 ;Share the video
-Împărtășește videoclipul
+Împărtășiți videoclipul
 
 
 ;WebM format
@@ -343,15 +343,15 @@ Mobil
 
 
 ;Check out the new look and feel of Firefox.
-Încearcă noul aspect al Firefox.
+Încearcați noul aspect al Firefox.
 
 
 ;View Full Site
-Vezi saitul complet
+Vizualizați saitul complet
 
 
 ;Download for <span>Android</span>
-Descarcă pentru <span>Android</span>
+Descărcați pentru <span>Android</span>
 
 
 ;Desktop
@@ -367,11 +367,11 @@ Firefox pentru mobil
 
 
 ;Email
-E-mail
+Email {ok}
 
 
 ;Super speed
-Superviteză
+Super rapid
 
 
 ;Stunning graphics
@@ -383,15 +383,15 @@ Cele mai noi tehnologii
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Ai nevoie de actualizare! Vei fi în siguranță în mai puțin de un minut. <br/> Începe să folosești noul Firefox pentru cea mai bună navigare și personalizare de pe Web. <br/> Este rapid și gratuit!
+Aveți nevoie de actualizare! Veți fi în siguranță în mai puțin de un minut. <br/> Începeți să folosiți noul Firefox pentru cea mai bună navigare și personalizare de pe Web. <br/> Este rapid și gratuit!
 
 
 ;Upgrade now
-Actualizează acum
+Obțineți ultima ediție
 
 
 ;Update now
-Actualizează acum
+Actualizați acum
 
 
 ;Supported Devices
@@ -415,12 +415,12 @@ Porțiuni din acest conținut sunt scrise între ©1998–%(current_year)s de co
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribuie la această pagină
+Contribuiți la această pagină
 
 
 # Footer string
 ;Contribute to this page
-Contribuie la această pagină
+Contribuiți la această pagină
 
 
 # Top menu item
@@ -435,12 +435,12 @@ Tur
 
 # Footer item
 ;Partner with Us
-Partener cu noi
+Deveniți partenerul nostru
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sincronizare
+Sincronizare (Sync)
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -485,7 +485,7 @@ Confidențialitate și securitate
 
 # Top menu item on firefox/update page
 ;Releases
-Lansări
+Ediții
 
 
 # Top menu item on firefox/update page
@@ -520,17 +520,17 @@ Despre Firefox
 
 # Top menu item on firefox/update page
 ;Join Mozilla
-Alătură-te Mozilla
+Alăturați-va Mozillei
 
 
 # Top menu item on firefox/update page
 ;Participate
-Participă
+Participați
 
 
 # Top menu item on firefox/update page
 ;Brand Toolkit
-Set de unelte pentru marcă
+Unelte pentru brand
 
 
 # Top menu item on firefox/update page
@@ -545,7 +545,7 @@ Obțineți informații noi de la Mozilla
 
 # share button for social networks
 ;Share
-Distribuie
+Dați mai departe
 
 
 # footer link
@@ -580,7 +580,7 @@ Conducerea
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
-Administrația
+Administrație
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -600,7 +600,7 @@ Programe și alte invovații concepute pentru a avansa în misiunea noastră.
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Deveniți un colaborator voluntar în mai multe domenii diferite.
+Deveniți un colaborator voluntar în mai multe domenii.
 
 
 # This is a non-visible string for blind people to indicate where the menu is
@@ -610,23 +610,23 @@ Meniu
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Creat pentru tine, pentru confidențialitatea ta și pentru un web deschis.
+Creat pentru dumneavoastră, pentru confidențialitate și pentru un Web deschis.
 
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Alege independent
+Alegeți independența
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Menține vie flacăra pasiunii pentru un Internet liber și deschis! #ChooseIndependent. Alege Firefox:
+Mențineți vie flacăra pasiunii pentru Internetul liber și deschis! #ChooseIndependent. Alegeți Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Te rugăm să pornești JavaScript pentru a afișa această pagină corect.
+Vă rugăm să activați JavaScript pentru a afișa această pagină corect.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -668,7 +668,7 @@ Iulie
 
 
 ;August
-august
+August
 
 
 ;September
@@ -737,10 +737,10 @@ Decembrie
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox vine în curând pe iOS! <a href="{url}">Înregistrează-te pentru a afla mai multe</a>.
+Firefox vine în curând pe iOS! <a href="{url}">Înregistrați-vă pentru a afla mai multe</a>.
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+Felicitări. Sunteți actualizați!
 
 

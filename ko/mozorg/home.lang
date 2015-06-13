@@ -1,10 +1,10 @@
 ## active ##
-## promo_fxdesktop ##
 ## promo_lightbeam ##
 ## promo_new_mdn ##
-## promo_sumo ##
 ## promo_webmaker ##
 ## promo_webwewant ##
+## promo_fxdesktop ##
+## promo_sumo ##
 ## NOTE: demo server for home page is https://www-dev.allizom.org
 
 
@@ -216,7 +216,11 @@ MDN 방문하기
 
 # This is the label seen when the panel is collapsed so it may need to be altered to fit a limited space. The active phrase should be wrapped in <i></i> tags.
 ;<i>Try the best</i> Firefox yet
+<<<<<<< .mine
+<i>최선을 다해</i> Firefox 이용하기 
+=======
 <i>최선을 다해</i> Firefox 이용하기
+>>>>>>> .r132815
 
 
 # This is the headline seen when the panel is open so it can be longer than the panel label.
@@ -227,7 +231,6 @@ MDN 방문하기
 ;Learn more about the free desktop browser that’s committed to you, your privacy and an open Web.
 PC용 웹 브라우저에서 오픈 웹과 개인 정보를 보호하는 방법에 대해 알아봅니다.
 
-
 ;See what’s new
 최신 소식 보기
 
@@ -236,7 +239,6 @@ PC용 웹 브라우저에서 오픈 웹과 개인 정보를 보호하는 방법�
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 ;<i>Join</i> our <br>Maker Party
 <i>Maker Party</i><br>참여하기
-
 
 # promo_makerparty, temporarily disabled
 # This <br> is strictly for visual formatting; translations can omit or reposition as needed.
@@ -248,9 +250,11 @@ Maker Party<br> 참여하기
 ;From July to September, help us teach, learn and make the Web at hands-on community events.
 7월 부터 9월까지 커뮤니티 기반 웹 교육 이벤트가 전 세계적으로 열립니다.
 
-
 # promo_makerparty, temporarily disabled
 ;Learn about events near you
+<<<<<<< .mine
+주변 이벤트 목록
+=======
 주변 이벤트 목록
 
 
@@ -271,3 +275,4 @@ Mozilla 사용자 <i>지원</i>
 사용자 지원팀 참여
 
 
+>>>>>>> .r132815

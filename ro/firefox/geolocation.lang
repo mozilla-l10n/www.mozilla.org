@@ -44,7 +44,7 @@ Când vizitați un sait care poate folosi locația dvs., Firefox vă întreabă 
 
 
 ;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
-Dacă permiteți, Firefox adună informații despre puncte de acces radio din apropiere și despre adresa dvs. IP. Apoi firefox trimite aceste informații către furnizorul serviciului de geolocație, Google Location Services, pentru a obține o estimare a locației. Apoi această estimare este împărtășită cu saitul care a cerut informația.
+Dacă permiteți, Firefox adună informații despre puncte de acces radio din apropiere și despre adresa dvs. IP. Firefox trimite aceste informații către furnizorul serviciului de geolocație, Google Location Services, pentru a obține o estimare a locației. Apoi această estimare este împărtășită cu saitul care a cerut informația.
 
 
 ;If you say that you do not consent, Firefox will not do anything.
@@ -64,7 +64,7 @@ Ce informații sunt trimise și către cine? Cum este protejată confidențialit
 
 
 ;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
-Confidențialitatea dvs. este extrem de importantă pentru noi. Firefox nu va furniza date despre locația dvs. fără a vă cere permisiunea. Când vizitați o pagină care cere aceste informații, veți fi întrebat înainte ca orice informație să fie împărtășită cu saitul care o cere sau cu furnizorul de servicii de geolocație.
+Confidențialitatea dvs. este extrem de importantă pentru noi. Firefox nu va furniza date despre locația dvs. fără a vă cere permisiunea. Când vizitați o pagină care cere aceste informații, veți fi întrebat înainte ca informația să fie împărtășită cu saitul care o cere sau cu furnizorul de servicii de geolocație.
 
 
 ;By default, Firefox uses Google Location Services to determine your location by sending:
@@ -84,7 +84,7 @@ un identificator generat aleator de către Google care expiră în două săptă
 
 
 ;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
-Pentru o descriere completă a informațiilor colectate de Firefox, vă rugăm să vedeți <a href="%(url)s">Politica de confidențialitate Firefox</a> (în enleză).
+Pentru o descriere completă a informațiilor colectate de Firefox, vă rugăm să vedeți <a href="%(url)s">Politica de confidențialitate Firefox</a> (în engleză).
 
 
 ;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.

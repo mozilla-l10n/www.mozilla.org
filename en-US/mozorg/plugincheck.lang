@@ -1,6 +1,7 @@
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 ## URL: https://www-dev.allizom.org/%LOCALE%/plugincheck
 ## plugincheck_nosupport ##
+## plugin_outdated ##
 ## plugin_updated_content ##
 
 
@@ -54,6 +55,12 @@ unknown
 # This is the string used to indicate that the plugin is vulnerable
 ;vulnerable
 vulnerable
+
+
+## TAG: plugin_outdated
+# This is the string used to indicate that the plugin is outdated
+;outdated
+outdated
 
 
 # Main title

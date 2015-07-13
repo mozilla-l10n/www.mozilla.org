@@ -1,4 +1,7 @@
 ## active ##
+## firefox_sync_non_fx ##
+## fx38_sync_updates ##
+## ios_announce ##
 ## NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/sync/
 
 
@@ -7,11 +10,11 @@
 
 
 ;Ready, Set, Sync
-तैयार,दृढ़,सिंक
+तैयार, सेट, सिंक
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-आप हस्ताक्षरत् हो गए हैं और अभिगमन के लिए तैयार हैं <em>आप </em>फायरफॉक्स हर जगह,हर समय
+आप हस्ताक्षरत् हो गए हैं और एक्सेस के लिए तैयार हैं <em>आप</em> फ़ॉयरफ़ॉक्स हर जगह,हर समय.
 
 
 ;Take your Web with you
@@ -19,11 +22,11 @@
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-अपने फायरफॉक्स को सिंक करें जब भी आप अपने पुस्तचिह्न,कूट शब्द,टैब और अधिक का किसी भी स्मार्टफोन , टेबलेट या कंप्यूटर से अभिगमन करते हैं
+अपने फ़ॉयरफ़ॉक्स को सिंक करें जब भी आप अपने पुस्तचिह्न,पासवर्ड, टैब और अधिक का किसी भी स्मार्टफोन, टेबलेट या कंप्यूटर से अभिगमन करते हैं.
 
 
 ;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
-Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
+अपना फॉयरफॉक्स अकाउंट का उपयोग करके अपना बुकमार्क्स, पासवर्डस, टैब्स और भी अधिक सिंक करें और इसको कहीं भी एक्सेस करे जहाँ आप लॉगइन हों.
 
 
 ;It looks like you’re running an older version of Firefox.
@@ -35,16 +38,16 @@ Sync your bookmarks, passwords, tabs and more using your Firefox Account, and ac
 
 
 ;Soon you’ll be able to use Sync on your iOS device
-Soon you’ll be able to use Sync on your iOS device
+बहुत जल्द आप अपने आईओस डिवाइस पर सिंक का उपयोग करने में समर्थ होंगे
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-सिंक कुछ एक महान सुविधाओं में से है जो आपको सिर्फ फायरफॉक्स के साथ ही मिलेंगे. सबको ढूंढे !
+सिंक कुछ एक महान सुविधाओं में से है जो आपको सिर्फ फायरफॉक्स के साथ ही मिलेंगे. सबको ढूंढे!
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync is just one of the great features you’ll only get with Firefox.
+सिंक एक महान सुविधाओं में से है जो आपको सिर्फ फायरफॉक्स के साथ ही मिलेंगे.
 
 
 ;Download Firefox for Android
@@ -64,28 +67,28 @@ Sync is just one of the great features you’ll only get with Firefox.
 
 
 ;Get started with Sync in four easy steps:
-सिंक के साथ चार आसान चरणो में शुरुआत करें :
+सिंक के साथ चार आसान चरणो में शुरुआत करें:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-फायरफॉक्स के ऊपरी दायें किनारे पे <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">मेनू </a>खोले <strong>सिंक में हस्ताक्षर करें </strong>
+फ़ॉयरफ़ॉक्स के ऊपरी दायें किनारे पे <a class="menu ga-link" data-interaction="outbound link click"  href="%(url)s#w_a-handy-new-menu">मेनू </a>खोले और "<strong>सिंक में हस्ताक्षर करें </strong>" चुनें
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-क्लिक करें "<strong>शुरुआत करें </strong>" उस टैब में जो खुलता है.
+क्लिक करें “<strong>शुरुआत करें </strong>” उस टैब में जो खुलता है.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-<strong>फायरफॉक्स अकाउंट बनाने के लिए </strong>"एक ईमेल पता और कूटशब्द दर्ज करें.
+"<strong>फायरफॉक्स अकाउंट बनाये. </strong>"एक ईमेल पता और पासवर्ड दर्ज करें.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-आपके ईमेल पे सत्यापन भेजने के लिए क्लिक करें “<strong>आगे </strong>”
+आपके ईमेल पे सत्यापन भेजने के लिए इसमें“<strong>आगे </strong>”क्लिक करें.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
@@ -97,43 +100,43 @@ Sync is just one of the great features you’ll only get with Firefox.
 
 
 ;Using an older version of Sync?
-क्या आप सिंक का पुराना संस्करण इस्तेमाल कर रहे हैं ?
+आप सिंक का पुराना संस्करण इस्तेमाल कर रहे हैं?
 
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-सीस को पांच आसान चरणो में कैसे सेटअप करें ?
+सिंक को पांच आसान चरणो में कैसे सेटअप करें:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-<strong>मेनू </strong>बटन को (ब्राउज़र स्क्रीन के नीचे या ऊपर दायें किनारे पे ) दबाएं
+<strong>मेनू </strong>बटन को (ब्राउज़र स्क्रीन के नीचे या ऊपर दायें किनारे पे ) दबाएं.
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-<strong>सेटिंग्स</strong>चुने(aapko पहले <strong>अधिक</strong>दबाने की जरुरत पड़ेगी.)
+<strong>सेटिंग्स</strong>चुने(आपको पहले <strong>अधिक</strong>दबाने की जरुरत पड़ेगी).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-<strong>सिंक</strong>दबाएं और फिर <strong>शुरुआत करें</strong>.
+<strong>सिंक</strong> दबाएं और फिर <strong>शुरुआत करें</strong>.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-<strong>नया फायरफॉक्स खता पेज</strong>नए टैब में खुलेगा
+<strong>एक फॉयरफॉक्स अकाउंट पेज बनाये</strong> नए टैब में खुलेगा.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-फार्म भरें और क्लिक करें<strong>आगे </strong>
+फार्म भरें और <strong>आगे </strong> क्लिक करें.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-अपना ईमेल चेक करना के बाद सत्यापन लिंक पर क्लिक करें फिर आप चलने के लिए तैयार हैं !अपने अन्य यंत्रों को सिंक से अधिकतम प्राप्त करने के लिए जोड़ना न भूलें.
+अपना ईमेल चेक करना के बाद सत्यापन लिंक पर क्लिक करें फिर आप चलने के लिए तैयार हैं! अपने अन्य यंत्रों को अधिकतम सिंक प्राप्त करने के लिए जोड़ना न भूलें.
 
 
 ;Sync a little. Sync a lot.
@@ -141,15 +144,15 @@ Sync is just one of the great features you’ll only get with Firefox.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-आप ये चुनते हो की फायरफॉक्स के कौन से हिस्सों को आपको सिंक करना है और आप उन्हें कहाँ सिंक करना चाहते हैं.अपने खुले हुए टैब पर आपने रोज़ के लघुकरण रखें. अपने पुस्तचिह्न को अपने काम पर अभिगमन करें. जो भी, जब भी, जहाँ भी.
+आप ये चुनते हो की फायरफॉक्स के कौन से हिस्सों को आपको सिंक करना है और आप उन्हें कहाँ सिंक करना चाहते हैं. अपने खुले हुए टैब पर आपने रोज़ के लघुकरण रखें.nअपने पुस्तचिह्न को अपने काम पर अभिगमन करें. जो भी, जब भी, जहाँ भी.
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+आप दूसरे डिवाइस से अपना कप्यूटर के खुले टैब्स को विजिट करना चाहते हैं? गो पर अपना ब्राउज़िंग इतिहास को एक्सेस करे?अपना पासवर्ड अपने पास रखे? अब आप कर सकते हैं.
 
 
 ;Here’s what you can sync:
-Here’s what you can sync:
+यहाँ जो आप सिंक कर सकते हैं:
 
 
 ;Bookmarks
@@ -157,11 +160,11 @@ Here’s what you can sync:
 
 
 ;Passwords
-Passwords
+पासवर्डस
 
 
 ;Open tabs
-Open tabs
+टैब्स खोले
 
 
 ;History
@@ -173,7 +176,7 @@ Open tabs
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-अपने मेज को अपने सोफे तक बिना किसी टप्पे के छूटे ले जाएँ. अपने खुले हुए टैब का अपने स्मार्टफोन पर अभिगमन करें,या अपने टेबलेट पर अपने पुस्तचिह्न ब्राउज करें.
+अपने मेज को अपने सोफे तक बिना किसी टप्पे के छूटे ले जाएँ. अपने खुले हुए टैब का अपने स्मार्टफोन पर अभिगमन करें, या अपने टेबलेट पर अपने पुस्तचिह्न ब्राउज करें.
 
 
 ;At work
@@ -189,30 +192,30 @@ Open tabs
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-अपने पसंदीदा साइट्स के साथ जगे रहिये,या अपने घर पे शुरू की हुई कहानी खत्म करें - आप जहा भी जाएँ. सिंक के साथ ,ये इतना आसान कभी भी नहीं था.
+अपने पसंदीदा साइट्स के साथ जगे रहिये, या अपने घर पे शुरू की हुई कहानी खत्म करें — आप जहा भी जाएँ. सिंक के साथ, ये इतना आसान कभी भी नहीं था.
 
 
 ;Add Firefox to your smartphone or tablet
-Add Firefox to your smartphone or tablet
+अपने स्मार्टफोन या टेबलेट में फ़ॉयरफ़ॉक्स को जोड़े
 
 
 ;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
-To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
+पूरा सिंक अनुभव पाने के लिए, आईओस या एंड्रॉयड के लिए फ़ॉयरफ़ॉक्स पाये और सभी डिवाइस को कनेक्ट करे — हर जगह और कहीं भी आप फॉयरफॉक्स उपयोग कर सकते हैं.
 
 
 ;Add Firefox
-Add Firefox
+फ़ायरफ़ॉक्स जोड़ें
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-आपके पास <b>एंड्राइड स्मार्टफोन </b>ya <b>टेबलेट </b>है ?
+आपके पास <b>एंड्राइड स्मार्टफोन </b>या <b>टेबलेट </b> है?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-एंड्राइड के लिए फायरफॉक्स डाउनलोड करें
+एंड्राइड के लिए फ़ॉयरफ़ॉक्स डाउनलोड करें
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-सम्पूर्ण सिंक का अनुभव करने के लिए , अपने वेब के अपने साथ रखें जहा भी आप फायरफॉक्स इस्तेमाल कर रहे हो. अपने स्मार्टफोन,टेबलेट,कंप्यूटर और लैपटॉप को जोड़े.
+सम्पूर्ण सिंक का अनुभव करने के लिए, अपने वेब को अपने साथ रखें जहा भी आप फायरफॉक्स इस्तेमाल कर रहे हो. अपने स्मार्टफोन, टेबलेट, कंप्यूटर और लैपटॉप को जोड़े.
 
 

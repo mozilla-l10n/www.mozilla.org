@@ -1,5 +1,6 @@
 ## active ##
 ## firefox_sync_non_fx ##
+## fx38_sync_updates ##
 ## ios_announce ##
 ## NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/sync/
 
@@ -25,7 +26,7 @@ Sincroniza Firefox donde sea para que puedas acceder a tus marcadores, contrase�
 
 
 ;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
-Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
+Sincroniza tus marcadores, contraseñas, pestañas y más usando tu cuenta de Firefox y accede a ellos desde donde sea que ingreses a tu cuenta.
 
 
 ;It looks like you’re running an older version of Firefox.
@@ -72,7 +73,7 @@ Inicia con Sync en sólo 4 sencillos pasos:
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Abre el <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menú</a> en la parte superior derecha de Firefox y selecciona “<strong>Iniciar sesión en Sync.</strong>”
+Abrir el<a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menú</a> en la parte superior derecha de Firefox y selecciona "<strong>Ingresar a Sync.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -147,7 +148,7 @@ Tú eliges las partes de tu Firefox que quieres sincronizar y dónde quieres que
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+¿Quieres visitar las pestañas abiertas de tu computadora desde otro dispositivo? ¿Acceder a tu historial de navegación sobre la marcha? ¿Mantener tus contraseñas contigo? Ahora puedes.
 
 
 ;Here’s what you can sync:

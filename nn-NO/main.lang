@@ -5,22 +5,22 @@ Navigasjon
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>for</span> Desktop {ok}
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>for</span> Android {ok}
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+<span>for</span> iOS {ok}
 
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OS
+OS {ok}
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -31,17 +31,17 @@ For desktops &amp; laptops
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+For mobilar og nettbrett
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Overview
-Oversikt
+Oversyn
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
-Sikker
+Tiltrudd
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -61,22 +61,22 @@ Om
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+Einingar
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+For partnarar
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+appar
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+Ikkje spor
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -107,27 +107,27 @@ Treng du hjelp?
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+Nyhende
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+For utviklarar
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+Finn eininga mi
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
-Developers
+Utviklarar
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Vel den uavhengige nettlesaren
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -136,15 +136,15 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 
 
 ;Donate
-Donasjon
+Gje pengar
 
 
 ;Support
-Støtte
+Brukarstøtte
 
 
 ;Products
-Produkter
+Produkt
 
 
 ;Add-ons
@@ -168,7 +168,7 @@ bytt språk
 
 
 ;Back to home page
-Tilbake til startsiden
+Tilbake til heimesida
 
 
 ;About Mozilla
@@ -176,11 +176,11 @@ Om Mozilla
 
 
 ;Get Involved
-Bli involvert
+Ver med
 
 
 ;Careers
-Jobbmuligheter
+Kariere
 
 
 ;Press Center
@@ -197,7 +197,7 @@ Andre språk:
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%d.%m.%Y
+%d-%m-%Y
 
 
 ;Legal
@@ -206,7 +206,7 @@ Juridisk
 
 # Used as link in the footer
 ;Cookies
-Infokapsler
+Infokapslar
 
 
 # Used as link in the footer
@@ -219,7 +219,7 @@ Juridisk info
 
 
 ;Privacy Policy
-Personvern
+Personvernpraksis
 
 
 ;Release Notes
@@ -227,11 +227,11 @@ Versjonsnotat
 
 
 ;Other Systems and Languages
-Andre systemer og språk
+Andre system og språk
 
 
 ;Close
-Lukk
+Lat att
 
 
 ;(in English)
@@ -255,7 +255,7 @@ Last ned
 
 
 ;Previous
-Forrige
+Førre
 
 
 ;Next
@@ -268,7 +268,7 @@ MB {ok}
 
 
 ;MegaBytes
-MegaBytes {ok}
+MegaByte
 
 
 ;FAQ
@@ -276,7 +276,7 @@ OSS
 
 
 ;Videos
-Videoer
+Videoar
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
@@ -297,11 +297,11 @@ Følg oss på:
 
 
 ;Customize with Add-ons
-Tilpass med utvidelser
+Tilpass med utvidingar
 
 
 ;Learn More
-Les mer
+Lær meir
 
 
 # Same as previous above but with no capitalization on More
@@ -311,15 +311,15 @@ Lær meir
 
 # Link used to play again an animation or a video
 ;Replay
-Spill av igjen
+Spel ein gong til
 
 
 ;Watch the video
-Se videoen
+Sjå videoen
 
 
 ;Replay the video
-Spill av videoen på nytt
+Vis videoen ein gong til
 
 
 ;Share the video
@@ -335,7 +335,7 @@ Ogg Theora-format
 
 
 ;MPEG-4 format
-MPEG-4-format
+MPEG-4 format {ok}
 
 
 ;Mobile
@@ -359,11 +359,11 @@ Desktop {ok}
 
 
 ;Firefox Beta for mobile
-Firefox Beta for mobil
+Firefox Beta for mobilar
 
 
 ;Firefox for mobile
-Firefox for mobil
+Firefox for mobilar
 
 
 ;Email
@@ -371,7 +371,7 @@ E-post
 
 
 ;Super speed
-Super hastighet
+Superfart
 
 
 ;Stunning graphics
@@ -387,11 +387,11 @@ Du trenger en oppgradering! Bli trygg på nettet på mindre enn ett minutt. <br/
 
 
 ;Upgrade now
-Oppgrader nå
+Oppgrader no
 
 
 ;Update now
-Oppdater nå
+Oppdater no
 
 
 ;Supported Devices
@@ -450,7 +450,7 @@ Desktop-utvidelser
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android-utvidelser
+Android-utvidingar
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -480,12 +480,12 @@ Teknologi
 
 # Top menu item on firefox/update page
 ;Privacy &amp; Security
-Personvern og sikkerhet
+Personvern og tryggleik
 
 
 # Top menu item on firefox/update page
 ;Releases
-Utgivelser
+Utgjevingar
 
 
 # Top menu item on firefox/update page
@@ -495,7 +495,7 @@ Firefox {ok}
 
 # Top menu item on firefox/update page
 ;Firefox for Organizations
-Firefox for organisasjoner
+Firefox for organisasjonar
 
 
 # Top menu item on firefox/update page
@@ -515,12 +515,12 @@ Blogg
 
 # Top menu item on firefox/update page
 ;About Firefox
-Om Firefox
+OmFirefox
 
 
 # Top menu item on firefox/update page
 ;Join Mozilla
-Bli en del av Mozilla
+Ver med Mozilla
 
 
 # Top menu item on firefox/update page
@@ -575,7 +575,7 @@ Forum
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+Leiarskap
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -590,7 +590,7 @@ Historikk
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Our Products
-Produkter
+Våre produkt
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -631,12 +631,12 @@ Please turn on JavaScript to display this page correctly.
 
 # Used as link to /firefox/desktop in footers on some pages
 ;Firefox Features
-Firefox Features
+Firefox-fuksjonar
 
 
 # Used as link to SUMO in footers on some pages
 ;Firefox Help
-Firefox Help
+Firefox Hjelp
 
 
 ;January
@@ -737,10 +737,10 @@ Desember
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox kjem snart til iOS! <a href="{url}">Registrer deg for å læra meir</a>.
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+Gratulerar. Du er oppdatert!
 
 

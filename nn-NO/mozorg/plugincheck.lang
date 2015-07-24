@@ -18,7 +18,7 @@ Plugin Check &amp; Updates
 
 # This is a button telling the user to update their plugin
 ;Update Now
-Update Now
+Oppdater no
 
 
 # This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
@@ -33,7 +33,7 @@ current version plugin
 
 # This is a button informing the user that their plugin is up to date
 ;Up to Date
-Up to Date
+Oppdatert
 
 
 # L10n: This is alt text used on plugin icon images
@@ -43,22 +43,22 @@ Plugin icon
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+ukjend
 
 
 # This is the string used to indicate that the plugin is vulnerable
 ;vulnerable
-vulnerable
+sårbar
 
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+utdatert
 
 
 # Main title
 ;Check Your Plugins
-Check Your Plugins
+Kontroller programtillegga dine
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
@@ -79,7 +79,7 @@ Det ser ut til at du brukar ein eldre versjon av Firefox.
 
 
 ;Plugin Status
-Plugin Status
+Programtilleg-status
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -99,27 +99,27 @@ Potentially vulnerable plugins
 
 
 ;Plugin
-Plugin
+Programtillegg
 
 
 ;Status
-Status
+Status {ok}
 
 
 ;Action
-Action
+Handling
 
 
 ;Outdated Plugins
-Outdated Plugins
+Utdaterte programtillegg
 
 
 ;Unknown Plugins
-Unknown Plugins
+Ukjende programtillegg
 
 
 ;These plugins are up to date
-These plugins are up to date
+Desse programtillegga er oppdaterte
 
 
 ;Back to Top
@@ -131,7 +131,7 @@ Frequently Asked Questions
 
 
 ;What is a plugin?
-What is a plugin?
+Kva er eit programtillegg?
 
 
 ;Plugins power videos, animation and games
@@ -168,7 +168,7 @@ Screenshot of Add-Ons manager
 
 
 ;How can Firefox help me?
-How can Firefox help me?
+Korleis kan Firefox hjelpa meg?
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
@@ -192,15 +192,15 @@ Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</
 
 
 ;How do I disable a plugin?
-How do I disable a plugin?
+Korleis slå av eit programtillegg?
 
 
 ;In Firefox:
-In Firefox:
+I Firefox:
 
 
 ;Open the Tools menu.
-Open the Tools menu.
+Opna verktøymenyen.
 
 
 # If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
@@ -209,7 +209,7 @@ Open the <span class="menu">menu</span>.
 
 
 ;Choose Add-ons.
-Choose Add-ons.
+Vel utvidingar.
 
 
 ;Click the plugins tab.
@@ -241,14 +241,14 @@ Caution: disabling a plugin means that you will no longer be able to do certain 
 
 
 ;Mozilla Support
-Mozilla Support
+Mozilla brukarstøtte
 
 
 ;Have more questions?
-Have more questions?
+Har du eit spørsmål?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
+Gå til <a href="%(sumo_url)s">support.mozilla.org</a> for meir hjelp!
 
 

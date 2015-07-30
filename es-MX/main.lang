@@ -5,17 +5,17 @@ Navegación
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span> para </span> Escritorio
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>para</span> Android
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+<span>para</span> iOS
 
 
 # Firefox family navigation menu. Main level item.
@@ -26,12 +26,12 @@ OS {ok}
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+Para computadoras de escritorio &amp; portátiles
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+Para teléfonos &amp; tabletas
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -61,17 +61,17 @@ Acerca de
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+Dispositivos
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+Para socios
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+Aplicaciones
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -81,7 +81,7 @@ Do Not Track
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+Mosaico
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -92,7 +92,7 @@ Interest Dashboard
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+Edición para desarrolladores
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -107,7 +107,7 @@ Navegación privada
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+Noticias
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -127,7 +127,7 @@ Desarrolladores
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Elije el navegador independiente
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -415,7 +415,7 @@ Algunos contenidos son ©1998–%(current_year)s por determinados colaboradores 
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+Colabora en este sitio
 
 
 # Footer string
@@ -575,7 +575,7 @@ Foros
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+Liderazgo
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -737,10 +737,10 @@ Diciembre
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox pronto estará disponible para iOS <a href="{url}">Regístrate para obtener más información</a>.
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+Felicidades. ¡Estás al día!
 
 

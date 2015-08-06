@@ -1,217 +1,220 @@
+## active ##
+## firefox_sync_non_fx ##
+## ios_announce ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
 ;Keep your Firefox in sync
-Keep your Firefox in sync
+حافظ على فَيَرفُكس مُتزامِنًا
 
 
 ;Ready, Set, Sync
-Ready, Set, Sync
+جهّز نفسك، استعداد، زامن
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+لقد تم تسجيلك وبإمكانك الآن الدُخول إلى <em>حسابك</em> على فَيَرفُكس أينما شئت ووقتما أردت.
 
 
 ;Take your Web with you
-Take your Web with you
+خذ معك الويب الخاص بك أينما حللت وارتحلت
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+زامن فَيَرفُكس أينما كنت تستخدمه للوصول إلى علاماتك المرجعية، كلمات السر الخاصة به، ألسنة التبويب والمزيد، سواءً كان ذلك على هاتفك الذكي، جهازك اللوحي أو حاسوبك الشخصي.
 
 
 ;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
-Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
+قم بمزامنة علاماتك المرجعية، وكلمات المرور، والألسنة المفتوحة وغير ذلك باستخدام حساب فَيَرفُكس الخاص بك، وتمكن من الوصول إليهم في كل مكان تقوم بتسجيل دخولك فيه.
 
 
 ;It looks like you’re running an older version of Firefox.
-It looks like you’re running an older version of Firefox.
+يبدو وكأنك تستخدم إصدارًا قديمًا من فَيَرفُكس.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-The new version of Sync only works with the latest version of Firefox
+الإصدار الجديد من Sync مُتوافق فقط مع أحدث إصدار من فَيَرفُكس
 
 
 ;Soon you’ll be able to use Sync on your iOS device
-Soon you’ll be able to use Sync on your iOS device
+سيكون بإمكانك قريبا استخدام خدمة المُزامنة Sync على أجهزة iOS
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+خاصية Sync ليست سوى إحدى الخصائص الرائعة التي يٌُقدّمها لك فَيَرفُكس. اكتشف جميع هذه الخصائص.
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync is just one of the great features you’ll only get with Firefox.
+خاصية Sync ليست سوى إحدى الخصائص الرائعة التي يٌُقدّمها لك فَيَرفُكس.
 
 
 ;Download Firefox for Android
-Download Firefox for Android
+حمّل فَيَرفُكس لنظام أندرويد
 
 
 ;Get started with Sync
-Get started with Sync
+تعرّف على Sync
 
 
 ;Update your Firefox
-Update your Firefox
+قم بتحديث فَيَرفُكس
 
 
 ;Download Firefox
-Download Firefox
+حمّل فَيَرفُكس
 
 
 ;Get started with Sync in four easy steps:
-Get started with Sync in four easy steps:
+اشرع في استخدام Sync باتّباع هذه الخُطوات الأربعة البسيطة:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+افتح <a class="menurev ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">القائمة</a> في الزاوية العُلوية اليُسرى واختر “<strong>تسجيل الدخول إلى Sync</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+انقر على “<strong>فلنبدأ</strong>” في النافذة التي تٌفتح.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+أدخل عنوان بريد إلكتروني وكلمة سر ليتم “<strong>إنشاء حساب فَيَرفُكس</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+انقر على “<strong>التالي</strong>” لتصلك رسالة تأكيد على بريدك الإلكتروني.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+بعد أن تُراجع بريدك الإلكتروني وتنقر على رابط التحقّق تكون قد أنهيت جميع الخُطوات اللازمة. سيقوم فَيَرفُكس بالمُزامنة في الخلفية وبشكل آلي من الآن وصاعدًا.
 
 
 ;Get more detailed instructions.
-Get more detailed instructions.
+احصل على تعليمات مُفصّلة.
 
 
 ;Using an older version of Sync?
-Using an older version of Sync?
+هل تستخدم إصدارًا قديمًا من Sync؟
 
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-How to set up Sync in five easy steps:
+اشرع في استخدام Sync باتّباع هذه الخُطوات الخمسة البسيطة:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+انقر على زر <strong>القائمة</strong> (سواءً كان في أسفل الشاشة أو في إحدى الزوايا العُلوية).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+اختر <strong>إعدادات</strong> (قد تحتاج إلى النقر على <strong>المزيد</strong> أولًا).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+انقر على <strong>Sync</strong> ومن ثم على <strong>الشروع في الاستخدام</strong>.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+سيتم فتح <strong>صفحة إنشاء حساب فَيَرفُكس</strong> في لسان تبويب جديد.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+قم بملء  جميع الحقول المطلوبة ثم انقر على <strong>التالي</strong>.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+بعد أن تُراجع بريدك الإلكتروني وتنقر على رابط التحقّق تكون قد أنهيت جميع الخُطوات اللازمة. لا تنس أن تقوم بربط باقي أجهزتك لاستفادةٍ أمثل من خدمة Sync.
 
 
 ;Sync a little. Sync a lot.
-Sync a little. Sync a lot.
+زامن قليلًا، زامن كثيرًا.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+بإمكانك اختيار ما الذي ترغب في مُزامنته على فَيَرفُكس وأين ترغب في مُزامنته. اجلب معك الصفحات المفتوحة خلال تنقلاتك. استرجع مٌفضلتك وأنت على حواسيب مُختلفة. الخيار خيارك، زامن ما تُريد، أينتما تُريد ووقتما تُريد.
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+تريد زيارة علامات التبويب المفتوحة في جهاز الكمبيوتر الخاص بك من جهاز آخر؟ والوصول إلى تاريخ التصفح أثناء الحركة؟ وتريد كلمات مرورك معك؟ الآن تستطيع ذلك.
 
 
 ;Here’s what you can sync:
-Here’s what you can sync:
+إليك ما تستطيع مزامنته:
 
 
 ;Bookmarks
-Bookmarks
+العلامات المرجعية
 
 
 ;Passwords
-Passwords
+كلمات المرور
 
 
 ;Open tabs
-Open tabs
+الألسنة المفتوحة
 
 
 ;History
-History
+سجل الويب
 
 
 ;At home
-At home
+في المنزل
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+هل ترغب في مُواصلة التصفح وأنت مُستلقٍ على أريكتك؟ يُمكنك الوصول إلى كافة ألسنة التبويب المفتوحة على حاسوبك الشخصي باستخدام هاتفك الذكي، كما يُمكنك الوصول إلى كافة علاماتك المرجعية باستخدام جهازك اللوحي.
 
 
 ;At work
-At work
+في العمل
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+ابق على اتصال بكافة بياناتك المُهمّة. زامن كلمات السر وعلاماتك المرجعية التي ترغب في الوصول إليها في كل وقت. بياناتك ستتمتع بنفس درجة الأمان التي يتمتّع بها فَيَرفُكس.
 
 
 ;On the go
-On the go
+خلال تنقلاتك
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+ابق على اتصال مُباشر مع مواقعك المُفضّلة، أو واصل قراءة المقال الذي شرعت في قراءته في البيت، أينما كنت. الأمر لم يكن بهذه السهولة من قبل.
 
 
 ;Add Firefox to your smartphone or tablet
-Add Firefox to your smartphone or tablet
+أضف فَيَرفُكس إلى هاتفك الذكي أو الجهاز اللوحي
 
 
 ;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
-To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
+لتحصل على التجربة الكاملة للمزامنة، احصل على فَيَرفُكس لل آي أو إٍس أو للأندرويد وقم بتوصيل جميع أجهزتك - في كل مكان وأي مكان تستخدم فيه فَيَرفُكس.
 
 
 ;Add Firefox
-Add Firefox
+أضف فَيَرفُكس
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Have an <b>Android smartphone</b> or <b>tablet</b>?
+هل تستخدم <b>هاتف أندرويد</b> أو <b>جهازًا لوحيًا</b>؟
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-DOWNLOAD FIREFOX FOR ANDROID
+حمّل فَيَرفُكس على نظام أندرويد
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+للاستفادة المُثلى من خدمة Sync، خذ معك الويب الخاص بك أينما كنت تستخدم فَيَرفُكس. اربط هاتفك الذكي، جهازك اللوحي، حاسوبك المكتبي أو المحمول.
 
 

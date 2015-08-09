@@ -1,9 +1,7 @@
 ## active ##
-## plugin_updated_content ##
-## plugincheck_nosupport ##
-## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
-
-
+# # plugin_updated_content ##
+# # plugincheck_nosupport ##
+# # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
 Mantiene o tuyo Firefox con salut con una revision rapida
@@ -56,7 +54,7 @@ vulnerable {ok}
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+obsoleto
 
 
 # Main title
@@ -86,7 +84,7 @@ Estau d'o plugin
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+No s'han trobau complementos. Si creyes que isto ye una error, <a href="%(bugzilla_url)s">por favor, escribe un bug</a> y fe-nos-lo saber.
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -257,5 +255,3 @@ Bella pregunta mas?
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 Vesita <a href="%(sumo_url)s">support.mozilla.org</a> si te cal mas aduya!
-
-

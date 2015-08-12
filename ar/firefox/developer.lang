@@ -1,9 +1,13 @@
+## active ##
+## meta_update_201503 ##
+## new_doorhanger ##
+## share_cta ##
+## spring_release ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/developer
 ## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated. It also won't be localizable inside the product, like "Beta" or "Nightly"
 
 
 # Used as page description (HTML meta tag)
-
 ;Built for those who build the Web. Introducing the only browser made for developers.
 بُنيَ لأولئك الذين قامو ببناء الويب. نقدم المتصفح الوحيد الذي صنع من أجل المطورين.
 
@@ -18,17 +22,15 @@
 
 
 ;Built for those who build the Web
-بُنيَ لأولئك الذين قامو ببناء الويب 
+بُنيَ لأولئك الذين قامو ببناء الويب
 
 
 ;Introducing the only browser made for developers like you.
 نقدم لك المتصفح الوحيد الذي صنع من أجل المطورين أمثالك.
 
 
-
 ;The only browser made for developers like you.
 المتصفح الوحيد الذي صنع من أجل المطورين أمثالك.
-
 
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
@@ -76,30 +78,24 @@
 لقطة من الشاشة
 
 
-
 ;WebVR
 الواقع الإفتراضي على شبكة الإنترنت
-
 
 
 ;Build immersive multi-platform, cross-device Web VR experiences using the technologies that you know &mdash; JavaScript, WebGL, Three.js and more.
 انشئ منصة تعمل على اجهزة مختلفة للواقع الافتراضي باستخدام تقنيات تعرفها &mdash  جافاسكريت وWebGL و Three.js وأكثر.
 
 
-
 ;Learn more about WebVR
 تعلم المزيد عن الواقع الإفتراضي عبر شبكة الإنترنت
-
 
 
 ;Performance Tools
 أدوات الأداء
 
 
-
 ;Examine your web content’s frame rate, memory consumption and JS profile in a consolidated timeline view to help easily identify and troubleshoot performance bottlenecks.
 قم بفحص معدل محتوى إطار شبكة الإنترنت، استهلاك الذاكرة وملف JS في عرض لجدول زمني موحد ليقوم بمساعدتك في ملاحظة تدني الأداء والعقبات.
-
 
 
 ;Learn more about Performance Tools
@@ -254,17 +250,14 @@
 التالي: المزامنة
 
 
-
 # UI Tour: don't add HTML tags in this string
 ;Important
 مهم
 
 
-
 # UI Tour: don't add HTML tags in this string
 ;Sync your new Developer Edition profile to your Firefox Account to access bookmarks, browsing history, passwords and more from your existing Firefox profile.
 قم بمزامنه إصدار المطورين الجديد الخاص بك إلى حسابك في فَيَرفٌكس لتصبح قادراً على الوصول للعلامات المرجعية، وتاريخ التصفح، وكلمات المرور، وغير ذلك الكثير من حساب فَيَرفٌكس الحالي الخاص بك.
-
 
 
 # UI Tour: don't add HTML tags in this string
@@ -292,7 +285,6 @@
 لا شكراً
 
 
-
 # UI Tour: don't add HTML tags in this string
 ;Before you go&hellip;
 قبل أن تذهب
@@ -301,7 +293,6 @@
 # UI Tour: don't add HTML tags in this string
 ;If you continue without syncing your new Developer Edition profile, you could lose access to important browsing data from your existing Firefox profile.
 إذا أكملت بدون مزامنة الملف الشخصي الخاص بك للاصدار الجديد من نسخة المطورين، من الممكن أن تخسر وصولك البيانات الهامة من ملفك الشخصي الحالي.
-
 
 
 # UI Tour: don't add HTML tags in this string
@@ -317,15 +308,12 @@
 اذهب لتتعرف علي المميزات التي تجعله المتصفح الأكثر تكاملاً لبناء شبكة الإنترنت.
 
 
-
 ;Important: Sync your new profile
 هام: قم بمزامنة الملف الشخصي الجديد الخاص بك
 
 
-
 ;Developer Edition comes with a new profile so you can run it alongside other versions of Firefox.
 يأتي إصدار المطورين بملف شخصي مختلف حتى تستطيع تشغيله إلى جانب الإصدارات الأخرى من فَيَرفٌكس.
-
 
 
 ;To access your bookmarks, browsing history and more, you need to sync the profile with your existing Firefox Account, or create a new one.
@@ -340,6 +328,7 @@
 إذا أردت العودة للشكل المألوف لمظهر فَيَرفٌكس أورورا، قمنا بجعل ذلك في غاية السهولة من أجلك.
 
 
-
 ;Features and tools
 المميزات و الأدوات.
+
+

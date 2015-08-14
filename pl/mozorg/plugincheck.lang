@@ -22,7 +22,7 @@ Sprawdzanie wtyczek i aktualizacji
 
 # This is a button telling the user to update their plugin
 ;Update Now
-Zaktualizuj teraz
+Uaktualnij
 
 
 # This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
@@ -87,7 +87,7 @@ Stan wtyczek
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+Nie odnaleziono wtyczek. <a href="%(bugzilla_url)s">Zgłoś to</a> jeśli uważasz, że to błąd.
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -95,7 +95,7 @@ Sprawdzanie wtyczek <strong>dla przeglądarki Internet Explorer jest ograniczone
 
 
 ;Step 1: Click Update to update a plugin.
-Krok 1: Aby zaktualizować wtyczkę, kliknij przycisk Zaktualizuj.
+Krok 1: Aby zaktualizować wtyczkę, kliknij przycisk Uaktualnij.
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.

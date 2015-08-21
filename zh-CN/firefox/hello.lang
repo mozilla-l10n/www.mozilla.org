@@ -34,7 +34,7 @@ Firefox Hello — 免费、简捷的视频聊天
 
 # This string is displayed to users of Firefox 38 ESR, where Hello is not available
 ;You need a different version of Firefox to use Hello.
-You need a different version of Firefox to use Hello.
+您需要其它版本的 Firefox 来使用 Hello。
 
 
 # This string is used as a button label, displayed to users of Firefox 38 ESR to download an updated version of Firefox
@@ -56,12 +56,12 @@ You need a different version of Firefox to use Hello.
 
 
 ;Just send a conversation link to a friend and ask them to click it.
-Just send a conversation link to a friend and ask them to click it.
+只需要将通话链接发送给朋友并让他们点击这个链接。
 
 
 # This string will be an active link to SUMO: https://support.mozilla.org/kb/which-browsers-will-work-firefox-hello-video-chat
 ;See which browsers are compatible with Firefox Hello
-See which browsers are compatible with Firefox Hello
+看看哪些浏览器兼容 Firefox Hello
 
 
 ;Just start a conversation, send your friend a link and ask them to click it.
@@ -75,31 +75,31 @@ See which browsers are compatible with Firefox Hello
 # This is an English idiomatic expression: http://www.phrases.org.uk/meanings/316750.html
 # Feel free to adapt it to your locale.
 ;Share and share alike
-Share and share alike
+随心分享
 
 
 ;Want to show off some new baby pictures?
-Want to show off some new baby pictures?
+想要展示一些新的宝宝照片吗？
 
 
 ;Share travel options over the Web?
-Share travel options over the Web?
+想要在网络上分享旅游产品选择吗？
 
 
 ;Check in on a project from half a world away?
-Check in on a project from half a world away?
+想要检查位于世界另一端的项目吗？
 
 
 ;Screen sharing on Firefox Hello makes it all possible.
-Screen sharing on Firefox Hello makes it all possible.
+Firefox Hello 的屏幕分享功能让这一切都成为可能。
 
 
 ;Try it out in your next conversation and share the things that matter most.
-Try it out in your next conversation and share the things that matter most.
+尝试在您的下一次通话中分享这些最重要的事情。
 
 
 ;Invite anyone, anywhere
-随时可以邀请任何人
+随时随地邀请朋友加入
 
 
 # “Hello” is the product name and should not be localized
@@ -125,12 +125,11 @@ Hello 超级易用，您的朋友和家人甚至不需要安装 Firefox 就可�
 
 
 ;And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
-And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
-
+感谢 WebRTC 级加密，您将享受到额外的安全保护。
 
 # This will be an active link. Destination URL currently not available
 ;Learn more about WebRTC encryption
-Learn more about WebRTC encryption
+了解更多关于 WebRTC 加密的信息
 
 
 ;That’s part of our mission, and it’s behind everything we do around here.
@@ -216,13 +215,13 @@ Learn more about WebRTC encryption
 # %s will be replaced by an image of Telefonica's logo. The current string is the same used in Firefox for Firefox Hello
 # http://transvision.mozfr.org/string/?entity=browser/chrome/browser/loop/loop.properties:powered_by_beforeLogo&repo=beta
 ;Powered by %s
-源自于 %s
+由 %s 提供技术支持
 
 
 # The following strings are used for the First Time interactive experience, don't add HTML tags.
 # The %s placeholder is an image of the Hello screen sharing icon, and can be moved around to fit the translation appropriately.
 ;Now see how easy it is to share your screen. Click %s in your conversation window to try it.
-Now see how easy it is to share your screen. Click %s in your conversation window to try it.
+现在看看分享您的屏幕有多简单。点击您的通话窗口中的 %s 开始尝试。
 
 
 # “Hello” is the product name and should not be localized
@@ -247,7 +246,7 @@ Now see how easy it is to share your screen. Click %s in your conversation windo
 
 
 ;You will receive a notification once they’ve joined
-You will receive a notification once they’ve joined
+当他们加入时，您会收到一条通知。
 
 
 # “Hello” is the product name and should not be localized

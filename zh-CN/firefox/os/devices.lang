@@ -301,7 +301,7 @@ Tunisia
 
 
 ;Dimensions
-配置
+尺寸
 
 
 ;Processor
@@ -309,15 +309,15 @@ Tunisia
 
 
 ;Memory
-存储
+内存
 
 
 ;ROM
-ROM {ok}
+存储空间（ROM）
 
 
 ;RAM
-内存
+运行内存（RAM）
 
 
 ;Expansion slot
@@ -394,7 +394,7 @@ Music Play
 
 
 ;1.5 GB
-1.5 GB
+1.5 GB {ok}
 
 
 ;2 GB
@@ -406,7 +406,7 @@ Music Play
 
 
 ;16 GB
-16 GB
+16 GB {ok}
 
 
 ;Up to 16 GB
@@ -414,11 +414,11 @@ Music Play
 
 
 ;Up to 32 GB
-Up to 32 GB
+最大 32 GB
 
 
 ;Up to 64 GB
-Up to 64 GB
+最大 64 GB
 
 
 ;MicroSD up to 32 GB, 2 GB included
@@ -435,7 +435,7 @@ Up to 64 GB
 
 # Weight/Dimensions
 ;70 x 139 x 10.5 mm
-70 x 139 x 10.5 mm
+70 x 139 x 10.5 mm {ok}
 
 
 ;115 x 62.3 x 12.2 mm
@@ -459,7 +459,7 @@ Up to 64 GB
 
 
 ;112.2 x 62 x 11.9 mm
-112.2 x 62 x 11.9 mm
+112.2 x 62 x 11.9 mm {ok}
 
 
 ;112.2 x 62 x 11.95 mm
@@ -467,23 +467,23 @@ Up to 64 GB
 
 
 ;120 g (4.2 oz)
-120 克 (4.2 oz)
+120 克 (4.2 盏司)
 
 
 ;122.5 g (4.30 oz)
-122.5 克 (4.30 oz)
+122.5 克 (4.30 盏司)
 
 
 ;108 g (3.81 oz)
-108 克 (3.81 oz)
+108 克 (3.81 盏司)
 
 
 ;148 g
-148 g
+148 克
 
 
 ;98 g
-98 g
+98 克
 
 
 # Processor
@@ -520,24 +520,24 @@ QCT 8210 双核 1.2 GHz
 
 
 ;1.2 GHz
-1.2 GHz
+1.2 GHz {ok}
 
 
 ;Spreadtrum SC6821
-Spreadtrum SC6821 {ok}
+展讯 SC6821
 
 
 ;Spreadtrum 6821 1.0 GHz
-Spreadtrum 6821 1.0 GHz {ok}
+展讯 6821 1.0 GHz
 
 
 # Networks
 ;UMTS 900/2100 and 850/1900/2100 - 3G Data up to 7.2 Mbps DL and 384 Kbps UL
-UMTS 900/2100 and 850/1900/2100 - 3G 传输速度最高下行 7.2 Mbps 上行 384 Kbps
+UMTS 900/2100 及 850/1900/2100 - 3G 传输速度最高下行 7.2 Mbps，上行 384 Kbps
 
 
 ;3G/GPRS/EDGE
-3G/GPRS/EDGE
+3G/GPRS/EDGE {ok}
 
 
 ;3G/EDGE
@@ -565,11 +565,11 @@ UMTS/HSDPA/HSPA/HSPA+: MSM7225A: HSPA (上行 7.2 Mbps / 下行 5.76 Mbps)
 
 
 ;GSM Dualband 850/1900 (4020A/E); 900/1800 (4020X/D)
-GSM Dualband 850/1900 (4020A/E); 900/1800 (4020X/D) {ok}
+GSM 双频 850/1900 (4020A/E); 900/1800 (4020X/D)
 
 
 ;GSM / HSPA
-GSM / HSPA
+GSM / HSPA {ok}
 
 
 ;EDGE
@@ -618,7 +618,7 @@ Wi-Fi 802.11 b/g/n {ok}
 
 
 ;Stereo FM
-调频立体声
+立体声 FM 广播
 
 
 # Camera
@@ -639,15 +639,15 @@ Wi-Fi 802.11 b/g/n {ok}
 
 
 ;2.0 MP rear, LED flash
-2.0 MP rear, LED flash
+200万像素后置摄像头，LED 闪光灯
 
 
 ;2.0 MP rear with flash, VGA front
-后置200万像素带闪光灯，前置VGA
+后置200万像素带闪光灯，前置 VGA
 
 
 ;2.0 MP rear, 1.3 MP front
-2.0 MP rear, 1.3 MP front
+后置200万像素，前置130万像素
 
 
 ;3.0 MP
@@ -663,7 +663,7 @@ Wi-Fi 802.11 b/g/n {ok}
 
 
 ;3.0 MP (Fixed-focus)
-300万像素(定焦）
+300万像素（定焦）
 
 
 ;3.2 MP rear, 0.3 MP front
@@ -679,15 +679,15 @@ Wi-Fi 802.11 b/g/n {ok}
 
 
 ;5.0 MP rear, VGA front
-后置500万像素，前置VGA
+后置500万像素，前置 VGA
 
 
 ;8.0 MP
-8.0 MP
+800万像素
 
 
 ;8.0 MP rear, 2.1 MP front
-8.0 MP rear, 2.1 MP front
+后置800万像素，前置210万像素
 
 
 ;Rear camera, VGA Front camera
@@ -708,23 +708,23 @@ VGA {ok}
 
 
 ;Bluetooth v2.1
-蓝牙 v2.1
+蓝牙 2.1 版本
 
 
 ;Bluetooth v2.1 A2DP
-蓝牙 v2.1 A2DP
+蓝牙 2.1 版本 A2DP
 
 
 ;Bluetooth v2.1 EDR
-蓝牙 v2.1 EDR
+蓝牙 v2.1 版本 EDR
 
 
 ;Bluetooth v3.0
-蓝牙 v3.0
+蓝牙 3.0 版本
 
 
 ;Bluetooth v3.0 A2DP
-蓝牙 v3.0 A2DP
+蓝牙 3.0 版本 A2DP
 
 
 # Battery
@@ -749,7 +749,7 @@ VGA {ok}
 
 
 ;1300 mAh
-1300 mAh
+1300 mAh {ok}
 
 
 ;1400 mAh
@@ -769,7 +769,7 @@ VGA {ok}
 
 
 ;2370 mAh
-2370 mAh
+2370 mAh {ok}
 
 
 ;5.3 h
@@ -777,7 +777,7 @@ VGA {ok}
 
 
 ;6.5 h
-6.5 h
+6.5 小时
 
 
 ;6.7 h
@@ -809,11 +809,11 @@ VGA {ok}
 
 
 ;Up to 6.5 h (2G)
-Up to 6.5 h (2G)
+最多 6.5 小时 (2G)
 
 
 ;Up to 7 h
-Up to 7 h
+最多 7 小时
 
 
 ;Up to 8 h
@@ -821,15 +821,15 @@ Up to 7 h
 
 
 ;Up to 16 h
-Up to 16 h
+最多 16 小时
 
 
 ;Up to 40 h
-Up to 40 h
+最多 40 小时
 
 
 ;Up to 96 h (2G)
-Up to 96 h (2G)
+最多 96 小时 (2G)
 
 
 ;Up to 350 h
@@ -837,7 +837,7 @@ Up to 96 h (2G)
 
 
 ;Up to 432 h (2G), 325 h (3G)
-Up to 432 h (2G), 325 h (3G)
+最多 432 小时 (2G)，325 小时 (3G)
 
 
 ;Up to 744 h
@@ -845,11 +845,11 @@ Up to 432 h (2G), 325 h (3G)
 
 
 ;Up to 6.7 h (2G), 3 h (3G)
-最多 6.7 小时 (2G), 3 小时 (3G)
+最多 6.7 小时 (2G)，3 小时 (3G)
 
 
 ;Up to 8 h (2G), 8 h (3G)
-最多 8 小时 (2G), 8 小时 (3G)
+最多 8 小时 (2G)，8 小时 (3G)
 
 
 ;Up to 280 h
@@ -861,12 +861,12 @@ Up to 432 h (2G), 325 h (3G)
 
 
 ;Up to 720 h (LTE), 820 h (3G)
-Up to 720 h (LTE), 820 h (3G)
+最多 720 小时 (LTE)，820 小时 (3G)
 
 
 # Screen
 ;3.5"
-3.5"
+3.5" {ok}
 
 
 ;3.5" HVGA
@@ -914,7 +914,7 @@ Up to 720 h (LTE), 820 h (3G)
 
 
 ;4.7"
-4.7"
+4.7" {ok}
 
 
 # other screen strings
@@ -927,7 +927,7 @@ Up to 720 h (LTE), 820 h (3G)
 
 
 ;TFT capacitive touch
-TFT 电容式触控屏
+TFT 电容式触摸屏
 
 
 ;TFT color display
@@ -936,19 +936,19 @@ TFT 彩色显示屏
 
 # Firefox OS TV
 ;Picture Quality
-Picture Quality
+图像质量
 
 
 ;4K ULTRA HD TV
-4K ULTRA HD TV
+4K ULTRA HD TV {ok}
 
 
 ;3840 x 2160p
-3840 x 2160p
+3840 x 2160p {ok}
 
 
 ;Web Browser
-Web Browser
+网页浏览器
 
 
 # Footer

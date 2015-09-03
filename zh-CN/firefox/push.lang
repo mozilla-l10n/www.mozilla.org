@@ -85,7 +85,7 @@ Firefox 会维护一个至推送服务的持久连接以接收推送消息。
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-在 Firefox 桌面版上，推送服务由 Mozilla 操作。
+在 Firefox 桌面版上，推送服务由 Mozilla 管理。
 
 
 ;Firefox uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
@@ -101,7 +101,7 @@ Firefox 会使用与其他 Android 应用程序相同的 <a href="%s">Google 云
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-加密的消息存储在服务器单元上，直到已经投递。
+加密的消息会存储在服务器上，直到已被投递。
 
 
 ;How do I revoke Push permissions?
@@ -113,11 +113,11 @@ Firefox 会使用与其他 Android 应用程序相同的 <a href="%s">Google 云
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-在网址栏，输入 <em>about:permissions</em>。
+在网址栏中输入 <em>about:permissions</em>。
 
 
 ;Select the site.
-选择该网站。
+选择相应站点。
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
@@ -157,7 +157,7 @@ Firefox 中的“推送”始终可选择退出。
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-如果您在使用偏小的数据配额，或者按数据量收取费用，您可能希望监控您的使用量。
+如果您在使用偏小的数据配额，或者按数据量收取费用，您不妨监测您的使用量。
 
 
 ;How do I add Push to my web site?
@@ -165,6 +165,6 @@ Firefox 中的“推送”始终可选择退出。
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-<a href="%s">Push API 规范</a>解释了如何创建一个 Service Worker 和发送推送消息。
+<a href="%s">Push API 规范</a> 解释了如何创建一个 Service Worker 和发送推送消息。
 
 

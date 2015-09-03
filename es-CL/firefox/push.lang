@@ -3,7 +3,7 @@
 
 # Page Title and part of <title> tag
 ;Push
-Push
+Push {ok}
 
 
 # Page Title and part of <title> tag
@@ -81,39 +81,39 @@ Firefox mantiene una conexión permanente a un servicio push con la finalidad de
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+En nuestro servidor almacenamos un identificador aleatorio para tu navegador, junto con un identificador aleatorio para cada sitio que autorices.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+En Firefox para escritorio, el servicio push es operado por Mozilla.
 
 
 ;Firefox uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Firefox usa la misma plataforma de <a href="%s">Google Cloud Messaging</a> e infraestructura que tus otras aplicaciones de Android usan.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+En ambos casos, el servicio push no puede desencriptar tus mensajes push.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+Los mensajes push son encriptados, solo tu copia de Firefox puede decifrarlos.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+Los mensajes encriptados son almacenados en el servidor hasta que son enviados.
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+¿Cómo revoco permisos Push?
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+Para detener a un sitio de enviar mensajes push:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+En la barra de URLs, escribe <em>about:permissions</em>.
 
 
 ;Select the site.
@@ -121,31 +121,31 @@ Selecciona el sitio.
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+Ajusta <em>Recibir notificaciones Push</em> a <strong>Preguntar siempre</strong>.
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+¿Cómo desactivo Push de forma permanente?
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+Push siempre es bajo suscripción en Firefox.
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+Un sitio no puede enviarte mensajes push sin tu permiso.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+Si deseas desactivar la función completamente, sigue los siguientes pasos:
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+Selecciona <em>Todos los sitios</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. The site will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. The site will not be able to send you messages or ask for access to Push.
+Ajusta <em>Recibir notificaciones Push</em> a <strong>Bloquear</strong>. El sitio no podrá enviarte mensajes o solicitar acceso a Push.
 
 
 ;Will this cost me money?
@@ -157,7 +157,7 @@ Push usa una pequeña cantidad de datos para operar.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+Si estás en un plan de poca capacidad, o te cobran por uso de datos, puede que prefieras monitorear tu uso.
 
 
 ;How do I add Push to my web site?

@@ -3,7 +3,7 @@
 
 # Page Title and part of <title> tag
 ;Push
-Push
+推送
 
 
 # Page Title and part of <title> tag
@@ -17,154 +17,154 @@ Mozilla Firefox 网络浏览器
 
 
 ;What is Push?
-What is Push?
+什么是推送？
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+推送是一种可选的功能，它允许网站向您发送消息，即便您并未正在访问该网站。
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+网站可以使用此功能为您提供在后台的通知和更新数据。
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+举例来说，邮箱网站可以使用“推送”为您提供新邮件通知，天气网站也可以使用“推送”提供异常天气警报。
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+您只会收到您已授权的网站发来的通知。
 
 
 ;How does it work?
-How does it work?
+它如何工作？
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox 会维护一个至推送服务的连接。
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+您已授权可进行“推送”的网站可以使用此服务向您发送消息。
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox 投递此推送消息至一个被称为“worker”的 JavaScript 小片段。
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+worker 随后会处理此消息。
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+它可能决定显示一条可视消息，或者存储消息供之后使用。
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+我会与网站共享什么信息？
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+网站可以使用“推送”在任何时间向您发送一条消息，即便您当时没有访问它。
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+网站向您发送消息时可以了解您的 IP 地址，如果它选择这样做；这有可能揭露您的位置。
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+Firefox 会使用哪些信息提供“推送”？
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+Firefox 会维护一个至推送服务的持久连接以接收推送消息。
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+在我们的服务器上，我们会存储一个您的浏览器的随机标识符，以及您授权的每个网站的随机标识符。
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+在 Firefox 桌面版上，推送服务由 Mozilla 操作。
 
 
 ;Firefox uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Firefox 会使用与其他 Android 应用程序相同的 <a href="%s">Google 云消息</a>平台和基础设施。
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+在这两种情况下，推送服务无法解密您的推送消息。
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+推送消息经过加密，只有您的 Firefox 副本可以解码它们。
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+加密的消息存储在服务器单元上，直到已经投递。
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+我该如何解除“推送”权限？
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+要停止一个网站向您发送推送消息：
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+在网址栏，输入 <em>about:permissions</em>。
 
 
 ;Select the site.
-Select the site.
+选择该网站。
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+设置 <em>接收推送通知</em> 为 <strong>总是询问</strong>。
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+我该如何永久禁用“推送”？
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+Firefox 中的“推送”始终可选择退出。
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+一个网站在未经您的授权的情况下，无法向您发送推送消息。
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+如果您希望完全禁用此功能，请遵循下列步骤：
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+选择<em>所有站点</em>。
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. The site will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. The site will not be able to send you messages or ask for access to Push.
+设置 <em>接收推送通知</em> 为 <strong>阻止</strong>。该网站将不可能再向您发送消息，或者询问要求“推送”权限。
 
 
 ;Will this cost me money?
-Will this cost me money?
+这会花我的钱吗？
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+“推送”会使用少量的数据流量以运作。
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+如果您在使用偏小的数据配额，或者按数据量收取费用，您可能希望监控您的使用量。
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+我该如何添加“推送”到我的网站？
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
+<a href="%s">Push API 规范</a>解释了如何创建一个 Service Worker 和发送推送消息。
 
 

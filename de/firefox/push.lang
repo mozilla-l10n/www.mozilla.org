@@ -3,7 +3,7 @@
 
 # Page Title and part of <title> tag
 ;Push
-Push
+Externe Benachrichtigungen
 
 
 # Page Title and part of <title> tag
@@ -17,154 +17,154 @@ Internet-Browser Mozilla Firefox
 
 
 ;What is Push?
-What is Push?
+Was sind externe Benachrichtigungen?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+Externe Benachrichtigungen sind eine optionale Funktion, über die Websites Ihnen Nachrichten schicken können, auch wenn Sie diese Website gerade nicht besuchen.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+Websites können diese Funktion nutzen, um Sie zu benachrichtigen oder Daten im Hintergrund zu aktualisieren.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+Eine Webmail-Website könnte Ihnen mit externen Benachrichtigungen zum Beispiel einen Hinweis auf neue Nachrichten anzeigen oder eine Wetter-Website könnte Ihnen mit externen Benachrichtigungen Unwetterwarnungen liefern.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Sie erhalten nur Nachrichten von Websites, denen Sie eine Erlaubnis erteilt haben.
 
 
 ;How does it work?
-How does it work?
+Wie funktioniert es?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox hält die Verbindung zu einem Dienst für externe Benachrichtigungen aufrecht.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Websites, denen Sie die Erlaubnis für externe Benachrichtigungen erteilt haben, können den Dienst nutzen, um Ihnen Nachrichten zu schicken.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox liefert diese externe Benachrichtigung an ein JavaScript-Element namens „Worker“.
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+Der „Worker“ verarbeitet diese Nachricht.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+Er entscheidet beispielsweise, ob eine visuelle Benachrichtigung angezeigt wird oder die Nachricht zur späteren Verwendung gespeichert wird.
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+Welche Daten gebe ich an eine Website weiter?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+Eine Website kann externe Benachrichtigungen verwenden, um Ihnen jederzeit eine Nachricht zu schicken, auch wenn Sie sie gerade nicht besuchen.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+Eine Website, die Ihnen eine Nachricht schickt, erfährt in diesem Falle Ihre IP-Adresse; dies könnte Ihren Standort preisgeben.
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+Welche Daten verwendet Firefox, um externe Benachrichtigungen anzubieten?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+Firefox erhält ständig eine Verbindung zu einem Dienst für externe Benachrichtigungen aufrecht, um externe Benachrichtigungen zu erhalten.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+Wir speichern auf unserem Server eine zufällige Kennung für Ihren Browser, sowie eine weitere zufällige Kennung für jede Website, der Sie die Erlaubnis erteilen.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+In Firefox für Desktop wird der Dienst für externe Benachrichtigungen von Mozilla betrieben.
 
 
 ;Firefox uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Firefox für Android verwendet die gleiche „<a href="%s">Google Cloud Messaging</a>“-Plattform und -Infrastruktur wie Ihre anderen Android-Anwendungen.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+In beiden Fällen kann der Dienst Ihre externen Benachrichtigungen nicht entschlüsseln.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+Externe Benachrichtigungen sind verschlüsselt, nur Ihr Firefox kann sie entschlüsseln.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+Die verschlüsselten Nachrichten werden auf dem Server gespeichert, bis Sie ausgeliefert werden.
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+Wie widerrufe ich die Berechtigungen für externe Dienste, mir Benachrichtigungen zu senden?
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+Um eine Website daran zu hindern, Ihnen weitere externe Benachrichtigungen zu schicken:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+Geben Sie in die Adressleiste <em>about:permissions</em> ein.
 
 
 ;Select the site.
-Select the site.
+Wählen Sie die Website aus.
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+Setzen Sie <em>Externe Benachrichtigungen empfangen</em> auf <strong>Jedes Mal nachfragen</strong>.
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+Wie deaktiviere ich externe Benachrichtigungen dauerhaft?
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+Externe Benachrichtigungen werden nur mit Ihrer Erlaubnis aktiviert.
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+Eine Website kann Ihnen ohne Ihre Erlaubnis keine externen Benachrichtigungen schicken.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+Wenn Sie die Funktion vollständig deaktivieren möchten, führen Sie bitte die folgenden Schritte aus:
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+Wählen Sie <em>Alle Websites</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. The site will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. The site will not be able to send you messages or ask for access to Push.
+Setzen Sie <em>Externe Benachrichtigungen empfangen</em> auf <strong>Blockieren</strong>. Websites können Ihnen dann keine Benachrichtigungen schicken oder um Erlaubnis für externe Benachrichtigungen fragen.
 
 
 ;Will this cost me money?
-Will this cost me money?
+Wird mich dies Geld kosten?
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+Externe Benachrichtigungen benötigen kleine Datenmengen, um zu funktionieren.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+Wenn Sie nur über ein geringes Datenkontingent verfügen oder für Datenverbrauch grundsätzlich bezahlen müssen, sollten Sie Ihre Nutzung im Auge behalten.
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+Wie füge ich externe Benachrichtigungen zu meiner Website hinzu?
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
+Die <a href="%s">Spezifikation der Push-API</a> erklärt, wie Sie einen „Service-Worker“ erstellen und externe Benachrichtigungen senden können.
 
 

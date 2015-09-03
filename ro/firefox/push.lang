@@ -8,7 +8,7 @@ Push
 
 # Page Title and part of <title> tag
 ;Frequently asked questions
-Întrebări frecvent adresate
+Întrebări adresate frecvent
 
 
 # Part of <title> tag
@@ -17,154 +17,154 @@ Browserul Web Mozilla Firefox
 
 
 ;What is Push?
-What is Push?
+Ce este Push?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+Push este o funcție opțională care permite site-urilor să-ți trimită mesaje chiar și atunci când nu vizitezi acel site.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+Site-urile pot folosi această funcție pentru a-ți oferi notificări sau pentru a actualiza date în fundal.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+De exemplu, un site web de poștă electronică ar putea folosi Push pentru a-ți oferi notificări atunci când sosește un nou mesaj, sau un site meteo ar putea folosi Push pentru a-ți oferi alerte de furtună.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Vei primi aceste mesaje doar de la site-uri cărora le-ai acordat permisiunea.
 
 
 ;How does it work?
-How does it work?
+Cum funcționează?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox menține o conexiune la un serviciu de push.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Site-uri cărora le-ai acordat permisiunea pentru a efectua Push pot folosi serviciul pentru a-ți trimite mesaje.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox trimite acest mesaj de push unui mic fragment de Javascript, numit „worker”.
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+Workerul apoi procesează mesajul.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+Acesta ar putea decide să-ți arăte notificări vizuale sau să stocheze mesajul pentru utilizare ulterioară.
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+Ce informație împărtășesc cu un site?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+Un site poate folosi Push pentru a-ți trimite un mesaj oricând, chiar și atunci când nu îl vizitezi în mod activ.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+Un site care-ți trimite un mesaj poate afla adresa ta IP și dacă o face, aceasta îți poate dezvălui locația.
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+Ce informație folosește Firefox pentru a oferi Push?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+Firefox menține o conexiune permanentă la un serviciu de push pentru a putea primi mesaje de push.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+Pe serverul nostru noi stocăm un identificator aleatoriu pentru browserul tău, împreună cu un identificator aleatoriu pentru fiecare site vizitat.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+Pe Firefox pentru calculator, serviciul de push este operat de Mozilla.
 
 
 ;Firefox uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Firefox utilizează platforma și infrastructura <a href="%s">Google Cloud Messaging</a> pe care o folosesc celelalte aplicații Android ale tale.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+În ambele cazuri, serviciul de push nu poate decripta mesajele de push.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+Mesajele de push sunt criptate, doar copia ta de Firefox le poate descifra.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+Mesajele criptate sunt stocate pe server până sunt livrate.
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+Cum pot revoca permisiunile de Push?
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+Pentru a opri un site din a trimite mesaje de push:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+În bara de adrese, scrie <em>about:permissions</em>.
 
 
 ;Select the site.
-Select the site.
+Selectează site-ul.
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+Setează opțiunea <em>Primește notificări push</em> la <strong>Întreabă mereu</strong>.
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+Cum dezactivez Push permanent?
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+Push este o funcție pentru care trebuie să optezi în Firefox întotdeauna.
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+Nu site nu-ți poate trimite mesaje de push fără permisiunea ta.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+Dacă dorești să dezactivezi complet funcția, urmează pașii următori:
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+Selectează<em>Toate site-urile</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. The site will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. The site will not be able to send you messages or ask for access to Push.
+Setează opțiunea <em>Primește notificări Push</em> la <strong>Blochează</strong>. Site-ul nu va putea să-ți trimită notificări push și nici nu va putea cere permisiunea.
 
 
 ;Will this cost me money?
-Will this cost me money?
+Mă va costa ceva această opțiune?
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+Push folosește o cantitate mică de date pentru a funcționa.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+Dacă ai o alocare mică de date, sau dacă ești taxat pentru orice date folosite, ai putea dori să monitorizezi utilizarea.
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+Cum pot să adaug Push la site-ul meu?
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
+<a href="%s">Specificațiile API-ului Push</a> explică cum să creezi un Service Worker și cum poți trimite mesaje push.
 
 

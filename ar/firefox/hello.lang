@@ -1,3 +1,614 @@
+<<<<<<< .mine
+## active ##
+## ios_announce ##
+## NOTE: this file covers both the product page and the first time experience (interactive UI Tour)
+## NOTE: check https://groups.google.com/forum/#!topic/mozilla.dev.l10n.web/4uNJ7sz9xmw for instructions on how to test the tour page
+## NOTE: product page demo URL (work in progress) https://www-dev.allizom.org/firefox/hello/
+## NOTE: firts time experience demo URL https://www-dev.allizom.org/firefox/38.0a1/hello/start/
+
+
+# “Firefox Hello” is the product name and should not be localized
+;Firefox Hello — Free, easy video conversations
+Firefox Hello  — مُحادثة مرئية مجّانية وسهلة الاستخدام
+
+
+# “Firefox Hello” is the product name and should not be localized
+;Learn all about Firefox Hello and see for yourself how easy it is to have a free video conversation with anyone, anywhere, right from your browser
+أعرف المزيد حول "أهلًا فيَرفُكس" واكتشف بنفسك سُهولة القيام بمُحادثة مرئيّة مجّانيّة مع أيّ شخص من أي مكان عبر مُتصفّحك.
+
+
+# In this case 'hello' is simply a greeting, not the product name. The message is that Firefox Hello is easy to use, as easy as greeting someone.
+# An alternative headline could be "The easiest way to connect".
+;As easy as saying hello
+سهلٌ سُهولة إلقاء التّحيّة.
+
+
+# “Firefox Hello” is the product name and should not be localized
+;Meet Firefox Hello, the easiest way to connect for free over video with anyone, anywhere.
+تعرّف على "أهلًا فيَرفُكس"، أسهل وسيلة للتّواصل المرئي المجّاني مع  الجميع، وفي كلّ مكان.
+
+
+# “Firefox Hello” is the product name and should not be localized
+;Try Firefox Hello
+جرّب "أهلًا فيَرفُكس"
+
+
+# This string is displayed to users of Firefox 38 ESR, where Hello is not available
+;You need a different version of Firefox to use Hello.
+You need a different version of Firefox to use Hello.
+
+
+# This string is used as a button label, displayed to users of Firefox 38 ESR to download an updated version of Firefox
+;Try it now
+جرّبه الآن
+
+
+;All you need is Firefox
+كل ما تحتاجه هو فيَرفُكس
+
+
+# “Hello” is the product name and should not be localized
+;If you have the latest version of Firefox, you already have Hello.
+إذا كُنت تستخدم أحدث إصدارٍمن فيَرفُكس، فإن "أهلًا فيَرفُكس" مُضمّن فيه بشكل آلي.
+
+
+;There’s no account or sign-in required and nothing extra to download.
+لا حاجة لإنشاء أية حسابات، ولا يُطلب منك تسجيل الدّخُول أو تحميل أيّة ملفّات إضافية.
+
+
+;Just send a conversation link to a friend and ask them to click it.
+Just send a conversation link to a friend and ask them to click it.
+
+
+# This string will be an active link to SUMO: https://support.mozilla.org/kb/which-browsers-will-work-firefox-hello-video-chat
+;See which browsers are compatible with Firefox Hello
+See which browsers are compatible with Firefox Hello
+
+
+;Just start a conversation, send your friend a link and ask them to click it.
+أنشء مُحادثة جديدة، أرسل رابطها لصديق واطلب منه النّقر عليه.
+
+
+;Simple.
+بسيط.
+
+
+# This is an English idiomatic expression: http://www.phrases.org.uk/meanings/316750.html
+# Feel free to adapt it to your locale.
+;Share and share alike
+Share and share alike
+
+
+;Want to show off some new baby pictures?
+Want to show off some new baby pictures?
+
+
+;Share travel options over the Web?
+Share travel options over the Web?
+
+
+;Check in on a project from half a world away?
+Check in on a project from half a world away?
+
+
+;Screen sharing on Firefox Hello makes it all possible.
+Screen sharing on Firefox Hello makes it all possible.
+
+
+;Try it out in your next conversation and share the things that matter most.
+Try it out in your next conversation and share the things that matter most.
+
+
+;Invite anyone, anywhere
+أرسل دعوة إلى أي شخص، في أيّ مكان
+
+
+# “Hello” is the product name and should not be localized
+;Hello is super easy to use and your friends and family don’t even need Firefox to join your conversation.
+"أهلًا فيَرفُكس" سهل الاستخدام. بإمكان أصدقائك وأفراد عائلتك الانضمام إلى المُحادثة حتى من دون تنصيب فيَرفُكس.
+
+
+;As long as they have a compatible browser, they’re good to go.
+طالما لديهم مُتصفحٌ مُتوافق، فلا حاجة إلى أيّة أمور إضافية.
+
+
+;Learn more about compatible browsers
+اعرف المزيد عن المُتصفّحات المُتوافقة
+
+
+;Safe, secure, protected
+آمن ومحمي
+
+
+# “Hello” is the product name and should not be localized
+;Because Hello is built right into Firefox, you can rest easy knowing that your conversations and information will remain private and secure.
+بحُكم أن "أهلًا فيَرفُكس" مُدمَج في فيَرفُكس فإنّك ستبقى مُطمئنّا على خصوصية وأمان مُحادثاتك.
+
+
+;And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
+And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
+
+
+# This will be an active link. Destination URL currently not available
+;Learn more about WebRTC encryption
+Learn more about WebRTC encryption
+
+
+;That’s part of our mission, and it’s behind everything we do around here.
+هذا أحد أهداف مُهمّتنا، وهو جزء لا يتجزّء من كل الأعمال التي نقوم بها.
+
+
+;Do more with a Firefox Account
+استفد من حسابك على فَيَرفُكس بشكل أمثل
+
+
+;To start a conversation with someone directly, simply create a free Firefox Account or sign in if you have one already &mdash; it’s the same account you use with Sync.
+كل ما تحتاجه لتشرع في مُحادثة أحدهم بشكل مُباشر هو إنشاء حساب فَيَرفُكس مجّاني أو تسجيل الدخول إن كنت تملك حسابًا &mdash; هو نفس الحساب الذي تستخدمه مع "تزامن"
+
+
+;You can then add contacts to keep them close at hand.
+يُمكنك إضافة جهات اتَصال ليسهل الوصول إليها لاحقًا.
+
+
+;Get Firefox to get started
+حمّل فَيَرفُكس لتشرع في ذلك
+
+
+# “Hello” is the product name and should not be localized
+;Want to start using Hello?
+هل ترغب في استخدام "أهلًا فيَرفُكس"؟
+
+
+;All you need is Firefox &mdash; the open source browser that helps you stay in control of your online life while you stay connected with friends and family.
+كل ما تحتاحه هو فَيَرفُكس &mdash; المُتصفّح الحر والمجّاني الذي يُتيح لك التحكم الكامل في بياناتك على الإنترنت ويُسهّل عليك البقاء على اتّصال بالأهل والأصدقاء.
+
+
+;Download Firefox to start your first conversation.
+حمّل فيَرفُكس لتبدأ أوّل محادثة لك.
+
+
+;Get Firefox and start your first conversation
+احصل على فيَرفُكس لتبدأ أوّل محادثة لك.
+
+
+;Update your Firefox to start using Hello
+حدّث فيَرفُكس إلى آخر إصدار لتشرع في استخدام "أهلًا فيَرفُكس"
+
+
+;Start your first conversation today
+ابدأ أوّل مُحادثة لك اليوم
+
+
+;Unfortunately, iOS doesn’t support Hello. To start having free video conversations, use Hello on Firefox for desktop, Firefox OS or Firefox for Android.
+للأسف لا يدعم نظام iOS "أهلًا فيَرفُكس". للاستفادة من مُحادثات فيديو مجانيّة فما عليك سوى استخدام  "أهلًا فيَرفُكس" على فيَرفُكس للأجهزة المكتبية، نظام فيَرفُكس أو إس استخدام فيَرفُكس على أجهزة أندرويد
+
+
+# “Hello” is the product name and should not be localized
+;Try Hello now
+جرّب "أهلًا فيَرفُكس" الآن
+
+
+# “Hello” is the product name and should not be localized
+;Get to know Hello
+تعرّف على "أهلًا فيَرفُكس"
+
+
+;Want to reconnect with friends around the world?
+تُريد التّواصل من جديد مع الأصدقاء في جميع أنحاء العالم؟
+
+
+;Celebrate a birthday when you can’t be there in person?
+احتفل بعيد ميلاد عندما لا يكون بإمكانك الحُضور شخصيّا؟
+
+
+# “Firefox Hello” is the product name and should not be localized
+;Learn more about Firefox Hello and see for yourself how easy it is to have a free video conversation with anyone, anywhere, right from your browser.
+أعرف المزيد حول "أهلًا فيَرفُكس" واكتشف بنفسك سُهولة القيام بمحادثة مرئيّة مجّانيّة مع أي شخص من أي مكان عبر مُتصفحك.
+
+
+;Questions?
+أسئلة؟
+
+
+;Visit Mozilla Support
+زيارة مركز موزيلا للدّعم الفنّي
+
+
+# %s will be replaced by an image of Telefonica's logo. The current string is the same used in Firefox for Firefox Hello
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/loop/loop.properties:powered_by_beforeLogo&repo=beta
+;Powered by %s
+يستخدم %s
+
+
+# The following strings are used for the First Time interactive experience, don't add HTML tags.
+# The %s placeholder is an image of the Hello screen sharing icon, and can be moved around to fit the translation appropriately.
+;Now see how easy it is to share your screen. Click %s in your conversation window to try it.
+Now see how easy it is to share your screen. Click %s in your conversation window to try it.
+
+
+# “Hello” is the product name and should not be localized
+;Welcome to Hello
+أهلًا بك في "أهلًا فيَرفُكس"
+
+
+;Open a video conversation with a single click, then invite a friend to join.
+أنشء مُحادثة مرئيّة بنقرة واحدة، وادع أصدقاءك للانضمام.
+
+
+;Share your link with a friend
+أرسل رابطك لصديق
+
+
+;They don’t even need Firefox to join. They just need to click the link.
+ليسوا في حاجة إلى استخدام فيَرفُكس للانضمام. كل ما يحتاجونه هو النّقر على الرّابط.
+
+
+;No need to wait around
+لا حاجة للانتظار
+
+
+# “Hello” is the product name and should not be localized
+;Once your friend clicks the link, the Hello icon will change to blue, letting you know they’re there.
+بمُجرد أن ينقُر صديقك على الرّابط سيتحوّل لون أيقونة "أهلًا فيَرفُكس" إلى الأزرق، لتعرف بأنه قد ربط الاتّصال بك.
+
+
+;You have a conversation waiting
+لديك مُحادثة في انتظارك
+
+
+# In this case “hello” is just a greeting (think of it as “hi”)
+;Click now to join and say hello.
+انقر الآن للانضمام وقل "أهلًا".
+
+
+;The easiest way to have a free video conversation with anyone, anywhere
+أسهل طريقة للحصول على محادثة مرئيّة مجانيّة مع أي شخص، من أي مكان
+
+
+;Start a conversation right from Firefox
+ابدأ مُحادثة مُباشرة من خلال فيَرفُكس
+
+
+;Invite a friend by sending them a link
+ادع صديقًا عبر إرسال رابط إليه
+
+
+;The Hello icon will change to blue once they’ve joined
+أيقونة "أهلًا فيَرفُكس" ستتغيّر للأزرق بمُجرد انضمامهم
+
+
+# “Hello” is the product name and should not be localized
+;Tell a friend about Hello
+أعلم صديقك حول "أهلًا فيَرفُكس"
+
+
+;Need help? Get support here
+تحتاج مُساعدة؟ احصل على الدّعم من هنا
+
+
+# “Hello” is the product name and should not be localized
+;Learn all about Hello
+اعرف المزيد حول "أهلًا فيَرفُكس"
+
+
+;The easiest way to connect for free over video
+أسهل طريقة للتواصل المرئي المجّاني.
+
+
+;Start right from Firefox and invite anyone, anywhere to have a conversation. All they have to do is click a link to join. There’s no account or sign-in required.
+ابدأ مُباشرة من خلال فيَرفُكس وادع أيّ شخص، في أي مكان للشروع في مُحادثة. كل ما يتوجّب عليهم  القيام به هو النّقر عل الرّابط للانضمام. لا حاجة إلى أيّة حسابات إضافية أو إلى تسجيل الدّخول.
+
+
+;You’ve started your first conversation. Wasn’t that easy?
+لقد بدأت لتوّك أوّل مُحادثة لك. ألم يكن ذلك سهلًا؟
+
+
+||||||| .r143051
+## active ##
+## ios_announce ##
+## NOTE: this file covers both the product page and the first time experience (interactive UI Tour)
+## NOTE: check https://groups.google.com/forum/#!topic/mozilla.dev.l10n.web/4uNJ7sz9xmw for instructions on how to test the tour page
+## NOTE: product page demo URL (work in progress) https://www-dev.allizom.org/firefox/hello/
+## NOTE: firts time experience demo URL https://www-dev.allizom.org/firefox/38.0a1/hello/start/
+
+
+# “Firefox Hello” is the product name and should not be localized
+;Firefox Hello — Free, easy video conversations
+Firefox Hello  — مُحادثة مرئية مجّانية وسهلة الاستخدام
+
+
+# “Firefox Hello” is the product name and should not be localized
+;Learn all about Firefox Hello and see for yourself how easy it is to have a free video conversation with anyone, anywhere, right from your browser
+أعرف المزيد حول "أهلًا فيَرفُكس" واكتشف بنفسك سُهولة القيام بمُحادثة مرئيّة مجّانيّة مع أيّ شخص من أي مكان عبر مُتصفّحك.
+
+
+# In this case 'hello' is simply a greeting, not the product name. The message is that Firefox Hello is easy to use, as easy as greeting someone.
+# An alternative headline could be "The easiest way to connect".
+;As easy as saying hello
+سهلٌ سُهولة إلقاء التّحيّة.
+
+
+# “Firefox Hello” is the product name and should not be localized
+;Meet Firefox Hello, the easiest way to connect for free over video with anyone, anywhere.
+تعرّف على "أهلًا فيَرفُكس"، أسهل وسيلة للاتصال المرئي المجّاني مع  الجميع، وفي كلّ مكان.
+
+
+# “Firefox Hello” is the product name and should not be localized
+;Try Firefox Hello
+جرّب "أهلًا فيَرفُكس"
+
+
+# This string is displayed to users of Firefox 38 ESR, where Hello is not available
+;You need a different version of Firefox to use Hello.
+You need a different version of Firefox to use Hello.
+
+
+# This string is used as a button label, displayed to users of Firefox 38 ESR to download an updated version of Firefox
+;Try it now
+جرّبه الآن
+
+
+;All you need is Firefox
+كل ما تحتاجه هو فيَرفُكس
+
+
+# “Hello” is the product name and should not be localized
+;If you have the latest version of Firefox, you already have Hello.
+إذا كُنت تستخدم أحدث إصدارٍمن فيَرفُكس، فإن "أهلًا فيَرفُكس" مُضمّن فيه بشكل آلي.
+
+
+;There’s no account or sign-in required and nothing extra to download.
+لا حاجة لإنشاء أية حسابات، ولا يُطلب منك تسجيل الدّخُول أو تحميل أيّة ملفّات إضافية.
+
+
+;Just send a conversation link to a friend and ask them to click it.
+Just send a conversation link to a friend and ask them to click it.
+
+
+# This string will be an active link to SUMO: https://support.mozilla.org/kb/which-browsers-will-work-firefox-hello-video-chat
+;See which browsers are compatible with Firefox Hello
+See which browsers are compatible with Firefox Hello
+
+
+;Just start a conversation, send your friend a link and ask them to click it.
+أنشء مُحادثة جديدة، أرسل رابطها لصديق واطلب منه النّقر عليه.
+
+
+;Simple.
+بسيط.
+
+
+# This is an English idiomatic expression: http://www.phrases.org.uk/meanings/316750.html
+# Feel free to adapt it to your locale.
+;Share and share alike
+Share and share alike
+
+
+;Want to show off some new baby pictures?
+Want to show off some new baby pictures?
+
+
+;Share travel options over the Web?
+Share travel options over the Web?
+
+
+;Check in on a project from half a world away?
+Check in on a project from half a world away?
+
+
+;Screen sharing on Firefox Hello makes it all possible.
+Screen sharing on Firefox Hello makes it all possible.
+
+
+;Try it out in your next conversation and share the things that matter most.
+Try it out in your next conversation and share the things that matter most.
+
+
+;Invite anyone, anywhere
+أرسل دعوة إلى أي شخص، في أيّ مكان
+
+
+# “Hello” is the product name and should not be localized
+;Hello is super easy to use and your friends and family don’t even need Firefox to join your conversation.
+"أهلًا فيَرفُكس" سهل الاستخدام. بإمكان أصدقائك وأفراد عائلتك الانضمام إلى المُحادثة حتى من دون تنصيب فيَرفُكس.
+
+
+;As long as they have a compatible browser, they’re good to go.
+طالما لديهم مُتصفحٌ مُتوافق، فلا حاجة إلى أيّة أمور إضافية.
+
+
+;Learn more about compatible browsers
+اعرف المزيد عن المُتصفّحات المُتوافقة
+
+
+;Safe, secure, protected
+آمن ومحمي
+
+
+# “Hello” is the product name and should not be localized
+;Because Hello is built right into Firefox, you can rest easy knowing that your conversations and information will remain private and secure.
+بحُكم أن "أهلًا فيَرفُكس" مُدمَج في فيَرفُكس فإنّك ستبقى مُطمئنّا على خصوصية وأمان مُحادثاتك.
+
+
+;And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
+And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
+
+
+# This will be an active link. Destination URL currently not available
+;Learn more about WebRTC encryption
+Learn more about WebRTC encryption
+
+
+;That’s part of our mission, and it’s behind everything we do around here.
+هذا أحد أهداف مُهمّتنا، وهو جزء لا يتجزّء من كل الأعمال التي نقوم بها.
+
+
+;Do more with a Firefox Account
+استفد من حسابك على فَيَرفُكس بشكل أمثل
+
+
+;To start a conversation with someone directly, simply create a free Firefox Account or sign in if you have one already &mdash; it’s the same account you use with Sync.
+كل ما تحتاجه لتشرع في مُحادثة أحدهم بشكل مُباشر هو إنشاء حساب فَيَرفُكس مجّاني أو تسجيل الدخول إن كنت تملك حسابًا &mdash; هو نفس الحساب الذي تستخدمه مع "تزامن"
+
+
+;You can then add contacts to keep them close at hand.
+يُمكنك إضافة جهات اتَصال ليسهل الوصول إليها لاحقًا.
+
+
+;Get Firefox to get started
+حمّل فَيَرفُكس لتشرع في ذلك
+
+
+# “Hello” is the product name and should not be localized
+;Want to start using Hello?
+هل ترغب في استخدام "أهلًا فيَرفُكس"؟
+
+
+;All you need is Firefox &mdash; the open source browser that helps you stay in control of your online life while you stay connected with friends and family.
+كل ما تحتاحه هو فَيَرفُكس &mdash; المُتصفّح الحر والمجّاني الذي يُتيح لك التحكم الكامل في بياناتك على الإنترنت ويُسهّل عليك البقاء على اتّصال بالأهل والأصدقاء.
+
+
+;Download Firefox to start your first conversation.
+حمّل فيَرفُكس لتبدأ أوّل محادثة لك.
+
+
+;Get Firefox and start your first conversation
+احصل على فيَرفُكس لتبدأ أوّل محادثة لك.
+
+
+;Update your Firefox to start using Hello
+حدّث فيَرفُكس إلى آخر إصدار لتشرع في استخدام "أهلًا فيَرفُكس"
+
+
+;Start your first conversation today
+ابدأ أوّل مُحادثة لك اليوم
+
+
+;Unfortunately, iOS doesn’t support Hello. To start having free video conversations, use Hello on Firefox for desktop, Firefox OS or Firefox for Android.
+للأسف لا يدعم نظام iOS "أهلًا فيَرفُكس". للاستفادة من مُحادثات فيديو مجانيّة فما عليك سوى استخدام  "أهلًا فيَرفُكس" على فيَرفُكس للأجهزة المكتبية، نظام فيَرفُكس أو إس استخدام فيَرفُكس على أجهزة أندرويد
+
+
+# “Hello” is the product name and should not be localized
+;Try Hello now
+جرّب "أهلًا فيَرفُكس" الآن
+
+
+# “Hello” is the product name and should not be localized
+;Get to know Hello
+تعرّف على "أهلًا فيَرفُكس"
+
+
+;Want to reconnect with friends around the world?
+تُريد التّواصل من جديد مع الأصدقاء في جميع أنحاء العالم؟
+
+
+;Celebrate a birthday when you can’t be there in person?
+احتفل بعيد ميلاد عندما لا يكون بإمكانك الحُضور شخصيّا؟
+
+
+# “Firefox Hello” is the product name and should not be localized
+;Learn more about Firefox Hello and see for yourself how easy it is to have a free video conversation with anyone, anywhere, right from your browser.
+أعرف المزيد حول "أهلًا فيَرفُكس" واكتشف بنفسك سُهولة القيام بمحادثة مرئيّة مجّانيّة مع أي شخص من أي مكان عبر مُتصفحك.
+
+
+;Questions?
+أسئلة؟
+
+
+;Visit Mozilla Support
+زيارة مركز موزيلا للدّعم الفنّي
+
+
+# %s will be replaced by an image of Telefonica's logo. The current string is the same used in Firefox for Firefox Hello
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/loop/loop.properties:powered_by_beforeLogo&repo=beta
+;Powered by %s
+يستخدم %s
+
+
+# The following strings are used for the First Time interactive experience, don't add HTML tags.
+# The %s placeholder is an image of the Hello screen sharing icon, and can be moved around to fit the translation appropriately.
+;Now see how easy it is to share your screen. Click %s in your conversation window to try it.
+Now see how easy it is to share your screen. Click %s in your conversation window to try it.
+
+
+# “Hello” is the product name and should not be localized
+;Welcome to Hello
+أهلًا بك في "أهلًا فيَرفُكس"
+
+
+;Open a video conversation with a single click, then invite a friend to join.
+أنشء مُحادثة مرئيّة بنقرة واحدة، وادع أصدقاءك للانضمام.
+
+
+;Share your link with a friend
+أرسل رابطك لصديق
+
+
+;They don’t even need Firefox to join. They just need to click the link.
+ليسوا في حاجة إلى استخدام فيَرفُكس للانضمام. كل ما يحتاجونه هو النّقر على الرّابط.
+
+
+;No need to wait around
+لا حاجة للانتظار
+
+
+# “Hello” is the product name and should not be localized
+;Once your friend clicks the link, the Hello icon will change to blue, letting you know they’re there.
+بمُجرد أن ينقُر صديقك على الرّابط سيتحوّل لون أيقونة "أهلًا فيَرفُكس" إلى الأزرق، لتعرف بأنه قد ربط الاتّصال بك.
+
+
+;You have a conversation waiting
+لديك مُحادثة في انتظارك
+
+
+# In this case “hello” is just a greeting (think of it as “hi”)
+;Click now to join and say hello.
+انقر الآن للانضمام وقل "أهلًا".
+
+
+;The easiest way to have a free video conversation with anyone, anywhere
+أسهل طريقة للحصول على محادثة مرئيّة مجانيّة مع أي شخص، من أي مكان
+
+
+;Start a conversation right from Firefox
+ابدأ مُحادثة مُباشرة من خلال فيَرفُكس
+
+
+;Invite a friend by sending them a link
+ادع صديقًا عبر إرسال رابط إليه
+
+
+;The Hello icon will change to blue once they’ve joined
+أيقونة "أهلًا فيَرفُكس" ستتغيّر للأزرق بمُجرد انضمامهم
+
+
+# “Hello” is the product name and should not be localized
+;Tell a friend about Hello
+أعلم صديقك حول "أهلًا فيَرفُكس"
+
+
+;Need help? Get support here
+تحتاج مُساعدة؟ احصل على الدّعم من هنا
+
+
+# “Hello” is the product name and should not be localized
+;Learn all about Hello
+اعرف المزيد حول "أهلًا فيَرفُكس"
+
+
+;The easiest way to connect for free over video
+أسهل طريقة للتواصل المرئي المجّاني.
+
+
+;Start right from Firefox and invite anyone, anywhere to have a conversation. All they have to do is click a link to join. There’s no account or sign-in required.
+ابدأ مُباشرة من خلال فيَرفُكس وادع أيّ شخص، في أي مكان للشروع في مُحادثة. كل ما يتوجّب عليهم  القيام به هو النّقر عل الرّابط للانضمام. لا حاجة إلى أيّة حسابات إضافية أو إلى تسجيل الدّخول.
+
+
+;You’ve started your first conversation. Wasn’t that easy?
+لقد بدأت لتوّك أوّل مُحادثة لك. ألم يكن ذلك سهلًا؟
+
+
+=======
 ## active ##
 ## hello_screen_sharing ##
 ## ios_announce ##
@@ -308,23 +919,24 @@ Hello بك في "Firefox Hello"
 
 
 ;Click the blue button to start a video conversation, then invite a friend to join.
-Click the blue button to start a video conversation, then invite a friend to join.
+انقر على الزّر الأزرق لتبدأ مُحادثة فيديو، ثم قم بدعوة صديق للانضمام.
 
 
 ;Email, copy or share the link
-Email, copy or share the link
+انسخ، تشارك الرّابط أو أرسله عبر البريد
 
 
 ;Your friends can connect instantly. They don’t even need Firefox to join.
-Your friends can connect instantly. They don’t even need Firefox to join.
+بإمكان أصدقائك الانضمام لحظيًّا. لا يُشترط استخدامهم لفيَرفُكس للانضمام.
 
 
 ;Continue browsing from any tab and you will be notified once someone joins.
-Continue browsing from any tab and you will be notified once someone joins.
+واصل تصفّحك بشكل عادي وسيتمّ تنبيهك لما ينضمّ أحدهم إلى المُحادثة
 
 
 # Accessibility: This is the alternate text for the social medial sharing icon
 ;sharing icon
-sharing icon
+أيقونة المُشاركة
 
 
+>>>>>>> .r146004

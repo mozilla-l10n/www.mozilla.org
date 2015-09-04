@@ -89,8 +89,9 @@ Pe serverul nostru noi stocăm un identificator aleatoriu pentru browserul tău,
 Pe Firefox pentru calculator, serviciul de push este operat de Mozilla.
 
 
-;Firefox uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox utilizează platforma și infrastructura <a href="%s">Google Cloud Messaging</a> pe care o folosesc celelalte aplicații Android ale tale.
+# Fuzzy: Firefox utilizează platforma și infrastructura <a href="%s">Google Cloud Messaging</a> pe care o folosesc celelalte aplicații Android ale tale.
+;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
@@ -145,8 +146,9 @@ Dacă dorești să dezactivezi complet funcția, urmează pașii următori:
 Selectează<em>Toate site-urile</em>.
 
 
-;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. The site will not be able to send you messages or ask for access to Push.
-Setează opțiunea <em>Primește notificări Push</em> la <strong>Blochează</strong>. Site-ul nu va putea să-ți trimită notificări push și nici nu va putea cere permisiunea.
+# Fuzzy: Setează opțiunea <em>Primește notificări Push</em> la <strong>Blochează</strong>. Site-ul nu va putea să-ți trimită notificări push și nici nu va putea cere permisiunea.
+;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
+Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
 
 
 ;Will this cost me money?

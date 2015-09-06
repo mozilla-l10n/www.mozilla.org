@@ -4,12 +4,12 @@
 
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
-Keep your Firefox healthy with a quick checkup
+အမြန်စစ်ဆေးမှုကို အသုံးပြုပြီး သင့်မီးမြေခွေးကို ကောင်းမွန်မှု ရှိစေပါ။
 
 
 # Used as page description in HTML meta tag
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
+ဖလက်ရှ်၊ ကွစ်တိုင်းမ်၊ ဂျာဗားကို အသုံးပြုပါသလား။ အကယ်၍ သင့်မီးမြေခွေးကို ပိုမိုစွမ်းဆောင်နိုင်မှုရှိဖို့အတွက် သင်အသုံးပြုတယ်ဆိုလျှင် သင့်ပလဂ်အင်များကို စစ်ဆေးပါ။ ၎င်းတို့သည် အမြဲ နောက်ဆုံးပေါ် ဖြစ်နေရန် လိုအပ်သည်။
 
 
 # Old page <title> tag
@@ -54,7 +54,7 @@ Use Flash? QuickTime? Java? If you use these to make your Firefox experience mor
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+အိုဟောင်းနေပြီ
 
 
 # Main title
@@ -67,12 +67,12 @@ outdated
 
 
 ;Currently the plugin check service is only available to Firefox users.
-Currently the plugin check service is only available to Firefox users.
+လက်ရှိတွင် ပလဂ်အင်စစ်ဆေးခြင်းဝန်ဆောင်မှုသည် မီးမြေခွေးအသုံးပြုသူများသာ ရရှိနိုင်ပါသည်။
 
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
-Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
+ပလဂ်အင်များသည် အလိုအလျောက် အဆင့်မြှင့်တင်မည် မဟုတ်ပါ။ လုံခြုံမှုရှိစေရန်နှင့် ရှာဖွေကြည့်ရှုရာတွင် အနှောက်အယှက်မရှိစေရန် သင့်ပလဂ်အင်များကို အခုပဲ စစ်ဆေးပါ။
 
 
 ;Looks like you’re using an older version of Firefox.
@@ -84,7 +84,7 @@ Plugins don’t always update automatically. Check yours now to stay safe and br
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+မည်သည့် ပလဂ်အင်မျှ မတွေ့ပါ။ အကယ်၍ ဒီဟာသည် အမှားလို့ သင်ယုံကြည်ပါက <a href="%(bugzilla_url)s">ကျေးဇူးပြု၍ အမှားအနေနှင့် ဖိုင်တွဲပါ</a>။ ထို့ပြင် ကျွန်တော်တို့ကို အသိပေးပါ။
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -210,7 +210,7 @@ No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)
 
 # If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 ;Open the <span class="menu">menu</span>.
-Open the <span class="menu">menu</span>.
+<span class="menu">မီနူးစာရင်း</span>ကို ဖွင့်ပါ။
 
 
 ;Choose Add-ons.
@@ -222,7 +222,7 @@ Open the <span class="menu">menu</span>.
 
 
 ;Click on the drop down next to the plugin you wish to disable.
-Click on the drop down next to the plugin you wish to disable.
+သင်ပိတ်ချင်သည့် ပလဂ်အင်၏ ဘေးနားတွင်ရှိသော ဖွင့်ပိတ်မီနူးပေါ်တွင် ကလစ်နှိပ်ပါ။
 
 
 ;Click on a plugin in the list.
@@ -230,7 +230,7 @@ Click on the drop down next to the plugin you wish to disable.
 
 
 ;Select "Never Activate" from the available choices.
-Select "Never Activate" from the available choices.
+ရွေးချယ်နိုင်သည့်အရာများထဲမှ "ဘယ်တော့မှ မသုံး"ကို ရွေးပါ။
 
 
 ;Click the Disable button.
@@ -242,7 +242,7 @@ Select "Never Activate" from the available choices.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
-Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
+သတိပေးချက်။ ပလဂ်အင်တစ်ခုအား ပိတ်ထားခြင်းသည် ၎င်းနှင့်သက်ဆိုင်သော လုပ်ဆောင်ချက်များအား ပိတ်ထားခြင်းနှင့် တူသည်။ ဥပမာ၊ သင် ဖလက်ရှ်ကို ပိတ်ထားပါက ဗွီဒီယိုလွှင့်သည့်ဝဘ်ဆိုက်များမှ ဗီဒီယိုများကို ကြည့်ရှုနိုင်မည်မဟုတ်ပါ။
 
 
 ;Mozilla Support

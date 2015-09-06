@@ -92,6 +92,7 @@ En Firefox para escritorio, el servicio push es operado por Mozilla.
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
 Firefox para Android usa la misma plataforma de <a href="%s">Google Cloud Messaging</a> e infraestructura que tus otras aplicaciones de Android usan.
 
+
 ;In both cases, the push service cannot decrypt your push messages.
 En ambos casos, el servicio push no puede desencriptar tus mensajes push.
 
@@ -144,7 +145,6 @@ Si deseas desactivar la función completamente, sigue los siguientes pasos:
 Selecciona <em>Todos los sitios</em>.
 
 
-# Fuzzy: Ajusta <em>Recibir notificaciones Push</em> a <strong>Bloquear</strong>. El sitio no podrá enviarte mensajes o solicitar acceso a Push.
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
 Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
 

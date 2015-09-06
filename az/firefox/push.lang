@@ -17,51 +17,51 @@ Mozilla Firefox İnternet Səyyahı
 
 
 ;What is Push?
-What is Push?
+Push Nədir?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+Push saytların sizə saytda olmadığınız zamanlarda belə mesaj göndərməsinə icazə verən alternativ özəllikdir.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+Saytlar bu xidməti işlədərək sizə arxa tərəfdə xəbərdarlıq və ya yenilikləri göndərə bilərlər.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+Misal üçün, e-poçt saytı yeni mektub gəldiyində və ya hava məlumatı saytı qasırğa təhlükəsi olduğunda Push vasitəsiylə sizə xəbərdarlıq göndərə bilər.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Siz ancaq icazə verdiyiniz saytlardan mesajlar alacaqsınız.
 
 
 ;How does it work?
-How does it work?
+Bu necə işləyir?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox ani mesaj xidmətinə qoşulu qalır.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Push üçün icazə verdiyiniz saytlar xidməti işlədərək sizə mesaj göndərə bilərlər.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox “worker” (işçi) adlı balaca JavaScript parçasına bu mesajı çatdırır.
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+İşçi daha sonra mesajı işləyir.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+O mesajı ya vizual bildiriş olaraq göstərir və ya daha sonra istifadə üçün saxlayır.
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+Saytla hansı məlumatlarımı paylaşıram?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.

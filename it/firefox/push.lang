@@ -1,9 +1,9 @@
-## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.  https://www-dev.allizom.org/%LOCALE%/firefox/push/
+## NOTE: Starting with Firefox 42, this page is linked from Firefox UI. https://www-dev.allizom.org/it/firefox/push/
 
 
 # Page Title and part of <title> tag
 ;Push
-Push
+Push {ok}
 
 
 # Page Title and part of <title> tag
@@ -17,154 +17,154 @@ Browser web Mozilla Firefox
 
 
 ;What is Push?
-What is Push?
+Che cos’è Push?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+Push è una funzionalità facoltativa che consente ai siti di inviare messaggi anche se non stai interagendo direttamente con loro.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+I siti possono utilizzare questa funzione per inviare notifiche o aggiornare i dati in background.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+Per esempio, un sito di webmail potrebbe utilizzare Push per notificare l’arrivo di un nuovo messaggio, mentre un sito di previsioni del tempo lo potrebbe sfruttare per inviare alerte meteo.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Riceverai solamente messaggi dai siti che hai precedentemente autorizzato.
 
 
 ;How does it work?
-How does it work?
+Come funziona?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Durante l’utilizzo di Firefox viene mantenuta una connessione aperta con un servizio push.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+I siti a cui hai consentito l’utilizzo di Push potranno sfruttare tale servizio per inviare i loro messaggi.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox trasmette tali messaggi a un piccolo componente JavaScript denominato “worker”.
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+A questo punto il “worker” elabora il messaggio.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+Il “worker” può scegliere di mostrare il messaggio o metterlo da parte per utilizzarlo in futuro.
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+Quali informazioni vengono condivise con i siti?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+Un sito può utilizzare Push per inviare un messaggio in qualunque momento, anche se non stai interagendo direttamente con esso.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+Quando un sito invia un messaggio, può, se vuole, conoscere il tuo indirizzo IP e rilevare informazioni sulla posizione.
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+Quali informazioni utilizza Firefox per fornire Push?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+Durante l’utilizzo di Firefox, viene mantenuta una connessione permanente a un servizio push per poter ricevere i messaggi.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+Sui server Mozilla vengono memorizzati un identificativo random per il browser e degli identificativi random per ciascun sito autorizzato.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+Per quanto riguarda Firefox per desktop, il servizio push viene gestito direttamente da Mozilla.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Firefox per Android utilizza <a href="%s">Google Cloud Messaging</a>, la stessa piattaforma e infrastruttura di altre applicazioni Android.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+In entrambi i casi, il servizio push utilizzato non è in grado di decifrare i messaggi elaborati.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+I messaggi push sono cifrati e possono essere decifrati solo dalla copia di Firefox a cui sono destinati.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+I messaggi cifrati vengono memorizzati sui server fino alla loro trasmissione.
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+Come posso annullare i permessi push?
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+Per bloccare l’invio di messaggi push da parte di un sito:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+Digita <em>about:permissions</em>. nella barra degli indirizzi.
 
 
 ;Select the site.
-Select the site.
+Seleziona il sito.
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+Imposta la voce <em>Ricevere notifiche push/em> su <strong>Chiedi sempre</strong>.
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+Come disattivare permanentemente Push?
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+Push rimarrà sempre una funzionalità facoltativa in Firefox.
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+Un sito non può inviare notifiche push senza la tua esplicita autorizzazione.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+Se vuoi disattivare Push in modo definitivo, effettua le seguenti operazioni:
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+Seleziona <em>Tutti i siti</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
+Imposta la voce <em>Ricevere notifiche push</em> su <strong>Blocca</strong>. I siti non potranno inviare messaggi push e nemmeno richiedere i permessi per il suo utilizzo.
 
 
 ;Will this cost me money?
-Will this cost me money?
+Tutto questo ha un costo?
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+Per il funzionamento della tecnologia Push non sono richieste grosse quantità di dati.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+Se utilizzi una connessione Internet a traffico limitato o in cui le tariffe vengono calcolate sulla quantità di dati scambiati, puoi comunque voler monitorare il traffico generato.
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+Come è possibile integrare Push su un sito web?
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
+Le <a href="%s">specifiche per l’utilizzo dell’API Push</a> spiegano come realizzare un worker per il servizio push e inviare i messaggi.
 
 

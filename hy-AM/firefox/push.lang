@@ -45,7 +45,7 @@ Firefox-ը կապակցում է push ծառայությանը:
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Ձեր թույլատրած կայքերը կարող են օգտագործել Push-ը կարող են ձեզ հաղորդագրություններ ուղարկել:
+Ձեր թույլատրած կայքերը կարող են օգտագործել Push-ը և ձեզ հաղորդագրություններ ուղարկել:
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
@@ -73,11 +73,11 @@ Firefox-ը հասցնում է այս push հաղորդագրությունը մ
 
 
 ;What information does Firefox use to provide Push?
-Ի՞նչ տեղեկատվություն է օգտագործում Firefox-ը՝ տրամադրելու Push-ը:
+Ի՞նչ տեղեկատվություն է օգտագործում Firefox-ը՝ տրամադրելով Push-ը:
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox-ը պահպանում է մշտական կապակցում push ծառայության հետ՝ ստանալու համար push հաղորդագրություններ:
+Firefox-ը պահպանում է մշտական կապակցվում push ծառայության հետ՝ ստանալու համար push հաղորդագրություններ:
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
@@ -113,11 +113,11 @@ Push հաղորդագրությունները այլագրված են, միայ�
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-URL գոտում մուտքագրեք <em>about:permissions</em>:
+URL գոտում մուտքագրեք <em>about:permissions</em>
 
 
 ;Select the site.
-Ընտրեք կայքը:
+Ընտրեք կայքը
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.

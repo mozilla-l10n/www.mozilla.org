@@ -3,7 +3,7 @@
 
 # Page Title and part of <title> tag
 ;Push
-Push
+Gwthio
 
 
 # Page Title and part of <title> tag
@@ -17,19 +17,19 @@ Porwr Gwe Mozilla Firefox
 
 
 ;What is Push?
-What is Push?
+Beth yw Gwthio?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+Mae Gwthio'n nodwedd ddewisol sy'n caniatáu i wefannau anfon negeseuon atoch hyd yn oed pan nad ydych yn ymweld â'r wefan.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+Gall gwefannau ddefnyddio'r nodwedd i ddarparu gwybodaeth neu ddiweddaru data yn y cefndir.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+Gall, e.e., gwefan ddefnyddio Gwthio i ddarparu gwybodaeth i chi pan fydd negeseuon newydd yn cyrraedd, neu gall gwefan tywydd anfon rhybuddion stormydd.
 
 
 ;You will only receive messages from sites for which you have granted permission.
@@ -41,27 +41,27 @@ Sut mae'n gweithio?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Mae Firefox yn cynna; cysylltiad â'r gwasanaeth gwthio.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Mae modd i wefannau rydych wedi rhoi caniatâd Gwthio iddynt ddefnyddio'r gwasanaeth i anfon negeseuon atoch.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Mae Firefox yn anfon y neges gwthio i ddarn bach o JavaScript o'r enw “worker”.
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+Mae'r worker yna'n prosesu'r neges.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+Gall benderfynu dangos rhybudd gweledol neu gadw'r neges ar gyfer nes ymlaen.
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+Pa wybodaeth fyddai'n ei rannu gyda gwefan?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
@@ -69,19 +69,19 @@ A site can use Push to send you a message at any time, even when you are not act
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+Mae gwefan sy'n anfon neges atoch yn gallu dysgu eich cyfeiriad IP os yw'n dewis gwneud hynny; gall hyn ddatgelu eich lleoliad.
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+Pa wybodaeth mae Firefox yn ei ddefnyddio i ddarparu Gwthio?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+Mae Firefox yn cynnal cysylltiad parhaol â'r gwasanaeth gwthio er mwyn derbyn negeseuon gwthio.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+AR eich gweinydd rydym yn cadw dynodydd hap ar gyfer eich porwr, yn ogystal â dynodwr hap am bob gwefan rydych yn eu caniatáu.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
@@ -89,43 +89,43 @@ On Firefox for desktop, the push service is operated by Mozilla.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Mae Firefox Android y defnyddio'r un platfform ac isadeiledd <a href="%s">Google Cloud Messaging</a> ag yw eich rhaglenni Android eraill.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+Yn y ddwy achos, nid oes modd i'r gwasanaeth gwthio ddadgryptio eich negeseuon gwthio.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+Mae negeseuon gwthio wedi eu hamgryptio, dim ond eich copi chi o Firefox sy'n gallu eu dadgryptio nhw.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+Mae'r negeseuon amgryptiedig yn cael eu cadw ar y gweinydd nes eu bod wedi eu hanfon.
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+Sut ydw'n diddymu caniatâd Gwthio?
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+I rwystro gwefan rhag anfon negeseuon gwthio:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+Yn y bar URL, teipiwch <em>about:permissions</em>.
 
 
 ;Select the site.
-Select the site.
+Dewis y wefan.
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+Gosod <em>Derbyn Negeseuon Gwthio</em> i <strong>Gofyn Bob Tro</strong>.
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+Sut ydw i'n analluogi Gwthio'n barhaol?
 
 
 ;Push is always opt-in in Firefox.
@@ -133,11 +133,11 @@ Push is always opt-in in Firefox.
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+Nid oes modd i wefan anfon gwybodaeth atoch heb eich caniatâd.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+Os hoffech chi ddiffodd y nodwedd yn llwyr, dilynwch y camau canlynol:
 
 
 ;Select <em>All Sites</em>.
@@ -145,26 +145,26 @@ Select <em>All Sites</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
+Gosod <em>Derbyn Negeseuon Gwthio</em> i <strong>Rhwystro</strong>. Ni fydd gwefannau yn gallu anfon negeseuon atoch na gofyn am fynediad i Gwthio.
 
 
 ;Will this cost me money?
-Will this cost me money?
+Bydd hyn yn costio i mi?
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+Mae Gwthio'n defnyddio mymryn bach o ddata er mwyn gweithio.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+Os ydych ar lwfans data bychan neu yn talu am ddefnydd data, efallai y byddwch am gadw llygad ar eich defnydd.
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+Sut ydw i'n ychwanegu Gwthio i fy ngwefan?
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
+Mae <a href="%s">manyleb API Gwthio</a> yn esbonio sut i greu Service Worker ac anfon negeseuon gwthio.
 
 

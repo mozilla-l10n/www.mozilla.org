@@ -1,5 +1,5 @@
 ## active ##
-## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.  https://www-dev.allizom.org/%LOCALE%/firefox/push/
+## NOTE: Starting with Firefox 42, this page is linked from Firefox UI. https://www-dev.allizom.org/%LOCALE%/firefox/push/
 
 
 # Page Title and part of <title> tag
@@ -22,7 +22,7 @@ Che cos’è Push?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push è una funzionalità facoltativa che consente ai siti di inviare messaggi anche se non stai interagendo direttamente con loro.
+Push è una funzionalità, attivabile a tua discrezione, che consente ai siti di inviare messaggi anche se non stai interagendo direttamente con loro.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
@@ -30,11 +30,11 @@ I siti possono utilizzare questa funzione per inviare notifiche o aggiornare i d
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-Per esempio, un sito di webmail potrebbe utilizzare Push per notificare l’arrivo di un nuovo messaggio, mentre un sito di previsioni del tempo lo potrebbe sfruttare per inviare alerte meteo.
+Per esempio, un sito di webmail potrebbe utilizzare la tecnologia push per notificare l’arrivo di un nuovo messaggio, mentre un sito di previsioni del tempo la potrebbe sfruttare per inviare alerte meteo.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-Riceverai solamente messaggi dai siti che hai precedentemente autorizzato.
+Riceverai solamente messaggi dai siti che hai esplicitamente autorizzato.
 
 
 ;How does it work?
@@ -82,7 +82,7 @@ Durante l’utilizzo di Firefox, viene mantenuta una connessione permanente a un
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-Sui server Mozilla vengono memorizzati un identificativo random per il browser e degli identificativi random per ciascun sito autorizzato.
+Sui server Mozilla vengono memorizzati un identificativo <em>random</em> per il browser e degli identificativi <em>random</em> per ciascun sito autorizzato.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
@@ -90,7 +90,7 @@ Per quanto riguarda Firefox per desktop, il servizio push viene gestito direttam
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox per Android utilizza <a href="%s">Google Cloud Messaging</a>, la stessa piattaforma e infrastruttura di altre applicazioni Android.
+Firefox per Android invece utilizza <a href="%s">Google Cloud Messaging</a>, la stessa piattaforma e infrastruttura di altre applicazioni Android.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
@@ -102,7 +102,7 @@ I messaggi push sono cifrati e possono essere decifrati solo dalla copia di Fire
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-I messaggi cifrati vengono memorizzati sui server fino alla loro trasmissione.
+I messaggi cifrati verranno memorizzati sui server fino alla loro trasmissione.
 
 
 ;How do I revoke Push permissions?
@@ -114,19 +114,19 @@ Per bloccare l’invio di messaggi push da parte di un sito:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-Digita <em>about:permissions</em>. nella barra degli indirizzi.
+digita <em>about:permissions</em> nella barra degli indirizzi;
 
 
 ;Select the site.
-Seleziona il sito.
+seleziona il sito;
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Imposta la voce <em>Ricevere notifiche push/em> su <strong>Chiedi sempre</strong>.
+imposta la voce <em>Ricevere notifiche push</em> su <strong>Chiedi ogni volta</strong>.
 
 
 ;How do I disable Push permanently?
-Come disattivare permanentemente Push?
+Come disattivare definitivamente Push?
 
 
 ;Push is always opt-in in Firefox.
@@ -142,11 +142,11 @@ Se vuoi disattivare Push in modo definitivo, effettua le seguenti operazioni:
 
 
 ;Select <em>All Sites</em>.
-Seleziona <em>Tutti i siti</em>.
+seleziona <em>Tutti i siti</em>;
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Imposta la voce <em>Ricevere notifiche push</em> su <strong>Blocca</strong>. I siti non potranno inviare messaggi push e nemmeno richiedere i permessi per il suo utilizzo.
+imposta la voce <em>Ricevere notifiche push</em> su <strong>Blocca</strong>. I siti non potranno inviare messaggi push e nemmeno richiedere i permessi per il suo utilizzo.
 
 
 ;Will this cost me money?

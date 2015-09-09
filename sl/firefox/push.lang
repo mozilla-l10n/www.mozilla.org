@@ -4,7 +4,7 @@
 
 # Page Title and part of <title> tag
 ;Push
-Push {ok}
+Potisna obvestila
 
 
 # Page Title and part of <title> tag
@@ -18,23 +18,23 @@ Spletni brskalnik Mozilla Firefox
 
 
 ;What is Push?
-Kaj je Push?
+Kaj so potisna obvestila?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+Potisna obvestila spletnim stranem omogočajo, da vam pošiljajo sporočila tudi takrat, ko niso odprte.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+Spletne strani uporabljajo to možnost, da vam zagotovijo obvestila in posodobitve v ozadju.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+Na primer, poštna spletna stran lahko uporabi potisna obvestila za pošiljanje obvestil o prejeti pošti, stran z vremenom pa za pošiljanje opozoril o nevihtah.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Sporočila boste prejeli samo od strani, ki ste jim to dovolili.
 
 
 ;How does it work?
@@ -42,23 +42,23 @@ Kako deluje?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox vzdržuje povezavo s storitvijo potisnih obvestil.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Strani, ki ste jim dovolili uporabo potisnih obvestil, lahko uporabljajo to storitev, da vam pošiljajo sporočila.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox dostavi potisno sporočilo majhnemu delu JavaScripta, imenovanemu “worker”.
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+Worker nato obdela sporočilo.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+Lahko prikaže vizualno obvestilo ali shrani sporočilo za poznejšo uporabo.
 
 
 ;What information do I share with a site?
@@ -66,7 +66,7 @@ Katere podatke posredujem stranem?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-Stran uporablja Push, da vam lahko pošlje sporočilo kadarkoli, tudi če je trenutno nimate pred seboj.
+Stran uporablja potisna obvestila, da vam lahko pošlje sporočilo kadarkoli, tudi če je trenutno nimate odprte.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
@@ -74,39 +74,39 @@ Stran, ki vam pošlje sporočilo, lahko pridobi vaš naslov IP, če se tako odlo
 
 
 ;What information does Firefox use to provide Push?
-Katere podatke uporablja Firefox za delovanje Push?
+Katere podatke uporablja Firefox za delovanje potisnih obvestil?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+Firefox vzdržuje stalno povezavo s potisno storitvijo, da lahko sprejema potisna sporočila.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+Na našem strežniku hranimo naključne identifikatorje vašega brskalnika, skupaj z naključnimi identifikatorji vsake strani, ki jo pooblastite.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+Potisno storitev Firefoxa za namizja upravlja Mozilla.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Firefox za Android uporablja platformo in infrastrukturo <a href="%s">Google Cloud Messaging</a>, tako kot druge aplikacije za Android.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+V obeh primerih potisna storitev ne more dešifrirati vaših sporočil.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+Potisna sporočila so šifrirana in samo vaša kopija Firefoxa jih lahko dešifrira.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+Šifrirana sporočila so shranjena na strežniku, dokler niso dostavljena.
 
 
 ;How do I revoke Push permissions?
-Kako prekličem dovoljenja za Push?
+Kako prekličem dovoljenja potisnih obvestil?
 
 
 ;To stop a site from sending you push messages:
@@ -126,11 +126,11 @@ Nastavite <em>Sprejmi potisna obvestila</em> na <strong>Vedno vprašaj</strong>.
 
 
 ;How do I disable Push permanently?
-Kako trajno onemogočim Push?
+Kako trajno onemogočim potisna obvestila?
 
 
 ;Push is always opt-in in Firefox.
-Push morate najprej vključiti.
+Potisna obvestila morate najprej vključiti.
 
 
 ;A site cannot send you push messages without your permission.
@@ -146,7 +146,7 @@ Izberite <em>Vse strani</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Nastavite možnost <em>Sprejmi potisna obvestila</em> na <strong>Zavrni</strong>. Spletne strani ne bodo mogle pošiljati sporočil ali zahtevati dostopa do Pusha.
+Nastavite možnost <em>Sprejmi potisna obvestila</em> na <strong>Zavrni</strong>. Spletne strani ne bodo mogle pošiljati sporočil ali zahtevati dostopa do potisnih obvestil.
 
 
 ;Will this cost me money?
@@ -154,7 +154,7 @@ Koliko stane?
 
 
 ;Push uses a small amount of data to operate.
-Push za delovanje uporablja majhno količino podatkov.
+Potisna obvestila za delovanje uporabljajo majhno količino podatkov.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
@@ -162,7 +162,7 @@ Push za delovanje uporablja majhno količino podatkov.
 
 
 ;How do I add Push to my web site?
-Kako dodam Push na mojo spletno stran?
+Kako dodam potisna obvestila na svojo spletno stran?
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.

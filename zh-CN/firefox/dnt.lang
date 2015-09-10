@@ -2,23 +2,23 @@
 
 
 ;Mozilla Firefox offers a Do Not Track feature that lets you express a preference not to be tracked by websites.
-Mozilla Firefox offers a Do Not Track feature that lets you express a preference not to be tracked by websites.
+Mozilla 提供了一个“请勿跟踪”功能，这让您可以向网站表达不想被跟踪的意愿。
 
 
 ;Do Not Track FAQ
-Do Not Track FAQ
+“请勿跟踪”的常见问题
 
 
 ;Your Status:
-Your Status:
+您的状态：
 
 
 ;Do Not Track is ON
-Do Not Track is ON
+“请勿跟踪”已开启
 
 
 ;Do Not Track is OFF
-Do Not Track is OFF
+“请勿跟踪”已关闭
 
 
 ;Mozilla is a global, nonprofit organization dedicated to making the Web better. We emphasize principle over profit, and believe that the Web is a shared public resource to be cared for, not a commodity to be sold. We answer to no one but you and believe it is crucial to put you in control of your online experience. We are aiming to give you better insight and control into the ways your personal information is collected, used, stored and shared online.
@@ -30,11 +30,11 @@ Mozilla Firefox offers a Do Not Track feature that lets you express a preference
 
 
 ;Frequently Asked <span>Questions</span>
-Frequently Asked <span>Questions</span>
+常被问到的<span>问题</span>
 
 
 ;What is Do Not Track?
-What is Do Not Track?
+什么是“请勿跟踪”？
 
 
 ;Do Not Track is a step toward putting you in control of the way your information is collected and used online. Do Not Track is a feature in Firefox that allows you to let a website know you would like to opt-out of third-party tracking for purposes including behavioral advertising. It does this by transmitting a Do Not Track HTTP header every time your data is requested from the Web.
@@ -42,7 +42,7 @@ Do Not Track is a step toward putting you in control of the way your information
 
 
 ;Is Do Not Track available on Firefox for Android?
-Is Do Not Track available on Firefox for Android?
+Firefox Android 版上也能使用“请勿跟踪”吗？
 
 
 ;Yes. Firefox for Android is the first mobile Web browser to offer the Do Not Track privacy feature, and behaves the same way it does on the desktop. To turn Do Not Track on in Firefox for Android, simply swipe left and tap on Browser Tools. From the Preferences pane, tap on the box next to &quot;Tell sites not to track me&quot; to turn this option on or off.
@@ -50,7 +50,7 @@ Yes. Firefox for Android is the first mobile Web browser to offer the Do Not Tra
 
 
 ;Does Do Not Track block ads?
-Does Do Not Track block ads?
+“请勿跟踪”能阻挡广告吗？
 
 
 ;No, you will still see ads with Do Not Track enabled. However, Do Not Track may change the type of ads you see. For example, behavioral ads are targeted to your interests based on the websites you visit and the search terms you use. If you request that websites Do Not Track you, and the sites respect your privacy preferences, you will see more generic ads in place of behavioral ads.
@@ -58,7 +58,7 @@ No, you will still see ads with Do Not Track enabled. However, Do Not Track may 
 
 
 ;How does Do Not Track work with other privacy tools?
-How does Do Not Track work with other privacy tools?
+“请勿跟踪”与其他隐私工具可以同时使用吗？
 
 
 ;Do Not Track is one of many privacy solutions. Do Not Track does not replace your anti-virus software, will not encrypt data, and is not a security mechanism. There are several other <a href="%(url)s">privacy and security</a> features within Firefox.
@@ -66,7 +66,7 @@ Do Not Track is one of many privacy solutions. Do Not Track does not replace you
 
 
 ;Will Do Not Track affect the rest of my Web experience?
-Will Do Not Track affect the rest of my Web experience?
+“请勿跟踪”会影响我的网上浏览体验吗？
 
 
 ;Do Not Track may interfere with some personalized services you enjoy. For example, a Do Not Track request might mean you would have to type in your zip code each time you want to view a weather report, rather than seeing the weather automatically displayed. Personalization on websites can save you time and repetitive typing, but it requires data.
@@ -74,7 +74,7 @@ Do Not Track may interfere with some personalized services you enjoy. For exampl
 
 
 ;How do I enable Do Not Track in Firefox?
-How do I enable Do Not Track in Firefox?
+我该如何启用 Firefox 中的“请勿跟踪”？
 
 
 ;This feature is not enabled by default. You can find the Do Not Track request on the Privacy pane. <span id="%(id)s">On Windows, go to Tools &gt; Options&hellip; &gt; Privacy.</span>
@@ -90,7 +90,7 @@ Click to check the box next to &quot;Tell websites I do not want to be tracked&q
 
 
 ;Will companies honor my Do Not Track preference?
-Will companies honor my Do Not Track preference?
+企业会尊重我的“请勿跟踪”设置吗？
 
 
 ;Companies are starting to support Do Not Track, but you may not notice any changes initially. We are actively working with companies that have started to implement Do Not Track, with others who have committed to doing so soon.
@@ -98,11 +98,11 @@ Companies are starting to support Do Not Track, but you may not notice any chang
 
 
 ;Where can I learn more?
-Where can I learn more?
+我在哪能了解更多信息？
 
 
 ;Other interesting work about Do Not Track and online privacy:
-Other interesting work about Do Not Track and online privacy:
+其他有关“请勿跟踪”和在线隐私的有趣话题：
 
 
 ;<a href="%s">Private browsing</a> in Firefox &#8212; limits saving data about which sites and pages you have visited online
@@ -122,19 +122,19 @@ Other interesting work about Do Not Track and online privacy:
 
 
 ;The Tracking Preference Expression (DNT) <a href="%s">W3C Editor’s Draft</a>
-The Tracking Preference Expression (DNT) <a href="%s">W3C Editor’s Draft</a>
+跟踪偏好表达 (DNT) <a href="%s">W3C 编者草案</a>
 
 
 ;Tracking Compliance and Scope <a href="%s">W3C Editor’s Draft</a>
-Tracking Compliance and Scope <a href="%s">W3C Editor’s Draft</a>
+跟踪的合规性和范围 <a href="%s">W3C 编者草案</a>
 
 
 ;The W3C <a href="%s">Tracking Protection Working Group</a>
-The W3C <a href="%s">Tracking Protection Working Group</a>
+W3C <a href="%s">跟踪保护工作组</a>
 
 
 ;<a href="%s">Ghostery</a> &#8212; a tool that lets you learn which sites are tracking you online
-<a href="%s">Ghostery</a> &#8212; a tool that lets you learn which sites are tracking you online
+<a href="%s">Ghostery</a> &#8212; 一个工具，让您了解哪些网站在跟踪您的网上活动
 
 
 ;See <a href="%s">where your data goes</a> before you click &#8212; an image from the Future of Privacy Forum
@@ -146,26 +146,26 @@ Mozilla and Stanford’s Do Not Track <a href="%(url)s">submission to the IETF</
 
 
 ;Enable Do Not Track in Firefox
-Enable Do Not Track in Firefox
+启用 Firefox 中的“请勿跟踪”
 
 
 ;Options window - Advanced panel - Do Not Track
-Options window - Advanced panel - Do Not Track
+选项窗口 - 高级面板 - 请勿跟踪（DNT）
 
 
 ;Enabling Do Not Track
-Enabling Do Not Track
+启用“请勿跟踪”
 
 
 ;Click for Instructions
-Click for Instructions
+点击查看操作说明
 
 
 ;Enable Do Not Track in Internet Explorer 9
-Enable Do Not Track in Internet Explorer 9
+启用 Internet Explorer 9 中的“请勿跟踪”
 
 
 ;To enable Do Not Track in IE 9, you need to enable IE 9’s <a href="%(url)s">Tracking Protection</a> feature. The easiest way to do that is to install <a href="%(tpl)s">Mozilla’s Simple Tracking Protection List</a>. If you view this page in IE 9, there will be instructions right here.
-To enable Do Not Track in IE 9, you need to enable IE 9’s <a href="%(url)s">Tracking Protection</a> feature. The easiest way to do that is to install <a href="%(tpl)s">Mozilla’s Simple Tracking Protection List</a>. If you view this page in IE 9, there will be instructions right here.
+若要启用 IE 9 中的“请勿跟踪”，您需要启用 IE 9 的<a href="%(url)s">跟踪保护</a>功能。做到这一点的最简单方法就是安装<a href="%(tpl)s">Mozilla 的简单跟踪保护列表</a>。如果您在 IE 9 中访问此页面，操作说明就会出现在这里。
 
 

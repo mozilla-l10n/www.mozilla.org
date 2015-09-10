@@ -22,7 +22,7 @@ Push {ok}
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push є додатковою функцією, яка дозволяє веб-сайтам надсилати вам повідомлення, навіть якщо ви не відвідуєте сайт.
+Push - це додаткова функція, яка дозволяє веб-сайтам надсилати вам повідомлення, навіть якщо ви не відвідуєте сайт.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
@@ -90,23 +90,23 @@ On Firefox for desktop, the push service is operated by Mozilla.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Firefox для Android використовує ту ж саму платформу <a href="%s">Google Cloud Messaging</a> та інфраструктуру, яку використовують інші програми на Android.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+В обох випадках, служба push не може розшифрувати ваші push-повідомлення.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+Push-повідомлення зашифровані, лише ваша копія Firefox може їх розшифрувати.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+Зашифровані повідомлення зберігаються на сервері доки вони не будуть доставлені.
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+Як мені відкликати дозволи Push?
 
 
 ;To stop a site from sending you push messages:

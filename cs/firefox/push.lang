@@ -4,7 +4,7 @@
 
 # Page Title and part of <title> tag
 ;Push
-Push
+Nabízená upozornění
 
 
 # Page Title and part of <title> tag
@@ -18,51 +18,51 @@ Webový prohlížeč Mozilla Firefox
 
 
 ;What is Push?
-What is Push?
+Co jsou nabízená upozornění?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+Upozornění je volitelná funkce, která umožňuje webovým serverům vám zasílat zprávy i když zrovna nejste na jejich stránce.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+Servery mohou tuto funkci využívat třeba pro zasílání upozornění nebo aktualizaci dat na pozadí.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+Například webové rozhraní pro e-maily může využít nabídku upozornění při přijetí nové zprávy do vaši schránky, nebo stránka s předpovědí počasí vás může upozornit na blížící se bouřku.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Upozornění obdržíte pouze od stránek, kterým to povolíte.
 
 
 ;How does it work?
-How does it work?
+Jak to funguje?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox udržuje spojení se službou pro upozornění.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Servery, kterým jste udělili povolení pro nabízení upozornění, mohou službu používat a odesílat vám zprávy.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox doručí zprávu upozornění malému kousku JavaScriptového kódu nazývanému “worker”.
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+Tento worker následně zprávu zpracuje.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+Zprávu může zobrazit jako upozornění nebo ji uložit pro pozdější použití.
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+Jaké informace jsou se stránkou sdíleny?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
@@ -74,7 +74,7 @@ A site that sends you a message can learn your IP address if it chooses to do so
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+Jaké informace Firefox pro přijímaní upozornění používá?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
@@ -98,63 +98,63 @@ In both cases, the push service cannot decrypt your push messages.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+Zprávy upozornění jsou šifrovány a jen váš Firefox je může dešifrovat.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+Šifrované zprávy jsou ukládány na server až do jejich doručení.
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+Jak mohu nabízená upozornění odmítnout?
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+Ukončení zasílání upozornění z vybrané stránky:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+Do panelu pro URL adresu zadejte <em>about:permissions</em>.
 
 
 ;Select the site.
-Select the site.
+Vyberte stránku.
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+Nastavte <em>Příjem nabízených upozornění</em> na <strong>Vždy se zeptat</strong>.
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+Jak nabízená upozornění trvale zakázat?
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+Upozornění je ve Firefoxu vždy potřeba povolit.
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+Stránka nemůže odesílat zprávy upozornění bez vašeho svolení.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+Pokud chcete funkci zcela vypnout, postupujte podle následujících kroků:
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+Vyberte <em>Všechny servery</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
+Nastavte <em>Příjem nabízených upozornění</em> na <strong>Blokovat</strong>. Webové servery pak nebudou moci vám posílat zprávy ani zažádat o přístup pro nabídku upozornění.
 
 
 ;Will this cost me money?
-Will this cost me money?
+Stojí to nějaké peníze?
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+Nabízená upozornění využívají pro své fungování malé množství dat.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
@@ -162,7 +162,7 @@ If you’re on a small data allowance, or are charged for any data usage, you ma
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+Jak přidám nabízení upozornění na svou webovou stránku?
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.

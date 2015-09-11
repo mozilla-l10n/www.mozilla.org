@@ -18,154 +18,153 @@ Mozilla Firefox browser
 
 
 ;What is Push?
-What is Push?
+Hvad er Push?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+Push er en valgfri funktion, som giver websteder mulighed for at sende dig meddelelser, selv når du ikke besøger webstedet.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+Websteder kan bruge denne funktion til at give dig meddelelser eller opdatere data i baggrunden.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+Din webmail kan fx bruge push til at sende dig en meddelelse, når der er kommet en ny mail, og en vejrtjeneste kan fx bruge push til at udsende stormvarsel.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Du vil kun modtage meddelelser fra websteder, som du har givet tilladelse.
 
 
 ;How does it work?
-How does it work?
+Hvordan virker det?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox opretholder en forbindelse til en push-tjeneste.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Websteder, du har givet tilladelse til push, kan bruge denne tjeneste til at sende dig meddelelser.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox leverer denne push-meddelelse til et lille JavaScript kaldet en “worker”.
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+Worker'en behandler så meddelelsen.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+Den kan fx vælge at give dig en visuel meddelelse, eller den kan gemme meddelelsen til senere.
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+Hvilken information deler jeg med et websted?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+Et websted kan bruge push til at sende dig en meddelelse når som helst, selv når du ikke besøger det.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-
+Et websted, der sender dig en meddelelse kan se din IP-adresse, hvis den vil; dette kan afsløre, hvor i verden du befinder dig.
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+Hvilken information bruger Firefox til at levere push?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+Firefox opretholder en permanent forbindelse til en push-tjeneste for at modtage push-meddelelser.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+På vores server gemmer vi en randomiseret identifikator for din browser sammen med en randomiseret identifikator for hvert websted, du giver tilladelse.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+På Firefox til computer drives push-tjenesten af Mozilla.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Firefox til Android bruger den samme <a href="%s">Google Cloud Messaging</a>-platform og infrastruktur, som dine andre Android-apps.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+I ingen af tilfældene kan push-tjenesten dekryptere dine push-meddelelser.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+Push-meddelelser er krypterede, kun din kopi af Firefox kan afkode dem.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+De krypterede meddelelser opbevares på serveren, indtil de bliver leveret.
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+Hvordan tilbagekalder jeg push-tilladelser?
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+Sådan forhindrer du et websted i at sende push-meddelelser:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+Skriv <em>about:permissions</em> i adresselinjen.
 
 
 ;Select the site.
-Select the site.
+Vælg webstedet.
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+Sæt <em>Modtage push-meddelelser</em> til <strong>Spørg altid</strong>.
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+Hvordan deaktiverer jeg push permanent?
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+Push er altid et tilvalg i Firefox.
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+Et websted kan ikke sende dig push-meddelelser uden din tilladelse.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+Hvis du vil deaktivere funktionen fuldstændig, så følg disse trin:
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+Vælg <em>Alle websteder</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
+Sæt <em>Modtage push-meddelelser</em> til <strong>Bloker</strong>. Websteder vil dermed ikke være i stand til at sende dig meddelelser eller bede om adgang til push.
 
 
 ;Will this cost me money?
-Will this cost me money?
+Kommer det til at koste mig penge?
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+Push bruger kun små datamængder.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+Hvis din data-kvote er lille, eller du opkræves for dataforbrug, vil du måske overvåge dit forbrug.
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+Hvordan føjer jeg push til mit websted?
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
+<a href="%s">Push API-specifikationen</a> forklarer, hvordan man opretter en Service Worker og sender push-meddelelser.
 
 

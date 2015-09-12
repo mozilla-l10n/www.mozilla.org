@@ -78,15 +78,15 @@ Firefox доставляє це push-повідомлення до невели�
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+Для можливості отримання push-повідомлень, Firefox підтримує постійне з'єднання зі службою push.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+Ми зберігаємо на нашому сервері випадковий ідентифікатор для вашого браузера, поряд з випадковим ідентифікатором для кожного авторизованого вами сайту.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+На Firefox для робочого столу служба push управляється Mozilla.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
@@ -110,62 +110,62 @@ Push-повідомлення зашифровані, лише ваша копі
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+Щоб зупинити надсилання сайтом push-повідомлень:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+В панелі URL, введіть <em>about:permissions</em>.
 
 
 ;Select the site.
-Select the site.
+Виберіть сайт.
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+Встановіть <em>Отримувати Push-сповіщення</em> в положення <strong>Завжди питати</strong>.
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+Як мені остаточно вимкнути Push?
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+Push завжди увімкнений в Firefox.
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+Сайт не може надсилати вам push-повідомлення без вашого дозволу.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+Якщо ви бажаєте повністю вимкнути функцію, дотримуйтесь цих кроків:
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+Виберіть <em>Всі сайти</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
+Встановіть <em>Отримувати Push-сповіщення</em> в положення <strong>Заблокувати</strong>. Веб-сайти не зможуть надсилати вам повідомлення чи запитувати доступ до Push.
 
 
 ;Will this cost me money?
-Will this cost me money?
+Чи буде це коштувати мені грошей?
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+Push використовує невеликий обсяг даних для роботи.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+Якщо у вас обмежене використання даних, або з вас стягується плата за будь-яке використання даних, можливо ви бажаєте контролювати використання.
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+Як мені додати Push на свій веб-сайт?
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
+<a href="%s">Специфікація Push API</a> пояснює, як створити Service Worker і надсилати push-повідомлення.
 
 

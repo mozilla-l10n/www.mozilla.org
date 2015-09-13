@@ -4,7 +4,7 @@
 
 # Page Title and part of <title> tag
 ;Push
-Push
+Push {ok}
 
 
 # Page Title and part of <title> tag
@@ -18,23 +18,23 @@ Navegador web Mozilla Firefox
 
 
 ;What is Push?
-What is Push?
+Què és el Push?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+Push és una característica opcional que permet als llocs web enviar-vos missatges fins i tot quan no els esteu visitant.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+Els llocs web poden utilitzar aquesta característica per fer-vos notificacions o actualitzar dades en segon pla.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+Per exemple, un lloc de correu web pot utilitzar el Push per enviar-vos una notificació quan us arribin nous missatges, o un de meteorologia us pot enviar un avís de tempesta.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Només rebreu missatges dels llocs que hagueu autoritzat.
 
 
 ;How does it work?
@@ -42,130 +42,130 @@ Com funciona?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+El Firefox es manté connectat amb un servei d'enviament.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Els llocs que hagueu autoritzat pel Push poden utilitzar aquest servei per enviar-vos missatges.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+El Firefox lliura aquest missatge a un petit programa Javascript anomenat “worker”.
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+El worker processa el missatge.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+I decideix si mostra una notificació visual o si desa el missatge per a més tard.
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+Quina informació comparteixo amb el lloc web?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+Un lloc web pot utilitzar el Push per enviar-vos un missatge en qualsevol moment, fins i tot quan no l'esteu visitant.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+Un lloc web que us envia un missatge pot saber la vostra IP, si així ho vol. Això podria revelar la vostra ubicació física.
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+Quina informació utilitza el Firefox per fer anar el Push?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+El Firefox manté una connexió permanent amb un servei d'enviament per poder rebre els missatges.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+Al nostre servidor desem un identificador aleatori del vostre navegador, conjuntament amb un identificador aleatori per a cada lloc web que autoritzeu.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+Al Firefox d'escriptori el servei d'enviament el gestiona Mozilla.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+El Firefox per a l'Android utilitza la mateixa plataforma i infraestructura <a href="%s">Google Cloud Messaging</a> que utilitzen d'altres aplicacions Android.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+En cap dels dos casos el servei d'enviament no pot desxifrar els missatges.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+Els missatges són xifrats, només la vostra còpia del Firefox els pot desxifrar.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+Els missatges xifrats es desen al servidor fins que es lliuren.
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+Com revoco els permisos del Push?
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+Per retirar el permís a un lloc web per enviar-vos missatges:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+A la barra d'adreces, poseu <em>about:permissions</em>.
 
 
 ;Select the site.
-Select the site.
+Seleccioneu el lloc web.
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+Poseu el <em>Receive Push Notifications</em> a <strong>Always Ask</strong>.
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+Com desactivo el Push de forma permanent?
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+Al Firefox, el Push només funciona si així ho decidiu.
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+Un lloc web no us pot enviar missatges sense el vostre permís.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+Si voleu desactivar completament aquesta característica, feu:
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+Seleccionaeu <em>All Sites</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
+Poseu el <em>Receive Push Notifications</em> a <strong>Block</strong>. Els llocs web no us podran enviar missatges, ni demanar-vos permís per a fer-ho.
 
 
 ;Will this cost me money?
-Will this cost me money?
+Això val diners?
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+El Push utilitza una petita quantitat de dades per funcionar.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+Si teniu una tarifa petita de dades, o us cobren pel consum, hauríeu d'estar pendents de quant consumeix.
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+Com afegeixo el Push al meu lloc web?
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
+Les especificacions de l'<a href="%s">API Push</a> explica com crear un worker i enviar missatges.
 
 

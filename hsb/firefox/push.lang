@@ -4,7 +4,7 @@
 
 # Page Title and part of <title> tag
 ;Push
-Push
+Eksterne zdźělenki (Push)
 
 
 # Page Title and part of <title> tag
@@ -18,23 +18,23 @@ Webwobhladowak Mozilla Firefox
 
 
 ;What is Push?
-Što je Push?
+Što su eksterne zdźělenki?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+Eksterne zdźělenki su opcionalna funkcija, kotraž websydłam dowoluje, zo bychu wam zdźělenki słali, samo hdyž sydło njewopytujeće.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+Sydła móža tutu funkciju wužiwać, zo bychu was w pozadku ze zdźělenkami abo aktualizowanskimi datami wobstarali.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+Webmejlowe sydło na přikład móhło eksterne zdźělenki wužiwać, zo by wam zdźělenku pósłało, hdyž nowe zdźělenki dochadźeja, abo wjedrowe sydło móhło eksterne zdźělenki wužiwać, zo by was z wichorowymi warnowanjemi wobstarało.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Budźeće zdźělenki jenož wot tajkich sydłow dóstawać, kotrymž sće dowolnosć dał.
 
 
 ;How does it work?
@@ -42,130 +42,130 @@ Kak to funguje?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox zwisk k push-słužbje wudźeržuje.
+Firefox zwisk k słužbje za eksterne zdźělenki zdźeržuje.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Sydła, kotrymž sće dowolnosć za eksterne zdźělenki dał, móža słužbu wužiwać, zo bychu wam zdźělenki pósłali.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox dodawa tutu eksternu zdźělenku do elementa JavaScript z mjenom „worker“.
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+Worker potom zdźělenku předźěłuje.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+Rozsudźi na přikład, hač so wizuelna zdźělenka pokaza abo zdźělenka so za pozdźiše wužiwanje składuje.
 
 
 ;What information do I share with a site?
-Kotre informacije dźělu ze sydłom?
+Kotre informacije sydłu dale dam?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+Sydło móže eksterne zdźělenki wužiwać, zo by wam kóždy čas zdźělenku pósłało, samo hdyž je runje njewopytujeće.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+Sydło, kotrež wam zdźělenku sćele, móže wašu IP-adresu zhonić, jeli jemu to dowoleće; to móhło waše stejnišćo přeradźić.
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+Kotre informacije Firefox wužiwa, zo by eksterne zdźělenki poskićał?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+Firefox zdźeržuje stajny zwisk k słužbje za eksterne zdźělenki, zo by eksterne zdźělenki přijimał.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+Na našim serweru składujemy připadnu značku za waš wobhladowak, hromadźe z připadnej značku za kóžde sydło, kotrež awtorizujeće.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+W Firefox za desktop so słužba za eksterne zdźělenke přez Mozilla wudźeržuje.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Firefox za Android wužiwa samsnu platformu a infrastrukturu <a href="%s">Google Cloud Messaging</a> kaž waše druhe nałoženja Android.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+We woběmaj padomaj njemóže słužba za eksterne zdźělenki waše eksterne zdźělenki dešifrować.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+Eksterne zdźělenki su zaklučowane, jenož waš Firefox móže je dešifrować.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+Zaklučowane zdźělenki so na serwerje składuja, doniž so njedodawaja.
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+Kak móžu dowolnosće za eksterne zdźělenki wotwołać?
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+Zo byšće websydło při słanju eksternych zdźělenko haćił:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+Zapodajće <em>about:permessions</em> do adresoweho pola.
 
 
 ;Select the site.
-Select the site.
+Wubjerće sydło.
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+Stajće <em>Eksterne zdźělenki přijeć</em> na <strong>Přeco so prašeć</strong>.
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+Kak móžu eksterne zdźělenki na přeco znjemóžnić?
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+Dyrbiće eksterne zdźělenki přeco dowolić.
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+Sydło njemóže wam eksterne zdźělenki bjez wašeje dowolnosće słać.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+Jeli chceće funkciju dospołnje znjemóžnić, slědujće prošu tute kroki:
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+Wubjerće <em>Wšě websydła</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
+Stajće <em>Eksterne zdźělenki přijeć</em> na <strong>Blokować</strong>. Websydła njemóža potom wam zdźělenki słać abo wo dowolnosć za eksterne zdźělenki prosyć.
 
 
 ;Will this cost me money?
-Will this cost me money?
+Dyrbju za to pjenjezy płaćić?
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+Eksterne zdźělenki trjebaja mało datow, zo bychu fungowali.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+Jeli směsće jenož mało datow přetrjebować, abo dyrbiće zasadnje za přetrjebowanje datow pjenjezy płaćić, chceće snano swoje přetrjebu we wóčku wobchować.
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+Kak móžu swojemu websydłu eksterne zdźělenki přidać?
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
+<a href="%s">Specifikacija Push API</a> wujasnja, kak móžeće „service worker“ wutworić a eksterne zdźělenki słać.
 
 

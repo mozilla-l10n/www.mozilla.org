@@ -66,11 +66,11 @@ Jaké informace jsou se stránkou sdíleny?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+Stránka vám může posílat upozornění kdykoliv, i když ji zrovna nemáte otevřenou.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+Server, který vám odesílá zprávu, může zjistit vaši IP adresu, pokud se tak rozhodne, a může tak zjistit vaši pozici.
 
 
 ;What information does Firefox use to provide Push?
@@ -78,23 +78,23 @@ Jaké informace Firefox pro přijímaní upozornění používá?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+Firefox udržuje trvalé spojení se službou nabízených upozornění, aby mohl jejich zprávy přijímat.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+Na našich serverech ukládáme náhodný identifikátor vašeho prohlížeče společně s náhodnou identifikací každé stránky, které jste používání upozornění povolili.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+Ve Firefoxu pro desktop spravuje službu nabízených upozornění Mozilla.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Firefox pro Android používá stejnou platformu a infrastrukturu <a href="%s">Google Cloud Messaging</a> jako jakákoliv jiná aplikace pro Android.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+V obou případech ale nemůže služba nabízených upozornění dešifrovat vaše zprávy.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
@@ -158,7 +158,7 @@ Nabízená upozornění využívají pro své fungování malé množství dat.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+Pokud máte omezené množství dat, nebo musí jejich využívání platit, bude vhodné využití dat sledovat.
 
 
 ;How do I add Push to my web site?
@@ -166,6 +166,6 @@ Jak přidám nabízení upozornění na svou webovou stránku?
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
+Specifikace <a href="%s">Push API</a> vysvětluje, jak vytvořit Service Worker a odesílat zprávy upozornění.
 
 

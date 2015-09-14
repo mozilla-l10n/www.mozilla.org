@@ -22,31 +22,31 @@ Mozilla Firefox ওয়েব ব্রাউজার
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+পুশ একটি অপশনাল বৈশিষ্ট্য যা আপনাকে ওয়েবসাইটের দ্বারা ম্যাসেজ পাঠাতে সাহায্য করবে যখন আপনি ওই সাইট পরিদর্শন করবেন না তখন।
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+সাইট এই বৈশিষ্ট্যটি ব্যবহার করতে পারে আপনাকে ব্যাকগ্রাউন্ডের আপডেট দিতে থাকবে।
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+এখনের জন্য, একটা ওয়েব মেইল সাইট পুশ ব্যবহার করতে পারে আপনাকে নোটিফিকেশন দেওয়ার জন্য যখন একটি নতুন বার্তা আসবে, বা একটা আবহাওয়ার সাইট পুশ ব্যবহার করতে পারে কিছু সতর্কতা দেওয়ার জন্য।
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+আপনি সেই সমস্ত সাইটের মেসেজ পাবেন যেগুলির জন্য আপনি অনুমতি দিয়াছেন।
 
 
 ;How does it work?
-How does it work?
+এটা কিভাবে কাজ করে?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox পুশ পরিষেবার সাথে সংযোগ বজায় রাখে।
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+যে সাইটগুলিকে আপনি অনুমতি দিয়াছেন সেগুলি পুশ পরিষেবা ব্যাবহার করে আপনাকে মেসেজ পাঠাতে পারবে।
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
@@ -54,7 +54,7 @@ Firefox delivers this push message to a small piece of JavaScript called a “wo
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+তারপর আনার মেসেজটি প্রসেস করা হয়।
 
 
 ;It might decide to show a visual notification or store the message for later use.
@@ -62,7 +62,7 @@ It might decide to show a visual notification or store the message for later use
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+একটি সাইটের সাথে আমি কি ধরনের তথ্য শেয়ার করি?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
@@ -74,7 +74,7 @@ A site that sends you a message can learn your IP address if it chooses to do so
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+পুশ পরিষেবা দেওয়ার জন্য Firefox কি তথ্য ব্যাবহার করে?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
@@ -86,7 +86,7 @@ On our server we store a randomized identifier for your browser, along with a ra
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+Firefox ডেস্কটপের জন্য, পুশ পরিষেবা Mozilla দ্বারা পরিচালিত হয়।
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
@@ -94,7 +94,7 @@ Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platfo
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+উভয় ক্ষেত্রেই, পুশ পরিষেবা আপনার মেসেজ ডিক্রিপ্ট করতে পারে না।
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
@@ -106,11 +106,11 @@ The encrypted messages are stored on the server until they are delivered.
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+আমি কিভাবে পুশ-এর অনুমতি প্রত্যাহার করতে পারি?
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+কোনো সাইটকে মেসেজ পাটানো থেকে আটকাতে:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
@@ -118,7 +118,7 @@ In the URL bar, type <em>about:permissions</em>.
 
 
 ;Select the site.
-Select the site.
+সাইটটি নির্বাচন করুন।
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
@@ -126,7 +126,7 @@ Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+আমি কিভাবে স্থায়ীভাবে পুশ নিষ্ক্রিয় করতে পারি?
 
 
 ;Push is always opt-in in Firefox.
@@ -134,7 +134,7 @@ Push is always opt-in in Firefox.
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+কোনো সাইট আপনার অনুমতি ছাড়া আপনাকে মেসেজ পাথাতে পারবে না।
 
 
 ;If you wish to disable the feature completely, please follow these steps:
@@ -142,7 +142,7 @@ If you wish to disable the feature completely, please follow these steps:
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+<em>সমগ্র সাইট</em> নির্বাচন করুন।
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
@@ -150,11 +150,11 @@ Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites 
 
 
 ;Will this cost me money?
-Will this cost me money?
+এর জন্য কত টাকা লাগবে?
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+পুশ কাজ করার জন্য অল্প পরিমাণ তথ্য ব্যবহার করে।
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
@@ -162,7 +162,7 @@ If you’re on a small data allowance, or are charged for any data usage, you ma
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+আমার ওয়েবসাইটে কিভাবে পুশ যোগ করবো?
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.

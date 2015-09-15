@@ -15,7 +15,7 @@ Push {ok}
 
 # Part of <title> tag
 ;Mozilla Firefox Web Browser
-Browserul Web Mozilla Firefox
+Browserul web Mozilla Firefox
 
 
 ;What is Push?
@@ -43,7 +43,7 @@ Cum funcționează?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox menține o conexiune la un serviciu de push.
+Firefox menține o conexiune la un serviciu push.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
@@ -51,7 +51,7 @@ Site-uri cărora le-ai acordat permisiunea pentru a efectua Push pot folosi serv
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox trimite acest mesaj de push unui mic fragment de Javascript, numit „worker”.
+Firefox trimite acest mesaj push unui mic fragment de Javascript, numit un „worker”.
 
 
 ;The worker then processes the message.
@@ -79,7 +79,7 @@ Ce informație folosește Firefox pentru a oferi Push?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox menține o conexiune permanentă la un serviciu de push pentru a putea primi mesaje de push.
+Firefox menține o conexiune permanentă la un serviciu push pentru a putea primi mesaje push.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
@@ -87,7 +87,7 @@ Pe serverul nostru noi stocăm un identificator aleatoriu pentru browserul tău,
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-Pe Firefox pentru calculator, serviciul de push este operat de Mozilla.
+Pe Firefox pentru desktop, serviciul push este operat de Mozilla.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
@@ -95,7 +95,7 @@ Firefox pentru Android utilizează aceeași platformă și infrastructură <a hr
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-În ambele cazuri, serviciul de push nu poate decripta mesajele de push.
+În ambele cazuri, serviciul push nu poate decripta mesajele push.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
@@ -111,7 +111,7 @@ Cum pot revoca permisiunile de Push?
 
 
 ;To stop a site from sending you push messages:
-Pentru a opri un site din a trimite mesaje de push:
+Pentru a opri un site din a trimite mesaje push:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
@@ -135,7 +135,7 @@ Push este o funcție pentru care trebuie să optezi în Firefox întotdeauna.
 
 
 ;A site cannot send you push messages without your permission.
-Nu site nu-ți poate trimite mesaje de push fără permisiunea ta.
+Nu site nu-ți poate trimite mesaje push fără permisiunea ta.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
@@ -147,7 +147,7 @@ Selectează<em>Toate site-urile</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Setează opțiunea <em>Primește notificări Push</em> ca <strong>Blochează</strong>. Site-urile nu vor putea să-ți trimită mesaje sau să solicite acces pentru Push.
+Setează opțiunea <em>Primește notificări Push</em> ca <strong>Blochează</strong>. Site-urile web nu vor putea să-ți trimită mesaje sau să solicite acces pentru Push.
 
 
 ;Will this cost me money?

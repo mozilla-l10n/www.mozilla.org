@@ -18,55 +18,55 @@ Mozilla Firefox vafri
 
 
 ;What is Push?
-What is Push?
+Hvað er Push?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+Push er auka eiginleiki sem leyfir vefsvæðum að senda þér skilaboð þótt þú sért ekki á vefsvæðinu.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+Vefsvæði geta notað þennan eiginleika til að bjóða upp á tilkynningar eða uppfærslur á gögnum í bakgrunni.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+Til dæmis gæti, vefpóstur gæti notað Push til að láta þig vita þegar nýr póstur kemur, eða veðurspá vefsvæði gæti notað Push til að birta tilkynningar um storma.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Þú færð bara tilkynningar frá þeim vefsvæðum sem þú hefur gefið leyfi.
 
 
 ;How does it work?
-How does it work?
+Hvernig virkar þetta?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox viðheldur tengingu við Push þjónustu.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Þau vefsvæði sem þú hefur gefið leyfi geta notað Push þjónustuna senda þér skilaboð.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox dreifir skilaboðunum á litla javaskriftu sem heitir “worker”.
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+Skilaboðin eru svo meðhöndluð af Worker.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+Skriftan getur svo ákveðið að birta myndræn skilaboð eða geyma skilaboðin til að birta seinna meir.
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+Hvaða upplýsingar deili ég með vefsvæðinu?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+Vefsvæði getur sent skilaboð til þín hvenær sem er, jafnvel þótt þú sért ekki að heimsækja vefsvæðið.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.

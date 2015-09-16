@@ -4,7 +4,7 @@
 
 # Page Title and part of <title> tag
 ;Push
-Push
+Push {ok}
 
 
 # Page Title and part of <title> tag
@@ -18,87 +18,87 @@ Il navigatur Mozilla Firefox
 
 
 ;What is Push?
-What is Push?
+Tge è Push?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+Push è ina funcziun opziunala che permetta a websites da ta trametter messadis era sche ti visitas gist in'autra website.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+Websites pon duvrar questa funcziun per ta preschentar communicaziuns u actualisar datas en il fund davos.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+Per exempel po ina website da webmail utilisar Push per t'infurmar cura ch'in nov messadi arriva, u ina pagina cun las previsiuns da l'aura po t'alarmar en cas da stemprads.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Ti retschaivas mo messadis da websites che han tia lubientscha per ta trametter avis.
 
 
 ;How does it work?
-How does it work?
+Co funcziuna quai?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox mantegna ina connexiun ad in servetsch da push.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Websites che han tia lubientscha per Push pon utilisar il servetsch per ta trametter messadis.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox furnescha quest messadi Push ad ina pitschen toc da JavaScript, numnà “worker”.
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+Worker elavurescha lura il messadi.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+Ussa po vegnir visualisà in avis u ch'il messadi vegn arcunà per l'utilisar pli tard.
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+Tgeninas infurmaziuns cundivid jau cun ina website?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+Ina website po utilisar Push per ta trametter in messadi da tut temp, era sche ti na la visitas betg activamain en quel mument.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+Ina website che ta trametta in messadi po vegnir a savair tia adressa IP sch'ella vul; quai po tradir tes lieu.
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+Tgeninas infurmaziuns dovra Firefox per offrir Push?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+Firefox mantegna ina connexiun permanenta cun in servetsch da push per pudair recepir messadis da push.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+Sin noss server memorisain nus in identificatur casual per tes navigatur, dasper in identificatur casual per mintga website che ti autoriseschas.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+En Firefox per computers è il servetsch Push gestiunà da Mozilla.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Firefox per Android utilisescha la plattafurma ed infrastructura da <a href="%s">Google Cloud Messaging</a> che era tias autras applicaziuns dad Android dovran.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+En omadus cas na po il servetsch da push betg decriptar tes messadis da push.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+Messadis da push èn criptads. Mo tia copia da Firefox als po decriptar.
 
 
 ;The encrypted messages are stored on the server until they are delivered.

@@ -4,7 +4,7 @@
 
 # Page Title and part of <title> tag
 ;Push
-Push
+Push 推送功能
 
 
 # Page Title and part of <title> tag
@@ -18,154 +18,154 @@ Mozilla Firefox 網頁瀏覽器
 
 
 ;What is Push?
-What is Push?
+推送功能（Push）是什麼？
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+推送是一個讓網站能夠推送訊息給您（未瀏覽時也行）的選擇性功能。
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+網站可利用此功能，提供通知或在背景更新資料。
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+舉例來說，某個網頁郵件網站會使用推送功能，通知您收到新郵件，或天氣網站透過此功能傳送天氣警報。
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+您只會收到來自您允許過的網站的訊息。
 
 
 ;How does it work?
-How does it work?
+原理是什麼？
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox 會與推送服務間維持連線。
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+您允許推送訊息的網站，將可以使用此服務來傳送訊息給您。
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox 會將推送來的訊息，送到一小段叫做「worker」的 JavaScript。
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+接下來 worker 就會處理該訊息。
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+它會決定要顯示一個虛擬通知，或將訊息儲存起來稍後使用。
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+我會跟網站分享哪些資訊？
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+網站可隨時透過推送服務傳送訊息給您，就算您沒有開啟該網站也行。
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+傳送訊息給您的網站若想要的話，可得知您的 IP 地址，可能會進而取得您的所在位置。
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+Firefox 會使用那些功能來提供推送服務？
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+Firefox 會與推送服務保持一段連線，以接收推送來的訊息。
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+在我們的伺服器中，會將您的瀏覽器用一組亂數來識別，並同樣以亂數來識別您授權的網站。
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+在 Firefox 桌面版中，推送服務是由 Mozilla 營運。
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Firefox for Android 會使用與其他 Android 應用程式一樣的 <a href="%s">Google Cloud Messaging</a> 平台與服務。
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+在這兩種平台中，推送服務都無法解密您收到的推送訊息。
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+推送訊息會被加密，僅有您的 Firefox 能夠解開。
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+加密過的訊息在遞送完成前，會暫時儲存於伺服器中。
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+我要如何撤回對網站推送訊息的授權呢？
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+若要停止網站推送訊息給您：
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+在網址列輸入 <em>about:permissions</em>。
 
 
 ;Select the site.
-Select the site.
+選擇網站。
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+將 <em>接收推送通知</em> 設為 <strong>每次詢問</strong>。
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+我要如何永久停用推送功能？
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+Firefox 中的推送功能需要您明確允許才會開啟。
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+網站未獲您允許前將無法推送訊息給您。
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+若您想要完全停用此功能，請依照下列步驟:
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+選擇 <em>所有網站</em>。
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
+將 <em>接收推送通知</em> 設為 <strong>封鎖</strong>。所有網站都將無法傳送訊息給您，也無法向您詢問是否要允許推送。
 
 
 ;Will this cost me money?
-Will this cost me money?
+使用這個服務要花錢嗎？
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+推送服務本身不收費，訊息傳送過程也只需要一點點網路流量。
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+若您上網方案內含的數據量較少，或是依照上網用量計費，您可能會需要監控網路用量。
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+我要如何為我的網站加上推送功能？
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
+<a href="%s">Push API 規格書</a> 當中解釋要如何建立 Service Worker 並推送訊息出來。
 
 

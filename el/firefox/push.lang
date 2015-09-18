@@ -4,7 +4,7 @@
 
 # Page Title and part of <title> tag
 ;Push
-Push
+Push {ok}
 
 
 # Page Title and part of <title> tag
@@ -18,154 +18,154 @@ Push
 
 
 ;What is Push?
-What is Push?
+Τι είναι η υπηρεσία Push?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+Το Push είναι ένα προαιρετικό χαρακτηριστικό που δίνει σε ιστοσελίδες τη δυνατότητα να σας στέλνουν μηνύματα ακόμα και όταν δε βρίσκεστε σε αυτή.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+Οι ιστοσελίδες μπορούν να χρησιμοποιήσουν αυτό το χαρακτηριστικό για να σας στέλνουν ειδοποιήσεις ή να ανανεώνουν δεδομένα στο παρασκήνιο.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+Για παράδειγμα, μια ιστοσελίδα ηλεκτρονικού ταχυδρομείου μπορεί να χρησιμοποιεί το χαρακτηριστικό Push για να σας ειδοποιεί όταν έχετε νέο email, ή μια ιστοσελίδα που ενημερώνει για τον καιρό μπορεί να χρησιμοποιήσει το Push για να σας ειδοποιήσει για μια καταιγίδα.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Θα λαμβάνετε μηνύματα μόνο από ιστοσελίδες που έχετε εξουσιοδοτήσει.
 
 
 ;How does it work?
-How does it work?
+Πως λειτουργεί;
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Ο Firefox διατηρεί μια σύνδεση με μια υπηρεσία push.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Οι ιστοσελίδες που έχετε εξουσιοδοτήσει για το Push μπορούν να χρησιμοποιούν την υπηρεσία για να σας στέλνουν μηνύματα.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Ο Firefox παραδίδει μηνύματα push χρησιμοποιώντας ένα χαρακτηριστικό της JavaScript που ονομάζεται "worker".
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+Στη συνέχεια ο worker επεξεργάζεται το μήνυμα.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+Μπορεί να αποφασίσει να προβάλει μια ειδοποίηση ή να το αποθηκεύσει για αργότερα.
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+Τι πληροφορίες μοιράζομαι με την ιστοσελίδα;
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+Μια ιστοσελίδα μπορεί να χρησιμοποιήσει το Push για να σας στείλει κάποιο μήνυμα οποιαδήποτε στιγμή, ακόμα και όταν δεν βρίσκεστε σε αυτή.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+Μια ιστοσελίδα που σας στέλνει μήνυμα μπορεί να γνωρίζει την IP διεύθυνσή σας αν επιθυμεί: αυτό μπορεί να αποκαλύψει και την τοποθεσία σας. 
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+Τι πληροφορίες χρησιμοποιεί ο Firefox για την παροχή του Push;
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+Ο Firefox διατηρεί μια μόνιμη σύνδεση με την υπηρεσία push προκειμένου να λαμβάνει μηνύματα.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+Στους διακομιστές μας αποθηκεύουμε έναν τυχαίο αριθμό ταυτοποίησης που αντιστοιχεί στον περιηγητή σας, παράλληλα με έναν τυχαίο αριθμό ταυτοποίησης για κάθε ιστοσελίδα που έχετε εξουσιοδοτήσει.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+Στον Firefox για υπολογιστές, η υπηρεσία push παρέχεται από τον Mozilla.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Ο Firefox για Android χρησιμοποιεί την ίδια πλατφόρμα <a href="%s">Google Cloud Messaging</a> και τις υποδομές που χρησιμοποιούν όλες οι υπόλοιπες εφαρμογές Android που έχετε.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+Και στις δύο περιπτώσεις, η υπηρεσία push δε μπορεί να αποκρυπτογραφήσει το μήνυμα σας.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+Τα μηνύματα push είναι κρυπτογραφημένα, μόνο ο δικός σας Firefox μπορεί να τα αποκρυπτογραφήσει.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+Τα κρυπτογραφημένα μηνύματα αποθηκεύονται στον διακομιστή μέχρι να παραδοθούν.
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+Πως ανακαλώ την εξουσιοδότηση του Push;
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+Για να σταματήσετε να λαμβάνετε μηνύματα push από μια ιστοσελίδα:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+Στην εργαλειοθήκη διευθύνσεων, πληκτρολογήστε <em>about:permissions</em>.
 
 
 ;Select the site.
-Select the site.
+Επιλέξτε την ιστοσελίδα.
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+Αλλάξτε το <em>Receive Push Notifications</em> σε <strong>Always Ask</strong>.
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+Πως απενεργοποιώ μόνιμα το Push;
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+Το Push είναι πάντοτε προαιρετικό για τον Firefox.
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+Μια ιστοσελίδα δε μπορεί να σας στείλει μηνύματα push χωρίς την άδειά σας.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+Αν επιθυμείτε να απενεργοποιήσετε πλήρως το χαρακτηριστικό, ακολουθήστε τα παρακάτω βήματα:
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+Επιλέξτε <em>All Sites</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
+Αλλάξτε το <em>Receive Push Notifications</em> σε <strong>Block</strong>. Από δω και πέρα οι ιστοσελίδες δε θα μπορούν να σας στέλνουν μηνύματα ή να ζητούν εξουσιοδότηση για το Push.
 
 
 ;Will this cost me money?
-Will this cost me money?
+Τι θα μου κοστίσει η υπηρεσία;
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+Το Push χρησιμοποιεί ελάχιστα δεδομένα προκειμένου να λειτουργήσει.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+Αν δεν έχετε μεγάλο όγκο δεδομένων διαθέσιμο, ή χρεώνεστε από τον πάροχό σας για τη χρήση δεδομένων, ίσως να θελήσετε να ελέγξετε τη χρήση που κάνετε.
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+Πως χρησιμοποιώ το Push στην ιστοσελίδα μου;
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
+Το <a href="%s">Push API specification</a> εξηγεί πως θα δημιουργήσετε ένα Service Worker και θα στείλετε μηνύματα push.
 
 

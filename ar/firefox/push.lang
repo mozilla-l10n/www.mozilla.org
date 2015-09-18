@@ -38,11 +38,11 @@
 
 
 ;How does it work?
-كيف يعمل الأمر؟
+ما مبدأ عمله؟
 
 
 ;Firefox maintains a connection to a push service.
-يُبقي فَيَرفُكس على قناة اتّصال مفتوحة مع خدمة الدّفع
+يُبقي فَيَرفُكس على قناة اتّصال مفتوحة مع خدمة الدّفع.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
@@ -50,7 +50,7 @@
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-يقوم فَيَرفُكس بتسليم رسائل الدّفع هذه إلى تطبيق جافاسكريت صغير يُدعى “worker”. 
+يقوم فَيَرفُكس بتسليم رسائل الدّفع هذه إلى تطبيق جافاسكريت صغير يُدعى “worker”،
 
 
 ;The worker then processes the message.
@@ -114,11 +114,11 @@
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-في شريط العناوين اكتب <em>about:permissions</em>.
+في شريط العناوين اكتب <em>about:permissions</em>
 
 
 ;Select the site.
-اختر الموقع.
+اختر الموقع
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
@@ -142,7 +142,7 @@
 
 
 ;Select <em>All Sites</em>.
-اختر <em>كل المواقع</em>.
+اختر <em>كل المواقع</em>
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.

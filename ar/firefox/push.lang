@@ -4,168 +4,168 @@
 
 # Page Title and part of <title> tag
 ;Push
-Push
+الدّفع
 
 
 # Page Title and part of <title> tag
 ;Frequently asked questions
-الأسئلة الأكثر شيوعًا
+الأسئلة الأكثر شُيوعًا
 
 
 # Part of <title> tag
 ;Mozilla Firefox Web Browser
-متصفح الوب موزيلا فيَرفُكس
+متصفّح الويب موزيلا فيَرفُكس
 
 
 ;What is Push?
-What is Push?
+ما المقصود بالدّفع؟
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+الدّفع عبارة عن خاصّيّة اختيارية تسمح للمواقع بإرسال رسائل إليك حتّى بعد خروجك منها.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+يُمكن للمواقع استخدام هذه الخاصّيّة لإرسال تنبيهات إليك أو تحديث البيانات في الخلفية
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+على سبيل المثال، يُمكن لخدمة بريد إلكتروني أن تُرسل إليك تنبيهًا لمّا تصلك رسالة جديدة، ويُمكن لموقع أرصاد جوّيّة أن يُرسل إليك تنبيهًا لتحذيرك من عاصفة قادمة إلى منطقتك.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+لن تستقبل الرسائل سوى من المواقع التي أعطيتها صلاحيات القيام بذلك.
 
 
 ;How does it work?
-How does it work?
+كيف يعمل الأمر؟
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+يُبقي فَيَرفُكس على قناة اتّصال مفتوحة مع خدمة الدّفع
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+بإمكان المواقع التي أعطيتها صلاحيات الدّفع أن تستخدم هذه الخدمة لإرسال رسائل إليك.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+يقوم فَيَرفُكس بتسليم رسائل الدّفع هذه إلى تطبيق جافاسكريت صغير يُدعى “worker”. 
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+والذي سيقوم بدوره بمُعالجة الرّسالة.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+قد يُقرّر إظهار تنبيه أو حفظ الرّسالة لاستخدامها لاحقًا.
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+ما البيانات التي أتشاركها مع الموقع؟
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+بإمكان الموقع أن يستخدم خاصّيّة الدّفع ليُرسل لك رسائل في أيّ وقت حتّى وإن لم تكن تتصفّحه.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+بإمكان الموقع الذي يُرسل لك رسائل أن يتعرّف على عنوان IP الخاص بك إن رغب في ذلك، مما سيُمكّنه من معرفة مكانك.
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+ما البيانات التي يستخدمها فَيَرفُكس لتوفير خاصية الدّفع؟
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+يُبقي فَيَرفُكس على قناة اتّصال دائمة مع خدمة دفع ليتمكّن من استقبال رسائل الدّفع.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+نحتفظ على خادومنا بمُعرّف عشوائي لمُتصفّحك إلى جانب مُعرّف عشوائيّ آخر لكل من المواقع التي سبق لك أن أعطيتها الصّلاحيات اللّازمة.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+تُدير موزيلا بنفسها خدمة الدّفع على نسخة سطح المكتب من فَيَرفُكس
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+يستخدم فَيَرفُكس على أندرويد منصّة <a href="%s">Google Cloud Messaging</a> وبنيتها التّحتيّة والتي تستخدمها باقي تطبيقات أندرويد.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+في كلتا الحالتين فإنه لا يُمكن لخدمة الدّفع أن تفكّ تشفير الرّسائل.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+يتمّ تشفير رسائل الدّفع ولا يُمكن سوى لنسخة فَيَرفُكس التي تستخدمها من فكّ التّشفير
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+يتم تخزين الرّسائل المُشفّرة على الخادوم إلى أن يتم تسليمها.
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+كيف أسحب صلاحيات الدّفع؟
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+لسحب صلاحيات الدّفع من موقع ما:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+في شريط العناوين اكتب <em>about:permissions</em>.
 
 
 ;Select the site.
-Select the site.
+اختر الموقع.
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+غيّر <em>استلام دفع التنبيهات</em> إلى <strong>اسأل دائمًا</strong>.
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+كيف أُعطّل الدّفع بشكل دائم؟
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+الدّفع عبارة عن خاصّيّة اختيارية على فَيَرفُكس.
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+لا يُمكن لأيّ موقع أن يُرسل إليك رسائل دفع من دون مُوافقتك.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+إن كُنت ترغب في تعطيل هذه الخاصّيّة بشكل كامل، فيجب عليك اتّباع الخُطوات التّالية:
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+اختر <em>كل المواقع</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
+غيّر <em>استلام دفع التنبيهات</em> إلى <strong>امنع</strong>. لن تتمكّن المواقع من إرسال رسائل أو طلب صلاحيات للوصول إلى خدمة الدّفع.
 
 
 ;Will this cost me money?
-Will this cost me money?
+هل سيكلّفني الأمر أي مال؟
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+يستخدم الدّفع جزءًا يسيرًا من اتّصال الإنترنت ليعمل بالشّكل المطلوب.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+إذا كان اشتراك الإنترنت الخاص بك محدودًا أو إذا كُنت تدفع مُقابل استخدامك له فقد ترغب في مُراقبة كمّيّة البيانات التي تستهلكها.
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+كيف أضيف الدّفع إلى موقعي؟
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
+تشرح صفحة<a href="%s">مواصفة الواجهة البرمجية للدّفع</a> كيف تعمل Service Worker وتُرسل رسائل دفع.
 
 

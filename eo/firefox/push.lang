@@ -4,7 +4,7 @@
 
 # Page Title and part of <title> tag
 ;Push
-Push
+Push{ok}
 
 
 # Page Title and part of <title> tag
@@ -18,63 +18,63 @@ Retumilo Mozilla Firefox
 
 
 ;What is Push?
-What is Push?
+What is «Push»?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+«Push» estas elektebla trajto kiu permesas al retejoj sendi al vi mesaĝojn, eĉ kiam vi ne ne estas en la retejo.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+Retejoj povas uzi tiun trajton por fone provizi vin per sciigoj aŭ ĝisdatigaj datumoj.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+Ekzemple, retpoŝta retejo povus uzi «Push» por provizi vin per sciigoj, kiam novaj mesaĝoj alvenas. Veterprognoza retejo povus uzi «Push» por averti pri ŝtormoj.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Vi nur ricevos mesaĝojn de la retejoj permesitaj de vi.
 
 
 ;How does it work?
-How does it work?
+Kiel funkcias tio?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox tenas konekton al «Push» servo.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+La retejoj, al kiuj vi permesis la uzon de «Push», povas uzi la servon por sendi mesaĝojn al vi.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox sendas tiun ĉi «Push» mesaĝon al eta Javascript kodo, kiu nomiĝas “worker”.
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+La “worker” procezas la mesaĝon.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+Ĝi povus decidi montri sciigon surekrane, aŭ konservi la mesaĝon por posta uzo.
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+Kiun informon mi dividas kun retejo?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+Retejo povas uzi «Push» por sendi al vi mesaĝojn iam ajn, eĉ kiam vi ne estas aktive vizitanta ĝin.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+Retejo kiu povas sendi mesaĝon al vi, povas ankaŭ koni vian IP adreson, se ĝi tion volas. Tio povus elmeti vian pozicion.
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+Kiun informon uzas Firefox por provizi «Push»?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
@@ -82,90 +82,90 @@ Firefox maintains a permanent connection to a push service in order to receive p
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+En nia servilo ni havas hazardan identigilon por via retumilo, kune kun hazarda identigilo por ĉiu retejo, al kiu vi permesas uzi «Push».
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+En Firefox por komputiloj, la «Push» servo estas funkciigita de Mozilla.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Firefox por Android uzas <a href="%s">Google Cloud Messaging</a> platformon kaj rimedojn, kiel la aliaj programoj de Android.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+En ambaŭ okazoj, la «Push» servo ne povas malĉifri viajn «Push» mesaĝojn.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+«Push» estas ĉifritaj, nur via kopio de Firefox povas malĉifri ilin.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+La ĉifritaj mesaĝoj estas konservitaj en la servilo ĝis ilia livero.
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+Kiel mi povas nuligi «Push» permesojn?
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+Por eviti ke retejo plu sendu «Push» mesaĝojn al vi:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+En la adresstrio tajpu <em>about:permissions</em>.
 
 
 ;Select the site.
-Select the site.
+Elektu la retejon.
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+Ŝanĝi <em>Ricevi «Push» sciigojn</em> al <strong>Ĉiam demandi</strong>.
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+Kiel mi povas plene malaktivigi «Push»?
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+Uzi «Push» estas ĉiam vi a decido en Firefox.
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+Retejo ne povas sendi «Push» mesaĝojn al vi sen via permeso.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+Se vi volas plene malaktivigi la trajton, bonvolu sekvi la jenajn paŝojn:
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+Elekti <em>Ĉiuj retejoj</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
+Ŝanĝi la <em>Ricevi «Push» sciigojn</em> al <strong>Bloki</strong>. Retejoj ne povos sendi al vi «Push» mesaĝojn aŭ peti permeson uzi «Push».
 
 
 ;Will this cost me money?
-Will this cost me money?
+Ĉu tio ĉi kostas monon?
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+«Push» uzas malmultajn datumojn por funkcii.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+Se via datumlimo estas malgranda, aŭ se vi pagas datumojn, vi eble volos kontroli vian konsumon.
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+Kiel mi aldonas «Push» al mia retejo?
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
+La <a href="%s">specifo de la API de Push</a> klarigas kiel krei Service Worker kaj sendi «Push» mesaĝojn.
 
 

@@ -4,7 +4,7 @@
 
 
 ;How Tracking Protection works
-トラッキングプロテクションのしくみ
+トラッキング保護のしくみ
 
 
 ;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
@@ -20,7 +20,7 @@
 
 
 ;Differences to expect
-ブロックをブロックした時は
+コンテンツをブロックした時は
 
 
 ;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
@@ -36,11 +36,11 @@
 
 
 ;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-「このセッションでの保護を無効にする」をクリックすると、トラッキングプロテクションを無効にできます。
+「このセッションでの保護を無効にする」をクリックすると、トラッキング保護を無効にできます。
 
 
 ;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-反対に「保護を有効にする」をクリックすれば、トラッキングプロテクションを有効にできます。
+反対に「保護を有効にする」をクリックすれば、トラッキング保護を有効にできます。
 
 
 ;3 of 3
@@ -52,21 +52,21 @@
 
 
 ;Firefox Tracking Protection
-Firefox トラッキングプロテクション
+Firefox トラッキング保護
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
-この機能を無効にするには、<a href="%s">プライバシー設定を変更してください</a>
+無効にするには<a href="%s">プライバシー設定を変更してください</a>
 
 
 ;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-プライベートブラウジングで使える新機能、トラッキングプロテクションのご説明は以上になります。
+プライベートブラウジングの新機能、トラッキング保護のご説明は以上になります。
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
-トラッキングプロテクションについての詳細は <a rel="external" href="%s">FAQ</a> をご覧ください。
+トラッキング保護の詳細は <a rel="external" href="%s">FAQ</a> をご覧ください。
 
 
 ;Start the tour again

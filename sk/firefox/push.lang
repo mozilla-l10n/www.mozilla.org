@@ -38,11 +38,11 @@ You will only receive messages from sites for which you have granted permission.
 
 
 ;How does it work?
-How does it work?
+Ako to funguje?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox udržuje spojenie so službou pre upozornenia.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
@@ -54,7 +54,7 @@ Firefox delivers this push message to a small piece of JavaScript called a “wo
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+Tento worker následne správu spracuje.
 
 
 ;It might decide to show a visual notification or store the message for later use.
@@ -118,7 +118,7 @@ In the URL bar, type <em>about:permissions</em>.
 
 
 ;Select the site.
-Select the site.
+Vyberte stránku.
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
@@ -150,7 +150,7 @@ Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites 
 
 
 ;Will this cost me money?
-Will this cost me money?
+Stojí to nejaké peniaze?
 
 
 ;Push uses a small amount of data to operate.

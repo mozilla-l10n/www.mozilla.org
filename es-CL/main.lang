@@ -761,12 +761,12 @@ Texto
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
-¡Uy! Asegúrate de introducir un correo electrónico válido.
+¡Chuta! Asegúrate de introducir un correo electrónico válido.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>

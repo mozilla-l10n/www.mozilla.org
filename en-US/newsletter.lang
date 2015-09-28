@@ -9,30 +9,37 @@ Get Monthly News
 Your Email Address
 
 
+#yes
 ;Your email address:
 Your email address:
 
 
+#yes, out
 ;Text
 Text
 
 
+#yes
 ;Available Languages
 Available Languages
 
 
+#yes
 ;Language:
 Language:
 
 
+#yes
 ;Select country
 Select country
 
 
+#yes
 ;Country:
 Country:
 
 
+#yes, site
 ;Whoops! Be sure to enter a valid email address.
 Whoops! Be sure to enter a valid email address.
 
@@ -45,22 +52,26 @@ Please read the Mozilla Privacy Policy and agree by checking the box.
 I agree to the <a href="%s">Privacy Policy</a>
 
 
+#yes, contribute
 ;Sign me up!
 Sign me up!
 
-
+# bedrock/mozorg/templates/mozorg/contribute/studentambassadors/join.html
 ;We will only send you Mozilla-related information.
 We will only send you Mozilla-related information.
 
 
+#yes
 ;Thanks for Subscribing!
 Thanks for Subscribing!
+
 
 
 ;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
 We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
 
 
+#yes
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 
@@ -68,15 +79,17 @@ Subscribe to monthly updates and keep current with Mozilla news, including the l
 ;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
 We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
 
-
+#yes
 ;Read all about it in our <span>newsletter</span>
 Read all about it in our <span>newsletter</span>
 
 
+#yes
 ;Your newsletter subscription has been confirmed.
 Your newsletter subscription has been confirmed.
 
 
+#yes, out, bedrock/mozorg/templates/mozorg/contribute/signup.html, bedrock/press/templates/press/speaker-request.html
 ;Format
 Format
 

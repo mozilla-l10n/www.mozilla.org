@@ -528,7 +528,7 @@ Mozilla に参加する
 貢献するには
 
 
-# Will be used for the navigation. Translate as a werb (call to action), not a noun.
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
 参加しよう
 
@@ -771,5 +771,48 @@ HTML{ok}
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 <a href="%s">プライバシーポリシー</a>に同意して、Mozilla からのニュースレターを購読する
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Firefox ニュースレターを購読する
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+メールアドレスを入力してください
+
+
+# Subscription Button
+;Sign me up
+登録する
+
+
+;Select country
+国を選択
+
+
+;Available Languages
+選択できる言語
+
+
+;We will only send you Mozilla-related information.
+Mozilla に関連する情報をお送りします。
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Thanks! Please check your inbox to confirm your subscription.{ok}
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.{ok}
+
+
+;Read all about it in our <span>newsletter</span>
+Read all about it in our <span>newsletter</span>{ok}
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!{ok}
 
 

@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@ Við teljum að persónulegu upplýsingar þínar tilheyri þér.
 Firefox fyrir Android er uppfullt af eiginleikum til að halda því þannig áfram.
 
 
-;Do not track
-Ekki rekja
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Virkjaðu þennan eiginleika sem Firefox hannaði til að sjórna hvernig upplýsingar um vöfrun þína er safnað og notað á netinu.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Læra meira um ekki rekja valmöguleikann
-
-
-;Private Browsing
-Einkavöfrun
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-Þegar búið er að virkja þá mun Firefox fyrir Android ekki taka á móti smákökum, muna eftir lykilorðum eða skrá vefsvæði sem þú heimsækir.
-
-
-;Learn how to open a private window
-Læra hvernig opna á einkaglugga
-
-
-;See how Private Browsing works
-Sjá hvernig einkavöfrun virkar
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@ Styður
 
 ;Release notes
 Útgáfu glósur
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+Ekki rekja
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+Virkjaðu þennan eiginleika sem Firefox hannaði til að sjórna hvernig upplýsingar um vöfrun þína er safnað og notað á netinu.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Læra meira um ekki rekja valmöguleikann
+
+
+# Obsolete string, do not remove
+;Private Browsing
+Einkavöfrun
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Þegar búið er að virkja þá mun Firefox fyrir Android ekki taka á móti smákökum, muna eftir lykilorðum eða skrá vefsvæði sem þú heimsækir.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Læra hvernig opna á einkaglugga
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+Sjá hvernig einkavöfrun virkar
 
 

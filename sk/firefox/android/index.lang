@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@ Sme presvedčení, že vaše osobné údaje patria vám.
 Firefox pre Android je plný funkcií, ktoré pomáhajú zaistiť, aby to tak zostalo.
 
 
-;Do not track
-Do not track {ok}
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Povoľte túto inováciu Firefoxu, ktorá vám pomáha mať pod kontrolou to, ako sú vaše prezerané informácie zhromažďované a používané online.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Zistite viac o Do Not Track
-
-
-;Private Browsing
-Anonymné prehliadanie
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-Ak je aktivované, Firefox pre Android nebude prijímať cookies, nebude si pamätať heslá alebo zaznamenávať si akékoľvek stránky, ktoré ste navštívili.
-
-
-;Learn how to open a private window
-Pozrite sa, ako si otvoríte súkromné okno
-
-
-;See how Private Browsing works
-Pozrite sa, ako funguje Anonymné prehliadanie
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@ Podporované zariadenia
 
 ;Release notes
 Poznámky k vydaniu
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+Do not track {ok}
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+Povoľte túto inováciu Firefoxu, ktorá vám pomáha mať pod kontrolou to, ako sú vaše prezerané informácie zhromažďované a používané online.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Zistite viac o Do Not Track
+
+
+# Obsolete string, do not remove
+;Private Browsing
+Anonymné prehliadanie
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Ak je aktivované, Firefox pre Android nebude prijímať cookies, nebude si pamätať heslá alebo zaznamenávať si akékoľvek stránky, ktoré ste navštívili.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Pozrite sa, ako si otvoríte súkromné okno
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+Pozrite sa, ako funguje Anonymné prehliadanie
 
 

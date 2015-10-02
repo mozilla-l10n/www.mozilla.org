@@ -1,6 +1,6 @@
 ## active ##
 ## forget_button ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
+## NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/desktop/trust/
 
 
 # <title> tag
@@ -47,32 +47,16 @@ Firefox — Розроблений щоб захистити вашу прива
 Ось чому Firefox має багато можливостей для забезпечення приватності.
 
 
-;Do Not Track
-Відмова від стеження
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
-Інновація Firefox - Відмова від стеження дозволяє вам визначати, яким чином ваші особисті дані збираються та використовуються онлайн.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Докладніше про відмову від стеження
-
-
-;Private browsing
-Приватний перегляд
-
-
-;Sometimes it’s nice to go undercover.
-Іноді корисно бути під прикриттям.
-
-
-;Turn this feature on to protect your browsing history from others.
-Увімкніть цю функцію щоб захистити свою історію переглядів від інших.
-
-
-;Learn how to open a private window
-Дізнатись як відкрити приватне вікно
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
@@ -168,5 +152,40 @@ Firefox оновлюється автоматично для впевненос�
 
 ;Security blog
 Блог про безпеку
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do Not Track
+Відмова від стеження
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
+Інновація Firefox - Відмова від стеження дозволяє вам визначати, яким чином ваші особисті дані збираються та використовуються онлайн.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Докладніше про відмову від стеження
+
+
+# Obsolete string, do not remove
+;Private browsing
+Приватний перегляд
+
+
+# Obsolete string, do not remove
+;Sometimes it’s nice to go undercover.
+Іноді корисно бути під прикриттям.
+
+
+# Obsolete string, do not remove
+;Turn this feature on to protect your browsing history from others.
+Увімкніть цю функцію щоб захистити свою історію переглядів від інших.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Дізнатись як відкрити приватне вікно
 
 

@@ -1,7 +1,8 @@
 ## android_spring_updates ##
 ## android_reader_links ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
-## URL: https://www-dev.allizom.org/%LOCALE%/firefox/android/
+## tracking_protection ##
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
+## URL: https://www-demo4.allizom.org/%LOCALE%/firefox/android/
 
 # Used in HTML as page title
 ;Firefox for Android — Mobile Web browser — More ways to customize and protect your privacy
@@ -150,33 +151,19 @@ We believe your personal information belongs to you.
 Firefox for Android is filled with features to help keep it that way.
 
 
-;Do not track
-Do not track
+## TAG: tracking_protection
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+## TAG: tracking_protection
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Learn more about Do Not Track
-
-
-;Private Browsing
-Private Browsing
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-
-
-;Learn how to open a private window
-Learn how to open a private window
-
-
-## TAG: android_spring_updates
-;See how Private Browsing works
-See how Private Browsing works
+## TAG: tracking_protection
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -239,3 +226,38 @@ Supported devices
 ;Release notes
 Release notes
 
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+Do not track
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Learn more about Do Not Track
+
+
+# Obsolete string, do not remove
+;Private Browsing
+Private Browsing
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Learn how to open a private window
+
+
+## TAG: android_spring_updates
+# Obsolete string, do not remove
+;See how Private Browsing works
+See how Private Browsing works

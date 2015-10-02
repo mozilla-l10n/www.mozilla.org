@@ -1,6 +1,6 @@
 ## active ##
 ## forget_button ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
+## NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/desktop/trust/
 
 
 # <title> tag
@@ -47,32 +47,16 @@ Acreditamos que suas informações pessoais pertencem somente à você.<br class
 E é por isso que o Firefox é cheio de recursos que garantem essa privacidade.
 
 
-;Do Not Track
-Não Me Rastreie
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
-Criada pelo Firefox, a opção Não Me Rastreie permite que você escolha como suas informações pessoais serão coletadas e usadas na Web.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Aprenda mais sobre o Não Me Rastreie
-
-
-;Private browsing
-Navegação Privativa
-
-
-;Sometimes it’s nice to go undercover.
-Às vezes precisamos estar escondidos.
-
-
-;Turn this feature on to protect your browsing history from others.
-Ative essa opção para proteger seu histórico de olhos alheios.
-
-
-;Learn how to open a private window
-Aprenda como iniciar a Navegação Privativa
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
@@ -168,5 +152,40 @@ Blog sobre Privacidade
 
 ;Security blog
 Blog sobre Segurança
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do Not Track
+Não Me Rastreie
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
+Criada pelo Firefox, a opção Não Me Rastreie permite que você escolha como suas informações pessoais serão coletadas e usadas na Web.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Aprenda mais sobre o Não Me Rastreie
+
+
+# Obsolete string, do not remove
+;Private browsing
+Navegação Privativa
+
+
+# Obsolete string, do not remove
+;Sometimes it’s nice to go undercover.
+Às vezes precisamos estar escondidos.
+
+
+# Obsolete string, do not remove
+;Turn this feature on to protect your browsing history from others.
+Ative essa opção para proteger seu histórico de olhos alheios.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Aprenda como iniciar a Navegação Privativa
 
 

@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@ Tha sinne dhen bheachd gur ann agad-sa a tha am fiosrachadh prìobhaideach agad.
 Tha Firefox airson Android loma-làn de ghleusan a chumas e prìobhaideach.
 
 
-;Do not track
-Na tracaich
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Cuir an comas an gleus ùr seo a dh'innlich Firefox airson 's gun urrainn dhut-sa smachd a chumail air an fhiosrachadh a thèid a chruinneachadh mu na nì thu air loidhne.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Barrachd fiosrachaidh mun ghleus "Na tracaich orm"
-
-
-;Private Browsing
-Brabhsadh prìobhaideach
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-Ma chuireas tu an comas e, cha ghabh Firefox airson Android ri briosgaidean, cha chuimhnich e faclan-faire 's cha chlàraich e na làraichean air an tadhail thu.
-
-
-;Learn how to open a private window
-Ionnsaich mar a dh'fhosglas tu uinneag phrìobhaideach
-
-
-;See how Private Browsing works
-Faic mar a dh'obraicheas brabhsadh prìobhaideach
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@ Innealan ris a bheil taic
 
 ;Release notes
 Na notaichean sgaoilidh
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+Na tracaich
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+Cuir an comas an gleus ùr seo a dh'innlich Firefox airson 's gun urrainn dhut-sa smachd a chumail air an fhiosrachadh a thèid a chruinneachadh mu na nì thu air loidhne.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Barrachd fiosrachaidh mun ghleus "Na tracaich orm"
+
+
+# Obsolete string, do not remove
+;Private Browsing
+Brabhsadh prìobhaideach
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Ma chuireas tu an comas e, cha ghabh Firefox airson Android ri briosgaidean, cha chuimhnich e faclan-faire 's cha chlàraich e na làraichean air an tadhail thu.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Ionnsaich mar a dh'fhosglas tu uinneag phrìobhaideach
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+Faic mar a dh'obraicheas brabhsadh prìobhaideach
 
 

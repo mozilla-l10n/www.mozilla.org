@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@ Zure informazio pertsonalaren jabea zeu zarela sinesten dugu.
 Androiderako Firefox hori horrela izan dadin ziurtatzeko eginbidez betea dator.
 
 
-;Do not track
-Do not track {ok}
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Gaitu Firefoxen innobazio hau, eta kontrolatu nola biltzen eta erabiltzen den zure nabigatze-informazioa linean.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Ikasi gehiago Do Not Track-i buruz
-
-
-;Private Browsing
-Nabigatze pribatua
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-Aktibo dagoenean, Androiderako Firefoxek ez du cookierik onartuko, pasahitzik gogoratuko edo bisitatzen dituzun guneen daturik gordeko.
-
-
-;Learn how to open a private window
-Ikasi nola ireki leiho pribatu bat
-
-
-;See how Private Browsing works
-Ikusi nola funtzionatzen duen nabigatze pribatuak
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@ Gailu bateragarriak
 
 ;Release notes
 Bertsio-oharrak
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+Do not track {ok}
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+Gaitu Firefoxen innobazio hau, eta kontrolatu nola biltzen eta erabiltzen den zure nabigatze-informazioa linean.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Ikasi gehiago Do Not Track-i buruz
+
+
+# Obsolete string, do not remove
+;Private Browsing
+Nabigatze pribatua
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Aktibo dagoenean, Androiderako Firefoxek ez du cookierik onartuko, pasahitzik gogoratuko edo bisitatzen dituzun guneen daturik gordeko.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Ikasi nola ireki leiho pribatu bat
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+Ikusi nola funtzionatzen duen nabigatze pribatuak
 
 

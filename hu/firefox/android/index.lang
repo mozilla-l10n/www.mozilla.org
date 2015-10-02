@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@ Hiszünk benne, hogy személyes adatai csak Önre tartoznak.
 A Firefox for Android tele van olyan funkciókkal, amelyek segítenek ezt fenntartani.
 
 
-;Do not track
-Ne kövessenek
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Kapcsolja be a Firefox ezen újítását, amellyel a böngészési információk online gyűjtését és felhasználását szabályozhatja.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Tudjon meg többet a Ne kövessenek funkcióról
-
-
-;Private Browsing
-Privát böngészés
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-Ha be van kapcsolva, a Firefox for Android nem fogad el sütiket, nem jegyez meg jelszavakat és nem rögzíti a felkeresett oldalakat.
-
-
-;Learn how to open a private window
-Ismerje meg, hogyan nyithat privát ablakot
-
-
-;See how Private Browsing works
-Ismerje meg a privát böngészés működését
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@ Támogatott készülékek
 
 ;Release notes
 Kiadási megjegyzések
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+Ne kövessenek
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+Kapcsolja be a Firefox ezen újítását, amellyel a böngészési információk online gyűjtését és felhasználását szabályozhatja.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Tudjon meg többet a Ne kövessenek funkcióról
+
+
+# Obsolete string, do not remove
+;Private Browsing
+Privát böngészés
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Ha be van kapcsolva, a Firefox for Android nem fogad el sütiket, nem jegyez meg jelszavakat és nem rögzíti a felkeresett oldalakat.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Ismerje meg, hogyan nyithat privát ablakot
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+Ismerje meg a privát böngészés működését
 
 

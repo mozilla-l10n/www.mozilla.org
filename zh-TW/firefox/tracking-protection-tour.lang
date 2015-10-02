@@ -7,6 +7,11 @@
 追蹤保護的原理是什麼
 
 
+;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
+When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
 當您看到盾牌時，就代表 Firefox 正在主動封鎖頁面上可能會追蹤您的元素。
 
@@ -23,6 +28,11 @@
 有什麼不同
 
 
+;Some page areas may be missing, because they could allow third parties to track you across different websites.
+Some page areas may be missing, because they could allow third parties to track you across different websites.
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
 在某些網頁會少掉一些區塊，因為這些網頁可能會讓第三方服務來追蹤您的瀏覽行為。
 
@@ -35,10 +45,20 @@
 想調整一下嗎？
 
 
+;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
+It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
 只要點擊「此次瀏覽階段停用保護」，很簡單就能針對您所在網站暫時停用追蹤保護。
 
 
+;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
+It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
 點擊「啟用保護」，就可再次開啟追蹤保護。
 
@@ -51,6 +71,11 @@
 知道了！
 
 
+;Private Browsing with Tracking Protection
+Private Browsing with Tracking Protection
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Firefox Tracking Protection
 Firefox 追蹤保護
 
@@ -60,6 +85,11 @@ Firefox 追蹤保護
 想關掉這個功能嗎？<a href="%s">前往隱私偏好設定</a>
 
 
+;Thanks for learning about the new Private Browsing with Tracking Protection.
+Thanks for learning about the new Private Browsing with Tracking Protection.
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
 感謝您了解隱私瀏覽模式中的全新追蹤保護功能。
 
@@ -69,6 +99,11 @@ Firefox 追蹤保護
 請到我們的 <a rel="external" href="%s">FAQ 頁面</a>了解此功能的原理。
 
 
+;Restart tour
+Restart tour
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Start the tour again
 再次開始導覽
 

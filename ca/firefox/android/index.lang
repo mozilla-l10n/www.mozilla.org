@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@ Creiem que la vostra informació personal us pertany.
 El Firefox per a l'Android està farcit de característiques per ajudar-vos a fer que així sigui.
 
 
-;Do not track
-No vull ser seguit
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Activeu aquesta funció innovadora del Firefox per tenir el control de com es recull i s'utilitza la informació de la vostra navegació.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Més informació sobre «No vull ser seguit»
-
-
-;Private Browsing
-Navegació privada
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-Quan s'activa, el Firefox per a l'Android no acceptarà galetes, no recordarà contrasenyes ni enregistrarà els llocs que visiteu.
-
-
-;Learn how to open a private window
-Vegeu com s'obre una finestra privada
-
-
-;See how Private Browsing works
-Vegeu com funciona la navegació privada
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@ Dispositius compatibles
 
 ;Release notes
 Notes de la versió
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+No vull ser seguit
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+Activeu aquesta funció innovadora del Firefox per tenir el control de com es recull i s'utilitza la informació de la vostra navegació.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Més informació sobre «No vull ser seguit»
+
+
+# Obsolete string, do not remove
+;Private Browsing
+Navegació privada
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Quan s'activa, el Firefox per a l'Android no acceptarà galetes, no recordarà contrasenyes ni enregistrarà els llocs que visiteu.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Vegeu com s'obre una finestra privada
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+Vegeu com funciona la navegació privada
 
 

@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@ Verjamemo, da vaši zasebni podatki pripadajo vam.
 Firefox za Android ima možnosti, ki vam pomagajo, da tako tudi ostane.
 
 
-;Do not track
-Brez sledenja
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Vključite Firefoxovo iznajdbo, s katero lahko nadzorujete, kako se med brskanjem zbirajo in uporabljajo vaši podatki.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Spoznajte več o sledenju
-
-
-;Private Browsing
-Zasebno brskanje
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-Z vklopom te možnosti bo Firefox za Android zavračal piškotke, ne bo pomnil gesel, niti shranjeval zgodovine obiskanih strani.
-
-
-;Learn how to open a private window
-Naučite se, kako odpreti zasebno okno
-
-
-;See how Private Browsing works
-Oglejte si, kako deluje zasebno brskanje
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@ Podprte naprave
 
 ;Release notes
 Opombe ob izdaji
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+Brez sledenja
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+Vključite Firefoxovo iznajdbo, s katero lahko nadzorujete, kako se med brskanjem zbirajo in uporabljajo vaši podatki.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Spoznajte več o sledenju
+
+
+# Obsolete string, do not remove
+;Private Browsing
+Zasebno brskanje
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Z vklopom te možnosti bo Firefox za Android zavračal piškotke, ne bo pomnil gesel, niti shranjeval zgodovine obiskanih strani.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Naučite se, kako odpreti zasebno okno
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+Oglejte si, kako deluje zasebno brskanje
 
 

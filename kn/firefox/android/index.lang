@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@ Firefox ಆಂಡ್ರಾಯಡ್‌ಗಾಗಿ — ಮೊಬೈಲ್ ಜಾ
 ಆಂಡ್ರಾಯ್ಡ್‌ಗಾಗಿನ Firefox ವಿಶೇಷತೆಗಳಿಂದ ತುಂಬಿದ್ದು ಅದನ್ನು ಆ ರೀತಿಯೇ ಇಡಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ.
 
 
-;Do not track
-ಜಾಡು ಇರಿಸಬೇಡ
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-ನಿಮ್ಮ ಜಾಲಾಟದ ಮಾಹಿತಿ ಹೇಗೆ ಸಂಗ್ರಹಿಸಲ್ಪಡುತ್ತದೆ ಮತ್ತು ಆನ್‌ಲೈನ್ ಬಳಸಲ್ಪಡುತ್ತದೆ ಎಂಬುದರ ಮೇಲೆ ಹಿಡಿತವನ್ನು ಹೊಂದಿರಲು Firefox ನ ಈ ಅನ್ವೇಷಣೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-ಜಾಡನ್ನು ಇರಿಸಬೇಡ ಎನ್ನುವುದರ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
-
-
-;Private Browsing
-ಖಾಸಗಿ ವೀಕ್ಷಣೆ
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಆಂಡ್ರಾಯ್ಡ್‌ನ Firefox ಕುಕಿಗಳನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುವುದಿಲ್ಲ, ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳುವುದಿಲ್ಲ ಅಥವಾ ನೀವು ಭೇಟಿನೀಡಿದ ತಾಣಗಳನ್ನು ಮುದ್ರಿಸಿಕೊಳ್ಳುವುದಿಲ್ಲ.
-
-
-;Learn how to open a private window
-ಒಂದು ಖಾಸಗಿ ಕಿಟಕಿಯನ್ನು ತೆರೆಯುವುದು ಹೇಗೆ ಎಂದು ತಿಳಿಯಿರಿ
-
-
-;See how Private Browsing works
-ಖಾಸಗಿ ಜಾಲಾಟ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆಂದು ನೋಡಿ
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@ Firefox ಆಯ್ಕೆ ಮಾಡು
 
 ;Release notes
 ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳು
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+ಜಾಡು ಇರಿಸಬೇಡ
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+ನಿಮ್ಮ ಜಾಲಾಟದ ಮಾಹಿತಿ ಹೇಗೆ ಸಂಗ್ರಹಿಸಲ್ಪಡುತ್ತದೆ ಮತ್ತು ಆನ್‌ಲೈನ್ ಬಳಸಲ್ಪಡುತ್ತದೆ ಎಂಬುದರ ಮೇಲೆ ಹಿಡಿತವನ್ನು ಹೊಂದಿರಲು Firefox ನ ಈ ಅನ್ವೇಷಣೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+ಜಾಡನ್ನು ಇರಿಸಬೇಡ ಎನ್ನುವುದರ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
+
+
+# Obsolete string, do not remove
+;Private Browsing
+ಖಾಸಗಿ ವೀಕ್ಷಣೆ
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಆಂಡ್ರಾಯ್ಡ್‌ನ Firefox ಕುಕಿಗಳನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುವುದಿಲ್ಲ, ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳುವುದಿಲ್ಲ ಅಥವಾ ನೀವು ಭೇಟಿನೀಡಿದ ತಾಣಗಳನ್ನು ಮುದ್ರಿಸಿಕೊಳ್ಳುವುದಿಲ್ಲ.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+ಒಂದು ಖಾಸಗಿ ಕಿಟಕಿಯನ್ನು ತೆರೆಯುವುದು ಹೇಗೆ ಎಂದು ತಿಳಿಯಿರಿ
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+ಖಾಸಗಿ ಜಾಲಾಟ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆಂದು ನೋಡಿ
 
 

@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@ Wir glauben, dass Ihre persönlichen Daten Ihnen gehören.
 Firefox für Android steckt voller Funktionen, die dabei helfen, dass das so bleibt.
 
 
-;Do not track
-Aktivitätenverfolgung
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Aktivieren Sie diese Firefox-Innovation, mit der Sie leichter die Kontrolle darüber behalten, wie Ihre Surf-Daten im Internet gesammelt und verwendet werden.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Erfahren Sie mehr über die Aktivitätenverfolgung
-
-
-;Private Browsing
-Privater Modus
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-Wenn er aktiviert ist, akzeptiert Firefox für Android keine Cookies, speichert keine Passwörter und zeichnet nicht auf, welche Websites Sie besucht haben.
-
-
-;Learn how to open a private window
-Erfahren Sie, wie Sie ein privates Fenster öffnen
-
-
-;See how Private Browsing works
-Sehen Sie sich an, wie der Private Modus funktioniert
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@ Unterstützte Geräte
 
 ;Release notes
 Versionshinweise
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+Aktivitätenverfolgung
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+Aktivieren Sie diese Firefox-Innovation, mit der Sie leichter die Kontrolle darüber behalten, wie Ihre Surf-Daten im Internet gesammelt und verwendet werden.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Erfahren Sie mehr über die Aktivitätenverfolgung
+
+
+# Obsolete string, do not remove
+;Private Browsing
+Privater Modus
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Wenn er aktiviert ist, akzeptiert Firefox für Android keine Cookies, speichert keine Passwörter und zeichnet nicht auf, welche Websites Sie besucht haben.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Erfahren Sie, wie Sie ein privates Fenster öffnen
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+Sehen Sie sich an, wie der Private Modus funktioniert
 
 

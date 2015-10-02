@@ -1,6 +1,7 @@
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
-## URL: https://www-dev.allizom.org/%LOCALE%/firefox/desktop/trust/
 ## forget_button ##
+## tracking_protection ##
+## NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/desktop/trust/
+## URL: https://www-demo4.allizom.org/%LOCALE%/firefox/desktop/trust/
 
 
 # <title> tag
@@ -47,32 +48,19 @@ We believe your personal information belongs only to you.<br class="wide-br">
 That’s why Firefox is filled with features to ensure that’s the case.
 
 
-;Do Not Track
-Do Not Track
+## TAG: tracking_protection
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
-A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
+## TAG: tracking_protection
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Learn more about Do Not Track
-
-
-;Private browsing
-Private browsing
-
-
-;Sometimes it’s nice to go undercover.
-Sometimes it’s nice to go undercover.
-
-
-;Turn this feature on to protect your browsing history from others.
-Turn this feature on to protect your browsing history from others.
-
-
-;Learn how to open a private window
-Learn how to open a private window
+## TAG: tracking_protection
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ## TAG: forget_button
@@ -173,4 +161,38 @@ Privacy blog
 ;Security blog
 Security blog
 
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do Not Track
+Do Not Track
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
+A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Learn more about Do Not Track
+
+
+# Obsolete string, do not remove
+;Private browsing
+Private browsing
+
+
+# Obsolete string, do not remove
+;Sometimes it’s nice to go undercover.
+Sometimes it’s nice to go undercover.
+
+
+# Obsolete string, do not remove
+;Turn this feature on to protect your browsing history from others.
+Turn this feature on to protect your browsing history from others.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Learn how to open a private window
 

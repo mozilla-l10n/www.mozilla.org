@@ -1,6 +1,6 @@
 ## active ##
 ## forget_button ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
+## NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/desktop/trust/
 
 
 # <title> tag
@@ -47,32 +47,16 @@ Firefox — Дизајниран да чува вашу приватност —
 Због тога је Firefox пун функција које то осигуравају.
 
 
-;Do Not Track
-Не желим да ме прате
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
-Не желим да ме прате је Firefox иновација која омогућава да одредите на који начин се ваше личне информације сакупљају и користе на интернету.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Сазнајте више о Не желим да ме прате
-
-
-;Private browsing
-Приватно прегледање
-
-
-;Sometimes it’s nice to go undercover.
-Понекад је лепо сакрити се.
-
-
-;Turn this feature on to protect your browsing history from others.
-Укључите ову опцију да бисте од других заштитили свој историјат прегледања.
-
-
-;Learn how to open a private window
-Сазнајте како да отворите приватан прозор
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
@@ -168,5 +152,40 @@ Firefox се аутоматски ажурира како би обезбеди�
 
 ;Security blog
 Блог о безбедности
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do Not Track
+Не желим да ме прате
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
+Не желим да ме прате је Firefox иновација која омогућава да одредите на који начин се ваше личне информације сакупљају и користе на интернету.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Сазнајте више о Не желим да ме прате
+
+
+# Obsolete string, do not remove
+;Private browsing
+Приватно прегледање
+
+
+# Obsolete string, do not remove
+;Sometimes it’s nice to go undercover.
+Понекад је лепо сакрити се.
+
+
+# Obsolete string, do not remove
+;Turn this feature on to protect your browsing history from others.
+Укључите ову опцију да бисте од других заштитили свој историјат прегледања.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Сазнајте како да отворите приватан прозор
 
 

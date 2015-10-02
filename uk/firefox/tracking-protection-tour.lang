@@ -7,6 +7,11 @@
 Як працює захист від стеження
 
 
+;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
+When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
 Якщо видно значок щита, то це означає, що Firefox активно блокує вміст сторінки, який може стежити за вами.
 
@@ -23,6 +28,11 @@
 Очікувані відмінності
 
 
+;Some page areas may be missing, because they could allow third parties to track you across different websites.
+Some page areas may be missing, because they could allow third parties to track you across different websites.
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
 Деякі ділянки сторінки можуть бути втрачені, тому що вони можуть дозволяти третім сторонам відстежувати вашу поведінку.
 
@@ -35,10 +45,20 @@
 Хочете змінити це?
 
 
+;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
+It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
 Захист від стеження легко вимкнути для веб-сайта, на якому ви перебуваєте, натисканням “Вимкнути захист для цього сеансу”.
 
 
+;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
+It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
 Захист від стеження легко увімкнути для веб-сайта, на якому ви перебуваєте, натисканням “Увімкнути захист”.
 
@@ -51,6 +71,11 @@
 Зрозуміло!
 
 
+;Private Browsing with Tracking Protection
+Private Browsing with Tracking Protection
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Firefox Tracking Protection
 Захист від стеження Firefox
 
@@ -60,6 +85,11 @@
 Хочете вимкнути цю функцію? <a href="%s">Відвідайте Налаштування приватності</a>
 
 
+;Thanks for learning about the new Private Browsing with Tracking Protection.
+Thanks for learning about the new Private Browsing with Tracking Protection.
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
 Дякуємо за ознайомлення з новою функцією захисту від стеження в режимі приватного перегляду.
 
@@ -69,6 +99,11 @@
 Дізнайтеся більше про те, як це працює, відвідавши <a rel="external" href="%s">сторінку ЧаП</a>.
 
 
+;Restart tour
+Restart tour
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Start the tour again
 Почати знайомство знову
 

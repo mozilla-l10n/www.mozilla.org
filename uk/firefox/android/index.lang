@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@ Firefox для Android
 Firefox для Android наповнений функціями, які допомагають дотримуватись цього.
 
 
-;Do not track
-Відмова від стеження
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Активуйте цю нову функцію Firefox, яка допомагає контролювати, як збирається та використовується ваша інформація під час веб-перегляду.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Докладніше про відмову від стеження
-
-
-;Private Browsing
-Приватний перегляд
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-Якщо увімкнено, Firefox для Android не буде приймати куки, запам'ятовувати паролі чи записувати історію відвідувань сайтів.
-
-
-;Learn how to open a private window
-Дізнайтеся, як відкрити приватне вікно
-
-
-;See how Private Browsing works
-Подивитися, як працює Приватний перегляд
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@ Firefox для Android наповнений функціями, які допо�
 
 ;Release notes
 Примітки до випуску
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+Відмова від стеження
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+Активуйте цю нову функцію Firefox, яка допомагає контролювати, як збирається та використовується ваша інформація під час веб-перегляду.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Докладніше про відмову від стеження
+
+
+# Obsolete string, do not remove
+;Private Browsing
+Приватний перегляд
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Якщо увімкнено, Firefox для Android не буде приймати куки, запам'ятовувати паролі чи записувати історію відвідувань сайтів.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Дізнайтеся, як відкрити приватне вікно
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+Подивитися, як працює Приватний перегляд
 
 

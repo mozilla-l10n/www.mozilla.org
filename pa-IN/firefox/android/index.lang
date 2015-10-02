@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@
 ਐਂਡਰਾਇਡ ਲਈ ਫਾਇਰਫਾਕਸ ਉਸ ਢੰਗ ਨਾਲ ਇਸ ਨੂੰ ਰੱਖਣ ਵਾਲੇ ਫੀਚਰਾਂ ਨਾਲ ਭਰਿਆ ਪਿਆ ਹੈ।
 
 
-;Do not track
-ਟਰੈਕ ਨਾ ਕਰੋ
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-ਇਹ ਫਾਇਰਫਾਕਸ ਕਾਢ ਨੂੰ ਆਪਣੀ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਇਕੱਤਰ ਕਰਨ ਤੇ ਆਨਲਾਈਨ ਵਰਤਣ ਨੂੰ ਆਪਣੇ ਕੰਟਰੋਲ ਵਿੱਚ ਰੱਖਣ ਵਾਸਤੇ ਵਰਤੋਂ।
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-ਟਰੈਕ ਨਾ ਕਰੋ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
-
-
-;Private Browsing
-ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-ਜਦੋਂ ਸਰਗਰਮ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ਤਾਂ ਐਂਡਰਾਇਡ ਲਈ ਫਾਇਰਫਾਕਸ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਗਈ ਕਿਸੇ ਵੀ ਸਾਈਟ ਲਈ ਕੂਕੀਜ਼ ਮਨਜ਼ੂਰ ਨਹੀਂ ਕਰਦਾ ਹੈ, ਪਾਸਵਰਡ ਯਾਦ ਨਹੀਂ ਰੱਖਦਾ ਹੈ ਜਾਂ ਕੋਈ ਰਿਕਾਰਡ ਨਹੀਂ ਰੱਖਦਾ ਹੈ।
-
-
-;Learn how to open a private window
-ਸਿੱਖੋ ਕਿ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਖੋਲ੍ਹੀਏ
-
-
-;See how Private Browsing works
-ਵੇਖੋ ਕਿ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@
 
 ;Release notes
 ਜਾਰੀ ਸੂਚਨਾ
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+ਟਰੈਕ ਨਾ ਕਰੋ
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+ਇਹ ਫਾਇਰਫਾਕਸ ਕਾਢ ਨੂੰ ਆਪਣੀ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਇਕੱਤਰ ਕਰਨ ਤੇ ਆਨਲਾਈਨ ਵਰਤਣ ਨੂੰ ਆਪਣੇ ਕੰਟਰੋਲ ਵਿੱਚ ਰੱਖਣ ਵਾਸਤੇ ਵਰਤੋਂ।
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+ਟਰੈਕ ਨਾ ਕਰੋ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
+
+
+# Obsolete string, do not remove
+;Private Browsing
+ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+ਜਦੋਂ ਸਰਗਰਮ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ਤਾਂ ਐਂਡਰਾਇਡ ਲਈ ਫਾਇਰਫਾਕਸ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਗਈ ਕਿਸੇ ਵੀ ਸਾਈਟ ਲਈ ਕੂਕੀਜ਼ ਮਨਜ਼ੂਰ ਨਹੀਂ ਕਰਦਾ ਹੈ, ਪਾਸਵਰਡ ਯਾਦ ਨਹੀਂ ਰੱਖਦਾ ਹੈ ਜਾਂ ਕੋਈ ਰਿਕਾਰਡ ਨਹੀਂ ਰੱਖਦਾ ਹੈ।
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+ਸਿੱਖੋ ਕਿ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਖੋਲ੍ਹੀਏ
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+ਵੇਖੋ ਕਿ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ
 
 

@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@ Android용 Firefox 만이 나만의 모바일 브라우징 경험을 만들 수 
 Android용 Firefox는 개인정보를 보호하기 위한 많은 기능을 가지고 있습니다.
 
 
-;Do not track
-추적 방지
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-개인의 브라우징 정보가 수집되고 온라인에서 사용되는 것을 제어하기 위한 Firefox의 혁신적인 기능을 사용해 보세요.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-추적 방지에 대해 자세히 알아보기
-
-
-;Private Browsing
-사생활 보호 브라우징
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-이를 활성화 하면 Android용 Firefox는 쿠키나 비밀번호, 방문한 사이트 정보를 저장하지 않습니다.
-
-
-;Learn how to open a private window
-사생활 보호 브라우징 여는 방법
-
-
-;See how Private Browsing works
-사생활 보호 브라우정 살펴보기
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@ Firefox 사용하기
 
 ;Release notes
 릴리즈 노트
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+추적 방지
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+개인의 브라우징 정보가 수집되고 온라인에서 사용되는 것을 제어하기 위한 Firefox의 혁신적인 기능을 사용해 보세요.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+추적 방지에 대해 자세히 알아보기
+
+
+# Obsolete string, do not remove
+;Private Browsing
+사생활 보호 브라우징
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+이를 활성화 하면 Android용 Firefox는 쿠키나 비밀번호, 방문한 사이트 정보를 저장하지 않습니다.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+사생활 보호 브라우징 여는 방법
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+사생활 보호 브라우정 살펴보기
 
 

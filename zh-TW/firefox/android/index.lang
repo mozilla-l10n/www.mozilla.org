@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@ Firefox for Android {OK}
 Firefox for Android 有滿滿能讓您保護隱私的功能。
 
 
-;Do not track
-Do not track {OK}
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-打開 Firefox 的這個創新功能，自行控制您的線上瀏覽資訊會被如何收集與使用。
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-瞭解 Do Not Track 的更多資訊
-
-
-;Private Browsing
-隱私瀏覽
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-開啟後，Firefox for Android 將不會接受 Cookie、記住密碼，或記錄任何您曾開啟的網站。
-
-
-;Learn how to open a private window
-了解如何開啟隱私瀏覽視窗
-
-
-;See how Private Browsing works
-看看隱私瀏覽的原理
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@ Do not track {OK}
 
 ;Release notes
 新鮮事
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+Do not track {OK}
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+打開 Firefox 的這個創新功能，自行控制您的線上瀏覽資訊會被如何收集與使用。
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+瞭解 Do Not Track 的更多資訊
+
+
+# Obsolete string, do not remove
+;Private Browsing
+隱私瀏覽
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+開啟後，Firefox for Android 將不會接受 Cookie、記住密碼，或記錄任何您曾開啟的網站。
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+了解如何開啟隱私瀏覽視窗
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+看看隱私瀏覽的原理
 
 

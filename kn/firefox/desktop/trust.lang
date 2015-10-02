@@ -1,6 +1,6 @@
 ## active ##
 ## forget_button ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
+## NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/desktop/trust/
 
 
 # <title> tag
@@ -47,32 +47,16 @@
 ಹಾಗಾಗಿಯೇ Firefox ವಿಶೇಷತೆಗಳಿಂದ ತುಂಬಿದೆ.
 
 
-;Do Not Track
-ಜಾಡು ಇರಿಸಬೇಡ
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
-ಇದು Firefox ಅನ್ವೇಷಣೆಯಾದ, ಜಾಡನ್ನು ಇರಿಸಬೇಡ ವಿಶೇಷತೆಯು, ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ವಿವರಗಳು ಅಂತರ್ಜಾಲದಲ್ಲಿ ಯಾವ ರೀತಿಯಲ್ಲಿ ಕಲೆಹಾಕಲ್ಪಡುತ್ತವೆ ಹಾಗೂ ಹೇಗೆ ಉಪಯೋಗಿಸಲ್ಪಡುತ್ತವೆ ಎಂಬುದರ ಆದ್ಯತೆಯನ್ನು ಸೂಚಿಸಲು ನೆರವಾಗುತ್ತದೆ.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-ಜಾಡನ್ನು ಇರಿಸಬೇಡ ಎನ್ನುವುದರ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
-
-
-;Private browsing
-ಖಾಸಗಿ ವೀಕ್ಷಣೆ
-
-
-;Sometimes it’s nice to go undercover.
-ಕೆಲವೊಮ್ಮೆ ಅಡಗಿಕೊಂಡಿರುವುದು ಉತ್ತಮವಾಗಿರುತ್ತದೆ.
-
-
-;Turn this feature on to protect your browsing history from others.
-ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಣೆ ಇತಿಹಾಸವು ಬೇರೆಯವರಿಗೆ ತಿಳಿಯದಂತೆ ಸಂರಕ್ಷಿಸಲು ಇದನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.
-
-
-;Learn how to open a private window
-ಒಂದು ಖಾಸಗಿ ಕಿಟಕಿಯನ್ನು ತೆರೆಯುವುದು ಹೇಗೆ ಎಂದು ತಿಳಿಯಿರಿ
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
@@ -168,5 +152,40 @@
 
 ;Security blog
 ಸುರಕ್ಷೆ ಬ್ಲಾಗ್
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do Not Track
+ಜಾಡು ಇರಿಸಬೇಡ
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
+ಇದು Firefox ಅನ್ವೇಷಣೆಯಾದ, ಜಾಡನ್ನು ಇರಿಸಬೇಡ ವಿಶೇಷತೆಯು, ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ವಿವರಗಳು ಅಂತರ್ಜಾಲದಲ್ಲಿ ಯಾವ ರೀತಿಯಲ್ಲಿ ಕಲೆಹಾಕಲ್ಪಡುತ್ತವೆ ಹಾಗೂ ಹೇಗೆ ಉಪಯೋಗಿಸಲ್ಪಡುತ್ತವೆ ಎಂಬುದರ ಆದ್ಯತೆಯನ್ನು ಸೂಚಿಸಲು ನೆರವಾಗುತ್ತದೆ.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+ಜಾಡನ್ನು ಇರಿಸಬೇಡ ಎನ್ನುವುದರ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
+
+
+# Obsolete string, do not remove
+;Private browsing
+ಖಾಸಗಿ ವೀಕ್ಷಣೆ
+
+
+# Obsolete string, do not remove
+;Sometimes it’s nice to go undercover.
+ಕೆಲವೊಮ್ಮೆ ಅಡಗಿಕೊಂಡಿರುವುದು ಉತ್ತಮವಾಗಿರುತ್ತದೆ.
+
+
+# Obsolete string, do not remove
+;Turn this feature on to protect your browsing history from others.
+ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಣೆ ಇತಿಹಾಸವು ಬೇರೆಯವರಿಗೆ ತಿಳಿಯದಂತೆ ಸಂರಕ್ಷಿಸಲು ಇದನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+ಒಂದು ಖಾಸಗಿ ಕಿಟಕಿಯನ್ನು ತೆರೆಯುವುದು ಹೇಗೆ ಎಂದು ತಿಳಿಯಿರಿ
 
 

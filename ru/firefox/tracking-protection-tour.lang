@@ -7,6 +7,11 @@
 Как работает Защита от отслеживания
 
 
+;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
+When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
 Когда виден щит, это означает, что Firefox активно блокирует элементы страницы, которые могут вас отслеживать.
 
@@ -23,6 +28,11 @@
 Какие могут быть отличия
 
 
+;Some page areas may be missing, because they could allow third parties to track you across different websites.
+Some page areas may be missing, because they could allow third parties to track you across different websites.
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
 Возможно, что некоторые части страницы будут отсутствовать, так как они могут позволить третим сторонам отслеживать ваше поведение в Интернете.
 
@@ -35,10 +45,20 @@
 Хотите сделать изменения?
 
 
+;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
+It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
 Вы можете легко отключить Защиту от отслеживания для веб-сайта, на котором находитесь, щёлкнув по “Отключить защиту для этой сессии“.
 
 
+;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
+It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
 Вы можете легко включить Защиту от отслеживания для веб-сайта, на котором находитесь, щёлкнув по “Включить защиту“.
 
@@ -51,6 +71,11 @@
 Понял!
 
 
+;Private Browsing with Tracking Protection
+Private Browsing with Tracking Protection
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Firefox Tracking Protection
 Защита от отслеживания в Firefox
 
@@ -60,6 +85,11 @@
 Хотите отключить эту функцию? <a href="%s">Посетите настройки Приватности</a>
 
 
+;Thanks for learning about the new Private Browsing with Tracking Protection.
+Thanks for learning about the new Private Browsing with Tracking Protection.
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
 Спасибо, что узнали о новой функции Защиты от отслеживания в режиме Приватного просмотра.
 
@@ -69,6 +99,11 @@
 Узнайте больше о том, как это работает, посетив <a rel="external" href="%s">страницу FAQ</a>.
 
 
+;Restart tour
+Restart tour
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Start the tour again
 Начать тур снова
 

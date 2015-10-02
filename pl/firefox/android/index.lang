@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@ Wierzymy, że Twoje osobiste informacje należę wyłącznie do Ciebie.
 Firefox dla Androida ma mnóstwo funkcji, które pomogą, aby to się nie zmieniło.
 
 
-;Do not track
-Ograniczenie śledzenia
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Ta innowacyjna funkcja Firefoksa pomoże Ci kontrolować, w jaki sposób dane dotyczące Twojego przeglądania są gromadzone i używane w sieci.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Dowiedz się więcej o funkcji ograniczania śledzenia
-
-
-;Private Browsing
-Tryb prywatny
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-Gdy jest włączony, Firefox dla Androida nie będzie akceptował ciasteczek, pamiętał haseł ani zapamiętywał odwiedzanych stron.
-
-
-;Learn how to open a private window
-Dowiedz się jak otworzyć nowe okno w trybie prywatnym
-
-
-;See how Private Browsing works
-Zobacz, jak działa tryb prywatny
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@ Obsługiwane urządzenia
 
 ;Release notes
 Informacje o wydaniu
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+Ograniczenie śledzenia
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+Ta innowacyjna funkcja Firefoksa pomoże Ci kontrolować, w jaki sposób dane dotyczące Twojego przeglądania są gromadzone i używane w sieci.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Dowiedz się więcej o funkcji ograniczania śledzenia
+
+
+# Obsolete string, do not remove
+;Private Browsing
+Tryb prywatny
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Gdy jest włączony, Firefox dla Androida nie będzie akceptował ciasteczek, pamiętał haseł ani zapamiętywał odwiedzanych stron.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Dowiedz się jak otworzyć nowe okno w trybie prywatnym
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+Zobacz, jak działa tryb prywatny
 
 

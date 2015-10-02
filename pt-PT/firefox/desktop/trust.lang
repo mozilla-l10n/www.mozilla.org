@@ -1,6 +1,6 @@
 ## active ##
 ## forget_button ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
+## NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/desktop/trust/
 
 
 # <title> tag
@@ -47,32 +47,16 @@ Acreditamos que os seus dados pessoais pertencem-lhe apenas a si.<br class="wide
 É por isso que o Firefox está cheio de características que asseguram que assim é.
 
 
-;Do Not Track
-Impedir monitorização
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
-A opção Impedir monitorização permite-lhe definir a forma como as suas informações são recolhidas e usadas na Internet.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Saiba mais acerca da opção Impedir monitorização
-
-
-;Private browsing
-Navegação privada
-
-
-;Sometimes it’s nice to go undercover.
-Por vezes é agradável andar dissimulado.
-
-
-;Turn this feature on to protect your browsing history from others.
-Ative esta característica para proteger de outros o seu histórico de navegação.
-
-
-;Learn how to open a private window
-Saiba como abrir uma janela privada
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
@@ -168,5 +152,40 @@ Blog da privacidade
 
 ;Security blog
 Blog da segurança
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do Not Track
+Impedir monitorização
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
+A opção Impedir monitorização permite-lhe definir a forma como as suas informações são recolhidas e usadas na Internet.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Saiba mais acerca da opção Impedir monitorização
+
+
+# Obsolete string, do not remove
+;Private browsing
+Navegação privada
+
+
+# Obsolete string, do not remove
+;Sometimes it’s nice to go undercover.
+Por vezes é agradável andar dissimulado.
+
+
+# Obsolete string, do not remove
+;Turn this feature on to protect your browsing history from others.
+Ative esta característica para proteger de outros o seu histórico de navegação.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Saiba como abrir uma janela privada
 
 

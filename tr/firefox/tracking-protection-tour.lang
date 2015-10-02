@@ -7,6 +7,11 @@
 İzlenme Koruması nasıl çalışır?
 
 
+;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
+When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
 Kalkan görünüyorsa Firefox sizi izleyebilecek sayfa öğelerini aktif olarak engelliyor demektir.
 
@@ -23,6 +28,11 @@ Kalkan görünüyorsa Firefox sizi izleyebilecek sayfa öğelerini aktif olarak 
 Olası farklılıklar
 
 
+;Some page areas may be missing, because they could allow third parties to track you across different websites.
+Some page areas may be missing, because they could allow third parties to track you across different websites.
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
 Sayfadaki bazı kısımlar, üçüncü şahısların gezinti davranışlarınızı izlemesine olanak verdiği için çıkarılmış olabilir.
 
@@ -35,10 +45,20 @@ Sayfadaki bazı kısımlar, üçüncü şahısların gezinti davranışlarınız
 Değişiklik yapmak mı istiyorsunuz?
 
 
+;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
+It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
 Bulunduğunuz sitede İzlenme Koruması’nı devre dışı bırakmak için “Bu oturumda korumayı devre dışı bırak”a tıklamanız yeterli.
 
 
+;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
+It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
 Bulunduğunuz sitede İzlenme Koruması’nı açmak için “Korumayı etkinleştir” düğmesine tıklamanız yeterli.
 
@@ -51,6 +71,11 @@ Bulunduğunuz sitede İzlenme Koruması’nı açmak için “Korumayı etkinle�
 Anladım!
 
 
+;Private Browsing with Tracking Protection
+Private Browsing with Tracking Protection
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Firefox Tracking Protection
 Firefox İzlenme Koruması
 
@@ -60,6 +85,11 @@ Firefox İzlenme Koruması
 Bu özelliği kapatmak mı istiyorsunuz? <a href="%s">Gizlilik tercihlerini ziyaret edin</a>
 
 
+;Thanks for learning about the new Private Browsing with Tracking Protection.
+Thanks for learning about the new Private Browsing with Tracking Protection.
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
 Gizli Gezinti Modu’ndaki yeni İzlenme Koruması özelliği hakkında bilgi aldığınız için teşekkür ederiz.
 
@@ -69,6 +99,11 @@ Gizli Gezinti Modu’ndaki yeni İzlenme Koruması özelliği hakkında bilgi al
 Nasıl çalıştığını daha ayrıntılı öğrenmek isterseniz <a rel="external" href="%s">SSS sayfasını</a> ziyaret edebilirsiniz.
 
 
+;Restart tour
+Restart tour
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Start the tour again
 Turu baştan başlat
 

@@ -1,6 +1,6 @@
 ## active ##
 ## forget_button ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
+## NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/desktop/trust/
 
 
 # <title> tag
@@ -47,32 +47,16 @@ Firefox — आपल्या गोपनीयतेचे रक्षण �
 म्हणूनच Firefox मध्ये खूप वैशिष्ट्ये आहेत जी याची खात्री करून देतात.
 
 
-;Do Not Track
-Do Not Track {ok}
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
-Firefox नवीन उपक्रम, Do Not Track आपणास आपली वयक्तिक माहिती ऑनलाईन कशी गोळा केली जाते आणि वापरली जाते हे ठरवण्याची संधी देते.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Do Not Track बद्दल अधिक जाणून घ्या
-
-
-;Private browsing
-खाजगी ब्राउजिग
-
-
-;Sometimes it’s nice to go undercover.
-कधीकधी अज्ञातवासात जाणे चांगले.
-
-
-;Turn this feature on to protect your browsing history from others.
-इतरांपासून आपला ब्राउजिंग इतिहास सुरक्षित करण्यासाठी हे वैशिष्ट्य चालू करा.
-
-
-;Learn how to open a private window
-खाजगी विंडो कशी उघडावी ते शिका
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
@@ -168,5 +152,40 @@ Firefox आपल्याला आपण भेट देत असलेल�
 
 ;Security blog
 सुरक्षा ब्लॉग
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do Not Track
+Do Not Track {ok}
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
+Firefox नवीन उपक्रम, Do Not Track आपणास आपली वयक्तिक माहिती ऑनलाईन कशी गोळा केली जाते आणि वापरली जाते हे ठरवण्याची संधी देते.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Do Not Track बद्दल अधिक जाणून घ्या
+
+
+# Obsolete string, do not remove
+;Private browsing
+खाजगी ब्राउजिग
+
+
+# Obsolete string, do not remove
+;Sometimes it’s nice to go undercover.
+कधीकधी अज्ञातवासात जाणे चांगले.
+
+
+# Obsolete string, do not remove
+;Turn this feature on to protect your browsing history from others.
+इतरांपासून आपला ब्राउजिंग इतिहास सुरक्षित करण्यासाठी हे वैशिष्ट्य चालू करा.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+खाजगी विंडो कशी उघडावी ते शिका
 
 

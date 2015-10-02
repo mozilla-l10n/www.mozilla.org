@@ -7,6 +7,11 @@
 Com funciona la protecció contra el seguiment
 
 
+;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
+When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
 Quan l'escut és visible, vol dir que el Firefox està blocant activament el contingut que us pot estar seguint.
 
@@ -23,6 +28,11 @@ Següent
 Diferències a esperar
 
 
+;Some page areas may be missing, because they could allow third parties to track you across different websites.
+Some page areas may be missing, because they could allow third parties to track you across different websites.
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
 Es poden haver blocat algunes parts de la pàgina que podrien permetre el seguiment de la vostra navegació a tercers.
 
@@ -35,10 +45,20 @@ Es poden haver blocat algunes parts de la pàgina que podrien permetre el seguim
 Voleu canviar-ho?
 
 
+;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
+It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
 Podeu desactivar de forma senzilla la protecció contra el seguiment del lloc que esteu visitant fent clic a “Desactiva la protecció per a aquesta sessió”.
 
 
+;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
+It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
 Podeu activar la protecció contra el seguiment del lloc que esteu visitant fent clic a “Activa la protecció”.
 
@@ -51,6 +71,11 @@ Podeu activar la protecció contra el seguiment del lloc que esteu visitant fent
 Ho entenc
 
 
+;Private Browsing with Tracking Protection
+Private Browsing with Tracking Protection
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Firefox Tracking Protection
 Protecció contra el seguiment
 
@@ -60,6 +85,11 @@ Protecció contra el seguiment
 Voleu desactivar aquesta característica? <a href="%s">Aneu a les preferències de privadesa</a>
 
 
+;Thanks for learning about the new Private Browsing with Tracking Protection.
+Thanks for learning about the new Private Browsing with Tracking Protection.
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
 Gràcies per informar-vos sobre la nova característica de protecció contra el seguiment en el mode de navegació anònima.
 
@@ -69,6 +99,11 @@ Gràcies per informar-vos sobre la nova característica de protecció contra el 
 Per a més informació sobre com funciona aneu a la<a rel="external" href="%s">pàgina de preguntes freqüents</a>.
 
 
+;Restart tour
+Restart tour
+
+
+# Obsolete string (used for fx42 beta): do not remove
 ;Start the tour again
 Torna a començar el recorregut
 

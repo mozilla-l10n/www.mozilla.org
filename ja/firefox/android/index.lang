@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@ Google Play よりダウンロード
 Android 版 Firefox は、個人的な情報を守るための機能を多く持っています。
 
 
-;Do not track
-Do not track{ok}
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-この機能をオンにすることで、あなたが閲覧したサイトの情報の収集とその利用をコントロールできます。
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Do Not Track に関する詳細はこちら
-
-
-;Private Browsing
-プライベートブラウジング
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-この機能を利用すると、Cookie、表示したページの履歴、入力したパスワードなどを保存することなく Android 版 Firefox を利用できます。
-
-
-;Learn how to open a private window
-プライベートタブの利用方法はこちら
-
-
-;See how Private Browsing works
-プライベートブラウジングの詳細はこちら
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@ Firefox を利用するには
 
 ;Release notes
 リリースノート
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+Do not track{ok}
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+この機能をオンにすることで、あなたが閲覧したサイトの情報の収集とその利用をコントロールできます。
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Do Not Track に関する詳細はこちら
+
+
+# Obsolete string, do not remove
+;Private Browsing
+プライベートブラウジング
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+この機能を利用すると、Cookie、表示したページの履歴、入力したパスワードなどを保存することなく Android 版 Firefox を利用できます。
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+プライベートタブの利用方法はこちら
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+プライベートブラウジングの詳細はこちら
 
 

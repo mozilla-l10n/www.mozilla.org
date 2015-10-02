@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@ Sizin məxfi məlumatlarınızın sizə aid olduğuna inanırıq.
 Android üçün Firefox məlumatlarınızı sizin idarənizə verən özəlliklərlə doludur.
 
 
-;Do not track
-Məni izləmə
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Bu Firefox innovasiyasını səyahət məlumatlarınızın necə toplanıb onlayn işlədilməsini idarə etmək üçün aktiv edin.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Məni İzləmə haqqında ətraflı öyrənin
-
-
-;Private Browsing
-Məxfi Səyahət
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-Aktiv etdiyinizdə, Android üçün Firefox çərəzləri qəbul etməyəcək, şifrələri yadda saxlamayacaq və daxil olduğunuz hər hansı bir saytı xatırlamayacaq.
-
-
-;Learn how to open a private window
-Məxfi pəncərəni necə açacağınızı öyrənin
-
-
-;See how Private Browsing works
-Məxfi Səyahətin necə işlədiyini öyrənin
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@ Dəstəklənən cihazlar
 
 ;Release notes
 Buraxılış qeydləri
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+Məni izləmə
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+Bu Firefox innovasiyasını səyahət məlumatlarınızın necə toplanıb onlayn işlədilməsini idarə etmək üçün aktiv edin.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Məni İzləmə haqqında ətraflı öyrənin
+
+
+# Obsolete string, do not remove
+;Private Browsing
+Məxfi Səyahət
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Aktiv etdiyinizdə, Android üçün Firefox çərəzləri qəbul etməyəcək, şifrələri yadda saxlamayacaq və daxil olduğunuz hər hansı bir saytı xatırlamayacaq.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Məxfi pəncərəni necə açacağınızı öyrənin
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+Məxfi Səyahətin necə işlədiyini öyrənin
 
 

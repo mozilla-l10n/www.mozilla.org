@@ -1,7 +1,7 @@
 ## active ##
 ## android_reader_links ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -146,32 +146,16 @@ Vos informations personnelles ne regardent que vous.
 De nombreuses fonctionnalités de Firefox pour Android vous aident à les protéger.
 
 
-;Do not track
-Ne pas me pister
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Activez ce paramètre de Firefox pour garder le contrôle sur la collecte et l’utilisation en ligne de vos données de navigation.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Apprenez-en davantage à propos de <i>Ne pas me pister</i>
-
-
-;Private Browsing
-Navigation privée
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-Une fois celle-ci activée, Firefox pour Android n’acceptera pas les cookies et ne se souviendra d’aucun mot de passe ou site que vous avez visité.
-
-
-;Learn how to open a private window
-Découvrez comment ouvrir une fenêtre de navigation privée
-
-
-;See how Private Browsing works
-Apprenez-en davantage sur la navigation privée
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -232,5 +216,40 @@ Appareils pris en charge
 
 ;Release notes
 Notes de mise à jour
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+Ne pas me pister
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+Activez ce paramètre de Firefox pour garder le contrôle sur la collecte et l’utilisation en ligne de vos données de navigation.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Apprenez-en davantage à propos de <i>Ne pas me pister</i>
+
+
+# Obsolete string, do not remove
+;Private Browsing
+Navigation privée
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Une fois celle-ci activée, Firefox pour Android n’acceptera pas les cookies et ne se souviendra d’aucun mot de passe ou site que vous avez visité.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Découvrez comment ouvrir une fenêtre de navigation privée
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+Apprenez-en davantage sur la navigation privée
 
 

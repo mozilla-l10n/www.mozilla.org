@@ -1,5 +1,5 @@
 ## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
+## NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/desktop/trust/
 
 
 # <title> tag
@@ -46,32 +46,16 @@ Firefox បាន​បង្កើត​ឡើង​ដើម្បី​កា
 ហេតុ​នេះ​ហើយ​បាន​ជា Firefox បំពាក់​​លក្ខណៈ​​បន្ថែម​នេះ​ដើម្បី​ប្រាកដ​អំពី​ករណី​នោះ។
 
 
-;Do Not Track
-កុំ​តាមដាន
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
-ការ​ច្នៃ​ប្រឌិត​របស់ Firefox , Do Not Track អនុញ្ញាត​អ្នក​បង្ហាញ​ចំណូលចិត្ត​អំពី​វិធី​សម្រាំង​ព័ត៌មាន​ផ្ទាល់ខ្លួន​របស់​អ្នក​ និង​ប្រើ​​នៅ​លើ​បណ្ដាញ។
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-ស្វែងយល់​បន្ថែម​អំពី Do Not Track
-
-
-;Private browsing
-ការ​រកមើល​ឯកជន
-
-
-;Sometimes it’s nice to go undercover.
-ពេល​ខ្លះ​វា​ប្រសើរ​ក្នុង​ការ​ប្រព្រឹត្តិ​ទៅ​ដោយ​​សម្ងាត់។
-
-
-;Turn this feature on to protect your browsing history from others.
-បើក​លក្ខណៈ​នេះ​ដើម្បី​ការពារ​ប្រវត្តិ​រុករក​របស់​អ្នក​ពី​​បញ្ហា​ផ្សេងៗ។
-
-
-;Learn how to open a private window
-ស្វែងយល់​របៀប​បើក​វីនដូ​ឯកជន
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
@@ -167,5 +151,40 @@ Firefox អនុញ្ញាត​ឲ្យ​អ្នក​ស្វែងយ
 
 ;Security blog
 កំណត់​ហេតុ​បណ្ដាញ​សុវត្ថិភាព
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do Not Track
+កុំ​តាមដាន
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
+ការ​ច្នៃ​ប្រឌិត​របស់ Firefox , Do Not Track អនុញ្ញាត​អ្នក​បង្ហាញ​ចំណូលចិត្ត​អំពី​វិធី​សម្រាំង​ព័ត៌មាន​ផ្ទាល់ខ្លួន​របស់​អ្នក​ និង​ប្រើ​​នៅ​លើ​បណ្ដាញ។
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+ស្វែងយល់​បន្ថែម​អំពី Do Not Track
+
+
+# Obsolete string, do not remove
+;Private browsing
+ការ​រកមើល​ឯកជន
+
+
+# Obsolete string, do not remove
+;Sometimes it’s nice to go undercover.
+ពេល​ខ្លះ​វា​ប្រសើរ​ក្នុង​ការ​ប្រព្រឹត្តិ​ទៅ​ដោយ​​សម្ងាត់។
+
+
+# Obsolete string, do not remove
+;Turn this feature on to protect your browsing history from others.
+បើក​លក្ខណៈ​នេះ​ដើម្បី​ការពារ​ប្រវត្តិ​រុករក​របស់​អ្នក​ពី​​បញ្ហា​ផ្សេងៗ។
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+ស្វែងយល់​របៀប​បើក​វីនដូ​ឯកជន
 
 

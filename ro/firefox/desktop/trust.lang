@@ -1,6 +1,6 @@
 ## active ##
 ## forget_button ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
+## NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/desktop/trust/
 
 
 # <title> tag
@@ -47,32 +47,16 @@ Noi credem că informațiile personale îți aparțin doar ție.<br class="wide-
 De aceea Firefox e plin de funcții care asigură acest lucru.
 
 
-;Do Not Track
-„Nu mă urmări” (Do Not Track)
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
-O inovație Firefox, „Nu mă urmări” îți permite să stabilești o preferință despre modul în care informațiile tale personale sunt colectate și folosite online.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Află mai multe despre „Nu mă urmări”
-
-
-;Private browsing
-Navigarea privată
-
-
-;Sometimes it’s nice to go undercover.
-Uneori este bine să navighezi sub acoperire.
-
-
-;Turn this feature on to protect your browsing history from others.
-Activează această funcție pentru a proteja istoricul de navigare față de ceilalți.
-
-
-;Learn how to open a private window
-Află cum să deschizi o fereastră privată
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
@@ -168,5 +152,40 @@ Blog despre confidențialitate
 
 ;Security blog
 Blog despre securitate
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do Not Track
+„Nu mă urmări” (Do Not Track)
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
+O inovație Firefox, „Nu mă urmări” îți permite să stabilești o preferință despre modul în care informațiile tale personale sunt colectate și folosite online.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Află mai multe despre „Nu mă urmări”
+
+
+# Obsolete string, do not remove
+;Private browsing
+Navigarea privată
+
+
+# Obsolete string, do not remove
+;Sometimes it’s nice to go undercover.
+Uneori este bine să navighezi sub acoperire.
+
+
+# Obsolete string, do not remove
+;Turn this feature on to protect your browsing history from others.
+Activează această funcție pentru a proteja istoricul de navigare față de ceilalți.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Află cum să deschizi o fereastră privată
 
 

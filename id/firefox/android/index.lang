@@ -1,6 +1,6 @@
 ## active ##
 ## android_spring_updates ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+## NOTE: demo page at https://www-demo4.allizom.org/firefox/android/
 
 
 # Used in HTML as page title
@@ -145,32 +145,16 @@ Kami percaya informasi pribadi Anda hanya milik Anda.
 Firefox untuk Android disertai dengan berbagi fitur privasi untuk menjaganya.
 
 
-;Do not track
-Jangan lacak
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Aktifkan inovasi Firefox ini untuk membantu Anda mengendalikan cara informasi penjelajahan Anda dikumpulkan dan digunakan di dunia maya.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Pelajari selengkapnya tentang fitur Jangan Lacak
-
-
-;Private Browsing
-Penjelajahan Pribadi
-
-
-;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-Saat diaktifkan, Firefox untuk Android tidak akan menerima kuki, mengingat sandi, atau merekam situs yang dikunjungi.
-
-
-;Learn how to open a private window
-Pelajari cara membuka jendela pribadi baru
-
-
-;See how Private Browsing works
-Lihat cara kerja Penjelajahan Pribadi
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 ;Clear history
@@ -231,5 +215,40 @@ Perangkat yang didukung
 
 ;Release notes
 Catatan rilis
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do not track
+Jangan lacak
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+Aktifkan inovasi Firefox ini untuk membantu Anda mengendalikan cara informasi penjelajahan Anda dikumpulkan dan digunakan di dunia maya.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Pelajari selengkapnya tentang fitur Jangan Lacak
+
+
+# Obsolete string, do not remove
+;Private Browsing
+Penjelajahan Pribadi
+
+
+# Obsolete string, do not remove
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Saat diaktifkan, Firefox untuk Android tidak akan menerima kuki, mengingat sandi, atau merekam situs yang dikunjungi.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Pelajari cara membuka jendela pribadi baru
+
+
+# Obsolete string, do not remove
+;See how Private Browsing works
+Lihat cara kerja Penjelajahan Pribadi
 
 

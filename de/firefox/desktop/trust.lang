@@ -1,6 +1,6 @@
 ## active ##
 ## forget_button ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
+## NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/desktop/trust/
 
 
 # <title> tag
@@ -47,32 +47,16 @@ Wir glauben, dass Ihre persönlichen Daten nur Ihnen gehören.<br class="wide-br
 Daher steckt Firefox voller Funktionen, um dies sicherzustellen.
 
 
-;Do Not Track
-Do Not Track {ok}
+;Private Browsing with<br> Tracking Protection
+Private Browsing with<br> Tracking Protection
 
 
-;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
-Do Not Track ist eine Firefox-Innovation, mit der Sie entscheiden können, ob Ihre persönlichen Daten im Internet gesammelt und verwendet werden oder nicht.
+;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
 
 
-;Learn more about Do Not Track
-Erfahren Sie mehr über Do Not Track
-
-
-;Private browsing
-Privater Modus
-
-
-;Sometimes it’s nice to go undercover.
-Manchmal ist es schön, abzutauchen.
-
-
-;Turn this feature on to protect your browsing history from others.
-Aktivieren Sie diese Funktion, um Ihre Surf-Chronik vor anderen zu schützen.
-
-
-;Learn how to open a private window
-Erfahren Sie, wie Sie ein privates Fenster öffnen
+;Learn more about Private Browsing
+Learn more about Private Browsing
 
 
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
@@ -168,5 +152,40 @@ Datenschutzblog
 
 ;Security blog
 Sicherheitsblog
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Do Not Track
+Do Not Track {ok}
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
+Do Not Track ist eine Firefox-Innovation, mit der Sie entscheiden können, ob Ihre persönlichen Daten im Internet gesammelt und verwendet werden oder nicht.
+
+
+# Obsolete string, will be removed after the Firefox 42 campaign
+;Learn more about Do Not Track
+Erfahren Sie mehr über Do Not Track
+
+
+# Obsolete string, do not remove
+;Private browsing
+Privater Modus
+
+
+# Obsolete string, do not remove
+;Sometimes it’s nice to go undercover.
+Manchmal ist es schön, abzutauchen.
+
+
+# Obsolete string, do not remove
+;Turn this feature on to protect your browsing history from others.
+Aktivieren Sie diese Funktion, um Ihre Surf-Chronik vor anderen zu schützen.
+
+
+# Obsolete string, do not remove
+;Learn how to open a private window
+Erfahren Sie, wie Sie ein privates Fenster öffnen
 
 

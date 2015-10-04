@@ -5,48 +5,48 @@
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>برای</span> ورژن کامپیوتردسکتاپ
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>برای</span> اندروید
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+<span>برای</span> iOS
 
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OS
+سیستم عامل
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+برای  کامپیوتردسکتاپ &amp; لپتاپ
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+برای تلفن &amp; تبلت
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Overview
-نمای‌کلی
+دید کلی
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
-قابل اعتماد
+مورد اعتماد
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Flexible
-انعطاف‌پذیر
+منعطف
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -61,78 +61,78 @@ For phones &amp; tablets
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+دستگاه‌ها
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+برای شریک ها
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+برنامه‌ها
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+ردیابی نکن
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+کاشی‌ها
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+داشبورد علاقمندی ها
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+ویرایش توسعه‌دهندگان
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+مرور ناشناس
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 ;Need help?
-به کمک نیاز دارید؟
+به راهنمایی نیاز دارید؟
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+اخبار
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+برای توسعه‌دهندگان
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+پیدا کردن دستگاه من
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
-Developers
+برنامه‌نویس‌ها
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+مرورگر مستقل را انتخاب کنید
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+فایرفاکس غیرانتفاعی، غیر شرکتی، و بدون خطر است. انتخاب فایرفاکس فقط انتخاب یک مرورگر نیست. این یک رای به آزادی خصوصی است.
 
 
 ;Donate
@@ -197,11 +197,11 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%d-%m-%Y
+%Oy/%Om%Od
 
 
 ;Legal
-Legal
+حقوقی
 
 
 # Used as link in the footer
@@ -211,7 +211,7 @@ Legal
 
 # Used as link in the footer
 ;Firefox Affiliates
-Firefox Affiliates
+موسات وابسته فایرفاکس
 
 
 ;Legal Notices
@@ -255,7 +255,7 @@ Firefox Affiliates
 
 
 ;Previous
-Previous
+قبلی
 
 
 ;Next
@@ -280,7 +280,7 @@ Previous
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-محتوای این وب‌گاه، به جز در <a href="%s">برخی موارد</a>، تحت نسخهٔ ۳ <a href="%s">Creative Commons Attribution Share-Alike License</a> یا نسخه‌های جدیدتر منتشر شده است.
+غیر از مواردی که <a href="%s">مشخصا</a> ذکر شده باشد، محتویات این سایت بر اساس گواهینامه <a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> و یا هر نسخه‌ی بعدی آن می‌باشد.
 
 
 ;Report Trademark Abuse
@@ -311,7 +311,7 @@ Previous
 
 # Link used to play again an animation or a video
 ;Replay
-پخش مجدد
+نمایش مجدد
 
 
 ;Watch the video
@@ -319,11 +319,11 @@ Previous
 
 
 ;Replay the video
-Replay the video
+نمایش مجدد ویدئو
 
 
 ;Share the video
-Share the video
+اشتراک‌گذاری ویدئو
 
 
 ;WebM format
@@ -415,7 +415,7 @@ Share the video
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+کمک به این سایت
 
 
 # Footer string
@@ -435,22 +435,22 @@ Contribute to this site
 
 # Footer item
 ;Partner with Us
-با ما شریک شوید
+با ما شراکت کنید
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync
+هم‌گام‌سازی
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-افزودنی‌های رومیزی
+افزونه‌های میزکار
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+افزونه‌های اندروید
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -465,7 +465,7 @@ Android Add-ons
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+پیشتیبانی اندروید
 
 
 # Top menu item on firefox/update page
@@ -480,7 +480,7 @@ Android Support
 
 # Top menu item on firefox/update page
 ;Privacy &amp; Security
-حریم‌شخصی و امنیت
+حریم‌خصوصی و امنیت
 
 
 # Top menu item on firefox/update page
@@ -495,17 +495,17 @@ Android Support
 
 # Top menu item on firefox/update page
 ;Firefox for Organizations
-فایرفاکس و سازمان‌ها
+فایرفاکس برای سازمان‌ها
 
 
 # Top menu item on firefox/update page
 ;Mobile Add-ons
-افزودنی‌های موبایل
+افزونه‌های تلفن‌همراه
 
 
 # Top menu item on firefox/update page
 ;Mobile Support
-پشتیبانی موبایل
+پشتیبانی تلفن‌همراه
 
 
 # Top menu item on firefox/update page
@@ -520,37 +520,37 @@ Android Support
 
 # Top menu item on firefox/update page
 ;Join Mozilla
-با موزیلا همراه شوید
+به موزیلا بپیوندید
 
 
 # Top menu item on firefox/update page
 ;Participate
-شریک شوید
+مشارکت
 
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
-Volunteer
+داوطلب
 
 
 # Top menu item on firefox/update page
 ;Brand Toolkit
-جعبه‌ابزار تجاری
+ابزار برند تجاری
 
 
 # Top menu item on firefox/update page
 ;Partnerships
-شرکاء
+شرکا
 
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-بروزرسانی‌های موزیلا را دریافت کنید
+دریافت بروزرسانی‌های موزیلا
 
 
 # share button for social networks
 ;Share
-به‌اشتراک گذاری
+به‌اشتراک‌گذاری
 
 
 # footer link
@@ -580,12 +580,12 @@ Volunteer
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+رهبری
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
-مدیریت
+اداره امور
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -600,7 +600,7 @@ Leadership
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
-نرم‌افزارها و نوآوری‌های مختلف، در اختیار هدف ما.
+نرم‌افزار و دیگر نوآوری‌ها که برای پیشرفت در هدفمان طراحی شده است.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -620,7 +620,7 @@ Leadership
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Choose Independent
+استقلال را انتخاب کنید
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
@@ -631,7 +631,7 @@ Keep the passion for a free and open Internet burning bright! #ChooseIndependent
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+لطفا برای نمایش این صفحه جاوا اسکریپت را فعال کنید.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -713,11 +713,11 @@ Please turn on JavaScript to display this page correctly.
 
 
 ;<abbr>Jun</abbr>
-<abbr>ژوئن</abbr>
+<abbr>ژانویه</abbr>
 
 
 ;<abbr>Jul</abbr>
-<abbr>ژوئیه</abbr>
+<abbr>جولای</abbr>
 
 
 ;<abbr>Aug</abbr>
@@ -742,11 +742,11 @@ Please turn on JavaScript to display this page correctly.
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+فایرفاکس بزودی برای iOS هم منتشر می‌شود! <a href="{url}">برای اطلاعات بیشتر عضو شوید</a>.
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+تبریک! شما بروز هستید!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -761,16 +761,16 @@ Congrats. You’re up to date!
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
-اوه! مطمئن شوید که آدرس پست‌الکترونیکیِ صحیحی را وارد کرده‌اید.
+لطفاً نشانی پست الکترونیکی معتبری وارد نمایید.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+من با اینکه موزیلا اطلاعات من را بر اساس <a href="%s">این سند حریم‌خصوصی</a> مدیریت کند، مشکلی ندارم.
 
 
 # This string is used for a subscription field on other pages than /newsletter/

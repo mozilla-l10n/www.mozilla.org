@@ -1,15 +1,18 @@
 ## active ##
+## no_plugins ##
+## plugin_outdated ##
+## plugincheck_nosupport ##
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 
 
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
-Keep your Firefox healthy with a quick checkup
+با یک بررسی سریع سلامت و ایمنی فایرفاکس خود را حفظ کنید
 
 
 # Used as page description in HTML meta tag
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
+آیا از فلش استفاده میکنید؟ یا کویک تایم؟ یا جاوا؟ اگر از اینها برای بهبود فایرفاکس خود استفاده میکنید افزونه های خود را چک کنید! امکان دارد نیاز به بروزرسانی داشته باشند.
 
 
 # Old page <title> tag
@@ -19,12 +22,12 @@ Use Flash? QuickTime? Java? If you use these to make your Firefox experience mor
 
 # This is a button telling the user to update their plugin
 ;Update Now
-هم‌اکنون به‌روز شود
+هم‌اکنون به‌روزرسانی کنید
 
 
 # This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
 ;Research
-بررسی
+تحقیق
 
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
@@ -34,7 +37,7 @@ Use Flash? QuickTime? Java? If you use these to make your Firefox experience mor
 
 # This is a button informing the user that their plugin is up to date
 ;Up to Date
-به‌روز
+بروز رسانی شده
 
 
 # L10n: This is alt text used on plugin icon images
@@ -44,39 +47,39 @@ Use Flash? QuickTime? Java? If you use these to make your Firefox experience mor
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-ناشناخته
+نامشخص
 
 
 # This is the string used to indicate that the plugin is vulnerable
 ;vulnerable
-در معرض خطر
+آسیب‌پذیر
 
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+منقضی
 
 
 # Main title
 ;Check Your Plugins
-افزونه‌های خود رابررسی نمایید
+افزونه های خود را بررسی کنید
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-به‌روز نگاه داشتن افزونه‌ها در به فایرفاکس کمک می‌کند تا سالم و روان اجرا شود.
+با بروزرسانی افزونه ها به فایرفاکس کمک کنید تا نرم و روان اجرا شود.
 
 
 ;Currently the plugin check service is only available to Firefox users.
-Currently the plugin check service is only available to Firefox users.
+در حال حاضر  سرویس بررسی افزونه تنها برای کاربران فایرفاکس قابل دسترسی هست.
 
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
-Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
+افزونه‌ها همیشه به صورت خودکار بروزرسانی نمیشوند. افزونه‌های خود را بررسی کنید تا ایمن و بدونه وقفه بتوانید وب را مرور کنید.
 
 
 ;Looks like you’re using an older version of Firefox.
-به نظر می رسد شما در حال استفاده از یک نسخه قدیمی‌تر از فایرفاکس هستید.
+به نظر میرسد دارید از یک نسخه‌ی قدیمی فایرفاکس استفاده می‌کنید.
 
 
 ;Plugin Status
@@ -84,15 +87,15 @@ Plugins don’t always update automatically. Check yours now to stay safe and br
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+هیچ افزونه‌ای پیدا نشد. در صورتی که فکر میکنید این خطا هست <a href="%(bugzilla_url)s"> لطفا گزارش خطا را ثبت کنید </a> تا ما را در جریان قرار دهید.
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
-بررسی  افزونه‌ها <strong> از Internet Explorer پشتیبانی نمی‌کند</strong> از این ابزار استفاده کنید &gt; مدیریت افزونه‌ها.
+بررسی افزونه <strong>پشتیبانی برای اینترنت اکسپلورر محدود است </strong>. همچنان استفاده کنید از ابزارها &gt;  و مدیریت افزونه ها
 
 
 ;Step 1: Click Update to update a plugin.
-گام ۱: بر روی به‌روزرسانی کلیک کنید تا افزونه به‌روز شود.
+قدم ١: کلیک روی بروزرسانی برای بروزرسانی پلاگین
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
@@ -104,7 +107,7 @@ No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)
 
 
 ;Plugin
-افزونه
+پلاگین
 
 
 ;Status
@@ -112,23 +115,23 @@ No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)
 
 
 ;Action
-کنش
+فعالیت
 
 
 ;Outdated Plugins
-افزونه‌های قدیمی
+پلاگینهای منقضی
 
 
 ;Unknown Plugins
-افزونه‌های ناشناخته
+پلاگین‌های ناشناخته
 
 
 ;These plugins are up to date
-این افزونه‌ها به‌روز هستند
+این  افزونه‌ها به‌روز رسانی‌ شده اند
 
 
 ;Back to Top
-برگشتن به بالا
+برگشت به بالا
 
 
 ;Frequently Asked Questions
@@ -136,7 +139,7 @@ No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)
 
 
 ;What is a plugin?
-افزونه‌ها چیستند؟
+پلاگین چیست؟
 
 
 ;Plugins power videos, animation and games

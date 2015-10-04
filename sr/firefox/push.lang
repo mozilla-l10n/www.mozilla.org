@@ -26,75 +26,75 @@ Push је опција која допушта веб сајтовима да в
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+Сајтови могу да користе ову опцију како би вам слали обавештења или ажурирали податке у позадини.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+На пример, сајт за е-пошту може користити Push како би вас обавестио о новој пристиглој поруци, или метеоролошки сајт вам може слати обавештења о времену.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Примаћете поруке само од сајтова којима сте дали дозволу.
 
 
 ;How does it work?
-How does it work?
+Како функционише?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox одржава везу са push услугом.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Сајтови којима сте дали дозволу за Push могу користити ту услугу да би вам слали поруке.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox доставља ту push поруку малом комаду JavaScript-а званом “радник”.
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+Радник даље тумачи поруку.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+Може изабрати да прикаже обавештење или да га сачува за касније.
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+Које информације делим неком сајту?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+Сајт може користити Push како би вам слао поруке у било које доба, чак иако га тренутно не прегледате.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+Сајт вам затим шање поруку која може сазнати вашу IP адресу; ово може открити вашу локацију.
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+Које информације Firefox користи за пружање Push услуге?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+Firefox одржава трајну везу са push услугом како би примао push поруке.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+На нашем серверу складиштимо насумичан идентификатор вашег веб прегледача, заједно са насумичним идентификатором сваког сајта које дате дозволу.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+У Firefox-у за рачунаре, push услугу руководи Mozilla.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Firefox за Android користи исту <a href="%s">Google Cloud Messaging</a> платформу и инфраструктуру коју ваше остале Android апликације користе.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+У оба случаја, push услуга не може да декодира ваше push поруке.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.

@@ -4,7 +4,7 @@
 
 # Page Title and part of <title> tag
 ;Push
-Push
+Anında İlet
 
 
 # Page Title and part of <title> tag
@@ -46,11 +46,11 @@ Firefox bir anında ilet servisine sürekli bağlantı kurar.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Anında iletme izni verdiğiniz siteler bu servisi kullanarak size mesaj gönderebilir.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox bu anında ilet mesajlarını “worker” denen küçük bir JavaScript'e iletir.
 
 
 ;The worker then processes the message.
@@ -78,31 +78,31 @@ Firefox, anında ilet servisini sunmak için hangi bilgileri kullanıyor?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+Firefox, anında ilet mesajlarını almak için bir anında ilet hizmetine kalıcı bir bağlantı kurar.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+Sunucumuzda tarayıcınız için rastgele bir tanımlayıcı ve izin verdiğiniz her site için de birer rastgele bir tanımlayıcı tutarız.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+Firefox'un masaüstü sürümünde anında ilet hizmeti Mozila tarafından işletilir.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Android için Firefox'ta ise diğer Android uygulamalarınız tarafından da kullanılan <a href="%s">Google Cloud Messaging</a> platformu ve altyapısı kullanılır.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+Her iki durumda da anında ilet hizmeti anında ilet mesajlarınızın şifresini çözemez.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+Anında ilet mesajları şifrelenir ve bu şifreler yalnızca sizin Firefox'unuz tarafından çözülebilir.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+Şifrelenmiş mesajlar size ulaştırılana kadar sunucuda saklanır.
 
 
 ;How do I revoke Push permissions?

@@ -4,7 +4,7 @@
 
 # Page Title and part of <title> tag
 ;Push
-Push
+Tilkynningar
 
 
 # Page Title and part of <title> tag
@@ -18,11 +18,11 @@ Mozilla Firefox vafri
 
 
 ;What is Push?
-Hvað er Push?
+Hvað er tilkynning?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push er auka eiginleiki sem leyfir vefsvæðum að senda þér skilaboð þótt þú sért ekki á vefsvæðinu.
+Tilkynning er auka eiginleiki sem leyfir vefsvæðum að senda þér skilaboð þótt þú sért ekki á vefsvæðinu.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
@@ -30,7 +30,7 @@ Vefsvæði geta notað þennan eiginleika til að bjóða upp á tilkynningar e�
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-Til dæmis gæti, vefpóstur gæti notað Push til að láta þig vita þegar nýr póstur kemur, eða veðurspá vefsvæði gæti notað Push til að birta tilkynningar um storma.
+Til dæmis gæti, vefpóstur gæti notað tilkynningu til að láta þig vita þegar nýr póstur kemur, eða veðurspá vefsvæði gæti notað tilkynningu til að birta tilkynningar um storm.
 
 
 ;You will only receive messages from sites for which you have granted permission.
@@ -42,11 +42,11 @@ Hvernig virkar þetta?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox viðheldur tengingu við Push þjónustu.
+Firefox viðheldur tengingu við tilkynningarþjónustu.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Þau vefsvæði sem þú hefur gefið leyfi geta notað Push þjónustuna senda þér skilaboð.
+Þau vefsvæði sem þú hefur gefið leyfi geta notað tilkynningarþjónustuna senda þér skilaboð.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
@@ -70,102 +70,102 @@ Vefsvæði getur sent skilaboð til þín hvenær sem er, jafnvel þótt þú s�
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+Vefsvæði sem sendir þér skilaboð getur fengið að vita IP vistfangið þitt ef þú velur að deila því með; það getur gefið upp hver þín staðsetning er.
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+Hvaða upplýsingar notar Firefox til að bjóða upp á tilkynningar?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+Firefox viðheldur fastri tengingu við tilkynningarnetþjón til að taka á móti skilaboðum.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+Á netþjóninum okkar geymum við slembiauðkenni fyrir vafrann þinn, og geymum einnig slembiauðkenni fyrir hvert leyft vefsvæði.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+Fyrir Firefox á PC, er tilkynningarþjónustunni stjórnað af Mozilla.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Firefox fyrir Android notar <a href="%s">Google Cloud Messaging</a> sem er sama kerfi og grunnur og önnur Android forrit eru að nota.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+Í báðum tilfellum, getur tilkynningarþjónustun ekki afkóðað skilaboðin.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+Skilaboðin eru dulkóðuð, aðeins sá Firefox sem þú notar getur afkóðað þau.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+Dulkóðuðu skilaboðin eru geymd á netþjóninum þangað til þau eru móttekin.
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+Hvernig afturkalla ég tilkynningar heimildir?
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+Til að koma í veg fyrir að vefsvæði geti sent þér tilkynningu:
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+Í staðsetningarslánni, sláðu inn <em>about:permissions</em>.
 
 
 ;Select the site.
-Select the site.
+Veldu vefsvæðið.
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+Breyttu <em>Taka á móti tilkynningum</em> yfir í <strong>Alltaf spyrja</strong>.
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+hvernig slekk ég alveg á tilkynningum ?
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+Þú þarft alltaf að gefa leyfi fyrir tilkynningar í Firefox.
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+Vefsvæði getur ekki sent þér tilkynningu án þess að þú hafir gefið leyfi.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+Ef þú vilt slökkva algerlega á tilkynningum, farðu eftir þessum skrefum:
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+Veldu <em>Öll vefsvæði</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
+Breyttu <em>Taka á móti tilkynningum</em> yfir í <strong>Loka á</strong>. Vefsvæði munu þá ekki geta sent þér tilkynningar eða beðið um aðgang til að senda tilkynningu.
 
 
 ;Will this cost me money?
-Will this cost me money?
+Kostar þetta mig eitthvað?
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+Tilkynning notar aðeins örlítið af gögnum til að vinna.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+Ef þú ert með lítið gagnamagn, eða þarf að borga fyrir hverja gagnanotkun, er ráðlegt að fylgjast með gagnanotkun.
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+Hvernig bæti ég tilkynningu við mitt vefsvæði?
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
+<a href="%s">Push API skjölunin</a> skýrir út hvernig á að búa til Service Worker og senda tilkynningar.
 
 

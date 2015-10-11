@@ -5,33 +5,33 @@
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+Жұмыс үстелі <span>үшін</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+Android <span>үшін</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+iOS <span>үшін</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OS
+ОЖ
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+Жұмыс үстелі және ноутбуктер үшін
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+Телефондар және планшеттер үшін
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -61,17 +61,17 @@ For phones &amp; tablets
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+Құрылғылар
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+Серіктестер үшін
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+Қолданбалар
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -81,23 +81,23 @@ Do Not Track {ok}
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+Кіші көріністер
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+Interest Dashboard {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+Өндіруші нұсқасы
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+Жекелік шолу режимі
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -107,17 +107,17 @@ Private Browsing
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+Жаңалықтар
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+Өндірушілер үшін
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+Менің құрылғымды табу
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -127,12 +127,12 @@ Find My Device
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Тәуелсіз браузерді таңдаңыз
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox коммерциялы емес, корпоративті емес және әшкереленген емес. Firefox-ты таңдау тек браузерді таңдау ғана емес. Ол жеке бостандық үшін дауыс беру.
 
 
 ;Donate
@@ -206,12 +206,12 @@ Mozilla туралы
 
 # Used as link in the footer
 ;Cookies
-Куки
+Cookies {ok}
 
 
 # Used as link in the footer
 ;Firefox Affiliates
-Firefox Affiliates
+Firefox көмекшілері
 
 
 ;Legal Notices
@@ -255,7 +255,7 @@ Firefox Affiliates
 
 
 ;Previous
-Previous
+Алдыңғы
 
 
 ;Next
@@ -319,11 +319,11 @@ Previous
 
 
 ;Replay the video
-Replay the video
+Видеоны қайта ойнату
 
 
 ;Share the video
-Share the video
+Видеомен бөлісу
 
 
 ;WebM format
@@ -415,7 +415,7 @@ MPEG-4 пішімі
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+Бұл сайтқа үлес қосу
 
 
 # Footer string
@@ -440,7 +440,7 @@ Contribute to this site
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync
+Синхрондау
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -450,7 +450,7 @@ Sync
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+Android кеңейтулері
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -465,7 +465,7 @@ Android Add-ons
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+Android қолдауы
 
 
 # Top menu item on firefox/update page
@@ -580,7 +580,7 @@ Firefox Facebook желісінде
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+Озаттық
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -615,23 +615,23 @@ Leadership
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Сіз, сіздің жекелігіңіз және ашық интернетке ұмтылады
+Сіз, сіздің жекелігіңіз, және ашық Интернет үшін жасалған
 
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Choose Independent
+Тәуелсіз болғанын таңдау
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Еркін және ашық интернет үшін қалауыңыздан ауытқымаңыз! #ChooseIndependent. Firefox-ты таңдаңыз:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+Бұл бетті дұрыс көрсету үшін JavaScript-ті іске қосыңыз.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -742,11 +742,11 @@ Firefox көмегі
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox жақында iOS-ке келеді! <a href="{url}">Көбірек білу үшін кіріңіз</a>.
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+Құттықтаймыз. Сіздің нұсқасы ескірмеген.
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -761,7 +761,7 @@ Congrats. You’re up to date!
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -770,7 +770,7 @@ HTML
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Мен Mozilla менің жеке ақпаратымды <a href="%s">Жекелік саясаты</a> шарттарына сай қолданатынымен келісемін
 
 
 # This string is used for a subscription field on other pages than /newsletter/

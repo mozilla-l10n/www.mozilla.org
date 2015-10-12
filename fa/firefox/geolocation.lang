@@ -1,13 +1,14 @@
 ## active ##
+## geolocation_faq_update ##
 ## NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
 
 
 ;Geolocation in Firefox
-موقعیت مکانی در فایرفاکس
+مکان‌یابی جغرافیایی در فایرفاکس
 
 
 ;Location-Aware Browsing
-مرور با اطلاع از موقعیت مکانی
+مرور با قابلیت مکان‌یابی جغرافیایی
 
 
 ;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
@@ -191,12 +192,12 @@
 
 
 ;How can I add support for Geolocation to my web site?
-How can I add support for Geolocation to my web site?
+چطور می‌توانم پشیبانی از مکان‌یابی جغرافیایی را به سایتم اضافه کنم؟
 
 
 # Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 ;You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
-You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
+شما می‌توانید پشتیبانی از مکان‌یابی جغرافیایی را به سرویس خود از طریق آموزش‌های <a href="%(url)s">مرکز توسعه‌دهندگان موزیلا</a> اضافه کنید.
 
 
 ;Where am I?

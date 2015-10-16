@@ -1,5 +1,6 @@
 ## active ##
 ## firefox_sync_non_fx ##
+## fx38_sync_updates ##
 ## ios_announce ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
@@ -25,7 +26,7 @@ Sync nda Firefox waati kul kaŋ war ga goy nd'a ka duu war doo-šilbawey, šenni
 
 
 ;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
-Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
+War doo-šilbawey, šennikufaley, kanjey nda haya taney hangandi cere ka goy nda war Firefox kontoo nda duu w'ey nungu kul kaŋ war huru ra.
 
 
 ;It looks like you’re running an older version of Firefox.
@@ -72,7 +73,7 @@ Wa šintin nda Sync fondo faala taaci ra:
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-<a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">Silbayboŋ</a> feeri Firefox beene kanbe guma lokoo ra nda “<strong>Huru Sync ra</strong>” suba.
+<a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">Silbayboŋ</a> feeri Firefox beene kanbe guma kanjoo ra nda “<strong>Huru Sync ra</strong>” suba.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -147,11 +148,11 @@ War ma suuba war Firefox nungey kaŋ war ga boona k'i hangandi cere nda nungu ka
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+Ga baa ka war ordinateroo kanje feerantey guna jinay tana foo ga? War ceeciyan taarikoo caw fondaa ra? War šennikufaley ma cindi war kanbe? Wey kul ga tee sohõ.
 
 
 ;Here’s what you can sync:
-Here’s what you can sync:
+Wey no war ga hin k'i hangandi cere:
 
 
 ;Bookmarks
@@ -159,11 +160,11 @@ Doo-šilbawey
 
 
 ;Passwords
-Passwords
+Šennikufaley
 
 
 ;Open tabs
-Open tabs
+Kanje feerantey
 
 
 ;History
@@ -195,15 +196,15 @@ Gaabandi war nungu kaasey bande, wala žentoo kaŋ war n'a šintin benandi hugay
 
 
 ;Add Firefox to your smartphone or tablet
-Add Firefox to your smartphone or tablet
+Firefox tonton war talfon carmaa wala walhaa ga
 
 
 ;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
-To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
+Ka duu Sync fellaa, wa Firefox zaa iOS wala Android se nda ciya nda war jinawey kul — ganda nda nungu kul kaŋ ra war ga goy nda Firefox.
 
 
 ;Add Firefox
-Add Firefox
+Firefox tonton
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?

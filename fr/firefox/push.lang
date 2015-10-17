@@ -54,11 +54,11 @@ Firefox envoie ce message push à un petit composant JavaScript appelé «&nbsp;
 
 
 ;The worker then processes the message.
-Le <em>worker</em> traite alors le message.
+Le <em>worker</em> traite alors le message
 
 
 ;It might decide to show a visual notification or store the message for later use.
-Le <em>worker</em> peut alors décider d’afficher une notification visuelle ou bien de conserver le message pour une utilisation ultérieure.
+et peut décider d’afficher une notification visuelle ou bien de conserver le message pour une utilisation ultérieure.
 
 
 ;What information do I share with a site?
@@ -98,7 +98,7 @@ Dans les deux cas, le service <em>push</em> ne peut pas déchiffrer vos messages
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-les messages <em>push</em> sont chiffrés, seule votre copie de Firefox peut les déchiffrer.
+Les messages <em>push</em> sont chiffrés, seule votre copie de Firefox peut les déchiffrer.
 
 
 ;The encrypted messages are stored on the server until they are delivered.

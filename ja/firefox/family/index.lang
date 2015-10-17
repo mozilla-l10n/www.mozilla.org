@@ -1,10 +1,11 @@
 ## active ##
+## tracking_protection ##
 ## NOTE: demo page available at https://www-demo1.allizom.org/firefox/products/
 
 
 # Title of the page (HTML meta tag)
 ;Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing
-Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing
+Firefox – デスクトップ版、アンドロイド版、iOS 版、Firefox OS、Hello、Sync、プライベートブラウジング
 
 
 # Obsolete title of the page (do not remove)
@@ -44,7 +45,7 @@ Firefox を広めよう
 
 
 ;Trusted. Flexible. Fast.
-高速なパフォーマンス、自由なカスタマイズ。信頼されるブラウザ。
+<span style="display: inline-block;">高速なパフォーマンス、</span><span style="display: inline-block;">自由なカスタマイズ。</span><span style="display: inline-block;">信頼されるブラウザ。</span>
 
 
 # <span> tag below adds visual style to "for" text
@@ -70,7 +71,7 @@ Firefox を iPhone や iPad でも
 
 
 ;Now with Tracking Protection.
-Now with Tracking Protection.
+トラッキングからも守ります。
 
 
 ;Get just what you need.

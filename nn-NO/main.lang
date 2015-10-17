@@ -87,7 +87,7 @@ Ruter
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+Interessepanel
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -132,7 +132,7 @@ Vel den uavhengige nettlesaren
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox er ideell, friståande og prinsippfast. Å velja Firefox er ikkje berre å velja ein nettlesar. Det er ei røyst på personleg fridom.
 
 
 ;Donate
@@ -160,7 +160,7 @@ Lab
 
 
 ;skip to Navigation
-bytt til navigasjon
+Gå til navigasjon
 
 
 ;switch language
@@ -311,7 +311,7 @@ Lær meir
 
 # Link used to play again an animation or a video
 ;Replay
-Spel ein gong til
+Vis ein gong til
 
 
 ;Watch the video
@@ -383,7 +383,7 @@ Dei nyaste teknologiane
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Du trenger en oppgradering! Bli trygg på nettet på mindre enn ett minutt. <br/> Begynn å bruke den nyeste Firefox for å få det beste i nettlesing og tilpasningsmuligheter som fins på verdensveven. <br/>   Det går raskt, og er gratis!
+Du treng ei oppgradering! Det tek deg mindre enn eitt minutt  å framleis vera beskytta. <br/> Begynn å bruka den nyaste Firefox for å få det beste i nettlesing og tilpassingsmulegheiter som finst på nettet. <br/> Raskt og gratis!
 
 
 ;Upgrade now
@@ -410,7 +410,7 @@ Personvern
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Deler av dette innholdet er ©1998–%(current_year)s av individuelle mozilla.org-bidragsytere. Innholdet er tilgjengelig under a <a href="%(url)s">Creative Commons license</a>.
+Opphavsretten for delar av detta innhaldet tillhøyrer einskilde medarbeidarar ved mozilla.org – ©1998–%(current_year)s. Innehaldet er tillgjengeleg under ein <a href="%(url)s">Creative Commons-lisens</a>.
 
 
 # Footer string (will replace "Contribute to this page")
@@ -425,17 +425,17 @@ Bidra til denne sida
 
 # Top menu item
 ;Mission
-Målsetning
+Målsetting
 
 
 # Footer item on some pages to link to a tour of features
 ;Tour
-Omvisning
+Omvising
 
 
 # Footer item
 ;Partner with Us
-Partner med oss
+Samarbeid med oss
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -530,7 +530,7 @@ Delta
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
-Volunteer
+Frivillig
 
 
 # Top menu item on firefox/update page
@@ -540,7 +540,7 @@ Branding-verktysett
 
 # Top menu item on firefox/update page
 ;Partnerships
-Partnere
+Partnarskap
 
 
 # Newsletter subscription form above footer on some pages
@@ -600,12 +600,12 @@ Våre produkt
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
-Programnyskapninger og andre nyheter for å videreføre oppdraget vårt.
+Programnyskapning og andre nyhende for å vidareføra oppdraget vårt.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Bli frivillig innenfor ett av flere områder.
+Bli ein frivillig medarbeidar innom eitt eller fleire ulike område.
 
 
 # This is a non-visible string for blind people to indicate where the menu is
@@ -620,18 +620,18 @@ Forplikta til deg, ditt personvern og ein open verdsvev.
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Velg å være uavhengig
+Vel fritt
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Hold lidenskapen din for et fritt og åpent Internett brennende! #ChooseIndependent. Velg Firefox:
+Hald gløden oppe for eit fritt og ope Internett! #ChooseIndependent. Vel Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+Slå på JavaScript for å få rett vising av denne sida.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -761,7 +761,7 @@ Tekst
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -770,7 +770,7 @@ Oops! Skriv inn ei gyldig e-postadresse.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Det er OK for meg at Mozilla håndterer infoen om meg som forklart i <a href="%s">personvernerklæringen</a>
+Eg godkjenner at Mozilla handsamar informasjon om meg som forklart i <a href="%s">personvernernpraksisen</a>
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -797,22 +797,22 @@ Tilgjengelege språk
 
 
 ;We will only send you Mozilla-related information.
-Vi vil bare sende Mozilla-relatert informasjon.
+Vi vil berre senda deg Mozilla-relatert informasjon.
 
 
 ;Thanks! Please check your inbox to confirm your subscription.
-Takk! Kontroller innboksen din for å bekrefte abonnementet.
+Takk! Kontroller innboksen din for å stadfesta abonnementet.
 
 
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Du vil motta en e-post fra mozilla@e.mozilla.org for å bekrefte abonnementet. Dersom du ikke finner den, kontroller spamfilteret. Du må bekrefte abonnementet for å motta nyhetsbrevet.
+Du vil få ein e-post frå mozilla@e.mozilla.org for å stadfesta abonnementet. Dersom du ikkje finn han, kontroller spamfilteret. Du må stadfesta abonnementet for å få nyhetsbrevet.
 
 
 ;Read all about it in our <span>newsletter</span>
-Les om det i vårt  <span>nyhetsbrev</span>
+Les alt om det i <span>nyhendebrevet</span> vårt
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Abonner for å motta månedelige nytt, og holde deg oppdatert på Mozilla-nyheter, også de nyeste tipsene om hvordan du kan få mest mulig ut av din Firefox nettleser. Det er den perfekte måten for oss å holde kontakten på!
+Abonner på månadlege Mozilla-nyhende, og hald deg oppdatert om kva som skjer, med mellom anna dei siste tipsa om korleis du kan få mest muleg ut av Firefox. Det er den perfekte måten for oss å halda kontakten på!
 
 

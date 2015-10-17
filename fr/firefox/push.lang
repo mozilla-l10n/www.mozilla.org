@@ -50,7 +50,7 @@ Les sites que vous avez autorisés à utiliser <em>Push</em> peuvent en faire us
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox envoie ce message push à un petit composant JavaScript appelé «&nbsp;worker&nbsp;».
+Firefox envoie ce message <em>push</em> à un petit composant JavaScript appelé «&nbsp;worker&nbsp;».
 
 
 ;The worker then processes the message.
@@ -78,7 +78,7 @@ Quelles informations Firefox utilise pour proposer le service <em>Push</em>&nbsp
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox conserve une connexion permanente à un service push afin de recevoir les messages <em>push</em>.
+Firefox conserve une connexion permanente à un service <em>push</em> afin de recevoir les messages <em>push</em>.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.

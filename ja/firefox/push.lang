@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.
 ## NOTE: Demo available at https://www-dev.allizom.org/firefox/push/
 
@@ -23,6 +24,7 @@ Mozilla Firefox Web ブラウザ
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
 プッシュ機能を有効にすることによって、閲覧していない間もWebサイトからメッセージを受け取ることができます。
+
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
 プッシュ機能を利用することによって Web サイトから通知を受け取ったり、バックグラウンドでサイトデータを更新したりできます。
@@ -84,7 +86,6 @@ Firefox は、プッシュサービスと継続的に接続しています。
 Mozilla のサーバーにはランダムに振り当てられたブラウザの識別子と、同じくランダムに振り当てられた各サイトの識別コードが保存されています。
 
 
-
 ;On Firefox for desktop, the push service is operated by Mozilla.
 デスクトップ版の Firefox では、このサービスは Mozilla によって運営されています。
 
@@ -122,7 +123,7 @@ Android 版のFirefox では、ユーザーの他の Android アプリと同じ 
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
- <em>プッシュ通知を受け取る</em> to <strong>毎回確認する</strong>.
+<em>プッシュ通知を受け取る</em> to <strong>毎回確認する</strong>.
 
 
 ;How do I disable Push permanently?

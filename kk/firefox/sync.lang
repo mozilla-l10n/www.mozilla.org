@@ -1,3 +1,7 @@
+## active ##
+## firefox_sync_non_fx ##
+## fx38_sync_updates ##
+## ios_announce ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
@@ -10,7 +14,7 @@ Firefox-ты синхронды ұстаңыз
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+Сіз кірдіңіз және <em>өз</em> Firefox-қа қайдан болса да, қашан болса да, қол жеткізуге дайынсыз.
 
 
 ;Take your Web with you
@@ -18,36 +22,36 @@ You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+Кез-келген смартфон, планшет не компьютерден сіздің бетбелгілер, парольдер, беттерге және т.б. қатынау үшін Firefox-ты қолданған кезде оны синхрондаңыз,
 
 
 ;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
-Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
+Firefox тіркелгісі көмегімен өз бетбелгілер, парольдер, беттер және т.б. синхрондаңыз, және қай жерден кірсеңіз де, олар қолжетерлік болады.
 
 
 ;It looks like you’re running an older version of Firefox.
-It looks like you’re running an older version of Firefox.
+Сіз Firefox-тың ескілеу нұсқасын қолданатын сияқтысыз.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-The new version of Sync only works with the latest version of Firefox
+Синхрондаудың жаңа нұсқасы тек Firefox-тың соңғы нұсқасымен жасайды
 
 
 ;Soon you’ll be able to use Sync on your iOS device
-Soon you’ll be able to use Sync on your iOS device
+Жақын арада iOS құрылғыңызда да синхрондау жұмыс істейтін болады
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+Firefox ішінде келетін синхрондау - тек оның көптеген тамаша мүмкіндіктердің біреуі ғана. Оларды барлығымен таныс болыңыз!
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync is just one of the great features you’ll only get with Firefox.
+Firefox ішінде келетін синхрондау - тек оның көптеген тамаша мүмкіндіктердің біреуі ғана.
 
 
 ;Download Firefox for Android
-Download Firefox for Android
+Android үшін Firefox-ты жүктеп алыңыз
 
 
 ;Get started with Sync
@@ -63,32 +67,32 @@ Firefox-ты жүктеп алу
 
 
 ;Get started with Sync in four easy steps:
-Get started with Sync in four easy steps:
+Синхрондаумен төрт оңай қадамда жұмысты бастаңыз:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Firefox-тың жоғарғы оң жағындағы <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">мәзірді</a> ашып, "<strong>Синхрондауға кіру</strong>" таңдаңыз
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+Ашылған бетте "<strong>Жұмысты бастау</strong>" шертіңіз.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+"<strong>Firefox тіркелгісін</strong>" жасау үшін эл. пошта және парольді енгіңіз
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+Эл. поштаңызға растау сілтемесін алу үшін "<strong>Келесі</strong>" шертіңіз.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+Эл. поштаңызды тексеріп, растау сілтемесіне шерткеннен кейін бәрі де дайын болады! Firefox сол кезден бастап, фонда автоматты түрде синхрондалатын болады.
 
 
 ;Get more detailed instructions.
@@ -101,54 +105,54 @@ After you check your email and click the verification link, you’ll be all set!
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-How to set up Sync in five easy steps:
+Синхрондауды бес оңай қадамда баптау:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+<strong>Мәзір</strong> батырмасын басыңыз (экран астында немесе браузердің жоғарғы оң жағында).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+<strong>Баптаулар</strong> таңдаңыз (алдымен <strong>Көбірек</strong> таңдау керек болуы мүмкін).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+<strong>Синхрондау</strong> басып, <strong>Бастау үшін</strong> таңдаңыз.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+Жаңа бетте <strong>Firefox тіркелгісін жасау беті</strong> ашылады.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+Форманы толтырып, <strong>Келесі</strong> басыңыз.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+Эл. поштаңызды тексеріп, растау сілтемесіне шерткеннен кейін дайын боласыз! Синхрондаудың барлық мүмкіндіктерін алу үшін басқа барлық құрылғыларыңызды да байланыстыруды ұмытпаңыз.
 
 
 ;Sync a little. Sync a lot.
-Sync a little. Sync a lot.
+Аздап, көптеп те синхрондаңыз.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+Firefox ішінен нені және қайда синхрондауды өзіңіз қалайсыз. Ашық беттерді күнделікті жолға алыңыз. Жұмыстан да бетбелгілерге қол жеткізіңіз. Не болса да, қайдан болса да, қайда болса да.
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+Компьютердегі браузердің ашық беттеріне басқа құрылғыңыздан қатынауды қалайсыз ба? Жолда шолу тарихына қарау? Парольдеріңізді өзіңізбен бірге ұстау? Енді оның барлығы мүмкін.
 
 
 ;Here’s what you can sync:
-Here’s what you can sync:
+Келесі нәрселерді синхрондауға болады:
 
 
 ;Bookmarks
@@ -168,50 +172,50 @@ Here’s what you can sync:
 
 
 ;At home
-At home
+Үйде
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Жұмыс үстелінен диванға ешнәрседен қол үзбей ауысыңыз. Смартфоныңызда ашық беттерге, планшетіңізде бетбелгілерге қол жеткізіңіз.
 
 
 ;At work
-At work
+Жұмыста
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+Барлық маңызды ақпаратыңыздан қол үзбеңіз. Кез-келген уақытта керек бола алатын парольдер және белбелгілерді синхрондаңыз. Firefox-тың өзі сияқты, бұл қауіпсіз.
 
 
 ;On the go
-On the go
+Жолда
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Таңдамалы сайттар жаңалықтарын біліп отырыңыз, үйде бастаған мақаланы оқып бітіріңіз — қайда барсаңыз ба. Синхрондау көмегімен бұның бәрі де мүмкін және ыңғайлы.
 
 
 ;Add Firefox to your smartphone or tablet
-Add Firefox to your smartphone or tablet
+Firefox-ты өз смартфоныңызға не планшетіңізге қосыңыз
 
 
 ;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
-To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
+Синхрондаудың барлық мүмкіндіктерін алу үшін, iOS не Android үшін Firefox-ты алып, барлық құрылғыларыңызды байланыстырыңыз — Firefox-ты қайда қолдансаңыз да.
 
 
 ;Add Firefox
-Add Firefox
+Firefox-ты қосу
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Have an <b>Android smartphone</b> or <b>tablet</b>?
+Сізде <b>Android смартфоны</b> немесе <b>планшеті</b> бар ма?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-DOWNLOAD FIREFOX FOR ANDROID
+ANDROID ҮШІН FIREFOX-ТЫ ЖҮКТЕП АЛУ
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+Синхрондаудың барлық мүмкіндіктерін алу үшін, Firefox-ты қайда қолдансаңыз да, сол жерде өз Интернетіңізді қолданыңыз. Смартфон, планшет, компьютер және ноутбукті байланыстырыңыз.
 
 

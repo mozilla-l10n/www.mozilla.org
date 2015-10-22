@@ -1,10 +1,11 @@
+## active ##
 ## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.
 ## NOTE: Demo available at https://www-dev.allizom.org/firefox/push/
 
 
 # Page Title and part of <title> tag
 ;Push
-Push
+プッシュ機能
 
 
 # Page Title and part of <title> tag
@@ -14,158 +15,158 @@ Push
 
 # Part of <title> tag
 ;Mozilla Firefox Web Browser
-Web ブラウザ Mozilla Firefox
+Mozilla Firefox Web ブラウザ
 
 
 ;What is Push?
-What is Push?
+プッシュって？
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+プッシュ機能を有効にすることによって、閲覧していない間もWebサイトからメッセージを受け取ることができます。
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+プッシュ機能を利用することによって Web サイトから通知を受け取ったり、バックグラウンドでサイトデータを更新したりできます。
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+例えば、 Web メールのサイトから新しいメッセージが届いた通知をプッシュによって受け取ったり、気象情報のサイトから災害警報が出た際に警告を受け取ったりできます。
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+プッシュによるメッセージは、ユーザーが許可したサイトからのみ送られます。
 
 
 ;How does it work?
-How does it work?
+プッシュ機能の仕組み
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox は、プッシュサービスと継続的に接続しています。
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+ユーザーが許可を与えたサイトは、プッシュ機能を通してメッセージを送ることができます。
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+受け取ったプッシュメッセージを、 Firefoxは「ワーカー」と呼ばれる JavaScript コードに転送します。
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+ワーカーはメッセージを処理し、
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+必要に応じてその場で通知を表示したり、必要な時が来るまで保存したりします。
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+サイトが取得する情報
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+プッシュ機能によって、サイトはユーザーがサイトを閲覧していない時でもメッセージを送ることができます。
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+プッシュによるメッセージを許可することによって、サイトはユーザーの IP アドレスを記録できるようにになります。これにより、ユーザーの位置情報がサイトに知られる可能性があります。
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+プッシュ機能のために Firefox が利用する情報
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox maintains a permanent connection to a push service in order to receive push messages.
+プッシュによるメッセージを受け取るために、 Firefox はプッシュサービスとの接続を維持します。
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
+Mozilla のサーバーにはランダムに振り当てられたブラウザの識別子と、同じくランダムに振り当てられた各サイトの識別コードが保存されています。
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+デスクトップ版の Firefox では、このサービスは Mozilla によって運営されています。
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
+Android 版のFirefox では、ユーザーの他の Android アプリと同じ <a href="%s">Google Cloud Messaging</a> のプラットフォームを利用します。
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-In both cases, the push service cannot decrypt your push messages.
+どちらの場合においても、プッシュサービスがプッシュメッセージを解読すことは不可能ですのでご安心ください。
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+プッシュメッセージは、各ユーザーが利用しているFirefox ブラウザでのみ解読できるように暗号化されています。
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+暗号化されたメッセージは、ブラウザに配達されるまでサーバー上に保存されています。
 
 
 ;How do I revoke Push permissions?
-How do I revoke Push permissions?
+プッシュ通知の許可を取り消す
 
 
 ;To stop a site from sending you push messages:
-To stop a site from sending you push messages:
+特定のサイトからのプッシュ通知を中止するには：
 
 
 ;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+ブラウザのURLバーに <em>about:permissions</em> と入力します。
 
 
 ;Select the site.
-Select the site.
+プッシュ通知を中止したいサイトを選択する。
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
+<em>プッシュ通知を受け取る</em> to <strong>毎回確認する</strong>.
 
 
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+プッシュ通知を永久的に無効にする
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+Firefoxではプッシュ機能が常に有効になっています。
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+ユーザーの許可なしに、サイトがメッセージを送ることはありません。
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+完全にプッシュ機能を無効にするには、以下の手順を辿ってください:
 
 
 ;Select <em>All Sites</em>.
-Select <em>All Sites</em>.
+<em>すべてのwebサイト</em>を選択します。
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
+<em>プッシュ機能を通知を受け取る</em> の項目を <strong>ブロック</strong>に設定します。これにより、webサイトがプッシュ通知を送ったり、プッシュの許可をたずねたりすることはもうありません。
 
 
 ;Will this cost me money?
-Will this cost me money?
+お金はかかるの？
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+プッシュ機能は微量ですがデータ通信を使って機能します。
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
+データ通信の量が制限されていたり、データ通信量により課金刺されていたりする場合はご利用に注意が必要かも知れません。
 
 
 ;How do I add Push to my web site?
-How do I add Push to my web site?
+Webサイトにプッシュ機能を実装するには？
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
+<a href="%s">Push API の詳細ページ</a> によりService Worker の実装方法やプッシュ通知の送り方が学べます。
 
 

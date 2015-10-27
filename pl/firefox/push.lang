@@ -18,51 +18,51 @@ Przeglądarka Mozilla Firefox
 
 
 ;What is Push?
-What is Push?
+Czym jest Push?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+Push to opcjonalna funkcja, która pozwala stronom na wysyłanie Ci wiadomości nawet kiedy dana strona nie jest otwarta w Twojej przeglądarce.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+Strony mogą użyć tej funkcji, by w tle dostarczyć Ci powiadomienia lub aktualizacje.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+Na przykłąd, aplikacja webowa email może wysłać Ci powiadomienie Push na temat nowej wiadomości, albo serwis pogodowy może poinformować o nadchodzącej burzy.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Będziesz otrzymywać wyłącznie wiadomości od stron, które zatwierdzisz.
 
 
 ;How does it work?
-How does it work?
+Jak to działa?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox utrzymuje połączenie z serwisem typu "push".
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Strony, którym pozwolisz, mogą użyć tego serwisu do wysyłania Ci wiadomości.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox dostarczy taką wiadomość do małego kawałka kodu JavaScript nazywanego "worker".
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+Ten zaś, przetworzy wiadomość.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+Może on zdecydować się wyświetlić powiadomienie wizualne, lub przechować wiadomość do późniejszego wykorzystania.
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+Jakie informacje udostępniam stronie?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.

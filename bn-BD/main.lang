@@ -10,12 +10,12 @@
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+অ্যান্ড্রয়েডের <span>জন্য</span> ফায়ারফক্স
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+iOS এর <span>জন্য</span>
 
 
 # Firefox family navigation menu. Main level item.
@@ -26,12 +26,12 @@
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+ডেস্কটপ &amp; ল্যাপটপ জন্য
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+ফোন &amp; টেবলেট জন্য
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -41,17 +41,17 @@ For phones &amp; tablets
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
-Trusted
+বিশ্বস্ত
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Flexible
-Flexible
+নমনীয়
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Fast
-Fast
+দ্রুত
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -61,17 +61,17 @@ Fast
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+ডিভাইস
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+অংশীদারদের জন্য
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+অ্যাপ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -81,18 +81,18 @@ Apps
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+টালি
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+আগ্রহ ড্যাসবোর্ড
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+ডেভেলপার সংস্করণ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -107,12 +107,12 @@ Developer Edition
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+সংবাদ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+ডেভেলপারদের জন্য
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -127,7 +127,7 @@ Find My Device {ok}
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+স্বাধীন ব্রাউজার বেছে নিন
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -201,7 +201,7 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 
 
 ;Legal
-Legal
+আইনগত
 
 
 # Used as link in the footer
@@ -311,7 +311,7 @@ Legal
 
 # Link used to play again an animation or a video
 ;Replay
-Replay
+রিপ্লে
 
 
 ;Watch the video
@@ -319,11 +319,11 @@ Replay
 
 
 ;Replay the video
-Replay the video
+ভিডিওটি প্লে করুন
 
 
 ;Share the video
-Share the video
+ভিডিও শেয়ার করুন
 
 
 ;WebM format
@@ -415,7 +415,7 @@ Supported devices
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+এই সাইটে অবদান রাখুন
 
 
 # Footer string
@@ -450,7 +450,7 @@ Contribute to this site
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+অ্যান্ড্রয়েড অ্যাড-অন
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -465,7 +465,7 @@ Android Add-ons
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+অ্যান্ড্রয়েড সাপোর্ট
 
 
 # Top menu item on firefox/update page
@@ -580,7 +580,7 @@ Android Support
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+নেতৃত্ব
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -620,7 +620,7 @@ Committed to you, your privacy and an open Web
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Choose Independent
+স্বাধীনতাক বেছে নিন।
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
@@ -761,7 +761,7 @@ Congrats. You’re up to date!
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form

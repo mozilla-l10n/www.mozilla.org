@@ -22,15 +22,15 @@ Czym jest Push?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push to opcjonalna funkcja, która pozwala stronom na wysyłanie Ci wiadomości nawet kiedy dana strona nie jest otwarta w Twojej przeglądarce.
+Push to opcjonalna funkcja, która pozwala stronom na wysyłanie wiadomości nawet kiedy dana strona nie jest otwarta w przeglądarce.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Strony mogą użyć tej funkcji, by w tle dostarczyć Ci powiadomienia lub aktualizacje.
+Strony mogą użyć tej funkcji, by w tle dostarczać powiadomienia lub aktualizacje.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-Na przykład, aplikacja webowa email może wysłać Ci powiadomienie Push na temat nowej wiadomości, albo serwis pogodowy może poinformować o nadchodzącej burzy.
+Na przykład, aplikacja webowa email może wysłać powiadomienie Push na temat nowej wiadomości, albo serwis pogodowy może poinformować o nadchodzącej burzy.
 
 
 ;You will only receive messages from sites for which you have granted permission.
@@ -42,15 +42,15 @@ Jak to działa?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox utrzymuje połączenie z serwisem typu "push".
+Firefox utrzymuje połączenie z serwisem typu „push”.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Strony, którym pozwolisz, mogą użyć tego serwisu do wysyłania Ci wiadomości.
+Strony, którym pozwolisz, mogą użyć tego serwisu do wysyłania wiadomości.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox dostarczy taką wiadomość do małego kawałka kodu JavaScript nazywanego "worker".
+Firefox dostarczy taką wiadomość do małego kawałka kodu JavaScript nazywanego wątkiem.
 
 
 ;The worker then processes the message.
@@ -58,7 +58,7 @@ Ten zaś, przetworzy wiadomość.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-Może on zdecydować się wyświetlić powiadomienie wizualne, lub przechować wiadomość do późniejszego wykorzystania.
+Może on zdecydować się wyświetlić powiadomienie wizualne lub przechować wiadomość do późniejszego wykorzystania.
 
 
 ;What information do I share with a site?
@@ -66,11 +66,11 @@ Jakie informacje udostępniam stronie?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-Strona może korzytać z Push by wysłać Ci wiadomość w dowolnym momencie, nawet kiedy nie masz jej otwartej w żadnej karcie.
+Strona może korzystać z Push, by wysłać wiadomość w dowolnym momencie, nawet kiedy nie masz jej otwartej w żadnej karcie.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-Strona która wysyła Ci wiadomość może poznać Twój adres IP; a to może prowadzić do określenia Twojego położenia.
+Strona która wysyła wiadomość może poznać adres IP urządzenia, a to może prowadzić do określenia Twojego położenia.
 
 
 ;What information does Firefox use to provide Push?
@@ -78,27 +78,27 @@ Z jakich informacji korzysta Firefox, aby Push działało?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox utrzymuje stałe połączenie z serwisem Push w celu otrzymywania wiadomości.
+Firefox utrzymuje stałe połączenie z serwisem Push w celu otrzymywania wiadomości.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-Na naszym serwerze utrzymujemy losowy identyfikator Twojej przeglądarki, oraz losowy identyfikator każdej strony, której pozwalasz na korzystanie z Push.
+Na naszym serwerze utrzymujemy losowy identyfikator Twojej przeglądarki, oraz losowy identyfikator każdej strony, której pozwalasz na korzystanie z Push.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-W Firefoksie dla desktopów, serwis Push operowany jest przez Mozillę.
+W Firefoksie na komputerach, serwis Push utrzymywany jest przez Mozillę.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Firefox na Androida używa platformy <a href="%s">Google Cloud Messaging</a>, tej samej z której korzystają wszystkie inne aplikacje na Twoim Androidzie.
+Firefox na Androida używa platformy <a href="%s">Google Cloud Messaging</a>, tej samej z której korzystają wszystkie inne aplikacje na Androidzie.
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-W obu przypadkach, serwis Push nie może odszyfrować Twoich wiadomości Push.
+W obu przypadkach, serwis Push nie może odszyfrować wiadomości Push.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Wiadomości Push są zaszyfrowane i tylko Twoja kopia Firefoksa może je odszyfrować.
+Wiadomości Push są zaszyfrowane i tylko Twoja kopia Firefoksa może je odszyfrować.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
@@ -122,7 +122,7 @@ Wybierz stronę.
 
 
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Zmień <em>Otrzymuj powiadomienia Push</em> na <strong>Zawsze pytaj</strong>.
+Zmień <em>Otrzymywanie powiadomień Push</em> na <strong>Zawsze pytaj</strong>.
 
 
 ;How do I disable Push permanently?
@@ -142,11 +142,11 @@ Jeśli chcesz całkowicie wyłączyć tę funkcję, wykonaj następujące kroki:
 
 
 ;Select <em>All Sites</em>.
-Wybierz <em>Wszystkie strony</em>.
+Wybierz <em>Wszystkie witryny</em>.
 
 
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Ustaw <em>Otrzymuj powiadomienia Push</em> na <strong>Blokuj</strong>. Strony nie będą mogły wysłać wiadomości, lub poprosić o dostęp do serwisu Push.
+Ustaw <em>Otrzymywanie powiadomień Push</em> na <strong>Blokuj</strong>. Strony nie będą mogły wysłać wiadomości, lub poprosić o dostęp do serwisu Push.
 
 
 ;Will this cost me money?
@@ -166,6 +166,6 @@ Jak mogę dodać Push na mojej stronie?
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-<a href="%s">Specyfikacja Push API</a> wyjaśnia jak stworzyć Service Worker i wysyłać wiadomości Push.
+<a href="%s">Specyfikacja Push API</a> wyjaśnia jak stworzyć wątek usługowy i wysyłać wiadomości Push.
 
 

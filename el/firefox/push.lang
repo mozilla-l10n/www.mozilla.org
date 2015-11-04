@@ -18,6 +18,10 @@ Push {ok}
 Περιηγητής ιστού Mozilla Firefox
 
 
+;Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
+Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
+
+
 ;What is Push?
 Τι είναι η υπηρεσία Push;
 
@@ -114,18 +118,38 @@ Push {ok}
 Για να σταματήσετε να λαμβάνετε μηνύματα push από μια ιστοσελίδα:
 
 
-;In the URL bar, type <em>about:permissions</em>.
-Στην εργαλειοθήκη διευθύνσεων, πληκτρολογήστε <em>about:permissions</em>.
+;Navigate to <em>Preferences/Options</em>
+Navigate to <em>Preferences/Options</em>
 
 
+;Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
+Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
+
+
+# Obsolete string, do not remove
 ;Select the site.
 Επιλέξτε την ιστοσελίδα.
 
 
+;Select <strong>Remove Site</strong>.
+Select <strong>Remove Site</strong>.
+
+
+# Obsolete string, do not remove
+;In the URL bar, type <em>about:permissions</em>.
+Στην εργαλειοθήκη διευθύνσεων, πληκτρολογήστε <em>about:permissions</em>.
+
+
+# Obsolete string, do not remove
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
 Αλλάξτε το <em>Receive Push Notifications</em> σε <strong>Always Ask</strong>.
 
 
+;How do I disable Push?
+How do I disable Push?
+
+
+# Obsolete string, do not remove
 ;How do I disable Push permanently?
 Πως απενεργοποιώ μόνιμα το Push;
 
@@ -142,12 +166,46 @@ Push {ok}
 Αν επιθυμείτε να απενεργοποιήσετε πλήρως το χαρακτηριστικό, ακολουθήστε τα παρακάτω βήματα:
 
 
+;Select <strong>Remove All Sites</strong>.
+Select <strong>Remove All Sites</strong>.
+
+
+;Websites will not be able to send you messages and will need to ask your permission to send them in the future.
+Websites will not be able to send you messages and will need to ask your permission to send them in the future.
+
+
+# Obsolete string, do not remove
 ;Select <em>All Sites</em>.
 Επιλέξτε <em>All Sites</em>.
 
 
+# Obsolete string, do not remove
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
 Αλλάξτε το <em>Receive Push Notifications</em> σε <strong>Block</strong>. Από δω και πέρα οι ιστοσελίδες δε θα μπορούν να σας στέλνουν μηνύματα ή να ζητούν εξουσιοδότηση για το Push.
+
+
+;What’s New?
+What’s New?
+
+
+;Firefox has delivered on-screen notifications to open web pages for the last several releases.
+Firefox has delivered on-screen notifications to open web pages for the last several releases.
+
+
+;With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
+With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
+
+
+;With Push, sites can update data in the background even without showing you a notification.
+With Push, sites can update data in the background even without showing you a notification.
+
+
+;If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
+If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
+
+
+;If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
+If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
 
 
 ;Will this cost me money?

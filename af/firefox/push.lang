@@ -17,6 +17,10 @@ Algemene vrae
 Web blaaier Mozilla Firefox
 
 
+;Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
+Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
+
+
 ;What is Push?
 What is Push?
 
@@ -113,18 +117,38 @@ How do I revoke Push permissions?
 To stop a site from sending you push messages:
 
 
-;In the URL bar, type <em>about:permissions</em>.
-In the URL bar, type <em>about:permissions</em>.
+;Navigate to <em>Preferences/Options</em>
+Navigate to <em>Preferences/Options</em>
 
 
+;Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
+Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
+
+
+# Obsolete string, do not remove
 ;Select the site.
 Select the site.
 
 
+;Select <strong>Remove Site</strong>.
+Select <strong>Remove Site</strong>.
+
+
+# Obsolete string, do not remove
+;In the URL bar, type <em>about:permissions</em>.
+In the URL bar, type <em>about:permissions</em>.
+
+
+# Obsolete string, do not remove
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
 Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
 
 
+;How do I disable Push?
+How do I disable Push?
+
+
+# Obsolete string, do not remove
 ;How do I disable Push permanently?
 How do I disable Push permanently?
 
@@ -141,12 +165,46 @@ A site cannot send you push messages without your permission.
 If you wish to disable the feature completely, please follow these steps:
 
 
+;Select <strong>Remove All Sites</strong>.
+Select <strong>Remove All Sites</strong>.
+
+
+;Websites will not be able to send you messages and will need to ask your permission to send them in the future.
+Websites will not be able to send you messages and will need to ask your permission to send them in the future.
+
+
+# Obsolete string, do not remove
 ;Select <em>All Sites</em>.
 Select <em>All Sites</em>.
 
 
+# Obsolete string, do not remove
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
 Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
+
+
+;What’s New?
+What’s New?
+
+
+;Firefox has delivered on-screen notifications to open web pages for the last several releases.
+Firefox has delivered on-screen notifications to open web pages for the last several releases.
+
+
+;With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
+With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
+
+
+;With Push, sites can update data in the background even without showing you a notification.
+With Push, sites can update data in the background even without showing you a notification.
+
+
+;If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
+If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
+
+
+;If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
+If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
 
 
 ;Will this cost me money?

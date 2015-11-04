@@ -20,7 +20,7 @@ Browser web Mozilla Firefox
 
 
 ;Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
-Con Firefox i siti web sono in grado di inviare notifiche in <em>background</em>, visualizzando messaggi sullo schermo o modificando il contenuto delle pagine. L’utente può stabilire in che modo queste notifiche vengono visualizzate e il loro funzionamento.
+Con Firefox i siti web sono in grado di inviare notifiche in <em>background</em>, visualizzando messaggi sullo schermo o modificando il contenuto delle pagine. L’aspetto e il funzionamento delle notifiche sono personalizzabili.
 
 
 ;What is Push?
@@ -171,7 +171,7 @@ seleziona <strong>Rimuovi tutti i siti</strong>;
 
 
 ;Websites will not be able to send you messages and will need to ask your permission to send them in the future.
-i siti web non saranno più in grado di inviarti messaggi e dovranno chiedere una nuova autorizzazione per farlo.
+i siti web non saranno più in grado di inviarti messaggi a meno che non richiedano una nuova autorizzazione.
 
 
 # Obsolete string, do not remove
@@ -197,15 +197,15 @@ A partire da Firefox 44 gli utenti possono ricevere notifiche da una pagina web 
 
 
 ;With Push, sites can update data in the background even without showing you a notification.
-Con Push i siti web possono aggiornare i dati in <em>background</em> senza neppure visualizzare una notifica.
+Con Push i siti web possono aggiornare i dati in <em>background</em> anche senza visualizzare notifiche.
 
 
 ;If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
-Se hai già garantito a un sito il permesso di inviare notifiche, questo sito sarà automaticamente in grado di utilizzare Push.
+Ogni sito a cui hai precedentemente garantito il permesso di inviare notifiche è automaticamente in grado di utilizzare Push.
 
 
 ;If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
-Per modificare le impostazioni relative alle notifiche, utilizza la sezione Contenuti>Notifiche nelle impostazioni di Firefox o fai clic sulle opzioni di una delle notifiche ricevute.
+Per modificare le impostazioni relative alle notifiche, utilizza la sezione Contenuti>Notifiche nelle impostazioni di Firefox o accedi alle opzioni da una qualsiasi notifica ricevuta.
 
 
 ;Will this cost me money?

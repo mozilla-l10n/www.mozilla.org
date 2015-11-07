@@ -1,4 +1,5 @@
 ## active ##
+## firefox_push_updates ##
 ## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.
 ## NOTE: Demo available at https://www-dev.allizom.org/firefox/push/
 
@@ -19,7 +20,7 @@ Mozilla Firefox-webbrowser
 
 
 ;Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
-Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
+Websites dy't jo met Firefox brûke, kinne jo op de achtergrûn meldingen stjoere dy't op it skerm ferskine kinne of de side bywurkje kinne. Jo kinne ynstelle hoe't dizze meldingen ferskine en wurkje.
 
 
 ;What is Push?
@@ -59,7 +60,7 @@ Firefox levert dit pushberjocht oan in lyts stikje JavaScript dat in ‘worker�
 
 
 ;The worker then processes the message.
-De worker ferwurket ferfolgens it berjocht.
+De worker ferwurket dêrnei it berjocht.
 
 
 ;It might decide to show a visual notification or store the message for later use.
@@ -83,7 +84,7 @@ Hokker gegevens brûkt Firefox om Push oan te bieden?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox ûnderhâldt in kontinue ferbining mei in push-service om pushberjochten ûntfange te kinnen.
+Firefox ûnderhâldt in kontinu ferbining mei in push-service om pushberjochten ûntfange te kinnen.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
@@ -119,11 +120,11 @@ Om it ferstjoeren fan pushberjochten troch websites te stopjen:
 
 
 ;Navigate to <em>Preferences/Options</em>
-Navigate to <em>Preferences/Options</em>
+Navigearje nei <em>Foarkarren/Opsjes</em>.
 
 
 ;Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
-Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
+Klik op <em>Ynhâld</em> en selektearje <em>Kieze…</em> ûnder Notifikaasjes.
 
 
 ;Select the site.
@@ -131,7 +132,7 @@ Selektearje de website.
 
 
 ;Select <strong>Remove Site</strong>.
-Select <strong>Remove Site</strong>.
+Selektearje <strong>Website fuortsmite</strong>.
 
 
 # Obsolete string, do not remove
@@ -145,7 +146,7 @@ Stel <em>Pushnotifikaasjes ûntfange</em> yn op <strong>Altyd freegje</strong>.
 
 
 ;How do I disable Push?
-How do I disable Push?
+Hoe skeakel ik Push út?
 
 
 # Obsolete string, do not remove
@@ -166,11 +167,11 @@ As jo de funksje folslein útskeakelje wolle, folgje dan dizze stappen:
 
 
 ;Select <strong>Remove All Sites</strong>.
-Select <strong>Remove All Sites</strong>.
+Selektearje <strong>Alle websites fuortsmite</strong>.
 
 
 ;Websites will not be able to send you messages and will need to ask your permission to send them in the future.
-Websites will not be able to send you messages and will need to ask your permission to send them in the future.
+Websites sille jo gjin berjochten stjoere kinne en yn de takomst om jo tastimming freegje moatte om se te stjoeren.
 
 
 # Obsolete string, do not remove
@@ -188,23 +189,23 @@ What’s New?
 
 
 ;Firefox has delivered on-screen notifications to open web pages for the last several releases.
-Firefox has delivered on-screen notifications to open web pages for the last several releases.
+Firefox hat de ôfrûne pear ferzjes skermmeldingen foar it iepenjen fan websiden ôflevere.
 
 
 ;With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
-With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
+Mei Firefox 44 kinne brûkers meldingen ûntfange dy't mei in webside assosjearre binne, sels as se de website ferlitten of it ljepblêd sluten hawwe, fia in meganisme dat Push neamd wurdt.
 
 
 ;With Push, sites can update data in the background even without showing you a notification.
-With Push, sites can update data in the background even without showing you a notification.
+Mei Push kinnen websites sels sûnder in melding te toanen gegevens op de achtergrûn bywurkje.
 
 
 ;If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
-If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
+As jo al tastimming foar it stjoeren fan meldingen oan in website jûn hawwe, sille dizze websites dit Push-meganisme ek brûke kinne.
 
 
 ;If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
-If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
+As jo foarkarren foar meldingen wizigje wolle, iepenje dan de seksje Ynhâld > Notifikaasjes yn Foarkarren/Opsjes, of klik op de opsjes yn ien fan de meldingen dy't jo ûntfange.
 
 
 ;Will this cost me money?

@@ -115,7 +115,7 @@ Android 版のFirefox では、ユーザの他の Android アプリと同じ <a 
 
 
 ;To stop a site from sending you push messages:
-特定のサイトからのプッシュ通知を中止するには：
+特定のサイトからのプッシュ通知を中止するには:
 
 
 ;Navigate to <em>Preferences/Options</em>
@@ -131,21 +131,21 @@ Android 版のFirefox では、ユーザの他の Android アプリと同じ <a 
 
 
 ;Select <strong>Remove Site</strong>.
-Select <strong>Remove Site</strong>.
+<strong>サイトを削除</strong> を選択します
 
 
 # Obsolete string, do not remove
 ;In the URL bar, type <em>about:permissions</em>.
-ブラウザのURLバーに <em>about:permissions</em> と入力します。
+ブラウザのロケーションバーに <em>about:permissions</em> と入力します。
 
 
 # Obsolete string, do not remove
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-<em>プッシュ通知を受け取る</em> to <strong>毎回確認する</strong>.
+<em>プッシュ通知を受け取る</em> を <strong>毎回確認する</strong> に設定します。
 
 
 ;How do I disable Push?
-How do I disable Push?
+プッシュ通知を無効化するには？
 
 
 # Obsolete string, do not remove
@@ -158,53 +158,53 @@ Firefoxではプッシュ機能が常に有効になっています。
 
 
 ;A site cannot send you push messages without your permission.
-ユーザーの許可なしに、サイトがメッセージを送ることはありません。
+ユーザの許可なしに、サイトがメッセージを送ることはありません。
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-完全にプッシュ機能を無効にするには、以下の手順を辿ってください:
+完全にプッシュ機能を無効にするには、以下の手順に従ってください:
 
 
 ;Select <strong>Remove All Sites</strong>.
-Select <strong>Remove All Sites</strong>.
+<strong>すべてのサイトを削除</strong> を選択します。
 
 
 ;Websites will not be able to send you messages and will need to ask your permission to send them in the future.
-Websites will not be able to send you messages and will need to ask your permission to send them in the future.
+以後、Web サイトがメッセージを送ることはできなくなり、再度送る場合にはあなたの許可が必要となります。
 
 
 # Obsolete string, do not remove
 ;Select <em>All Sites</em>.
-<em>すべてのwebサイト</em>を選択します。
+<em>すべてのサイト</em> を選択します。
 
 
 # Obsolete string, do not remove
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-<em>プッシュ機能を通知を受け取る</em> の項目を <strong>ブロック</strong>に設定します。これにより、webサイトがプッシュ通知を送ったり、プッシュの許可をたずねたりすることはもうありません。
+<em>プッシュ機能を通知を受け取る</em> の項目を <strong>ブロック</strong>に設定します。これにより、Web サイトがプッシュ通知を送ったり、プッシュの許可を尋ねたりすることはもうありません。
 
 
 ;What’s New?
-What’s New?
+新機能
 
 
 ;Firefox has delivered on-screen notifications to open web pages for the last several releases.
-Firefox has delivered on-screen notifications to open web pages for the last several releases.
+Firefox は、これまで数回のバージョンにわたって、Web ページを開ける画面上の通知を実装してきました。
 
 
 ;With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
-With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
+Firefox 44 で、ユーザがサイトから離れたときやタブを閉じた場合でも、プッシュと呼ばれる仕組みを通じて、Web ページに関連付けられた通知を受け取れるようになりました。
 
 
 ;With Push, sites can update data in the background even without showing you a notification.
-With Push, sites can update data in the background even without showing you a notification.
+サイトはこのプッシュ機能を活用することで、通知を表示しなくても、バックグラウンドでデータを更新することができます。
 
 
 ;If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
-If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
+サイトに対して通知を送る許可を既に与えている場合、それらのサイトはこのプッシュ機能も使うことができます。
 
 
 ;If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
-If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
+通知設定を変更したいときは、環境設定/オプションの コンテンツ > 通知 セクションを開くか、受け取った通知のオプションをクリックします。
 
 
 ;Will this cost me money?
@@ -216,14 +216,14 @@ If you wish to change notifications preferences, open the Content>Notifications 
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
-データ通信の量が制限されていたり、データ通信量により課金刺されていたりする場合はご利用に注意が必要かも知れません。
+データ通信の量が制限されていたり、データ通信量により課金されていたりする場合はご利用に注意が必要かもしれません。
 
 
 ;How do I add Push to my web site?
-Webサイトにプッシュ機能を実装するには？
+Web サイトにプッシュ機能を実装するには？
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
-<a href="%s">Push API の詳細ページ</a> によりService Worker の実装方法やプッシュ通知の送り方が学べます。
+<a href="%s">Push API の詳細ページ</a> により Service Worker の実装方法やプッシュ通知の送り方が学べます。
 
 

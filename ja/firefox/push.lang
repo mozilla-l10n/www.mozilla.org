@@ -19,15 +19,15 @@ Mozilla Firefox Web ブラウザ
 
 
 ;Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
-Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
+あなたが Firefox で使っている Web サイトは、画面上に表示したり、Web ページを更新したりすることが可能な通知をバックグラウンドで送ることができます。そうした通知の表示方法はあなた自身が管理できます。
 
 
 ;What is Push?
-プッシュって？
+プッシュとは
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-プッシュ機能を有効にすることによって、閲覧していない間もWebサイトからメッセージを受け取ることができます。
+プッシュ機能を有効にすることによって、閲覧していない間も Web サイトからメッセージを受け取ることができます。
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
@@ -39,7 +39,7 @@ Websites you use with Firefox can send you notifications in the background that 
 
 
 ;You will only receive messages from sites for which you have granted permission.
-プッシュによるメッセージは、ユーザーが許可したサイトからのみ送られます。
+プッシュによるメッセージは、ユーザが許可したサイトからのみ送られます。
 
 
 ;How does it work?
@@ -51,7 +51,7 @@ Firefox は、プッシュサービスと継続的に接続しています。
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-ユーザーが許可を与えたサイトは、プッシュ機能を通してメッセージを送ることができます。
+ユーザが許可を与えたサイトは、プッシュ機能を通してメッセージを送ることができます。
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
@@ -71,11 +71,11 @@ Firefox は、プッシュサービスと継続的に接続しています。
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-プッシュ機能によって、サイトはユーザーがサイトを閲覧していない時でもメッセージを送ることができます。
+プッシュ機能によって、サイトはユーザがサイトを閲覧していない時でもメッセージを送ることができます。
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-プッシュによるメッセージを許可することによって、サイトはユーザーの IP アドレスを記録できるようにになります。これにより、ユーザーの位置情報がサイトに知られる可能性があります。
+プッシュによるメッセージを許可することによって、サイトはユーザの IP アドレスを記録できるようにになります。これにより、ユーザの位置情報がサイトに知られる可能性があります。
 
 
 ;What information does Firefox use to provide Push?
@@ -87,7 +87,7 @@ Firefox は、プッシュサービスと継続的に接続しています。
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-Mozilla のサーバーにはランダムに振り当てられたブラウザの識別子と、同じくランダムに振り当てられた各サイトの識別コードが保存されています。
+Mozilla のサーバにはランダムに振り当てられたブラウザの識別子と、同じくランダムに振り当てられた各サイトの識別コードが保存されています。
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
@@ -95,7 +95,7 @@ Mozilla のサーバーにはランダムに振り当てられたブラウザの
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
-Android 版のFirefox では、ユーザーの他の Android アプリと同じ <a href="%s">Google Cloud Messaging</a> のプラットフォームを利用します。
+Android 版のFirefox では、ユーザの他の Android アプリと同じ <a href="%s">Google Cloud Messaging</a> のプラットフォームを利用します。
 
 
 ;In both cases, the push service cannot decrypt your push messages.
@@ -103,11 +103,11 @@ Android 版のFirefox では、ユーザーの他の Android アプリと同じ 
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-プッシュメッセージは、各ユーザーが利用しているFirefox ブラウザでのみ解読できるように暗号化されています。
+プッシュメッセージは、各ユーザが利用しているFirefox ブラウザでのみ解読できるように暗号化されています。
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-暗号化されたメッセージは、ブラウザに配達されるまでサーバー上に保存されています。
+暗号化されたメッセージは、ブラウザに配達されるまでサーバ上に保存されています。
 
 
 ;How do I revoke Push permissions?
@@ -119,15 +119,15 @@ Android 版のFirefox では、ユーザーの他の Android アプリと同じ 
 
 
 ;Navigate to <em>Preferences/Options</em>
-Navigate to <em>Preferences/Options</em>
+<em>環境設定/オプション</em> を開きます
 
 
 ;Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
-Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
+<em>コンテンツ</em> をクリックし、通知の下にある <em>選択...</em> をクリックします
 
 
 ;Select the site.
-プッシュ通知を中止したいサイトを選択する。
+プッシュ通知を中止したいサイトを選択します
 
 
 ;Select <strong>Remove Site</strong>.

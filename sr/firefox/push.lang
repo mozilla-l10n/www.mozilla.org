@@ -1,4 +1,5 @@
 ## active ##
+## firefox_push_updates ##
 ## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.
 ## NOTE: Demo available at https://www-dev.allizom.org/firefox/push/
 
@@ -19,7 +20,7 @@ Mozilla Firefox веб прегледач
 
 
 ;Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
-Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
+Веб сајтови које користите у Firefox-у вам могу слати у позадини обавештења које се могу појавити на екрану или ажурирати веб страницу. Можете контролисати како се ова обавештења појављују и раде.
 
 
 ;What is Push?
@@ -119,11 +120,11 @@ Push поруке су кодиране, једино ваша копија Fire
 
 
 ;Navigate to <em>Preferences/Options</em>
-Navigate to <em>Preferences/Options</em>
+Идите на <em>Подешавања/Options</em>
 
 
 ;Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
-Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
+Кликните на <em>Садржај</em> и под Обавештења изаберите <em>Избор…</em>
 
 
 ;Select the site.
@@ -131,7 +132,7 @@ Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
 
 
 ;Select <strong>Remove Site</strong>.
-Select <strong>Remove Site</strong>.
+Изаберите <strong>Уклони сајт</strong>.
 
 
 # Obsolete string, do not remove
@@ -145,7 +146,7 @@ Select <strong>Remove Site</strong>.
 
 
 ;How do I disable Push?
-How do I disable Push?
+Како да онемогућим Push?
 
 
 # Obsolete string, do not remove
@@ -166,11 +167,11 @@ How do I disable Push?
 
 
 ;Select <strong>Remove All Sites</strong>.
-Select <strong>Remove All Sites</strong>.
+Изаберите <strong>Уклони све сајтове</strong>.
 
 
 ;Websites will not be able to send you messages and will need to ask your permission to send them in the future.
-Websites will not be able to send you messages and will need to ask your permission to send them in the future.
+Веб сајтови неће бити у могућности да вам шаљу поруке и убудуће биће им потребна ваша дозвола.
 
 
 # Obsolete string, do not remove
@@ -184,27 +185,27 @@ Websites will not be able to send you messages and will need to ask your permiss
 
 
 ;What’s New?
-What’s New?
+Шта је ново?
 
 
 ;Firefox has delivered on-screen notifications to open web pages for the last several releases.
-Firefox has delivered on-screen notifications to open web pages for the last several releases.
+Firefox је донео обавештења на екрану да отвори веб странице од последњих неколико издања.
 
 
 ;With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
-With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
+Firefox 44 доноси корисницима могућност примања обавештења повезана са веб страном чак и ако оду с ње или затворе језичак преко механизма званог Push.
 
 
 ;With Push, sites can update data in the background even without showing you a notification.
-With Push, sites can update data in the background even without showing you a notification.
+Уз Push, сајтови могу ажурирати податке у позадини без тога да вам прикажу обавештење.
 
 
 ;If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
-If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
+Ако сте већ дали дозволу сајту да вам шаљу обавештења, ови сајтови ће такође бити у могућности да користе Push механизам.
 
 
 ;If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
-If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
+Ако желите да промените подешавања обавештења, отворите Садржај>Обавештења у Подешавањима/Options или кликните на опције у једном од обавештења које примите.
 
 
 ;Will this cost me money?

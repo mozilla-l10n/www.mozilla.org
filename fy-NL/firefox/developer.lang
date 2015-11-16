@@ -1,8 +1,5 @@
 ## active ##
-## meta_update_201503 ##
-## new_doorhanger ##
-## share_cta ##
-## spring_release ##
+## firefox_dev_fall ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/developer
 ## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated. It also won't be localizable inside the product, like "Beta" or "Nightly"
 
@@ -23,10 +20,6 @@ Download Mozilla Firefox, in fergese webbrowser. Firefox is makke troch in wrâl
 
 ;Built for those who build the Web
 Boud foar dyjinge dy't it web bouwe
-
-
-;Introducing the only browser made for developers like you.
-De ienige browser dy't makke is foar ûntwikkelers lykas jo.
 
 
 ;The only browser made for developers like you.
@@ -78,16 +71,28 @@ Firefox Developer Edition bringt jo basishelpmiddelen tegearre mei inkele krêft
 Skermôfbylding
 
 
-;WebVR
-WebVR {ok}
+;Visual Editing Tools
+Fisuele bewurkingshelpmiddelen
 
 
-;Build immersive multi-platform, cross-device Web VR experiences using the technologies that you know &mdash; JavaScript, WebGL, Three.js and more.
-Bou immersive platfoarm- en apparaatûnôfhinklike WebVR-ûnderfiningen fia de technologyen dy't jo kinne &ndash; JavaScript, WebGL, Three.js en mear.
+;Visually edit CSS and HTML animations playing on the page from the Inspector panel. Verify alignment, dimensions and padding of any element using the Ruler and Measurement tools.
+Bewurkje op de side ôfspile CSS- en HTML-animaasjes fisueel fan it Inspector-paniel út. Ferifiearje útlijning, ôfmjittingen en opfolling fan eleminten mei help fan de helpmiddelen Liniaal en Metingen.
 
 
-;Learn more about WebVR
-Lês mear oer WebVR
+;Learn more about Visual Editing Tools
+Lês mear oer Fisuele bewurkingshelpmiddelen
+
+
+;DevTools Challenger
+DevTools Challenger {ok}
+
+
+;Use Developer Edition’s visual animation and CSS editing tools to explore the depths of the ocean and interact with the strangest of creatures.
+Brûk de fisuele helpmiddelen foar animaasje- en CSS-bewurking fan Developer Edition om de djipte fan de oseaan te ferkennen en mei de meast frjemde wezens yn kontakt te kommen.
+
+
+;Try DevTools Challenger
+Probearje DevTools Challenger
 
 
 ;Performance Tools
@@ -263,21 +268,6 @@ Syngronisearje jo nije Developer Edition profyl nei jo Firefox-account foar tago
 # UI Tour: don't add HTML tags in this string
 ;Sync now
 Syngronisearje no
-
-
-# UI Tour: don't add HTML tags in this string
-;Keep your browser in Sync
-Hâld jo browser syngroan
-
-
-# UI Tour: don't add HTML tags in this string
-;Sync your Firefox desktop and mobile browsers to get instant access to your bookmarks, open tabs, passwords and more.
-Syngronisearje jo mobile en desktopferzje fan Firefox foar direkte tagong ta jo blêdwizers, iepene ljepblêden, wachtwurden en mear.
-
-
-# UI Tour: don't add HTML tags in this string
-;Sync my Firefox
-Myn Firefox syngronisearje
 
 
 # UI Tour: don't add HTML tags in this string

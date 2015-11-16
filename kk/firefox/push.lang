@@ -1,4 +1,5 @@
 ## active ##
+## firefox_push_updates ##
 ## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.
 ## NOTE: Demo available at https://www-dev.allizom.org/firefox/push/
 
@@ -16,6 +17,10 @@ Push {ok}
 # Part of <title> tag
 ;Mozilla Firefox Web Browser
 Mozilla Firefox браузері
+
+
+;Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
+Сіз Firefox-та қолданатын веб сайттар сізге экранда көрсетілетін немесе веб парағын жаңартатын хабарламаларды фонда жібере алады. Сіз осы хабарламалар қалай көрсетілетінін және қалай жұмыс істейтінін басқара аласыз.
 
 
 ;What is Push?
@@ -114,18 +119,37 @@ Push рұқсаттарын қалай қайтаруға болады?
 Сайттың сізге хабарламаларды жіберуін тоқтату үшін:
 
 
-;In the URL bar, type <em>about:permissions</em>.
-Адрестік жолақта <em>about:permissions</em> теріңіз.
+;Navigate to <em>Preferences/Options</em>
+<em>Баптауларға</em> өтіңіз
+
+
+;Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
+<em>Құрамасы</em> таңдап, Хабарламалар ішінен <em>Таңдау…</em> басыңыз
 
 
 ;Select the site.
 Сайтты таңдаңыз.
 
 
+;Select <strong>Remove Site</strong>.
+<strong>Сайтты өшіру</strong> таңдаңыз.
+
+
+# Obsolete string, do not remove
+;In the URL bar, type <em>about:permissions</em>.
+Адрестік жолақта <em>about:permissions</em> теріңіз.
+
+
+# Obsolete string, do not remove
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
 <em>Push хабарламаларын алу</em> опциясын <strong>Әрқашан сұрау</strong> етіп орнатыңыз.
 
 
+;How do I disable Push?
+Push-ты қалай сөндіре аламын?
+
+
+# Obsolete string, do not remove
 ;How do I disable Push permanently?
 Мен Push-ты қалай толығымен сөндіре аламын?
 
@@ -142,12 +166,46 @@ Push - әрқашан да Firefox-тың тек қосымша мүмкінді
 Бұл мүмкіндікті толығымен сөндіргіңіз келсе, келесі қадамдарды орындаңыз:
 
 
+;Select <strong>Remove All Sites</strong>.
+<strong>Барлық сайттарды өшіру</strong> таңдаңыз.
+
+
+;Websites will not be able to send you messages and will need to ask your permission to send them in the future.
+Веб сайттар сізге хабарламаларды жібере алмайды және болашақта оларды жібере алу үшін рұқсатыңызды сұрауы тиіс.
+
+
+# Obsolete string, do not remove
 ;Select <em>All Sites</em>.
 <em>Барлық сайттар</em> таңдаңыз.
 
 
+# Obsolete string, do not remove
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
 <em>Push хабарламаларын алу</em> опциясын <strong>Блоктау</strong> етіп орнатыңыз. Веб сайттар сізге хабарламаларды жібере алмайды және Push-қа рұқсатты сұрай алмайды.
+
+
+;What’s New?
+Не жаңалық?
+
+
+;Firefox has delivered on-screen notifications to open web pages for the last several releases.
+Firefox соңғы бірнеше шығарылымдарда веб парақтарды ашу үшін экрандағы хабарламаларды ұсынған.
+
+
+;With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
+Firefox 44 көмегімен пайдаланушылар Push механизмі көмегімен веб парақпен сәйкестелген хабарламаларды өздері сайттан кетсе де, немесе сайт бетін жапса да, ала алады.
+
+
+;With Push, sites can update data in the background even without showing you a notification.
+Push көмегімен, сайттар сізге хабарламаларды көрсетпей-ақ, деректерді фонда жаңарта алады.
+
+
+;If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
+Егер сіз сайтқа хабарламаларды жіберу рұқсатын берсеңіз, ол сайттар бұл Push механизмін де қолдана алатын болады.
+
+
+;If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
+Хабарламалар баптауларын өзгерткіңіз келсе, Баптаулар ішіндегі Құрама>Хабарламалар санатын ашыңыз, немесе сіз алған хабарламалардың біреуінің баптауларын ашыңыз.
 
 
 ;Will this cost me money?

@@ -1,109 +1,111 @@
+## active ##
+## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
 
 ;How Tracking Protection works
-How Tracking Protection works
+추적 방지 기능 동작 방식
 
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
-When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
+방패 아이콘은 Firefox가 여러분을 추적하고있는 콘텐츠를 차단했을 때 표시됩니다.
 
 
 # Obsolete string (used for fx42 beta): do not remove
 ;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-When the shield is visible, it means Firefox is actively blocking page elements that may track you.
+방패 아이콘은 Firefox가 여러분을 추적하고있는 콘텐츠를 차단했을 때 표시됩니다.
 
 
 ;1 of 3
-1 of 3
+1단계
 
 
 ;Next
-Next
+다음
 
 
 ;Differences to expect
-Differences to expect
+콘텐츠를 차단했을 때는
 
 
 ;Some page areas may be missing, because they could allow third parties to track you across different websites.
-Some page areas may be missing, because they could allow third parties to track you across different websites.
+여러 사이트를 넘어 사용자를 추적 할 위험성이있는 콘텐츠를 차단하기 위해 사이트의 일부가 표시되지 않을 수 있습니다.
 
 
 # Obsolete string (used for fx42 beta): do not remove
 ;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Some page areas may be missing because they can allow third-parties to track your browsing behavior.
+일부 페이지에있는 제 3자 추적을 허용하는 내용이 표시되지 않습니다.
 
 
 ;2 of 3
-2 of 3
+2단계
 
 
 ;Want to make changes?
-Want to make changes?
+해제하려면
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
-It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
+"이 세션에서 보호를 해제하기"를 클릭하면 추적 방지 기능을 쉽게 해제 할 수 있습니다.
 
 
 # Obsolete string (used for fx42 beta): do not remove
 ;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
+"이 세션에서 보호를 해제하기"를 클릭하면 추적 방지 기능을 해제 할 수 있습니다.
 
 
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
+반대로 "보호 활성화"를 클릭하면 추적 방지 기능을 쉽게 다시 사용할 수 있습니다.
 
 
 # Obsolete string (used for fx42 beta): do not remove
 ;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
+반대로 "보호 활성화"를 클릭하면 추적 방지 기능을 다시 사용할 수 있습니다.
 
 
 ;3 of 3
-3 of 3
+3단계
 
 
 ;Got it!
-Got it!
+다음에
 
 
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+추적 방지 기능 사생활 보호
 
 
 # Obsolete string (used for fx42 beta): do not remove
 ;Firefox Tracking Protection
-Firefox Tracking Protection
+Firefox 추적 방지 기능
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
-Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
+해제하려면 <a href="%s">개인 정보 설정</a>을 변경하십시오.
 
 
 ;Thanks for learning about the new Private Browsing with Tracking Protection.
-Thanks for learning about the new Private Browsing with Tracking Protection.
+추적 방지 기능을 포함한 새로운 사생활 보호 기능을 배우셨습니다.
 
 
 # Obsolete string (used for fx42 beta): do not remove
 ;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
+추적 방지 기능을 포함한 새로운 사생활 보호 기능을 배우셨습니다.
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
-Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
+추적 방지 기능에 대한 자세한 내용 <a rel="external" href="%s">FAQ </a>를 참조하십시오.
 
 
 ;Restart tour
-Restart tour
+다시 하기
 
 
 # Obsolete string (used for fx42 beta): do not remove
 ;Start the tour again
-Start the tour again
+투어 시작하기
 
 

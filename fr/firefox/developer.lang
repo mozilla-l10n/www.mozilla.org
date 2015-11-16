@@ -1,8 +1,5 @@
 ## active ##
-## meta_update_201503 ##
-## new_doorhanger ##
-## share_cta ##
-## spring_release ##
+## firefox_dev_fall ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/developer
 ## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated. It also won't be localizable inside the product, like "Beta" or "Nightly"
 
@@ -23,10 +20,6 @@ Téléchargez Mozilla Firefox, un navigateur Web gratuit. Firefox est créé par
 
 ;Built for those who build the Web
 Créé pour vous qui créez le Web
-
-
-;Introducing the only browser made for developers like you.
-Voici le tout premier navigateur conçu pour les développeurs.
 
 
 ;The only browser made for developers like you.
@@ -78,16 +71,28 @@ Firefox Developer Edition ajoute à vos outils de développement traditionnels d
 Capture d’écran
 
 
-;WebVR
-WebVR {ok}
+;Visual Editing Tools
+Outils d’édition visuelle
 
 
-;Build immersive multi-platform, cross-device Web VR experiences using the technologies that you know &mdash; JavaScript, WebGL, Three.js and more.
-Créez des applications web de réalité virtuelle, multiplateformes, pour tous les appareils qui utilisent les technologies que vous connaissez &mdash; JavaScript, WebGL, Three.js entre autres.
+;Visually edit CSS and HTML animations playing on the page from the Inspector panel. Verify alignment, dimensions and padding of any element using the Ruler and Measurement tools.
+Modifiez visuellement les animations HTML et CSS d’une page depuis le panneau de l’inspecteur. Vérifiez l’alignement, les dimensions et les marges de n’importe quel élément grâce aux outils de mesure et à la règle intégrée.
 
 
-;Learn more about WebVR
-En savoir plus sur WebVR
+;Learn more about Visual Editing Tools
+En savoir plus sur les outils d’édition visuelle
+
+
+;DevTools Challenger
+DevTools Challenger {ok}
+
+
+;Use Developer Edition’s visual animation and CSS editing tools to explore the depths of the ocean and interact with the strangest of creatures.
+Utilisez les outils d’édition de code CSS ou d’animation inclus dans Firefox Developer Edition pour explorer les fonds marins et interagir avec d’étranges créatures.
+
+
+;Try DevTools Challenger
+Essayer DevTools Challenger
 
 
 ;Performance Tools
@@ -263,21 +268,6 @@ Synchronisez le nouveau profil de Firefox Developer Edition avec votre compte Fi
 # UI Tour: don't add HTML tags in this string
 ;Sync now
 Synchroniser maintenant
-
-
-# UI Tour: don't add HTML tags in this string
-;Keep your browser in Sync
-Synchronisez votre navigateur
-
-
-# UI Tour: don't add HTML tags in this string
-;Sync your Firefox desktop and mobile browsers to get instant access to your bookmarks, open tabs, passwords and more.
-Synchronisez vos navigateurs Firefox pour ordinateur et Firefox pour mobiles afin d’accéder instantanément à vos marque-pages, onglets ouverts, mots de passe et bien plus.
-
-
-# UI Tour: don't add HTML tags in this string
-;Sync my Firefox
-Synchroniser Firefox
 
 
 # UI Tour: don't add HTML tags in this string

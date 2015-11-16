@@ -1,4 +1,5 @@
 ## active ##
+## firefox_push_updates ##
 ## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.
 ## NOTE: Demo available at https://www-dev.allizom.org/firefox/push/
 
@@ -16,6 +17,10 @@ Preguntes més freqüents
 # Part of <title> tag
 ;Mozilla Firefox Web Browser
 Navegador web Mozilla Firefox
+
+
+;Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
+Les pàgines web que utilitzeu amb el Firefox us poden enviar notificacions en segon pla que poden mostrar-se en pantalla o actualitzar la pàgina. Podeu controlar la seva aparença i comportament.
 
 
 ;What is Push?
@@ -114,18 +119,37 @@ Com revoco els permisos del Push?
 Per retirar el permís a un lloc web per enviar-vos missatges:
 
 
-;In the URL bar, type <em>about:permissions</em>.
-A la barra d'adreces, poseu <em>about:permissions</em>.
+;Navigate to <em>Preferences/Options</em>
+Aneu a <em>Preferències/Opcions</em>
+
+
+;Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
+Feu clic a <em>Contingut</em> i, sota Notificacions, seleccioneu <em>Trieu...</em>
 
 
 ;Select the site.
 Seleccioneu el lloc web.
 
 
+;Select <strong>Remove Site</strong>.
+Seleccioneu <strong>Esborra la pàgina</strong>.
+
+
+# Obsolete string, do not remove
+;In the URL bar, type <em>about:permissions</em>.
+A la barra d'adreces, poseu <em>about:permissions</em>.
+
+
+# Obsolete string, do not remove
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
 Poseu el <em>Receive Push Notifications</em> a <strong>Always Ask</strong>.
 
 
+;How do I disable Push?
+Com deshabilito el Push?
+
+
+# Obsolete string, do not remove
 ;How do I disable Push permanently?
 Com desactivo el Push de forma permanent?
 
@@ -142,12 +166,46 @@ Un lloc web no us pot enviar missatges sense el vostre permís.
 Si voleu desactivar completament aquesta característica, feu:
 
 
+;Select <strong>Remove All Sites</strong>.
+Seleccioneu <strong>Esborra totes les pàgines</strong>.
+
+
+;Websites will not be able to send you messages and will need to ask your permission to send them in the future.
+Les pàgines web no us podran enviar missatges i us hauran de demanar permís per fer-ho d'aquí en endavant.
+
+
+# Obsolete string, do not remove
 ;Select <em>All Sites</em>.
 Seleccionaeu <em>All Sites</em>.
 
 
+# Obsolete string, do not remove
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
 Poseu el <em>Receive Push Notifications</em> a <strong>Block</strong>. Els llocs web no us podran enviar missatges, ni demanar-vos permís per a fer-ho.
+
+
+;What’s New?
+Novetats?
+
+
+;Firefox has delivered on-screen notifications to open web pages for the last several releases.
+El Firefox utilitza notificacions en pantalla per obrir pàgines web de fa diverses versions.
+
+
+;With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
+Amb el Firefox 44, els usuaris poden rebre notificacions d'una pàgina web, fins i tot si n'han marxat o han tancat la pestanya, amb un mecanisme anomenat Push.
+
+
+;With Push, sites can update data in the background even without showing you a notification.
+Amb el Push, les pàgines web poden actualitzar dades en segon pla fins i tot sense mostrar-vos cap notificació
+
+
+;If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
+Si ja heu autoritzat una pàgina web a enviar-vos notificacions, podrà utilitzar el mecanisme Push.
+
+
+;If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
+Si voleu canviar les preferències de notificacions, aneu a la secció Contingut>Notificacions de les Opcions o feu clic a les opcions d'una de les notificacions que rebeu.
 
 
 ;Will this cost me money?

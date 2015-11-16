@@ -1,4 +1,5 @@
 ## active ##
+## firefox_push_updates ##
 ## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.
 ## NOTE: Demo available at https://www-dev.allizom.org/firefox/push/
 
@@ -16,6 +17,10 @@ Perguntas frequentes
 # Part of <title> tag
 ;Mozilla Firefox Web Browser
 Navegador Mozilla Firefox
+
+
+;Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
+Os sítios web que utiliza com o Firefox podem enviar-lhe notificações em segundo plano que podem ser apresentadas no ecrã ou atualizar a página web. Pode controlar como estas notificações são apresentadas e como funcionam.
 
 
 ;What is Push?
@@ -114,18 +119,37 @@ Como é que posso revogar permissões Push?
 Para impedir que um sítio lhe envie mensagens push:
 
 
-;In the URL bar, type <em>about:permissions</em>.
-Na barra de endereço, escreva <em>about:permissions</em>.
+;Navigate to <em>Preferences/Options</em>
+Navegar para <em>Preferências/Opções</em>
+
+
+;Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
+Clique em <em>Conteúdo</em> e, nas Notificações, selecione <em>Escolher…</em>
 
 
 ;Select the site.
 Selecione o sítio.
 
 
+;Select <strong>Remove Site</strong>.
+Selecione <strong>Remover sítio</strong>.
+
+
+# Obsolete string, do not remove
+;In the URL bar, type <em>about:permissions</em>.
+Na barra de endereço, escreva <em>about:permissions</em>.
+
+
+# Obsolete string, do not remove
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
 Defina <em>Receber notificações por push</em> para <strong>Perguntar sempre</strong>.
 
 
+;How do I disable Push?
+Como é que desativo o Push?
+
+
+# Obsolete string, do not remove
 ;How do I disable Push permanently?
 Como desativo o Push de forma permanente?
 
@@ -142,12 +166,46 @@ Um sítio não pode enviar-lhe mensagens push sem a sua permissão.
 Se quiser desativar completamente esta funcionalidade, siga os seguintes passos:
 
 
+;Select <strong>Remove All Sites</strong>.
+Selecione <strong>Remover todos os sítios</strong>.
+
+
+;Websites will not be able to send you messages and will need to ask your permission to send them in the future.
+Os sítios web não poderão enviar-lhe mensagens e terão de solicitar a sua permissão no futuro para poderem enviar mensagens.
+
+
+# Obsolete string, do not remove
 ;Select <em>All Sites</em>.
 Selecione <em>Todos os sítios</em>.
 
 
+# Obsolete string, do not remove
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
 Defina <em>Receber notificações por push</em> para <strong>Bloquear</strong>. Sítios web não serão capazes de lhe enviar mensagens ou solicitar acesso para o Push.
+
+
+;What’s New?
+O que há de novo?
+
+
+;Firefox has delivered on-screen notifications to open web pages for the last several releases.
+O Firefox disponibilizou notificações no ecrã para abrir páginas web desde várias versões anteriores.
+
+
+;With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
+Com o Firefox 44 e um mecanismo denominado por Push, os utilizadores poderão receber notificações associadas a uma página web, mesmo que naveguem para fora desse sítio ou fechem o separador.
+
+
+;With Push, sites can update data in the background even without showing you a notification.
+Com o Push, os sítios podem atualizar informação em segundo plano mesmo sem lhe apresentar uma notificação.
+
+
+;If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
+Se já forneceu permissões a um sítio para enviar notificações, estes sítios também poderão utilizar o mecanismo Push.
+
+
+;If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
+Se pretender alterar as preferências de notificações, aceda à secção Conteúdo>Notificações nas Preferências/Opções ou clique nas opções de uma das notificações que receber.
 
 
 ;Will this cost me money?

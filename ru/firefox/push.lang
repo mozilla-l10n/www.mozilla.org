@@ -1,4 +1,5 @@
 ## active ##
+## firefox_push_updates ##
 ## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.
 ## NOTE: Demo available at https://www-dev.allizom.org/firefox/push/
 
@@ -16,6 +17,10 @@ Push {ok}
 # Part of <title> tag
 ;Mozilla Firefox Web Browser
 Веб-браузер Mozilla Firefox
+
+
+;Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
+Веб-сайты, используемые вами в Firefox, могут отправлять вам в фоновом режиме уведомления, которые смогут появляться на экране или обновлять веб-страницу. Вы можете контролировать появление и работу этих уведомлений.
 
 
 ;What is Push?
@@ -114,18 +119,37 @@ Push-сообщения зашифрованы, и их может расшиф�
 Чтобы остановить отправку сайтом push-соообщений:
 
 
-;In the URL bar, type <em>about:permissions</em>.
-В строке адреса наберите <em>about:permissions</em>.
+;Navigate to <em>Preferences/Options</em>
+Перейдите в <em>Настройки</em>
+
+
+;Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
+Щёлкните по <em>Содержимое</em> и в разделе Уведомления нажмите на <em>Выбрать…</em>
 
 
 ;Select the site.
 Выберите сайт.
 
 
+;Select <strong>Remove Site</strong>.
+Выберите <strong>Удалить сайт</strong>.
+
+
+# Obsolete string, do not remove
+;In the URL bar, type <em>about:permissions</em>.
+В строке адреса наберите <em>about:permissions</em>.
+
+
+# Obsolete string, do not remove
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
 Установите <em>Получать Push-уведомления</em> во <strong>Всегда спрашивать</strong>.
 
 
+;How do I disable Push?
+Как мне отключить Push?
+
+
+# Obsolete string, do not remove
 ;How do I disable Push permanently?
 Как мне полностью отключить Push?
 
@@ -142,12 +166,46 @@ Push всегда запрашивает разрешение в Firefox.
 Если вы хотите полностью отключить эту функцию, выполните следующие действия:
 
 
+;Select <strong>Remove All Sites</strong>.
+Выберите <strong>Удалить все сайты</strong>.
+
+
+;Websites will not be able to send you messages and will need to ask your permission to send them in the future.
+Веб-сайты не смогут отправлять вам сообщения и им понадобится запросить у вас разрешение на отправку сообщений в будущем.
+
+
+# Obsolete string, do not remove
 ;Select <em>All Sites</em>.
 Выберите <em>Все сайты</em>.
 
 
+# Obsolete string, do not remove
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
 Установите <em>Получать Push-уведомления</em> в <strong>Блокировать</strong>. Веб-сайты не смогут отправлять вам сообщения или запрашивать доступ к Push.
+
+
+;What’s New?
+Что нового?
+
+
+;Firefox has delivered on-screen notifications to open web pages for the last several releases.
+В течение последних нескольких релизов Firefox отображал уведомления на экране для открытых веб-страниц.
+
+
+;With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
+Начиная с Firefox 44, пользователи смогут получать уведомления, связанные с веб-страницей, даже если они уйдут с сайта или закроют вкладку, с помощью механизма, называемого Push.
+
+
+;With Push, sites can update data in the background even without showing you a notification.
+С Push, сайты смогут обновлять данные в фоновом режиме, даже не показывая вам уведомление.
+
+
+;If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
+Если вы уже дали сайту разрешение на отправку уведомлений, эти сайты также будут иметь возможность использовать этот механизм Push.
+
+
+;If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
+Если вы хотите изменить настройки уведомлений, откройте раздел Содержимое>Уведомления в Настройках или щёлкните по настройкам в одном из полученных вами уведомлений.
 
 
 ;Will this cost me money?

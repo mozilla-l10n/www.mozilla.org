@@ -1,4 +1,5 @@
 ## active ##
+## firefox_push_updates ##
 ## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.
 ## NOTE: Demo available at https://www-dev.allizom.org/firefox/push/
 
@@ -16,6 +17,10 @@ Huste prašenja
 # Part of <title> tag
 ;Mozilla Firefox Web Browser
 Webwobhladowak Mozilla Firefox
+
+
+;Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
+Websydła, kotrež z Firefox wužiwaće, móža wam w pozadku zdźělenki pósłać, kotrež so na wobrazowce jewja abo webstronu aktualizować. Móžeće kontrolować, kak so tute zdźělenki jewja a funguja.
 
 
 ;What is Push?
@@ -114,18 +119,37 @@ Kak móžu dowolnosće za eksterne zdźělenki wotwołać?
 Zo byšće websydło při słanju eksternych zdźělenkow haćił:
 
 
-;In the URL bar, type <em>about:permissions</em>.
-Zapodajće <em>about:permessions</em> do adresoweho pola.
+;Navigate to <em>Preferences/Options</em>
+K <em>Nastajenjam</em> nawigować
+
+
+;Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
+Klikńće na <em>Wobsah</em> a wubjerće pod „Zdźělenki“ <em>Wubrać…</em>
 
 
 ;Select the site.
 Wubjerće sydło.
 
 
+;Select <strong>Remove Site</strong>.
+Wubjerće <strong>Sydło wotstronić</strong>.
+
+
+# Obsolete string, do not remove
+;In the URL bar, type <em>about:permissions</em>.
+Zapodajće <em>about:permessions</em> do adresoweho pola.
+
+
+# Obsolete string, do not remove
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
 Stajće <em>Eksterne zdźělenki přijeć</em> na <strong>Přeco so prašeć</strong>.
 
 
+;How do I disable Push?
+Kak móžu eksterne zdźělenki znjemóžnić?
+
+
+# Obsolete string, do not remove
 ;How do I disable Push permanently?
 Kak móžu eksterne zdźělenki na přeco znjemóžnić?
 
@@ -142,12 +166,46 @@ Sydło njemóže wam eksterne zdźělenki bjez wašeje dowolnosće słać.
 Jeli chceće funkciju dospołnje znjemóžnić, slědujće prošu tele kroki:
 
 
+;Select <strong>Remove All Sites</strong>.
+Wubjerće <strong>Wšě sydła wotstronić</strong>.
+
+
+;Websites will not be able to send you messages and will need to ask your permission to send them in the future.
+Websydła njemóža wam powěsće pósłać a dyrbja was wo dowolnosć prosyć, zo bychu je w přichodźe pósłali.
+
+
+# Obsolete string, do not remove
 ;Select <em>All Sites</em>.
 Wubjerće <em>Wšě websydła</em>.
 
 
+# Obsolete string, do not remove
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
 Stajće <em>Eksterne zdźělenki přijeć</em> na <strong>Blokować</strong>. Websydła njemóža potom wam zdźělenki słać abo wo dowolnosć za eksterne zdźělenki prosyć.
+
+
+;What’s New?
+Što je nowe?
+
+
+;Firefox has delivered on-screen notifications to open web pages for the last several releases.
+Firefox je zdźělenki k dispoziciji stajił, kotrež su widźomne na wobrazowce, zo by webstrony za wjacore zańdźene wersije wočinił.
+
+
+;With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
+Z Firefox 44 móža wužiwarjo zdźělenki přijimać, kotrež su z webstronu zwjazane, samo hdyž wot sydła preč nawiguja abo rajtark přez mechanizm z mjenom Push začinjeja.
+
+
+;With Push, sites can update data in the background even without showing you a notification.
+Z eksternymi zdźělenkami móža sydła daty w pozadku aktualizować, bjez toho zo bychu wam zdźělenku pokazali.
+
+
+;If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
+Jeli sće hižo sydłu dowolnosć dał, zdźělenki pósłać, móža tute sydła tež mechanizm Push wužiwać.
+
+
+;If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
+Jeli chceće nastajenja za zdźělenki změnić, wočińće wotrězk Wobsah > Zdźělenki w nastajenjach abo klikńće na nastajenja w jednej ze zdźělenkow, kotrež přijimaće.
 
 
 ;Will this cost me money?

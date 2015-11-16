@@ -1,8 +1,5 @@
 ## active ##
-## meta_update_201503 ##
-## new_doorhanger ##
-## share_cta ##
-## spring_release ##
+## firefox_dev_fall ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/developer
 ## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated. It also won't be localizable inside the product, like "Beta" or "Nightly"
 
@@ -23,10 +20,6 @@ Llwythwch Mozilla Firefox i lawr, mae'n borwr gwe rhydd a rhad. Mae Firefox wedi
 
 ;Built for those who build the Web
 Wedi ei adeiladu ar gyfer y rhai sy'n adeiladu'r We
-
-
-;Introducing the only browser made for developers like you.
-Dyma'r unig borwr sydd wedi ei wneud ar gyfer datblygwyr fel chi.
 
 
 ;The only browser made for developers like you.
@@ -78,16 +71,28 @@ Mae Firefox Datblygwyr yn crynhoi eich prif offer datblygu mewn un man gyda rhai
 Llun sgrin
 
 
-;WebVR
-WebVR {ok}
+;Visual Editing Tools
+Offer Golygu Gweledol
 
 
-;Build immersive multi-platform, cross-device Web VR experiences using the technologies that you know &mdash; JavaScript, WebGL, Three.js and more.
-Adeiladwch brofiadau WebVR aml blatfform dwfn, croes ddyfais gan ddefnyddio technolegau cyfarwydd &mdash; JavaScript, WebGL, Three.js a mwy.
+;Visually edit CSS and HTML animations playing on the page from the Inspector panel. Verify alignment, dimensions and padding of any element using the Ruler and Measurement tools.
+Gallwch olygu'n weledol animeiddiadau CSS ac HTML sy'n chwarae ar y dudalen o'r panel Archwiliwr. Mae modd gwirio aliniad, dimensiynau a phadio unrhyw elfen gan ddefnyddio'r offer Pren Mesur a Mesur.
 
 
-;Learn more about WebVR
-Dysgu rhagor am WebVR
+;Learn more about Visual Editing Tools
+Dysgu rhagor am yr Offer Golygu Gweledol
+
+
+;DevTools Challenger
+Heriwr Dev Tools
+
+
+;Use Developer Edition’s visual animation and CSS editing tools to explore the depths of the ocean and interact with the strangest of creatures.
+Defnyddiwch offer animeiddio gweledol a golygu CSS Developer Edition i archwilio dyfnder y môr a rhyngweithio gyda'r creaduriaid rhyfeddaf.
+
+
+;Try DevTools Challenger
+Defnyddiwch DevTools Challenger
 
 
 ;Performance Tools
@@ -263,21 +268,6 @@ Cydweddwch eich proffil Developer Edition i'ch Cyfrif Firefox i gael mynediad at
 # UI Tour: don't add HTML tags in this string
 ;Sync now
 Cydweddu nawr
-
-
-# UI Tour: don't add HTML tags in this string
-;Keep your browser in Sync
-Cydweddu eich porwr
-
-
-# UI Tour: don't add HTML tags in this string
-;Sync your Firefox desktop and mobile browsers to get instant access to your bookmarks, open tabs, passwords and more.
-Cydweddwch eich Firefox bwrdd gwaith â phorwyr symudol i gael mynediad uniongyrchol i'ch nodau tudalen, tabiau agored, cyfrineiriau a rhagor.
-
-
-# UI Tour: don't add HTML tags in this string
-;Sync my Firefox
-Cydweddu fy Firefox
 
 
 # UI Tour: don't add HTML tags in this string

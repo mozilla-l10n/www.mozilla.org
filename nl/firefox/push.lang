@@ -1,4 +1,5 @@
 ## active ##
+## firefox_push_updates ##
 ## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.
 ## NOTE: Demo available at https://www-dev.allizom.org/firefox/push/
 
@@ -16,6 +17,10 @@ Veelgestelde vragen
 # Part of <title> tag
 ;Mozilla Firefox Web Browser
 Mozilla Firefox-webbrowser
+
+
+;Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
+Websites die u met Firefox gebruikt, kunnen u op de achtergrond meldingen sturen die op het scherm kunnen verschijnen of de pagina kunnen bijwerken. U kunt instellen hoe deze meldingen verschijnen en werken.
 
 
 ;What is Push?
@@ -71,7 +76,7 @@ Een website kan Push gebruiken om u te allen tijde een bericht te sturen, zelfs 
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-Een website die een bericht naar u stuurt kan uw IP-adres te weten komen als hiervoor wordt gekozen; dit kan uw locatie onthullen.
+Een website die een bericht naar u stuurt, kan uw IP-adres te weten komen als hiervoor wordt gekozen; dit kan uw locatie onthullen.
 
 
 ;What information does Firefox use to provide Push?
@@ -114,18 +119,37 @@ Hoe trek ik Push-machtigingen in?
 Om het verzenden van pushberichten door websites te stoppen:
 
 
-;In the URL bar, type <em>about:permissions</em>.
-Typ <em>about:permissions</em> in de URL-balk.
+;Navigate to <em>Preferences/Options</em>
+Navigeer naar <em>Voorkeuren/Opties</em>.
+
+
+;Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
+Klik op <em>Inhoud</em> en selecteer <em>Kiezen…</em> onder Notificaties.
 
 
 ;Select the site.
 Selecteer de website.
 
 
+;Select <strong>Remove Site</strong>.
+Selecteer <strong>Website verwijderen</strong>.
+
+
+# Obsolete string, do not remove
+;In the URL bar, type <em>about:permissions</em>.
+Typ <em>about:permissions</em> in de URL-balk.
+
+
+# Obsolete string, do not remove
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
 Stel <em>Pushnotificaties ontvangen</em> in op <strong>Altijd vragen</strong>.
 
 
+;How do I disable Push?
+Hoe schakel ik Push uit?
+
+
+# Obsolete string, do not remove
 ;How do I disable Push permanently?
 Hoe schakel ik Push blijvend uit?
 
@@ -142,12 +166,46 @@ Een website kan u geen pushberichten sturen zonder uw toestemming.
 Als u de functie volledig wilt uitschakelen, volg dan deze stappen:
 
 
+;Select <strong>Remove All Sites</strong>.
+Selecteer <strong>Alle websites verwijderen</strong>.
+
+
+;Websites will not be able to send you messages and will need to ask your permission to send them in the future.
+Websites zullen u geen berichten kunnen sturen en in de toekomst om uw toestemming moeten vragen om ze te sturen.
+
+
+# Obsolete string, do not remove
 ;Select <em>All Sites</em>.
 Selecteer <em>Alle websites</em>.
 
 
+# Obsolete string, do not remove
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
 Stel <em>Pushnotificaties ontvangen</em> in op <strong>Blokkeren</strong>. Websites zullen u geen berichten kunnen sturen of toegang tot Push kunnen vragen.
+
+
+;What’s New?
+Wat is er nieuw?
+
+
+;Firefox has delivered on-screen notifications to open web pages for the last several releases.
+Firefox heeft de afgelopen paar versies schermmeldingen voor het openen van webpagina’s afgeleverd.
+
+
+;With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
+Met Firefox 44 kunnen gebruikers meldingen ontvangen die met een webpagina zijn geassocieerd, zelfs als ze de website verlaten of het tabblad sluiten, via een mechanisme dat Push wordt genoemd.
+
+
+;With Push, sites can update data in the background even without showing you a notification.
+Met Push kunnen websites zelfs zonder een melding te tonen gegevens op de achtergrond bijwerken.
+
+
+;If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
+Als u al toestemming voor het sturen van meldingen aan een website hebt gegeven, zullen deze websites dit Push-mechanisme ook kunnen gebruiken.
+
+
+;If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
+Als u voorkeuren voor meldingen wilt wijzigen, open dan de sectie Inhoud>Notificaties in Voorkeuren/Opties, of klik op de opties in een van de meldingen die u ontvangt.
 
 
 ;Will this cost me money?

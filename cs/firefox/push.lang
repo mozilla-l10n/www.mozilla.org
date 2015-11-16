@@ -1,4 +1,5 @@
 ## active ##
+## firefox_push_updates ##
 ## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.
 ## NOTE: Demo available at https://www-dev.allizom.org/firefox/push/
 
@@ -16,6 +17,10 @@ Nabízená upozornění
 # Part of <title> tag
 ;Mozilla Firefox Web Browser
 Webový prohlížeč Mozilla Firefox
+
+
+;Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
+Webové stránky, které ve Firefoxu používáte, vám mohou posílat upozornění na pozadí, která se mohou objevit na obrazovce nebo aktualizovat webovou stránku. Můžete si sami určit, jak tato upozornění budou vypadat a fungovat.
 
 
 ;What is Push?
@@ -114,18 +119,37 @@ Jak mohu nabízená upozornění odmítnout?
 Ukončení zasílání upozornění z vybrané stránky:
 
 
-;In the URL bar, type <em>about:permissions</em>.
-Do panelu pro URL adresu zadejte <em>about:permissions</em>.
+;Navigate to <em>Preferences/Options</em>
+Přejděte do <em>Předvolby/Možnosti</em>
+
+
+;Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
+Klepněte na <em>Obsah</em> a pod nadpisem Upozornění klepněte na tlačítko <em>Vybrat…</em>
 
 
 ;Select the site.
 Vyberte stránku.
 
 
+;Select <strong>Remove Site</strong>.
+Zvolte <strong>Odebrat server</strong>.
+
+
+# Obsolete string, do not remove
+;In the URL bar, type <em>about:permissions</em>.
+Do panelu pro URL adresu zadejte <em>about:permissions</em>.
+
+
+# Obsolete string, do not remove
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
 Nastavte <em>Příjem nabízených upozornění</em> na <strong>Vždy se zeptat</strong>.
 
 
+;How do I disable Push?
+A nabízená upozornění úplně zakázat?
+
+
+# Obsolete string, do not remove
 ;How do I disable Push permanently?
 Jak nabízená upozornění trvale zakázat?
 
@@ -142,12 +166,46 @@ Stránka nemůže odesílat zprávy upozornění bez vašeho svolení.
 Pokud chcete funkci zcela vypnout, postupujte podle následujících kroků:
 
 
+;Select <strong>Remove All Sites</strong>.
+Zvolte <strong>Odebrat všechny servery</strong>.
+
+
+;Websites will not be able to send you messages and will need to ask your permission to send them in the future.
+Webové stránky už vám nebudou moci zasílat zprávy a o povolení budou muset do budoucna znovu požádat.
+
+
+# Obsolete string, do not remove
 ;Select <em>All Sites</em>.
 Vyberte <em>Všechny servery</em>.
 
 
+# Obsolete string, do not remove
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
 Nastavte <em>Příjem nabízených upozornění</em> na <strong>Blokovat</strong>. Webové servery pak nebudou moci vám posílat zprávy ani zažádat o přístup pro nabídku upozornění.
+
+
+;What’s New?
+Co je nového?
+
+
+;Firefox has delivered on-screen notifications to open web pages for the last several releases.
+Posledních několik vydání Firefoxu vám mohou zobrazovat na obrazovce oznámení z webových stránek.
+
+
+;With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
+S Firefoxem 44 mohou uživatele přijímat oznámení spojená s webovými stránkami i poté, co stránku opustili nebo zavřeli panel, pomocí mechanismu nazývaného Nabízená upozornění.
+
+
+;With Push, sites can update data in the background even without showing you a notification.
+S Nabízeným upozorněním mohou stránky aktualizovat data na pozadí i bez zobrazování dalších upozornění.
+
+
+;If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
+Pokud jste již webové stránce dali oprávnění k odesílání zpráv, tyto stránky budou moci používat také tento mechanismus Nabízených upozornění.
+
+
+;If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
+Pokud budete chtít změnit své předvolby pro upozornění, otevřete v Možnostech část Obsah->Upozornění, nebo klepněte na nabízené možnosti v některém ze zobrazených upozornění.
 
 
 ;Will this cost me money?

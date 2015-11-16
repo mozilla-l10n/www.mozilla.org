@@ -1,3 +1,5 @@
+## active ##
+## firefox_push_updates ##
 ## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.
 ## NOTE: Demo available at https://www-dev.allizom.org/firefox/push/
 
@@ -96,6 +98,7 @@ Firefox 데스크톱 푸시 서비스는 Mozilla에 의해 운영되고 있습�
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
 Firefox Android 버전은 사용자의 다른 Android앱과 마찬 가지로 <a href="%s">Google Cloud Messaging</a> 플랫폼을 이용합니다.
 
+
 ;In both cases, the push service cannot decrypt your push messages.
 어느 경우에도 푸시 서비스가 암호화된 푸시 메시지를 풀어볼 수 있습니다.
 
@@ -162,6 +165,7 @@ Firefox에서 푸시 서비스는 직접 설정해야 합니다.
 ;If you wish to disable the feature completely, please follow these steps:
 푸시 기능을 비활성화하려면 다음 단계를 따르십시오 :
 
+
 ;Select <strong>Remove All Sites</strong>.
 <strong>전체 사이트 삭제</strong>를 선택합니다.
 
@@ -222,4 +226,5 @@ Firefox 44에서 사용자가 웹 사이트를 나오거나 탭을 닫을 경우
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
 <a href="%s">Push API 상세 소개</a>에서 Service Worker의 구현 방법과 푸시 알림 보내는 방법을 배울 수 있습니다.
+
 

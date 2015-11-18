@@ -20,18 +20,18 @@ iOS <span>uchun</span>
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OS {ok}
+OT
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-Kompyuter va notebooklar uchun
+Kompyuter va noutbuklar uchun
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-Telefonlar va planshetlar uchun
+Telefon va planshetlar uchun
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -76,7 +76,7 @@ Ilova dasturlar
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Kuzatmang
+"Kuzatilmasin" xizmati
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -117,7 +117,7 @@ Dasturchilar uchun
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Qurilmamni topish
+"Qurilmamni topish" xizmati
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -168,7 +168,7 @@ tilni o‘zgartirish
 
 
 ;Back to home page
-Uy sahifasiga qaytish
+Bosh sahifaga qaytish
 
 
 ;About Mozilla
@@ -176,7 +176,7 @@ Mozilla haqida
 
 
 ;Get Involved
-Jamiyatga qo‘shiling
+Jamiyatga qo‘shilish
 
 
 ;Careers
@@ -243,7 +243,7 @@ Yuqoriga qaytish
 
 
 ;Features
-Imkoniyatlari
+Xususiyatlar
 
 
 ;Customize
@@ -268,7 +268,7 @@ MB {ok}
 
 
 ;MegaBytes
-MegaBytes {ok}
+Megabayt
 
 
 ;FAQ
@@ -301,17 +301,17 @@ Qo‘shimcha dasturlar bilan moslang
 
 
 ;Learn More
-Ko‘proq o‘rganish
+Batafsil ma’lumot
 
 
 # Same as previous above but with no capitalization on More
 ;Learn more
-Ko‘proq o‘rganish
+Batafsil ma’lumot
 
 
 # Link used to play again an animation or a video
 ;Replay
-Takrorlash
+Qayta ko‘rish
 
 
 ;Watch the video
@@ -327,7 +327,7 @@ Videoni bo‘lishish
 
 
 ;WebM format
-WebM format {ok}
+WebM formati
 
 
 ;Ogg Theora format
@@ -335,7 +335,7 @@ Ogg Theora format {ok}
 
 
 ;MPEG-4 format
-MPEG-4 format {ok}
+MPEG-4 formati
 
 
 ;Mobile
@@ -351,7 +351,7 @@ To‘liq saytni ko‘rish
 
 
 ;Download for <span>Android</span>
-<span>Android</span> uchun yuklab oling
+<span>Android</span> uchun yuklab olish
 
 
 ;Desktop
@@ -387,11 +387,11 @@ Siz yangilashni o‘rnatishingiz kerak! Ko‘pi bilan bir daqiqada xavfsizliging
 
 
 ;Upgrade now
-Hoziroq yangilang
+Yangi versiyasini o‘rnatish
 
 
 ;Update now
-Hoziroq yangilang
+Hoziroq yangilash
 
 
 ;Supported Devices
@@ -420,7 +420,7 @@ Ushbu saytga hissa qo‘shish
 
 # Footer string
 ;Contribute to this page
-Loyihada ishtirok etish
+Ushbu sahifaga hissa qo‘shish
 
 
 # Top menu item
@@ -440,7 +440,7 @@ Biz bilan hamkorlik qilish
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sinx
+Sinxronlash
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -450,7 +450,7 @@ Kompyuter uchun qo‘shimcha dasturlar
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android qo‘shimcha dasturlari
+Android uchun qo‘shimcha dasturlar
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -460,7 +460,7 @@ Mavzular
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Kompyuter uchun moslik
+Kompyuter uchun yordam xizmati
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -505,7 +505,7 @@ Mobil qurilmalar uchun qo‘shimcha dasturlar
 
 # Top menu item on firefox/update page
 ;Mobile Support
-Mobil telefonlarga moslik
+Mobil qo‘llab-quvvatlash
 
 
 # Top menu item on firefox/update page
@@ -761,7 +761,7 @@ Matn
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -785,7 +785,7 @@ E-POCHTA MANZILINGIZ
 
 # Subscription Button
 ;Sign me up
-Yozilish
+Obuna bo‘lish
 
 
 ;Select country

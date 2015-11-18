@@ -20,18 +20,18 @@ iOS <span>uchun</span>
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OT
+OS {ok}
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-Kompyuter va noutbuklar uchun
+Kompyuter va notebooklar uchun
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-Telefon va planshetlar uchun
+Telefonlar va planshetlar uchun
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -76,7 +76,7 @@ Ilova dasturlar
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-"Kuzatilmasin" xizmati
+Kuzatmang
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -117,7 +117,7 @@ Dasturchilar uchun
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-"Qurilmamni topish" xizmati
+Qurilmamni topish
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -168,7 +168,7 @@ tilni o‘zgartirish
 
 
 ;Back to home page
-Bosh sahifaga qaytish
+Uy sahifasiga qaytish
 
 
 ;About Mozilla
@@ -176,7 +176,7 @@ Mozilla haqida
 
 
 ;Get Involved
-Jamiyatga qo‘shilish
+Jamiyatga qo‘shiling
 
 
 ;Careers
@@ -243,7 +243,7 @@ Yuqoriga qaytish
 
 
 ;Features
-Xususiyatlar
+Imkoniyatlari
 
 
 ;Customize
@@ -268,7 +268,7 @@ MB {ok}
 
 
 ;MegaBytes
-Megabayt
+MegaBytes {ok}
 
 
 ;FAQ
@@ -301,17 +301,17 @@ Qo‘shimcha dasturlar bilan moslang
 
 
 ;Learn More
-Batafsil ma’lumot
+Ko‘proq o‘rganish
 
 
 # Same as previous above but with no capitalization on More
 ;Learn more
-Batafsil ma’lumot
+Ko‘proq o‘rganish
 
 
 # Link used to play again an animation or a video
 ;Replay
-Qayta ko‘rish
+Takrorlash
 
 
 ;Watch the video
@@ -327,7 +327,7 @@ Videoni bo‘lishish
 
 
 ;WebM format
-WebM formati
+WebM format {ok}
 
 
 ;Ogg Theora format
@@ -335,7 +335,7 @@ Ogg Theora format {ok}
 
 
 ;MPEG-4 format
-MPEG-4 formati
+MPEG-4 format {ok}
 
 
 ;Mobile
@@ -351,7 +351,7 @@ To‘liq saytni ko‘rish
 
 
 ;Download for <span>Android</span>
-<span>Android</span> uchun yuklab olish
+<span>Android</span> uchun yuklab oling
 
 
 ;Desktop
@@ -387,11 +387,11 @@ Siz yangilashni o‘rnatishingiz kerak! Ko‘pi bilan bir daqiqada xavfsizliging
 
 
 ;Upgrade now
-Yangi versiyasini o‘rnatish
+Hoziroq yangilang
 
 
 ;Update now
-Hoziroq yangilash
+Hoziroq yangilang
 
 
 ;Supported Devices
@@ -420,7 +420,7 @@ Ushbu saytga hissa qo‘shish
 
 # Footer string
 ;Contribute to this page
-Ushbu sahifaga hissa qo‘shish
+Loyihada ishtirok etish
 
 
 # Top menu item
@@ -440,7 +440,7 @@ Biz bilan hamkorlik qilish
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sinxronlash
+Sinx
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -450,7 +450,7 @@ Kompyuter uchun qo‘shimcha dasturlar
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android uchun qo‘shimcha dasturlar
+Android qo‘shimcha dasturlari
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -460,7 +460,7 @@ Mavzular
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Kompyuter uchun yordam xizmati
+Kompyuter uchun moslik
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -505,7 +505,7 @@ Mobil qurilmalar uchun qo‘shimcha dasturlar
 
 # Top menu item on firefox/update page
 ;Mobile Support
-Mobil qo‘llab-quvvatlash
+Mobil telefonlarga moslik
 
 
 # Top menu item on firefox/update page
@@ -785,7 +785,7 @@ E-POCHTA MANZILINGIZ
 
 # Subscription Button
 ;Sign me up
-Obuna bo‘lish
+Yozilish
 
 
 ;Select country

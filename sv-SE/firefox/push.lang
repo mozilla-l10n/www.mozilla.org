@@ -34,11 +34,11 @@ Webbplatser kan använda den här funktionen för att förse dig med meddelanden
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+En webbmejls webbplats kan till exempel använda Push för att ge dig en avisering när nya meddelanden tas emot eller en webbplats kan använda Push för att ge stormvarningar.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Du kommer endast att ta emot meddelanden från webbplatser som du har godkänt.
 
 
 ;How does it work?
@@ -46,35 +46,35 @@ Hur fungerar det?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+Firefox har en anslutning till en push-tjänst.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Webbplatser som du har godkänt för Push kan använda tjänsten för att skicka meddelanden till dig.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+Firefox levererar detta push-meddelande till en liten del av JavaScript, en så kallad “arbetare”.
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+Arbetaren behandlar sedan meddelandet.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+Den kan besluta att visa en visuell avisering eller lagra meddelandet för senare användning.
 
 
 ;What information do I share with a site?
-What information do I share with a site?
+Vilken information delar jag med en webbplats?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+En webbplats kan använda Push för att skicka ett meddelande när som helst, även om du inte aktivt besöker den.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
+En webbplats som skickar ett meddelande kan lära sig din IP-adress om den väljer att göra det; detta kan avslöja din position.
 
 
 ;What information does Firefox use to provide Push?

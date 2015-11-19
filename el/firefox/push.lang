@@ -1,4 +1,5 @@
 ## active ##
+## firefox_push_updates ##
 ## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.
 ## NOTE: Demo available at https://www-dev.allizom.org/firefox/push/
 
@@ -19,7 +20,7 @@ Push {ok}
 
 
 ;Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
-Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
+Οι ιστοσελίδες που επισκέπτεστε με τον Firefox μπορούν να σας στέλνουν ειδοποιήσεις στο παρασκήνιο και αυτές να εμφανίζονται στην οθόνη ή να ενημερώνουν την ιστοσελίδα. Μπορείτε να ρυθμίσετε το πως θα εμφανίζονται και πως θα λειτουργούν αυτές οι ειδοποιήσεις.
 
 
 ;What is Push?
@@ -27,7 +28,7 @@ Websites you use with Firefox can send you notifications in the background that 
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Το Push είναι ένα προαιρετικό χαρακτηριστικό που δίνει σε ιστοσελίδες τη δυνατότητα να σας στέλνουν μηνύματα ακόμα και όταν δε βρίσκεστε σε αυτές.
+Η υπηρεσία Push είναι ένα προαιρετικό χαρακτηριστικό που δίνει σε ιστοσελίδες τη δυνατότητα να σας στέλνουν μηνύματα ακόμα και όταν δε βρίσκεστε σε αυτές.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
@@ -35,7 +36,7 @@ Websites you use with Firefox can send you notifications in the background that 
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-Για παράδειγμα, μια ιστοσελίδα ηλεκτρονικού ταχυδρομείου μπορεί να χρησιμοποιεί το χαρακτηριστικό Push για να σας ειδοποιεί όταν έχετε νέο email, ή μια ιστοσελίδα που ενημερώνει για τον καιρό μπορεί να χρησιμοποιήσει το Push για να σας ειδοποιήσει για μια καταιγίδα.
+Για παράδειγμα, μια ιστοσελίδα ηλεκτρονικού ταχυδρομείου μπορεί να χρησιμοποιεί την υπηρεσία Push για να σας ειδοποιεί όταν έχετε νέο email, ή μια ιστοσελίδα που ενημερώνει για τον καιρό μπορεί να χρησιμοποιήσει το Push για να σας ειδοποιήσει για μια καταιγίδα.
 
 
 ;You will only receive messages from sites for which you have granted permission.
@@ -59,7 +60,7 @@ Websites you use with Firefox can send you notifications in the background that 
 
 
 ;The worker then processes the message.
-Στη συνέχεια ο worker επεξεργάζεται το μήνυμα.
+Στη συνέχεια το χαρακτηριστικό αυτό επεξεργάζεται το μήνυμα.
 
 
 ;It might decide to show a visual notification or store the message for later use.
@@ -71,15 +72,15 @@ Websites you use with Firefox can send you notifications in the background that 
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-Μια ιστοσελίδα μπορεί να χρησιμοποιήσει το Push για να σας στείλει κάποιο μήνυμα οποιαδήποτε στιγμή, ακόμα και όταν δεν βρίσκεστε σε αυτή.
+Μια ιστοσελίδα μπορεί να χρησιμοποιήσει την υπηρεσία Push για να σας στείλει κάποιο μήνυμα οποιαδήποτε στιγμή, ακόμα και όταν δεν βρίσκεστε σε αυτή.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
-Μια ιστοσελίδα που σας στέλνει μήνυμα μπορεί να γνωρίζει την IP διεύθυνσή σας αν επιθυμεί: αυτό μπορεί να αποκαλύψει και την τοποθεσία σας.
+Μια ιστοσελίδα που σας στέλνει μήνυμα μπορεί να γνωρίζει την διεύθυνσή IP σας αν επιθυμεί: αυτό μπορεί να αποκαλύψει και την τοποθεσία σας.
 
 
 ;What information does Firefox use to provide Push?
-Τι πληροφορίες χρησιμοποιεί ο Firefox για την παροχή του Push;
+Τι πληροφορίες χρησιμοποιεί ο Firefox για την παροχή της υπηρεσίας Push;
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
@@ -87,7 +88,7 @@ Websites you use with Firefox can send you notifications in the background that 
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
-Στους διακομιστές μας αποθηκεύουμε έναν τυχαίο αριθμό ταυτοποίησης που αντιστοιχεί στον περιηγητή σας, παράλληλα με έναν τυχαίο αριθμό ταυτοποίησης για κάθε ιστοσελίδα που έχετε εξουσιοδοτήσει.
+Στους διακομιστές μας αποθηκεύουμε ένα τυχαίο αναγνωριστικό που αντιστοιχεί στον περιηγητή σας, παράλληλα με ένα τυχαίο αναγνωριστικό για κάθε ιστοσελίδα που έχετε εξουσιοδοτήσει.
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
@@ -111,7 +112,7 @@ Websites you use with Firefox can send you notifications in the background that 
 
 
 ;How do I revoke Push permissions?
-Πως ανακαλώ την εξουσιοδότηση του Push;
+Πως ανακαλώ την εξουσιοδότηση της υπηρεσίας Push;
 
 
 ;To stop a site from sending you push messages:
@@ -119,11 +120,11 @@ Websites you use with Firefox can send you notifications in the background that 
 
 
 ;Navigate to <em>Preferences/Options</em>
-Navigate to <em>Preferences/Options</em>
+Πηγαίνετε στις <em>Προτιμήσεις/Επιλογές</em>
 
 
 ;Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
-Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
+Κάντε κλικ στο <em>Περιεχόμενο</em>, και στις Ειδοποιήσεις πατήστε <em>Επιλογή…</em>
 
 
 ;Select the site.
@@ -131,7 +132,7 @@ Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
 
 
 ;Select <strong>Remove Site</strong>.
-Select <strong>Remove Site</strong>.
+Επιλέξτε <strong>Απομάκρυνση ιστοσελίδας</strong>.
 
 
 # Obsolete string, do not remove
@@ -145,7 +146,7 @@ Select <strong>Remove Site</strong>.
 
 
 ;How do I disable Push?
-How do I disable Push?
+Πως απενεργοποιώ την υπηρεσία Push?
 
 
 # Obsolete string, do not remove
@@ -154,7 +155,7 @@ How do I disable Push?
 
 
 ;Push is always opt-in in Firefox.
-Το Push είναι πάντοτε προαιρετικό για τον Firefox.
+Η υπηρεσία Push είναι πάντοτε προαιρετική για τον Firefox.
 
 
 ;A site cannot send you push messages without your permission.
@@ -162,15 +163,15 @@ How do I disable Push?
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-Αν επιθυμείτε να απενεργοποιήσετε πλήρως το χαρακτηριστικό, ακολουθήστε τα παρακάτω βήματα:
+Αν επιθυμείτε να απενεργοποιήσετε πλήρως την υπηρεσία, ακολουθήστε τα παρακάτω βήματα:
 
 
 ;Select <strong>Remove All Sites</strong>.
-Select <strong>Remove All Sites</strong>.
+Επιλέξτε <strong>Απομάκρυνση όλων των ιστοσελίδων</strong>.
 
 
 ;Websites will not be able to send you messages and will need to ask your permission to send them in the future.
-Websites will not be able to send you messages and will need to ask your permission to send them in the future.
+Οι ιστοσελίδες δε θα μπορούν να σας στέλνουν μηνύματα και θα χρειάζεται η εξουσιοδότησή σας στο μέλλον.
 
 
 # Obsolete string, do not remove
@@ -184,27 +185,27 @@ Websites will not be able to send you messages and will need to ask your permiss
 
 
 ;What’s New?
-What’s New?
+Τι νέο υπάρχει;
 
 
 ;Firefox has delivered on-screen notifications to open web pages for the last several releases.
-Firefox has delivered on-screen notifications to open web pages for the last several releases.
+Ο Firefox εμφάνιζε ειδοποιήσεις από τις ανοιχτές ιστοσελίδες στις πιο πρόσφατες εκδόσεις του.
 
 
 ;With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
-With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
+Με τον Firefox 44, οι χρήστες μπορούν να λαμβάνουν ειδοποιήσεις από κάποια ιστοσελίδα μέσω της υπηρεσίας Push ακόμα και αν δεν βρίσκονται σε αυτήν ή έχουν κλείσει την καρτέλα της.
 
 
 ;With Push, sites can update data in the background even without showing you a notification.
-With Push, sites can update data in the background even without showing you a notification.
+Με την υπηρεσία Push, οι ιστοσελίδες μπορούν να ενημερώνουν τα δεδομένα στο παρασκήνιο, ακόμα και αν δεν εμφανίζουν κάποια ειδοποίηση.
 
 
 ;If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
-If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
+Αν έχετε εξουσιοδοτήσει ήδη μια ιστοσελίδα για να σας στέλνει ειδοποιήσεις, τότε αυτές οι ιστοσελίδες μπορούν να χρησιμοποιήσουν την υπηρεσία Push.
 
 
 ;If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
-If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
+Αν επιθυμείτε να αλλάξετε τις προτιμήσεις των ειδοποιήσεων, πλοηγηθείτε στην ενότητα Περιεχόμενο>Ειδοποιήσεις στο μενού Προτιμήσεις/Επιλογές ή κάντε κλικ στις ρυθμίσεις όταν εμφανίζεται μια ειδοποίηση.
 
 
 ;Will this cost me money?
@@ -212,7 +213,7 @@ If you wish to change notifications preferences, open the Content>Notifications 
 
 
 ;Push uses a small amount of data to operate.
-Το Push χρησιμοποιεί ελάχιστα δεδομένα προκειμένου να λειτουργήσει.
+Η υπηρεσία Push χρησιμοποιεί ελάχιστα δεδομένα προκειμένου να λειτουργήσει.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.
@@ -220,7 +221,7 @@ If you wish to change notifications preferences, open the Content>Notifications 
 
 
 ;How do I add Push to my web site?
-Πως χρησιμοποιώ το Push στην ιστοσελίδα μου;
+Πως χρησιμοποιώ την υπηρεσία Push στην ιστοσελίδα μου;
 
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.

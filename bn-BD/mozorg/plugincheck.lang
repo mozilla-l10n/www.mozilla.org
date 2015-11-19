@@ -3,12 +3,12 @@
 
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
-Keep your Firefox healthy with a quick checkup
+দ্রুত পরীক্ষা করার মাধ্যমে আপনার ফায়ারফক্সকে সুস্থ রাখুন
 
 
 # Used as page description in HTML meta tag
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
+Flash? QuickTime? Java ব্যবহার করেন? যদি এগুলো আপনি ব্যবহার করে থাকেন তাহলে আপনার ফায়ারফক্স ব্যবহারের অভিজ্ঞতাকে আরও চমকপ্রদ করুন, আপনার প্লাগইন পরীক্ষা করুন! তাদের হালনাগাদ করার প্রয়োজন হতে পারে।
 
 
 # Old page <title> tag
@@ -53,7 +53,7 @@ Use Flash? QuickTime? Java? If you use these to make your Firefox experience mor
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+সেকেলে
 
 
 # Main title
@@ -66,12 +66,12 @@ outdated
 
 
 ;Currently the plugin check service is only available to Firefox users.
-Currently the plugin check service is only available to Firefox users.
+বর্তমানে প্লাগইন পরীক্ষা পরিষেবা শুধুমাত্র ফায়ারফক্স ব্যবহারকারীদের জন্য প্রযোজ্য।
 
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
-Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
+প্লাগইন সবসময় স্বয়ংক্রিয়ভাবে হালনাগাদ হয় না। নিরাপদ থাকুন এবং নিরবিচ্ছিন্নভাবে ব্রাউজ করতে এখনি পরীক্ষা করুন!
 
 
 ;Looks like you’re using an older version of Firefox.
@@ -83,7 +83,7 @@ Plugins don’t always update automatically. Check yours now to stay safe and br
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+কোন প্লাগইন পাওয়া যায়নি। যদি আপনি বিশ্বাস করেন এইটা একটা ত্রুটি, <a href="%(bugzilla_url)s">একটি বাগ ফাইল করে</a> আমাদের জানান।
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -168,7 +168,7 @@ No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)
 
 # alt image
 ;Screenshot of Add-Ons manager
-Screenshot of Add-Ons manager
+অ্যাড-অন ম্যানেজারের স্ক্রিনশট
 
 
 ;How can Firefox help me?
@@ -188,11 +188,11 @@ Screenshot of Add-Ons manager
 
 
 ;Want to spread the word?
-Want to spread the word?
+এই কথাটি ছড়িয়ে দিতে চান?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+আপনার বন্ধুদের অনলাইনে নিরাপদ থাকতে সাহায্য করুন! আপনার সাইটের জন্য একটি প্লাগইন পরীক্ষা ব্যাজ পেতে <a href="%(url)s">Firefox Affiliates</a> পরিদর্শন করুন।
 
 
 ;How do I disable a plugin?
@@ -209,7 +209,7 @@ Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</
 
 # If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 ;Open the <span class="menu">menu</span>.
-Open the <span class="menu">menu</span>.
+<span class="menu">মেনু</span> খুলুন।
 
 
 ;Choose Add-ons.
@@ -221,7 +221,7 @@ Open the <span class="menu">menu</span>.
 
 
 ;Click on the drop down next to the plugin you wish to disable.
-Click on the drop down next to the plugin you wish to disable.
+প্লাগইন নিষ্ক্রিয় করতে ইচ্ছুক হলে পাশের ড্রপডাউনের উপর ক্লিক করুন।
 
 
 ;Click on a plugin in the list.

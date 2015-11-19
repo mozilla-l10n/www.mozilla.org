@@ -3,7 +3,7 @@
 
 # Used for HTML title attribute
 ;Volunteer Opportunities at Mozilla
-Volunteer Opportunities at Mozilla
+মজিলায় স্বেচ্ছাসেবক হওয়ার সুযোগ
 
 
 # this string is used for accessibility reasons, it's not visible in the page
@@ -13,12 +13,12 @@ Volunteer Opportunities at Mozilla
 
 # this br is for formatting, omit or reposition as needed
 ;Why<br> volunteer
-Why<br> volunteer
+স্বেচ্ছাসেবক<br> কেন হবেন
 
 
 # this br is for formatting, omit or reposition as needed
 ;Find<br> an event
-Find<br> an event
+অনুষ্ঠান<br> খুঁজুন
 
 
 # this br is for formatting, omit or reposition as needed
@@ -31,7 +31,7 @@ Meet<br> Mozillians
 
 
 ;Your country
-Your country
+আপনার দেশ
 
 
 # This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
@@ -45,12 +45,12 @@ Volunteer with Mozilla!
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians worldwide
-active Mozillians worldwide
+বিশ্বব্যাপী সক্রিয় মজিলিয়ান
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events around the globe
-upcoming events around the globe
+বিশ্বের আঁনাচে কাঁনাচে আসন্ন অনুষ্ঠানসমূহ
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
@@ -86,7 +86,7 @@ See our community in action
 
 
 ;How Mozillians help every day
-How Mozillians help every day
+কিভাবে মজিলিয়ানরা নিত্যদিন সহযোগিতা করে
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
@@ -110,7 +110,7 @@ India &middot; Teaching
 
 
 ;Read his story
-Read his story
+তার গল্প পড়ুন
 
 
 ;Read her story
@@ -118,7 +118,7 @@ Read her story
 
 
 ;Want to get involved? Here’s how.
-Want to get involved? Here’s how.
+সম্পৃক্ত হতে ইচ্ছুক? কিভাবে এখানে দেখুন।
 
 
 ;Choose what interests you and tell us how you’d like to help
@@ -134,7 +134,7 @@ Create your Mozillians account and share your contributions with the world
 
 
 ;Get started
-Get started
+শুরু করুন
 
 
 ;Not ready to dive in just yet?
@@ -146,7 +146,7 @@ Here are a few other ways you can support Mozilla right now.
 
 
 ;Donate to Mozilla
-Donate to Mozilla
+মজিলায় অনুদান দিন
 
 
 ;Read our Manifesto
@@ -154,15 +154,15 @@ Read our Manifesto
 
 
 ;Like us on Facebook
-Like us on Facebook
+ফেসবুকে আমাদের লাইক দিন
 
 
 ;Follow us on Twitter
-Follow us on Twitter
+টুইটারে আমাদের অনুসরণ করুন
 
 
 ;Upcoming event
-Upcoming event
+আসন্ন অনুষ্ঠানসমূহ
 
 
 ;See all events
@@ -170,7 +170,7 @@ Upcoming event
 
 
 ;Communicate
-Communicate
+যোগাযোগ করুন
 
 
 ;Mozilla communities
@@ -178,19 +178,19 @@ Mozilla communities
 
 
 ;Mailing lists
-Mailing lists
+মেইলিং লিস্ট
 
 
 ;IRC channels
-IRC channels
+IRC চ্যানেল
 
 
 ;More links
-More links
+আরও লিংক
 
 
 ;Submit Firefox feedback
-Submit Firefox feedback
+ফায়ারফক্স প্রতিক্রিয়া জমা দিন
 
 
 ;Explore Mozilla careers
@@ -216,16 +216,16 @@ Get community updates
 
 # Used as a toggle to display more content.
 ;More
-More
+আরও
 
 
 # Used as a toggle to display less content.
 ;Less
-Less
+কম
 
 
 ;Read more Mozillian stories
-Read more Mozillian stories
+মজিলিয়ানদের আরও গল্প পড়ুন
 
 
 ;Discover even more stories on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
@@ -233,7 +233,7 @@ Discover even more stories on Twitter with <a href="%(link_hashtag)s">#IAmAMozil
 
 
 ;More coming soon
-More coming soon
+শীঘ্রই আরও আসছে
 
 
 # Used as title of the /signup sub-page
@@ -259,7 +259,7 @@ Where would you like to get started?
 
 
 ;More about coding
-More about coding
+কোডিং সর্ম্পকে আরও তথ্য
 
 
 ;Contribute code to a whole range of Mozilla products, including Firefox and Firefox OS.
@@ -291,7 +291,7 @@ Lend your voice to Mozilla — from blogging and social media to providing techn
 
 
 ;Teaching
-Teaching
+শিক্ষাদান
 
 
 ;More about teaching
@@ -307,7 +307,7 @@ Helping
 
 
 ;More about helping
-More about helping
+সাহায্য সম্পর্কে আরও তথ্য
 
 
 ;Provide support to users who need it and help everyone get the most out of their Mozilla products.
@@ -319,7 +319,7 @@ Translating
 
 
 ;More about translating
-More about translating
+অনুবাদ সম্পর্কে আরও তথ্য
 
 
 ;Help make Mozilla stuff available in other languages. Translate everything from newsletters and websites to copy for Firefox and Firefox OS.
@@ -327,11 +327,11 @@ Help make Mozilla stuff available in other languages. Translate everything from 
 
 
 ;Activism
-Activism
+আন্দোলন
 
 
 ;More about activism
-More about activism
+আন্দোলন সম্পর্কে আরও তথ্য
 
 
 ;Get involved with our opportunities to support freedom, security and privacy on the open Web.
@@ -339,11 +339,11 @@ Get involved with our opportunities to support freedom, security and privacy on 
 
 
 ;I don’t know
-I don’t know
+আমি জানি না
 
 
 ;More about how you can contribute
-More about how you can contribute
+আপনি কিভাবে অবদান রাখতে পারেন তা সম্পর্কে আরও তথ্য
 
 
 ;Not sure how you want to help? No problem. We can find the appropriate contribution activity for you.
@@ -351,15 +351,15 @@ Not sure how you want to help? No problem. We can find the appropriate contribut
 
 
 ;Now tell us a little about yourself:
-Now tell us a little about yourself:
+এখন নিজের সম্পর্কে একটু বলুন:
 
 
 ;Name
-Name
+নাম
 
 
 ;Email address
-Email address
+ইমেইল ঠিকানা‌
 
 
 ;Country
@@ -367,15 +367,15 @@ Country
 
 
 ;select
-select
+নির্বাচন
 
 
 ;Why do you want to be a Mozilla volunteer?
-Why do you want to be a Mozilla volunteer?
+কেন আপনি মজিলার স্বেচ্ছাসেবক হতে ইচ্ছুক?
 
 
 ;(Optional)
-(Optional)
+(ঐচ্ছিক)
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
@@ -383,11 +383,11 @@ I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">t
 
 
 ;Start contributing
-Start contributing
+অবদান রাখা শুরু করুন
 
 
 ;Sign me up for community updates
-Sign me up for community updates
+কমিউনিটি খবরাখবরের জন্য আমাকে সাইন আপ করুন
 
 
 ;(English)
@@ -399,23 +399,23 @@ What particular area?
 
 
 ;What would you like to code?
-What would you like to code?
+আপনি কি কোড করতে ইচ্ছুক?
 
 
 ;What would you like to test?
-What would you like to test?
+আপনি কি পরীক্ষা করতে ইচ্ছুক?
 
 
 ;What would you like to translate?
-What would you like to translate?
+আপনি কি অনুবাদ করতে ইচ্ছুক?
 
 
 ;What would you like to write?
-What would you like to write?
+আপনি কি লিখতে ইচ্ছুক?
 
 
 ;What would you like to teach?
-What would you like to teach?
+আপনি কি শিখাতে ইচ্ছুক?
 
 
 ;Firefox
@@ -431,35 +431,35 @@ Websites
 
 
 ;Firefox add-ons
-Firefox add-ons
+ফায়ারফক্স অ্যাড-অন
 
 
 ;HTML5 apps
-HTML5 apps
+HTML5 অ্যাপ
 
 
 ;Diagnosing Web compatibility issues
-Diagnosing Web compatibility issues
+ওয়েব কম্প্যাটিবিলিটি সমস্যাগুলো নির্ণয় করুন
 
 
 ;Online services
-Online services
+অনলাইন পরিষেবা
 
 
 ;Firefox and Firefox OS
-Firefox and Firefox OS
+ফায়ারফক্স ও ফায়ারফক্স ওএস
 
 
 ;Web compatibility
-Web compatibility
+ওয়েব কম্প্যাটিবিলিটি
 
 
 ;Product localization
-Product localization
+পণ্য লোকালাইজেশন
 
 
 ;Website localization
-Website localization
+ওয়েবসাইট লোকালাইজেশন
 
 
 ;I’d like to work on localization tools
@@ -467,31 +467,31 @@ I’d like to work on localization tools
 
 
 ;Social media
-Social media
+সামাজিক যোগাযোগ মাধ্যম
 
 
 ;Journalism
-Journalism
+সাংবাদিকতা
 
 
 ;Technical docs for users
-Technical docs for users
+ব্যবহারকারীদের জন্য প্রযুক্তিগত নথি
 
 
 ;Technical docs for developers
-Technical docs for developers
+ডেভেলপারদের জন্য কারিগরী নথি
 
 
 ;Technical docs for Firefox add-ons
-Technical docs for Firefox add-ons
+ফায়ারফক্স অ্যাড-অন এর জন্যে কারিগরী নথি
 
 
 ;Technical docs for HTML5 apps
-Technical docs for HTML5 apps
+HTML5 অ্যাপের জন্য কারিগরী নথি
 
 
 ;Teach the Web (Webmaker)
-Teach the Web (Webmaker)
+ওয়েব সম্পর্কে শিক্ষাদান (ওয়েবমেকার)
 
 
 ;Open News fellowships
@@ -503,7 +503,7 @@ Hive - Community networks of educators/mentors
 
 
 ;Open Web science research
-Open Web science research
+ওপেন ওয়েব বিজ্ঞান গবেষণা
 
 
 ;Community Events
@@ -511,31 +511,31 @@ Community Events
 
 
 ;Find events
-Find events
+অনুষ্ঠান খুঁজুন
 
 
 ;By city, country, or event:
-By city, country, or event:
+শহর, দেশ, বা অনুষ্ঠানের ধরন অনুসারে:
 
 
 ;By date:
-By date:
+তারিখ অনুসারে:
 
 
 ;month
-month
+মাস
 
 
 ;year
-year
+বছর
 
 
 ;Date
-Date
+তারিখ
 
 
 ;Event
-Event
+অনুষ্ঠান
 
 
 ;Location
@@ -547,7 +547,7 @@ Event
 
 
 ;Events
-Events
+অনুষ্ঠানসমূহ
 
 
 # Used as title of the thank you page displayed after users send the form
@@ -556,7 +556,7 @@ Events
 
 
 ;Thanks!
-Thanks!
+ধন্যবাদ!
 
 
 ;We’re thrilled to see that you’re interested in coding and can’t wait to get you started.
@@ -592,15 +592,15 @@ We’re thrilled to see that you’re interested in volunteering and can’t wai
 
 
 ;Keep an eye on your inbox for an important message from us.
-Keep an eye on your inbox for an important message from us.
+আমাদের পক্ষ থেকে কোন গুরুত্বপূর্ণ বার্তার জন্য আপনার ইনবক্সে নজর রাখুন।
 
 
 ;Hello!
-Hello!
+হ্যালো!
 
 
 ;Your Name
-Your Name
+আপনার নাম
 
 
 ;In the meantime&hellip;
@@ -614,7 +614,7 @@ You can help by picking an easy task that only takes a few minutes &mdash; or ta
 
 # Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 ;Choose a Task Now
-Choose a Task Now
+এখন কোন কাজ নির্বাচন করুন
 
 
 # Displayed in the "Thank You!" page after the email is sent for other categories.
@@ -624,23 +624,23 @@ Help us tell the world how awesome Firefox is and about all the important work M
 
 # Displayed in the "Thank You!" page after the email is sent for other categories.
 ;Join Now
-Join Now
+এখনই যোগ দিন
 
 
 ;You can create your Mozillians account now to connect with fellow Mozillians.
-You can create your Mozillians account now to connect with fellow Mozillians.
+সতীর্থ মজিলিয়ানদের সাথে সংযুক্ত থাকতে আপনি আপনার মজিলা অ্যাকাউন্ট তৈরি করতে পারেন।
 
 
 ;Yes, create my Mozillians account
-Yes, create my Mozillians account
+হ্যাঁ, আমার মজিলা অ্যাকাউন্ট তৈরি কর
 
 
 ;You will be asked to sign in before proceeding
-You will be asked to sign in before proceeding
+অগ্রসর হবার আগে সাইন ইন করার কথা বলা হবে
 
 
 ;No thanks, I’ll just wait for the email
-No thanks, I’ll just wait for the email
+না, আমি ইমেইলের জন্য অপেক্ষা করব
 
 
 # The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
@@ -670,7 +670,7 @@ No thanks, I’ll just wait for the email
 
 
 ;Firefox Marketplace
-ফায়ারফক্স মার্কেটপ্লেস
+ফায়ারফক্স মার্কেটপ্লেস
 
 
 ;Add-ons

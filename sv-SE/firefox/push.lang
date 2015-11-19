@@ -84,7 +84,7 @@ Vilka uppgifter använder Firefox att tillhandahålla Push?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
-Firefox upprätthåller en permanent anslutning till en push tjänst för att ta emot push notiser.
+Firefox upprätthåller en permanent anslutning till en push tjänst för att ta emot push-meddelanden.
 
 
 ;On our server we store a randomized identifier for your browser, along with a randomized identifier for each site you authorize.
@@ -100,15 +100,15 @@ Firefox för Android använder samma <a href="%s">Google Cloud Messaging</a> pla
 
 
 ;In both cases, the push service cannot decrypt your push messages.
-I båda fallen kan push tjänsten inte dekryptera dina push notiser.
+I båda fallen kan push-tjänsten inte dekryptera dina push-meddelanden.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push notiser är krypterade, endast din kopia av Firefox kan tolka dem.
+Push-meddelanden är krypterade, endast din kopia av Firefox kan tolka dem.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-De krypterade notiserna lagras på servern tills de levererats.
+De krypterade meddelandena lagras på servern tills de levererats.
 
 
 ;How do I revoke Push permissions?
@@ -124,7 +124,7 @@ Navigera till <em>Inställningar</em>
 
 
 ;Click on <em>Content</em> and under Notifications, select <em>Choose…</em>
-Klicka på <em>Innehåll</em> och under Notiser, klicka på <em>Välj…</em>
+Klicka på <em>Innehåll</em> och under Aviseringar, klicka på <em>Välj…</em>
 
 
 ;Select the site.
@@ -142,7 +142,7 @@ Skriv <em>about:permissions</em> i adressfältet och tryck Enter.
 
 # Obsolete string, do not remove
 ;Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
-Ställ in <em>Ta emot Push-notiser</em> till <strong>Fråga alltid</strong>.
+Ställ in <em>Ta emot Push-meddelanden</em> till <strong>Fråga alltid</strong>.
 
 
 ;How do I disable Push?
@@ -159,7 +159,7 @@ Push är alltid en frivillig inställning i Firefox.
 
 
 ;A site cannot send you push messages without your permission.
-En webbplats kan inte skicka push notiser till dig utan ditt tillstånd.
+En webbplats kan inte skicka push-meddelanden till dig utan ditt tillstånd.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
@@ -171,7 +171,7 @@ Välj <strong>Ta bort alla webbplatser</strong>.
 
 
 ;Websites will not be able to send you messages and will need to ask your permission to send them in the future.
-Webbplatser kommer inte att kunna skicka notiser till dig och kommer att behöva be om ditt tillstånd att skicka dem i framtiden.
+Webbplatser kommer inte att kunna skicka meddelanden till dig och kommer att behöva be om ditt tillstånd för att skicka dem i framtiden.
 
 
 # Obsolete string, do not remove
@@ -181,7 +181,7 @@ Välj <em>Alla webbplatser</em>.
 
 # Obsolete string, do not remove
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Ställ in <em>Få Push-notiser</em> till <strong>Blockera</strong>. Webbplatser kommer då inte att kunna skicka notiser till dig eller kunna be om tillgång till Push.
+Ställ in <em>Ta emot Push-meddelanden</em> till <strong>Blockera</strong>. Webbplatser kommer inte kunna skicka meddelanden till dig eller begära att få tillgång till Push.
 
 
 ;What’s New?
@@ -189,23 +189,23 @@ Vad är nytt?
 
 
 ;Firefox has delivered on-screen notifications to open web pages for the last several releases.
-Firefox har levererat notiser till öppna webbsidor i de senaste versionerna.
+Firefox har levererat meddelanden på skärmen för att öppna webbsidor i de senaste utgåvorna.
 
 
 ;With Firefox 44, users can receive notifications associated with a web page even if they navigate away from the site or close the tab via a mechanism called Push.
-Med Firefox 44, kan användare få notiser associerade med en hemsida även om de navigera bort från webbplatsen eller stänger fliken via en funktion som kallas Push.
+Med Firefox 44, kan användarna ta emot meddelanden i samband med en webbsida, även om de navigerar bort från webbplatsen eller stänger fliken via en funktion som kallas Push.
 
 
 ;With Push, sites can update data in the background even without showing you a notification.
-Med Push, kan hemsidor uppdatera data i bakgrunden utan att visa dig en notis.
+Med Push kan webbplatser uppdatera data i bakgrunden utan att visa dig ett meddelande.
 
 
 ;If you already gave permission to a site to send notifications, these sites will also be able to use this Push mechanism.
-Om du redan gett tillstånd till en hemsida att skicka notiser, kommer dessa hemsidor också att kunna använda Push.
+Om du redan gett tillstånd till en webbplats för att skicka meddelanden, kommer dessa platser även kunna använda funktionen Push.
 
 
 ;If you wish to change notifications preferences, open the Content>Notifications section in Preferences/Options or click the options in one of the notifications you receive.
-Om du vill ändra inställningar för notiser, öppna Innehållet>Notiser under Inställningar/Options eller genom att klicka på Alternativ på en av de meddelanden du får.
+Om du vill ändra inställningar för aviseringar, öppna Innehåll>Aviseringar under Inställningar eller klicka på alternativen i ett av de meddelanden som du tar emot.
 
 
 ;Will this cost me money?

@@ -15,12 +15,12 @@
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+iOS <span>కొరకు</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OS
+OS {OK}
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -71,7 +71,7 @@ OS
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+ఆప్స్
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -746,7 +746,7 @@ Volunteer
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+అభినందనలు. మీ ఫైర్‌ఫాక్స్ తాజాగావుంది!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -761,7 +761,7 @@ Congrats. You’re up to date!
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML  {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form

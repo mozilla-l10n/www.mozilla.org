@@ -29,32 +29,32 @@
 # This will be used on a home page takeover starting from Dec 1st.
 # Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
 ;Proudly non-profit. <br>Donate before Dec 31.
-Proudly non-profit. <br>Donate before Dec 31.
+自豪的非营利。<br>在12月31日前捐款。
 
 
 # This is a sum in US dollars, e.g. '$100'. You can localize it, e.g. '%(sum)s €' to display '100 €' instead of '$100'
 ;$%(sum)s
-$%(sum)s
+$%(sum)s {ok}
 
 
 # Take over form
 ;Enter your own amount
-Enter your own amount
+输入您自定的金额
 
 
 # Take over form: radio button for monthly contributions
 ;Monthly
-Monthly
+每月
 
 
 # Take over form: radio button for one-time contributions
 ;One-time
-One-time
+一次
 
 
 # Take over form: button to submit the donation form
 ;Donate Now
-Donate Now
+立即捐款
 
 
 ;Home of the Mozilla Project

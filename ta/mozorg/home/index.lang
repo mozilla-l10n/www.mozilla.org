@@ -17,6 +17,37 @@
 உங்களுக்கு தெரியுமா? மொசில்லா — Firefox உலாவியை உருவாக்கி — அனைவரும் சுதந்திரமாகவும் பொதுவாகவும் அணுகும் வகையில் இணையம் கிடைத்திட தொடர்ந்து போராடி வருகிறது.
 
 
+# This will be used on a home page takeover starting from Dec 1st.
+# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
+;Proudly non-profit. <br>Donate before Dec 31.
+Proudly non-profit. <br>Donate before Dec 31.
+
+
+# Inserts a sum in US dollars, e.g. '$100'. You can localize it, e.g. '%(sum)s €' to display '100 €' instead of '$100'
+;$%(sum)s
+$%(sum)s
+
+
+# Take over form
+;Enter your own amount
+Enter your own amount
+
+
+# Take over form: radio button for monthly contributions
+;Monthly
+Monthly
+
+
+# Take over form: radio button for one-time contributions
+;One-time
+One-time
+
+
+# Take over form: button to submit the donation form
+;Donate Now
+Donate Now
+
+
 ;Home of the Mozilla Project
 மொசில்லா திட்ட முகப்பு
 

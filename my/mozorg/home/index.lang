@@ -17,6 +17,37 @@
 သင်သိလား? မိုဇီလာ - မီးမြေခွေးဖန်တီးသူ - သည် ကမ္ဘာလုံးဆိုင်ရာအများဆိုင် အင်တာနက်အား ပွင့်လင်းမြင်သာရန် နှင့် သုံးဆွဲနိုင်ရန် ကြိုးပမ်းပေးနေပါသည်။
 
 
+# This will be used on a home page takeover starting from Dec 1st.
+# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
+;Proudly non-profit. <br>Donate before Dec 31.
+Proudly non-profit. <br>Donate before Dec 31.
+
+
+# Inserts a sum in US dollars, e.g. '$100'. You can localize it, e.g. '%(sum)s €' to display '100 €' instead of '$100'
+;$%(sum)s
+$%(sum)s
+
+
+# Take over form
+;Enter your own amount
+Enter your own amount
+
+
+# Take over form: radio button for monthly contributions
+;Monthly
+Monthly
+
+
+# Take over form: radio button for one-time contributions
+;One-time
+One-time
+
+
+# Take over form: button to submit the donation form
+;Donate Now
+Donate Now
+
+
 ;Home of the Mozilla Project
 မိုဇီလာစီမံကိန်း ပင်မစာမျက်နှာ
 

@@ -1,7 +1,9 @@
 ## active ##
 ## eoy_fundraising_2015 ##
+## eoy_fundraising_takeover ##
 ## firefox_friends ##
 ## fx10_independent ##
+## gear_promo_eoy ##
 ## gear_store ##
 ## ios_promo ##
 ## mdn_10_years ##
@@ -23,6 +25,37 @@ Nous œuvrons à améliorer Internet
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Le saviez-vous ? Mozilla, le concepteur de Firefox, se bat pour qu’Internet, une ressource publique mondiale, demeure ouverte et accessible à tous.
+
+
+# This will be used on a home page takeover starting from Dec 1st.
+# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
+;Proudly non-profit. <br>Donate before Dec 31.
+Fiers d'être sans but lucratif. <br>Faites un don avant le 31 décembre.
+
+
+# This is a sum in US dollars, e.g. '$100'. You can localize it, e.g. '%(sum)s €' to display '100 €' instead of '$100'
+;$%(sum)s
+%(sum)s €
+
+
+# Take over form
+;Enter your own amount
+Choisissez le montant de votre don
+
+
+# Take over form: radio button for monthly contributions
+;Monthly
+Mensuel
+
+
+# Take over form: radio button for one-time contributions
+;One-time
+Unique
+
+
+# Take over form: button to submit the donation form
+;Donate Now
+Faites un don
 
 
 ;Home of the Mozilla Project
@@ -55,7 +88,7 @@ Lisez le <br>Manifeste Mozilla
 
 
 ;Donate to Mozilla,<br> the non-profit behind Firefox.
-Faites un don à Mozilla,<br> l’organisation à l’origine de Firefox.
+Faites un don à Mozilla,<br> l’organisation à l’origine de Firefox
 
 
 ;Our year-end<br> fundraiser ends Dec 31.
@@ -105,11 +138,11 @@ Téléchargez Firefox
 
 
 ;Get the gear, <br>support the mission
-Enfilez des habits, <br>
+Enfilez des habits, <br>aux couleurs de Mozilla
 
 
 ;Shop for t-shirts, hoodies, hats<br> and more at Mozilla Gear.
-Shop for t-shirts, hoodies, hats<br> and more at Mozilla Gear.
+Achetez des t-shirts, des sweats,<br> des casquettes et plus encore grâce à Mozilla&nbsp;Gear.
 
 
 ;Shop now

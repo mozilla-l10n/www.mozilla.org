@@ -1,6 +1,9 @@
 ## active ##
+## eoy_fundraising_2015 ##
+## eoy_fundraising_takeover ##
 ## firefox_friends ##
 ## fx10_independent ##
+## gear_promo_eoy ##
 ## gear_store ##
 ## ios_promo ##
 ## mdn_10_years ##
@@ -22,6 +25,37 @@
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Чи знали ви? Mozilla — творець Firefox — веде боротьбу для збереження Інтернету, як всесвітнього публічного ресурсу, відкритого та доступного всім.
+
+
+# This will be used on a home page takeover starting from Dec 1st.
+# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
+;Proudly non-profit. <br>Donate before Dec 31.
+З гордістю, некомерційна. <br>Зробіть внесок до 31 грудня.
+
+
+# This is a sum in US dollars, e.g. '$100'. You can localize it, e.g. '%(sum)s €' to display '100 €' instead of '$100'
+;$%(sum)s
+$%(sum)s {ok}
+
+
+# Take over form
+;Enter your own amount
+Введіть власну суму
+
+
+# Take over form: radio button for monthly contributions
+;Monthly
+Щомісяця
+
+
+# Take over form: radio button for one-time contributions
+;One-time
+Одноразово
+
+
+# Take over form: button to submit the donation form
+;Donate Now
+Зробити внесок
 
 
 ;Home of the Mozilla Project
@@ -54,15 +88,15 @@
 
 
 ;Donate to Mozilla,<br> the non-profit behind Firefox.
-Donate to Mozilla,<br> the non-profit behind Firefox.
+Підтримайте Mozilla,<br> організацію, яка створила Firefox.
 
 
 ;Our year-end<br> fundraiser ends Dec 31.
-Our year-end<br> fundraiser ends Dec 31.
+Наша кампанія зі збору коштів<br> завершується 31 грудня.
 
 
 ;Donate now
-Donate now
+Зробити внесок
 
 
 ;Mozilla Developer Network
@@ -104,15 +138,15 @@ Donate now
 
 
 ;Get the gear, <br>support the mission
-Get the gear, <br>support the mission
+Отримайте речі, <br>підтримайте місію
 
 
 ;Shop for t-shirts, hoodies, hats<br> and more at Mozilla Gear.
-Shop for t-shirts, hoodies, hats<br> and more at Mozilla Gear.
+Купуйте футболки, толстовки, кепки<br> та інші речі від Mozilla.
 
 
 ;Shop now
-Shop now
+Купити
 
 
 ;Introducing<br> the new Webmaker
@@ -150,7 +184,7 @@ Shop now
 
 
 ;Let’s build a Web that’s open <br>and made by everyone.
-Будуймо відкритий інтернет, <br>який створений для кожного.
+Давайте створимо Інтернет, <br>відкритий для всіх і збудований кожним.
 
 
 ;Build an app <br>in seconds
@@ -205,17 +239,17 @@ Shop now
 
 # Used in a small tile
 ;Official Mozilla gear is here
-Офіційний магазин атрибутів Mozilla
+Офіційний магазин речей від Mozilla
 
 
 # This string is currently unused (tile will link to Mozilla Gear Store)
 ;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
-Атрибути з місією. <br>Продукти з метою. <br>Речі, які роблять добро.
+Товари з місією. <br>Продукти з метою. <br>Речі, які роблять добро.
 
 
 # This string is currently unused (tile will link to Mozilla Gear Store)
 ;Get your Mozilla gear
-Отримайте речі з атрибутами Mozilla
+Отримайте речі від Mozilla
 
 
 ;Help Mozilla users
@@ -338,7 +372,7 @@ Firefox <br> тепер доступний<br> для iOS
 
 
 ;Add it to your iPhone, iPad &amp; iPod touch.
-Додайте його до свого iPhone, iPad &amp; iPod touch.
+Додайте його до свого iPhone, iPad та iPod touch.
 
 
 ;Get Firefox for iOS
@@ -346,7 +380,7 @@ Firefox <br> тепер доступний<br> для iOS
 
 
 ;Introducing the new <br>Private Browsing
-Представляємо новий <br>Приватний перегляд
+Новий <br>Приватний перегляд
 
 
 ;More protection. <br>The most privacy.

@@ -1,5 +1,6 @@
 ## active ##
 ## eoy_fundraising_2015 ##
+## eoy_fundraising_takeover ##
 ## firefox_friends ##
 ## fx10_independent ##
 ## gear_promo_eoy ##
@@ -24,6 +25,37 @@ Stiamo creando un Internet migliore
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Lo sapevi? Mozilla — la società che sviluppa Firefox — si batte per mantenere Internet una risorsa pubblica aperta e accessibile a tutti.
+
+
+# This will be used on a home page takeover starting from Dec 1st.
+# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
+;Proudly non-profit. <br>Donate before Dec 31.
+Orgogliosamente non profit. <br>Fai una donazione prima del 31 dicembre.
+
+
+# This is a sum in US dollars, e.g. '$100'. You can localize it, e.g. '%(sum)s €' to display '100 €' instead of '$100'
+;$%(sum)s
+%(sum)s €
+
+
+# Take over form
+;Enter your own amount
+Altro importo
+
+
+# Take over form: radio button for monthly contributions
+;Monthly
+Mensile
+
+
+# Take over form: radio button for one-time contributions
+;One-time
+Una tantum
+
+
+# Take over form: button to submit the donation form
+;Donate Now
+Fai subito una donazione
 
 
 ;Home of the Mozilla Project
@@ -56,7 +88,7 @@ Leggi il <br>manifesto Mozilla
 
 
 ;Donate to Mozilla,<br> the non-profit behind Firefox.
-Fai una donazione a Mozilla,<br> la non profit che realizza Firefox.
+Fai una donazione a Mozilla, <br>l’organizzazione non profit di Firefox.
 
 
 ;Our year-end<br> fundraiser ends Dec 31.
@@ -64,7 +96,7 @@ La raccolta fondi di fine anno<br> termina il 31 dicembre.
 
 
 ;Donate now
-Dona oggi stesso
+Dai il tuo contributo
 
 
 ;Mozilla Developer Network
@@ -106,7 +138,7 @@ Scarica Firefox
 
 
 ;Get the gear, <br>support the mission
-Sostieni la nostra missione,<br> acquista nel negozio online.
+Regalati un gadget, <br>sostieni la nostra missione.
 
 
 ;Shop for t-shirts, hoodies, hats<br> and more at Mozilla Gear.

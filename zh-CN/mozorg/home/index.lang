@@ -1,6 +1,9 @@
 ## active ##
+## eoy_fundraising_2015 ##
+## eoy_fundraising_takeover ##
 ## firefox_friends ##
 ## fx10_independent ##
+## gear_promo_eoy ##
 ## gear_store ##
 ## ios_promo ##
 ## mdn_10_years ##
@@ -22,6 +25,37 @@
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 您知道吗？Mozilla - Firefox 的开发商 - 一直致力于保证互联网这一全球公共资源的开放性和可用性。
+
+
+# This will be used on a home page takeover starting from Dec 1st.
+# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
+;Proudly non-profit. <br>Donate before Dec 31.
+自豪的非营利。<br>在12月31日前捐款。
+
+
+# This is a sum in US dollars, e.g. '$100'. You can localize it, e.g. '%(sum)s €' to display '100 €' instead of '$100'
+;$%(sum)s
+$%(sum)s {ok}
+
+
+# Take over form
+;Enter your own amount
+输入您自定的金额
+
+
+# Take over form: radio button for monthly contributions
+;Monthly
+每月
+
+
+# Take over form: radio button for one-time contributions
+;One-time
+一次
+
+
+# Take over form: button to submit the donation form
+;Donate Now
+立即捐款
 
 
 ;Home of the Mozilla Project
@@ -54,15 +88,15 @@ Mozilla 项目
 
 
 ;Donate to Mozilla,<br> the non-profit behind Firefox.
-Donate to Mozilla,<br> the non-profit behind Firefox.
+捐款给 Mozilla，<br>支撑 Firefox 的非营利基金会。
 
 
 ;Our year-end<br> fundraiser ends Dec 31.
-Our year-end<br> fundraiser ends Dec 31.
+我们的年终捐款<br>将在12月31日结束。
 
 
 ;Donate now
-Donate now
+立即捐款
 
 
 ;Mozilla Developer Network
@@ -104,15 +138,15 @@ Web 技术文档化 10 周年。
 
 
 ;Get the gear, <br>support the mission
-Get the gear, <br>support the mission
+获得这些东西，<br>支持我们的使命
 
 
 ;Shop for t-shirts, hoodies, hats<br> and more at Mozilla Gear.
-Shop for t-shirts, hoodies, hats<br> and more at Mozilla Gear.
+T恤、帽衫、帽子等商品<br>在 Mozilla Gear 有售。
 
 
 ;Shop now
-Shop now
+立即购买
 
 
 ;Introducing<br> the new Webmaker

@@ -34,12 +34,12 @@ Orgulhosamente sem fins lucrativos. <br>Doe antes de 31 de dezembro.
 
 # This is a sum in US dollars, e.g. '$100'. You can localize it, e.g. '%(sum)s €' to display '100 €' instead of '$100'
 ;$%(sum)s
-$%(sum)s
+R$%(sum)s
 
 
 # Take over form
 ;Enter your own amount
-Enter your own amount
+Introduza o valor
 
 
 # Take over form: radio button for monthly contributions

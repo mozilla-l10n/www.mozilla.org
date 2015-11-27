@@ -29,32 +29,32 @@ Mozilla에 대해서 들어보셨나요? — Firefox의 제조사이자 — 인�
 # This will be used on a home page takeover starting from Dec 1st.
 # Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
 ;Proudly non-profit. <br>Donate before Dec 31.
-Proudly non-profit. <br>Donate before Dec 31.
+비영리 기부하기 <br>12월 31일까지
 
 
 # This is a sum in US dollars, e.g. '$100'. You can localize it, e.g. '%(sum)s €' to display '100 €' instead of '$100'
 ;$%(sum)s
-$%(sum)s
+$%(sum)s {ok}
 
 
 # Take over form
 ;Enter your own amount
-Enter your own amount
+기부액 입력
 
 
 # Take over form: radio button for monthly contributions
 ;Monthly
-Monthly
+매월
 
 
 # Take over form: radio button for one-time contributions
 ;One-time
-One-time
+한번
 
 
 # Take over form: button to submit the donation form
 ;Donate Now
-Donate Now
+기부하기
 
 
 ;Home of the Mozilla Project

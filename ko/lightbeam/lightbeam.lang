@@ -144,69 +144,66 @@ Lightbeam는 사용자가 방문한 사이트와 그 페이지에서 활성화�
 
 
 ;How the add-on works
-How the add-on works
+Lightbeam 작동 방식
 
 
 # New string (May 15) to reflect features that have been removed from the add-on.
 ;Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
-Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+Lightbeam은 각 웹사이트가 어떻게 연결되어 있는지를 그래프와 목록 등 두 가지 방식으로 시각화합니다. 이러한 방식을 통해 우리는 웹  사이트를 평소와는 다른 형태로 볼 수 있습니다.
 
 
 # Obsolete string, do not remove
 ;Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
-Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+Lightbeam은 Graph (그래프), Clock (시계) List (목록)라는 세 가지 유형의 상호 작용을 시각화 방법을 사용하여 개별 웹 사이트와 연결 시간의 경과와 공간에 따라 조사합니다. 이를 통해 자신의 온라인 활동을 확인할 뿐만 아니라 다양한 방법으로이 독특한 시각화 방법을 체험할 수 있습니다.
 
 
 ;The default Graph view provides a real time visualization of every site you visit and all third party requests made from your browser.
-The default Graph view provides a real time visualization of every site you visit and all third party requests made from your browser.
+기본 Graph 보기는 사용자가 방문한 개별 사이트와 사용자가 사용하는 브라우저에서 실행되는 모든 타사의 요구를 실시간으로 시각화합니다.
 
 
 ;The Graph view also provides adjustable filters that allow you to visualize more types of data at a glance.
-The Graph view also provides adjustable filters that allow you to visualize more types of data at a glance.
+조정 가능한 필터를 사용하여 더 많은 유형의 데이터를 빠르게 시각화 할 수 있습니다.
 
 
 ;The List view provides more options for drilling down into individual sites.
-The List view provides more options for drilling down into individual sites.
+List 보기에서는 각 사이트에 대해 좀더 알아보기 위한 옵션이 제공됩니다.
 
 
 ;Site preferences in the List view enable you to block sites from connecting to your Firefox browser, watch sites you’re interested in or hide sites you don’t want to see visualized.
-Site preferences in the List view enable you to block sites from connecting to your Firefox browser, watch sites you’re interested in or hide sites you don’t want to see visualized.
+List 보기의 "Site (사이트)"설정은 사이트에서 Firefox 브라우저에 대한 연결을 차단하거나 자신에게 관심있는 사이트를 관찰하고 시각화 할 필요가 없는 사이트를 숨기도록 설정할 수 있습니다.
 
 
 ;Lightbeam also offers an information panel that provides additional details about the site you selected and the sites it has connected to.
-Lightbeam also offers an information panel that provides additional details about the site you selected and the sites it has connected to.
+또한, Lightbeam은 사용자가 선택한 사이트와 그 사이트에 연결된 사이트에 대해 자세한 정보를 제공하는 정보 패널도 있습니다.
 
 
 ;The origins of Lightbeam
-The origins of Lightbeam
+Lightbeam 개발 과정
 
 
 ;Lightbeam began in July 2011 as Collusion, a personal project by Mozilla software developer <a href="%s">Atul Varma</a>.
-Lightbeam began in July 2011 as Collusion, a personal project by Mozilla software developer <a href="%s">Atul Varma</a>.
-
+Lightbeam은 2011년 7월 Mozilla 소프트웨어 개발자 <a href="%s">Atul Varma </a> 개인 프로젝트 Collusion로 시작했습니다.
 
 ;Inspired by the book, <em>The Filter Bubble</em>, Atul created an experimental add-on to visualize browsing behavior and data collection on the Web.
-Inspired by the book, <em>The Filter Bubble</em>, Atul created an experimental add-on to visualize browsing behavior and data collection on the Web.
-
+"<em>The Filter Bubble</em>"라는 책을 읽은 Varma는 웹 사이트의 행동과 데이터 수집을 시각화하는 실험적인 기능을 개발했습니다 .
 
 ;In February 2012, Gary Kovacs, Mozilla CEO at the time, introduced the Collusion add-on in a <a href="%s">TED talk</a> (now one of the most watched TED talks of all time) about exposing online tracking.
-In February 2012, Gary Kovacs, Mozilla CEO at the time, introduced the Collusion add-on in a <a href="%s">TED talk</a> (now one of the most watched TED talks of all time) about exposing online tracking.
+2012년 2월에 당시 Mozilla의 CEO인 Gary Kovacs가 <a href="%s">TED talk</a>에서 온라인 추적에 대한 Collusion 부가 기능을 소개합니다. (현재 이 강연은 TED talk 중에서도 가장 많이 재생된 강연 중 하나입니다.)
 
 
 ;In September 2012, Mozilla joined forces with faculty and student researchers at <a href="%s">Emily Carr University of Art + Design</a> to develop and implement visualizations for the add-on.
-In September 2012, Mozilla joined forces with faculty and student researchers at <a href="%s">Emily Carr University of Art + Design</a> to develop and implement visualizations for the add-on.
+2012년 9월 Mozilla는 <a href="%s">에밀리.카 미술 대학</a>의 교수 및 학생들과 협력하여 부가 기능의 개발을 진행시켜 구현했습니다.
 
 
 ;With the support of the Ford Foundation and the Natural Sciences and Engineering Research Council (NSERC), Collusion has been re-imagined as Lightbeam and was launched in the fall of 2013.
-With the support of the Ford Foundation and the Natural Sciences and Engineering Research Council (NSERC), Collusion has been re-imagined as Lightbeam and was launched in the fall of 2013.
+포드 재단과 Natural Sciences and Engineering Research Council (NSERC)의 지원을 받아 Collusion는 Lightbeam 개칭되어 2013 년 가을에 발표되었습니다.
 
 
 ;To read more about the collaboration, please visit <a href="{url}">{url}</a>
-To read more about the collaboration, please visit <a href="{url}">{url}</a>
-
+자세한 내용은 <a href="{url}">{url}</a>를 참조하십시오.
 
 ;Policy and the larger tracking narrative
-Policy and the larger tracking narrative
+향후 정책 및 계획
 
 
 ;At Mozilla, we believe that everyone should have the tools to make their own decisions about their online privacy and who collects data on them.

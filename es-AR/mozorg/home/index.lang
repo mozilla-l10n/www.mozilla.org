@@ -1,5 +1,6 @@
 ## active ##
 ## eoy_fundraising_2015 ##
+## eoy_fundraising_takeover ##
 ## firefox_friends ##
 ## fx10_independent ##
 ## gear_promo_eoy ##
@@ -34,7 +35,7 @@ Orgullosos de no tener fines de lucro. <br>Doná antes del 31 de Dic.
 
 # This is a sum in US dollars, e.g. '$100'. You can localize it, e.g. '%(sum)s €' to display '100 €' instead of '$100'
 ;$%(sum)s
-$%(sum)s
+$%(sum)s {ok}
 
 
 # Take over form

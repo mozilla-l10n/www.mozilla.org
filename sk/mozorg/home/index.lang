@@ -33,7 +33,8 @@ Vedeli ste, že Mozilla — tvorca prehliadača Firefox — bojuje za to, aby in
 S hrdosťou neziskovo. <br>Prispieť pred 31. decembrom.
 
 
-# This is a sum in US dollars, e.g. '$100'. You can localize it, e.g. '%(sum)s €' to display '100 €' instead of '$100'
+# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
+# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
 %(sum)s €
 

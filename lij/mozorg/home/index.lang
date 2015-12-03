@@ -33,7 +33,8 @@ Ti o saveivi? Mozilla — a societæ de Firefox — conbatte pe mantegnî Intern
 Feamente sensa fin de goagno. <br>Fanni 'na donaçion primma do 31 de Dexembre.
 
 
-# This is a sum in US dollars, e.g. '$100'. You can localize it, e.g. '%(sum)s €' to display '100 €' instead of '$100'
+# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
+# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
 $%(sum)s {ok}
 

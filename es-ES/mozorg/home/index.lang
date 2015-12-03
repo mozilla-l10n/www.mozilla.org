@@ -33,7 +33,8 @@ Estamos construyendo una Web mejor
 Sin fines de lucro y orgullosos de ello. <br>Dona antes del 31 de dic.
 
 
-# This is a sum in US dollars, e.g. '$100'. You can localize it, e.g. '%(sum)s €' to display '100 €' instead of '$100'
+# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
+# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
 %(sum)s&nbsp;€
 

@@ -27,33 +27,33 @@
 # This will be used on a home page takeover starting from Dec 1st.
 # Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
 ;Proudly non-profit. <br>Donate before Dec 31.
-Proudly non-profit. <br>Donate before Dec 31.
+Поносно непрофитна. <br>Донирајте пре 31-ог децембра.
 
 
 # This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
 # You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
-$%(sum)s
+%(sum)s €
 
 
 # Take over form
 ;Enter your own amount
-Enter your own amount
+Унесите своју суму
 
 
 # Take over form: radio button for monthly contributions
 ;Monthly
-Monthly
+Месечно
 
 
 # Take over form: radio button for one-time contributions
 ;One-time
-One-time
+Једном
 
 
 # Take over form: button to submit the donation form
 ;Donate Now
-Donate Now
+Донирај
 
 
 ;Home of the Mozilla Project
@@ -86,15 +86,15 @@ Donate Now
 
 
 ;Donate to Mozilla,<br> the non-profit behind Firefox.
-Donate to Mozilla,<br> the non-profit behind Firefox.
+Донирајте Mozilla-и,<br> непрофитној организацији која стоји иза Firefox-а.
 
 
 ;Our year-end<br> fundraiser ends Dec 31.
-Our year-end<br> fundraiser ends Dec 31.
+Наше добротворно прикупљање средстава<br> завршава се 31-ог децембра.
 
 
 ;Donate now
-Donate now
+Донирајте
 
 
 ;Mozilla Developer Network
@@ -136,15 +136,15 @@ Mozilla Developer Network {ok}
 
 
 ;Get the gear, <br>support the mission
-Get the gear, <br>support the mission
+Набавите опрему, <br>подржите циљ
 
 
 ;Shop for t-shirts, hoodies, hats<br> and more at Mozilla Gear.
-Shop for t-shirts, hoodies, hats<br> and more at Mozilla Gear.
+Купите мајице, дуксеве, капе<br> и још много тога у Mozilla Gear.
 
 
 ;Shop now
-Shop now
+Почните шопинг
 
 
 ;Introducing<br> the new Webmaker

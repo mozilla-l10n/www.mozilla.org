@@ -1,6 +1,9 @@
 ## active ##
-# # NOTE: Starting with Firefox 42, this page is linked from Firefox UI.
-# # NOTE: Demo available at https://www-dev.allizom.org/firefox/push/
+## firefox_push_updates ##
+## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.
+## NOTE: Demo available at https://www-dev.allizom.org/firefox/push/
+
+
 # Page Title and part of <title> tag
 ;Push
 Push {ok}
@@ -223,3 +226,5 @@ Cómo anyado Push t'o mío puesto web?
 
 ;The <a href="%s">Push API specification</a> explains how to create a Service Worker and send push messages.
 A <a href="%s">Especificación de API Push</a> explica cómo creyar un Treballador de Servicio y ninviar mensaches push.
+
+

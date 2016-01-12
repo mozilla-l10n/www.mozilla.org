@@ -1,6 +1,4 @@
 ## active ##
-## eoy_fundraising_2015 ##
-## eoy_fundraising_takeover ##
 ## firefox_friends ##
 ## fx10_independent ##
 ## gear_promo_eoy ##
@@ -25,38 +23,6 @@ Rydym yn adeiladu gwell Rhyngrwyd
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Wyddoch chi? Mae Mozilla — gwneuthurwr Firefox — yn ymladd i gadw'r Rhyngrwyd yn adnodd cyhoeddus byd eang ar gael ac agored i bawb.
-
-
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
-;Proudly non-profit. <br>Donate before Dec 31.
-Yn falch o fod ddim er elw. <br>Rhowch cyn Rhag 31.
-
-
-# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
-# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
-;$%(sum)s
-$%(sum)s {ok}
-
-
-# Take over form
-;Enter your own amount
-Nodwch eich swm eich hun
-
-
-# Take over form: radio button for monthly contributions
-;Monthly
-Misol
-
-
-# Take over form: radio button for one-time contributions
-;One-time
-Unwaith yn Unig
-
-
-# Take over form: button to submit the donation form
-;Donate Now
-Cyfrannwch Nawr
 
 
 ;Home of the Mozilla Project
@@ -86,18 +52,6 @@ Gweld yr egwyddorion <br>sy'n ein harwain ym mhopeth <br>rydym yn eu gwneud.
 
 ;Read the <br>Mozilla Manifesto
 Darllen <br>Maniffesto Mozilla
-
-
-;Donate to Mozilla,<br> the non-profit behind Firefox.
-Cyfrannwch at Mozilla, <br>y corff ddim er elw sy'n creu Firefox.
-
-
-;Our year-end<br> fundraiser ends Dec 31.
-Mae ein ymgyrch codi arian<br> yn gorffen Rhagfyr 31
-
-
-;Donate now
-Cyfrannwch Nawr
 
 
 ;Mozilla Developer Network

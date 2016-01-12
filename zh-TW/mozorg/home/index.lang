@@ -1,6 +1,4 @@
 ## active ##
-## eoy_fundraising_2015 ##
-## eoy_fundraising_takeover ##
 ## firefox_friends ##
 ## fx10_independent ##
 ## gear_promo_eoy ##
@@ -25,38 +23,6 @@
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 您知道嗎？Firefox 的創造者 — Mozilla，致力於保持網際網路為全球的公眾資源，讓任何人都可自由取用。
-
-
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
-;Proudly non-profit. <br>Donate before Dec 31.
-年終捐款，<br>以非營利為榮。
-
-
-# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
-# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
-;$%(sum)s
-$%(sum)s {ok}
-
-
-# Take over form
-;Enter your own amount
-輸入您的捐款金額
-
-
-# Take over form: radio button for monthly contributions
-;Monthly
-每月
-
-
-# Take over form: radio button for one-time contributions
-;One-time
-單次
-
-
-# Take over form: button to submit the donation form
-;Donate Now
-立刻捐款
 
 
 ;Home of the Mozilla Project
@@ -86,18 +52,6 @@ Mozilla 專案首頁
 
 ;Read the <br>Mozilla Manifesto
 閱讀<br>Mozilla Manifesto
-
-
-;Donate to Mozilla,<br> the non-profit behind Firefox.
-敬請捐款給 Firefox 背後的<br>非營利組織 Mozilla。
-
-
-;Our year-end<br> fundraiser ends Dec 31.
-年終捐款於<br>12 月 31 日結束。
-
-
-;Donate now
-立刻捐款
 
 
 ;Mozilla Developer Network

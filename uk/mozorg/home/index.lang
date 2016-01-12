@@ -1,6 +1,4 @@
 ## active ##
-## eoy_fundraising_2015 ##
-## eoy_fundraising_takeover ##
 ## firefox_friends ##
 ## fx10_independent ##
 ## gear_promo_eoy ##
@@ -25,38 +23,6 @@
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Чи знали ви? Mozilla — творець Firefox — веде боротьбу для збереження Інтернету, як всесвітнього публічного ресурсу, відкритого та доступного всім.
-
-
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
-;Proudly non-profit. <br>Donate before Dec 31.
-З гордістю, некомерційна. <br>Зробіть внесок до 31 грудня.
-
-
-# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
-# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
-;$%(sum)s
-$%(sum)s {ok}
-
-
-# Take over form
-;Enter your own amount
-Введіть власну суму
-
-
-# Take over form: radio button for monthly contributions
-;Monthly
-Щомісяця
-
-
-# Take over form: radio button for one-time contributions
-;One-time
-Одноразово
-
-
-# Take over form: button to submit the donation form
-;Donate Now
-Зробити внесок
 
 
 ;Home of the Mozilla Project
@@ -86,18 +52,6 @@ $%(sum)s {ok}
 
 ;Read the <br>Mozilla Manifesto
 Прочитати <br>Маніфест Mozilla
-
-
-;Donate to Mozilla,<br> the non-profit behind Firefox.
-Підтримайте Mozilla,<br> організацію, яка створила Firefox.
-
-
-;Our year-end<br> fundraiser ends Dec 31.
-Наша кампанія зі збору коштів<br> завершується 31 грудня.
-
-
-;Donate now
-Зробити внесок
 
 
 ;Mozilla Developer Network

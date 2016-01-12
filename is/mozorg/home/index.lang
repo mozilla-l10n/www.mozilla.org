@@ -1,6 +1,4 @@
 ## active ##
-## eoy_fundraising_2015 ##
-## eoy_fundraising_takeover ##
 ## firefox_friends ##
 ## fx10_independent ##
 ## gear_promo_eoy ##
@@ -25,38 +23,6 @@ Við erum að byggja betra Internet
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Vissirðu þetta? Mozilla — sá sem býr til Firefox — berst fyrir því að viðhalda Internetinu sem opnu neti og aðgengilegt fyrir alla.
-
-
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
-;Proudly non-profit. <br>Donate before Dec 31.
-Við erum stolt af því að vera rekin án hagnaðar. <br>Gefðu styrk fyrir 31. des.
-
-
-# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
-# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
-;$%(sum)s
-$%(sum)s {ok}
-
-
-# Take over form
-;Enter your own amount
-Sláðu inn þína eigin upphæð
-
-
-# Take over form: radio button for monthly contributions
-;Monthly
-Mánaðarlega
-
-
-# Take over form: radio button for one-time contributions
-;One-time
-Einu sinni
-
-
-# Take over form: button to submit the donation form
-;Donate Now
-Styrkja núna
 
 
 ;Home of the Mozilla Project
@@ -86,18 +52,6 @@ Sjáðu hvaða grunnreglur <br>fylgja okkur í öllu sem <br>við gerum.
 
 ;Read the <br>Mozilla Manifesto
 Lesa <br>Mozilla Manifesto
-
-
-;Donate to Mozilla,<br> the non-profit behind Firefox.
-Styrkja Mozilla,<br> frjálsu félagasamtökin sem eru á bakvið Firefox.
-
-
-;Our year-end<br> fundraiser ends Dec 31.
-Okkar árlega söfnunar<br> átak endar 31. des.
-
-
-;Donate now
-Styrkja núna
 
 
 ;Mozilla Developer Network

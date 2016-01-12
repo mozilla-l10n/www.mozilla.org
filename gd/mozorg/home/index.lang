@@ -1,6 +1,4 @@
 ## active ##
-## eoy_fundraising_2015 ##
-## eoy_fundraising_takeover ##
 ## firefox_friends ##
 ## fx10_independent ##
 ## gear_promo_eoy ##
@@ -25,38 +23,6 @@ Tha sinn a' cruthachadh eadar-lìon nas fhearr
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 An robh fhios agad? Tha Mozilla — na daoine a nì Firefox — a' strì airson an t-eadar-lìon a ghlèidheadh mar ghoireas eadar-nàiseanta a bhios ri làmhan a h-uile duine.
-
-
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
-;Proudly non-profit. <br>Donate before Dec 31.
-Pròiseil nach ann a chum prothaid a tha sinn. <br>Thoir tabhartas ron 31 dhen Dùbhlachd.
-
-
-# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
-# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
-;$%(sum)s
-$%(sum)s GBP
-
-
-# Take over form
-;Enter your own amount
-Cuir a-steach suim eile
-
-
-# Take over form: radio button for monthly contributions
-;Monthly
-Gach mìos
-
-
-# Take over form: radio button for one-time contributions
-;One-time
-Aon turas
-
-
-# Take over form: button to submit the donation form
-;Donate Now
-Thoir tabhartas an-dràsta
 
 
 ;Home of the Mozilla Project
@@ -86,18 +52,6 @@ Faic na prionnsabalan a tha <br>'gar stiùireadh ann an <br>rud sam bith a nì s
 
 ;Read the <br>Mozilla Manifesto
 Leugh <br>manifesto Mozilla
-
-
-;Donate to Mozilla,<br> the non-profit behind Firefox.
-Thoir tabhartas dha Mozilla,<br> am buidheann a nì Firefox ach nach ann a chum prothaid.
-
-
-;Our year-end<br> fundraiser ends Dec 31.
-Thig an iomairt maoineachaidh <br> gu crìoch air an 31 dhen Dùbhlachd.
-
-
-;Donate now
-Thoir tabhartas an-dràsta
 
 
 ;Mozilla Developer Network

@@ -1,6 +1,5 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -10,11 +9,6 @@ Come funziona la protezione antitracciamento?
 
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
-L’icona raffigurante uno scudo segnala che la protezione antitracciamento è stata attivata e gli elementi in grado di monitorare la tua attività online sono stati bloccati.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
 L’icona raffigurante uno scudo segnala che la protezione antitracciamento è stata attivata e gli elementi in grado di monitorare la tua attività online sono stati bloccati.
 
 
@@ -34,11 +28,6 @@ Differenze nell’esperienza di navigazione
 Alcune sezioni della pagina potrebbero non venire visualizzate, ciò significa che sono state bloccate in quanto potrebbero consentire a terze parti di tracciare le tue abitudini di navigazione.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Alcune sezioni della pagina potrebbero non venire visualizzate, ciò significa che sono state bloccate in quanto consentono a terze parti di tracciare le tue abitudini di navigazione.
-
-
 ;2 of 3
 2 di 3
 
@@ -51,18 +40,8 @@ Personalizza la protezione antitracciamento
 Per disattivare la protezione antitracciamento sul sito web che stai visitando basta fare clic su “Disattiva protezione per questa sessione”.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Per disattivare la protezione antitracciamento sul sito web che stai visitando basta fare clic su “Disattiva protezione per questa sessione”
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 Per attivare la protezione antitracciamento sul sito web che stai visitando basta fare clic su “Attiva protezione per questa sessione”.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-Per attivare la protezione antitracciamento sul sito web che stai visitando basta fare clic su “Attiva protezione per questa sessione”
 
 
 ;3 of 3
@@ -81,11 +60,6 @@ Protezione antitracciamento
 Navigazione anonima con protezione antitracciamento
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Protezione antitracciamento<br/> di Firefox
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Puoi disattivare questa funzione<br/> dalla <a href="%s">scheda Privacy nelle preferenze</a>
@@ -99,22 +73,12 @@ Grazie per aver seguito questa guida introduttiva alla nuova funzione di protezi
 Grazie per aver seguito questa guida introduttiva alla nuova funzione di protezione antitracciamento in modalità Navigazione anonima.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Grazie per aver seguito questa guida introduttiva alla nuova funzione di protezione antitracciamento in modalità Navigazione anonima.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Per ulteriori informazioni sul funzionamento della protezione antitracciamento consulta la pagina <a rel="external" href="%s">FAQ</a>.
 
 
 ;Restart tour
-Ripeti la panoramica dall’inizio
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
 Ripeti la panoramica dall’inizio
 
 

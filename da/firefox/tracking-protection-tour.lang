@@ -1,6 +1,5 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -11,11 +10,6 @@ Sådan virker beskyttelse mod sporing
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Når du ser skjoldet, blokerer Firefox de dele af siden, der måske kan spore din aktivitet på nettet.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Når skjoldet er synligt, betyder det, at Firefox aktivt blokerer elementer på siden, som kan spore dig.
 
 
 ;1 of 3
@@ -34,11 +28,6 @@ Forventede forskelle
 Nogle dele af siden kan mangle, da de måske kan give tredjepart mulighed for at spore din browsing-adfærd.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Nogle dele af siden kan mangle, da de kan give tredjepart mulighed for at spore din browsing-adfærd.
-
-
 ;2 of 3
 2 af 3
 
@@ -51,18 +40,8 @@ Vil du lave ændringer?
 Det er let at slå beskyttelse mod sporing fra for det besøgte websted ved at klikke på “Deaktiver beskyttelse for denne session”
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Det er let at deaktivere beskyttelse mod sporing for det besøgte websted ved at klikke på “Deaktiver beskyttelse for denne session”.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 Det er let at slå beskyttelse mod sporing til for det besøgte websted ved at klikke på “Aktiver beskyttelse”.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-Det er let at aktivere beskyttelse mod sporing for det besøgte websted ved at klikke på “Aktiver beskyttelse”.
 
 
 ;3 of 3
@@ -81,11 +60,6 @@ Beskyttelse mod sporing
 Privat browsing med beskyttelse mod sporing
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Firefox sporingsbeskyttelse
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Vil du deaktivere denne funktion? <a href="%s">Åbn indstillingerne Privatliv</a>
@@ -99,11 +73,6 @@ Tak fordi du læste om beskyttelse mod sporing.
 Tak fordi du læste om den nye private browsing med beskyttelse mod sporing.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Tak fordi du læste om den nye beskyttelse mod sporing i privat browsing-tilstand.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Læs mere om, hvordan det virker, på siden <a rel="external" href="%s">Beskyttelse mod sporing i privat browsing</a>.
@@ -111,10 +80,5 @@ Læs mere om, hvordan det virker, på siden <a rel="external" href="%s">Beskytte
 
 ;Restart tour
 Genstart rundvisningen
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-Start rundvisningen igen
 
 

@@ -1,6 +1,5 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -11,11 +10,6 @@ Cómo funciona la protección de seguimiento
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Cuando ves el escudo, Firefox está bloqueando partes de la página que podrían seguir tu actividad de navegación.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Cuando el escudo es visible, significa que Firefox está activamente bloqueando elementos de la página que pueden estar siguiéndote.
 
 
 ;1 of 3
@@ -34,11 +28,6 @@ Diferencias a esperar
 Algunas áreas de la página podrían estar ausentes, ya que permitirían a terceros seguirte a través de diferentes sitios.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Algunas áreas de las páginas pueden no aparecer porque permiten a terceros seguir tu comportamiento en línea.
-
-
 ;2 of 3
 2 de 3
 
@@ -51,18 +40,8 @@ Algunas áreas de las páginas pueden no aparecer porque permiten a terceros seg
 Es fácil desactivar la protección de seguimiento para el sitio web en el que te encuentras apretando “Desactivar protección para esta sesión”.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Es fácil desactivar la protección de seguimiento para el sitio web en el que te encuentras apretando “Desactivar la protección durante esta sesión”.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 Es fácil activar la protección de seguimiento para el sitio web en el que te encuentras apretando “Activar protección”.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-Es fácil activar la protección de seguimiento para el sitio web en el que te encuentras apretando “Activar protección para esta sesión”.
 
 
 ;3 of 3
@@ -81,11 +60,6 @@ Protección de seguimiento
 Navegación privada con protección de seguimiento
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Protección de seguimiento de Firefox
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 ¿Quieres desactivar esta función? <a href="%s">Visita las preferencias de privacidad</a>
@@ -99,22 +73,12 @@ Graciar por aprender sobre la protección de seguimiento.
 Gracias por aprender sobre la nueva navegación privada con protección de seguimiento.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Gracias por aprender sobre la nueva función de protección de seguimiento en el modo de navegación privada.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Aprende más sobre cómo funciona visitando la <a rel="external" href="%s">página de preguntas frecuentes</a>.
 
 
 ;Restart tour
-Reiniciar tur
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
 Reiniciar tur
 
 

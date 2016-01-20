@@ -1,6 +1,5 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -11,11 +10,6 @@
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 ಸುರಕ್ಷೆಯ ಕವಚವನ್ನು ನೀಡು ಕಂಡಾಗ, Firefox ನಿಮ್ಮ ಜಾಲಾಟದ ಚಟುವಟಿಕೆಗಳ ಜಾಡು ಹಿಡಿಯುವ ಪುಟದ ಕೆಲವು ಭಾಗಗಳನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತಿರುತ್ತದೆ.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-ಸುರಕ್ಷೆಯ ಕವಚನು ಕಾಣುತ್ತಿದ್ದಲ್ಲಿ, Firefox ನಿಮ್ಮ ಜಾಡು ಹಿಡಿಯುವ ಪುಟದ ಕೆಲವು ಭಾಗಗಳನ್ನು ಸಕ್ರಿಯವಾಗಿ ನಿರ್ಬಂಧಿಸುತ್ತಿರುತ್ತದೆ.
 
 
 ;1 of 3
@@ -34,11 +28,6 @@
 ಪುಟದ ಕೆಲವು ಭಾಗಗಳು ಕಾಣೆಯಾಗಿರಬಹುದು, ಏಕೆಂದರೆ ಅವು ಮೂರನೆ ವ್ಯಕ್ತಿಗಳು ನಿಮ್ಮನ್ನು ವಿವಿಧ ಜಾಲತಾಣಗಳಿಂದ ಜಾಡುಹಿಡಿಯುವುದಕ್ಕೆ ಅನುವು ಮಾಡಿಕೊಡುತ್ತಿರಬಹುದು.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-ಪುಟದ ಕೆಲವು ಭಾಗಗಳು ಕಾಣೆಯಾಗಿರಬಹುದು ಏಕೆಂದರೆ ಅವು ಮೂರನೆ ವ್ಯಕ್ತಿಗಳು ನಿಮ್ಮ ಜಾಲಾಟದ ನೆಡವಳಿಕೆಯನ್ನು ಜಾಡುಹಿಡಿಯುವುದಕ್ಕೆ ಅನುವು ಮಾಡಿಕೊಡುತ್ತಿರಬಹುದು.
-
-
 ;2 of 3
 3ರಲ್ಲಿ 2ನೆಯದು
 
@@ -51,18 +40,8 @@
 ನೀವಿರುವ ಜಾಲತಾಣಕ್ಕೆ ಜಾಡು ಹಿಡಿಸುವಿಕೆಯ ಸುರಕ್ಷತೆಯನ್ನು ಸುಲಭವಾಗಿ ತೆಗೆದು ಹಾಕಲು “ಈ ಅಧಿವೇಶನಕ್ಕೆಸುರಕ್ಷತೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು” ಕ್ಲಿಕ್ಕಿಸಿ
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-ನೀವಿರುವ ಜಾಲತಾಣಕ್ಕೆಜಾಡು ಹಿಡಿಸುವಿಕೆಯ ಸುರಕ್ಷತೆಯನ್ನು“ಈ ಅಧಿವೇಶನಕ್ಕೆಸುರಕ್ಷತೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು” ಕ್ಲಿಕ್ಕಿಸಿ ಸುಲಭವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಬಹುದು.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 ನೀವಿರುವ ಜಾಲತಾಣಕ್ಕೆ ಜಾಡು ಹಿಡಿಸುವಿಕೆಯ ಸುರಕ್ಷತೆಯನ್ನು “ಸುರಕ್ಷತೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು” ಕ್ಲಿಕ್ಕಿಸಿ ಸುಲಭವಾಗಿ ಒದಗಿಸಬಹುದು.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-ನೀವಿರುವ ಜಾಲತಾಣಕ್ಕೆ ಜಾಡು ಹಿಡಿಸುವಿಕೆಯ ಸುರಕ್ಷತೆಯನ್ನು “ಸುರಕ್ಷತೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು” ಕ್ಲಿಕ್ಕಿಸಿ ಸುಲಭವಾಗಿ ಸಕ್ರಿಯಗೊಳಿಸಬಹುದು.
 
 
 ;3 of 3
@@ -81,11 +60,6 @@
 ಖಾಸಗಿ ಜಾಲಾಟ ಜಾಡು ಇರಿಸುವಿಕೆಯ ಸುರಕ್ಷೆಯೊಂದಿಗೆ
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Firefox ಜಾಡು ಇರಿಸುವಿಕೆಯ ಸುರಕ್ಷತೆ
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಬೇಕೆ? <a href="%s">ಗೌಪ್ಯತೆಯ ಆದ್ಯತೆಗಳಿಗೆ ಭೇಟಿಕೊಡಿ</a>
@@ -99,11 +73,6 @@ Firefox ಜಾಡು ಇರಿಸುವಿಕೆಯ ಸುರಕ್ಷತೆ
 ಹೊಸ ಜಾಡು ಹಿಡಿಯುವಿಕೆಗೆ ಸುರಕ್ಷೆಯೊಂದಿಗಿನ ಖಾಸಗಿ ಜಾಲಾಟದ ಬಗ್ಗೆ ಕಲಿತದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-ಹೊಸ ಖಾಸಗಿ ಜಾಲಾಟದಲ್ಲಿನ ಜಾಡು ಹಿಡಿಯುವಿಕೆಗೆ ಸುರಕ್ಷೆತೆಯ ವೈಶಿಷ್ಟ್ಯದ ಬಗ್ಗೆ ಕಲಿತದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 ಇದು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎನ್ನುವುದನ್ನು <a rel="external" href="%s">FAQ ಪುಟ </a> ಸಂಪರ್ಕಿಸಿ ತಿಳಿಯಿರಿ.
@@ -111,10 +80,5 @@ Firefox ಜಾಡು ಇರಿಸುವಿಕೆಯ ಸುರಕ್ಷತೆ
 
 ;Restart tour
 ಪ್ರವಾಸವನ್ನು ಮತ್ತೆ ಆರಂಭಿಸು
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-ಪ್ರವಾಸವನ್ನು ಮತ್ತೆ ಪ್ರಾರಂಭಿಸು
 
 

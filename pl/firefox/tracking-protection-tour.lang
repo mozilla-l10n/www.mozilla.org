@@ -1,6 +1,5 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -10,11 +9,6 @@ Jak działa ochrona przed śledzeniem
 
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
-Widoczna ikona tarczy oznacza, że Firefox blokuje elementy strony mogące śledzić Twoją aktywność w sieci.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
 Widoczna ikona tarczy oznacza, że Firefox blokuje elementy strony mogące śledzić Twoją aktywność w sieci.
 
 
@@ -34,11 +28,6 @@ Różnice jakich należy oczekiwać
 Na niektórych stronach pewne obszary mogą być niewyświetlane, ponieważ mogłyby pozwolić innym śledzić Ciebie między stronami.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Na niektórych stronach pewne obszary mogą być niewyświetlane, ponieważ mogłyby pozwolić innym śledzić Ciebie między stronami.
-
-
 ;2 of 3
 2 z 3
 
@@ -51,17 +40,7 @@ Jak zmienić ustawienia
 Ochronę przed śledzeniem na odwiedzanej stronie można łatwo wyłączyć klikając „Wyłącz ochronę w oknie prywatnym”.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Ochronę przed śledzeniem na odwiedzanej stronie można łatwo wyłączyć klikając „Wyłącz ochronę w oknie prywatnym”.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-Ochronę przed śledzeniem na odwiedzanej stronie można łatwo włączyć klikając „Włącz ochronę dla tej strony”.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
 Ochronę przed śledzeniem na odwiedzanej stronie można łatwo włączyć klikając „Włącz ochronę dla tej strony”.
 
 
@@ -81,11 +60,6 @@ Ochrona przed śledzeniem
 Przeglądanie prywatne z ochroną przed śledzeniem
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Ochorna przed śledzeniem - Firefox
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Chcesz wyłączyć tę funkcję? Przeczytaj o <a href="%s">ustawieniach prywatności</a>
@@ -99,11 +73,6 @@ Dziękujemy za zapoznanie się z informacjami nt. ochrony przed śledzeniem.
 Dziękujemy za zapoznanie się z informacjami o nowym przeglądaniu prywatnym z ochroną prywatności.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Dziękujemy za zapoznanie się z informacjami o nowym przeglądaniu prywatnym z ochroną prywatności.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Więcej informacji o działaniu tej funckji można znaleźć <a rel="external" href="%s">w naszym FAQ</a>.
@@ -111,10 +80,5 @@ Więcej informacji o działaniu tej funckji można znaleźć <a rel="external" 
 
 ;Restart tour
 Rozpocznij od nowa
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-Wyświetl przewodnik od początku
 
 

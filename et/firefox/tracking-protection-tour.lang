@@ -1,6 +1,5 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -11,11 +10,6 @@ Kuidas jälitamisvastane kaitse töötab
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Kui näed kilpi, siis blokeerib Firefox lehe osi, mis võivad sinu veebilehitsemist jälitada.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Kui kilp on nähtav, siis blokeerib Firefox aktiivselt lehe osi, mis võivad sind jälitada.
 
 
 ;1 of 3
@@ -34,11 +28,6 @@ Oodatavad erinevused
 Mõned lehe alad võivad puududa, sest need võivad lubada kolmandatel osapooltel sind erinevatel veebisaitidel jälgida.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Mõned lehe alad võivad puududa, sest need võimaldavad kolmandatel osapooltel sinu veebilehitsemist jälgida.
-
-
 ;2 of 3
 2. 3-st
 
@@ -51,18 +40,8 @@ Soovid muudatusi teha?
 Avatud veebilehel jälitamisvastase kaitse välja lülitamiseks klõpsa lihtsalt “Keela kaitse selle seansi ajaks”.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Avatud veebilehel jälitamisvastase kaitse välja lülitamiseks klõpsa lihtsalt “Keela kaitse selle seansi ajaks”.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 Jälitamisvastase kaitse sisse lülitamiseks avatud veebilehel klõpsa lihtsalt “Luba kaitse”.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-Jälitamisvastase kaitse lubamiseks avatud veebilehel klõpsa lihtsalt “Luba kaitse”.
 
 
 ;3 of 3
@@ -81,11 +60,6 @@ Jälitamisvastane kaitse
 Privaatne veebilehitsemine jälitamisvastase kaitsega
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Firefoxi jälitamisvastane kaitse
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Soovid selle funktsiooni välja lülitada? <a href="%s">Ava privaatsuseelistused</a>
@@ -99,11 +73,6 @@ Täname, et tundsid huvi jälitamisvastase kaitse vastu.
 Täname, et tundsid huvi uuenenud privaatse veebilehitsemise režiimi vastu, millel on nüüd jälitamisvastase kaitse.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Täname, et tundsid huvi uue jälitamisvastase kaitse vastu privaatse veebilehitsemise režiimis.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Rohkem teavet selle töötamisest leiad, kui külastad <a rel="external" href="%s">korduvate küsimuste lehte</a>.
@@ -111,10 +80,5 @@ Rohkem teavet selle töötamisest leiad, kui külastad <a rel="external" href="%
 
 ;Restart tour
 Taaskäivita tuur
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-Alusta tuuri uuesti
 
 

@@ -1,5 +1,4 @@
 ## active ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -10,11 +9,6 @@ Nola funtzionatzen duen jarraipenaren babesak
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Ezkutua ikusten baduzu, Firefox zure nabigatze-jardueraren jarraipena egiten egon litekezken orriko zenbait zati blokeatzen ari da.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Babesaren ikonoa ikusgai dagoenean, Firefox zure jarraipena egiten duten orriko elementuak blokeatzen ari dela esan nahi du.
 
 
 ;1 of 3
@@ -33,11 +27,6 @@ Esperotako desberdintasunak
 Baliteke orriko gune batzuk falta izatea, hauek hirugarrenei webgune desberdinetan zehar jarraipena egitea ahalbidetu diezaieketelako.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Orriaren gune batzuk falta litezke, hirugarrenei zure nabigatze-portaeraren jarraipena egiten utzi diezaieketelako.
-
-
 ;2 of 3
 2 / 3
 
@@ -50,18 +39,8 @@ Aldaketak egin nahi?
 Erraza da uneko webgunerako jarraipenaren babesa itzaltzea, “Desgaitu babesa saio honetarako” sakatuz.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Erraza da uneko webgunerako jarraipenaren babesa desgaitzea, “Desgaitu babesa saio honetarako” sakatuz.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 Erraza da uneko webgunerako jarraipenaren babesa piztea “Gaitu babesa” sakatuz.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-Erraza da uneko webgunerako jarraipenaren babesa gaitzea, "Gaitu babesa" sakatuz.
 
 
 ;3 of 3
@@ -80,11 +59,6 @@ Tracking Protection
 Nabigatze pribatua jarraipenaren babesarekin
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Firefoxen jarraipenaren babesa
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Eginbide hau desaktibatu nahi? <a href="%s">Bisitatu pribatutasun-hobespenak</a>
@@ -98,11 +72,6 @@ Thanks for learning about Tracking Protection.
 Milesker jarraipenaren babesdun nabigatze pribatu berriari buruz ikasteagatik.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Milesker nabigazio pribatuko moduan dugun jarraipenaren babes berriari buruz ikasteagatik.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Ikasi gehiago bere funtzionamenduari buruz <a rel="external" href="%s">ohiko galderen orria</a> bisitatuz.
@@ -110,10 +79,5 @@ Ikasi gehiago bere funtzionamenduari buruz <a rel="external" href="%s">ohiko gal
 
 ;Restart tour
 Berrabiarazi itzulia
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-Hasi itzulia berriro
 
 

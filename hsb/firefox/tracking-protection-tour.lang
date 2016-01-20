@@ -1,6 +1,5 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -11,11 +10,6 @@ Kak slědowanski škit funguje
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Hdyž tarč widźiće, blokuje Firefox někotre dźěle strony, kotrež móhli wašu přehladowansku aktiwitu slědować.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Jeli tarč je widźomny, to woznamjenja, zo Firefox aktiwnje elementy wobsaha blokuje, kotrež was slěduja.
 
 
 ;1 of 3
@@ -34,11 +28,6 @@ Rozdźěle, kotrež so wočakuja
 Někotre wobłuki strony móhli falować, dokelž móhli třećim poskićowarjam zmóžnić, was přez rozdźělne websydła slědować.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Někotre wobłuki strony móža falować, dokelž móža třećim poskićowarjam zmóžnić, waše přehladowanske zadźerženje slědować.
-
-
 ;2 of 3
 2 z 3
 
@@ -51,18 +40,8 @@ Chceće něšto změnić?
 Je lochko, slědowanski škit za websydło znjemóžnić, na kotrymž sće, klikńće prosće na „Škit za tute posedźenje znjemóžnić“.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Je lochko, slědowanski škit za websydło znjemóžnić, na kotrymž su, klikńće prosće na „Škit za tute posedźenje znjemóžnić“.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 Je lochko, slědowanski škit za websydło zmóžnić, na kotrymž sće, klikńće prosće na „Škit zmóžnić“.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-Je lochko, slědowanski škit za websydło zmóžnić, na kotrymž su, klikńće prosće na „Škit zmóžnić“.
 
 
 ;3 of 3
@@ -81,11 +60,6 @@ Slědowanski škit
 Priwatny modus ze slědowanskim škitom
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Slědowanski škit Firefox
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Chceće tutu funkciju znjemóžnić? <a href="%s">Wopytajće nastajenja priwatnosće</a>
@@ -99,11 +73,6 @@ Dźakujemy so, zo sće so wo funkciji „slědowanski škit“ informował.
 Dźakujemy so wam, zo sće so z nowym priwatnym modusom ze slědowanskim škitom zeznajomił.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Dźakujemy so, zo sće so wo nowej funkciji slědowanskeho škita w priwatnym modusu informował.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Zhońće wjace, kak funguje - wopytajće <a rel="external" href="%s">stronu Huste prašenja</a>.
@@ -111,10 +80,5 @@ Zhońće wjace, kak funguje - wopytajće <a rel="external" href="%s">stronu Hust
 
 ;Restart tour
 Turu znowa startować
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-Započńće turu znowa
 
 

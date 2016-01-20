@@ -1,6 +1,5 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -11,11 +10,6 @@ Sut mae Diogelwch Rhag Tracio'n gweithio
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Pan welwch y darian, mae Firefox yn rhwystro rhai darnau o'r dudalen gall fod yn tracio eich pori.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Pan mae'r daran i'w gweld, mae'n golygu fod Firefox ar waith yn rhwystro elfennau tudalen gall fod yn eich tracio.
 
 
 ;1 of 3
@@ -34,11 +28,6 @@ Y gwahaniaethau i'w disgwyl
 Efallai fod rhai darnau o'r dudalen ar goll gan eu bod yn caniatáu i drydydd parti i'ch tracio ar draws gwefannau gwahanol.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Efallai fod rhai darnau o'r dudalen ar goll gan eu bod yn caniatáu i drydydd parti i dracio beth rydych yn ei bori.
-
-
 ;2 of 3
 2 o 3
 
@@ -51,17 +40,7 @@ Eisiau gwneud newidiadau?
 Mae’n hawdd diffodd Diogelwch Rhag Tracio ar wefan drwy glicio “Analluogi diogelwch y sesiwn hwn”.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Mae’n hawdd analluogi Diogelwch Rhag Tracio ar wefan drwy glicio “Analluogi diogelwch y sesiwn hwn”.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-Mae’n hawdd galluogi Diogelwch Rhag Tracio ar wefan drwy glicio “Galluogi diogelwch”.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
 Mae’n hawdd galluogi Diogelwch Rhag Tracio ar wefan drwy glicio “Galluogi diogelwch”.
 
 
@@ -81,11 +60,6 @@ Diogelwch Rhag Tracio
 Pori Preifat gyda Diogelwch Rhag Tracio
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Diogelwch Rhag Tracio Firefox
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Eisiau diffodd y nodwedd hon?<a href="%s">Ewch i'r Dewisiadau Preifatrwydd</a>
@@ -99,11 +73,6 @@ Diolch am ddysgu am Ddiogelwch Rhag Tracio
 Diolch am ddysgu am Bori Preifat gyda Diogelwch Rhag Tracio.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Diolch am ddysgu am y nodweddion Diogelwch Rhag Tracio newydd yn y Modd Pori Preifat.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Dysgwch ragor am sut mae'n gweithio drwy fynd i'r dudalen <a rel="external" href="%s">Cwestiynau Cyffredin</a>.
@@ -111,10 +80,5 @@ Dysgwch ragor am sut mae'n gweithio drwy fynd i'r dudalen <a rel="external" href
 
 ;Restart tour
 Ailgychwyn y cyflwyniad
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-Cychwyn y cyflwyniad eto
 
 

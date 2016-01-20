@@ -1,6 +1,5 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -11,11 +10,6 @@ Cómo funciona a Protección debant de Seguimientos
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Quan veyes o escudo, Firefox ye blocando bellas partes d'a pachina que podrían fer seguimiento d'a tuya actividat de navegación.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Quan o escudo ye visible, significa que Firefox ye blocando activament elementos d'a pachina que te podrían fer seguimiento.
 
 
 ;1 of 3
@@ -34,11 +28,6 @@ Diferencias a esperar
 Bellas arias de pachinas pueden faltar, porque podrían premitir a tercers de fer-te seguimiento en diferents webs.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Bellas arias de pachinas pueden faltar, porque pueden premitir a tercers de seguir o tuyo comportamiento de navegación.
-
-
 ;2 of 3
 2 de 3
 
@@ -51,18 +40,8 @@ Quiers fer cambios?
 Quiers fer cambios?
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Desactivar a Protección debant de Seguimientos ye de buen fer en a pachina web que vestias, fendo clic en “Desactivar a protección ta ista sesión”.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 Desactivar a Protección debant de Seguimientos ye de buen fer pa la pachina web en a qual yes; nomás has de fer clic en “Desactivar a protección en ista sesión”.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-Activar a Protección debant de Seguimientos ye de buen fer pa la pachina web en a qual yes; nomás has de fer clic en “Activar protección”.
 
 
 ;3 of 3
@@ -81,11 +60,6 @@ Protección debant de Seguimientos
 Navegación Privada con Protección debant de Seguimientos
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Protección debant de Seguimientos
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Quiers sacar ista caracteristica? <a href="%s">Vesita as Preferencia de Privadeza</a>
@@ -99,11 +73,6 @@ Gracias por aprender arredol d'a Protección debant de Seguimientos.
 Gracias por querer saber mas sobre a nueva Navegación Privada con Protección debant de Seguimientos.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Gracias por querer saber mas sobre a nueva caracteristica de Protección debant de Seguimientos en o Modo de Navegación Privada.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Saber mas sobre cómo funciona vesitando a <a rel="external" href="%s">pachina de preguntas freqüents</a>.
@@ -111,10 +80,5 @@ Saber mas sobre cómo funciona vesitando a <a rel="external" href="%s">pachina d
 
 ;Restart tour
 Tornar a empecipiar a gambadeta
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-Empecipiar a gambadeta atra vegada
 
 

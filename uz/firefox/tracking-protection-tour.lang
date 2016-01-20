@@ -10,11 +10,6 @@ Kuzatishdan himoyalanish qanday ishlaydi?
 When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Qalqon rasmi ko‘rinsa, Firefox sizni kuzatishi mumkin bo‘lgan sahifa elementlarini faol bloklayotgan bo‘ladi.
-
-
 ;1 of 3
 1/3
 
@@ -31,11 +26,6 @@ Kutilganidan ko‘ra farqlar
 Some page areas may be missing, because they could allow third parties to track you across different websites.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Ba’zi sahifa hududlari qoldirilgan bo‘lishi mumkin, chunki ular uchinchi tomonga sizning brauzeringiz xususiyatlarini kuzatishga ruxsat bergan.
-
-
 ;2 of 3
 2/3
 
@@ -48,18 +38,8 @@ O‘zgartirish kiritishni xohlaysizmi?
 It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Siz kirgan sahifada Kuzatishdan himoyalanish xususiyatini o‘chirib qo‘yish juda oson. Buning uchun "Ushbu seans uchun himoyalanishni o‘chirib qo‘yish" ustiga bosing.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-Siz kirgan sahifada Kuzatishdan himoyalanish xususiyatini yoqib qo‘yish juda oson. Buning uchun "Himoyalanishni yoqib qo‘yish" ustiga bosing.
 
 
 ;3 of 3
@@ -78,11 +58,6 @@ Tracking Protection
 Private Browsing with Tracking Protection
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Firefox kuzatishdan himoyalanish
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Ushbu xususiyatni o‘chirib qo‘yishni xohlaysizmi? <a href="%s">Maxfiylik parametrlariga kiring</a>
@@ -96,11 +71,6 @@ Thanks for learning about Tracking Protection.
 Thanks for learning about the new Private Browsing with Tracking Protection.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-"Maxfiy ko‘rish" rejimida yangi "Kuzatishdan himoyalanish" xususiyati haqida o‘rganganingiz uchun rahmat.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Uning qanday ishlashi haqida ko‘proq o‘rganish uchun <a rel="external" href="%s">Savol-javoblar sahifasi</a>ga tashrif buyuring.
@@ -108,10 +78,5 @@ Uning qanday ishlashi haqida ko‘proq o‘rganish uchun <a rel="external" href=
 
 ;Restart tour
 Restart tour
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-Yana sayohatni boshlash
 
 

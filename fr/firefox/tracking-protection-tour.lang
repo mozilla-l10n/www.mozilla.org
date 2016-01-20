@@ -1,6 +1,5 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -10,11 +9,6 @@ Fonctionnement de la protection contre le pistage
 
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
-Lorsque le bouclier est visible, Firefox bloque certains éléments de la page qui peuvent pister votre navigation.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
 Lorsque le bouclier est visible, Firefox bloque certains éléments de la page qui peuvent pister votre navigation.
 
 
@@ -34,11 +28,6 @@ Les différences auxquelles s’attendre
 Il est possible que certaines zones de la page soient manquantes car elles peuvent permettre à des tiers de pister votre navigation.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Il est possible que certaines zones de la page soient manquantes car elles peuvent permettre à des tiers de pister votre navigation.
-
-
 ;2 of 3
 2 sur 3
 
@@ -51,17 +40,7 @@ Vous souhaitez modifier ce comportement ?
 Il est facile de désactiver la protection contre le pistage pour le site que vous visitez en cliquant sur « Désactiver la protection pour cette session ».
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Il est facile de désactiver la protection contre le pistage pour le site que vous visitez en cliquant sur « Désactiver la protection pour cette session ».
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-Il est facile d’activer la protection contre le pistage pour le site que vous visitez en cliquant sur « Activer la protection ».
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
 Il est facile d’activer la protection contre le pistage pour le site que vous visitez en cliquant sur « Activer la protection ».
 
 
@@ -81,11 +60,6 @@ Protection contre le pistage
 Navigation privée avec protection contre le pistage
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Protection contre le pistage
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Désactivable depuis les <a href="%s">préférences de vie privée</a>
@@ -99,22 +73,12 @@ Merci d’avoir pris le temps d’en apprendre davantage sur la protection contr
 Nous vous remercions d’avoir pris le temps de découvrir le nouveau mode de navigation privée avec protection contre le pistage.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Nous vous remercions d’avoir pris le temps de découvrir le nouveau mode de navigation privée avec protection contre le pistage.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Apprenez-en davantage sur son fonctionnement en consultant la <a rel="external" href="%s">page FAQ</a>.
 
 
 ;Restart tour
-Recommencer la visite guidée
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
 Recommencer la visite guidée
 
 

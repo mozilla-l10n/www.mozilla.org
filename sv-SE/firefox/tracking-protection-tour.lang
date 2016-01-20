@@ -1,6 +1,5 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -11,11 +10,6 @@ Hur spårningsskydd fungerar
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 När du ser skölden, blockerar Firefox vissa delar av sidan som kunde spåra ditt surfande.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-När skölden är synlig, betyder det att Firefox aktivt blockerar element på sidan som kan spåra dig.
 
 
 ;1 of 3
@@ -34,11 +28,6 @@ Skillnader som väntar
 Vissa sidområden kanske saknas, eftersom de kan tillåta att en tredje part kan spåra dig över olika webbplatser.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Vissa sidområden kanske saknas eftersom de kan tillåta att en tredje part kan spåra ditt surfbeteende.
-
-
 ;2 of 3
 2 av 3
 
@@ -51,18 +40,8 @@ Vill du göra ändringar?
 Det enkelt att stänga spårningsskydd för webbplatsen du är på genom att klicka på “Inaktivera skydd för den här sessionen.”
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Det är enkelt att inaktivera spårningsskydd för webbplatsen du är på genom att klicka på “Inaktivera skydd för denna session”.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 Det enkelt att slå på spårningsskydd för webbplatsen du är på genom att klicka på “Aktivera skydd.”
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-Det enkelt att aktivera spårningsskydd för webbplatsen du är på genom att klicka på “Aktivera skydd”.
 
 
 ;3 of 3
@@ -81,11 +60,6 @@ Spårningsskydd
 Privat surfning med spårningsskydd
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Firefox spårningsskydd
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Vill du stänga av denna funktion? <a href="%s">Besöka sekretessinställningar</a>
@@ -99,11 +73,6 @@ Tack för att du lär dig om spårningsskydd.
 Tack för att du lär dig om nya Privat surfning med spårningsskydd.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Tack för att du lär dig om den nya funktionen spårningsskydd i privat surfläge.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Läs mer om hur det fungerar genom att besöka <a rel="external" href="%s">sidan Vanliga frågor</a>.
@@ -111,10 +80,5 @@ Läs mer om hur det fungerar genom att besöka <a rel="external" href="%s">sidan
 
 ;Restart tour
 Starta om presentationen
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-Starta presentation igen
 
 

@@ -1,6 +1,5 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -11,11 +10,6 @@ Kako deluje zaščita pred sledenjem
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Ko vidite ščit, Firefox zavrača nekatere dele strani, ki bi lahko sledili vaši dejavnosti na spletu.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Ko je ščit viden, Firefox aktivno zavrača elemente strani, ki bi vam lahko sledil.
 
 
 ;1 of 3
@@ -34,11 +28,6 @@ Kakšne razlike lahko pričakujete
 Nekateri deli spletnih strani lahko manjkajo, ker lahko tretjim osebam omogočajo, da vam sledijo na različnih straneh.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Nekateri deli spletnih strani lahko manjkajo, ker tretjim osebam omogočajo, da sledijo vašim iskalnim navadam.
-
-
 ;2 of 3
 2 od 3
 
@@ -51,18 +40,8 @@ Nekateri deli spletnih strani lahko manjkajo, ker tretjim osebam omogočajo, da 
 Zaščito pred sledenjem za trenutno spletno stran lahko onemogočite s klikom na “Onemogoči zaščito za to sejo.”
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Zaščito pred sledenjem za trenutno spletno stran lahko onemogočite s klikom na “Onemogoči zaščito za to sejo”.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 Zaščito pred sledenjem za trenutno spletno stran lahko omogočite s klikom na “Omogoči zaščito.”
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-Zaščito pred sledenjem za trenutno spletno stran lahko omogočite s klikom na “Omogoči zaščito”.
 
 
 ;3 of 3
@@ -81,11 +60,6 @@ Zaščita pred sledenjem
 Zasebno brskanje z zaščito pred sledenjem
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Firefoxova zaščita pred sledenjem
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Želite izključiti to možnost? <a href="%s">Obiščite nastavitve zasebnosti</a>
@@ -99,11 +73,6 @@ Hvala za spoznavanje zaščite pred sledenjem.
 Hvala za spoznavanje novega zasebnega brskanja z zaščito pred sledenjem.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Hvala za spoznavanje nove zaščite pred sledenjem v zasebnem načinu brskanja.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Podrobnosti o delovanju najdete med <a rel="external" href="%s">pogostimi vprašanji</a>.
@@ -111,10 +80,5 @@ Podrobnosti o delovanju najdete med <a rel="external" href="%s">pogostimi vpraš
 
 ;Restart tour
 Ponovno zaženi ogled
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-Znova začni ogled
 
 

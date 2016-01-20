@@ -1,5 +1,4 @@
 ## active ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -10,11 +9,6 @@ Hoe Bescherming tegen volgen werkt
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Als u het schildje ziet, blokkeert Firefox onderdelen van de pagina die uw surfactiviteit zouden kunnen volgen.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Als het schildje zichtbaar is, betekent dit dat Firefox actief pagina-elementen die u kunnen volgen blokkeert.
 
 
 ;1 of 3
@@ -33,11 +27,6 @@ Te verwachten verschillen
 Sommige paginagedeelten kunnen ontbreken, omdat deze kunnen toestaan dat derden u op verschillende websites volgen.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Sommige paginagedeelten kunnen ontbreken, omdat deze kunnen toestaan dat derden uw surfgedrag volgen.
-
-
 ;2 of 3
 2 van 3
 
@@ -50,18 +39,8 @@ Wilt u wijzigingen aanbrengen?
 Bescherming tegen volgen kan eenvoudig worden uitgezet voor de website waarop u zich bevindt door op ‘Bescherming voor deze sessie uitschakelen’ te klikken.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-U kunt Bescherming tegen volgen eenvoudig uitschakelen voor de website waarop u zich bevindt door op ‘Bescherming voor deze sessie uitschakelen’ te klikken.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 Bescherming tegen volgen kan eenvoudig worden aangezet voor de website waarop u zich bevindt door op ‘Bescherming inschakelen’ te klikken.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-U kunt Bescherming tegen volgen eenvoudig inschakelen voor de website waarop u zich bevindt door op ‘Bescherming inschakelen’ te klikken.
 
 
 ;3 of 3
@@ -80,11 +59,6 @@ Tracking Protection
 Privénavigatie met Bescherming tegen volgen
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Bescherming tegen volgen in Firefox
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Wilt u deze functie uitschakelen? <a href="%s">Bezoek de privacyvoorkeuren</a>
@@ -98,22 +72,12 @@ Thanks for learning about Tracking Protection.
 Bedankt voor het lezen van de info over de nieuwe Privénavigatie met Bescherming tegen volgen.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Bedankt voor het lezen van de info over de nieuwe functie ‘Bescherming tegen volgen’ in Privénavigatiemodus.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Meer info over de werking ervan vindt u op de <a rel="external" href="%s">FAQ-pagina</a>.
 
 
 ;Restart tour
-Rondleiding opnieuw starten
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
 Rondleiding opnieuw starten
 
 

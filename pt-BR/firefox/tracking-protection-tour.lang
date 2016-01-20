@@ -1,6 +1,5 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -11,11 +10,6 @@ Como a proteção contra rastreamento funciona
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Quando visualizar o escudo, o Firefox está bloqueando algumas partes da página que podem rastrear sua atividade de navegação.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Quando o escudo estiver visível, significa que o Firefox está ativamente bloqueando elementos da página que podem rastreá-lo.
 
 
 ;1 of 3
@@ -34,11 +28,6 @@ Diferenças a esperar
 Algumas áreas da página podem estar ausente porque elas permitem que terceiros possam rastreá-lo através de diferentes sites.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Algumas áreas de página podem estar ausente porque podem permitir que terceiros rastreiem seu comportamento de navegação.
-
-
 ;2 of 3
 2 de 3
 
@@ -51,18 +40,8 @@ Quer fazer mudanças?
 É fácil desativar a proteção contra rastreamento no site que entrar, clicando em “Desativar proteção para esta sessão.”
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-É fácil desativar a proteção contra rastreamento no site que entrar, clicando em "Desativar proteção para esta sessão".
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 É fácil ativar a proteção contra rastreamento no site que você está, clicando em “Ativar proteção.”
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-É fácil ativar a proteção contra rastreamento no site que entrar, clicando em "Ativar proteção".
 
 
 ;3 of 3
@@ -81,11 +60,6 @@ Proteção contra rastreamento
 Navegação privada com proteção contra rastreamento
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Proteção contra rastreamento do Firefox
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Quero desativar esse recurso? <a href="%s">Visite as preferências de privacidade</a>
@@ -99,11 +73,6 @@ Obrigado por aprender sobre a proteção contra rastreamento.
 Obrigado por aprender sobre a nova navegação privada com proteção contra rastreamento.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Obrigado por aprender sobre o novo recurso de proteção contra rastreamento no modo de navegação privada.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Saiba mais sobre como funciona, visitando a <a rel="external" href="%s">página de perguntas frequentes</a>.
@@ -111,10 +80,5 @@ Saiba mais sobre como funciona, visitando a <a rel="external" href="%s">página 
 
 ;Restart tour
 Reiniciar o tour
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-Recomeçar o tour
 
 

@@ -1,6 +1,5 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -11,11 +10,6 @@ How Tracking Protection works {ok}
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity. {ok}
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-When the shield is visible, it means Firefox is actively blocking page elements that may track you. {ok}
 
 
 ;1 of 3
@@ -34,11 +28,6 @@ Differences to expect {ok}
 Some page areas may be missing, because they could allow third parties to track you across different web sites.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Some page areas may be missing because they can allow third-parties to track your browsing behaviour.
-
-
 ;2 of 3
 2 of 3 {ok}
 
@@ -51,18 +40,8 @@ Want to make changes? {ok}
 It’s easy to turn off Tracking Protection for the web site you’re on by clicking “Disable protection for this session.”
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-It’s easy to disable Tracking Protection for the web site you’re on by clicking “Disable protection for this session”.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 It’s easy to turn on Tracking Protection for the web site you’re on by clicking “Enable protection.”
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-It’s easy to enable Tracking Protection for the web site you’re on by clicking “Enable protection”.
 
 
 ;3 of 3
@@ -81,11 +60,6 @@ Tracking Protection {ok}
 Private Browsing with Tracking Protection {ok}
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Firefox Tracking Protection {ok}
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a> {ok}
@@ -99,11 +73,6 @@ Thanks for learning about Tracking Protection. {ok}
 Thanks for learning about the new Private Browsing with Tracking Protection. {ok}
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Thanks for learning about the new Tracking Protection feature in Private Browsing Mode. {ok}
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>. {ok}
@@ -111,10 +80,5 @@ Learn more about how it works by visiting the <a rel="external" href="%s">FAQ pa
 
 ;Restart tour
 Restart tour {ok}
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-Start the tour again {ok}
 
 

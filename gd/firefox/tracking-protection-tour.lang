@@ -1,6 +1,5 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -11,11 +10,6 @@ Mar a dh’obraicheas an dìon o thracadh
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Nuair a chì thu an sgiath, tha Firefox a’ bacadh pìosan dhen duilleag a dh’fhaodadh a bhith ’gad thracadh is tu ri brabhsadh.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Nuair a chì thu an sgiath, tha sin a’ ciallachadh gu bheil Firefox a’ bacadh eileamaidean na duilleige a dh’fhaodadh a bhith ’gad thracadh.
 
 
 ;1 of 3
@@ -34,11 +28,6 @@ Na bhios eadar-dhealaichte
 Dh’fhaoidte gum bi pìosan dhen duilleag a dhìth nan leigeadh iad le treas-phàrtaidhean do thracadh air feadh làraichean-lìn eadar-dhealaichte.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Dh’fhaoidte gum bith pìosan dhen duilleag a dhìth nan leigeadh iad le treas-phàrtaidhean am brabhsadh a nì thu a thracadh.
-
-
 ;2 of 3
 2 à 3
 
@@ -51,17 +40,7 @@ Airson rud atharrachadh?
 Tha e furasta an dìon o thracadh a chur à comas air làrach le bhith a’ briogadh air “Cuir an dìon à comas rè an t-seisein seo.”
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Tha e furasta an dìon o thracadh a chur à comas air làrach le bhith a’ briogadh air “Cuir an dìon à comas rè an t-seisein seo”.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-Tha e furasta an dìon o thracadh a chur an comas air an làrach air a bheil thu ’s tu a’ briogadh air “Cuir an dìon an comas.”
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
 Tha e furasta an dìon o thracadh a chur an comas air an làrach air a bheil thu ’s tu a’ briogadh air “Cuir an dìon an comas.”
 
 
@@ -81,11 +60,6 @@ Dìon o thracadh
 Brabhsadh prìobhaideach le dìon o thracadh
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Dìon o thracadh le Firefox
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 A bheil thu airson an gleus seo a chur dheth? <a href="%s">Tadhail air roghainnean na prìobhaideachd</a>
@@ -99,22 +73,12 @@ Mòran taing airson ionnsachadh mun dìon o thracadh.
 Mòran taing airson sùil a thoirt air an fhiosrachadh mun dìon o thracadh sa bhrabhsadh phrìobhaideach.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Mòran taing airson sùil a thoirt air an fhiosrachadh mun dìon o thracadh sa bhrabhsadh phrìobhaideach.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Fiosraich mar a tha e ag obair air <a rel="external" href="%s">duilleag nan ceistean àbhaisteach</a>.
 
 
 ;Restart tour
-Tòisich an turas as ùr
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
 Tòisich an turas as ùr
 
 

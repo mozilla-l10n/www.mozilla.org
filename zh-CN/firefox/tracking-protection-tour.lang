@@ -1,6 +1,5 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -11,11 +10,6 @@
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 在您看到盾牌时，Firefox 正在阻挡某些可能跟踪您浏览行为的页面部分。
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-当盾牌可见时，意味着 Firefox 正在拦截可能跟踪您的页面元素。
 
 
 ;1 of 3
@@ -34,11 +28,6 @@
 某些页面区域可能缺失，因为它们可能允许第三方跟踪您访问多个网站的情况。
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-一些页面区域可能缺失，因为它们会允许第三方跟踪您的浏览行为。
-
-
 ;2 of 3
 2 / 3
 
@@ -51,18 +40,8 @@
 对某个网站关闭跟踪保护是很简单的，只需点击“在本次会话期间禁用保护”。
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-对某个网站禁用跟踪保护是很简单的，只需点击“在本次会话期间禁用保护”。
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 对某个网站开启跟踪保护也非常简单，只需点击“启用保护”。
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-对某个网站启用跟踪保护也非常简单，只需点击“启用保护”。
 
 
 ;3 of 3
@@ -81,11 +60,6 @@
 带有跟踪保护功能的隐私浏览模式
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Firefox 跟踪保护
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 想要关闭此功能？<a href="%s">访问隐私首选项</a>
@@ -99,22 +73,12 @@ Firefox 跟踪保护
 感谢您了解新的带有跟踪保护功能的隐私浏览模式。
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-感谢您了解有关隐私浏览模式中的跟踪保护功能。
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 还想深入了解它的工作原理？访问<a rel="external" href="%s">常见问题页面</a>。
 
 
 ;Restart tour
-重新开始导览
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
 重新开始导览
 
 

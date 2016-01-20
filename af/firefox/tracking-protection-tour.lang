@@ -1,5 +1,4 @@
 ## active ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -10,11 +9,6 @@ Hoe volgbeskerming werk
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Wanneer die skild wys, blok Firefox sommige dele van die blad wat dalk u blaai-aktiwiteit volg.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Wanneer die skild wys, beteken dit dat Firefox aktief bladsy-elemente blok wat u dalk volg.
 
 
 ;1 of 3
@@ -33,11 +27,6 @@ Verskille om te verwag
 Sommige bladsyareas is dalk weg omdat hulle derde partye sou toelaat om u blaaigedrag oor verskillende werwe dop te hou.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Sommige bladsyareas is dalk weg omdat hulle derde partye toelaat om u blaaigedrag dop te hou.
-
-
 ;2 of 3
 2 van 3
 
@@ -50,18 +39,8 @@ Lus om veranderinge te maak?
 Dis maklik om Volgbeskerming af te skakel vir die huidige werf deur te klik op “Deaktiveer beskerming vir dié sessie”.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Dis maklik om Volgbeskerming te deaktiveer vir die huidige werf deur te klik op “Deaktiveer beskerming vir dié sessie”.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 Dis maklik om Volgbeskerming aan te skakel vir die huidige werf deur te klik op “Aktiveer beskerming”.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-Dis maklik om Volgbeskerming te aktiveer vir die huidige werf deur te klik op “Aktiveer beskerming”.
 
 
 ;3 of 3
@@ -80,11 +59,6 @@ Tracking Protection
 Private blaaiery met volgbeskerming
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Firefox Volgbeskerming
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Wil u hierdie funksionaliteit afskakel? <a href="%s">Kyk na Privaatheidvoorkeure</a>
@@ -98,11 +72,6 @@ Thanks for learning about Tracking Protection.
 Dis in 'n neutedop die funksionaliteit vir private blaaiery met volgbeskerming.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Dis in 'n neutedop die funksionaliteit vir Volgbeskerming in privaatblaaimodus.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Meer inligting oor hoe dit werk is beskikbaar op die <a rel="external" href="%s">vraeblad</a>.
@@ -110,10 +79,5 @@ Meer inligting oor hoe dit werk is beskikbaar op die <a rel="external" href="%s"
 
 ;Restart tour
 Herbegin toer
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-Kyk weer
 
 

@@ -1,5 +1,4 @@
 ## active ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -10,11 +9,6 @@
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 जब आप ढ़ाल देखें, फ़ायरफ़ॉक्स पृष्ठ के कुछ भाग जो आपकी ब्राउज़िंग गतिविधियों को ट्रैक कर सकते है को अवरुद्ध करता है.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-जब ढाल दिखाई देता है, इसका मतलब है फ़ायरफ़ॉक्स पृष्ठ तत्वों को सक्रिय रूप से अवरुद्ध कर रहे है जो आपको ट्रैक कर सकते हैं.
 
 
 ;1 of 3
@@ -33,11 +27,6 @@
 कुछ पृष्ठ छेत्र उपलब्ध नहीं हो सकते हैं, क्योंकि वे तीसरे पक्ष को विभिन्न वेबसाइटों पर आपको ट्रैक करने की अनुमति दे सकते हैं.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-कुछ पृष्ठ क्षेत्रों अनुपलब्ध हो सकता है क्योंकि वे अपने ब्राउज़िंग व्यवहार को ट्रैक करने के लिए तृतीय-पक्ष की अनुमति दे सकते हैं।
-
-
 ;2 of 3
 3 का 2
 
@@ -50,17 +39,7 @@
 "इस सत्र के लिए संरक्षण अक्षम करें" पर क्लिक करके वेबसाइट के लिए ट्रैकिंग संरक्षण को सुरक्षा करना बहुत आसान है.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-"इस सत्र के लिए संरक्षण अक्षम करें" पर क्लिक करके वेबसाइट के लिए ट्रैकिंग संरक्षण को सुरक्षा करना बहुत आसान है.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-"संरक्षण सक्षम करें" पर क्लिक करके वेबसाइट के लिए ट्रैकिंग संरक्षण को सक्षम करना बहुत आसान है.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
 "संरक्षण सक्षम करें" पर क्लिक करके वेबसाइट के लिए ट्रैकिंग संरक्षण को सक्षम करना बहुत आसान है.
 
 
@@ -80,11 +59,6 @@ Tracking Protection
 ट्रैकिंग सुरक्षा के साथ निजी ब्राउज़िंग
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-फ़ायरफ़ॉक्स ट्रैकिंग संरक्षण
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 यह सुविधा बंद करना चाहते हैं? <a href="%s">गोपनीयता प्राथमिकताओ पर जाएँ</a>
@@ -98,11 +72,6 @@ Thanks for learning about Tracking Protection.
 ट्रैकिंग सुरक्षा के साथ नया निजी ब्राउज़िंग के बारे में जानने के लिए धन्यवाद.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-निजी ब्राउज़िंग मोड में नया ट्रैकिंग सुरक्षा सुविधा के बारे में जानने के लिए धन्यवाद.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 <a rel="external" href="%s">FAQ पृष्ट</a> पर जाके ओर अधिक जाने की कैसे यह काम करता हैं.
@@ -110,10 +79,5 @@ Thanks for learning about Tracking Protection.
 
 ;Restart tour
 टूर फिर से प्रारंभ करें
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-फिर से यात्रा शुरू करें
 
 

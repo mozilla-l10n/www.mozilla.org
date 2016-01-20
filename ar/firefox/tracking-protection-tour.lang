@@ -1,5 +1,4 @@
 ## active ##
-## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -10,11 +9,6 @@
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 عندما يكون الدّرع ظاهرًا فهذا يعني بأن فَيَرفُكس يقوم بإيقاف أجزاء من الصّفحة التي من شأنها أن تتعقّب نشاطك.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-لمّا يكون الدّرع ظاهرًا فهذا يعني بأن فَيَرفُكس يقوم بإيقاف عناصر الصّفحة التي من شأنها أن تتعقّبك.
 
 
 ;1 of 3
@@ -33,11 +27,6 @@
 قد لا تظهر أجزاء من الصّفحة لأنها تسمح لأطراف خارجيّة بتعقّبك عبر مواقع مختلفة.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-قد لا تظهر أجزاء من الصّفحة ربما لأنها تسمح لأطراف خارجيّة تعقّب سلوكيات تصفّحك..
-
-
 ;2 of 3
 2 من 3
 
@@ -50,18 +39,8 @@
 من السّهل إيقاف الحماية من التعقّب على الموقع الذي تزوره عبر النّقر على "أوقف الحماية لهذه الجلسة"
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-من السّهل إيقاف الحماية التعقّب على الموقع الذي تزوره عبر النّقر على "أوقف الحماية لهذه الجلسة"
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 من السّهل تشغيل الحماية من التعقّب على الموقع الذي تزوره عبر النّقر على "فعّل الحماية".
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-من السّهل تفعيل الحماية من التعقّب على الموقع الذي تزوره عبر النّقر على "فعّل الحماية"
 
 
 ;3 of 3
@@ -80,11 +59,6 @@ Tracking Protection
 التصفح الخاص في وضع الحماية من التعقّب
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-الحماية من التعقّب على فَيَرفُكس
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 هل ترغب في تعطيل هذه الخاصّيّة؟ <a href="%s">زر صفحة تفضيلات الخصوصية</a>
@@ -98,11 +72,6 @@ Thanks for learning about Tracking Protection.
 شكرّا لك على اطّلاعك على خاصيّة التصفح الخاص الجديدة في وضع الحماية من التعقّب.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-شكرّا لك على اطّلاعك على خاصيّة الحماية من التعقّب الجديدة في وضع التصفح الخاص
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 اعرف المزيد حول آلية عملها بزيارة <a rel="external" href="%s">صفحة الأسئلة الأكثر شيوعًا</a>.
@@ -110,10 +79,5 @@ Thanks for learning about Tracking Protection.
 
 ;Restart tour
 أعد الجولة مرة أخرى
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-ابدأ الجولة مرة أخرى
 
 

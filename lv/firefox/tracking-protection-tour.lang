@@ -10,11 +10,6 @@ Kā strādā izsekošanas aizsardzība
 When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Kad ir redzams vairogs, tas nozīmē, ka Firefox aktīvi bloķē lapas elementus, kas varētu izsekot jūs.
-
-
 ;1 of 3
 1 no 3
 
@@ -31,11 +26,6 @@ Sagaidāmās atšķirības
 Some page areas may be missing, because they could allow third parties to track you across different websites.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Dažas lapu daļas var būt pazudušas, jo tās ļauj trešajām pusēm izsekot jūs.
-
-
 ;2 of 3
 2 no 3
 
@@ -48,18 +38,8 @@ Gribat izmaiņas?
 It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Izsekošanas aizsardzību var viegli atslēgt uzklikšķinot uz "Atslēgt šai sesijai".
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-Izsekošanas aizsardzību var viegli ieslēgt uzklikšķinot uz "Aktivēt aizsardzību".
 
 
 ;3 of 3
@@ -78,11 +58,6 @@ Tracking Protection
 Privātā pārlūkošana ar izsekošanas aizsardzību
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Firefox izsekošanas aizsardzība
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Gribat izslēgt šo iespēju?  <a href="%s">Apmeklējiet privātuma iestatījumus</a>
@@ -96,11 +71,6 @@ Thanks for learning about Tracking Protection.
 Paldies ka painteresējāties par jauno privāto pārlūkošanu ar izsekošanas aizsardzību.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Paldies, ka uzzinājāt par jauno izsekošanas aizsardzību Privātajā pārlūkošanas režīmā.
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Uzziniet vairāk par to kā tā strādā apmeklējot <a rel="external" href="%s">BUJ lapu</a>.
@@ -108,10 +78,5 @@ Uzziniet vairāk par to kā tā strādā apmeklējot <a rel="external" href="%s"
 
 ;Restart tour
 Atsākt tūri
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-Apskatīt ekskursiju vēlreiz
 
 

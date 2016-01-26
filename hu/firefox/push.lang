@@ -26,19 +26,19 @@ Mik azok a Push üzenetek?
 
 
 ;Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
-Push is an optional feature that allows websites to send you messages even when you aren’t visiting the site.
+Egy olyan funkció, ami lehetővé teszi weboldalak számára hogy értesítéseket küldjenek akkor is, amikor nem látogatja az oldalt.
 
 
 ;Sites can use this feature to provide you with notifications or update data in the background.
-Sites can use this feature to provide you with notifications or update data in the background.
+Azért használják ezt az oldalak,, hogy értesítéseket, frissítéseket juttassanak el felhasználóikhoz a háttérben.
 
 
 ;For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
-For instance, a webmail site might use Push to provide you with a notification when new messages arrive, or a weather site might use Push to provide storm alerts.
+Például egy weboldal Push üzeneteket használhat arra, hogy értesítse Önt új üzenet érkezéséről vagy egy időjárással foglalkozó oldal riasztást küldjön, ha vihar közeledik.
 
 
 ;You will only receive messages from sites for which you have granted permission.
-You will only receive messages from sites for which you have granted permission.
+Csak akkor kaphat üzeneteket, ha beleegyezését adta hozzá.
 
 
 ;How does it work?
@@ -46,23 +46,23 @@ Hogyan működik?
 
 
 ;Firefox maintains a connection to a push service.
-Firefox maintains a connection to a push service.
+A böngésző kapcsolódik egy üzenetküldő szolgáltatáshoz.
 
 
 ;Sites that you have granted permission for Push can use the service to send you messages.
-Sites that you have granted permission for Push can use the service to send you messages.
+Azok az oldalak tudnak Push üzeneteket küldeni Önnek, amelyeknél beleegyezését adta ehhez.
 
 
 ;Firefox delivers this push message to a small piece of JavaScript called a “worker”.
-Firefox delivers this push message to a small piece of JavaScript called a “worker”.
+A Firefox egy kis JavaScript segítségével kézbesíti az üzenetet, ami neve “munkás”.
 
 
 ;The worker then processes the message.
-The worker then processes the message.
+A munkás feldolgozza az üzenetet.
 
 
 ;It might decide to show a visual notification or store the message for later use.
-It might decide to show a visual notification or store the message for later use.
+Azonnal megjelenítheti az üzenetet vagy eltárolhatja későbbi használatra.
 
 
 ;What information do I share with a site?
@@ -70,7 +70,7 @@ Milyen információkat osztok meg egy webhellyel?
 
 
 ;A site can use Push to send you a message at any time, even when you are not actively visiting it.
-A site can use Push to send you a message at any time, even when you are not actively visiting it.
+Egy oldal bármikor küldhet Push üzenetet, akkor is, ha Ön aktívan nem látogatja azt.
 
 
 ;A site that sends you a message can learn your IP address if it chooses to do so; this could reveal your location.
@@ -78,7 +78,7 @@ A site that sends you a message can learn your IP address if it chooses to do so
 
 
 ;What information does Firefox use to provide Push?
-What information does Firefox use to provide Push?
+Milyen adatokat használ a Firefox a Push szolgáltatáshoz?
 
 
 ;Firefox maintains a permanent connection to a push service in order to receive push messages.
@@ -90,7 +90,7 @@ On our server we store a randomized identifier for your browser, along with a ra
 
 
 ;On Firefox for desktop, the push service is operated by Mozilla.
-On Firefox for desktop, the push service is operated by Mozilla.
+A Firefox asztali változatánál a Push szolgáltatást a Mozilla működteti.
 
 
 ;Firefox for Android uses the same <a href="%s">Google Cloud Messaging</a> platform and infrastructure that your other Android applications use.
@@ -102,11 +102,11 @@ In both cases, the push service cannot decrypt your push messages.
 
 
 ;Push messages are encrypted, only your copy of Firefox can decipher them.
-Push messages are encrypted, only your copy of Firefox can decipher them.
+A Push üzenetek titkosítottak, csak az Ön által használt Firefox tudja dekódolni.
 
 
 ;The encrypted messages are stored on the server until they are delivered.
-The encrypted messages are stored on the server until they are delivered.
+A titkosított üzeneteket a szerver tárolja kézbesítésükig.
 
 
 ;How do I revoke Push permissions?
@@ -144,32 +144,32 @@ Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>.
 
 
 ;How do I disable Push?
-How do I disable Push?
+Hogyan tudom kikapcsolni a Pusht?
 
 
 # Obsolete string, do not remove
 ;How do I disable Push permanently?
-How do I disable Push permanently?
+Hogyan tudom végleg kikapcsolni a Pusht?
 
 
 ;Push is always opt-in in Firefox.
-Push is always opt-in in Firefox.
+A Push a Firefoxban mindig engedélyezett.
 
 
 ;A site cannot send you push messages without your permission.
-A site cannot send you push messages without your permission.
+Egy weboldal nem küldhet üzeneteket anélkül, hogy engedélyezné azt.
 
 
 ;If you wish to disable the feature completely, please follow these steps:
-If you wish to disable the feature completely, please follow these steps:
+Ha teljesen ki szeretné kapcsolni ezt a funkciót, kérem kövesse az alábbi lépéseket:
 
 
 ;Select <strong>Remove All Sites</strong>.
-Select <strong>Remove All Sites</strong>.
+Válassza ki, hogy <strong>Minden oldal eltávolítása</strong>.
 
 
 ;Websites will not be able to send you messages and will need to ask your permission to send them in the future.
-Websites will not be able to send you messages and will need to ask your permission to send them in the future.
+A weboldalak ezt követően nem tudnak majd üzeneteket küldeni automatikusan és az engedélyét fogják kérni minden alkalommal.
 
 
 # Obsolete string, do not remove
@@ -179,7 +179,7 @@ Válassza az <em>Összes oldalt</em>.
 
 # Obsolete string, do not remove
 ;Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
-Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. Websites will not be able to send you messages or ask for access to Push.
+Állítsa be a<em>Push értesítések fogadása</em> pontot arra, hogy <strong>Letilt</strong>. A weboldalak ezt követően nem fognak tudni üzeneteket küldeni vagy hozzáférést kérni a Pushhoz.
 
 
 ;What’s New?
@@ -211,7 +211,7 @@ Ez pénzbe fog kerülni?
 
 
 ;Push uses a small amount of data to operate.
-Push uses a small amount of data to operate.
+Egy kis adatmennyiséget használ a szolgáltatás a működéséhez.
 
 
 ;If you’re on a small data allowance, or are charged for any data usage, you may wish to monitor your usage.

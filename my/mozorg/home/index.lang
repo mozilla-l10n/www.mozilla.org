@@ -17,38 +17,6 @@
 သင်သိလား? မိုဇီလာ - မီးမြေခွေးဖန်တီးသူ - သည် ကမ္ဘာလုံးဆိုင်ရာအများဆိုင် အင်တာနက်အား ပွင့်လင်းမြင်သာရန် နှင့် သုံးဆွဲနိုင်ရန် ကြိုးပမ်းပေးနေပါသည်။
 
 
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
-;Proudly non-profit. <br>Donate before Dec 31.
-Proudly non-profit. <br>Donate before Dec 31.
-
-
-# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
-# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
-;$%(sum)s
-$%(sum)s
-
-
-# Take over form
-;Enter your own amount
-Enter your own amount
-
-
-# Take over form: radio button for monthly contributions
-;Monthly
-Monthly
-
-
-# Take over form: radio button for one-time contributions
-;One-time
-One-time
-
-
-# Take over form: button to submit the donation form
-;Donate Now
-Donate Now
-
-
 ;Home of the Mozilla Project
 မိုဇီလာစီမံကိန်း ပင်မစာမျက်နှာ
 
@@ -76,18 +44,6 @@ mozilla.org သို့ ဆက်ပါ
 
 ;Read the <br>Mozilla Manifesto
 <br>Mozilla Manifesto ကိုဖတ်ပါ
-
-
-;Donate to Mozilla,<br> the non-profit behind Firefox.
-Donate to Mozilla,<br> the non-profit behind Firefox.
-
-
-;Our year-end<br> fundraiser ends Dec 31.
-Our year-end<br> fundraiser ends Dec 31.
-
-
-;Donate now
-Donate now
 
 
 ;Mozilla Developer Network

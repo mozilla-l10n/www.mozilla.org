@@ -5,17 +5,17 @@ Navegação
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
-Para computadores
+<span>para</span> computadores
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-Para o Android
+<span>para</span> Android
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-Para o iOS
+<span>para</span> iOS
 
 
 # Firefox family navigation menu. Main level item.
@@ -41,7 +41,7 @@ Visão geral
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
-Confiável
+De confiança
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -56,7 +56,7 @@ Rápido
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
-Informações
+Sobre
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -76,7 +76,7 @@ Aplicações
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Impedir monitorização
+Não-monitorizar
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -92,7 +92,7 @@ Painel de interesses
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Firefox Developer Edition
+Edição para programadores
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -132,7 +132,7 @@ Escolha o navegador independente
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-O Firefox não tem fins lucrativos nem empresariais que o comprometam. Optar pelo Firefox não é apenas escolher um navegador: é um voto pela sua liberdade pessoal.
+O Firefox não tem fins lucrativos nem corporativos que o comprometam. Optar pelo Firefox não é apenas escolher um navegador: é um voto pela sua liberdade pessoal.
 
 
 ;Donate
@@ -168,15 +168,15 @@ mudar idioma
 
 
 ;Back to home page
-Ir para a página inicial
+Voltar à página inicial
 
 
 ;About Mozilla
-Acerca da Mozilla
+Sobre a Mozilla
 
 
 ;Get Involved
-Envolva-se
+Participe
 
 
 ;Careers
@@ -184,7 +184,7 @@ Carreiras
 
 
 ;Press Center
-Imprensa
+Centro de imprensa
 
 
 ;Contact Us
@@ -215,7 +215,7 @@ Afiliados do Firefox
 
 
 ;Legal Notices
-Informação legal
+Avisos legais
 
 
 ;Privacy Policy
@@ -280,7 +280,7 @@ Vídeos
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-Exceto quando <a href="%s">indicado</a>, o conteúdo deste sítio está licenciado sob a <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> ou versão mais recente.
+Exceto quando <a href="%s">indicado</a>, o conteúdo deste site está licenciado sob a <br /><a href="%s">Licença Creative Commons Attribution Share-Alike v3.0</a> ou qualquer versão mais recente.
 
 
 ;Report Trademark Abuse
@@ -293,7 +293,7 @@ Atualização gratuita
 
 # social networks such as Facebook and Twitter
 ;Follow us on:
-Acompanhe-nos em:
+Siga-nos em:
 
 
 ;Customize with Add-ons
@@ -343,7 +343,7 @@ Móvel
 
 
 ;Check out the new look and feel of Firefox.
-Veja o novo Firefox.
+Conheça a nova apresentação e aparência do Firefox.
 
 
 ;View Full Site
@@ -355,7 +355,7 @@ Descarregar para o <span>Android</span>
 
 
 ;Desktop
-Desktop {ok}
+Computador
 
 
 ;Firefox Beta for mobile
@@ -383,7 +383,7 @@ As tecnologias mais recentes
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Necessita de uma atualização! Mantenha-se seguro em menos de um minuto. <br/> Comece a utilizar o seu novo Firefox com o melhor da navegação e personalização da Web. <br/>   É rápido e gratuito!
+Necessita de uma atualização! Mantenha-se seguro em menos de um minuto. <br/> Comece a utilizar o seu novo Firefox para a melhor navegação e personalização da Web. <br/>   É rápido e gratuito!
 
 
 ;Upgrade now
@@ -410,7 +410,7 @@ Privacidade
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Porções deste conteúdo são ©1998–%(current_year)s por colaboradores individuais da mozilla.org. Conteúdo disponível sob <a href="%(url)s">licença Creative Commons</a>.
+Partes deste conteúdo são ©1998–%(current_year)s de colaboradores individuais da mozilla.org. O conteúdo disponível sob <a href="%(url)s">licença da Creative Commons</a>.
 
 
 # Footer string (will replace "Contribute to this page")
@@ -435,7 +435,7 @@ Visita guiada
 
 # Footer item
 ;Partner with Us
-Seja nosso associado
+Seja nosso parceiro
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -445,12 +445,12 @@ Sync {ok}
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-Extras do desktop
+Extras para o computador
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Extras do Android
+Extras para o Android
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -460,12 +460,12 @@ Temas
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Suporte para o computador
+Apoio para o computador
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Suporte para o Android
+Apoio para o Android
 
 
 # Top menu item on firefox/update page
@@ -520,7 +520,7 @@ Acerca do Firefox
 
 # Top menu item on firefox/update page
 ;Join Mozilla
-Juntar-se à Mozilla
+Junte-se à Mozilla
 
 
 # Top menu item on firefox/update page
@@ -605,7 +605,7 @@ O software e outras inovações são desenhados para fazer avançar a nossa miss
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Contribua voluntariamente em diferentes áreas.
+Torne-se num voluntário e contribua em várias áreas diferentes.
 
 
 # This is a non-visible string for blind people to indicate where the menu is
@@ -766,11 +766,11 @@ HTML {ok}
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
-Ups! Verifique se introduziy um endereço de e-mail válido.
+Ups! Verifique se inseriu um endereço de e-mail válido.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Concordo que a Mozilla gira os meus dados conforme <a href="%s">esta Política de privacidade</a>
+Eu concordo que a Mozilla utilize a minha informação, conforme explicado <a href="%s">nesta política de privacidade</a>
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -780,7 +780,7 @@ Notícias do Firefox
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-DIGITE O SEU E-MAIL AQUI
+O SEU E-MAIL AQUI
 
 
 # Subscription Button
@@ -797,22 +797,22 @@ Idiomas disponíveis
 
 
 ;We will only send you Mozilla-related information.
-Apenas lhe enviamos informação relacionada com a Mozilla.
+Nós só iremos enviar informação relacionada com a Mozilla.
 
 
 ;Thanks! Please check your inbox to confirm your subscription.
-Obrigado! Por favor verifique a sua caixa de correio para confirmar a sua subscrição.
+Obrigado! Por favor, verifique a sua caixa de correio para confirmar a sua subscrição.
 
 
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Irá receber uma mensagem de e-mail de mozilla@e.mozilla.org para confirmar a sua subscrição. Se não a receber, verifique a pasta Lixo eletrónico. Tem que confirmar a subscrição para receber a nossa newsletter.
+Irá receber uma mensagem de mozilla@e.mozilla.org para confirmar a sua subscrição. Se não a vir, verifique a pasta de spam. Deverá confirmar a subscrição para receber o nosso boletim informativo.
 
 
 ;Read all about it in our <span>newsletter</span>
-Leia tudo sobre a nossa <span>newsletter</span>
+Leia tudo sobre o nosso <span>boletim informativo</span>
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Subscreva as atualizações mensais e mantenha-se informado com as notícias da Mozilla, incluindo os últimos truques e dicas para obter o máximo do seu Firefox. É a maneira perfeita de mantermos o contacto!
+Subscreva as atualizações mensais e mantenha-se informado com as notícias atuais da Mozilla, incluindo os últimos truques e dicas para obter o máximo do seu navegador Firefox. É a maneira perfeita para nós nos mantermos em contacto!
 
 

@@ -1,6 +1,4 @@
 ## active ##
-## eoy_fundraising_2015 ##
-## eoy_fundraising_takeover ##
 ## firefox_friends ##
 ## fx10_independent ##
 ## gear_promo_eoy ##
@@ -25,38 +23,6 @@ Wir entwickeln ein besseres Internet
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Mozilla – der Entwickler von Firefox – kämpft dafür, dass das Internet weltweit eine frei zugängliche öffentliche Ressource bleibt.
-
-
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
-;Proudly non-profit. <br>Donate before Dec 31.
-Gemeinnützig und stolz darauf. <br>Spenden Sie vor dem 31. Dezember.
-
-
-# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
-# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
-;$%(sum)s
-%(sum)s €
-
-
-# Take over form
-;Enter your own amount
-Eigenen Betrag eingeben
-
-
-# Take over form: radio button for monthly contributions
-;Monthly
-Monatlich
-
-
-# Take over form: radio button for one-time contributions
-;One-time
-Einmalig
-
-
-# Take over form: button to submit the donation form
-;Donate Now
-Jetzt spenden
 
 
 ;Home of the Mozilla Project
@@ -86,18 +52,6 @@ Sehen Sie die Prinzipien, <br>die alles leiten, <br>was wir tun.
 
 ;Read the <br>Mozilla Manifesto
 Lesen Sie das <br>Mozilla-Manifest
-
-
-;Donate to Mozilla,<br> the non-profit behind Firefox.
-Spenden Sie an Mozilla,<br> die gemeinnützige Organisation hinter Firefox.
-
-
-;Our year-end<br> fundraiser ends Dec 31.
-Unsere Spendenaktion zum Jahresende<br> geht noch bis zum 31. Dezember.
-
-
-;Donate now
-Jetzt spenden
 
 
 ;Mozilla Developer Network

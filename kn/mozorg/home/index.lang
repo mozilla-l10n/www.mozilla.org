@@ -1,6 +1,4 @@
 ## active ##
-## eoy_fundraising_2015 ##
-## eoy_fundraising_takeover ##
 ## firefox_friends ##
 ## fx10_independent ##
 ## gear_promo_eoy ##
@@ -25,38 +23,6 @@
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 ನಿಮಗೆ ಗೊತ್ತಾ? Mozilla — Firefox ನ ನಿರ್ಮಾತೃ — ಜಾಗತಿಕ ಸಾರ್ವಜನಿಕ ಸಂಪತ್ತಾದ ಇಂಟರ್ನೆಟ್ ಅನ್ನು ಮುಕ್ತ ಮತ್ತು ಎಲ್ಲರಿಗೂ ಎಟುಕುವಂತಿರಿಸಲು ಹೋರಾಡುತ್ತದೆ.
-
-
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
-;Proudly non-profit. <br>Donate before Dec 31.
-ಹೆಮ್ಮೆಯ ಲಾಭರಹಿತ ಸಂಸ್ಥೆ. <br>31 ಡಿಸೆಂಬರ್ ಒಳಗೆ ದೇಣಿಗೆ ನೀಡಿ.
-
-
-# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
-# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
-;$%(sum)s
-$%(sum)s {ok}
-
-
-# Take over form
-;Enter your own amount
-ನಿಮ್ಮ ಇಚ್ಛೆಯ ಮೊತ್ತ ನಮೂದಿಸಿ
-
-
-# Take over form: radio button for monthly contributions
-;Monthly
-ಮಾಸಿಕ
-
-
-# Take over form: radio button for one-time contributions
-;One-time
-ಒಂದು ಬಾರಿ
-
-
-# Take over form: button to submit the donation form
-;Donate Now
-ದೇಣಿಗೆ ನೀಡಿ
 
 
 ;Home of the Mozilla Project
@@ -86,18 +52,6 @@ mozilla.org ಗೆ ಮುಂದುವರೆ
 
 ;Read the <br>Mozilla Manifesto
 ಓದಿ <br>Mozilla ಪ್ರಣಾಳಿಕೆ
-
-
-;Donate to Mozilla,<br> the non-profit behind Firefox.
-Mozilla ಗೆ ದೇಣಿಗೆ ನೀಡಿ,<br> Firefox ‌ನ ಹಿಂದಿರುವ ಲಾಭರಹಿತ ಸಂಸ್ಥೆ.
-
-
-;Our year-end<br> fundraiser ends Dec 31.
-ನಮ್ಮ ವರ್ಷಾಂತ್ಯದ<br> ದೇಣಿಗೆ ಕಾರ್ಯಕ್ರಮ ಡಿಸೆಂಬರ್‌ 31 ಕ್ಕೆ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ.
-
-
-;Donate now
-ದೇಣಿಗೆ ನೀಡಿ
 
 
 ;Mozilla Developer Network

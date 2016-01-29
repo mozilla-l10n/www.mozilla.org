@@ -1,6 +1,4 @@
 ## active ##
-## eoy_fundraising_2015 ##
-## eoy_fundraising_takeover ##
 ## firefox_friends ##
 ## fx10_independent ##
 ## gear_promo_eoy ##
@@ -25,38 +23,6 @@ Daha iyi bir internet inşa ediyoruz
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Biliyor muydunuz? Firefox’un yapımcısı Mozilla; internetin herkese açık, erişilebilir, küresel bir kaynak olması için savaşıyor.
-
-
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
-;Proudly non-profit. <br>Donate before Dec 31.
-Kâr amacı gütmemekten gurur duyuyoruz. 31 Aralık’a kadar bağış yapabilirsiniz.
-
-
-# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
-# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
-;$%(sum)s
-%(sum)s $
-
-
-# Take over form
-;Enter your own amount
-Kendi tutarınızı girin
-
-
-# Take over form: radio button for monthly contributions
-;Monthly
-Her ay
-
-
-# Take over form: radio button for one-time contributions
-;One-time
-Bir kere
-
-
-# Take over form: button to submit the donation form
-;Donate Now
-Şimdi bağış yap
 
 
 ;Home of the Mozilla Project
@@ -86,18 +52,6 @@ Yaptığımız her şeyde bize <br>rehberlik eden <br>prensipleri görün.
 
 ;Read the <br>Mozilla Manifesto
 Mozilla Manifestosu’nu <br>okuyun
-
-
-;Donate to Mozilla,<br> the non-profit behind Firefox.
-Firefox’un ardındaki kâr amacı<br> gütmeyen kuruluş Mozilla’ya bağış yapın.
-
-
-;Our year-end<br> fundraiser ends Dec 31.
-Yıl sonu bağış toplama<br> çalışmamız 31 Aralık’ta sona eriyor.
-
-
-;Donate now
-Bağış yapın
 
 
 ;Mozilla Developer Network

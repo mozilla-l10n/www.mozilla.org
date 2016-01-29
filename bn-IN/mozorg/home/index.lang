@@ -1,6 +1,4 @@
 ## active ##
-## eoy_fundraising_2015 ##
-## eoy_fundraising_takeover ##
 ## firefox_friends ##
 ## fx10_independent ##
 ## gear_store ##
@@ -24,38 +22,6 @@
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 তুমি কি জানতে? Mozilla — Firefox এর সৃষ্টিকর্তা — লড়াই করছে ইন্টারনেটের মত একটি বৈশ্বিক জনগণের সম্পদকে উন্মুক্ত এবং প্রবেশযোগ্য সবার জন্য রাখতে।
-
-
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
-;Proudly non-profit. <br>Donate before Dec 31.
-গর্বিতভাবে অলাভজনক। <br>ডিসেম্বর 31-এর আগে দান করুন।
-
-
-# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
-# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
-;$%(sum)s
-$%(sum)s {ok}
-
-
-# Take over form
-;Enter your own amount
-আপনার নিজের পরিমাণ প্রবেশ করান
-
-
-# Take over form: radio button for monthly contributions
-;Monthly
-মাসিক
-
-
-# Take over form: radio button for one-time contributions
-;One-time
-একবারে
-
-
-# Take over form: button to submit the donation form
-;Donate Now
-এখনই দান করুন
 
 
 ;Home of the Mozilla Project
@@ -85,18 +51,6 @@ mozilla.org তে চালু থাকুন
 
 ;Read the <br>Mozilla Manifesto
 পড়ুন <br> Mozilla Manifesto
-
-
-;Donate to Mozilla,<br> the non-profit behind Firefox.
-Mozilla-কে দান করুন,<br> Firefox-এর পিছনে অলাভজনক।
-
-
-;Our year-end<br> fundraiser ends Dec 31.
-আমাদের বছরের শেষ <br> ডিসেম্বর 31-এ শেষ হয়।
-
-
-;Donate now
-এখনই দান করুন
 
 
 ;Mozilla Developer Network

@@ -17,38 +17,6 @@ Kami membangun Internet yang lebih baik
 Tahukah Anda? Mozilla — pembuat Firefox — berjuang untuk menjaga Internet sebagai sumber daya publik terbuka dan dapat diakses oleh semua.
 
 
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
-;Proudly non-profit. <br>Donate before Dec 31.
-Proudly non-profit. <br>Donate before Dec 31.
-
-
-# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
-# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
-;$%(sum)s
-$%(sum)s
-
-
-# Take over form
-;Enter your own amount
-Enter your own amount
-
-
-# Take over form: radio button for monthly contributions
-;Monthly
-Monthly
-
-
-# Take over form: radio button for one-time contributions
-;One-time
-One-time
-
-
-# Take over form: button to submit the donation form
-;Donate Now
-Donate Now
-
-
 ;Home of the Mozilla Project
 Beranda Proyek Mozilla
 
@@ -78,18 +46,6 @@ Lihat prinsip <br>yang memandu semua hal <br>yang kami lakukan.
 Baca <br>Mozilla Manifesto
 
 
-;Donate to Mozilla,<br> the non-profit behind Firefox.
-Donate to Mozilla,<br> the non-profit behind Firefox.
-
-
-;Our year-end<br> fundraiser ends Dec 31.
-Our year-end<br> fundraiser ends Dec 31.
-
-
-;Donate now
-Donate now
-
-
 ;Mozilla Developer Network
 Mozilla Developer Network
 
@@ -99,7 +55,7 @@ Mozilla Developer Network
 
 
 ;Celebrate with us
-Celebrate with us
+Rayakan bersama kami
 
 
 # Do no translate "Firefox Friends" (https://friends.mozilla.org)
@@ -129,7 +85,7 @@ Unduh Firefox
 
 
 ;Get the gear, <br>support the mission
-Get the gear, <br>support the mission
+Dapatkan suvenirnya, <br> dukung misinya
 
 
 ;Shop for t-shirts, hoodies, hats<br> and more at Mozilla Gear.
@@ -141,7 +97,7 @@ Shop now
 
 
 ;Introducing<br> the new Webmaker
-Introducing<br> the new Webmaker
+Memperkenalkan<br> Webmaker baru
 
 
 ;Discover, create and share original content with the free Webmaker app.
@@ -154,7 +110,7 @@ Pelajari lebih lanjut
 
 # This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
 ;Teach<br> the Web
-Teach<br> the Web
+Ajarkan<br> Web
 
 
 ;Make the Web you want
@@ -359,7 +315,7 @@ Try the Thimble code editor
 
 
 ;Firefox is<br> now available<br> for iOS
-Firefox is<br> now available<br> for iOS
+Firefox<br> kini tersedia<br> untuk iOS
 
 
 ;Add it to your iPhone, iPad &amp; iPod touch.
@@ -367,7 +323,7 @@ Add it to your iPhone, iPad &amp; iPod touch.
 
 
 ;Get Firefox for iOS
-Get Firefox for iOS
+Dapatkan Firefox untuk iOS
 
 
 ;Introducing the new <br>Private Browsing

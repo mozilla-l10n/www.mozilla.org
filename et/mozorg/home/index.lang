@@ -1,6 +1,4 @@
 ## active ##
-## eoy_fundraising_2015 ##
-## eoy_fundraising_takeover ##
 ## firefox_friends ##
 ## fx10_independent ##
 ## gear_promo_eoy ##
@@ -25,38 +23,6 @@ Ehitame paremat internetti
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Kas teadsid? Mozilla, Firefoxi looja, võitleb interneti püsimise eest ülemaailmse avaliku ressursina, mis on kõigile avatud ja ligipääsetav.
-
-
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
-;Proudly non-profit. <br>Donate before Dec 31.
-Uhkelt mittetulunduslik. <br>Anneta enne 31. detsembrit.
-
-
-# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
-# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
-;$%(sum)s
-%(sum)s €
-
-
-# Take over form
-;Enter your own amount
-Valin summa ise
-
-
-# Take over form: radio button for monthly contributions
-;Monthly
-Igakuine
-
-
-# Take over form: radio button for one-time contributions
-;One-time
-Ühekordne
-
-
-# Take over form: button to submit the donation form
-;Donate Now
-Annetan
 
 
 ;Home of the Mozilla Project
@@ -86,18 +52,6 @@ Vaata, millistest põhimõtetest <br>oma tegemistes <br>juhindume.
 
 ;Read the <br>Mozilla Manifesto
 Loe <br>Mozilla Manifesti
-
-
-;Donate to Mozilla,<br> the non-profit behind Firefox.
-Anneta Mozillale, mittetulunduslikule<br> organisatsioonile Firefoxi taga.
-
-
-;Our year-end<br> fundraiser ends Dec 31.
-Meie aastalõpu korjandus<br> lõpeb 31. detsembril.
-
-
-;Donate now
-Annetan
 
 
 ;Mozilla Developer Network

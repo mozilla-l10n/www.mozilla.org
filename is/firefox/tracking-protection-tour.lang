@@ -1,5 +1,5 @@
 ## active ##
-## tp_tour_firefox_42 ##
+## tp_tour_firefox_201601 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -10,11 +10,6 @@ Hvernig virkar vörnin
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Þegar þú sérð skjöldinn, þá er Firefox að loka á þá parta af vefsíðunni sem gætu verið að fylgjast með hvernig þú vafrar.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Þegar skjöldurinn er sýnilegur, þýðir það að Firefox lokar á suma hluti á síðunni sem gætu fylgst með þér.
 
 
 ;1 of 3
@@ -33,11 +28,6 @@ Hverju má búast við
 Sumir hlutar síðunnar gætu verið horfnir, þar sem þeir gætu leyft þriðja aðila að fylgjast með þér á milli vefsvæða.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Sumir hlutar síðunnar gætu verið horfnir þar sem þeir gætu leyft þriðja aðila að fylgjast með þér.
-
-
 ;2 of 3
 2 af 3
 
@@ -50,17 +40,7 @@ Viltu gera breytingar?
 Það er mjög einfalt að slökkva á vörninni fyrir það vefsvæði sem þú ert á með því að smella á “Slökkva á vörn fyrir þetta vefsvæði”.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Það er mjög einfalt að slökkva á vörninni fyrir það vefsvæði sem þú ert á með því að smella á “Slökkva á vörn fyrir þetta vefsvæði”.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-Einfalt er að virkja vörn fyrir það vefsvæði sem þú ert á með því að smella á “Virkja vörn”.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
 Einfalt er að virkja vörn fyrir það vefsvæði sem þú ert á með því að smella á “Virkja vörn”.
 
 
@@ -72,13 +52,12 @@ Einfalt er að virkja vörn fyrir það vefsvæði sem þú ert á með því a�
 Náði því!
 
 
+;Tracking Protection
+Vörn gegn því að fylgst sé með þér
+
+
 ;Private Browsing with Tracking Protection
 Huliðsgluggi með vörn gegn því að fylgst sé með þér
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Firefox vörn
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
@@ -86,13 +65,12 @@ Firefox vörn
 Viltu slökkva á þessari vörn? <a href="%s">Kíktu á stillingar fyrir friðhelgi</a>
 
 
+;Thanks for learning about Tracking Protection.
+Takk fyrir að læra um nýju vörnina.
+
+
 ;Thanks for learning about the new Private Browsing with Tracking Protection.
 Takk fyrir að læra um nýja huliðsgluggann sem er með vörn gegn því að fylgst sé með þér.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Takk fyrir að læra um nýju vörnina sem er í huliðsglugganum.
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
@@ -101,11 +79,6 @@ Fræðast meira um hvernig þetta virkar með því að heimsækja <a rel="exter
 
 
 ;Restart tour
-Byrja aftur á skoðunarferð
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
 Byrja aftur á skoðunarferð
 
 

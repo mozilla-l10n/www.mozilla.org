@@ -1,100 +1,39 @@
-## firefox_friends ##
-## fx10_independent ##
 ## gear_promo_eoy ##
-## gear_store ##
-## ios_promo ##
-## mdn_10_years ##
-## meta_update_201503 ##
-## privacy_day ##
-## smarton_promo_tracking ##
-## tracking_protection ##
+## ios_promo ##
 ## webmaker_promo_introducing ##
-## webmaker_promo_make ##
-## webmaker_promo_thimble ##
 ## NOTE: demo server at https://www-dev.allizom.org/
 ## URL: https://www-dev.allizom.org/%LOCALE%
 
 
-## TAG: meta_update_201503
 # Used as page title in HTML meta tag
 ;We’re building a better Internet
 We’re building a better Internet
 
 
-## TAG: meta_update_201503
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
-
-
-;Home of the Mozilla Project
-Home of the Mozilla Project
 
 
 ;Read more
 Read more
 
 
-;Community
-Community
+;Introducing the new <br>Private Browsing
+Introducing the new <br>Private Browsing
 
 
-# This is used as a link to dismiss the video overlay and continue to mozilla.org website
-;Continue to mozilla.org
-Continue to mozilla.org
+;More protection. <br>The most privacy.
+More protection. <br>The most privacy.
 
 
-;Discover <br>what drives our mission
-Discover <br>what drives our mission
+;Try Private Browsing
+Try Private Browsing
 
 
-;See the principles <br>that guide everything <br>we do.
-See the principles <br>that guide everything <br>we do.
-
-
-;Read the <br>Mozilla Manifesto
-Read the <br>Mozilla Manifesto
-
-
-## TAG: mdn_10_years
-;Mozilla Developer Network
-Mozilla Developer Network
-
-
-## TAG: mdn_10_years
-;10 years of documenting your Web.
-10 years of documenting your Web.
-
-
-## TAG: mdn_10_years
-;Celebrate with us
-Celebrate with us
-
-
-## TAG: firefox_friends
-# Do no translate "Firefox Friends" (https://friends.mozilla.org)
-;Introducing <br>Firefox Friends
-Introducing <br>Firefox Friends
-
-
-## TAG: firefox_friends
-;Join. Share. <br>Get rewarded.
-Join. Share. <br>Get rewarded.
-
-
-## TAG: firefox_friends
-;Join Firefox Friends
-Join Firefox Friends
-
-
-## TAG: privacy_day
 # Small tile. Link points to https://advocacy.mozilla.org
 ;Learn about Mozilla Advocacy
 Learn about Mozilla Advocacy
-
-
-;Understand your privacy online
-Understand your privacy online
 
 
 ;Download Firefox
@@ -116,121 +55,6 @@ Shop for t-shirts, hoodies, hats<br> and more at Mozilla Gear.
 Shop now
 
 
-## TAG: webmaker_promo_introducing
-;Introducing<br> the new Webmaker
-Introducing<br> the new Webmaker
-
-
-## TAG: webmaker_promo_introducing
-;Discover, create and share original content with the free Webmaker app.
-Discover, create and share original content with the free Webmaker app.
-
-
-## TAG: webmaker_promo_introducing
-;Learn more
-Learn more
-
-
-## TAG: webmaker_promo_introducing
-# This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
-;Teach<br> the Web
-Teach<br> the Web
-
-
-## TAG: webmaker_promo_make
-;Make the Web you want
-Make the Web you want
-
-
-## TAG: webmaker_promo_make
-;Build a Web page or app in minutes<br> — no coding required.
-Build a Web page or app in minutes<br> — no coding required.
-
-
-## TAG: webmaker_promo_make
-;Become a Webmaker
-Become a Webmaker
-
-
-# This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
-;Teach the Web
-Teach the Web
-
-
-;Let’s build a Web that’s open <br>and made by everyone.
-Let’s build a Web that’s open <br>and made by everyone.
-
-
-;Build an app <br>in seconds
-Build an app <br>in seconds
-
-
-;Volunteer <br>with Mozilla
-Volunteer <br>with Mozilla
-
-
-## TAG: firefox_friends
-# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
-;Try Firefox Developer Edition
-Try Firefox Developer Edition
-
-
-## TAG: fx10_independent
-# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
-;Introducing Firefox Developer Edition
-Introducing Firefox Developer Edition
-
-
-## TAG: fx10_independent
-;The only browser made only for developers.
-The only browser made only for developers.
-
-
-## TAG: fx10_independent
-;Get Firefox Developer Edition
-Get Firefox Developer Edition
-
-
-;Try the best Firefox yet
-Try the best Firefox yet
-
-
-;Made with a mission to put you first.
-Made with a mission to put you first.
-
-
-;Learn more about Firefox
-Learn more about Firefox
-
-
-;Put your Firefox on your Android
-Put your Firefox on your Android
-
-
-;The features <br>you love. <br>The privacy <br>you trust.
-The features <br>you love. <br>The privacy <br>you trust.
-
-
-;Learn about <br>Firefox for Android
-Learn about <br>Firefox for Android
-
-
-## TAG: gear_store
-# Used in a small tile
-;Official Mozilla gear is here
-Official Mozilla gear is here
-
-
-# This string is currently unused (tile will link to Mozilla Gear Store)
-;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
-Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
-
-
-# This string is currently unused (tile will link to Mozilla Gear Store)
-;Get your Mozilla gear
-Get your Mozilla gear
-
-
 ;Help Mozilla users
 Help Mozilla users
 
@@ -241,6 +65,65 @@ Help millions <br>get the most from their <br>favorite browser.
 
 ;Join our support team
 Join our support team
+
+
+# Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
+;Get smart on Tracking
+Get smart on Tracking
+
+
+## TAG: webmaker_promo_introducing
+;Introducing<br> the new Webmaker
+Introducing<br> the new Webmaker
+
+
+;Volunteer <br>with Mozilla
+Volunteer <br>with Mozilla
+
+
+## TAG: ios_promo
+;Firefox is<br> now available<br> for iOS
+Firefox is<br> now available<br> for iOS
+
+
+## TAG: ios_promo
+;Add it to your iPhone, iPad &amp; iPod touch.
+Add it to your iPhone, iPad &amp; iPod touch.
+
+
+## TAG: ios_promo
+;Get Firefox for iOS
+Get Firefox for iOS
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Try Firefox Developer Edition
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Introducing Firefox Developer Edition
+Introducing Firefox Developer Edition
+
+
+;The only browser made only for developers.
+The only browser made only for developers.
+
+
+;Get Firefox Developer Edition
+Get Firefox Developer Edition
+
+
+;Mozilla Developer Network
+Mozilla Developer Network
+
+
+;10 years of documenting your Web.
+10 years of documenting your Web.
+
+
+;Celebrate with us
+Celebrate with us
 
 
 # Used in Twitter feed
@@ -309,71 +192,6 @@ Get answers to your questions about Firefox and all Mozilla products from our su
 Discover more
 
 
-## TAG: fx10_independent
-;Help us celebrate 10 years of Firefox.
-Help us celebrate 10 years of Firefox.
-
-
-# Old promo tiles
-;Donate to Mozilla
-Donate to Mozilla
-
-
-;Your gift helps us build the Internet the world needs.
-Your gift helps us build the Internet the world needs.
-
-
-;Donate today
-Donate today
-
-
-;Meet<br> Firefox Hello
-Meet<br> Firefox Hello
-
-
-;The easiest way to connect for free over video.
-The easiest way to connect for free over video.
-
-
-;Try Firefox Hello
-Try Firefox Hello
-
-
-## TAG: smarton_promo_tracking
-;Get smart on Tracking
-Get smart on Tracking
-
-
-## TAG: webmaker_promo_thimble
-;Try the Thimble code editor
-Try the Thimble code editor
-
-
-## TAG: ios_promo
-;Firefox is<br> now available<br> for iOS
-Firefox is<br> now available<br> for iOS
-
-
-## TAG: ios_promo
-;Add it to your iPhone, iPad &amp; iPod touch.
-Add it to your iPhone, iPad &amp; iPod touch.
-
-
-## TAG: ios_promo
-;Get Firefox for iOS
-Get Firefox for iOS
-
-
-## TAG: tracking_protection
-;Introducing the new <br>Private Browsing
-Introducing the new <br>Private Browsing
-
-
-## TAG: tracking_protection
-;More protection. <br>The most privacy.
-More protection. <br>The most privacy.
-
-
-## TAG: tracking_protection
-;Try Private Browsing
-Try Private Browsing
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+Continue to mozilla.org

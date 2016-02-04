@@ -1,17 +1,7 @@
 ## active ##
-## firefox_friends ##
-## fx10_independent ##
 ## gear_promo_eoy ##
-## gear_store ##
-## ios_promo ##
-## mdn_10_years ##
-## meta_update_201503 ##
-## privacy_day ##
-## smarton_promo_tracking ##
-## tracking_protection ##
+## ios_promo  ##
 ## webmaker_promo_introducing ##
-## webmaker_promo_make ##
-## webmaker_promo_thimble ##
 ## NOTE: demo server at https://www-dev.allizom.org/
 
 
@@ -25,67 +15,25 @@ Við erum að byggja betra Internet
 Vissirðu þetta? Mozilla — sá sem býr til Firefox — berst fyrir því að viðhalda Internetinu sem opnu neti og aðgengilegt fyrir alla.
 
 
-;Home of the Mozilla Project
-Heimasvæði Mozilla
-
-
 ;Read more
 Lesa meira
 
 
-;Community
-Samfélag
+;Introducing the new <br>Private Browsing
+Við kynnum nýja <br>huliðsgluggann
 
 
-# This is used as a link to dismiss the video overlay and continue to mozilla.org website
-;Continue to mozilla.org
-Halda áfram til mozilla.org
+;More protection. <br>The most privacy.
+Meiri vernd. <br>Betri vörn fyrir friðhelgi.
 
 
-;Discover <br>what drives our mission
-Sjáðu <br>hvað drífur okkur áfram
-
-
-;See the principles <br>that guide everything <br>we do.
-Sjáðu hvaða grunnreglur <br>fylgja okkur í öllu sem <br>við gerum.
-
-
-;Read the <br>Mozilla Manifesto
-Lesa <br>Mozilla Manifesto
-
-
-;Mozilla Developer Network
-Mozilla Developer Network {ok}
-
-
-;10 years of documenting your Web.
-10 ár af skjölun fyrir vefinn.
-
-
-;Celebrate with us
-Fagnaðu með okkur
-
-
-# Do no translate "Firefox Friends" (https://friends.mozilla.org)
-;Introducing <br>Firefox Friends
-Við kynnum <br>Firefox Friends
-
-
-;Join. Share. <br>Get rewarded.
-Taktu þátt. Deildu. <br>Fáðu ávinning.
-
-
-;Join Firefox Friends
-Taktu þátt í Firefox Friends
+;Try Private Browsing
+Prófaðu huliðsgluggann
 
 
 # Small tile. Link points to https://advocacy.mozilla.org
 ;Learn about Mozilla Advocacy
 Fræðast um Mozilla Advocacy
-
-
-;Understand your privacy online
-Lesa um meðhöndlun persónu&shy;upplýsinga
 
 
 ;Download Firefox
@@ -104,50 +52,41 @@ Keyptu boli, húfupeysur, hatta<br> og fleira í Mozilla búðinni.
 Versla núna
 
 
+;Help Mozilla users
+Hjálpa Mozilla notendum
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+Hjálpaðu milljón manns <br>að nota <br>uppáhalds vafrann.
+
+
+;Join our support team
+Vertu þátttakandi í hjálparteyminu
+
+
+# Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
+;Get smart on Tracking
+Vertu klár á því hver fylgist með þér
+
+
 ;Introducing<br> the new Webmaker
 Við kynnum<br> nýjasta Webmaker
 
 
-;Discover, create and share original content with the free Webmaker app.
-Uppgötvaðu, búðu til og deildu frumsömdu efni frá þér með ókeypis Webmaker forriti.
-
-
-;Learn more
-Fræðast meira
-
-
-# This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
-;Teach<br> the Web
-Kenna<br> á vefinn
-
-
-;Make the Web you want
-Búðu til vefinn eins og þú vilt hafa hann
-
-
-;Build a Web page or app in minutes<br> — no coding required.
-Búðu til vefsíðu á nokkrum mínútum<br> — Engrar forritunar krafist.
-
-
-;Become a Webmaker
-Gerast Webmaker
-
-
-# This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
-;Teach the Web
-Kenna á vefinn
-
-
-;Let’s build a Web that’s open <br>and made by everyone.
-Byggjum saman vef sem er frjáls <br>og fyrir alla.
-
-
-;Build an app <br>in seconds
-Búa til forrit <br>á nokkrum sekúndum
-
-
 ;Volunteer <br>with Mozilla
 Gerast sjálfboðaliði <br>hjá Mozilla
+
+
+;Firefox is<br> now available<br> for iOS
+Firefox er<br> nú til<br> fyrir iOS
+
+
+;Add it to your iPhone, iPad &amp; iPod touch.
+Bættu honum við á iPhone, iPad &amp; iPod touch.
+
+
+;Get Firefox for iOS
+Ná í Firefox fyrir iOS
 
 
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
@@ -168,55 +107,16 @@ Eini vafrinn sem er sérstaklega hannaður fyrir forritara.
 Ná í Firefox Developer Edition
 
 
-;Try the best Firefox yet
-Prófaðu besta Firefox í heimi
+;Mozilla Developer Network
+Mozilla Developer Network {ok}
 
 
-;Made with a mission to put you first.
-Búinn til með þig í huga.
+;10 years of documenting your Web.
+10 ár af skjölun fyrir vefinn.
 
 
-;Learn more about Firefox
-Fræðast meira um Firefox
-
-
-;Put your Firefox on your Android
-Setja Firefox á Android-inn þinn
-
-
-;The features <br>you love. <br>The privacy <br>you trust.
-Eiginleikarnir <br>sem þú dýrkar. <br>Friðhelgi <br>sem þú getur treyst.
-
-
-;Learn about <br>Firefox for Android
-Fræðast um <br>Firefox fyrir Android
-
-
-# Used in a small tile
-;Official Mozilla gear is here
-Alvöru Mozilla dótið er hér
-
-
-# This string is currently unused (tile will link to Mozilla Gear Store)
-;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
-Vörur með takmark. <br>Vörur með tilgang. <br>Vörur sem gera góða hluti.
-
-
-# This string is currently unused (tile will link to Mozilla Gear Store)
-;Get your Mozilla gear
-Nálgast Mozilla dót
-
-
-;Help Mozilla users
-Hjálpa Mozilla notendum
-
-
-;Help millions <br>get the most from their <br>favorite browser.
-Hjálpaðu milljón manns <br>að nota <br>uppáhalds vafrann.
-
-
-;Join our support team
-Vertu þátttakandi í hjálparteyminu
+;Celebrate with us
+Fagnaðu með okkur
 
 
 # Used in Twitter feed
@@ -285,64 +185,8 @@ Fáðu svör við öllum þínum spurningum um Firefox og önnur Mozilla forrit 
 Fræðast meira
 
 
-;Help us celebrate 10 years of Firefox.
-Hjálpaðu okkur að fagna 10 ára afmæli Firefox.
-
-
-# Old promo tiles
-;Donate to Mozilla
-Gefa peninga til Mozilla
-
-
-;Your gift helps us build the Internet the world needs.
-Gjöfin þín hjálpar okkur að byggja það Internet sem heimurinn þar.
-
-
-;Donate today
-Gefa peninga í dag
-
-
-;Meet<br> Firefox Hello
-Kíktu á<br> Firefox Hello
-
-
-;The easiest way to connect for free over video.
-Auðveldasta leiðin til að nota myndsímtal.
-
-
-;Try Firefox Hello
-Prófaðu Firefox Hello
-
-
-;Get smart on Tracking
-Vertu klár á því hver fylgist með þér
-
-
-;Try the Thimble code editor
-Prófaðu Thimble code editor
-
-
-;Firefox is<br> now available<br> for iOS
-Firefox er<br> nú til<br> fyrir iOS
-
-
-;Add it to your iPhone, iPad &amp; iPod touch.
-Bættu honum við á iPhone, iPad &amp; iPod touch.
-
-
-;Get Firefox for iOS
-Ná í Firefox fyrir iOS
-
-
-;Introducing the new <br>Private Browsing
-Við kynnum nýja <br>huliðsgluggann
-
-
-;More protection. <br>The most privacy.
-Meiri vernd. <br>Betri vörn fyrir friðhelgi.
-
-
-;Try Private Browsing
-Prófaðu huliðsgluggann
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+Halda áfram til mozilla.org
 
 

@@ -1,17 +1,7 @@
 ## active ##
-## firefox_friends ##
-## fx10_independent ##
 ## gear_promo_eoy ##
-## gear_store ##
-## ios_promo ##
-## mdn_10_years ##
-## meta_update_201503 ##
-## privacy_day ##
-## smarton_promo_tracking ##
-## tracking_protection ##
+## ios_promo  ##
 ## webmaker_promo_introducing ##
-## webmaker_promo_make ##
-## webmaker_promo_thimble ##
 ## NOTE: demo server at https://www-dev.allizom.org/
 
 
@@ -25,67 +15,25 @@ Vytvárame lepší internet
 Vedeli ste, že Mozilla — tvorca prehliadača Firefox — bojuje za to, aby internet zostal globálnym verejným zdrojom otvoreným a dostupným pre všetkých.
 
 
-;Home of the Mozilla Project
-Domov projektu Mozilla
-
-
 ;Read more
 Čítajte viac
 
 
-;Community
-Komunita
+;Introducing the new <br>Private Browsing
+Predstavujeme nové <br>Súkromné prehliadanie
 
 
-# This is used as a link to dismiss the video overlay and continue to mozilla.org website
-;Continue to mozilla.org
-Pokračujte na mozilla.org
+;More protection. <br>The most privacy.
+Lepšia ochrana. <br>Najviac súkromia.
 
 
-;Discover <br>what drives our mission
-Objavte, <br>čo vedie naše poslanie
-
-
-;See the principles <br>that guide everything <br>we do.
-Pozrite si zásady, <br>ktoré ovplyvňujú všetko, <br>čo robíme.
-
-
-;Read the <br>Mozilla Manifesto
-Prečítajte si <br>Mozilla Manifest
-
-
-;Mozilla Developer Network
-Mozilla Developer Network {OK}
-
-
-;10 years of documenting your Web.
-10 rokov dokumentovania vášho webu.
-
-
-;Celebrate with us
-Oslávte to s nami
-
-
-# Do no translate "Firefox Friends" (https://friends.mozilla.org)
-;Introducing <br>Firefox Friends
-Prinášame<br>Firefox Friends
-
-
-;Join. Share. <br>Get rewarded.
-Pripojte sa. Zdieľate. <br>A budete odmenení.
-
-
-;Join Firefox Friends
-Pripojte sa k Firefox Friends
+;Try Private Browsing
+Vyskúšajte si Súkromné prehliadanie
 
 
 # Small tile. Link points to https://advocacy.mozilla.org
 ;Learn about Mozilla Advocacy
 Dozvedieť sa viac o Mozilla Advocacy
-
-
-;Understand your privacy online
-Ovládajte svoje online súkromie
 
 
 ;Download Firefox
@@ -104,50 +52,41 @@ Obchod s tričkami, mikinami, čiapkami<br> a inou výbavou Mozilla.
 Kúpiť teraz
 
 
+;Help Mozilla users
+Pomôžte používateľom Mozilly
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+Pomôžte miliónom <br>získať čo najviac z ich <br>obľúbeného prehliadača.
+
+
+;Join our support team
+Pripojte sa k nášmu tímu podpory
+
+
+# Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
+;Get smart on Tracking
+Vylepšená ochrana súkromia
+
+
 ;Introducing<br> the new Webmaker
 Prinášame<br> nový Webmaker
 
 
-;Discover, create and share original content with the free Webmaker app.
-Objavujte, vytvárajte a zdieľajte originálny obsah pomocou voľne dostupnej aplikácie Webmaker.
-
-
-;Learn more
-Ďalšie informácie
-
-
-# This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
-;Teach<br> the Web
-Vyučujte<br>Web
-
-
-;Make the Web you want
-Tvorte web, aký chcete
-
-
-;Build a Web page or app in minutes<br> — no coding required.
-Vytvorte si webovú stránku alebo aplikáciu za niekoľko minút<br> — bez programovania.
-
-
-;Become a Webmaker
-Staňte sa Webmakerom
-
-
-# This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
-;Teach the Web
-Vyučujte web
-
-
-;Let’s build a Web that’s open <br>and made by everyone.
-Vytvorme web, ktorý je otvorený <br>a vytvorený každým.
-
-
-;Build an app <br>in seconds
-Vytvorte aplikáciu <br>za pár sekúnd
-
-
 ;Volunteer <br>with Mozilla
 Dobrovoľník <br>s Mozillou
+
+
+;Firefox is<br> now available<br> for iOS
+Firefox je<br> teraz dostupný aj<br> pre iOS
+
+
+;Add it to your iPhone, iPad &amp; iPod touch.
+Nainštalujte si ho na svoj iPhone, iPad a iPod touch.
+
+
+;Get Firefox for iOS
+Prevziať Firefox pre iOS
 
 
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
@@ -168,55 +107,16 @@ Jediný prehliadač vytvorený len pre vývojárov.
 Získajte Firefox Developer Edition
 
 
-;Try the best Firefox yet
-Vyskúšajte doteraz najlepšiu verziu Firefoxu
+;Mozilla Developer Network
+Mozilla Developer Network {OK}
 
 
-;Made with a mission to put you first.
-Vytvorený s poslaním na prvom mieste pre vás.
+;10 years of documenting your Web.
+10 rokov dokumentovania vášho webu.
 
 
-;Learn more about Firefox
-Zistite viac o Firefoxe
-
-
-;Put your Firefox on your Android
-Dajte si váš Firefox na váš Android
-
-
-;The features <br>you love. <br>The privacy <br>you trust.
-Funkcie, <br>ktoré milujete. <br>Súkromie, <br>ktorému veríte.
-
-
-;Learn about <br>Firefox for Android
-Ďalšie informácie o <br>Firefoxe pre Android
-
-
-# Used in a small tile
-;Official Mozilla gear is here
-Oficiálna výbava Mozilla je tu
-
-
-# This string is currently unused (tile will link to Mozilla Gear Store)
-;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
-Obchod s poslaním. <br>Produkty s účelom. <br>Tovar, ktorý robí dobro.
-
-
-# This string is currently unused (tile will link to Mozilla Gear Store)
-;Get your Mozilla gear
-Získajte svoju Mozilla výbavu
-
-
-;Help Mozilla users
-Pomôžte používateľom Mozilly
-
-
-;Help millions <br>get the most from their <br>favorite browser.
-Pomôžte miliónom <br>získať čo najviac z ich <br>obľúbeného prehliadača.
-
-
-;Join our support team
-Pripojte sa k nášmu tímu podpory
+;Celebrate with us
+Oslávte to s nami
 
 
 # Used in Twitter feed
@@ -285,64 +185,8 @@ Získajte odpovede na vaše otázky o Firefoxe a všetkých Mozilla produktoch o
 Zistite viac
 
 
-;Help us celebrate 10 years of Firefox.
-Pomôžte nám osláviť 10 rokov Firefoxu.
-
-
-# Old promo tiles
-;Donate to Mozilla
-Prispejte Mozille
-
-
-;Your gift helps us build the Internet the world needs.
-Vaše dary nám pomáhajú utvárať taký internet, ktorý potrebuje svet.
-
-
-;Donate today
-Prispejte dnes
-
-
-;Meet<br> Firefox Hello
-Spoznajte<br> Firefox Hello
-
-
-;The easiest way to connect for free over video.
-Tú najjednoduchšiu cestu, ako sa spojiť cez video zadarmo.
-
-
-;Try Firefox Hello
-Vyskúšajte Firefox Hello
-
-
-;Get smart on Tracking
-Vylepšená ochrana súkromia
-
-
-;Try the Thimble code editor
-Vyskúšajte editor kódu Thimble
-
-
-;Firefox is<br> now available<br> for iOS
-Firefox je<br> teraz dostupný aj<br> pre iOS
-
-
-;Add it to your iPhone, iPad &amp; iPod touch.
-Nainštalujte si ho na svoj iPhone, iPad a iPod touch.
-
-
-;Get Firefox for iOS
-Prevziať Firefox pre iOS
-
-
-;Introducing the new <br>Private Browsing
-Predstavujeme nové <br>Súkromné prehliadanie
-
-
-;More protection. <br>The most privacy.
-Lepšia ochrana. <br>Najviac súkromia.
-
-
-;Try Private Browsing
-Vyskúšajte si Súkromné prehliadanie
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+Pokračujte na mozilla.org
 
 

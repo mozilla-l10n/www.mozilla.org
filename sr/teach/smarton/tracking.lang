@@ -33,7 +33,7 @@
 
 
 ;Every time we go online, we leave behind traces of our activity. They’re often called our “digital footprints” and for good reason, because tracking is sort of like re-tracing our steps.
-Сваки пут када одемо на интернет, остављамо мало трагове о нашој активности. Они се често називају "дигитални отисци" и то са добрим разлогом, јер је праћење нешто као проналажење наших корака.
+Сваки пут када одемо на интернет, остављамо трагове о нашој активности. Они се често називају "дигитални отисци" и то са добрим разлогом, јер је праћење нешто као проналажење наших корака.
 
 
 ;But our digital footprints reveal more about us than where we’ve been — everything from our preferences to our identities.
@@ -108,12 +108,12 @@
 
 
 ;Mozilla sites are no exception. Like most other Web sites, we also use third party tools to improve user experience.
-Mozilla-ни сајтови нису изузеци. Као и многи други веб сајтови, ми такође користимо алате трећих лица да побољшамо искуства корисника.
+Mozilla-ни сајтови нису изузеци. Као и многи други веб сајтови, ми такође користимо алате “трећих лица” да побољшамо искуства корисника.
 
 
 # Link points to https://www.mozilla.org/privacy/websites/
 ;For more info see our <a href="{url}">Website Privacy Notice</a>.
-За више информација погледајте нашу <a href="{url}">веб сајт приватности</a>.
+За више информација погледајте <a href="{url}">обавештења о приватности</a> на нашем сајту.
 
 
 ;Tracking without permission
@@ -121,7 +121,7 @@ Mozilla-ни сајтови нису изузеци. Као и многи дру
 
 
 ;Many websites we visit contain hidden third parties — such as data brokers, affiliate networks and advertising networks — who use cookies, and other data tracking methods, to collect information about our browsing habits without our consent.
-Многи веб сајтови које посећујемо садрже скривене компаније трећих лица — као што су брокери података, партнерске мреже и мреже за оглашавање — који користе колачиће и друге методе праћења података, како би сакупили информације о нашим активностима без нашег пристанка.
+Многи веб сајтови које посећујемо садрже скривене компаније “трећих лица” — као што су брокери података, партнерске мреже и мреже за оглашавање — који користе колачиће и друге методе праћења података, како би сакупили информације о нашим активностима без нашег пристанка.
 
 
 ;While tracking can be helpful, there can’t be a healthy trade-off between the value it provides and the data it collects without transparency.
@@ -137,7 +137,7 @@ Mozilla-ни сајтови нису изузеци. Као и многи дру
 
 
 ;Within this ecosystem, anonymized online data can be merged with personally identifiable information about you (information that you may have volunteered on a form, in an app or that was collected offline) to build a surprisingly detailed profile of you.
-Са овим екосистемом, анонимни подаци могу бити спојени са личним подацима о вама (подаци које сте можда добровољно оставили у некој апликацији или који су прикупљени ван мреже) за изградњу изненађујуће детаљног профила о вама.
+Са овим екосистемом, анонимни подаци могу бити спојени са личним подацима о вама (подаци које сте можда добровољно оставили у некој апликацији или који су прикупљени ван мреже) за изградњу детаљног профила о вама.
 
 
 ;These profiles have the potential to interfere with your life offline, and can contribute to unfair practices by being improperly used for price discrimination, decreased creditworthiness, more expensive insurance coverage or unfavorable employment or health reports.
@@ -145,7 +145,7 @@ Mozilla-ни сајтови нису изузеци. Као и многи дру
 
 
 ;While these instances are not widespread yet, they do illustrate the potential depths of what is happening behind the scenes and outside of our control.
-Иако су ови случајеви нису још увек распрострањени ипак они потенцијално илуструју оно што се дешава иза сцене и изван наше контроле.
+Иако ови случајеви нису још увек распрострањени свуда, ипак они потенцијално илуструју оно што се дешава иза сцене и изван наше контроле.
 
 
 ;Be the boss of your personal info
@@ -194,7 +194,7 @@ Mozilla-ни сајтови нису изузеци. Као и многи дру
 
 
 ;When you see an element on a page, such as a “like” or social media login button, that’s an indication that some information has already been collected about you — clicking on it will share even more.
-Када видите неки део странице, као на пример “like” дугме или дугме за присту социјалној мрежи, то је знак да су неке информације о вама већ прикупљене — ако кликнете на то, поделиће те још више.
+Када видите неки део странице, као на пример “like” дугме или дугме за приступ социјалној мрежи, то је знак да су неке информације о вама већ прикупљене — ако кликнете на то, поделиће те још више.
 
 
 ;Choose choice
@@ -230,7 +230,7 @@ Mozilla-ни сајтови нису изузеци. Као и многи дру
 
 
 ;For example, you can manage your profile and preferences for <a href="%(google)s">Google</a>, <a href="%(yahoo)s">Yahoo!</a> and <a href="%(facebook)s">Facebook ads</a>, and even <a href="%(acxiom)s">edit data that’s been collected about you by Acxiom</a>, one of the world’s largest marketing data brokers.
-На пример, можете управљати вашим профилом и подешавањима за <a href="%(google)s">Google</a>, <a href="%(yahoo)s">Yahoo!</a> и <a href="%(facebook)s">Facebook ads</a>, па чак можете и да <a href="%(acxiom)s">измените податке који су сакупљени о вам од стране Acxiom-а</a>, један од највећих светских маркетинг брокера података.
+На пример, можете управљати вашим профилом и подешавањима за <a href="%(google)s">Google</a>, <a href="%(yahoo)s">Yahoo!</a> и <a href="%(facebook)s">Facebook ads</a>, па чак можете и да <a href="%(acxiom)s">измените податке који су сакупљени о вама од стране Acxiom-а</a>, један од највећих светских маркетинг брокера података.
 
 
 ;Don’t forget about apps
@@ -308,7 +308,7 @@ Mozilla је прва компанија која је укључила "Не ж
 
 
 ;Since then, it has been adopted by most major browsers, though many companies on the receiving end of the requests are still not honoring them.
-Од тада су је и већина других прегледача усвојила, иако многе компаније и даље не поштују захтеве.
+Од тада ју је и већина других прегледача усвојила, иако многе компаније и даље не поштују захтеве.
 
 
 ;Efforts are being made by Web advocacy groups to have this changed.

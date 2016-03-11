@@ -1,19 +1,24 @@
+## active ##
+## no_plugins ##
+## plugin_outdated ##
+## plugin_updated_content ##
+## plugincheck_nosupport ##
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 
 
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
-Keep your Firefox healthy with a quick checkup
+Mantegni Firefox in bonn-a salute co-in rapido contròllo
 
 
 # Used as page description in HTML meta tag
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
+Ti deuvi Flash? QuickTime? Java? Se ti o fæ pe avei 'na megio esperiensa con Firefox, contròlla i teu plugin! Magari gh'an bezeugno d'ese agiornæ.
 
 
 # Old page <title> tag
 ;Plugin Check &amp; Updates
-Plugin Check &amp; Updates
+Contròllo di Plugin e agiornamenti
 
 
 # This is a button telling the user to update their plugin
@@ -28,7 +33,7 @@ Riçerca
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-current version plugin
+verscion corente do plugin
 
 
 # This is a button informing the user that their plugin is up to date
@@ -38,12 +43,12 @@ Agiornou
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+Icöna do plugin
 
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+sconosciuo
 
 
 # This is the string used to indicate that the plugin is vulnerable
@@ -53,7 +58,7 @@ indifeizo
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+vegio
 
 
 # Main title
@@ -62,16 +67,16 @@ outdated
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Keeping your plugins up to date helps Firefox run safely and smoothly.
+Mantegnî i plugin agiornæ agiutta Firefox a xoâ seguo e sensa intoppi.
 
 
 ;Currently the plugin check service is only available to Firefox users.
-Currently the plugin check service is only available to Firefox users.
+Pe pua o contròllo di plugin o gh'é solo pe-i utenti de Firefox.
 
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
-Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
+I plugin no en de longo agiornæ in òtomatico. Contròlla i teu oua coscì ti saiæ seguo de navegâ sensa interoçioin!
 
 
 ;Looks like you’re using an older version of Firefox.
@@ -79,11 +84,11 @@ Ehi amigo me pâ che ti t'adeuvi 'na verscion vegia de Firefox.
 
 
 ;Plugin Status
-Plugin Status
+Stæto do Plugin
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+No ò trovou plugin. Se ti creddi che segge 'n erô, <a href="%(bugzilla_url)s">pe piaxei mandine 'n bagon</a> e fane savei.
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -103,7 +108,7 @@ Plugin potensialmente indifeizi
 
 
 ;Plugin
-Plugin
+Plugin{ok}
 
 
 ;Status
@@ -115,19 +120,19 @@ Açion
 
 
 ;Outdated Plugins
-Outdated Plugins
+Plugin Vegi
 
 
 ;Unknown Plugins
-Unknown Plugins
+Plugin Sconosciui
 
 
 ;These plugins are up to date
-These plugins are up to date
+Sti plugin en agiornæ
 
 
 ;Back to Top
-Back to Top
+Vanni in çimma
 
 
 ;Frequently Asked Questions
@@ -147,7 +152,7 @@ Son fæti da aziende che no gh'intran ninte con Firefox comme Adobe Systems e Ap
 
 
 ;Plugins don't always update automatically.
-I Plugin no senpre son agiornæ in aotomatico.
+I Plugin no en de longo agiornæ in òtomatico.
 
 
 ;Why should I update my plugins?
@@ -168,7 +173,7 @@ I vegi plugin <strong>aomentan o reizego</strong> de atacchi de malware, viros, 
 
 # alt image
 ;Screenshot of Add-Ons manager
-Screenshot of Add-Ons manager
+Inmagine do gestô di conponenti azonti
 
 
 ;How can Firefox help me?
@@ -188,11 +193,11 @@ Niatri emmo trovou in aotomatico i plugin che ti veddi inta lista de primma, pe 
 
 
 ;Want to spread the word?
-Want to spread the word?
+Ti veu dilo a-o mondo intrego?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+Agiutta i teu amixi a stâ a-o seguo quande navegan! Vixita <a href="%(url)s">Afigiæ de Firefox</a> pe otegnî 'n badge "plugin check" pe-o teu scito.
 
 
 ;How do I disable a plugin?
@@ -200,7 +205,7 @@ Ben comme fasso a dizabilitâ in plugin?
 
 
 ;In Firefox:
-Into Firefox:
+In Firefox:{ok}
 
 
 ;Open the Tools menu.
@@ -209,11 +214,11 @@ Arvi o menù Strumenti.
 
 # If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 ;Open the <span class="menu">menu</span>.
-Open the <span class="menu">menu</span>.
+Arvi o <span class="menu">menû</span>.
 
 
 ;Choose Add-ons.
-Scegli Conponenti azonti.
+Çerni Conponenti azonti.
 
 
 ;Click the plugins tab.
@@ -221,7 +226,7 @@ Sciacca in sciô feuggio plugin.
 
 
 ;Click on the drop down next to the plugin you wish to disable.
-Click on the drop down next to the plugin you wish to disable.
+Scicca into menû de çernia vexin a-o plugin che t'eu dizabilitâ.
 
 
 ;Click on a plugin in the list.
@@ -229,7 +234,7 @@ Sciacca in çimma a 'n plugin inta lista.
 
 
 ;Select "Never Activate" from the available choices.
-Select "Never Activate" from the available choices.
+Seleçionâ "No Ativâ Mai" da-e çernie poscibili.
 
 
 ;Click the Disable button.
@@ -241,18 +246,18 @@ Stanni atento: se ti dizabiliti 'n plugin no ti saiæ ciù in graddo de fâ çer
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
-Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
+Prodensa: dizabilitâ 'n plugin o veu dî che no ti poriæ ciù fâ çerte cöse. Prezenpio, se ti dizabiliti o Flash, no ti poriæ ciù vedde di video in sce quarche scito de video streaming.
 
 
 ;Mozilla Support
-Mozilla Support
+Sopòrto de Mozilla
 
 
 ;Have more questions?
-Ti gh'æ ancon quarcösa da domanda?
+Ti gh'æ ancon quarcösa da domandâ?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
+Vixita <a href="%(sumo_url)s">support.mozilla.org</a> pe avei ciù agiutto!
 
 

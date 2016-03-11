@@ -197,7 +197,7 @@ Andre språk:
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%d-%m-%Y
+%Y-%m-%d {ok}
 
 
 ;Legal
@@ -530,7 +530,7 @@ Delta
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
-Frivillig
+Friviljug
 
 
 # Top menu item on firefox/update page
@@ -579,6 +579,11 @@ Forum
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+;Patents
+Patentar
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
 Leiarskap
 
@@ -605,7 +610,7 @@ Programnyskapning og andre nyhende for å vidareføra oppdraget vårt.
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Bli ein frivillig medarbeidar innom eitt eller fleire ulike område.
+Bli ein friviljug medarbeidar innom eitt eller fleire ulike område.
 
 
 # This is a non-visible string for blind people to indicate where the menu is
@@ -767,6 +772,10 @@ HTML {ok}
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
 Oops! Skriv inn ei gyldig e-postadresse.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Eg godkjenner at Mozilla handsamar informasjon om meg som vert skildra og forklart i denne <a href="%s">personvernernpraksisen</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>

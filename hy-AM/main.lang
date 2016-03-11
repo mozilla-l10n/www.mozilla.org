@@ -36,7 +36,7 @@ OS {ok}
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Overview
-Համատեսքը
+Ակնարկ
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -76,7 +76,7 @@ OS {ok}
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Չհետևել
+Չհետագծել
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -579,6 +579,11 @@ Firefox-ը Facebook-ում
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+;Patents
+Արտոնագրեր
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
 Ձեռնարկներ
 
@@ -767,6 +772,10 @@ HTML {ok}
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
 Զգուշացում։ Համոզվեք, որ էլ. փոստի հասցեն ճիշտ է:
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Ես ընդունում եմ, որ Mozilla-ն կարող է մշակել իմ տեղեկությունները, ինչպես որ բացատրված է <a href="%s">Գաղտնիության այս ծանուցումում</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>

@@ -197,7 +197,7 @@
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%Oy/%Om%Od
+%Y-%m-%d {ok}
 
 
 ;Legal
@@ -579,6 +579,11 @@
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+;Patents
+حق اختراع‌ها
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
 رهبری
 
@@ -767,6 +772,10 @@ HTML {ok}
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
 لطفاً نشانی پست الکترونیکی معتبری وارد نمایید.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+من با اینکه موزیلا اطلاعاتم را بر اساس موارد شرح داده شده در <a href="%s">نکات حریم‌خصوصی</a> استفاده کند مشکلی ندارم
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>

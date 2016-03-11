@@ -1,4 +1,6 @@
 ## active ##
+## tp_tour_firefox_201601 ##
+## tp_tour_firefox_201602 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -8,12 +10,7 @@ Funkciado de la protekto kontraŭ spurado
 
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
-When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Kiam la ŝildo videblas, tio signifas ke Firefox aktive blokas elementojn en la paĝo, kiuj povus spuri vin.
+Kiam vi vidas la ŝildon, estas pro tio ke Firefox blokas kelkajn partojn de la paĝo, kiuj povus spuri vian retumon.
 
 
 ;1 of 3
@@ -25,16 +22,11 @@ Venonta
 
 
 ;Differences to expect
-Malsamoj kiujn vi povas trovi
+Malsamoj, kiujn vi povas trovi
 
 
 ;Some page areas may be missing, because they could allow third parties to track you across different websites.
-Some page areas may be missing, because they could allow third parties to track you across different websites.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Kelkaj partoj de la paĝo povas manki, ĉar ili permesas al aliaj spuri vian retumon.
+Kelaj partoj de la paĝo povus manki, ĉar ili povus permesi al aliaj spuri vin tra malsamaj retejoj.
 
 
 ;2 of 3
@@ -45,22 +37,17 @@ Kelkaj partoj de la paĝo povas manki, ĉar ili permesas al aliaj spuri vian ret
 Ĉu vi volas ŝanĝi ion?
 
 
+;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
+Estas facile malŝalti la protekton kontraŭ spurado por la retejo, kie vie estas. Sufiĉas alklako sur “Malaktivigi protekton por tiu ĉi retejo.”
+
+
+# Obsolete string (do not remove)
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
-It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Estas facile malaktivigi la protekton kontraŭ spurado por la retejo kie vi estas: alklaku sur ”Malaktivigi protekton por tiu ĉi seanco”.
+Estas facile malŝalti la protekton kontraŭ spurado por la retejo, kie vie estas. Sufiĉas alklako sur ”Malaktivigi protekton por tiu ĉi seanco.”
 
 
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-Estas facile aktivigi la protekton kontraŭ spurado por la retejo kie vie estas: alklaku sur ”Aktivigi protekton”.
+Estas facile ŝalti la protekton kontraŭ spurado por la retejo, kie vie estas. Sufiĉas alklako sur “Aktivigi protekton”.
 
 
 ;3 of 3
@@ -71,13 +58,12 @@ Estas facile aktivigi la protekton kontraŭ spurado por la retejo kie vie estas:
 Komprenite!
 
 
+;Tracking Protection
+Protekto kontraŭ spurado
+
+
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Protekto kontraŭ spurado de Firefox
+Privata retumo kun protekto kontraŭ spurado
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
@@ -85,13 +71,12 @@ Protekto kontraŭ spurado de Firefox
 Ĉu vi volas malŝalti tiun ĉi trajton? <a href="%s">Vizitu la preferojn pri privateco</a>
 
 
+;Thanks for learning about Tracking Protection.
+Dankon por legi pli pri la protekto kontraŭ spurado.
+
+
 ;Thanks for learning about the new Private Browsing with Tracking Protection.
-Thanks for learning about the new Private Browsing with Tracking Protection.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Dankon por lerni pri la nova trajto, kiu protektas vin kontraŭ spurado en la privata retuma reĝimo.
+Dankon pro la tempo ricevi pli da informo pri la nova privata retumo kun protekto kontraŭ spurado.
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
@@ -100,11 +85,6 @@ Pli da informo pri kiel tio funkcias en nia <a rel="external" href="%s">paĝo pr
 
 
 ;Restart tour
-Restart tour
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-Rekomenci la rondiron
+Rekomenci prezenton
 
 

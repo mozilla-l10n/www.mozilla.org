@@ -6,14 +6,6 @@
 <span>Thunderbird</span> へようこそ
 
 
-;Happy 10th Birthday Thunderbird!
-Thunderbird が誕生して 10 年になりました
-
-
-;Mozilla announced Thunderbird version 1.0 ten years ago. Can you imagine the last ten years without e-mail? Can you imagine e-mail without Thunderbird? We can’t!
-Mozilla が Thunderbird 1.0 をリリースしたのが 10 年前でした。この 10 年間、電子メールは重要なコミュニケーションツールであり続けました。そして Thunderbird は多くの人に支持されるメールクライアントであり続けています。今後とも Thunderbird をよろしくお願いいたします。
-
-
 ;Contribute to Thunderbird
 Thunderbird に貢献しよう
 
@@ -53,7 +45,7 @@ Thunderbird に貢献しよう
 # If your locale has a dedicated Thunderbird support forum, you can localize the URL
 # used in the previous string to point there. Otherwise simply mark the string as {ok}
 ;https://support.mozilla.org/questions/new/thunderbird
-https://support.mozilla.org/questions/new/thunderbird{ok}
+https://support.mozilla.org/questions/new/thunderbird {ok}
 
 
 ;Features
@@ -69,7 +61,7 @@ Thunderbird ブログ
 
 
 ;Tips
-Tips{ok}
+Tips {ok}
 
 
 ;Add-ons

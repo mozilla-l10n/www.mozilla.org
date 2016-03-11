@@ -1,5 +1,6 @@
 ## active ##
-## tp_tour_firefox_42 ##
+## tp_tour_firefox_201601 ##
+## tp_tour_firefox_201602 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -10,11 +11,6 @@ Cum funcționează protecția față de urmărire
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Când vezi scutul, Firefox blochează unele părți din pagină care ar putea urmări activitatea ta de navigare.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Când scutul este vizibil, înseamnă că Firefox blochează în mod activ elemente din pagină care te pot urmări.
 
 
 ;1 of 3
@@ -33,11 +29,6 @@ Diferențe la care să te aștepți
 Unele zone ale paginii pot să lipsească pentru că ar putea permite terților să te urmărească pe site-uri web diferite.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Unele zone ale paginii ar putea să lipsească deoarece acestea pot permite terților să urmărească comportamentul tău de navigare.
-
-
 ;2 of 3
 2 din 3
 
@@ -46,21 +37,16 @@ Unele zone ale paginii ar putea să lipsească deoarece acestea pot permite ter�
 Dorești să faci schimbări?
 
 
+;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
+Este ușor de dezactivat protecția față de urmărire pentru site-ul vizitat printr-un clic pe „Dezactivează protecția față de urmărire pentru acest site”.
+
+
+# Obsolete string (do not remove)
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
 Este ușor de dezactivat protecția față de urmărire pentru site-ul actual printr-un clic pe „Dezactivează protecția pentru această sesiune”.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Este ușor de dezactivat protecția față de urmărire pentru site-ul actual printr-un clic pe „Dezactivează protecția pentru această sesiune”.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-Este ușor de activat protecția față de urmărire pentru site-ul actual printr-un clic pe „Activează protecția”.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
 Este ușor de activat protecția față de urmărire pentru site-ul actual printr-un clic pe „Activează protecția”.
 
 
@@ -72,13 +58,12 @@ Este ușor de activat protecția față de urmărire pentru site-ul actual print
 Am priceput!
 
 
+;Tracking Protection
+Protecție față de urmărire
+
+
 ;Private Browsing with Tracking Protection
 Navigare privată cu Protecție față de urmărire
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Protecția față de urmărire Firefox
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
@@ -86,13 +71,12 @@ Protecția față de urmărire Firefox
 Dorești să oprești această funcție? <a href="%s">Vizitați preferințele de confidențialitate</a>
 
 
+;Thanks for learning about Tracking Protection.
+Îți mulțumim că ai învățat despre protecția față de urmărire.
+
+
 ;Thanks for learning about the new Private Browsing with Tracking Protection.
 Mulțumim pentru că ai aflat despre noile funcții „Navigare privată” și „Protecție față de urmărire”.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Mulțumim pentru că ai aflat despre noile funcții „Protecție față de urmărire” și modul „Navigare privată”.
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
@@ -102,10 +86,5 @@ Află mai multe despre modul cum funcționează vizitând <a rel="external" href
 
 ;Restart tour
 Repornește turul
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-Începe turul din nou
 
 

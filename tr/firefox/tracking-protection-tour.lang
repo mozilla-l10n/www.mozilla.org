@@ -1,5 +1,6 @@
 ## active ##
-## tp_tour_firefox_42 ##
+## tp_tour_firefox_201601 ##
+## tp_tour_firefox_201602 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -10,11 +11,6 @@
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Kalkanı gördüğünüzde Firefox, bu sayfanın gezinti etkinliğinizi izleyebilecek kısımlarını engelliyor demektir.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Kalkan görünüyorsa Firefox sizi izleyebilecek sayfa öğelerini aktif olarak engelliyor demektir.
 
 
 ;1 of 3
@@ -33,11 +29,6 @@ Olası farklılıklar
 Sayfanın bazı kısımları eksik olabilir. O kısımlar, üçüncü şahıslara farklı web siteleri arasında gezintinizi izleme olanağı veriyordur.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Sayfadaki bazı kısımlar, üçüncü şahısların gezinti davranışlarınızı izlemesine olanak verdiği için çıkarılmış olabilir.
-
-
 ;2 of 3
 2 / 3
 
@@ -46,21 +37,16 @@ Sayfadaki bazı kısımlar, üçüncü şahısların gezinti davranışlarınız
 Değişiklik yapmak mı istiyorsunuz?
 
 
+;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
+Bulunduğunuz sitede İzlenme Koruması’nı kapatmak için “Bu sitede korumayı devre dışı bırak”a tıklamanız yeterli.
+
+
+# Obsolete string (do not remove)
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
 Bulunduğunuz sitede İzlenme Koruması’nı kapatmak için “Bu oturumda korumayı devre dışı bırak”a tıklamanız yeterli.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Bulunduğunuz sitede İzlenme Koruması’nı devre dışı bırakmak için “Bu oturumda korumayı devre dışı bırak”a tıklamanız yeterli.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-Bulunduğunuz sitede İzlenme Koruması’nı açmak için “Korumayı etkinleştir” düğmesine tıklamanız yeterli.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
 Bulunduğunuz sitede İzlenme Koruması’nı açmak için “Korumayı etkinleştir” düğmesine tıklamanız yeterli.
 
 
@@ -72,13 +58,12 @@ Bulunduğunuz sitede İzlenme Koruması’nı açmak için “Korumayı etkinle�
 Anladım!
 
 
+;Tracking Protection
+İzlenme Koruması
+
+
 ;Private Browsing with Tracking Protection
 İzlenme Koruması ile <br/>Gizli Gezinti
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Firefox İzlenme Koruması
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
@@ -86,13 +71,12 @@ Firefox İzlenme Koruması
 Bu özelliği kapatmak mı istiyorsunuz? <br/><a href="%s">Gizlilik tercihlerini ziyaret edin</a>
 
 
+;Thanks for learning about Tracking Protection.
+İzlenme Koruması hakkında bilgi aldığınız için teşekkür ederiz.
+
+
 ;Thanks for learning about the new Private Browsing with Tracking Protection.
 İzlenme Koruması ile Gizli Gezinti hakkında bilgi aldığınız için teşekkür ederiz.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Gizli Gezinti Modu’ndaki yeni İzlenme Koruması özelliği hakkında bilgi aldığınız için teşekkür ederiz.
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
@@ -101,11 +85,6 @@ Nasıl çalıştığını daha ayrıntılı öğrenmek isterseniz <a rel="extern
 
 
 ;Restart tour
-Turu baştan başlat
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
 Turu baştan başlat
 
 

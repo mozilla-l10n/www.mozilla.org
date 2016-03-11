@@ -1,20 +1,16 @@
 ## active ##
-## tp_tour_firefox_42 ##
+## tp_tour_firefox_201601 ##
+## tp_tour_firefox_201602 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
 
 ;How Tracking Protection works
-Wie der Schutz vor Verfolgung von Aktivitäten funktioniert
+Wie der Schutz vor Aktivitätenverfolgung funktioniert
 
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Wenn Sie den Schild sehen, blockiert Firefox Elemente der Seite, die Ihre Surf-Aktivitäten verfolgen könnten.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Wenn der Schild sichtbar ist, blockiert Firefox aktiv Elemente von Seiten, die Sie verfolgen könnten.
 
 
 ;1 of 3
@@ -33,11 +29,6 @@ Zu erwartende Unterschiede
 Einige Bereiche von Seiten fehlen möglicherweise, weil diese es Dritten ermöglichen können, Sie über verschiedene Websites hinweg zu verfolgen.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Einige Bereiche von Seiten fehlen möglicherweise, weil diese es Dritten ermöglichen können, Ihr Surf-Verhalten zu verfolgen.
-
-
 ;2 of 3
 2 von 3
 
@@ -46,22 +37,17 @@ Einige Bereiche von Seiten fehlen möglicherweise, weil diese es Dritten ermögl
 Möchten Sie etwas ändern?
 
 
+;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
+Der Schutz vor Aktivitätenverfolgung lässt sich ganz einfach für die aktuelle Website deaktivieren, indem Sie „Schutz auf dieser Website deaktivieren“ anklicken.
+
+
+# Obsolete string (do not remove)
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
-Der Schutz vor Verfolgung von Aktivitäten lässt sich ganz einfach für die aktuelle Website deaktivieren, indem Sie „Schutz für diese Sitzung deaktivieren“ anklicken.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Der Schutz vor Verfolgung von Aktivitäten lässt sich ganz einfach für die aktuelle Website deaktivieren, indem Sie „Schutz für diese Sitzung deaktivieren“ anklicken.
+Der Schutz vor Aktivitätenverfolgung lässt sich ganz einfach für die aktuelle Website deaktivieren, indem Sie „Schutz für diese Sitzung deaktivieren“ anklicken.
 
 
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-Der Schutz vor Verfolgung von Aktivitäten für die aktuelle Website lässt sich ganz einfach aktivieren, indem Sie „Schutz aktivieren“ anklicken.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-Der Schutz vor Verfolgung von Aktivitäten für die aktuelle Website lässt sich ganz einfach aktivieren, indem Sie „Schutz aktivieren“ anklicken.
+Der Schutz vor Aktivitätenverfolgung für die aktuelle Website lässt sich ganz einfach aktivieren, indem Sie „Schutz aktivieren“ anklicken.
 
 
 ;3 of 3
@@ -72,13 +58,12 @@ Der Schutz vor Verfolgung von Aktivitäten für die aktuelle Website lässt sich
 Verstanden!
 
 
+;Tracking Protection
+Schutz vor Aktivitätenverfolgung
+
+
 ;Private Browsing with Tracking Protection
 Privates Surfen mit Schutz vor Aktivitätenverfolgung
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Schutz vor Verfolgung von Aktivitäten in Firefox
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
@@ -86,13 +71,12 @@ Schutz vor Verfolgung von Aktivitäten in Firefox
 Möchten Sie diese Funktion deaktivieren? <a href="%s">Öffnen Sie die Datenschutzeinstellungen</a>
 
 
+;Thanks for learning about Tracking Protection.
+Danke, dass Sie sich über den Schutz vor Aktivitätenverfolgung informiert haben.
+
+
 ;Thanks for learning about the new Private Browsing with Tracking Protection.
 Danke, dass Sie sich über das neue private Surfen mit Schutz vor Aktivitätenverfolgung informiert haben.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Danke, dass Sie sich über die neue Funktion „Schutz vor Verfolgung von Aktivitäten“ im Privaten Modus informiert haben.
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
@@ -101,11 +85,6 @@ Auf der <a rel="external" href="%s">Seite mit häufig gestellten Fragen</a> erfa
 
 
 ;Restart tour
-Rundgang erneut starten
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
 Rundgang erneut starten
 
 

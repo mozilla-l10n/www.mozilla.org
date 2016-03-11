@@ -579,6 +579,11 @@ Foorumit
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+;Patents
+Patentit
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
 Johtajuus
 
@@ -761,12 +766,16 @@ Teksti
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
 Hupsista! Tarkista, että kirjoitit sähköpostiosoitteesi oikein.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Minulle käy, että Mozilla käsittelee tietojani <a href="%s">tietosuojakäytännössä</a> kuvatulla tavalla.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>

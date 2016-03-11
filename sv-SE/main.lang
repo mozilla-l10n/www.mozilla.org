@@ -530,7 +530,7 @@ Delta
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
-Volunteer
+Volontär
 
 
 # Top menu item on firefox/update page
@@ -576,6 +576,11 @@ Firefox på Facebook
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
 Forum
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Patents
+Patent
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -761,12 +766,16 @@ Text {ok}
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
 Hoppsan! Var noga med att ange en giltig e-postadress.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Jag godkänner att Mozilla hanterar min information på det sätt som beskrivs och förklaras i denna <a href="%s">sekretesspolicy</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>

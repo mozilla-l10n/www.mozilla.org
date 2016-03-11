@@ -1,7 +1,5 @@
 ## active ##
-## meta_update_201503 ##
-## new_doorhanger ##
-## share_cta ##
+## firefox_dev_fall ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/developer
 ## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated. It also won't be localizable inside the product, like "Beta" or "Nightly"
 
@@ -22,10 +20,6 @@ Luchdaich a-nuas Mozilla Firefox, brabhsair-lìn a tha saor an-asgaidh. Tha Fire
 
 ;Built for those who build the Web
 Air a dhealbhadh dha na daoine a dhealbhas an lìon
-
-
-;Introducing the only browser made for developers like you.
-A' toirt dhut an aon bhrabhsair a chaidh a dhèanamh do luchd-leasachaidh mar thu fhèin.
 
 
 ;The only browser made for developers like you.
@@ -77,28 +71,40 @@ Tha tionndadh luchd-leasachaidh de Firefox a' toirt còmhla prìomh-innealan luc
 Glacadh-sgrìn
 
 
-;WebVR
-WebVR {ok}
+;Visual Editing Tools
+Innealan deasachaidh lèirsinneach
 
 
-;Build immersive multi-platform, cross-device Web VR experiences using the technologies that you know &mdash; JavaScript, WebGL, Three.js and more.
-Build immersive multi-platform, cross-device Web VR experiences using the technologies that you know &mdash; JavaScript, WebGL, Three.js and more.
+;Visually edit CSS and HTML animations playing on the page from the Inspector panel. Verify alignment, dimensions and padding of any element using the Ruler and Measurement tools.
+Deasaich beòthachaidhean CSS is HTML lèirsinneach a tha a’ cluich air an duilleag o phanail an sgrùdaiche. Dearbh a’ cho-thaobhadh, meud is padadh aig eileamaid sam bith leis an rùilear is na h-innealan tomhais.
 
 
-;Learn more about WebVR
-Learn more about WebVR
+;Learn more about Visual Editing Tools
+Barrachd fiosrachaidh mu innealan an deasachaidh lèirsinnich
+
+
+;DevTools Challenger
+DevTools Challenger {ok}
+
+
+;Use Developer Edition’s visual animation and CSS editing tools to explore the depths of the ocean and interact with the strangest of creatures.
+Cleachd beòthachadh lèirsinneach is innealan deasachadh CSS aig tionndadh an luchd-leasachaidh, ruig dubh-ghrunnd na h-aibheise is coinnich ri creutairean neònach a tha beò ann.
+
+
+;Try DevTools Challenger
+Feuch DevTools Challenger
 
 
 ;Performance Tools
-Performance Tools
+Innealan an dèanadais
 
 
 ;Examine your web content’s frame rate, memory consumption and JS profile in a consolidated timeline view to help easily identify and troubleshoot performance bottlenecks.
-Examine your web content’s frame rate, memory consumption and JS profile in a consolidated timeline view to help easily identify and troubleshoot performance bottlenecks.
+Sgrùd reat fhrèamaichean, caitheamh cuimhne is pròifil JS na susbaint-lìn agad ann an co-shealladh loidhne-ama a nì e furasta dhut cnapan-starra dèanadais a lorg is fhuasgladh.
 
 
 ;Learn more about Performance Tools
-Learn more about Performance Tools
+Barrachd fiosrachaidh mu innealan an dèanadais
 
 
 ;WebIDE
@@ -262,21 +268,6 @@ Sioncronaich pròifil ùr an tionndaidh luchd-leasachaidh agad leis a' chunntas 
 # UI Tour: don't add HTML tags in this string
 ;Sync now
 Sioncronaich an-dràsta
-
-
-# UI Tour: don't add HTML tags in this string
-;Keep your browser in Sync
-Cum am brabhsair agad sioncronaichte
-
-
-# UI Tour: don't add HTML tags in this string
-;Sync your Firefox desktop and mobile browsers to get instant access to your bookmarks, open tabs, passwords and more.
-Sioncronaich na brabhsairean Firefox agad air an desktop is air uidheaman mobile ach am faigh thu greim air na comharran-lìn, tabaichean fosgailte, faclan-faire 's mòran a bharrachd sa bhad.
-
-
-# UI Tour: don't add HTML tags in this string
-;Sync my Firefox
-Sioncronaich am Firefox agam
 
 
 # UI Tour: don't add HTML tags in this string

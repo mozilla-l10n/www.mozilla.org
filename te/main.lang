@@ -15,12 +15,12 @@
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+iOS <span>కొరకు</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OS
+OS {OK}
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -71,7 +71,7 @@ OS
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+ఆప్స్
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -156,7 +156,7 @@ Apps
 
 
 ;Labs
-ప్రయోగశాల
+ప్రయోగశాలలు
 
 
 ;skip to Navigation
@@ -315,7 +315,7 @@ Apps
 
 
 ;Watch the video
-వీడియోను చూడండి
+వీడియోని చూడండి
 
 
 ;Replay the video
@@ -355,7 +355,7 @@ MPEG-4 ఫార్మాటు
 
 
 ;Desktop
-డెస్క‌టాప్
+రంగస్థలం
 
 
 ;Firefox Beta for mobile
@@ -530,7 +530,7 @@ MPEG-4 ఫార్మాటు
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
-Volunteer
+ఔత్సాహికులవ్వండి
 
 
 # Top menu item on firefox/update page
@@ -576,6 +576,11 @@ Volunteer
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
 చర్చావేదికలు
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Patents
+Patents
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -746,12 +751,12 @@ Volunteer
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+అభినందనలు. మీ ఫైర్‌ఫాక్స్ తాజాగావుంది!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
 ;Format
-ఫార్మాటు
+ఫార్మాట్
 
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
@@ -761,12 +766,16 @@ Congrats. You’re up to date!
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML  {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
 అయ్యో! దయచేసి సరైన ఈమెయిలు చిరునామాని ఇవ్వండి.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>

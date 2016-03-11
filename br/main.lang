@@ -579,6 +579,11 @@ Foromoù
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+;Patents
+Breouioù
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
 Renerezh
 
@@ -761,12 +766,16 @@ Testenn
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
 Hopala ! Ho chomlec'h postel n'eo ket talvoudek.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>

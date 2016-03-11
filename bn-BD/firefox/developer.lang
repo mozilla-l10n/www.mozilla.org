@@ -1,3 +1,5 @@
+## active ##
+## firefox_dev_fall ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/developer
 ## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated. It also won't be localizable inside the product, like "Beta" or "Nightly"
 
@@ -18,10 +20,6 @@ Mozilla Firefox ডাউনলোড করুন, একটি মুক্ত
 
 ;Built for those who build the Web
 তাদের জন্যই তৈরি যারা ওয়েবকে তৈরি করে
-
-
-;Introducing the only browser made for developers like you.
-একমাত্র ব্রাউজারের পরিচয় করানো হচ্ছে যেটি আপনার মতো ডেভেলপেরদের জন্য তৈরি করা।
 
 
 ;The only browser made for developers like you.
@@ -73,16 +71,28 @@ Firefox ডেভেলপার সংস্করণ কিছু শক্ত
 স্ক্রিনসট
 
 
-;WebVR
-WebVR {ok}
+;Visual Editing Tools
+ভিজুয়াল সম্পাদনা টুল
 
 
-;Build immersive multi-platform, cross-device Web VR experiences using the technologies that you know &mdash; JavaScript, WebGL, Three.js and more.
-Build immersive multi-platform, cross-device Web VR experiences using the technologies that you know &mdash; JavaScript, WebGL, Three.js and more.
+;Visually edit CSS and HTML animations playing on the page from the Inspector panel. Verify alignment, dimensions and padding of any element using the Ruler and Measurement tools.
+ইস্পেক্টর প্যানেল থেকে ভিজুয়ালি CSS ও HTML অ্যানিমেশন সম্পাদনা করুন যা আপনার পাতায় চলছে। রুলার এবং মেজারমেন্ট টুল ব্যবহার করে যেকোন এলিমেন্টের অ্যালাইনমেন্ট, ডাইমেনশন ও প্যাডিং যাচাই করুন।
 
 
-;Learn more about WebVR
-WebVR সম্পর্কে আরও জানুন
+;Learn more about Visual Editing Tools
+ভিজুয়াল সম্পাদনা টুল সম্পর্কে আরও জানুন
+
+
+;DevTools Challenger
+DevTools Challenger {ok}
+
+
+;Use Developer Edition’s visual animation and CSS editing tools to explore the depths of the ocean and interact with the strangest of creatures.
+সাগরের গভীরতা খুঁজে দেখতে এবং অদ্ভুত সব সৃষ্টি দেখতে ডেভেলপার সংস্করণের ভিজুয়াল অ্যানিমেশনে এবং CSS সম্পাদনা টুল ব্যবহার করুন।
+
+
+;Try DevTools Challenger
+DevTools Challenger ব্যবহার করে দেখুন
 
 
 ;Performance Tools
@@ -90,7 +100,7 @@ WebVR সম্পর্কে আরও জানুন
 
 
 ;Examine your web content’s frame rate, memory consumption and JS profile in a consolidated timeline view to help easily identify and troubleshoot performance bottlenecks.
-Examine your web content’s frame rate, memory consumption and JS profile in a consolidated timeline view to help easily identify and troubleshoot performance bottlenecks.
+আপনার ওয়েবের বিষয়বস্তুর ফ্রেইম রেট, মেমোরি খরচ এবং সমন্বিত টাইমলাইন দৃশ্যে JS প্রোফাইল যাচাই করুন যেন সহজে চিহ্নিত এবং পার্ফরম্যান্সের অন্তরায় সমস্যা সমাধানে সাহায্য করে।
 
 
 ;Learn more about Performance Tools
@@ -198,7 +208,7 @@ JavaScript ডিবাগারের ব্যাপারে আরও জা
 
 
 ;View and edit CSS styles associated with a Web page, create new ones and apply existing CSS stylesheets to any page.
-View and edit CSS styles associated with a Web page, create new ones and apply existing CSS stylesheets to any page.
+ওয়েব পেজের সাথে সংযুক্ত CSS স্টাইলগুলো দেখুন ও সম্পাদন করুন, নতুন একটি তৈরি করুন এবং যেকোনো পেজে বিদ্যমান CSS স্টাইলশীটগুলোতে প্রয়োগ করুন।
 
 
 ;Learn more about Style Editor
@@ -222,7 +232,7 @@ View and edit CSS styles associated with a Web page, create new ones and apply e
 
 # UI Tour: don't add HTML tags in this string
 ;The most complete browser made just for developers, Firefox Developer Edition has every dev tool you’ll need built right in.
-The most complete browser made just for developers, Firefox Developer Edition has every dev tool you’ll need built right in.
+অধিকাংশ সম্পূর্ণ ব্রাউজার শুধুমাত্র ডেভেলপারদের জন্য বানানো, ফায়ারফক্স ডেভেলপার সংস্করণে প্রত্যেক ডেভ টুলসমূহ আছে যা আপনার দরকার হবে এই মুহূর্তে বানানোর জন্য।
 
 
 # UI Tour: don't add HTML tags in this string
@@ -237,7 +247,7 @@ WebIDE ব্যবহার করে দেখুন
 
 # UI Tour: don't add HTML tags in this string
 ;Develop, deploy and debug Firefox OS apps directly in your browser or on a Firefox OS device.
-Develop, deploy and debug Firefox OS apps directly in your browser or on a Firefox OS device.
+ফায়ারফক্স ওএস অ্যাপগুলো সরাসরি আপনার ব্রাউজার অথবা ফায়ারফক্স ওএস ডিভাইসে তৈরি, প্রয়োগ এবং ডিবাগ করুন।
 
 
 # UI Tour: don't add HTML tags in this string
@@ -252,7 +262,7 @@ Develop, deploy and debug Firefox OS apps directly in your browser or on a Firef
 
 # UI Tour: don't add HTML tags in this string
 ;Sync your new Developer Edition profile to your Firefox Account to access bookmarks, browsing history, passwords and more from your existing Firefox profile.
-Sync your new Developer Edition profile to your Firefox Account to access bookmarks, browsing history, passwords and more from your existing Firefox profile.
+আপনার বিদ্যমান ফায়ারফক্স প্রোফাইলের বুকমার্ক, ব্রাউজিং ইতিহাস, পাসওয়ার্ড ও আরও কিছু প্রবেশাধিকার পাওয়ার জন্য আপনার নতুন ডেভেলপার সংস্করন আপনার ফায়ারফক্স একাউন্টের সাথে সিঙ্ক করুন।
 
 
 # UI Tour: don't add HTML tags in this string
@@ -261,33 +271,18 @@ Sync your new Developer Edition profile to your Firefox Account to access bookma
 
 
 # UI Tour: don't add HTML tags in this string
-;Keep your browser in Sync
-আপনার ব্রাউজার সিঙ্ক করে রাখুন
-
-
-# UI Tour: don't add HTML tags in this string
-;Sync your Firefox desktop and mobile browsers to get instant access to your bookmarks, open tabs, passwords and more.
-Sync your Firefox desktop and mobile browsers to get instant access to your bookmarks, open tabs, passwords and more.
-
-
-# UI Tour: don't add HTML tags in this string
-;Sync my Firefox
-আমার ফায়ারফক্স সিঙ্ক কর
-
-
-# UI Tour: don't add HTML tags in this string
 ;No thanks
-No thanks
+প্রয়োজন নেই।
 
 
 # UI Tour: don't add HTML tags in this string
 ;Before you go&hellip;
-Before you go&hellip;
+আগে আপনার go&hellip;
 
 
 # UI Tour: don't add HTML tags in this string
 ;If you continue without syncing your new Developer Edition profile, you could lose access to important browsing data from your existing Firefox profile.
-If you continue without syncing your new Developer Edition profile, you could lose access to important browsing data from your existing Firefox profile.
+যদি আপনি সিঙ্ক ব্যতীত আপনার নতুন ডেভেলপার সংস্করনের প্রোফাইল চালাতে চান, তাহলে আপনি আপনার বিদ্যমান ফায়ারফক্স প্রোফাইল হতে গুরুত্বপূর্ণ ব্রাউজিং ডাটার প্রবেশাধিকার হারাবেন।
 
 
 # UI Tour: don't add HTML tags in this string
@@ -300,7 +295,7 @@ If you continue without syncing your new Developer Edition profile, you could lo
 
 
 ;Get to know the features that make it the most complete browser for building the Web.
-Get to know the features that make it the most complete browser for building the Web.
+বৈশিষ্ট্যসমূহ সম্পর্কে জানুন যা ওয়েবকে তৈরি করার জন্য পরিপূর্ণ একটি ব্রাউজার তৈরি করা হয়েছে।
 
 
 ;Important: Sync your new profile
@@ -308,11 +303,11 @@ Get to know the features that make it the most complete browser for building the
 
 
 ;Developer Edition comes with a new profile so you can run it alongside other versions of Firefox.
-Developer Edition comes with a new profile so you can run it alongside other versions of Firefox.
+ডেভেলপার সংস্করণ একটি নতুন প্রোফাইলের সাথে আসে যেন আপনি অন্যান্য ফায়ারফক্স সংস্করণের পাশাপাশি চালাতে পারেন।
 
 
 ;To access your bookmarks, browsing history and more, you need to sync the profile with your existing Firefox Account, or create a new one.
-To access your bookmarks, browsing history and more, you need to sync the profile with your existing Firefox Account, or create a new one.
+আপনার বুকমার্ক, ব্রাউজিং ইতিহাস এবং আরও কিছুর প্রবেশাধিকার পাওয়ার জন্য, আপনার বিদ্যমান ফায়ারফক্স একাউন্টের প্রোফাইল সিংক করতে হবে অথবা নতুন একটি বানাতে হবে।
 
 
 ;Want the old look back?
@@ -320,7 +315,7 @@ To access your bookmarks, browsing history and more, you need to sync the profil
 
 
 ;If you want the familiar look and feel of Firefox Aurora back, we’ve made it super easy for you.
-If you want the familiar look and feel of Firefox Aurora back, we’ve made it super easy for you.
+যদি আপনি আগের ফায়ারফক্স অরোরার পরিচিত রূপ পেতে এবং অনুভব করতে চান, আমরা আপনার জন্য এটি বেশ সহজ করে দিয়েছি।
 
 
 ;Features and tools

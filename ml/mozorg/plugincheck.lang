@@ -1,10 +1,11 @@
 ## active ##
+## no_plugins ##
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 
 
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
-Keep your Firefox healthy with a quick checkup
+ഒരു ചെറിയ പരിശോധനയിലൂടെ നിങ്ങളുടെ ഫയര്‍ഫോക്സിനെ ആരോഗ്യപൂര്‍ണ്ണമായി സൂക്ഷിക്കുക
 
 
 # Used as page description in HTML meta tag
@@ -19,12 +20,12 @@ Use Flash? QuickTime? Java? If you use these to make your Firefox experience mor
 
 # This is a button telling the user to update their plugin
 ;Update Now
-ഉടന്‍ പരിഷ്കരിയ്ക്കുക
+ഇപ്പോള്‍ പുതുക്കുക
 
 
 # This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
 ;Research
-റിസേര്‍ച്ച്
+ഗവേഷണം
 
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
@@ -49,7 +50,7 @@ Use Flash? QuickTime? Java? If you use these to make your Firefox experience mor
 
 # This is the string used to indicate that the plugin is vulnerable
 ;vulnerable
-അപകടത്തില്‍
+സുരക്ഷിതമല്ലാത്ത
 
 
 # This is the string used to indicate that the plugin is outdated
@@ -59,11 +60,11 @@ outdated
 
 # Main title
 ;Check Your Plugins
-നിങ്ങളുടെ പ്ലഗിനുകള്‍ പരിശോധിയ്ക്കുക
+താങ്കളുടെ പ്ലഗിനുകള്‍ പരിശോധിക്കുക
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-നിങ്ങളുടെ പ്ലഗിനുകള്‍ പുതുക്കി വയ്ക്കുന്നതു് ഫയര്‍ഫോക്സ് സുരക്ഷിതമായും ഉത്തമമായും പ്രവര്‍ത്തിയ്ക്കുവാന്‍ സഹായിയ്ക്കുന്നു.
+താങ്കളുടെ പ്ലഗിനുകള്‍ പുതുതായി നിലനിര്‍ത്തിയാല്‍ അത് ഫയര്‍ഫോക്സിന്റെ സുഗമമായതും സുരക്ഷിതവുമായ പ്രവര്‍ത്തനത്തിന് സഹായിക്കും.
 
 
 ;Currently the plugin check service is only available to Firefox users.
@@ -72,7 +73,7 @@ Currently the plugin check service is only available to Firefox users.
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
-Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
+പ്ലഗിനുകള്‍ എപ്പോഴും തനിയെ പുതുക്കാറില്ല. നിങ്ങളുടേത് പരിശോധിച്ച് സുരക്ഷിതമായി നില്‍ക്കുകയും കൂടാതെ തടസ്സങ്ങളൊന്നുമില്ലാതെ ബ്രൌസ് ചെയ്യൂ!
 
 
 ;Looks like you’re using an older version of Firefox.
@@ -84,7 +85,7 @@ Plugins don’t always update automatically. Check yours now to stay safe and br
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+യാതൊരു പ്ലഗിനുകളും കാണുന്നില്ല. ഇത് ഒരു പിശക് ആണെന്ന്‍ താങ്കള്‍ വിശ്വസിക്കുന്നുവെങ്കില്‍, <a href="%(bugzilla_url)s">ദയവായി തകരാര്‍ നല്‍കൂ</a> ഞങ്ങളെ അറിയിക്കൂ.
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -92,15 +93,15 @@ No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)
 
 
 ;Step 1: Click Update to update a plugin.
-നടപടി 1: ഒരു പ്ലഗിന്‍ പരിഷ്കരിയ്ക്കുന്നതിനായി പരിഷ്കരിയ്ക്കുക ക്ലിക്ക് ചെയ്യുക.
+ഘട്ടം 1: പ്ലഗിന്‍ പുതുക്കുവാനായി പുതുക്കല്‍ എന്നതില്‍ ക്ലിക്ക് ചെയ്യുക.
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
-നടപടി 2:നിങ്ങളുടെ ബ്രൌസര്‍ വീണ്ടും ആരംഭിയ്ക്കുന്നതിനു് മുമ്പായി  ആവശ്യമായ എല്ലാ പരിഷ്കരണങ്ങളും പൂര്‍ത്തിയാക്കുക.
+താങ്കളുടെ ബ്രൌസര്‍ വീണ്ടും തുടങ്ങുന്നതിനു മുന്‍പ് നിര്‍ദ്ദേശിച്ച എല്ലാ പുതുക്കലുകളും പൂര്‍ണ്ണമാക്കുക.
 
 
 ;Potentially vulnerable plugins
-അതീവ അപകടകരമായ പ്ലഗിനുകള്‍
+അപകടകരമാവാന്‍ സാധ്യതയുള്ള പ്ലഗിനുകള്‍
 
 
 ;Plugin
@@ -112,31 +113,31 @@ No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)
 
 
 ;Action
-പ്രവര്‍ത്തി
+പ്രവൃത്തി
 
 
 ;Outdated Plugins
-പഴയ പ്ലഗിനുകള്‍
+പഴയ പ്ലഗിന്‍
 
 
 ;Unknown Plugins
-അപരിചിതമായ പ്ലഗിനുകള്‍
+അപരിചിതമായ പ്ലഗിന്‍
 
 
 ;These plugins are up to date
-ഈ പ്ലഗിനുകള്‍ പുതിയതാണു്
+ഈ പ്ലഗിനുകൾ പുതിയതാണ്
 
 
 ;Back to Top
-തിരികെ മുകളിലേക്കു്
+മുകളിലേക്ക് തിരികെ പോകാം
 
 
 ;Frequently Asked Questions
-നിരന്തരമുള്ള ചോദ്യങ്ങള്‍
+പതിവു ചോദ്യങ്ങള്‍
 
 
 ;What is a plugin?
-എന്താണു് പ്ലഗിന്‍?
+എന്താണ് പ്ലഗ്ഗിന്‍?
 
 
 ;Plugins power videos, animation and games
@@ -144,15 +145,15 @@ No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)
 
 
 ;They're built outside of Firefox by companies like Adobe Systems and Apple
-അഡോബ് സിസ്റ്റങ്ങള്‍ , ആപ്പിള്‍ പോലുള്ള ഫയര്‍ഫോക്സിനു് പുറത്തുള്ള കമ്പനികള്‍ ഇവ തയ്യാറാക്കുന്നു.
+അവ ഫയർഫോക്സിന്റെ പുറത്തു അഡോബി സിസ്റ്റംസ് ആപ്പിൾ പോലുള്ള കമ്പിനകൾ നിർമ്മിച്ചവയാണ്
 
 
 ;Plugins don't always update automatically.
-പ്ലഗിനുകള്‍ സ്വയമായി പരിഷ്കരിയ്ക്കപ്പെടുന്നതല്ല.
+പ്ലഗിനുകള്‍ എല്ലായ്പോഴും താനേ പുതുക്കുകയില്ല.
 
 
 ;Why should I update my plugins?
-പ്ലഗിനുകള്‍ എന്തിനു് പുതുക്കണം?
+എന്തുകൊണ്ട് ഞാന്‍ എന്റെ പ്ലഗ്ഗിനുകള്‍ പുതുക്കണം?
 
 
 ;Old plugins can interrupt browsing and waste your time.
@@ -164,7 +165,7 @@ No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)
 
 
 ;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
-വെബിനെ <strong>മെച്ചപ്പെട്ടതും സുരക്ഷിതവുമാക്കുന്നതിനായി</strong> <strong>പരിഷ്കരിച്ച പ്ലഗിനുകള്‍ സഹായിയ്ക്കുന്നു</strong>.
+നിങ്ങള്‍ക്കുവേണ്ടി വെബ്<strong> മെച്ചപ്പെട്ടതും സുരക്ഷിതവുമാക്കാന്‍</strong> വേണ്ടിയുള്ള മെച്ചപ്പെടുത്തലുകള്‍<strong> പുതുക്കിയ പ്ലഗ്ഗിനുകള്‍കളില്‍ ഉണ്ട്</strong>.
 
 
 # alt image
@@ -173,7 +174,7 @@ No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)
 
 
 ;How can Firefox help me?
-ഫയര്‍ഫോക്സ് എങ്ങനെ സഹായിയ്ക്കുന്നു?
+ഫയര്‍ഫോക്സിനു എന്നെ എങ്ങിനെ സഹായിക്കാം?
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
@@ -181,7 +182,7 @@ No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)
 
 
 ;Which Plugins do I have?
-ലഭ്യമായ പ്ലഗിനുകള്‍?
+ഏതൊക്കെ പ്ലഗിനുകളാണ് എനിക്ക് ഉള്ളത്?
 
 
 ;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
@@ -214,15 +215,15 @@ Open the <span class="menu">menu</span>.
 
 
 ;Choose Add-ons.
-ആഡ്-ഓണുകള്‍ തെരഞ്ഞെടുക്കുക.
+ആഡ്-ഓണിനുകള്‍ തിരഞ്ഞെടുക്കുക.
 
 
 ;Click the plugins tab.
-പ്ലഗിനുകള്‍ റ്റാബില്‍ ക്ലിക്ക് ചെയ്യുക.
+പ്ലുഗിന്‍സ് ടാബ് ക്ലിക്ക് ചെയ്യൂ.
 
 
 ;Click on the drop down next to the plugin you wish to disable.
-Click on the drop down next to the plugin you wish to disable.
+താങ്കള്‍ പ്രവര്‍ത്തന രഹിതമാക്കാന്‍ ആഗ്രഹിക്കുന്ന പ്ലുഗിന്റെ അടുത്തുള്ള ഡ്രോപ്പ്ഡൌണില്‍ ക്ലിക്ക് ചെയ്യുക.
 
 
 ;Click on a plugin in the list.
@@ -234,11 +235,11 @@ Select "Never Activate" from the available choices.
 
 
 ;Click the Disable button.
-പ്രവര്‍ത്തന രഹിതമാക്കുക ബട്ടണ്‍ ക്ലിക്ക് ചെയ്യുക.
+പ്രവര്ത്തനരഹിതമാക്കുക എന്ന ബട്ടണില്‍ ക്ലിക്ക് ചെയ്യൂ.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
-ശ്രദ്ധിയ്ക്കുക: ഒരു പ്ലഗിന്‍ പ്രവര്‍ത്തന രഹിതമാക്കിയാല്‍പല കാര്യങ്ങളും നിങ്ങള്‍ക്കു് ചെയ്യുവാന്‍ സാധ്യമാകുന്നതല്ല.  ഉദാഹരണത്തിനു്, ഫ്ലാഷ് പ്രവര്‍ത്തന രഹിതമാക്കിയാല്‍, പ്രധാന വീഡിയോ സ്ട്രീമിങ് സൈറ്റുകളില്‍ നിങ്ങള്‍ക്കു് വീഡിയോ കാണുവാന്‍ സാധ്യമല്ല.
+താക്കീത്: ഒരു പ്ലഗിന്‍ പ്രവര്‍ത്തനരഹിതമാക്കല്‍ വഴി പിന്നീട് താങ്കള്‍ക്ക് ചില പ്രത്യേക കാര്യങ്ങള്‍ ചെയ്യാന്‍ സാധിക്കില്ല. ഉദാഹരണമായി, താങ്കള്‍ ഫ്ലാഷ് പ്രവര്‍ത്തന രഹിതമാക്കിയാല്‍ യുട്യുബില്‍ വീഡിയോകള്‍ കാണാന്‍ സാധിക്കില്ല.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
@@ -246,14 +247,14 @@ Caution: disabling a plugin means that you will no longer be able to do certain 
 
 
 ;Mozilla Support
-മോസിലാ പിന്തുണ
+മോസില്ല പിന്തുണ
 
 
 ;Have more questions?
-ഇനിയും ചോദ്യങ്ങള്‍?
+കൂടുതല്‍ ചോദ്യങ്ങള്‍ ഉണ്ടോ?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-കൂടുതല്‍ സഹായത്തിനു് <a href="%(sumo_url)s">support.mozilla.org</a> സന്ദര്‍ശിയ്ക്കുക!
+കൂടുതല്‍ സഹായത്തിനായി <a href="%(sumo_url)s">support.mozilla.org</a> സന്ദര്‍ശിക്കുക!
 
 

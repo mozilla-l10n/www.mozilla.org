@@ -1,8 +1,5 @@
 ## active ##
-## meta_update_201503 ##
-## new_doorhanger ##
-## share_cta ##
-## spring_release ##
+## firefox_dev_fall ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/developer
 ## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated. It also won't be localizable inside the product, like "Beta" or "Nightly"
 
@@ -23,10 +20,6 @@ Web を開発する人のために。開発者目線で作られた唯一のブ�
 
 ;Built for those who build the Web
 Web を開発する人のために
-
-
-;Introducing the only browser made for developers like you.
-開発者目線で作られた唯一のブラウザ
 
 
 ;The only browser made for developers like you.
@@ -78,16 +71,28 @@ Firefox Developer Edition の開発ツールはおなじみのものだけでは
 スクリーンショット
 
 
-;WebVR
-WebVR{ok}
+;Visual Editing Tools
+視覚編集ツール
 
 
-;Build immersive multi-platform, cross-device Web VR experiences using the technologies that you know &mdash; JavaScript, WebGL, Three.js and more.
-クロスデバイスで、複数のプラットフォームで動作し、没入感の高い VR コンテンツ。そんな WebVR コンテンツも JavaScript や WebGL、Three.js といった Web 技術で作成できます。
+;Visually edit CSS and HTML animations playing on the page from the Inspector panel. Verify alignment, dimensions and padding of any element using the Ruler and Measurement tools.
+ページ上で再生されている CSS と HTML のアニメーションを、インスペクタパネルから視覚的に編集できます。定規と計測ツールを使えば、あらゆる要素の整列やサイズ、パティングも確認できます。
 
 
-;Learn more about WebVR
-WebVR の詳細はこちら
+;Learn more about Visual Editing Tools
+視覚編集ツールの詳細はこちら
+
+
+;DevTools Challenger
+DevTools Challenger {ok}
+
+
+;Use Developer Edition’s visual animation and CSS editing tools to explore the depths of the ocean and interact with the strangest of creatures.
+Developer Edition の視覚アニメーションツールと CSS 編集ツールを使って、深海を冒険し、奇妙な生き物たちと交流してみましょう。
+
+
+;Try DevTools Challenger
+DevTools Challenger を試す
 
 
 ;Performance Tools
@@ -103,7 +108,7 @@ WebVR の詳細はこちら
 
 
 ;WebIDE
-WebIDE{ok}
+WebIDE {ok}
 
 
 ;Develop, deploy and debug Firefox OS apps directly in your browser, or on a Firefox OS device, with this tool that replaces App Manager.
@@ -127,7 +132,7 @@ WebIDE についての詳細はこちら
 
 
 ;Valence
-Valence{ok}
+Valence {ok}
 
 
 ;Develop and debug your apps across multiple browsers and devices with this powerful extension that comes pre-installed with Firefox Developer Edition.
@@ -266,21 +271,6 @@ Firefox OS アプリの開発、配置、そして端末上で動作するコー
 
 
 # UI Tour: don't add HTML tags in this string
-;Keep your browser in Sync
-常に Sync させよう
-
-
-# UI Tour: don't add HTML tags in this string
-;Sync your Firefox desktop and mobile browsers to get instant access to your bookmarks, open tabs, passwords and more.
-デスクトップ版 Firefox と Android 版とを Sync することで、ブックマークやタブ、パスワードといったものを同期できます。
-
-
-# UI Tour: don't add HTML tags in this string
-;Sync my Firefox
-Firefox を Sync する
-
-
-# UI Tour: don't add HTML tags in this string
 ;No thanks
 いまはしない
 
@@ -305,11 +295,11 @@ Sync を利用しないと、既存のプロファイルで利用していたブ
 
 
 ;Get to know the features that make it the most complete browser for building the Web.
-Web を開発する人のためのブラウザです。新機能について
+Web を開発する人のためのブラウザ。その新機能について
 
 
 ;Important: Sync your new profile
-重要：新しいプロファイルを Sync させよう　
+重要：新しいプロファイルを Sync させよう
 
 
 ;Developer Edition comes with a new profile so you can run it alongside other versions of Firefox.

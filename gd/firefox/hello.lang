@@ -1,4 +1,7 @@
 ## active ##
+## hello_ftu_firefox_40 ##
+## hello_ftu_firefox_40_interactive ##
+## hello_screen_sharing ##
 ## ios_announce ##
 ## NOTE: this file covers both the product page and the first time experience (interactive UI Tour)
 ## NOTE: check https://groups.google.com/forum/#!topic/mozilla.dev.l10n.web/4uNJ7sz9xmw for instructions on how to test the tour page
@@ -34,7 +37,7 @@ Feuch Firefox Hello
 
 # This string is displayed to users of Firefox 38 ESR, where Hello is not available
 ;You need a different version of Firefox to use Hello.
-You need a different version of Firefox to use Hello.
+Feumaidh tu tionndadh eile de Firefox mus urrainn dhut Hello a chleachdadh.
 
 
 # This string is used as a button label, displayed to users of Firefox 38 ESR to download an updated version of Firefox
@@ -56,12 +59,12 @@ Chan eil feum air cunntas no clàradh 's cha leig thu leas dad a luchdadh a-nuas
 
 
 ;Just send a conversation link to a friend and ask them to click it.
-Just send a conversation link to a friend and ask them to click it.
+Cuir ceangal còmhraidh gu caraid is iarr orra briogadh air.
 
 
 # This string will be an active link to SUMO: https://support.mozilla.org/kb/which-browsers-will-work-firefox-hello-video-chat
 ;See which browsers are compatible with Firefox Hello
-See which browsers are compatible with Firefox Hello
+Faic dè na brabhsairean a tha comasach air Firefox Hello a ruith
 
 
 ;Just start a conversation, send your friend a link and ask them to click it.
@@ -75,27 +78,27 @@ Simplidh.
 # This is an English idiomatic expression: http://www.phrases.org.uk/meanings/316750.html
 # Feel free to adapt it to your locale.
 ;Share and share alike
-Share and share alike
+Thoir uiread is uiread
 
 
 ;Want to show off some new baby pictures?
-Want to show off some new baby pictures?
+A bheil thu airson dealbhan do leanabh ùr a shealltainn do dhaoine?
 
 
 ;Share travel options over the Web?
-Share travel options over the Web?
+Airson fiosrachadh siubhail a sgaoileadh air an lìon?
 
 
 ;Check in on a project from half a world away?
-Check in on a project from half a world away?
+Ag iarraidh pròiseact a sheacadh a-steach o thaobh thall an t-saoghail?
 
 
 ;Screen sharing on Firefox Hello makes it all possible.
-Screen sharing on Firefox Hello makes it all possible.
+Tha e furasta coimhead air an aon sgrìn còmhla le Firefox Hello.
 
 
 ;Try it out in your next conversation and share the things that matter most.
-Try it out in your next conversation and share the things that matter most.
+Feuch e san ath-chòmhradh agus co-roinn na rudan a tha cudromach dhut leis an t-saoghal.
 
 
 ;Invite anyone, anywhere
@@ -125,12 +128,12 @@ A chionn 's gu bheil Hello am broinn Firefox fhèin, 's urrainn dhut a bhith cin
 
 
 ;And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
-And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
+Agus taing do chrioptachadh aig ìre WebRTC, bidh e cho tèarainte ’s a ghabhas.
 
 
 # This will be an active link. Destination URL currently not available
 ;Learn more about WebRTC encryption
-Learn more about WebRTC encryption
+Barrachd fiosrachaidh mu chrioptachadh WebRTC
 
 
 ;That’s part of our mission, and it’s behind everything we do around here.
@@ -222,7 +225,7 @@ Le cumhachd %s
 # The following strings are used for the First Time interactive experience, don't add HTML tags.
 # The %s placeholder is an image of the Hello screen sharing icon, and can be moved around to fit the translation appropriately.
 ;Now see how easy it is to share your screen. Click %s in your conversation window to try it.
-Now see how easy it is to share your screen. Click %s in your conversation window to try it.
+Tha e cho furasta sin an sgrìn agad a nochdadh do dhaoine eile. Briog air “%s” sa chòmhradh agad is feuch ris.
 
 
 # “Hello” is the product name and should not be localized
@@ -247,7 +250,7 @@ Cha bhi dàil sam bith air cùisean
 
 
 ;You will receive a notification once they’ve joined
-You will receive a notification once they’ve joined
+Gheibh thu brath nuair a thàinig iad a-steach
 
 
 # “Hello” is the product name and should not be localized
@@ -307,23 +310,23 @@ Seo do chiad chòmhradh, gasta. Nach robh sin furasta?
 
 
 ;Click the blue button to start a video conversation, then invite a friend to join.
-Click the blue button to start a video conversation, then invite a friend to join.
+Briog air a’ phutan ghorm gus tòiseachadh air còmhradh video agus thoir cuireadh do charaid ann an uairsin.
 
 
 ;Email, copy or share the link
-Email, copy or share the link
+Co-roinn an ceangal
 
 
 ;Your friends can connect instantly. They don’t even need Firefox to join.
-Your friends can connect instantly. They don’t even need Firefox to join.
+’S urrainn dha do charaidean ceangal ris sa bhad. Chan fheum iad fiù Firefox.
 
 
 ;Continue browsing from any tab and you will be notified once someone joins.
-Continue browsing from any tab and you will be notified once someone joins.
+Cum a’ dol leis a’ bhrabhsadh air taba sam bith is gheibh thu brath nuair a thig cuideigin a-steach.
 
 
 # Accessibility: This is the alternate text for the social medial sharing icon
 ;sharing icon
-sharing icon
+ìomhaigheag a’ cho-roinnidh
 
 

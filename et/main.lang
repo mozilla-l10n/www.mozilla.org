@@ -525,7 +525,7 @@ Liitu Mozillaga
 
 # Top menu item on firefox/update page
 ;Participate
-Osale
+Osalemine
 
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
@@ -576,6 +576,11 @@ Firefox Facebookis
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
 Foorumid
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Patents
+Patendid
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -767,6 +772,10 @@ HTML {ok}
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
 Ups! Veendu, et sisestatud e-posti aadress on korrektne.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Luban Mozillal minu andmeid töödelda <a href="%s">privaatsusteates</a> kirjeldatud viisil
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>

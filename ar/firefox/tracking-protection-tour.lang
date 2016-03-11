@@ -8,12 +8,7 @@
 
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
-When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-لمّا يكون الدّرع ظاهرًا فهذا يعني بأن فَيَرفُكس يقوم بإيقاف عناصر الصّفحة التي من شأنها أن تتعقّبك.
+عندما يكون الدّرع ظاهرًا فهذا يعني بأن فَيَرفُكس يقوم بإيقاف أجزاء من الصّفحة التي من شأنها أن تتعقّب نشاطك.
 
 
 ;1 of 3
@@ -29,12 +24,7 @@ When you see the shield, Firefox is blocking some parts of the page that could t
 
 
 ;Some page areas may be missing, because they could allow third parties to track you across different websites.
-Some page areas may be missing, because they could allow third parties to track you across different websites.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-قد لا تظهر أجزاء من الصّفحة بسبب أنها تسمح لأطراف خارجيّة تعقّب سلوكيات تصفّحك.
+قد لا تظهر أجزاء من الصّفحة لأنها تسمح لأطراف خارجيّة بتعقّبك عبر مواقع مختلفة.
 
 
 ;2 of 3
@@ -45,22 +35,17 @@ Some page areas may be missing, because they could allow third parties to track 
 هل تريد إجراء تغييرات؟
 
 
+;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
+It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
+
+
+# Obsolete string (do not remove)
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
-It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-من السّهل إيقاف الحماية التعقّب على الموقع الذي تزوره عبر النّقر على "أوقف الحماية لهذه الجلسة"
+من السّهل إيقاف الحماية من التعقّب على الموقع الذي تزوره عبر النّقر على "أوقف الحماية لهذه الجلسة"
 
 
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-من السّهل تفعيل الحماية من التعقّب على الموقع الذي تزوره عبر النّقر على "فعّل الحماية"
+من السّهل تشغيل الحماية من التعقّب على الموقع الذي تزوره عبر النّقر على "فعّل الحماية".
 
 
 ;3 of 3
@@ -71,13 +56,12 @@ It’s easy to turn on Tracking Protection for the website you’re on by clicki
 فهمت
 
 
+;Tracking Protection
+Tracking Protection
+
+
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-الحماية من التعقّب على فَيَرفُكس
+التصفح الخاص في وضع الحماية من التعقّب
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
@@ -85,13 +69,12 @@ Private Browsing with Tracking Protection
 هل ترغب في تعطيل هذه الخاصّيّة؟ <a href="%s">زر صفحة تفضيلات الخصوصية</a>
 
 
+;Thanks for learning about Tracking Protection.
+Thanks for learning about Tracking Protection.
+
+
 ;Thanks for learning about the new Private Browsing with Tracking Protection.
-Thanks for learning about the new Private Browsing with Tracking Protection.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-شكرّا لك على اطّلاعك على خاصيّة الحماية من التعقّب الجديدة في وضع التصفح الخاص
+شكرّا لك على اطّلاعك على خاصيّة التصفح الخاص الجديدة في وضع الحماية من التعقّب.
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
@@ -100,11 +83,6 @@ Thanks for learning about the new Private Browsing with Tracking Protection.
 
 
 ;Restart tour
-Restart tour
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-ابدأ الجولة مرة أخرى
+أعد الجولة مرة أخرى
 
 

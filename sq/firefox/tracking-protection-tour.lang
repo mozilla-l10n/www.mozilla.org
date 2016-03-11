@@ -1,5 +1,6 @@
 ## active ##
-## tp_tour_firefox_42 ##
+## tp_tour_firefox_201601 ##
+## tp_tour_firefox_201602 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -10,11 +11,6 @@ Si funksionon Mbrojtja nga Gjurmimet
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 Kur mburoja është e dukshme, Firefox-i po bllokon pjesë të faqes që mund të gjurmojnë veprimtarinë tuaj të shfletimit.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-Kur mburoja është e dukshme, do të thotë që Firefox-i bllokon elemente faqeje që mund t’ju gjurmojnë.
 
 
 ;1 of 3
@@ -33,11 +29,6 @@ Dallime që duhen pritur
 Disa pjesë faqesh mund të mungojnë, ngaqë mund të lejonin palë të treta të ndjekin zakonet tuaja të shfletimit.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-Disa pjesë faqesh mund të mungojnë, ngaqë mund të lejojnë palë të treta të ndjekin zakonet tuaja të shfletimit.
-
-
 ;2 of 3
 2 nga 3
 
@@ -46,21 +37,16 @@ Disa pjesë faqesh mund të mungojnë, ngaqë mund të lejojnë palë të treta 
 Doni të bëni ndryshime?
 
 
+;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
+Çaktivizimi i Mbrojtjes Nga Gjurmimet për sajtin ku gjendeni është i lehtë, mjafton të klikoni mbi “Çaktivizoje mbrojtjen për këtë sajt.”
+
+
+# Obsolete string (do not remove)
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
 Mbyllja e Mbrojtjes Nga Gjurmimet për sajtin ku gjendeni është i lehtë, mjafton të klikoni mbi “Çaktivizoje mbrojtjen për këtë sesion”.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-Çaktivizimi i Mbrojtjes Nga Gjurmimet për sajtin ku gjendeni është i lehtë, mjafton të klikoni mbi “Çaktivizoje mbrojtjen për këtë sesion”.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-Aktivizimi i Mbrojtjes Nga Gjurmimet për sajtin ku gjendeni është i lehtë, mjafton të klikoni mbi “Aktivizoje mbrojtjen”.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
 Aktivizimi i Mbrojtjes Nga Gjurmimet për sajtin ku gjendeni është i lehtë, mjafton të klikoni mbi “Aktivizoje mbrojtjen”.
 
 
@@ -72,13 +58,12 @@ Aktivizimi i Mbrojtjes Nga Gjurmimet për sajtin ku gjendeni është i lehtë, m
 E kuptova!
 
 
+;Tracking Protection
+Mbrojtje Nga Gjurmimet
+
+
 ;Private Browsing with Tracking Protection
 Shfletim Privat me Mbrojtje Nga Gjurmimet
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-Mbrojtja Firefox Prej Gjurmimesh
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
@@ -86,13 +71,12 @@ Mbrojtja Firefox Prej Gjurmimesh
 Dëshironi ta çaktivizoni këtë veçori? <a href="%s">Vizitoni Parapëlqime Privatësie</a>
 
 
+;Thanks for learning about Tracking Protection.
+Faleminderit qw mwsoni rreth Mbrojtjes Nga Gjurmimet.
+
+
 ;Thanks for learning about the new Private Browsing with Tracking Protection.
 Faleminderit që mësoni mbi Shfletimin e ri Privat me Mbrojtje Nga Gjurmimet.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
-Faleminderit që mësoni mbi veçorinë e re të Mbrojtjes Nga Gjurmimet nën Mënyrën Shfletim Privat.
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
@@ -101,11 +85,6 @@ Mësoni më tepër se si funksionon, duke vizituar <a rel="external" href="%s">f
 
 
 ;Restart tour
-Riniseni turin
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
 Riniseni turin
 
 

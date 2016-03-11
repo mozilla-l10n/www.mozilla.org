@@ -1,5 +1,6 @@
 ## active ##
-## tp_tour_firefox_42 ##
+## tp_tour_firefox_201601 ##
+## tp_tour_firefox_201602 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -10,11 +11,6 @@
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
 هنگامی که شمایل سِپَر را می‌بینید، فایرفاکس بخش‌هایی از صفحه را که می‌تواند فعالیت‌های شما را ردگیری کند، مسدود کرده است.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
-زمانی که شمایل سِپَر نمایان است، به این معنی است که فایرفاکس در حال مسدود کردن بخش‌هایی از صفحه است که ممکن است شما را ردیابی کنند.
 
 
 ;1 of 3
@@ -33,11 +29,6 @@
 قسمت‌هایی از صفحه ممکن است حذف شده باشد، به خاطر اینکه این قسمت‌ها ممکن بود به اشخاص ثالث اجازه ردیابی شما را در بازه‌ای از سایت‌ها بدهند.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
-قسمت‌هایی از صفحه ممکن است حذف شده باشد، به خاطر اینکه این قسمت‌ها ممکن بود به اشخاص ثالث اجازه ردیابی شما را بدهد.
-
-
 ;2 of 3
 ۲ از ۳
 
@@ -46,22 +37,17 @@
 آیا می‌خواهید تفاوت ایجاد کنید؟
 
 
+;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
+خاموش کردن محافظت در برابر ردگیری برای وب‌سایتی که در آن هستید با کلیک بر روی «غیرفعال‌سازی محافظت در این سایت» بسیار راحت است.
+
+
+# Obsolete string (do not remove)
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
 خاموش کردن «حفاظت از ردیابی» برای سایتی که از آن دیدن می‌کنید بسیار ساده است، کافی است بر روی «غرفعال‌سازی حافظت در این نشست» کلیک کنید.
 
 
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
-غیرفعال کردن «حفاظت از ردیابی» برای سایتی که از آن دیدن می‌کنید بسیار ساده است، کافی است بر روی «غرفعال‌سازی حافظت در این نشست» کلیک کنید.
-
-
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 روشن کردن «حفاظت از ردیابی» برای سایتی که از آن دیدن می‌کنید بسیار ساده است، کافی است بر روی «فعالسازی حافظت» کلیک کنید.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
-فعال کردن «حفاظت از ردیابی» برای سایتی که از آن دیدن می‌کنید بسیار ساده است، کافی است بر روی «فعالسازی حافظت» کلیک کنید.
 
 
 ;3 of 3
@@ -72,13 +58,12 @@
 گرفتم!
 
 
+;Tracking Protection
+محافظت در برابر ردگیری
+
+
 ;Private Browsing with Tracking Protection
 مرور ناشناس با امکان محافظت در برابر ردگیری‌ها
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Firefox Tracking Protection
-محافظت از ردگیری در فایرفاکس
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
@@ -86,12 +71,11 @@
 می‌خواهید این امکان را خاموش کنید؟ <a href="%s">ترجیحات حریم‌خصوصی را ببینید</a>
 
 
+;Thanks for learning about Tracking Protection.
+از شما بابت آموختن درباره محافظت دربرابر ردگیری متشکریم.
+
+
 ;Thanks for learning about the new Private Browsing with Tracking Protection.
-از اینکه درباره مرور ناشناس جدید با امکان محافظت در برابر ردگیری خواندید از شما متشکریم.
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
 از اینکه درباره مرور ناشناس جدید با امکان محافظت در برابر ردگیری خواندید از شما متشکریم.
 
 
@@ -102,10 +86,5 @@
 
 ;Restart tour
 شروع مجدد سیاحت
-
-
-# Obsolete string (used for fx42 beta): do not remove
-;Start the tour again
-شروع دوباره سیاحت
 
 

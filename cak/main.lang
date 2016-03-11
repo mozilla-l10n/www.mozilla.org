@@ -26,12 +26,12 @@ OS {ok}
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+Kichin kematz'ib' &amp; taq ejqatel
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+Kichin taq oyonib'äl &amp; taq tz'alamkem
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -56,7 +56,7 @@ Aninäq
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
-Chi rij ri
+Tawetamaj qawäch
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -76,23 +76,23 @@ Taq chokoy
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+Mani nikanöx
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+Ch'utiwäch
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+Kich'ata'l ruk'a'tz
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+Kinuk'unem b'anonela'
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -132,11 +132,11 @@ Tacha' ri mama' okik'amaya'l
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firerox k'a man rojqan ta ch'akoj, man ajk'ayil ta, man rusujun. Ri rucha'ik Firefox man xa xe ta rucha'ik jun okik'amaya'l. Jun ya'oj tzij richin nuto' ri jamäl ruk'aslem winäq.
 
 
 ;Donate
-Tisipäx
+Kasipan
 
 
 ;Support
@@ -410,7 +410,7 @@ Ichinanem
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Jujun taq rupam e ©1998–%(current_year)s  kuma ri taq ruto'onela' mozilla.org. Wachel rupam rik'in ri ya'öl q'ij <a href="%(url)s">Creative Commons</a>.
+Jujun kipam etamab'äl chajin ruma kich'ojib'al b'anel ©1998–%(current_year)s  kuma to'onela' pa mozilla.org. Ri chaqa' chik rupam, ya'on q'ij chi yeq'alajin pe ruma ri <a href="%(url)s">Creative Commons</a>.
 
 
 # Footer string (will replace "Contribute to this page")
@@ -579,8 +579,13 @@ Taq Molna'oj
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+;Patents
+Rajawal wuj
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+Ajk'amöl b'ey
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -693,51 +698,51 @@ Rukab'laj ik'
 
 
 ;<abbr>Jan</abbr>
-<abbr>Nab'ik'</abbr>
+<abbr>Nab'ey ik'</abbr>
 
 
 ;<abbr>Feb</abbr>
-<abbr>Ka'ik'</abbr>
+<abbr>Ruka'n ik'</abbr>
 
 
 ;<abbr>Mar</abbr>
-<abbr>Oxik'</abbr>
+<abbr>Rox ik'</abbr>
 
 
 ;<abbr>Apr</abbr>
-<abbr>Kajik'</abbr>
+<abbr>Rukaj ik'</abbr>
 
 
 ;<abbr>May</abbr>
-<abbr>O'ik'</abbr>
+<abbr>Ro' ik'</abbr>
 
 
 ;<abbr>Jun</abbr>
-<abbr>Waqik'</abbr>
+<abbr>Ruwaq ik'</abbr>
 
 
 ;<abbr>Jul</abbr>
-<abbr>Wuqik'</abbr>
+<abbr>Ruwuq ik'</abbr>
 
 
 ;<abbr>Aug</abbr>
-<abbr>Waqxaqik'</abbr>
+<abbr>Ruwaqxaq ik'</abbr>
 
 
 ;<abbr>Sep</abbr>
-<abbr>B'elejik'</abbr>
+<abbr>Rub'elej ik'</abbr>
 
 
 ;<abbr>Oct</abbr>
-<abbr>Lajik'</abbr>
+<abbr>Rulaj ik'</abbr>
 
 
 ;<abbr>Nov</abbr>
-<abbr>Julajik'</abbr>
+<abbr>Rujulaj ik'</abbr>
 
 
 ;<abbr>Dec</abbr>
-<abbr>kab'lajik'</abbr>
+<abbr>Rukab'laj ik'</abbr>
 
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
@@ -761,12 +766,16 @@ Rucholajem tzij
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
 ¡Uy! Tatz'eta' chi natz'ib'aj jun ütz chi taqoya'l.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Ütz rub'anon chi nuwäch rusamajixik ri wetamab'al pa Mozilla achi'el niq'alajisäx pa <a href="%s">re  ichinan rutzijol re' </a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
@@ -775,7 +784,7 @@ HTML
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Ke'ak'ulu' taq rutzijol pa ruwi' Firefox
+Tak'ulu' taq rutzijol Firefox
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
@@ -809,7 +818,7 @@ Xtak'ül jun rutaqoya'l Mozilla@e.mozilla.org richin rujikib'axik ri rutz'ib'axi
 
 
 ;Read all about it in our <span>newsletter</span>
-Xqatäq jun jikel rutzijol chawe pa taqoya'l. Tapitz'a' pa ri ruximonel jikib'anem richin naya' q'ij chi re ri rutz'ib'axik ab'i' pa re rucholb'al taqoya'l re'.
+Tasik'in ronojel ri na'oj pa ruwi' Firefox pa <span>ko'öl qawuj!</span>
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!

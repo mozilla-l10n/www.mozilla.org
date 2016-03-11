@@ -579,6 +579,11 @@ Firefox на Facebook
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+;Patents
+Патенти
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
 Управління
 
@@ -769,6 +774,10 @@ HTML {ok}
 Отакої! Введіть будь ласка дійсну адресу електронної пошти.
 
 
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Я погоджуюсь з тим, як Mozilla поводиться з моїми даними згідно з <a href="%s">цим повідомленням про приватність</a>
+
+
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 Я погоджуюсь з тим, як Mozilla поводиться з моїми даними згідно з <a href="%s">цією Політикою приватності</a>
 
@@ -780,7 +789,7 @@ HTML {ok}
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-АДРЕСА ЕЛЕКТРОННОЇ ПОШТИ
+АДРЕСА Е-ПОШТИ
 
 
 # Subscription Button

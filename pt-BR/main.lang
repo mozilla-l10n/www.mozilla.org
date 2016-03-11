@@ -97,7 +97,7 @@ Developer Edition {ok}
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Navegação Privativa
+Navegação privada
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -470,7 +470,7 @@ Suporte para Android
 
 # Top menu item on firefox/update page
 ;Performance
-Performance {ok}
+Desempenho
 
 
 # Top menu item on firefox/update page
@@ -576,6 +576,11 @@ Firefox no Facebook
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
 Fóruns
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Patents
+Patentes
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -769,6 +774,10 @@ HTML {ok}
 Opa! Confira o endereço de e-mail, por favor.
 
 
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Eu aceito que a Mozilla manuseie minhas informações como explicado <a href="%s">neste Termo de Privacidade</a>
+
+
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 Concordo que a Mozilla trate essas informações de acordo com sua <a href="%s">Política de Privacidade</a>.
 
@@ -780,7 +789,7 @@ Receba novidades do Firefox
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-DIGITE SEU EMAIL
+DIGITE SEU E-MAIL
 
 
 # Subscription Button

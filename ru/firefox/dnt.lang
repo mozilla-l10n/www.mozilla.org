@@ -1,0 +1,172 @@
+## active ##
+## NOTE: page is at https://www-dev.allizom.org/firefox/dnt/
+
+
+;Mozilla Firefox offers a Do Not Track feature that lets you express a preference not to be tracked by websites.
+Mozilla Firefox предлагает функцию Отказа от Отслеживания, которая позволяет выразить пожелания против слежки веб-сайтов.
+
+
+;Do Not Track FAQ
+ЧЗВ Отказа от Отслеживания
+
+
+;Your Status:
+Ваш статус:
+
+
+;Do Not Track is ON
+Отказ от Отслеживания включён
+
+
+;Do Not Track is OFF
+Отказ от Отслеживания отключён
+
+
+;Mozilla is a global, nonprofit organization dedicated to making the Web better. We emphasize principle over profit, and believe that the Web is a shared public resource to be cared for, not a commodity to be sold. We answer to no one but you and believe it is crucial to put you in control of your online experience. We are aiming to give you better insight and control into the ways your personal information is collected, used, stored and shared online.
+Mozilla является глобальной некоммерческой организацией, чьей целью является сделать Интернет лучше. Мы ставим принципы выше прибыли и верим в то, что Интернет является общим публичным ресурсом, а не товаром для продажи. Мы не отвечаем ни перед кем, кроме вас, и верим в важность предоставления вам контроля над вашей работой в Интернете. Нашей целью является предоставление вам лучшего понимания и контроля над способами сбора, использования и хранения вашей личной информации, которой вы делитесь в Интернете.
+
+
+;Mozilla Firefox offers a Do Not Track feature that lets you express a preference not to be tracked by websites. When the feature is enabled, Firefox will tell advertising networks and other websites and applications that you want to opt-out of tracking for purposes like behavioral advertising.
+Mozilla Firefox предлагает функцию Отказа от Отслеживания, которая позволяет выразить пожелание, что вы не хотите, чтобы за вами следили веб-сайты. Когда функция включена, Firefox будет сообщать рекламным сетям и веб-сайтам о том, что вы не хотите, чтобы за вами следили с целью предоставления предложений вроде релевантной рекламы.
+
+
+;Frequently Asked <span>Questions</span>
+Часто Задаваемые <span>Вопросы</span>
+
+
+;What is Do Not Track?
+Что такое Отказ от Отслеживания?
+
+
+;Do Not Track is a step toward putting you in control of the way your information is collected and used online. Do Not Track is a feature in Firefox that allows you to let a website know you would like to opt-out of third-party tracking for purposes including behavioral advertising. It does this by transmitting a Do Not Track HTTP header every time your data is requested from the Web.
+Отказ от Отслеживания является шагом в направлении предоставления вам контроля над сбором и использованием вашей информации в интернете. Отказ от Отслеживания - это функция Firefox, которая позволяет сообщить веб-сайту о вашем нежелании отслеживания третьими сторонами, включая анализ поведения с целью предоставления рекламы. Это делается путем передачи HTTP заголовка Отказа от Ослеживания каждый раз при запросе информации из Интернета.
+
+
+;Is Do Not Track available on Firefox for Android?
+Есть ли Отказ от Отслеживания в Firefox для Android?
+
+
+;Yes. Firefox for Android is the first mobile Web browser to offer the Do Not Track privacy feature, and behaves the same way it does on the desktop. To turn Do Not Track on in Firefox for Android, simply swipe left and tap on Browser Tools. From the Preferences pane, tap on the box next to &quot;Tell sites not to track me&quot; to turn this option on or off.
+Да. Firefox для Android — первым мобильный браузер, поддерживающий функцию Отказа от Отслеживания и делает это таким же образом, как и настольный. Чтобы включить Отказ от Отслеживания в Firefox для Android, просто перейдите в меню Параметры, Приватность. Установите или снимите флажок &quot;Не отслеживать&quot; для включения или выключения этой функции.
+
+
+;Does Do Not Track block ads?
+Блокирует ли рекламу Отказ от Отслеживания?
+
+
+;No, you will still see ads with Do Not Track enabled. However, Do Not Track may change the type of ads you see. For example, behavioral ads are targeted to your interests based on the websites you visit and the search terms you use. If you request that websites Do Not Track you, and the sites respect your privacy preferences, you will see more generic ads in place of behavioral ads.
+Нет, с Отказом от Отслеживания вы будете видеть рекламу. Однако, Отказ от Отслеживания может изменить тип рекламы, которую вы видите. Например, реклама на основе поведения нацелена на ваши интересы на основе посещенных сайтов и поисковых запросов. Если вы попросите веб-сайты не следить за вами, а они учтут ваши пожелания приватности, то вместо рекламы на основе поведения вы увидите общую рекламу.
+
+
+;How does Do Not Track work with other privacy tools?
+Как Отказ от Отслеживания работает с другими инструментами для обеспечения приватности?
+
+
+;Do Not Track is one of many privacy solutions. Do Not Track does not replace your anti-virus software, will not encrypt data, and is not a security mechanism. There are several other <a href="%(url)s">privacy and security</a> features within Firefox.
+Отказ от Отслеживания является одним из многих решений по защите приватности. Отказ от Отслеживания не заменяет вашу антивирусную программу, не шифрует данные и не является механизмом безопасности. Вот несколько дополнительных функций <a href="%(url)s">приватности и безопасности</a>, встроенных в Firefox.
+
+
+;Will Do Not Track affect the rest of my Web experience?
+Влияет Отказ от Отслеживания на мою другую работу в Интернете?
+
+
+;Do Not Track may interfere with some personalized services you enjoy. For example, a Do Not Track request might mean you would have to type in your zip code each time you want to view a weather report, rather than seeing the weather automatically displayed. Personalization on websites can save you time and repetitive typing, but it requires data.
+Отказ от Отслеживания может препятствовать работе некоторых служб, основанных на персонализации. Например, запрос об Отказе от Отслеживания может означать, что вам придется каждый раз для просмотра прогноза погоды вводить свой почтовый индекс, вместо того, чтобы смотреть погоду, предоставленную автоматически. Персонализация веб-сайтов может сэкономить ваше время, например, при вводе повторяющихся данных, но для этого нужны ваши данные.
+
+
+;How do I enable Do Not Track in Firefox?
+Как я могу включить Отказ от Отслеживания в Firefox?
+
+
+;This feature is not enabled by default. You can find the Do Not Track request on the Privacy pane. <span id="%(id)s">On Windows, go to Tools &gt; Options&hellip; &gt; Privacy.</span>
+По умолчанию данная функция не включена. Вы можете найти ее на вкладке Приватность. <span id="%(id)s">В Windows выберите Инструменты &gt; Настройки &gt; Приватность.</span>
+
+
+;On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
+На Mac OS X, перейдите Firefox &gt; Настройки... &gt; Приватность. На Linux, перейдите в Правка &gt; Настройки &gt; Приватность.
+
+
+;Click to check the box next to &quot;Tell websites I do not want to be tracked&quot;. For more information, see the help file on <a href="%(url)s">how to stop websites from tracking you</a>.
+Установите флажок &quot;Просить сайты меня не отслеживать&quot;. Для подробной информации, пожалуйста, смотрите файл справки о том, <a href="%(url)s">как прекратить отслеживание сайтами</a>.
+
+
+;Will companies honor my Do Not Track preference?
+Будут компании уважать мое пожелание Отказа от Отслеживания?
+
+
+;Companies are starting to support Do Not Track, but you may not notice any changes initially. We are actively working with companies that have started to implement Do Not Track, with others who have committed to doing so soon.
+Компании начинают поддерживать Отказ от Отслеживания, но вы можете не заметить никаких изменений сразу. Мы активно сотрудничаем с компаниями, которые начали внедрять отказ от слежки, а также с другими, кто собирается сделать это в ближайшее время.
+
+
+;Where can I learn more?
+Где я могу узнать больше?
+
+
+;Other interesting work about Do Not Track and online privacy:
+Другие интересные работы об Отказе от Отслеживания и приватности в Интернете:
+
+
+;<a href="%s">Private browsing</a> in Firefox &#8212; limits saving data about which sites and pages you have visited online
+<a href="%s">Приватный просмотр</a> в Firefox &#8212; ограничивает хранение данных о посещенных вами в Интернете сайтах и страницах
+
+
+;<a href="%(url1)s">Managing cookies</a> in Firefox &#8212; lets you control how <a href="%(url2)s">cookies</a> are saved on your computer
+<a href="%(url1)s">Управление куками</a> в Firefox &#8212; позвляет вам контролировать, как <a href="%(url2)s">куки</a> сохраняются на вашем компьютере
+
+
+;<a href="%s">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from Mozilla’s Technology and Privacy Officer
+<a href="%s">Блог Alex Fowler из Mozilla</a> &#8212; последние новости от уполномоченного по приватности и технологиям Mozilla
+
+
+;<a href="%s">donottrack.us</a> project &#8212; Stanford researchers working on the ideas behind Do Not Track
+Проект <a href="%s">donottrack.us</a> &#8212; Исследователи Стэнфорда работают над идеями, которые стоят за Отказом от Отслеживания
+
+
+;The Tracking Preference Expression (DNT) <a href="%s">W3C Editor’s Draft</a>
+The Tracking Preference Expression (DNT) <a href="%s">Редакторский черновик W3C</a>
+
+
+;Tracking Compliance and Scope <a href="%s">W3C Editor’s Draft</a>
+Tracking Compliance and Scope <a href="%s">Редакторский черновик W3C</a>
+
+
+;The W3C <a href="%s">Tracking Protection Working Group</a>
+<a href="%s">Рабочая группа по Защите от Отслеживания</a> W3C
+
+
+;<a href="%s">Ghostery</a> &#8212; a tool that lets you learn which sites are tracking you online
+<a href="%s">Ghostery</a> &#8212; инструмент, позволяющий вам узнать, какие сайты в Интернете за вами следят
+
+
+;See <a href="%s">where your data goes</a> before you click &#8212; an image from the Future of Privacy Forum
+Посмотрите <a href="%s">куда идут ваши данные</a> перед тем, как вы щёлкаете по &#8212; изображению с форума Future of Privacy
+
+
+;Mozilla and Stanford’s Do Not Track <a href="%(url)s">submission to the IETF</a> &#8212; IETF is a standards body that helps define how the Web works, regardless of which Internet browser you use
+Отказ от Отслеживания <a href="%(url)s">представленный в IETF</a> Mozilla и Стэнфордом &#8212; IETF является органом стандартизации, помогающим определить, как работает Интернет, независимо от того, какой Интернет-браузер вы используете
+
+
+;Enable Do Not Track in Firefox
+Включить Отказ от Отслеживания в Firefox
+
+
+;Options window - Advanced panel - Do Not Track
+Окно Настройки - панель Дополнительные - Отказ от Отслеживания
+
+
+;Enabling Do Not Track
+Включение Отказа от Отслеживания
+
+
+;Click for Instructions
+Щёлкните для получения инструкций
+
+
+;Enable Do Not Track in Internet Explorer 9
+Включить Отказ от Отслеживания в Internet Explorer 9
+
+
+;To enable Do Not Track in IE 9, you need to enable IE 9’s <a href="%(url)s">Tracking Protection</a> feature. The easiest way to do that is to install <a href="%(tpl)s">Mozilla’s Simple Tracking Protection List</a>. If you view this page in IE 9, there will be instructions right here.
+Чтобы включить Отказ от Отслеживания в IE9, вам нужно включить в IE9 <a href="%(url)s">Защиту от слежения</a>. Наиболее простой способ это сделать - установить <a href="%(tpl)s">Простой список защиты от слежения от Mozilla</a>. Если вы просматриваете эту страницу в IE9, инструкция должна быть прямо здесь.
+
+

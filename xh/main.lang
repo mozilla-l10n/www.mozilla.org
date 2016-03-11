@@ -579,6 +579,11 @@ Amaqonga
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+;Patents
+Iipatent
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
 Ubunkokheli
 
@@ -761,12 +766,16 @@ Umbhalo
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+I-HTML
 
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
 Hayibo! Qiniseka ukufaka idilesi ye-imeyili esebenzayo.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Ndilungile kwiMozilla ukuba isingathe inkcazelo njengoko kuchaziwe <a href="%s">kule Mgaqo-nkqubo Wabucala</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
@@ -780,7 +789,7 @@ Fumana iindaba zeFirefox
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-I-IMEYILI YAKHO APHA
+I-IMEYILI YAKHO ILAPHA
 
 
 # Subscription Button

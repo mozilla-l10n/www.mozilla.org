@@ -579,6 +579,11 @@ Ogg थियोरा प्रारूप
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+;Patents
+पेटेंट
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
 नेतृत्व
 
@@ -761,12 +766,16 @@ Firefox iOS के लिए जल्द ही आ रहा है! <a href="
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
 वूप्स! एक मान्य ईमेल पता दर्ज करना सुनिश्चित करें.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
@@ -780,7 +789,7 @@ Mozilla से में ख़ुश हु जेसे इसने मेरी
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-आपका ईमेल यहाँ
+यहाँ आपका ईमेल
 
 
 # Subscription Button
@@ -805,7 +814,7 @@ Mozilla से में ख़ुश हु जेसे इसने मेरी
 
 
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-आप एक ई-मेल पाएंगे mozilla@e.mozilla.org से आपका सब्सक्रिप्शन पक्का करने के लिये. अगर आप इसे ना देखे, फ़र्जी फ़िल्टर जाँचें. आपको सब्सक्रिप्शन अवस्य पक्का करना चाहिये न्युजलेटर प्राप्त करने के लिये.
+आप एक ई-मेल पाएंगे mozilla@e.mozilla.org से आपका सब्सक्रिप्शन पक्का करने के लिये. अगर आप इसे ना देखे, फ़र्जी फ़िल्टर जाँचें. आपको सब्सक्रिप्शन अवस्य पक्का करना चाहिये न्युजलेटर प्राप्त करने के लिये |
 
 
 ;Read all about it in our <span>newsletter</span>

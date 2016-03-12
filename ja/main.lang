@@ -5,7 +5,7 @@
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
-Desktop 版
+デスクトップ版
 
 
 # Firefox family navigation menu. Main level item.
@@ -56,7 +56,7 @@ OS {ok}
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
-概要
+組織概要
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -102,7 +102,7 @@ Developer Edition {ok}
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 ;Need help?
-ヘルプが必要ですか？
+サポートが必要ですか？
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -160,7 +160,7 @@ Labs {ok}
 
 
 ;skip to Navigation
-ナビゲーションへ
+ナビゲーションへスキップ
 
 
 ;switch language
@@ -201,7 +201,7 @@ Mozilla に参加しよう
 
 
 ;Legal
-リーガルドキュメント
+法的文書
 
 
 # Used as link in the footer
@@ -227,7 +227,7 @@ Firefox Affiliates {ok}
 
 
 ;Other Systems and Languages
-他のシステムと他の言語
+他のシステムと言語
 
 
 ;Close
@@ -276,7 +276,7 @@ FAQ {ok}
 
 
 ;Videos
-ビデオ
+動画
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
@@ -297,7 +297,7 @@ FAQ {ok}
 
 
 ;Customize with Add-ons
-アドオンを用いてカスタマイズしよう
+アドオンでカスタマイズ
 
 
 ;Learn More
@@ -315,7 +315,7 @@ FAQ {ok}
 
 
 ;Watch the video
-ビデオを見る
+動画を見る
 
 
 ;Replay the video
@@ -347,11 +347,11 @@ Firefox の新しいルック・アンド・フィールを確認してくださ
 
 
 ;View Full Site
-すべてのサイトを見る
+デスクトップ向けサイトを表示
 
 
 ;Download for <span>Android</span>
-<span>Android</span> 版をダウンロードする
+<span>Android</span> 版をダウンロード
 
 
 ;Desktop
@@ -367,7 +367,7 @@ Android 版 Firefox
 
 
 ;Email
-Eメール
+メール
 
 
 ;Super speed
@@ -375,11 +375,11 @@ Eメール
 
 
 ;Stunning graphics
-美麗
+非常に美しいグラフィックス
 
 
 ;The latest technologies
-最新のテクノロジ
+最新技術
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
@@ -387,20 +387,20 @@ Eメール
 
 
 ;Upgrade now
-今すぐアップグレードしよう
+今すぐアップグレード
 
 
 ;Update now
-今すぐアップデートしよう
+今すぐ更新
 
 
 ;Supported Devices
-動作する機器
+対応端末
 
 
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 ;What’s New
-リリースノート
+最新情報
 
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
@@ -415,12 +415,12 @@ Eメール
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-このサイトに貢献する
+このサイトに貢献
 
 
 # Footer string
 ;Contribute to this page
-このページに貢献する
+このページに貢献
 
 
 # Top menu item
@@ -445,7 +445,7 @@ Sync {ok}
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-デスクトップ用アドオン
+デスクトップ向けアドオン
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -470,17 +470,17 @@ Android 版のサポート
 
 # Top menu item on firefox/update page
 ;Performance
-性能
+パフォーマンス
 
 
 # Top menu item on firefox/update page
 ;Technology
-テクノロジ
+テクノロジー
 
 
 # Top menu item on firefox/update page
 ;Privacy &amp; Security
-プラバシーとセキュリティ
+プライバシーとセキュリティ
 
 
 # Top menu item on firefox/update page
@@ -500,12 +500,12 @@ Firefox {ok}
 
 # Top menu item on firefox/update page
 ;Mobile Add-ons
-モバイル用アドオン
+モバイル向けアドオン
 
 
 # Top menu item on firefox/update page
 ;Mobile Support
-モバイル用サポート
+モバイル向けサポート
 
 
 # Top menu item on firefox/update page
@@ -530,12 +530,12 @@ Mozilla に参加する
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
-参加しよう
+ボランティア
 
 
 # Top menu item on firefox/update page
 ;Brand Toolkit
-スタイルガイド
+ブランドツールキット
 
 
 # Top menu item on firefox/update page
@@ -545,12 +545,12 @@ Mozilla に参加する
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-Mozilla の最新情報
+Mozilla の最新情報を手に入れよう
 
 
 # share button for social networks
 ;Share
-シェア
+共有
 
 
 # footer link
@@ -636,7 +636,7 @@ Mozilla は多くのコミュニティメンバーによって支えられてい
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-このページを正しく表示するために JavaScript を有効にしてください。
+このページを正しく表示するには JavaScript を有効にしてください。
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -784,7 +784,7 @@ Mozilla が <a href="%s">このプライバシー通知</a> に従って私の�
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Firefox ニュースレターを購読する
+Firefox ニュースレターを購読
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
@@ -794,7 +794,7 @@ Firefox ニュースレターを購読する
 
 # Subscription Button
 ;Sign me up
-登録する
+購読申し込み
 
 
 ;Select country
@@ -802,26 +802,26 @@ Firefox ニュースレターを購読する
 
 
 ;Available Languages
-選択できる言語
+提供言語
 
 
 ;We will only send you Mozilla-related information.
-Mozilla に関連する情報をお送りします。
+Mozilla に関連する情報のみお届けします。
 
 
 ;Thanks! Please check your inbox to confirm your subscription.
-Thanks! Please check your inbox to confirm your subscription. {ok}
+ありがとうございます！ メールをチェックして、購読の開始を確認してください。
 
 
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter. {ok}
+購読開始を確認するため mozilla@e.mozilla.org からメールをお送りしました。もし見当たらない場合は迷惑メールとして分類されていないか確かめてください。ニュースレターを受け取るには購読開始を確認する必要があります。
 
 
 ;Read all about it in our <span>newsletter</span>
-Read all about it in our <span>newsletter</span> {ok}
+詳細は私たちの <span>ニュースレター</span> で
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch! {ok}
+月刊ニュースレターを購読して、お使いの Firefox ブラウザを最大限活用するためのヒントなど、Mozilla の最新情報を受け取りましょう。ニュースレターは私たちが皆さんと連絡を取り合うために最適な方法と考えています。
 
 

@@ -197,7 +197,7 @@ Outros idiomas:
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%d-%m-%Y
+%d/%m/%Y
 
 
 ;Legal
@@ -771,11 +771,11 @@ HTML {ok}
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
-Ups! Verifique se inseriu um endereço de e-mail válido.
+Ups! Verifique se inseriu um endereço de email válido.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Concordo que a Mozilla faça a gestão da minha informação tal como o explicado nesta <a href="%s">nota de privacidade</a>
+Eu concordo que a Mozilla utilize a minha informação, conforme explicado <a href="%s">nesta nota de privacidade</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
@@ -784,7 +784,7 @@ Eu concordo que a Mozilla utilize a minha informação, conforme explicado <a hr
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Mantenha-se a par com<br> tudo Firefox.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -794,7 +794,7 @@ Notícias do Firefox
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-O SEU E-MAIL AQUI
+O SEU EMAIL AQUI
 
 
 # Subscription Button

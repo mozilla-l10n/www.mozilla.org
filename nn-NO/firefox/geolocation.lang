@@ -24,15 +24,15 @@ Kva er stadavhengig nettlesing?
 
 
 ;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
-Nettsider som bruker stadsvhengig nettlesing spør deg om kor du er, for å kunne gi deg meir relevant informasjon, eller for å spare deg bryet med å søke. Til dømes, dersom du leitar etter en pizzarestaurant i området ditt. Ein nettstad vil kunne spørre deg om å dele informasjon om kor du er, slik at dersom du berre søker etter «pizza» så får du opp resultatet du leitar etter... ingen annen informasjon eller skriving er nødvendig.
+Nettsider som brukar stadavhengig nettlesing spør deg om kor du er, for å kunne gi deg meir relevant informasjon, eller for å spara deg bryet med å søka. Til dømes, dersom du leitar etter ein pizzarestaurant i området ditt. Ein nettstad vil kunne spørja deg om å dela informasjon om kor du er, slik at dersom du berre søkjer etter «pizza» så får du opp resultatet du leitar etter... ingen annen informasjon eller skriving er nødvendig.
 
 
 ;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
-Eller dersom du planlegger ei reiserute, så vil nettstaden automatisk vite kor du startar frå. Alt du trenger å oppgi er kor du ynskjer å reise til.
+Eller dersom du planlegg ei reiserute, så vil nettstaden automatisk vita kor du startar frå. Alt du treng er å spesifisera er kor du ynskjer å reisa til.
 
 
 ;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
-Denne tjenesten er heilt valfri &ndash; Firefox deler ikkje informasjon om kor du er utan at du gir tillating til det &ndash; og dette gjerast med den høgaste respekt for ditt personvern. Og, som med alle delane av Firefox, er denne funksjonen bygd på åpne standarder for å den enkel å ta i bruk for nettstadsutviklarar.
+Denne tenesta er heilt valfri &ndash; Firefox deler ikkje informasjon om kor du er utan at du gjev løyve til det &ndash; og dette vert gjort med aller største respekt for personvernet ditt. Og, som med alle delane av Firefox, er denne funksjonen bygd på opne standardar for at han enkelt kan brukast av nettstadsutviklarar.
 
 
 ;How does it work?
@@ -40,15 +40,15 @@ Koreis verkar det?
 
 
 ;When you visit a location-aware website, Firefox will ask you if you want to share your location.
-Når du besøker et stadsavhengig nettstad vil Firefox spørre deg om du ønsker å dele informasjon om kor du oppheld deg.
+Når du besøkjer ein stadavhengig nettstad vil Firefox spørja deg om du ynsker å dela informasjon om kvar du ovil dela plasseringa di.
 
 
 ;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
-Dersom du godtar dette, henter Firefox inn informasjon om trådlause tilgangspunkter i nærleiken og datamaskinen sin IP-adresse. Firefox sender denne informasjonen til en geolocation-tjenestetilbyarar (Google Location Services) for å finne eit estimat på kor du er. Denne informasjonen delast deretter med nettstaden som forespurte den.
+Dersom du godtek dette, hentar Firefox inn informasjon om trådlause tilgangspunkter i nærleiken og IP-adressa til datamaskina. Firefox sender denne informasjonen til ein geolocation-tenestetilbydar (Google Location Services) for å finna eit estimat på kvar du er. Denne informasjonen vert deretter delt med nettstaden som spurde etter han.
 
 
 ;If you say that you do not consent, Firefox will not do anything.
-Dersom du ikkje godtek forespørselen fra nettstaden vil ikkje Firefox gjøre noko.
+Dersom du ikkje godtek førespurnaden frå nettstaden vil ikkje Firefox gjera noko.
 
 
 ;How accurate are the locations?
@@ -96,15 +96,15 @@ Informasjonen overførast over en kryptert tilkobling for å beskytte personvern
 
 
 ;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
-Verken Mozilla eller Google vil nokonsinne bruke informasjonen som Google Location Services samler opp til å spionere på deg.
+Korkje Mozilla eller Google vil nokon gong bruka informasjonen som Google Location Services samlar opp til å identifisdera eller spionera på deg.
 
 
 ;For information about what the requesting website does with your location information, please refer to that website’s privacy policy.
-For informasjon om hva nettstader som forespør stadsinformasjon gjer med den, les nettstadenes egne personvernerklæringer.
+For informasjon om kva nettstadar som spør etter stadinformasjon gjer med han, les nettstadane sine eigne personvernpraksis.
 
 
 ;For more information about your privacy, you should also read:
-For meir informasjon om personvernet ditt, les også:
+For meir informasjon om personvernet ditt, les òg:
 
 
 ;Mozilla Firefox Privacy Notice
@@ -128,11 +128,11 @@ Korleis trekkjer eg tilbake løyve eg har gjeve til ein nettstad?
 
 
 ;If you've given Firefox permission to always give your location to a site and later change your mind, you can easily revoke that permission. Here's how:
-Dersom du har gitt Firefox tillatelse til å alltid oppgi stadsinformasjon til ein nettstad, og senere endrar du meining, kan du enkelt oppheve den tilgangen. Her er korleis:
+Dersom du har gjeve Firefox løyve til å alltid spesifisera stadinformasjon til ein nettstad, og du  seinare endrar meining, kan du enkelt oppheva den tilgangen. Her viser vi deg korleis:
 
 
 ;Navigate to the site to which you’ve given permission
-Gå til nettstaden som du har gitt tilgangen til
+Gå til nettstaden som du har gjeve tilgang til
 
 
 ;Go to the <em>Tools</em> menu, then select <em>Page Info</em>
@@ -172,7 +172,7 @@ Korleis slår eg permanent av stadavhengig nettlesing?
 
 
 ;Location-Aware Browsing is always opt-in in Firefox. No location information is ever sent without your permission. If you wish to disable the feature completely, please follow this set of steps:
-stadsavhengig nettlesing er alltid ein funksjon du må slå på sjølv i Firefox. Ingen stadsinformasjon sendast uten at du gir tillatelse til det. Dersom du ynskjer å slå av funksjonen fullstendig kan du gjere følgande:
+Stadavhengig nettlesing er alltid ein funksjon du må slå på sjølv i Firefox. Ingen stadinformasjon vert sendt utan at du gjev løyve til det. Dersom du ynskjer å slå av funksjonen fullstendig kan du gjera følgande:
 
 
 ;In the URL bar, type <code>about:config</code>

@@ -2,8 +2,6 @@
 # State of Mozilla 2011 annual report, main page
 # test server: https://www-dev.allizom.org/foundation/annualreport/2011/
 # tracking bug for L10N https://bugzilla.mozilla.org/show_bug.cgi?id=788871
-
-
 ;Firefox for Android
 Android 版 Firefox
 
@@ -143,8 +141,6 @@ Mozilla はこれからも、Web の標準技術に貢献していきます。
 
 ;Mozilla has always contributed to Web standards, going back as far as the start of the project, and we will continue to do that moving forward. We <a href="%(cofound_url)s" rel="external">co-founded</a> the <a href="%(whatwg_url)s" rel="external">WHAT-WG</a> to kick off <a href="%(html5_url)s" rel="external">HTML5</a>. We are a leader in <a href="%(javascript_url)s" rel="external">JavaScript standardization</a>. We have some of the top <a href="%(dbaron_url)s" rel="external">CSS</a> and <a href="%(ocallahan_url)s" rel="external">layout</a> experts in the world.
 Mozilla has always contributed to Web standards, going back as far as the start of the project, and we will continue to do that moving forward. We <a href="{{ cofound_url }}" rel="external" hreflang="en-US">co-founded</a> the <a href="{{ whatwg_url }}" rel="external" hreflang="en-US">WHAT-WG</a> to kick off <a href="{{ html5_url }}" rel="external" hreflang="en-US">HTML5</a>. We are a leader in <a href="{{ javascript_url }}" rel="external" hreflang="en-US">JavaScript standardization</a>. We have some of the top <a href="{{ dbaron_url }}" rel="external" hreflang="en-US">CSS</a> and <a href="{{ ocallahan_url }}" rel="external" hreflang="en-US">layout</a> experts in the world.
-
-Mozilla はプロジェクト創設時からこれまで常に、Web の標準技術に貢献してきました。これからもそうした技術の向上に努めていきます。Mozilla は <a href="%(whatwg_url)s" rel="external">WHAT-WG</a> の <a href="%(cofound_url)s" rel="external">共同創設</a> に関わり、<a href="%(html5_url)s" rel="external">HTML5</a> をまとめました。<a href="%(javascript_url)s" rel="external">JavaScript 標準化</a> のリーダーでもあります。Mozilla には世界でもトップクラスの <a href="%(dbaron_url)s" rel="external">CSS</a> や <a href="%(ocallahan_url)s" rel="external">レイアウトの専門家</a> が参加しています。
 
 
 ;Standards are a multi-vendor effort, but Mozilla is proud of the many technologies we have pioneered and submitted to standards bodies to make them interoperable for the Web as a whole. Some examples of these include geolocation, WebGL, the Gamepad API, Web Telephony and IndexedDB.

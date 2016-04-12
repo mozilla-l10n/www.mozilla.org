@@ -23,6 +23,11 @@ Navegação
 OS {ok}
 
 
+# Used for the navigation menu only in Firefox OS pages
+;TV
+TV {ok}
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -97,7 +102,7 @@ Developer Edition {ok}
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Navegação privada
+Navegação privativa
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -410,7 +415,7 @@ Privacidade
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Trechos deste conteúdo possuem direitos reservados (©1998–%(current_year)s) por colaboradores da mozilla.org. Conteúdo disponível sob licença <a href="%(url)s">Creative Commons</a>.
+Trechos deste conteúdo possuem direitos reservados (©1998–%(current_year)s) por colaboradores da mozilla.org. Conteúdo disponível sob a licença <a href="%(url)s">Creative Commons</a>.
 
 
 # Footer string (will replace "Contribute to this page")
@@ -782,6 +787,11 @@ Eu aceito que a Mozilla manuseie minhas informações como explicado <a href="%s
 Concordo que a Mozilla trate essas informações de acordo com sua <a href="%s">Política de Privacidade</a>.
 
 
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+;Keep up with<br> all things Firefox.
+Fique por dentro<br> de tudo do Firefox.
+
+
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
 Receba novidades do Firefox
@@ -792,7 +802,12 @@ Receba novidades do Firefox
 DIGITE SEU E-MAIL
 
 
-# Subscription Button
+# Newsletter subscription Button
+;Sign Up Now
+Inscreva-se Agora
+
+
+# Old newsletter subscription Button
 ;Sign me up
 Me cadastre!
 

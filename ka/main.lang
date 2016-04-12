@@ -23,6 +23,11 @@ iOS
 ოს
 
 
+# Used for the navigation menu only in Firefox OS pages
+;TV
+TV {ok}
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -445,7 +450,7 @@ Firefox მობილურისთვის
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-მოდულები კომპიუტერისთვის
+დამატებები კომპიუტერისთვის
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -500,7 +505,7 @@ Firefox ორგანიზაციებისთვის
 
 # Top menu item on firefox/update page
 ;Mobile Add-ons
-მოდულები მობილურისთვის
+დამატებები მობილურისთვის
 
 
 # Top menu item on firefox/update page
@@ -580,7 +585,7 @@ Firefox Facebook-ზე
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+პატენტები
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -775,11 +780,16 @@ HTML {ok}
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+ვეთანხმები, რომ Mozilla ჩემ ინფორმაციას ისე გამოიყენებს, როგორც ახსნილია <a href="%s">ამ კონფიდენციალურობის უწყებაში</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 ვეთანხმები, რომ Mozilla ჩემ ინფორმაციას ისე გამოიყენებს, როგორც ახსნილია <a href="%s">ამ კონფიდენციალურობის პოლიტიკაში</a>
+
+
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+;Keep up with<br> all things Firefox.
+არ ჩამორჩეთ არაფერს,<br> რაც Firefox-ს უკავშირდება.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -792,7 +802,12 @@ Firefox სიახლეთა გამოწერა
 თქვენი ელფოსტა
 
 
-# Subscription Button
+# Newsletter subscription Button
+;Sign Up Now
+გამოწერა
+
+
+# Old newsletter subscription Button
 ;Sign me up
 გამოწერა
 

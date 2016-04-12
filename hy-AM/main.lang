@@ -23,6 +23,11 @@
 OS {ok}
 
 
+# Used for the navigation menu only in Firefox OS pages
+;TV
+TV {ok}
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -782,6 +787,11 @@ HTML {ok}
 Ես համաձայն եմ կիսվել այս տեղեկատվությամբ Mozilla-ի հետ՝ համաձայն <a href="%s">Գաղտնիության Քաղաքականության</a>
 
 
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+;Keep up with<br> all things Firefox.
+Տեղյակ եղեք<br> Firefox-ի բոլոր նորությունների մասին:
+
+
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
 Ստացեք Firefox-ի նորությունները
@@ -792,7 +802,12 @@ HTML {ok}
 ՁԵՐ ԷԼ. ՀԱՍՑԵՆ
 
 
-# Subscription Button
+# Newsletter subscription Button
+;Sign Up Now
+Բաժանորդագրվել
+
+
+# Old newsletter subscription Button
 ;Sign me up
 Բաժանորդագրվել
 

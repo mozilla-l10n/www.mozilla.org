@@ -23,6 +23,11 @@ Flakka
 Stýrikerfi
 
 
+# Used for the navigation menu only in Firefox OS pages
+;TV
+Sjónvarp
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -775,11 +780,16 @@ HTML {ok}
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Ég er sáttur við að Mozilla meðhöndli mínar upplýsingar eins og útskýrt er <a href="%s">þessum skilmálum</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Ég er sáttur við hvernig Mozilla meðhöndlar mín gögn eins og útskýrt er <a href="%s">hérna í meðferð persónuupplýsinga</a>
+Ég er sáttur við hvernig Mozilla meðhöndlar mínar upplýsingar eins og útskýrt er <a href="%s">hérna í meðferð persónuupplýsinga</a>
+
+
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+;Keep up with<br> all things Firefox.
+Vertu vakandi fyrir<br> öllu sem tengist Firefox.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -792,7 +802,12 @@ Gerast áskrifandi að Firefox fréttum
 ÞITT TÖLVUPÓSTFANG
 
 
-# Subscription Button
+# Newsletter subscription Button
+;Sign Up Now
+Skráðu þig núna
+
+
+# Old newsletter subscription Button
 ;Sign me up
 Skráðu mig
 
@@ -822,6 +837,6 @@ Lestu allt um þetta í <span>fréttablaðinu</span> okkar
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Gerstu áskrifandi að mánaðarlegum uppfærslum og lestu nýjustu fréttir frá Mozilla, t.d nýjar ábendingar sem hjálpa þér að fá það besta út úr Firefox vafranum. Þetta er besta leiðin til að fylgjast með!
+Vertu áskrifandi að mánaðarlegum uppfærslum og lestu nýjustu fréttir frá Mozilla, t.d nýjar ábendingar sem hjálpa þér að fá það besta út úr Firefox vafranum. Þetta er besta leiðin til að fylgjast með!
 
 

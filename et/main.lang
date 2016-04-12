@@ -23,6 +23,11 @@ iOS-ile
 OS {ok}
 
 
+# Used for the navigation menu only in Firefox OS pages
+;TV
+TV {ok}
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -782,6 +787,11 @@ Luban Mozillal minu andmeid töödelda <a href="%s">privaatsusteates</a> kirjeld
 Luban Mozillal minu andmeid töödelda <a href="%s">privaatsuspoliitikas</a> kirjeldatud viisil
 
 
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+;Keep up with<br> all things Firefox.
+Ole Firefoxi<br> uudistega kursis.
+
+
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
 Telli Firefoxi uudised
@@ -792,7 +802,12 @@ Telli Firefoxi uudised
 SINU E-POSTI AADRESS
 
 
-# Subscription Button
+# Newsletter subscription Button
+;Sign Up Now
+Telli kohe
+
+
+# Old newsletter subscription Button
 ;Sign me up
 Tellin
 

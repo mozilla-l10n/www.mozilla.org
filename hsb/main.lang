@@ -23,6 +23,11 @@ Nawigacija
 OS {ok}
 
 
+# Used for the navigation menu only in Firefox OS pages
+;TV
+Telewizija
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -782,6 +787,11 @@ Sym z tym přezjedny, kak Mozilla po <a href="%s">tutych prawidłach priwatnosć
 Sym z tym přezjedny, kak Mozilla po <a href="%s">tutych prawidłach priwatnosće</a> z mojimi informacijemi wobchadźa
 
 
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+;Keep up with<br> all things Firefox.
+Wostańće wo<br> wšěch wěcach Firefox na běžnym.
+
+
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
 Wobstarajće sej nowinki Firefox
@@ -792,7 +802,12 @@ Wobstarajće sej nowinki Firefox
 WAŠA E-MEJLOWA ADRESA
 
 
-# Subscription Button
+# Newsletter subscription Button
+;Sign Up Now
+Registrujće so nětko
+
+
+# Old newsletter subscription Button
 ;Sign me up
 Registrować
 

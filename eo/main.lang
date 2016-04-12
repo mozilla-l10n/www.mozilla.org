@@ -23,6 +23,11 @@ Navigado
 OS{ok}
 
 
+# Used for the navigation menu only in Firefox OS pages
+;TV
+Televidilo
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -775,11 +780,16 @@ Atentu! Estu certa tajpi validan retpoŝtan adreson.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Mi akceptas kiel Mozilla traktas mian informon, laŭ la priskribo de <a href="%s">tiu ĉi noto pri privateco</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 Mi akceptas kiel Mozilla traktas mian informon, laŭ la priskribo de <a href="%s">tiu ĉi politiko pri privateco</a>
+
+
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+;Keep up with<br> all things Firefox.
+Ĉiam la lastaj novaĵoj<br> pri Firefox.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -792,7 +802,12 @@ Ricevi novaĵojn de Firefox
 VIA RETPOŜTO ĈI TIE
 
 
-# Subscription Button
+# Newsletter subscription Button
+;Sign Up Now
+Aboni nun
+
+
+# Old newsletter subscription Button
 ;Sign me up
 Aboni min
 

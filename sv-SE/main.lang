@@ -23,6 +23,11 @@ Navigering
 OS {ok}
 
 
+# Used for the navigation menu only in Firefox OS pages
+;TV
+TV {ok}
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -782,6 +787,11 @@ Jag godkänner att Mozilla hanterar min information på det sätt som beskrivs o
 Jag godkänner att Mozilla hanterar min information på det sätt som beskrivs och förklaras i denna <a href="%s">sekretesspolicy</a>
 
 
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+;Keep up with<br> all things Firefox.
+Håll dig uppdaterad med <br> allt Firefox.
+
+
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
 Få nyheter om Firefox
@@ -792,9 +802,14 @@ Få nyheter om Firefox
 Skriv din e-postadress här
 
 
-# Subscription Button
+# Newsletter subscription Button
+;Sign Up Now
+Registrera dig nu
+
+
+# Old newsletter subscription Button
 ;Sign me up
-Prenumerera
+Registrera mig
 
 
 ;Select country

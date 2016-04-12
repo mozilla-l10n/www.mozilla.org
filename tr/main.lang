@@ -23,6 +23,11 @@ iOS <span>için</span> Firefox
 OS {ok}
 
 
+# Used for the navigation menu only in Firefox OS pages
+;TV
+TV {ok}
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -782,6 +787,11 @@ Mozilla’nın bilgilerimi <a href="%s">bu Gizlilik Notu’nda</a> açıklandı�
 <a href="%s">Bu gizlilik ilkesinde</a> açıklandığı şekilde, bu bilgileri sizinle paylaşmayı kabul ediyorum
 
 
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+;Keep up with<br> all things Firefox.
+Firefox ile ilgili her<br> şeyden haberiniz olsun.
+
+
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
 Firefox haberlerini alın
@@ -792,7 +802,12 @@ Firefox haberlerini alın
 E-POSTA ADRESİNİZ
 
 
-# Subscription Button
+# Newsletter subscription Button
+;Sign Up Now
+Kaydol
+
+
+# Old newsletter subscription Button
 ;Sign me up
 Kaydol
 

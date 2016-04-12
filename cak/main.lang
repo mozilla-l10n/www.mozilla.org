@@ -23,6 +23,11 @@ Okik'amaya'l
 OS {ok}
 
 
+# Used for the navigation menu only in Firefox OS pages
+;TV
+TV
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -782,6 +787,11 @@ HTML {ok}
 Ütz niwachin chi nuwäch chi ri Mozilla nuk'wab'ej ri nutzijol achi'el niq'alajisäx pa<a href="%s">re ichinan na'oj re'</a>
 
 
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+;Keep up with<br> all things Firefox.
+Keep up with<br> all things Firefox.
+
+
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
 Tak'ulu' taq rutzijol Firefox
@@ -792,7 +802,12 @@ Tak'ulu' taq rutzijol Firefox
 ATAQOYA'L WAWE'
 
 
-# Subscription Button
+# Newsletter subscription Button
+;Sign Up Now
+Sign Up Now
+
+
+# Old newsletter subscription Button
 ;Sign me up
 ¡Titz'ib'äx nub'i'!
 

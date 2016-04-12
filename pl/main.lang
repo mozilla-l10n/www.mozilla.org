@@ -23,6 +23,11 @@ Nawigacja
 system operacyjny
 
 
+# Used for the navigation menu only in Firefox OS pages
+;TV
+TV {ok}
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -107,7 +112,7 @@ Potrzebujesz pomocy?
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-Newsy i ogłoszenia
+Wiadomości i ogłoszenia
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -782,6 +787,11 @@ Pozwalam Mozilli wykorzystywać te informacje w sposób opisany w <a href="%s
 Pozwalam Mozilli wykorzystywać te informacje w sposób opisany w <a href="%s">polityce prywatności</a>
 
 
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+;Keep up with<br> all things Firefox.
+Wszystko<br>o Firefoksie.
+
+
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
 Otrzymuj wiadomości o Firefoksie
@@ -792,7 +802,12 @@ Otrzymuj wiadomości o Firefoksie
 Twój adres e–mail
 
 
-# Subscription Button
+# Newsletter subscription Button
+;Sign Up Now
+Zapisz się
+
+
+# Old newsletter subscription Button
 ;Sign me up
 Zapisz się
 

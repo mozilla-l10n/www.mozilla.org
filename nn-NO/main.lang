@@ -23,6 +23,11 @@ Navigasjon
 OS {ok}
 
 
+# Used for the navigation menu only in Firefox OS pages
+;TV
+TV {ok}
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -136,7 +141,7 @@ Firefox er ideell, friståande og prinsippfast. Å velja Firefox er ikkje berre 
 
 
 ;Donate
-Gje pengar
+Donera
 
 
 ;Support
@@ -620,7 +625,7 @@ Meny
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Forplikta til deg, ditt personvern og ein open verdsvev.
+Forplikta til deg, ditt personvern og eit ope Internett
 
 
 # Common title used in Fx 10 pages
@@ -782,19 +787,29 @@ Eg godkjenner at Mozilla handsamar informasjon om meg som vert skildra og forkla
 Eg godkjenner at Mozilla handsamar informasjon om meg som forklart i <a href="%s">personvernernpraksisen</a>
 
 
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+;Keep up with<br> all things Firefox.
+Hald deg oppdatert med<br> alt om Firefox.
+
+
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Firefox-nyhende
+Få nyhende om Firefox
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-DI E-POSTADRESSE HER
+Skriv e-postadressa di her
 
 
-# Subscription Button
+# Newsletter subscription Button
+;Sign Up Now
+Registrer deg no
+
+
+# Old newsletter subscription Button
 ;Sign me up
-Registrer meg
+Abonner
 
 
 ;Select country

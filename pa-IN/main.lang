@@ -23,6 +23,11 @@
 OS {ok}
 
 
+# Used for the navigation menu only in Firefox OS pages
+;TV
+TV
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -580,7 +585,7 @@ MPEG-4 ਫਾਰਮੈਟ
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+ਪੇਟੈਂਟ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -775,11 +780,16 @@ HTML {ok}
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+ਮੋਜ਼ੀਲਾ ਵਲੋਂ <a href="%s">ਇਸ ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ</a> ਵਿੱਚ ਦਰਸਾਏ ਮੁਤਾਬਕ ਮੇਰੀ ਜਾਣਕਾਰੀ ਨਾਲ ਕੰਮ ਕਰਨ ਦੇਣ ਲਈ ਮੈਂ ਸਹਿਮਤ ਹਾਂ।
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-ਮੈਂ ਮੌਜ਼ੀਲਾ ਵਲੋਂ ਮੇਰੀ ਜਾਣਕਾਰੀ ਨੂੰ <a href="%s">ਇਸ ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਦੇ ਤਹਿਤ ਵਰਤਣ ਦੇਣ ਲਈ ਸਹਿਮਤ ਹਾਂ
+ਮੈਂ ਮੋਜ਼ੀਲਾ ਵਲੋਂ ਮੇਰੀ ਜਾਣਕਾਰੀ ਨੂੰ <a href="%s">ਇਸ ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਦੇ ਤਹਿਤ ਵਰਤਣ ਦੇਣ ਲਈ ਸਹਿਮਤ ਹਾਂ
+
+
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+;Keep up with<br> all things Firefox.
+ਫਾਇਰਫਾਕਸ ਬਾਰੇ ਸਾਰੀ<br> ਜਾਣਕਾਰੀ ਰੱਖੋ।
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -792,7 +802,12 @@ I’m okay with Mozilla handling my info as explained in <a href="%s">this Priva
 ਤੁਹਾਡਾ ਈਮੇਲ ਇੱਥੇ
 
 
-# Subscription Button
+# Newsletter subscription Button
+;Sign Up Now
+Sign Up Now
+
+
+# Old newsletter subscription Button
 ;Sign me up
 ਮੈਨੂੰ ਸਾਈਨ ਕਰੋ
 

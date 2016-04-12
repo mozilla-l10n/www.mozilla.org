@@ -23,6 +23,11 @@ Navigáció
 OS {ok}
 
 
+# Used for the navigation menu only in Firefox OS pages
+;TV
+TV {ok}
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -782,6 +787,11 @@ Elfogadom, hogy a Mozilla az <a href="%s">adatvédelmi nyilatkozatnak</a> megfel
 Elfogadom, hogy a Mozilla az <a href="%s">adatvédelmi irányelveknek</a> megfelelően kezelje az adataimat
 
 
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+;Keep up with<br> all things Firefox.
+Tartson lépést<br>mindennel, ami Firefox.
+
+
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
 Firefox hírek
@@ -792,9 +802,14 @@ Firefox hírek
 SAJÁT E-MAIL CÍM
 
 
-# Subscription Button
+# Newsletter subscription Button
+;Sign Up Now
+Feliratkozás most
+
+
+# Old newsletter subscription Button
 ;Sign me up
-Feliratkozom
+Feliratkozás
 
 
 ;Select country

@@ -23,6 +23,11 @@ iOS용
 운영체제
 
 
+# Used for the navigation menu only in Firefox OS pages
+;TV
+TV
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -782,6 +787,11 @@ HTML {ok}
 Mozilla가 <a href="%s">Privacy Policy</a>에 설명된 대로 나의 정보를 다루는 것에 동의합니다.
 
 
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+;Keep up with<br> all things Firefox.
+Firefox에 대한<br> 소식을 전해드립니다.
+
+
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
 Firefox 뉴스레터
@@ -792,7 +802,12 @@ Firefox 뉴스레터
 이메일 주소 입력
 
 
-# Subscription Button
+# Newsletter subscription Button
+;Sign Up Now
+Sign Up Now
+
+
+# Old newsletter subscription Button
 ;Sign me up
 등록하기
 

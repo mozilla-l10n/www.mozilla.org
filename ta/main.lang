@@ -23,6 +23,11 @@
 இயங்கு தளம்
 
 
+# Used for the navigation menu only in Firefox OS pages
+;TV
+TV
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -782,6 +787,11 @@ I’m okay with Mozilla handling my info as explained in <a href="%s">this Priva
 I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+;Keep up with<br> all things Firefox.
+Keep up with<br> all things Firefox.
+
+
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
 Firefox செய்தியைப் பெறுக
@@ -792,7 +802,12 @@ Firefox செய்தியைப் பெறுக
 இங்கு உங்கள் மின்னஞ்சல் முகவரி
 
 
-# Subscription Button
+# Newsletter subscription Button
+;Sign Up Now
+Sign Up Now
+
+
+# Old newsletter subscription Button
 ;Sign me up
 எனக்கு பதிவு பெறு
 

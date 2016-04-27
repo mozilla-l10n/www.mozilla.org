@@ -12,7 +12,7 @@ Navigare conștientă de locație
 
 
 ;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
-Firefox poate spune site-urilor unde te afli pentru ca acestea să vă ofere informații cât mai relevante și mai utile. E un pas către un web mai inteligent &ndash; și totul cu respect pentru confidențialitatea ta <a href="%(url)s" id="%(id)s" style="%(style)s">Încearcă acum!</a>
+Firefox poate spune site-urilor web unde te aflii pentru ca acestea să îți ofere informații cât mai relevante și mai utile. E un pas către un web mai inteligent &ndash; și totul cu respect pentru confidențialitatea ta. <a href="%(url)s" id="%(id)s" style="%(style)s">Încearcă acum!</a>
 
 
 ;Frequently asked Questions
@@ -56,7 +56,7 @@ Cât de precise sunt informațiile?
 
 
 ;Accuracy varies greatly from location to location. In some places, our service providers may be able to provide a location to within a few meters. However, in other areas it might be much more than that. All locations returned by our service providers are estimates only and we do not guarantee the accuracy of the locations provided. Please do not use this information for emergencies. Always use common sense.
-Acuratețea variază în funcție de locație. În unele locuri, furnizorii noștri de servicii pot furniza datele cu o precizie de câțiva metri. În alte situații, locația poate fi mai puțin precisă. Toate pozițiile returnate de furnizorii de servicii sunt estimări și nu putem garanta acuratețea lor. Nu vă bazați pe aceste informații pentru urgențe.
+Acuratețea variază foarte mult de la o locație la alta. În unele locuri, furnizorii noștri de servicii pot furniza o locație cu o precizie de câțiva metri. Cu toate acestea, în alte zone ar putea fi distanța mult mai mare. Toate locațiile returnate de furnizorii de servicii sunt estimări doar și nu putem garanta acuratețea locațiilor furnizate. Te rugăm să nu te bazezi pe aceste informații pentru urgențe. Folosește-te mereu de simțul realității.
 
 
 ;What information is being sent, and to whom? How is my privacy protected?
@@ -84,11 +84,11 @@ un identificator generat aleator de către Google care expiră în două săptă
 
 
 ;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
-Pentru o descriere completă a informațiilor colectate de Firefox, vă rugăm să vedeți <a href="%(url)s">Politica de confidențialitate a Firefox</a>.
+Pentru o descriere completă a informațiilor colectate de Firefox, te rugăm să vezi <a href="%(url)s">politica de confidențialitate Firefox</a>.
 
 
 ;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
-Pe baza informațiilor trimise, serviciile Google Location întorc geolocația estimată (latitudine și longitudine). Pentru o descriere completă a informațiilor colectate și folosite de Google, vă rugăm să consultați <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a> (în engleză).
+Pe baza informațiilor trimise, serviciile Google Location întorc geolocația estimată (latitudine și longitudine). Pentru o descriere completă a informațiilor colectate și folosite de Google, te rugăm să consulți <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a> (în engleză).
 
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
@@ -136,7 +136,7 @@ Navighează către site-ul căruia i-ai acordat permisiunea
 
 
 ;Go to the <em>Tools</em> menu, then select <em>Page Info</em>
-Mergi în meniul <em>Unelte</em> de unde selectați <em>Informații despre pagină</em>
+Mergi în meniul <em>Unelte</em> de unde selectează <em>Informații despre pagină</em>
 
 
 ;Select the <em>Permissions</em> tab
@@ -152,7 +152,7 @@ Cum scap de identificatorul generat aleator?
 
 
 ;Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>
-Mergi în meniul <em>Unelte</em> de unde selectezi <em>Curăță istoricul recent</em>
+Mergi în meniul <em>Unelte</em> de unde selectezi <em>Șterge istoricul recent</em>
 
 
 ;Click the <em>Details</em> arrow
@@ -164,7 +164,7 @@ Asigură-te că este selectată opțiunea <em>Cookie-uri</em>
 
 
 ;Click on <em>Clear Now</em>
-Clic pe <em>Curăță acum</em>
+Clic pe <em>Șterge acum</em>
 
 
 ;How do I turn off Location-Aware Browsing permanently?
@@ -192,12 +192,12 @@ Navigarea conștientă de locație este acum dezactivată
 
 
 ;How can I add support for Geolocation to my web site?
-Cum pot adăuga suportul pentru geolocație pe site-ul meu?
+Cum pot adăuga suportul pentru geolocație pe site-ul meu web?
 
 
 # Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 ;You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
-Puteți integra suportul pentru geolocație în serviciile dumneavoastră urmând instrucțiunile de la <a href="%(url)s">Mozilla Developer Center</a>.
+Poți integra suportul pentru geolocație în serviciile tale urmând instrucțiunile de la <a href="%(url)s">Mozilla Developer Center</a>.
 
 
 ;Where am I?

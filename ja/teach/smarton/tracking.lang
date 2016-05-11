@@ -37,7 +37,7 @@
 
 
 ;But our digital footprints reveal more about us than where we’ve been — everything from our preferences to our identities.
-しかし、デジタルフットプリントによって解ってしまうのは閲覧したサイトの履歴だけではありません。様々なものに対する嗜好や、自分のアイデンティティまで解ってしまいます。
+しかし、デジタルフットプリントによって分かってしまうのは閲覧したサイトの履歴だけではありません。様々なものに対する嗜好や、自分のアイデンティティまで解ってしまいます。
 
 
 ;Watch the documentary at donottrack-doc.com.
@@ -96,7 +96,7 @@ Web サイトは、一人ひとりのユーザによりあった体験を提供�
 
 
 ;The information they gather through analytics can be used to make navigating their site easier for us or to present us more relevant offers.
-アナリティクスを通じて収集したデータによって、 サイト内のナビゲーションをスムーズにしたり、そのユーザにより合ったコンテンツを表示したりします。
+アクセス解析を通じて収集したデータによって、 サイト内のナビゲーションをスムーズにしたり、そのユーザにより合ったコンテンツを表示したりします。
 
 
 ;They also use cookies — small data files placed in our browsers — to remember language preferences or the contents in a shopping cart.
@@ -186,7 +186,7 @@ Web を越えて
 
 # Link points to https://www.mozilla.org/lightbeam/
 ;If you’re a Firefox user, be sure to check out <a href="{url}">Lightbeam</a>, a simple and insightful add-on that visually graphs the depth of your browsing activity, including parts that are not usually visible to you.
-Firefox ユーザーなら、通常は見えない部分も含めてブラウジングの情報を視覚的にグラフ化してくれる、シンプルで便利なアドオン <a href="{url}">Lightbeam</a> をぜひチェックしてください。
+Firefox ユーザーなら、通常は見えない部分も含めてブラウジングの情報を視覚的にグラフ化してくれる、シンプルで便利なアドオン <a href="{url}">Lightbeam</a> をぜひお試しください。
 
 
 ;Think before you click
@@ -300,11 +300,11 @@ Do Not Track {ok}
 
 
 ;With this feature enabled, your browser will tell social sharing services, publishers, analytics providers, advertisers and third party networks that you want to opt-out of tracking.
-この機能を有効にすると、ブラウザはSNSや各種 Web サイト、アナリティクスプロバイダ、広告主、及びトラッキングをおこなっているサードパーティにトラッキングをされたくないという意思を表示します。
+この機能を有効にすると、ブラウザはSNSや各種 Web サイト、アクセス解析の提供元、広告主、及びトラッキングをおこなっているサードパーティにトラッキングをされたくないという意思を表示します。
 
 
 ;Mozilla was the first company to include a Do Not Track feature when it was added to Firefox in 2011.
-2011 年、 Mozilla は Firefox に、世界で初めての Do Not Track 機能を搭載しました。
+2011 年、 Mozilla は Firefox に、世界で初めての Do Not Track (行動追跡拒否) 機能を搭載しました。
 
 
 ;Since then, it has been adopted by most major browsers, though many companies on the receiving end of the requests are still not honoring them.
@@ -316,7 +316,7 @@ Do Not Track {ok}
 
 
 ;Learn how to enable Do Not Track in <a href="%(firefox)s">Firefox</a>, <a href="%(chrome)s">Chrome</a>, <a href="%(ie)s">Internet Explorer</a>/<a href="%(edge)s">Edge</a> and <a href="%(safari)s">Safari</a>.
-<a href="%(firefox)s">Firefox</a> 、 <a href="%(chrome)s">Chrome</a> 、 <a href="%(ie)s">Internet Explorer</a> 、 <a href="%(edge)s">Edge</a> 、 <a href="%(safari)s">Safari</a> の各ブラウザで Do Not Track を有効にする方法について知る。
+<a href="%(firefox)s">Firefox</a> 、 <a href="%(chrome)s">Chrome</a> 、 <a href="%(ie)s">Internet Explorer</a> 、 <a href="%(edge)s">Edge</a> 、 <a href="%(safari)s">Safari</a> の各ブラウザで Do Not Track を有効にする方法について確認しましょう。
 
 
 ;Private Browsing

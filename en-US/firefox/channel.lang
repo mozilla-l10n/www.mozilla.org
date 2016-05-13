@@ -1,6 +1,7 @@
 ## NOTE: url is https://www-dev.allizom.org/firefox/channel/
 ## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ## URL: https://www-dev.allizom.org/%LOCALE%/firefox/channel/
+## channel_aurora_android ##
 ## channel_dev_edition ##
 ## telemetry_notice ##
 
@@ -42,6 +43,12 @@ Firefox Aurora and Firefox Developer Edition automatically send feedback to Mozi
 
 ;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
 Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+
+
+## TAG: channel_aurora_android
+# Link to SUMO: https://support.mozilla.org/kb/will-firefox-work-my-mobile-device 
+;Will Firefox work on my mobile device?
+Will Firefox work on my mobile device?
 
 
 ## TAG: channel_dev_edition

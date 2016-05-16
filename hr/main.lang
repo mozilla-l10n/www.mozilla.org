@@ -25,7 +25,7 @@ OS {ok}
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+TV {ok}
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -202,7 +202,7 @@ Drugi jezici:
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%d-%m-%Y
+%d. %m. %Y.
 
 
 ;Legal
@@ -585,7 +585,7 @@ Forumi
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+Patenti
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -771,7 +771,7 @@ Tekst
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -780,7 +780,7 @@ Ups! Provjerite jeste li ispravno upisali adresu e-pošte.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Slažem se da Mozilla upravlja ovim informacijama, kao što je objašnjeno u <a href="%s">politici privatnosti</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
@@ -789,7 +789,7 @@ Slažem se s Mozillinim rukovođenjem ovih informacija, kao što je objašnjeno 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Prati<br> sve Firefox vijesti.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -804,7 +804,7 @@ ADRESA VAŠE E-POŠTE
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+Registriraj se
 
 
 # Old newsletter subscription Button

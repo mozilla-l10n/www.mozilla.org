@@ -19,7 +19,7 @@ Hi, 我是 MozTW 社群的 Kevin Hu
 以下提供您關於 Coding 方面的貢獻資訊。
 
 
-Firefox 除錯
+Firefox
 ===============
 
 首先，Firefox 的基礎架構是 C/C++ / JS / XUL，只要了解 JS 或 CSS 就能幫 Firefox 除錯，在 Mozilla 寫軟體有蠻多面向可以選擇，例如你可以學習 Firefox 或 Thunderbird 的程式設計，主要以 C 或 C++ 為主。其實 Firefox Coding 並不難，對於剛起步的應該可以先從跑流程開始。兩個較大的挑戰是 build Firefox 與 hg version control system。
@@ -34,22 +34,28 @@ http://mozlinks-zh.blogspot.com/2012/02/firefox_25.html
 Mozilla 對於新手貢獻程式，有一個「Good First Bug」專案，一步步協助大家嘗試解決 Firefox 的第一個 bug，你可以上 Bugs Ahoy 系統，查詢你的專長面上，有哪些 Firefox 新手 Bug 可以挑戰：http://www.joshmatthews.net/bugsahoy/
 
 
-Firefox OS
+Rust / Servo
 ===============
 
-Firefox OS 主要有三個層次 Gonk, Gecko, Gaia：
+Rust 是 Mozilla 發起的系統程式語言，跑得比光速還快、具備記憶體區段錯誤預防與執行序安全功能。
+您可以在此下載安裝、閱讀文件與了解貢獻機會： http://rust-lang.org
 
-* Gonk: 作業系統相關，如果你有興趣 porting Firefox OS 到新裝置請參考相關文件：  http://mzl.la/1hL80Ah
-* Gecko: 包含 Web API 實作以及 Browser Engine，此部份跟一般 Firefox Browser 開發相同，所作的變更也是與 Firefox Browser 共用（只是有可能預設關閉）
-* Gaia: Firefox OS 的預載 App，如 Calendar、Gallery、Music…等等，也包含 Notification 以及 Windows Manager 等系統元件。文件請直接參考 github README： https://github.com/mozilla-b2g/gaia
+這裡有台灣社群成員共同翻譯的 Rust 入門手冊： http://askeing.github.io/rust-book/
+你可以在此參與社群定期聚會： http://rust-lang.tw
 
-這邊是一些由 Firefox OS 在台灣工程師整理出的新手 Bug，如果您有興趣挑戰，可以回信告訴我們，由工程師協助您一步步進行： http://mzl.la/mentor-lang-zh
 
-如果你想試著開發 Firefox OS 平台的 App，請參考 Marketplace Developer Hub 中的文件：  https://marketplace.firefox.com/developers/
+Servo 是 Mozilla 以 Rust 開發中的新瀏覽器引擎，更先進、更快，具備更加的多執行緒、安全、模組化、且套別考慮嵌入使用等多元情境。
+歡迎在此下載測試，並了解如何貢獻 Servo： https://servo.org
 
-如果您想參與 Firefox OS QA，請看 irc.mozilla.org #fxosqa 頻道。
+這裡整理出 Servo 初心者 issue 供您挑選： https://starters.servo.org
 
-也邀請您訂閱我們 Firefox OS 的電子郵件群組（ https://lists.mozilla.org/listinfo/dev-fxos ），與社群的成員一起討論，分享您的想法與點子。
+
+B2G OS
+===============
+
+Boot to Gecko (B2G) 作業系統是一個社群維護的開源計畫，源自於 2011 年，目標是為 Open Web 建立一套完整獨立的作業系統。B2G 以 Linux 核心與 Gecko 成像引擎為基礎，被運用於商業的 Firefox OS 手機、與智慧型電視等產品。
+
+目前社群正在執行一套轉移計畫，目標要讓 B2G 更加現代化，建立一個更為精簡的平台，並運用於智慧型電視及其他具潛力的連網裝置上。如果您想要參與，歡迎參考下列頁面上的相關資訊： https://wiki.mozilla.org/B2G/Transition_Project/Call_For_Contribution#Chinese_.28Traditional.29_Version_.2F_.E6.AD.A3.E9.AB.94.E4.B8.AD.E6.96.87
 
 
 網頁開發

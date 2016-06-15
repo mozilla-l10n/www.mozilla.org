@@ -20,12 +20,12 @@ iOS <span>కొరకు</span>
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OS {OK}
+OS {ok}
 
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+TV {ok}
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -202,7 +202,7 @@ TV
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%d-%m-%Y
+%Y-%m-%d {ok}
 
 
 ;Legal
@@ -585,7 +585,7 @@ MPEG-4 ఫార్మాటు
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+పేటెంట్స్
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -780,16 +780,16 @@ HTML {ok}
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+ఈ <a href="%s">గోప్యతా నోటీసు</a>లో వివరించిన విధంగా మొజిల్లా నా సమాచార నిర్వహణ ఒప్పుకుంటున్నాను
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+ఈ <a href="%s">గోప్యతా నోటీసు</a>లో వివరించిన విధంగా మొజిల్లా నా సమాచార నిర్వహణ ఒప్పుకుంటున్నాను
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+అన్ని విషయాలు<br> ఫైర్ఫాక్స్ తెలియచేయడానికి.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -799,12 +799,12 @@ Keep up with<br> all things Firefox.
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-ఇక్కడ మీ ఈమెయిలు
+YOUR EMAIL HERE {ok}
 
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+ఇప్పుడే సైన్ అప్ చేయండి
 
 
 # Old newsletter subscription Button

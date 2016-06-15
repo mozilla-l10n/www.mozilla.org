@@ -1,4 +1,6 @@
 ## active ##
+## channel_aurora_android ##
+## channel_dev_edition ##
 ## telemetry_notice ##
 ## NOTE: url is https://www-dev.allizom.org/firefox/channel/
 ## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
@@ -6,16 +8,16 @@
 
 # This is the string for the <title> tag on the page.
 ;Download Firefox Developer Edition or Beta &amp; Help Determine the Next Firefox
-Download Firefox Developer Edition or Beta &amp; Help Determine the Next Firefox
+Lataa Firefoxin Developer Edition tai beetaversio ja vaikuta Firefoxin seuraavaan versioon
 
 
 # This is the string for the <title> tag on the page.
 ;Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox
-Lataa Firefox-aurora tai -beeta ja vaikuta Firefoxin seuraavaan versioon
+Lataa Firefoxin aurora- tai beetaversio ja vaikuta Firefoxin seuraavaan versioon
 
 
 ;Download and test Firefox future releases. Experience the newest innovations with the Developer Edition or Beta builds.
-Download and test Firefox future releases. Experience the newest innovations with the Developer Edition or Beta builds.
+Lataa ja testaa Firefoxin tulevia julkaisuja. Kokeile uusimpia innovaatioita Developer Edition -version tai beetaversion kanssa.
 
 
 # This description applies to Firefox Beta
@@ -24,7 +26,7 @@ Viimeisimmät ominaisuudet vakaammassa paketissa
 
 
 ;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
-Firefox-beeta lähettää palautetta Mozillalle automaattisesti. <a href="%(link)s">Lue lisää</a>.
+Firefoxin beetaversio lähettää palautetta Mozillalle automaattisesti. <a href="%(link)s">Lue lisää</a>.
 
 
 ;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
@@ -32,15 +34,20 @@ Firefox-beeta lähettää palautetta Mozillalle automaattisesti. <a href="%(link
 
 
 ;Firefox Aurora and Firefox Developer Edition automatically send feedback to Mozilla. <a href="%(link)s">Learn more</a>.
-Firefox Aurora and Firefox Developer Edition automatically send feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefoxin aurora- ja Firefoxin Developer Edition -versiot lähettävät automaattisesti palautetta Mozillalle. <a href="%(link)s">Lue lisää</a>.
 
 
 ;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
-Firefox-aurora lähettää palautetta Mozillalle automaattisesti. <a href="%(link)s">Lue lisää</a>.
+Firefoxin aurora-versio lähettää palautetta Mozillalle automaattisesti. <a href="%(link)s">Lue lisää</a>.
+
+
+# Link to SUMO: https://support.mozilla.org/kb/will-firefox-work-my-mobile-device
+;Will Firefox work on my mobile device?
+Toimiiko Firefox mobiililaitteellani?
 
 
 ;Built for those who build the Web
-Built for those who build the Web
+Tehty verkkosivustojen rakentajille
 
 
 # This description applies to Firefox Aurora
@@ -58,11 +65,11 @@ Koetettu, testattu ja miljoonien käytössä ympäri maailman
 
 
 ;Learn more about Firefox Beta
-Lue lisää Firefox-beetasta
+Lue lisää Firefoxin beetaversiosta
 
 
 ;Learn more about Firefox Aurora
-Lue lisää Firefox-aurorasta
+Lue lisää Firefoxin aurora-versiosta
 
 
 ;Learn more about Firefox

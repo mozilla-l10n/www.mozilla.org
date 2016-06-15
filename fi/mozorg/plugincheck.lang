@@ -1,16 +1,20 @@
 ## active ##
+## no_plugins ##
+## plugin_outdated ##
 ## plugin_updated_content ##
+## plugincheck_newsletter ##
+## plugincheck_nosupport ##
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 
 
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
-Keep your Firefox healthy with a quick checkup
+Pidä Firefox terveenä tekemällä pikainen tarkistus
 
 
 # Used as page description in HTML meta tag
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
+Käytätkö Flashiä? QuickTimea? Javaa? Jos käytät näitä parantamaan Firefox-kokemustasi, tarkista liitännäisesi. Ne tarvitsee ehkä päivittää.
 
 
 # Old page <title> tag
@@ -55,7 +59,7 @@ turvaton
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+vanhentunut
 
 
 # Main title
@@ -67,13 +71,23 @@ Tarkista liitännäisesi
 Liitännäisen pitäminen ajan tasalla auttaa Firefoxia toimimaan tasaisesti ja turvallisesti.
 
 
+# This is a title, with limited space; text inside the span tag is displayed bold
+;<span>Firefox</span> + You
+<span>Firefox</span> + sinä
+
+
+# This is the subtitle for the newsletter subscription box
+;Get Firefox tips, tricks, news and more
+Saa Firefox-vinkkejä, -niksejä, -uutisia ynnä muuta
+
+
 ;Currently the plugin check service is only available to Firefox users.
-Currently the plugin check service is only available to Firefox users.
+Liitännäisten tarkistus on tällä hetkellä vain Firefox-käyttäjille.
 
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
-Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
+Liitännäiset eivät aina päivity automaattisesti. Tarkista tilanne, niin pysyt turvassa ja voit selata keskeytyksettä.
 
 
 ;Looks like you’re using an older version of Firefox.
@@ -85,7 +99,7 @@ Liitännäisten tila
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+Liitännäisiä ei löytynyt. Jos arvelet tämän olevan virhe, kerro siitä meille <a href="%(bugzilla_url)s">jättämällä virheilmoitus</a>.
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons

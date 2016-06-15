@@ -1,6 +1,7 @@
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 ## URL: https://www-dev.allizom.org/%LOCALE%/plugincheck
 ## no_plugins ##
+## plugincheck_newsletter ##
 ## plugincheck_nosupport ##
 ## plugin_outdated ##
 ## plugin_updated_content ##
@@ -71,6 +72,18 @@ Check Your Plugins
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
 Keeping your plugins up to date helps Firefox run safely and smoothly.
+
+
+## TAG: plugincheck_newsletter
+# This is a title, with limited space; text inside the span tag is displayed bold
+;<span>Firefox</span> + You
+<span>Firefox</span> + You
+
+
+## TAG: plugincheck_newsletter
+# This is the subtitle for the newsletter subscription box
+;Get Firefox tips, tricks, news and more
+Get Firefox tips, tricks, news and more
 
 
 ## TAG: plugincheck_nosupport
@@ -269,4 +282,3 @@ Have more questions?
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
 Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-

@@ -1,21 +1,24 @@
 ## active ##
+## no_plugins ##
+## plugin_outdated ##
 ## plugin_updated_content ##
+## plugincheck_nosupport ##
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 
 
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
-Keep your Firefox healthy with a quick checkup
+Caltén el to Firefox sanu con una revisión rápida
 
 
 # Used as page description in HTML meta tag
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
+¿Uses Flash, QuickTime o Java? Si los uses pa facer ablucante la to esperiencia con Firefox, ¡compruébalos! Quiciabes precisen anovase.
 
 
 # Old page <title> tag
 ;Plugin Check &amp; Updates
-Comprobación y anovamientu de plugins
+Comprobación y anovamientu de complementos
 
 
 # This is a button telling the user to update their plugin
@@ -25,7 +28,7 @@ Anovar agora
 
 # This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
 ;Research
-Volver a guetar
+Guetar de nueves
 
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
@@ -55,7 +58,7 @@ vulnerable {ok}
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+ensin anovar
 
 
 # Main title
@@ -67,17 +70,27 @@ Comprueba los tos complementos
 Caltener los tos plugins anovaos contribúi a que Firefox s'execute de mou seguru y estable.
 
 
+# This is a title, with limited space; text inside the span tag is displayed bold
+;<span>Firefox</span> + You
+<span>Firefox</span> + You
+
+
+# This is the subtitle for the newsletter subscription box
+;Get Firefox tips, tricks, news and more
+Get Firefox tips, tricks, news and more
+
+
 ;Currently the plugin check service is only available to Firefox users.
-Currently the plugin check service is only available to Firefox users.
+Anguaño'l serviciu de comprobación de complementos namái ta disponible pa usuarios de Firefox.
 
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
-Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
+Los complementos nun siempres s'anueven automáticamente. ¡Comprueba agora los de to pa tar seguru y restolar la rede ensin interrupciones!
 
 
 ;Looks like you’re using an older version of Firefox.
-Tas usando una versión vieya de Firefox.
+Paez que tas usando una versión vieya de Firefox.
 
 
 ;Plugin Status
@@ -85,7 +98,7 @@ Estáu de los plugins
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+Nun s'alcontraron complementos. Si creyes qu'esto ye un fallu, <a href="%(bugzilla_url)s">rellena un informe de fallu</a> y déxamoslo saber, por favor.
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -161,7 +174,7 @@ Los complementos vieyos puen interrumpir la navegación y facer que pierdas tiem
 
 
 ;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
-Los complementos vieyos <strong>incrementen el riesgu</strong> d'ataques de malware, virus y otros temes de seguridá.
+Los complementos vieyos <strong>incrementen el riesgu</strong> d'ataques de malware, virus y otros temes de seguranza.
 
 
 ;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
@@ -194,7 +207,7 @@ Quies ayudanos a dar a conocer Firerox?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Ayuda a los tos collacios a caltener la seguridá en llinia! Visita <a href="%(url)s">Firefox Affiliates</a> y obtén pal to sitiu web una insignia de comprobación de plugins.
+Ayuda a los tos collacios a caltener la seguranza en llinia! Visita <a href="%(url)s">Firefox Affiliates</a> y obtén pal to sitiu web una insignia de comprobación de plugins.
 
 
 ;How do I disable a plugin?

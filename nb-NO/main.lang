@@ -5,7 +5,7 @@ Navigasjon
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>for</span> datamaskin
 
 
 # Firefox family navigation menu. Main level item.
@@ -31,12 +31,12 @@ TV
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+For datamaskiner
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+For mobiler og nettbrett
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -66,22 +66,22 @@ Om
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+Enheter
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+For samarbeidspartnere
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+Apper
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+Ikke spor
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -92,17 +92,17 @@ Tiles
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+Interessepanel
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+Utviklerversjon
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+Privat nettlesing
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -112,17 +112,17 @@ Trenger du hjelp?
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+Nyheter
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+For utviklere
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+Finn min enhet
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -132,12 +132,12 @@ Utviklere
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Velg en nettleser som er uavhengig
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox er kompromissløs og lages ikke for profitt. Å velge Firefox er ikke bare et valg av nettleser: Det er et valg for personlig frihet.
 
 
 ;Donate
@@ -145,7 +145,7 @@ Donasjon
 
 
 ;Support
-Støtte
+Hjelp
 
 
 ;Products
@@ -173,7 +173,7 @@ bytt språk
 
 
 ;Back to home page
-Tilbake til startsiden
+Tilbake til forsiden
 
 
 ;About Mozilla
@@ -181,7 +181,7 @@ Om Mozilla
 
 
 ;Get Involved
-Bli involvert
+Engasjer deg
 
 
 ;Careers
@@ -228,7 +228,7 @@ Personvern
 
 
 ;Release Notes
-Versjonsnotat
+Versjonsmerknader
 
 
 ;Other Systems and Languages
@@ -244,7 +244,7 @@ Lukk
 
 
 ;Return to top
-Gå øverst
+Gå til toppen
 
 
 ;Features
@@ -289,7 +289,7 @@ Med unntak av der hvor annet er <a href="%s">oppgitt</a>, er innhold på dette n
 
 
 ;Report Trademark Abuse
-Rapporter varemerke-misbruk
+Rapporter misbruk av varemerke
 
 
 ;Free Upgrade
@@ -352,7 +352,7 @@ Prøv ut det nye utseendet til Firefox.
 
 
 ;View Full Site
-Vis hele nettstedet
+Vis i fullversjon
 
 
 ;Download for <span>Android</span>
@@ -372,11 +372,11 @@ Firefox for mobil
 
 
 ;Email
-E-post
+Epost
 
 
 ;Super speed
-Super hastighet
+Superhastighet
 
 
 ;Stunning graphics
@@ -388,7 +388,7 @@ De nyeste teknologiene
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Du trenger en oppgradering! Bli trygg på nettet på mindre enn ett minutt. <br/> Begynn å bruke den nyeste Firefox for å få det beste i nettlesing og tilpasningsmuligheter som fins på verdensveven. <br/>   Det går raskt, og er gratis!
+Du trenger en oppgradering! Bli trygg på nettet på under et minutt. <br/> Bruk den nyeste Firefox for å få de beste nettlesingsopplevelse og tilpasningsmulighetene som finnes på internett. <br/>   Det går raskt og er gratis!
 
 
 ;Upgrade now
@@ -415,12 +415,12 @@ Personvern
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Deler av dette innholdet er ©1998–%(current_year)s av individuelle mozilla.org-bidragsytere. Innholdet er tilgjengelig under a <a href="%(url)s">Creative Commons license</a>.
+Deler av dette innholdet er ©1998–%(current_year)s individuelle mozilla.org-bidragsytere. Innholdet er tilgjengelig under en <a href="%(url)s">Creative Commons-lisens</a>.
 
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+Bidra til dette nettstedet
 
 
 # Footer string
@@ -440,7 +440,7 @@ Omvisning
 
 # Footer item
 ;Partner with Us
-Partner med oss
+Bli samarbeidspartner
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -460,7 +460,7 @@ Android-utvidelser
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Themes
-Temaer
+Utseende
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -505,7 +505,7 @@ Firefox for organisasjoner
 
 # Top menu item on firefox/update page
 ;Mobile Add-ons
-Mobile utvidelser
+Utvidelser for mobil
 
 
 # Top menu item on firefox/update page
@@ -535,12 +535,12 @@ Delta
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
-Volunteer
+Bli frivillig
 
 
 # Top menu item on firefox/update page
 ;Brand Toolkit
-Branding-verktøysett
+Verktøykasse for merkevaren
 
 
 # Top menu item on firefox/update page
@@ -550,7 +550,7 @@ Partnere
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-Få Mozilla-oppdateringer
+Få oppdateringer fra Mozilla
 
 
 # share button for social networks
@@ -585,12 +585,12 @@ Forum
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+Patenter
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+Lederskapet
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -610,12 +610,12 @@ Produkter
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
-Programnyskapninger og andre nyheter for å videreføre oppdraget vårt.
+Teknologiutvikling og nyvinning for å fremme vår kamp.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Bli frivillig innenfor ett av flere områder.
+Bli frivillig innen et område.
 
 
 # This is a non-visible string for blind people to indicate where the menu is
@@ -625,33 +625,33 @@ Meny
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Forpliktet til deg, ditt personvern og en åpen web.
+Forpliktet til deg, ditt personvern og et åpent nett
 
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Velg å være uavhengig
+Velg uavhengighet
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Hold lidenskapen din for et fritt og åpent Internett brennende! #ChooseIndependent. Velg Firefox:
+Hold lidenskapen din for et fritt og åpent internett ved like! #ChooseIndependent. Velg Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+Skru på JavaScript for at denne siden skal vises korrekt.
 
 
 # Used as link to /firefox/desktop in footers on some pages
 ;Firefox Features
-Firefox-funksjoner
+Funksjoner i Firefox
 
 
 # Used as link to SUMO in footers on some pages
 ;Firefox Help
-Firefox-hjelp
+Firefox hjelp
 
 
 ;January
@@ -752,11 +752,11 @@ Desember
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox kommer snart til iOS! <a href="{url}">Få vite mer</a>.
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+Hurra! Du er på siste versjon!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -776,15 +776,15 @@ HTML
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
-Oops! Skriv inn en gyldig e-postadresse.
+Ups! Skriv inn en gyldig epostadresse.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Jeg er forstått med hvordan Mozilla behandler mine personlige data, som forklart i <a href="%s">personvernserklæringen</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Det er OK for meg at Mozilla håndterer infoen om meg som forklart i <a href="%s">personvernerklæringen</a>
+Jeg er forstått med at Mozilla håndterer informasjon om meg som forklart i <a href="%s">personvernserklæringen</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -794,12 +794,12 @@ Keep up with<br> all things Firefox.
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Motta Firefox-nyheter
+Motta nyheter om Firefox
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-DIN E-POSTADRESSE HER
+DIN EPOSTADRESSE HER
 
 
 # Newsletter subscription Button
@@ -821,22 +821,22 @@ Tilgjengelige språk
 
 
 ;We will only send you Mozilla-related information.
-Vi vil bare sende Mozilla-relatert informasjon.
+Vi vil bare sende informasjon relatert til Mozilla.
 
 
 ;Thanks! Please check your inbox to confirm your subscription.
-Takk! Kontroller innboksen din for å bekrefte abonnementet.
+Takk! Sjekk eposten din for å bekrefte abonnementet.
 
 
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Du vil motta en e-post fra mozilla@e.mozilla.org for å bekrefte abonnementet. Dersom du ikke finner den, kontroller spamfilteret. Du må bekrefte abonnementet for å motta nyhetsbrevet.
+Du vil motta en e-post fra mozilla@e.mozilla.org for å bekrefte abonnementet. Kontroller spamfilteret hvis du ikke finner den. Du må bekrefte abonnementet for å motta nyhetsbrevet.
 
 
 ;Read all about it in our <span>newsletter</span>
-Les om det i vårt  <span>nyhetsbrev</span>
+Les mer i vårt <span>nyhetsbrev</span>
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Abonner for å motta månedelige nytt, og holde deg oppdatert på Mozilla-nyheter, også de nyeste tipsene om hvordan du kan få mest mulig ut av din Firefox nettleser. Det er den perfekte måten for oss å holde kontakten på!
+Abonner for å motta månedelige oppdateringer og holde deg informert om Mozilla-nyheter, blant annet de nyeste tipsene om hvordan du kan få mest mulig ut av Firefox. Det er en god måte for oss å holde kontakten på!
 
 

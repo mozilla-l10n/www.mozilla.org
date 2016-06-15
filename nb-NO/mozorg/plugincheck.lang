@@ -1,21 +1,24 @@
 ## active ##
+## no_plugins ##
+## plugin_outdated ##
 ## plugin_updated_content ##
+## plugincheck_nosupport ##
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 
 
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
-Keep your Firefox healthy with a quick checkup
+Hold Firefox frisk med en rask sjekk
 
 
 # Used as page description in HTML meta tag
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
+Bruker du Flash? QuickTime? Java? Bruker du disse bør du sjekke om de er siste versjon. De kan trenge en oppgradering.
 
 
 # Old page <title> tag
 ;Plugin Check &amp; Updates
-Programtillegg-kontroll og oppdateringer
+Programtilleggskontroll og oppdateringer
 
 
 # This is a button telling the user to update their plugin
@@ -40,7 +43,7 @@ Oppdatert
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Programtillegg-ikon
+Programtilleggsikon
 
 
 # This is the string used to indicate that the plugin is unknown
@@ -55,7 +58,7 @@ sårbar
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+utdatert
 
 
 # Main title
@@ -67,29 +70,39 @@ Kontroller programtillegg
 Å holde programtilleggene oppdaterte hjelper Firefox å kjøre trygt og raskt.
 
 
+# This is a title, with limited space; text inside the span tag is displayed bold
+;<span>Firefox</span> + You
+<span>Firefox</span> + deg
+
+
+# This is the subtitle for the newsletter subscription box
+;Get Firefox tips, tricks, news and more
+Get Firefox tips, tricks, news and more
+
+
 ;Currently the plugin check service is only available to Firefox users.
-Currently the plugin check service is only available to Firefox users.
+Programtilleggstjenesten er for øyeblikket bare tilgjengelig for brukere av Firefox.
 
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
-Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
+Programtillegg oppdateres ikke alltid automatisk. Sjekk dine nå for å være sikker og for å surfe uten avbrytelser!
 
 
 ;Looks like you’re using an older version of Firefox.
-Ser ut som du bruker en eldre versjon av Firefox.
+Det ser ut som du bruker en eldre versjon av Firefox.
 
 
 ;Plugin Status
-Status på programtillegg
+Programtilleggsstatus
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+Fant ingen programtillegg. <a href="%(bugzilla_url)s">Rapporter det</a> om du tror det er feil.
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
-Programtillegg-kontrollen sin <strong>støtte for Internet Explorer er begrenset</strong>. Prøv også Verktøy &gt; Administrer tillegg.
+Programtilleggskontrollens <strong>støtte for Internet Explorer er begrenset</strong>. Prøv også Verktøy &gt; Administrer tillegg.
 
 
 ;Step 1: Click Update to update a plugin.
@@ -113,7 +126,7 @@ Tilstand
 
 
 ;Action
-Handling
+Valg
 
 
 ;Outdated Plugins
@@ -133,7 +146,7 @@ Tilbake til toppen
 
 
 ;Frequently Asked Questions
-Ofte stilte spørsmål
+Ofte stilte spørsmål (FAQ)
 
 
 ;What is a plugin?
@@ -247,7 +260,7 @@ Advarsel: Ved å slå av en utvidelse vil det være enkelte ting du ikke lenger 
 
 
 ;Mozilla Support
-Mozilla Support {ok}
+Mozilla brukerstøtte {ok}
 
 
 ;Have more questions?
@@ -255,6 +268,6 @@ Har du flere spørsmål?
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Besøk <a href="%(sumo_url)s">support.mozilla.org</a> for mer hjelp!
+Besøk <a href="%(sumo_url)s">support.mozilla.org</a> for videre hjelp!
 
 

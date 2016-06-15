@@ -5,43 +5,43 @@
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+ඩෙස්ක්ටොප් <span>සඳහා</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+ඇන්ඩ්‍රොයිඩ් <span>සඳහා</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+iOS <span>සඳහා</span>
 
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OS
+OS {ok}
 
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+TV {ok}
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+ඩෙස්ක්ටොප් සහ ලැප්ටොප් සඳහා
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+දුරකතන සහ ටැබ්ලට් සඳහා
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Overview
-Overview
+දළ විශ්ලේෂණය
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -51,7 +51,7 @@ Overview
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Flexible
-Flexible
+සුනම්‍ය
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -66,17 +66,17 @@ Flexible
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+උපාංග
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+හවුල්කරුවන් සඳහා
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+යෙදුම්
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -86,7 +86,7 @@ Apps
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+ටයිල්
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -97,7 +97,7 @@ Interest Dashboard
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+සංවර්ධක සංස්කරණය
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -112,27 +112,27 @@ Developer Edition
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+පුවත්
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+සංවර්ධකයින් සඳහා
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+මාගේ උපාංගය සොයන්න
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
-Developers
+සංවර්ධකයො
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+ස්වාදීන ගවේෂකය තෝරාගන්න
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -269,7 +269,7 @@ Firefox Affiliates
 
 # MegaBytes abbreviation
 ;MB
-MB {හරි}
+MB {ok}
 
 
 ;MegaBytes
@@ -316,7 +316,7 @@ MB {හරි}
 
 # Link used to play again an animation or a video
 ;Replay
-Replay
+යළි වාදනය
 
 
 ;Watch the video
@@ -324,7 +324,7 @@ Replay
 
 
 ;Replay the video
-Replay the video
+විඩියෝ යළි වාදනය
 
 
 ;Share the video
@@ -420,7 +420,7 @@ Portions of this content are ©1998–%(current_year)s by individual mozilla.org
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+මෙම පිටුවට දායක වෙන්න
 
 
 # Footer string
@@ -435,7 +435,7 @@ Contribute to this site
 
 # Footer item on some pages to link to a tour of features
 ;Tour
-Tour
+සංචාරය
 
 
 # Footer item
@@ -470,7 +470,7 @@ Desktop Support
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+ඇන්ඩ්‍රොයිඩ සහාය
 
 
 # Top menu item on firefox/update page

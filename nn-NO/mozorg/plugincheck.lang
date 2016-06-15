@@ -2,6 +2,7 @@
 ## no_plugins ##
 ## plugin_outdated ##
 ## plugin_updated_content ##
+## plugincheck_newsletter ##
 ## plugincheck_nosupport ##
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 
@@ -70,6 +71,16 @@ Kontroller programtillegga dine
 Å halda programtillegga oppdaterte hjelper Firefox å køyra trygt og raskt.
 
 
+# This is a title, with limited space; text inside the span tag is displayed bold
+;<span>Firefox</span> + You
+<span>Firefox</span> + deg
+
+
+# This is the subtitle for the newsletter subscription box
+;Get Firefox tips, tricks, news and more
+Få Firefox-tips, triks, nyheiter og mykje meir
+
+
 ;Currently the plugin check service is only available to Firefox users.
 Programtillegg-kontrollen er for tida berre tilgjengeleg for Firefox-brukarar.
 
@@ -92,7 +103,7 @@ Ingen programtillegg vart funne. Om du meinar at dette er feil, <a href="%(bugzi
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
-Programtillegg-kontrollen si <strong>støtte for Internet Explorer er avgrensa</strong>. Prøv også Verkty &gt; Administrer tillegg.
+Programtillegg-kontrollen si <strong>støtte for Internet Explorer er avgrensa</strong>. Prøv også Verktøy &gt; Administrer tillegg.
 
 
 ;Step 1: Click Update to update a plugin.
@@ -234,7 +245,7 @@ Trykk på eit programtillegg i lista.
 
 
 ;Select "Never Activate" from the available choices.
-Vel «Aktiver aldri» frå tilgjengelege val.
+Vel «Aldri aktiver» frå dei tilgjengelege vala.
 
 
 ;Click the Disable button.

@@ -24,7 +24,7 @@ Wat is Locatiebewust navigeren?
 
 
 ;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
-Websites die locatiebewust navigeren gebruiken zullen u vragen waar u zich bevindt, zodat deze u relevantere informatie kunnen aanbieden of u tijd besparen tijdens het zoeken. Stel dat u op zoek bent naar een pizzeria in uw omgeving. Een website kan u vragen uw locatiegegevens te delen, zodat eenvoudig zoeken naar “pizza” u de benodigde antwoorden geeft… zonder dat verdere informatie of extra typewerk nodig is.
+Websites die locatiebewust navigeren gebruiken, zullen u vragen waar u zich bevindt, zodat deze u relevantere informatie kunnen aanbieden of u tijd besparen tijdens het zoeken. Stel dat u op zoek bent naar een pizzeria in uw omgeving. Een website kan u vragen uw locatiegegevens te delen, zodat eenvoudig zoeken naar ‘pizza’ u de benodigde antwoorden geeft… zonder dat verdere informatie of extra typewerk nodig is.
 
 
 ;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
@@ -56,7 +56,7 @@ Hoe nauwkeurig zijn de locaties?
 
 
 ;Accuracy varies greatly from location to location. In some places, our service providers may be able to provide a location to within a few meters. However, in other areas it might be much more than that. All locations returned by our service providers are estimates only and we do not guarantee the accuracy of the locations provided. Please do not use this information for emergencies. Always use common sense.
-Nauwkeurigheid varieert enorm van locatie tot locatie. Op sommige posities kunnen onze serviceproviders een locatie tot op enkele meters nauwkeurig bepalen. In andere gebieden kan dit echter veel meer zijn. Alle door onze serviceproviders teruggegeven locaties zijn slechts schattingen en de nauwkeurigheid van de gegeven locaties wordt niet gegarandeerd. Gebruik deze informatie niet voor noodgevallen. Gebruik altijd uw gezond verstand.
+Nauwkeurigheid varieert enorm van locatie tot locatie. Op sommige posities kunnen onze serviceproviders een locatie tot op enkele meters nauwkeurig bepalen. In andere gebieden kan dit echter veel meer zijn. Alle door onze serviceproviders teruggegeven locaties zijn slechts schattingen, en de nauwkeurigheid van de gegeven locaties wordt niet gegarandeerd. Gebruik deze informatie niet voor noodgevallen. Gebruik altijd uw gezond verstand.
 
 
 ;What information is being sent, and to whom? How is my privacy protected?
@@ -64,11 +64,11 @@ Welke gegevens worden er verstuurd, en naar wie? Hoe wordt mijn privacy bescherm
 
 
 ;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
-Uw privacy is voor ons van het grootste belang, en Firefox deelt uw locatie nooit zonder uw toestemming. Wanneer u een pagina bezoekt die om uw gegevens vraagt, zal u hiernaar worden gevraagd voordat er enige gegevens met de verzoekende website en onze serviceprovider van derden worden gedeeld.
+Uw privacy is voor ons van het grootste belang, en Firefox deelt uw locatie nooit zonder uw toestemming. Wanneer u een pagina bezoekt die om uw gegevens vraagt, zal hiernaar worden gevraagd voordat er enige gegevens met de verzoekende website en onze serviceprovider van derden worden gedeeld.
 
 
 ;By default, Firefox uses Google Location Services to determine your location by sending:
-Standaard gebruikt Firefox Google Location Services om uw locatie te bepalen door het volgende te versturen:
+Standaard maakt Firefox gebruik van Google Location Services om uw locatie te bepalen door het volgende te versturen:
 
 
 ;your computer’s IP address,
@@ -76,7 +76,7 @@ het IP-adres van uw computer,
 
 
 ;information about the nearby wireless access points, and
-Gegevens over de draadloze toegangspunten in de buurt, en
+gegevens over draadloze toegangspunten in de buurt, en
 
 
 ;a random client identifier, which is assigned by Google, that expires every 2 weeks.
@@ -84,15 +84,15 @@ een willekeurige client-identificator, die wordt toegewezen door Google en die e
 
 
 ;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
-Zie voor een volledige beschrijving van door Firefox verzamelde en gebruikte gegevens de <a href="%(url)s">Firefox Privacy Notice</a> (in het Engels).
+Zie voor een volledige beschrijving van door Firefox verzamelde en gebruikte gegevens de <a href="%(url)s">Privacyverklaring van Firefox</a> (in het Engels).
 
 
 ;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
-Google Location Services geeft vervolgens uw geschatte geolocatiegegevens terug (bv. breedte- en hoogtegraad). Zie voor een volledige beschrijving van door Google verzamelde en gebruikte gegevens de <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a> (in het Engels).
+Google Location Services geeft vervolgens uw geschatte geolocatie terug (bv. breedte- en hoogtegraad). Zie voor een volledige beschrijving van door Google verzamelde en gebruikte gegevens het <a href="%(url)s" class="%(class)s">Geolocatie-privacybeleid van Google</a> (in het Engels).
 
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
-Om uw privacy te beschermen worden de gegevens over een versleutelde verbinding uitgewisseld. Als Firefox uw geolocatiegegevens eenmaal heeft, geeft het deze door aan de website die hierom vroeg. De naam of locatie van de website die u bezoekt of bepaalde cookies zullen op geen enkel moment met Google Location Services worden gedeeld.
+Om uw privacy te beschermen, worden de gegevens over een versleutelde verbinding uitgewisseld. Als Firefox eenmaal uw geolocatiegegevens heeft, geeft het deze door aan de website die hierom heeft gevraagd. De naam of locatie van de website die u bezoekt, of bepaalde cookies, zullen op geen enkel moment met Google Location Services worden gedeeld.
 
 
 ;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
@@ -136,23 +136,23 @@ Navigeer naar de website die u toestemming hebt gegeven
 
 
 ;Go to the <em>Tools</em> menu, then select <em>Page Info</em>
-Ga naar het menu <em>Extra</em> en selecteer vervolgens <em>Pagina-info</em>
+Ga naar het menu <em>Extra</em> en selecteer <em>Pagina-info</em>
 
 
 ;Select the <em>Permissions</em> tab
-Selecteer het tabblad <em>Toestemmingen</em>
+Selecteer het paneel <em>Toestemmingen</em>
 
 
 ;Change the setting for <em>Share Location</em>
-Wijzig de instelling voor <em>Locatie doorgeven</em>
+Wijzig de instelling voor <em>Toegang tot uw locatie</em>
 
 
 ;How do I clear the “random client identification number”?
-Hoe wis ik het “willekeurige client-identificatienummer”?
+Hoe wis ik het ‘willekeurige client-identificatienummer’?
 
 
 ;Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>
-Ga naar het menu <em>Extra</em> en selecteer vervolgens <em>Recente geschiedenis wissen</em>
+Ga naar het menu <em>Geschiedenis</em> en selecteer <em>Recente geschiedenis wissen…</em>
 
 
 ;Click the <em>Details</em> arrow
@@ -172,7 +172,7 @@ Hoe schakel ik Locatiebewust navigeren permanent uit?
 
 
 ;Location-Aware Browsing is always opt-in in Firefox. No location information is ever sent without your permission. If you wish to disable the feature completely, please follow this set of steps:
-Locatiebewust navigeren wordt altijd op aanvraag gebruikt in Firefox. Er worden nooit gegevens verzonden zonder uw toestemming. Als u de functie volledig wilt uitschakelen, volg dan de volgende stappen:
+Locatiebewust navigeren wordt altijd op aanvraag gebruikt in Firefox. Er worden nooit gegevens verzonden zonder uw toestemming. Als u de functie volledig wilt uitschakelen, volg dan deze stappen:
 
 
 ;In the URL bar, type <code>about:config</code>

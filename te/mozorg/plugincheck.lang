@@ -4,12 +4,12 @@
 
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
-Keep your Firefox healthy with a quick checkup
+శీఘ్ర చెకప్ ద్వారా మీ ఫైర్ఫాక్సును ఆరోగ్యంగా ఉంచుకోండి
 
 
 # Used as page description in HTML meta tag
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
+ఫ్లాష్ ఉపయోగించాలా? QuickTime? జావా? మీరు మీ ఫైర్ఫాక్స్ అనుభవాన్ని మరింత అద్భుతంగా చేయడానికి ఇవి ఉపయోగిస్తే, మీ ప్లగిన్లు తనిఖీ చేయండి! అవి నవీకరించడం అవసరం కావచ్చు.
 
 
 # Old page <title> tag
@@ -29,7 +29,7 @@ Use Flash? QuickTime? Java? If you use these to make your Firefox experience mor
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-current version plugin
+ప్రస్తుత వెర్షన్ ప్లగిన్
 
 
 # This is a button informing the user that their plugin is up to date
@@ -54,7 +54,7 @@ current version plugin
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+పురాతనమైనది
 
 
 # Main title
@@ -68,21 +68,21 @@ outdated
 
 # This is a title, with limited space; text inside the span tag is displayed bold
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+<span>ఫైర్ఫాక్సు</span> + మీరు
 
 
 # This is the subtitle for the newsletter subscription box
 ;Get Firefox tips, tricks, news and more
-Get Firefox tips, tricks, news and more
+ఫైర్ఫాక్స్ చిట్కాలు, ట్రిక్స్, వార్తలు మరియు మరిన్ని పొందండి
 
 
 ;Currently the plugin check service is only available to Firefox users.
-Currently the plugin check service is only available to Firefox users.
+ప్రస్తుతం ప్లగ్ఇన్ చెక్ సేవ ఫైర్ఫాక్స్ వినియోగదారులకు మాత్రమే అందుబాటులో ఉంది.
 
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
-Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
+ప్లగ్ఇన్లు ఎప్పటికీ స్వయంచాలకంగా అప్డేట్ కాలేదు. ఆన్లైన్లో సురక్షితంగా ఉండటానికి మరియు అడ్డంకులు లేకుండా బ్రౌజ్ చేయడాని ఇప్పుడు మీరు తనిఖీ చేయండి!
 
 
 ;Looks like you’re using an older version of Firefox.
@@ -94,7 +94,7 @@ Plugins don’t always update automatically. Check yours now to stay safe and br
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+ఏ ప్లగ్ఇన్లు దొరకలేదు. మీరు ఇది ఒక లోపమని భావిస్తే, <a href="%(bugzilla_url)s">ఒక బగ్ ను ఫైల్ చేయండి</a> మరియు మాకు తెలపండి.
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -203,7 +203,7 @@ No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+మీ స్నేహితులు ఆన్లైన్లో సురక్షితంగా ఉండడానికి సహాయం చేయండి! మీ సైట్ కోసం ఒక ప్లగ్ఇన్ చెక్ బ్యాడ్జ్ పొందడానికి <a href="%(url)s">ఫైర్ఫాక్స్ అనుబంధాలు</a> సందర్శించండి.
 
 
 ;How do I disable a plugin?
@@ -220,7 +220,7 @@ Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</
 
 # If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 ;Open the <span class="menu">menu</span>.
-Open the <span class="menu">menu</span>.
+<span class="menu">మెను</span> తెరవండి.
 
 
 ;Choose Add-ons.
@@ -232,7 +232,7 @@ Open the <span class="menu">menu</span>.
 
 
 ;Click on the drop down next to the plugin you wish to disable.
-Click on the drop down next to the plugin you wish to disable.
+డ్రాప్ డౌన్ తదుపరి ఉన్న ప్లగిన్ ను మీరు డిసేబుల్ చేయడానికి క్లిక్ చేయండి.
 
 
 ;Click on a plugin in the list.
@@ -240,7 +240,7 @@ Click on the drop down next to the plugin you wish to disable.
 
 
 ;Select "Never Activate" from the available choices.
-Select "Never Activate" from the available choices.
+అందుబాటులో ఉన్న ఎంపికలు నుండి "ఎప్పుడో ఆక్టివేట్ చేయవద్దు" ని ఎంచుకోండి.
 
 
 ;Click the Disable button.
@@ -252,7 +252,7 @@ Select "Never Activate" from the available choices.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
-Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
+హెచ్చరిక: ఒక ప్లగ్ఇన్ నిలిపివేయడం వల్ల ఇకపై కొన్ని పనులను చేయలేరు అని అర్థం. ఉదాహరణకు, మీరు ఫ్లాష్ డిసేబుల్ చేయాలనుకుంటే, మీరు కొన్ని స్ట్రీమింగ్ వీడియో వెబ్సైట్లలో వీడియోలను చూడలేరు.
 
 
 ;Mozilla Support

@@ -1,41 +1,18 @@
-## Note: This is a redesign of the plug-in checkup page
-## NOTE: Demo server on https://bedrock-demo-agibson.us-west.moz.works/en-US/plugincheck/
-## URL: https://bedrock-demo-agibson.us-west.moz.works/%LOCALE%/plugincheck/
+## NOTE: Demo server available at url: https://www-dev.allizom.org/b/plugincheck/
+## URL: https://www-dev.allizom.org/%LOCALE%/plugincheck
 
-# L10n: This is a title
+
+# Page title (HTML attribute)
 ;Keep your Firefox healthy with a quick checkup
 Keep your Firefox healthy with a quick checkup
 
 
+# Page description (HTML attribute)
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
 Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
 
 
-# This is alt text used on plugin icon images
-;Plugin icon
-Plugin icon
-
-
-# This is the string used to indicate that the plugin is up to date
-;up to date
-up to date
-
-
-# This is the string used to indicate that the plugin is unknown
-;unknown
-unknown
-
-
-# This is the string used to indicate that the plugin is outdated
-;outdated
-outdated
-
-
-# This is the string used to indicate that the plugin is vulnerable
-;vulnerable
-vulnerable
-
-
+# Main title
 ;Check Your Plugins
 Check Your Plugins
 
@@ -60,16 +37,8 @@ Update now to keep your plugins running smoothly and securely.
 Currently the plugin check service is only available to Firefox users on desktop and Android.
 
 
-;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
-
-
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
 No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-
-
-;No plugins were found. If you believe this is an error, <a href="{{ bugzilla_url }}">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="{{ bugzilla_url }}">please file a bug</a> and let us know.
 
 
 ;Common plugins you should check often.
@@ -204,12 +173,36 @@ Caution: Disabling a plugin means that you will no longer be able to do certain 
 Back to Top
 
 
+# This is a button telling the user to update their plugin
+;Update Now
+Update Now
 
 
+# This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
+;Learn more
+Learn more
 
 
+# This is alt text used on plugin icon images
+;Plugin icon
+Plugin icon
 
 
+# This is the string used to indicate that the plugin is up to date
+;up to date
+up to date
 
 
+# This is the string used to indicate that the plugin is unknown
+;unknown
+unknown
 
+
+# This is the string used to indicate that the plugin is outdated
+;outdated
+outdated
+
+
+# This is the string used to indicate that the plugin is vulnerable
+;vulnerable
+vulnerable

@@ -56,7 +56,7 @@ có lỗi bảo mật
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+cũ
 
 
 # Main title
@@ -70,12 +70,12 @@ Giữ các plugin của bạn được cập nhật giúp Firefox an toàn và m
 
 # This is a title, with limited space; text inside the span tag is displayed bold
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+<span>Firefox</span> + bạn
 
 
 # This is the subtitle for the newsletter subscription box
 ;Get Firefox tips, tricks, news and more
-Get Firefox tips, tricks, news and more
+Tìm hiểu thêm các thủ thuật, tin tức về Firefox
 
 
 ;Currently the plugin check service is only available to Firefox users.
@@ -96,7 +96,7 @@ Trạng thái plugin
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+Không tìm thấy phần bổ trợ nào. Nếu bạn nghĩ đó là một lỗi, <a href="%(bugzilla_url)s">báo lỗi</a> và cho chúng tôi biết.
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons

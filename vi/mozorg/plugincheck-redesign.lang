@@ -37,23 +37,23 @@ Hiện tại dịch vụ kiểm tra plugin chỉ dành cho người dùng Firefo
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+Không tìm thấy phần bổ trợ nào. Nếu bạn nghĩ đó là một lỗi, <a href="%(bugzilla_url)s">báo lỗi</a> và cho chúng tôi biết.
 
 
 ;Common plugins you should check often.
-Common plugins you should check often.
+Những phần bổ trợ phổ biến bạn nên kiểm tra thường xuyên.
 
 
 ;All plugins
-All plugins
+Tất cả phần bổ trợ
 
 
 ;These plugins are out of date. Please update.
-These plugins are out of date. Please update.
+Những phần bổ trợ này đã cũ. Làm ơn cập nhật.
 
 
 ;Plugin
-Plugin {ok}
+Phần bổ trợ
 
 
 ;Status
@@ -65,27 +65,27 @@ Hành động
 
 
 ;These plugins are up to date. No action required.
-These plugins are up to date. No action required.
+Những phần bổ trợ này đã được cập nhật. Không có hành động nào được yêu cầu.
 
 
 ;These plugins have an unknown status. Follow the links to learn more.
-These plugins have an unknown status. Follow the links to learn more.
+Những phần bổ trợ này đang ở trạng thái không rõ ràng. Truy cập vào những đường dẫn để tìm hiểu thêm.
 
 
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+<span>Firefox</span> + Bạn
 
 
 ;Get Firefox tips, tricks, news and more
-Get Firefox tips, tricks, news and more
+Lấy những lời khuyên, mẹo, tin tức và hơn thế nữa về Firefox
 
 
 ;Common Plugin Questions
-Common Plugin Questions
+Các câu hỏi thông thường về phần bổ trợ
 
 
 ;Need help? Visit Mozilla Support.
-Need help? Visit Mozilla Support.
+Cần trợ giúp? Vào trang hỗ trợ Mozilla.
 
 
 ;What is a plugin?
@@ -153,7 +153,7 @@ Làm thế nào để vô hiệu hóa một plugin?
 
 
 ;In Firefox for desktop:
-In Firefox for desktop:
+Trên Firefox cho máy tính để bàn:
 
 
 ;Click on the drop down next to the plugin you wish to disable.
@@ -165,7 +165,7 @@ Chọn "Không bao giờ kích hoạt".
 
 
 ;Caution: Disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
-Caution: Disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
+Cảnh báo: Tắt phần bổ trợ đồng nghĩa với việc bạn sẽ không đáp ứng một vài thứ. Ví dụ, nếu bạn tắt Flash, bạn sẽ không xem được các video trên một vài trang web.
 
 
 ;Back to Top
@@ -184,7 +184,7 @@ Biểu tượng plugin
 
 # This is the string used to indicate that the plugin is up to date
 ;up to date
-up to date
+mới nhất
 
 
 # This is the string used to indicate that the plugin is unknown
@@ -194,7 +194,7 @@ không rõ
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+đã cũ
 
 
 # This is the string used to indicate that the plugin is vulnerable

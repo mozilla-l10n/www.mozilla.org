@@ -3,17 +3,17 @@
 
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
-Keep your Firefox healthy with a quick checkup
+ઝડપી તપાસ સાથે તમારા ફાયરફોક્સ તંદુરસ્ત રાખો
 
 
 # Used as page description in HTML meta tag
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
+ઉપયોગ ફ્લેશ? ક્વિક ટાઈમ? જાવા? તમે તમારા ફાયરફોક્સ અનુભવ વધુ બહેતર બનાવવા માટે આ વાપરો તો, તમારા પ્લગઇન્સ તપાસો! તેઓ તેને અપડેટ કરવાની જરૂર પડી શકે છે.
 
 
 # Old page <title> tag
 ;Plugin Check &amp; Updates
-Plugin Check &amp; Updates
+પ્લગઇન તપાસ અને &amp; સુધારાઓ
 
 
 # This is a button telling the user to update their plugin
@@ -28,7 +28,7 @@ Plugin Check &amp; Updates
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-current version plugin
+વર્તમાન આવૃત્તિ પ્લગઇન
 
 
 # This is a button informing the user that their plugin is up to date
@@ -38,12 +38,12 @@ current version plugin
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+પ્લગઇન ચિહ્ન
 
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+અજ્ઞાત
 
 
 # This is the string used to indicate that the plugin is vulnerable
@@ -53,7 +53,7 @@ unknown
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+જૂના
 
 
 # Main title
@@ -62,26 +62,26 @@ outdated
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Keeping your plugins up to date helps Firefox run safely and smoothly.
+તમારા પ્લગઈનો અદ્યતીત રાખવા મદદ કરે છે ફાયરફોક્સ સુરક્ષિત રીતે અને સરળતાથી ચાલે છે.
 
 
 # This is a title, with limited space; text inside the span tag is displayed bold
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+<span>ફાયરફોક્સ</span> + તમે
 
 
 # This is the subtitle for the newsletter subscription box
 ;Get Firefox tips, tricks, news and more
-Get Firefox tips, tricks, news and more
+ફાયરફોક્સ ટીપ્સ, યુક્તિઓ, સમાચાર અને વધુ મેળવો
 
 
 ;Currently the plugin check service is only available to Firefox users.
-Currently the plugin check service is only available to Firefox users.
+હાલમાં પ્લગઇન તપાસ સેવા માત્ર ફાયરફોક્સ વપરાશકર્તાઓ માટે ઉપલબ્ધ છે.
 
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
-Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
+પ્લગઇન્સ હંમેશા આપમેળે અપડેટ નથી. સુરક્ષિત રહેવા અને વિક્ષેપ વગર બ્રાઉઝ કરવા તમારું હવે તપાસો!
 
 
 ;Looks like you’re using an older version of Firefox.
@@ -89,11 +89,11 @@ Plugins don’t always update automatically. Check yours now to stay safe and br
 
 
 ;Plugin Status
-Plugin Status
+પ્લગઇન સ્થિતિ
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+કોઈ પ્લગઇન્સ મળી આવ્યા હતા. જો તમે માનતા હો કે આ એક ભૂલ છે, તો<a href="%(bugzilla_url)s">ભૂલ </a> ફાઇલ અને કૃપા કરીને અમને જણાવશો.
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -113,7 +113,7 @@ No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)
 
 
 ;Plugin
-Plugin
+પ્લગઇન
 
 
 ;Status
@@ -125,19 +125,19 @@ Plugin
 
 
 ;Outdated Plugins
-Outdated Plugins
+જૂના પ્લગિન્સ
 
 
 ;Unknown Plugins
-Unknown Plugins
+અજ્ઞાત પ્લગઇન્સ
 
 
 ;These plugins are up to date
-These plugins are up to date
+આ પ્લગઇન્સ અદ્યતીત છે
 
 
 ;Back to Top
-Back to Top
+ટોચ પર પાછા
 
 
 ;Frequently Asked Questions
@@ -178,7 +178,7 @@ Back to Top
 
 # alt image
 ;Screenshot of Add-Ons manager
-Screenshot of Add-Ons manager
+એડ-ઓન વ્યવસ્થાપક સ્ક્રીનશૉટ
 
 
 ;How can Firefox help me?
@@ -198,11 +198,11 @@ Firefox મને કેવી રીતે મદદ કરી શકે?
 
 
 ;Want to spread the word?
-Want to spread the word?
+શબ્દ ફેલાવો કરવા માંગો છો?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+તમારા મિત્રો ઓનલાઇન સુરક્ષિત રાખવા માટે મદદ! <a href="%(url)s">ફાયરફોક્સ સંલગ્ન </a> મુલાકાત લો તમારી સાઇટ માટે પ્લગઇન તપાસ બેજ મેળવવા માટે.
 
 
 ;How do I disable a plugin?
@@ -219,7 +219,7 @@ Firefox માં:
 
 # If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 ;Open the <span class="menu">menu</span>.
-Open the <span class="menu">menu</span>.
+<span class="menu">મેનૂ</span>ખોલો.
 
 
 ;Choose Add-ons.
@@ -231,7 +231,7 @@ Open the <span class="menu">menu</span>.
 
 
 ;Click on the drop down next to the plugin you wish to disable.
-Click on the drop down next to the plugin you wish to disable.
+ડ્રોપ પર ક્લિક કરો નીચે પ્લગઇન તમે આગળ નિષ્ક્રિય કરવા માંગો.
 
 
 ;Click on a plugin in the list.
@@ -239,7 +239,7 @@ Click on the drop down next to the plugin you wish to disable.
 
 
 ;Select "Never Activate" from the available choices.
-Select "Never Activate" from the available choices.
+ઉપલબ્ધ પસંદગીઓ માંથી "ક્યારેય સક્રિય કરો" પસંદ કરો.
 
 
 ;Click the Disable button.
@@ -251,11 +251,11 @@ Select "Never Activate" from the available choices.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
-Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
+સાવધાન: પ્લગઇન નિષ્ક્રિય અર્થ એ થાય કે તમે લાંબા સમય સુધી અમુક વસ્તુઓ કરવા માટે સમર્થ હશે. ઉદાહરણ તરીકે, જો તમારી પાસે ફ્લેશ અક્ષમ કરો છો, તમે કેટલાક સ્ટ્રીમિંગ વિડિઓ વેબસાઇટ્સ પર વિડિઓઝ જોવા માટે સમર્થ હશે.
 
 
 ;Mozilla Support
-Mozilla Support
+મોઝિલા આધાર
 
 
 ;Have more questions?
@@ -263,6 +263,6 @@ Mozilla Support
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
+વધુ સહાય માટે <a href="%(sumo_url)s">support.mozilla.org</a> મુલાકાત લો!
 
 

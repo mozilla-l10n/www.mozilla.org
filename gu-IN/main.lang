@@ -5,58 +5,58 @@
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>માટે</span> ડેસ્કટોપ
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>માટે</span> Android
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+<span>માટે</span> iOS
 
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OS
+OS {ok}
 
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+TV {ok}
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+ડેસ્કટોપ માટે &amp; લેપટોપ
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+ફોન માટે &amp; તકતી
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Overview
-Overview
+ઝાંખી
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
-Trusted
+વિશ્વસનીય
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Flexible
-Flexible
+લવચીક
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Fast
-Fast
+ઝડપી
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -66,43 +66,43 @@ Fast
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+ઉપકરણો
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+ભાગીદારો માટે
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+એપ્લિકેશન્સ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+ટ્રૅક કરો નહિ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+ટાઇલ્સ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+વ્યાજ ડેશબોર્ડ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+વિકાસકર્તા આવૃત્તિ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+ખાનગી બ્રાઉઝિંગ
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -112,32 +112,32 @@ Private Browsing
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+સમાચાર
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+વિકાસકર્તાઓ માટે
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+મારા ઉપકરણ શોધો
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
-Developers
+ડેવલપર્સ
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+સ્વતંત્ર બ્રાઉઝર પસંદ કરો
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+ફાયરફોક્સ બિન નફાકારક, બિન-કોર્પોરેટ, બિન-સમાધાન છે. ફાયરફોક્સ પસંદ કરી રહ્યા છીએ તે માત્ર એક બ્રાઉઝર પસંદ નથી છે. તે વ્યક્તિગત સ્વતંત્રતા માટે મત છે.
 
 
 ;Donate
@@ -202,7 +202,7 @@ Mozilla વિશે
 
 # Will replace "Other languages" for the footer's language switcher
 ;Page language:
-Page language:
+પૃષ્ઠ ભાષા:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -221,7 +221,7 @@ Page language:
 
 # Used as link in the footer
 ;Firefox Affiliates
-Firefox Affiliates
+ફાયરફોક્સ સંલગ્ન
 
 
 ;Legal Notices
@@ -265,7 +265,7 @@ Firefox Affiliates
 
 
 ;Previous
-Previous
+અગાઉના
 
 
 ;Next
@@ -321,7 +321,7 @@ MB {ok}
 
 # Link used to play again an animation or a video
 ;Replay
-Replay
+ફરીથી ચાલુ કરો
 
 
 ;Watch the video
@@ -329,11 +329,11 @@ Replay
 
 
 ;Replay the video
-Replay the video
+વિડીઓ ચાલુ કરો
 
 
 ;Share the video
-Share the video
+વિડિઓ શેર કરો
 
 
 ;WebM format
@@ -425,7 +425,7 @@ Firefox નો નવો દેખાવ અને અનુભવ માણો.
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+આ સાઇટમાં ફાળો આપો
 
 
 # Footer string
@@ -445,87 +445,87 @@ Contribute to this site
 
 # Footer item
 ;Partner with Us
-Partner with Us
+અમારી સાથે ભાગીદારી
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync
+સમન્વય
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-Desktop Add-ons
+ડેસ્કટોપ એડ-ઓન
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+Android એડ-ઑન્સ
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Themes
-Themes
+વિષય
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Desktop Support
+ડેસ્કટોપ આધાર
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+Android આધાર
 
 
 # Top menu item on firefox/update page
 ;Performance
-Performance
+કામગીરી
 
 
 # Top menu item on firefox/update page
 ;Technology
-Technology
+તકનીક
 
 
 # Top menu item on firefox/update page
 ;Privacy &amp; Security
-Privacy &amp; Security
+ગોપનીયતા &amp; સુરક્ષા
 
 
 # Top menu item on firefox/update page
 ;Releases
-Releases
+પ્રકાશિત પાડેલ
 
 
 # Top menu item on firefox/update page
 ;Firefox
-Firefox
+ફાયરફોક્સ
 
 
 # Top menu item on firefox/update page
 ;Firefox for Organizations
-Firefox for Organizations
+સંસ્થાઓ માટે ફાયરફોક્સ
 
 
 # Top menu item on firefox/update page
 ;Mobile Add-ons
-Mobile Add-ons
+મોબાઇલ એડ-ઓન
 
 
 # Top menu item on firefox/update page
 ;Mobile Support
-Mobile Support
+મોબાઇલ આધાર
 
 
 # Top menu item on firefox/update page
 ;Blog
-Blog
+બ્લોગ
 
 
 # Top menu item on firefox/update page
 ;About Firefox
-About Firefox
+ફાયરફોક્સ વિશે
 
 
 # Top menu item on firefox/update page
@@ -535,118 +535,118 @@ Mozilla સાથે જોડાવો
 
 # Top menu item on firefox/update page
 ;Participate
-Participate
+ભાગ
 
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
-Volunteer
+સ્વયંસેવક
 
 
 # Top menu item on firefox/update page
 ;Brand Toolkit
-Brand Toolkit
+બ્રાન્ડ ટૂલકિટ
 
 
 # Top menu item on firefox/update page
 ;Partnerships
-Partnerships
+ભાગીદારી
 
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-Get Mozilla updates
+મોઝિલા સુધારાઓ મેળવો
 
 
 # share button for social networks
 ;Share
-Share
+શેર
 
 
 # footer link
 ;Mozilla on Twitter
-Mozilla on Twitter
+Twitter પર મોઝિલા
 
 
 # footer link
 ;Firefox on Twitter
-Firefox on Twitter
+Twitter પર ફાયરફોક્સ
 
 
 # footer link
 ;Mozilla on Facebook
-Mozilla on Facebook
+ફેસબુક પર મોઝિલા
 
 
 # footer link
 ;Firefox on Facebook
-Firefox on Facebook
+ફેસબુક પર ફાયરફોક્સ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
-Forums
+જાહેર ચર્ચાનું સ્થાન
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+પેટન્ટસ્
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+નેતૃત્વ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
-Governance
+શાસન
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
-History
+ઇતિહાસ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Our Products
-Our Products
+અમારી પ્રોડક્ટ્સ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
-Software and other innovations designed to advance our mission.
+સોફ્ટવેર અને અન્ય અમારા મિશન આગળ કરવા માટે રચાયેલ નવીનતા.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Become a volunteer contributor in a number of different areas.
+વિવિધ વિસ્તારોમાં સંખ્યાબંધ એક સ્વયંસેવક યોગદાન આપનારા બનો.
 
 
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
-Menu
+યાદી
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Committed to you, your privacy and an open Web
+તમારા માટે, તમારી ગુપ્તતા માટે અને ઓપન વેબ માટે સમર્પિત
 
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Choose Independent
+સ્વતંત્ર પસંદ કરો
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+એક મુક્ત અને ઓપન ઈન્ટરનેટ બર્નિંગ તેજસ્વી માટે આવેગ રાખો! #ChooseIndependent. ફાયરફોક્સ પસંદ કરો:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+કૃપા કરીને JavaScript ચાલુ કરો આ પાનું યોગ્ય રીતે પ્રદર્શિત કરવા માટે.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -757,11 +757,11 @@ Firefox મદદ
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+ફાયરફોક્સ iOS માટે ટૂંક સમયમાં આવી રહ્યું છે! <a href="{url}">વધુ જાણવા માટે સાઇન અપ કરો</a>.
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+અભિનંદન. તમે અદ્યતન છો!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -776,7 +776,7 @@ Congrats. You’re up to date!
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -785,16 +785,16 @@ HTML
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+હું મોઝીલા મારા માહિતી સંભાળવા તરીકે સમજાવી સાથે ઠીક છું <a href="%s">આ ગોપનીયતા સૂચના</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+હું મોઝીલા મારા માહિતી સંભાળવા તરીકે સમજાવી સાથે ઠીક છું<a href="%s">આ ગોપનીયતા નીતિ</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+સાથે રાખવા <br> બધી વસ્તુઓ ફાયરફોક્સ.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -809,7 +809,7 @@ Firefox સમાચાર મેળવો
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+હમણાં સાઇન અપ કરો
 
 
 # Old newsletter subscription Button
@@ -830,11 +830,11 @@ Sign Up Now
 
 
 ;Thanks!
-Thanks!
+આભાર!
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+જો તમે પહેલાં મોઝિલા સંબંધિત ન્યૂઝલેટર માટે ઉમેદવારી પુષ્ટિ ન હોય તો તમે આવું કરવા માટે હોઈ શકે છે. તમારા ઇનબૉક્સમાં અથવા અમારી પાસેથી ઇમેઇલ માટે તમારા સ્પામ ફિલ્ટર તપાસો.
 
 
 # Obsolete string. Do not remove.

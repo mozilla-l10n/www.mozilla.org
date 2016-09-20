@@ -8,7 +8,7 @@
 
 # Page description (HTML attribute)
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
+ใช้ Flash? QuickTime? Java? ถ้าคุณใช้โปรแกรมเสริมเหล่านี้ในการทำให้ประสบการณ์การใช้ Firefox เจ๋งขึ้น จงตรวจสอบโปรแกรมเสริมของคุณ! โปรแกรมเหล่านี้อาจจะต้องมีการปรับรุ่น
 
 
 # Main title
@@ -37,7 +37,7 @@ Currently the plugin check service is only available to Firefox users on desktop
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+ไม่พบโปรแกรมเสริม ถ้าคุณเชื่อว่านี้คือข้อผิดพลาด <a href="%(bugzilla_url)s">โปรดรายงานบั๊ก</a> และให้เรารู้
 
 
 ;Common plugins you should check often.
@@ -70,14 +70,6 @@ These plugins are up to date. No action required.
 
 ;These plugins have an unknown status. Follow the links to learn more.
 These plugins have an unknown status. Follow the links to learn more.
-
-
-;<span>Firefox</span> + You
-<span>Firefox</span> + You
-
-
-;Get Firefox tips, tricks, news and more
-Get Firefox tips, tricks, news and more
 
 
 ;Common Plugin Questions
@@ -137,7 +129,7 @@ We automatically detected your plugins above. To view all the plugins you have i
 
 
 ;Open the <span class="menu">menu</span>.
-Open the <span class="menu">menu</span>.
+เปิด <span class="menu">เมนู</span>
 
 
 ;Choose Add-ons.
@@ -157,11 +149,11 @@ In Firefox for desktop:
 
 
 ;Click on the drop down next to the plugin you wish to disable.
-Click on the drop down next to the plugin you wish to disable.
+คลิกบนรายการแบบหล่นลงที่อยู่ถัดจากโปรแกรมเสริมเพื่อปิดการใช้งาน
 
 
 ;Select "Never Activate" from the available choices.
-Select "Never Activate" from the available choices.
+เลือก "ไม่เปิดใช้งาน" จากตัวเลือกที่มีอยู่
 
 
 ;Caution: Disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
@@ -194,7 +186,7 @@ up to date
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+ล้าสมัย
 
 
 # This is the string used to indicate that the plugin is vulnerable

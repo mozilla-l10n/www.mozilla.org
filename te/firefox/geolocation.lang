@@ -4,7 +4,7 @@
 
 
 ;Geolocation in Firefox
-ఫైర్‌ఫాక్స్ నందు భౌగోళికస్థలము
+Firefox నందు భౌగోళికస్థలము
 
 
 ;Location-Aware Browsing
@@ -12,7 +12,7 @@
 
 
 ;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
-ఫైర్‌ఫాక్స్ అనునది వెబ్‌సైటులకు మీరు యెచటవున్నారో తెలుపగలదు అలా మీరు మరింత సారూప్యమైన మరియు వుపయోగకరమైన సమాచారాన్ని కనుగొనగలరు. ఇది మీ గోప్యతకు భంగంవాటిల్లకుండా &ndash; వెబ్‌ను మరింత తెలివిగా వాడుకొనునట్లు చేస్తుంది. <a href="%(url)s" id="%(id)s" style="%(style)s">ప్రయత్నించి చూడండి!</a>
+Firefox అనునది వెబ్‌సైటులకు మీరు యెచటవున్నారో తెలుపగలదు అలా మీరు మరింత సారూప్యమైన మరియు వుపయోగకరమైన సమాచారాన్ని కనుగొనగలరు. ఇది మీ గోప్యతకు భంగంవాటిల్లకుండా &ndash; వెబ్‌ను మరింత తెలివిగా వాడుకొనునట్లు చేస్తుంది. <a href="%(url)s" id="%(id)s" style="%(style)s">ప్రయత్నించి చూడండి!</a>
 
 
 ;Frequently asked Questions
@@ -32,7 +32,7 @@
 
 
 ;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
-ఈ సేవ పూర్తిగా నీ యిష్టానుసారం(ఆప్షనల్) &ndash; ఫైర్‌ఫాక్స్ మీ స్థానాన్ని మీ అనుమతి లేకుండా పంచుకోదు &ndash; మరియు దానిని మీ గోప్యతకు భంగంవాటిల్లకుండా చేస్తుంది. మరియు, యితర ఫైర్‌ఫాక్స్ మూలకాలవలె, వెబ్ అభివృద్దికారులు సులువుగా అవలంబించుట కొరకు దీనిని బాహాటపరచిన ప్రమాణాలు(ఓపెన్ స్టాండర్డ్స్) వుపయోగించి నిర్మించబడమైంది.
+ఈ సేవ పూర్తిగా నీ యిష్టానుసారం &ndash; Firefox మీ స్థానాన్ని మీ అనుమతి లేకుండా పంచుకోదు &ndash; మరియు దానిని మీ గోప్యతకు భంగంవాటిల్లకుండా చేస్తుంది. మరియు, యితర Firefox మూలకాలవలె, వెబ్ అభివృద్దికారులు సులువుగా అవలంబించుట కొరకు దీనిని బాహాటపరచిన ప్రమాణాలు వుపయోగించి నిర్మించబడమైంది.
 
 
 ;How does it work?
@@ -40,15 +40,15 @@
 
 
 ;When you visit a location-aware website, Firefox will ask you if you want to share your location.
-స్థలాన్ని-తెలుపుతూ చేసే అన్వేషణను వుపయోగించే వెబ్‌సైటును మీరు దర్శించినప్పుడు, మీరు మీ స్థలాన్ని తెలుపగోరుచున్నారా అని ఫైర్‌ఫాక్స్ అడుగుతుంది.
+స్థలాన్నితెలుపుతూ చేసే అన్వేషణను వుపయోగించే వెబ్‌సైటును మీరు దర్శించినప్పుడు, మీరు మీ స్థలాన్ని తెలుపగోరుచున్నారా అని Firefox అడుగుతుంది.
 
 
 ;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
-మీకు అంగీకారమైతే, ఫైర్‌ఫాక్స్ దగ్గరలోని వైర్‌లెస్ యాక్సెస్‌ స్థానాలను మరియు మీ కంప్యూటరుయొక్క IP చిరునామాను సేకరిస్తుంది. అప్పుడు మీరున్న చోటుపై అంచానాకు వచ్చుటకు ఫైర్‌ఫాక్స్ ఈ సమాచారాన్ని అప్రమేయ భౌగోళికస్థల సేవాదారి, గూగుల్ స్థల సేవలు(గూగుల్ లొకేషన్ సర్వీసెస్)కు పంపుతుంది. అప్పుడు అభ్యర్దించిన ఆ వెబ్‌సైటుకు అంచనా వేసిన స్థల సమాచారమును అందిస్తుంది.
+మీకు అంగీకారమైతే, Firefox దగ్గరలోని వైర్‌లెస్ యాక్సెస్‌ స్థానాలను మరియు మీ కంప్యూటరుయొక్క IP చిరునామాను సేకరిస్తుంది. అప్పుడు మీరున్న చోటుపై అంచానాకు వచ్చుటకు Firefox ఈ సమాచారాన్ని అప్రమేయ భౌగోళికస్థల సేవాదారి,Google Location Services కు పంపుతుంది. అప్పుడు అభ్యర్దించిన ఆ వెబ్‌సైటుకు అంచనా వేసిన స్థల సమాచారమును అందిస్తుంది.
 
 
 ;If you say that you do not consent, Firefox will not do anything.
-మీరు అంగీకరించకపోతే, ఫైర్‌ఫాక్స్ ఏమీ చేయదు.
+మీరు అంగీకరించకపోతే, Firefox ఏమీ చేయదు.
 
 
 ;How accurate are the locations?
@@ -64,11 +64,11 @@
 
 
 ;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
-మిమ్ములను గోప్యంగా వుంచుట మాకెంతో ప్రధానము, మీ అనుమతి లేకుండా ఫైర్‌ఫాక్స్ యెప్పుడూ స్థలసమాచారాన్ని పంచుకొనదు. మీ సమాచారాన్ని అభ్యర్ధించే పేజీను మీరు దర్శించినప్పుడు, ఆ సమాచారము వెబ్‌సైటు మరియు మా సేవాదారితో పంచుకొనుటకు ముందుగానే మీరు అడుగబడతారు.
+మిమ్ములను గోప్యంగా వుంచుట మాకెంతో ప్రధానము, మీ అనుమతి లేకుండా Firefox యెప్పుడూ స్థలసమాచారాన్ని పంచుకొనదు. మీ సమాచారాన్ని అభ్యర్ధించే పేజీను మీరు దర్శించినప్పుడు, ఆ సమాచారము వెబ్‌సైటు మరియు మా సేవాదారితో పంచుకొనుటకు ముందుగానే మీరు అడుగబడతారు.
 
 
 ;By default, Firefox uses Google Location Services to determine your location by sending:
-అప్రమేయంగా, ఫైర్‌ఫాక్స్ గూగుల్ స్థల సేవలకు ఈ క్రింది వివరాలనుపంపి మీ స్థానాన్ని నిర్ణయిస్తుంది:
+అప్రమేయంగా, Firefox Google Location Services ఈ క్రింది వివరాలనుపంపి మీ స్థానాన్ని నిర్ణయిస్తుంది:
 
 
 ;your computer’s IP address,

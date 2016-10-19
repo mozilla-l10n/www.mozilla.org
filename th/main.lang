@@ -25,7 +25,7 @@ OS {ok}
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+TV {ok}
 
 
 # Used for the navigation menu, points to /firefox/channel
@@ -51,17 +51,17 @@ For phones &amp; tablets
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
-Trusted
+เชื่อถือได้
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Flexible
-Flexible
+มีความยืดหยุ่น
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Fast
-Fast
+เร็ว
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -81,12 +81,12 @@ For partners
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+แอพ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+Do Not Track {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -107,7 +107,7 @@ Developer Edition
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+การท่องเว็บแบบส่วนตัว
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -207,7 +207,7 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 
 # Will replace "Other languages" for the footer's language switcher
 ;Page language:
-Page language:
+ภาษาของหน้า:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -270,7 +270,7 @@ Firefox Affiliates
 
 
 ;Previous
-Previous
+ก่อนหน้า
 
 
 ;Next
@@ -326,7 +326,7 @@ MB {ok}
 
 # Link used to play again an animation or a video
 ;Replay
-Replay
+เล่นซ้ำ
 
 
 ;Watch the video
@@ -334,11 +334,11 @@ Replay
 
 
 ;Replay the video
-Replay the video
+เล่นวิดีโอซ้ำ
 
 
 ;Share the video
-Share the video
+แบ่งปันวิดีโอ
 
 
 ;WebM format
@@ -425,12 +425,12 @@ Firefox สำหรับอุปกรณ์เคลื่อนที่
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-ส่วนหนึ่งของเนื้อหานี้นั้นสงวนลิขสิทธิ์ 1998–%(current_year)s โดยผู้มีส่วมร่วมของ mozilla.org แต่ละคน เนื้อหาอยู่ภายใต้ <a href="%(url)s">สัญญาอนุญาตครีเอทีฟคอมมอนส์</a>
+ส่วนหนึ่งของเนื้อหานี้นั้นสงวนลิขสิทธิ์ 1998–%(current_year)s โดยผู้มีส่วนร่วมของ mozilla.org แต่ละคน เนื้อหาอยู่ภายใต้ <a href="%(url)s">สัญญาอนุญาตครีเอทีฟคอมมอนส์</a>
 
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+มีส่วนร่วมกับหน้านี้
 
 
 # Footer string
@@ -455,7 +455,7 @@ Contribute to this site
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync
+Sync {ok}
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -465,7 +465,7 @@ Sync
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+ส่วนเสริมสำหรับระบบ Android
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -545,7 +545,7 @@ Firefox สำหรับองค์กร
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
-Volunteer
+อาสาสมัคร
 
 
 # Top menu item on firefox/update page
@@ -640,7 +640,7 @@ Committed to you, your privacy and an open Web
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Choose Independent
+เลือกอิสระ
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters

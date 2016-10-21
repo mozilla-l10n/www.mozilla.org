@@ -1,6 +1,6 @@
 ## NOTE: Used for the new http://www-dev.allizom.org/firefox/new
 ## URL: https://www-dev.allizom.org/%LOCALE%/firefox/new/
-
+## firefox_new_pre_release ##
 
 ;Free Web Browser
 Free Web Browser
@@ -28,6 +28,11 @@ You’re browsing freely with the latest version of Firefox.
 
 ;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
 <a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
+
+
+## TAG: firefox_new_pre_release
+;You’re using a pre-release version of Firefox.
+You’re using a pre-release version of Firefox.
 
 
 ;Congrats! You’re using the latest version of Firefox.

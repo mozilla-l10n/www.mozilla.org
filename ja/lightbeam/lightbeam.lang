@@ -22,7 +22,7 @@ Lightbeam for Firefox {ok}
 
 
 ;Lightbeam is a Firefox add-on that uses interactive visualizations to show you the first and third party sites you interact with on the Web.
-Lightbeam は Firefox 向けのアドオンで、ユーザーが直接やりとりをする Web サイトとサードパーティとのつながりをインタラクティブに可視化します。
+Lightbeam は Firefox 向けのアドオンで、ユーザーが直接やりとりをするウェブサイトとサードパーティとのつながりをインタラクティブに可視化します。
 
 
 ;Shine a Light on Who’s Watching You
@@ -34,7 +34,7 @@ Lightbeam は Firefox 向けのアドオンで、ユーザーが直接やりと�
 
 
 ;As you browse, Lightbeam reveals the full depth of the Web today, including parts that are not transparent to the average user.
-Web の閲覧を行うと、Lightbeam によって、一般のユーザーには見えない部分も含めて Web の現在の様子が深く掘り下げられ、明らかになります。
+ウェブの閲覧を行うと、Lightbeam によって、一般のユーザーには見えない部分も含めてウェブの現在の様子が深く掘り下げられ、明らかになります。
 
 
 ;Download Lightbeam for Firefox
@@ -62,7 +62,7 @@ Lightbeam によってこれらのイベントがグラフに可視化され、�
 
 
 ;Lightbeam will continue to add to your graph as you browse the Web. You can stop Lightbeam at any time by disabling it or uninstalling the add-on. Your Lightbeam data can be easily saved or deleted.
-ユーザーが Web の閲覧を行うと、そのサイトの情報が Lightbeam によってユーザーのグラフに継続的に追加されます。Lightbeam は無効にするかアンインストールすることによって、いつでも停止できます。Lightbeam のデータは保存や削除も簡単にできます。
+ユーザーがウェブの閲覧を行うと、そのサイトの情報が Lightbeam によってユーザーのグラフに継続的に追加されます。Lightbeam は無効にするかアンインストールすることによって、いつでも停止できます。Lightbeam のデータは保存や削除も簡単にできます。
 
 
 ;Tracking & privacy
@@ -94,7 +94,7 @@ Lightbeam のデータベースでは、Lightbeam アドオンのユーザーか
 
 
 ;We’re building this crowd-sourced directory to encourage users to visualize the state of tracking as an aggregate and to examine relationships that exist on the Web.
-Mozilla はこのクラウドソースのディレクトリを構築することによって、追跡の全体像を可視化し、Web 上に存在するつながりを検証する活動を推進しようとしています。
+Mozilla はこのクラウドソースのディレクトリを構築することによって、追跡の全体像を可視化し、ウェブ上に存在するつながりを検証する活動を推進しようとしています。
 
 
 ;Visualize your data
@@ -102,7 +102,7 @@ Mozilla はこのクラウドソースのディレクトリを構築すること
 
 
 ;After you download and install the Lightbeam add-on to Firefox, it will begin to create a real time visualization of the websites you visit and all the third parties that are also active on those pages.
-Lightbeam アドオンをダウンロードして Firefox にインストールすると、ユーザーがアクセスする Web サイトと、そのページでそのときにアクティブなすべてのサードパーティの可視化が開始されます。
+Lightbeam アドオンをダウンロードして Firefox にインストールすると、ユーザーがアクセスするウェブサイトと、そのページでそのときにアクティブなすべてのサードパーティの可視化が開始されます。
 
 
 ;Analyze your connections
@@ -152,12 +152,12 @@ Lightbeam が機能する仕組み
 
 # New string (May 15) to reflect features that have been removed from the add-on.
 ;Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
-Lightbeam は、それぞれのサードパーティがどのようにつながっているかを、グラフとリストの 2つの方式で可視化します。これらを通して、私たちは Web を普段とは異なった形で見ることができます。
+Lightbeam は、それぞれのサードパーティがどのようにつながっているかを、グラフとリストの 2つの方式で可視化します。これらを通して、私たちはウェブを普段とは異なった形で見ることができます。
 
 
 # Obsolete string, do not remove
 ;Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
-Lightbeam では、Graph (グラフ)、Clock (時計)、List (リスト)という 3 つの異なるタイプのインタラクティブな可視化表示を使用して個々のサードパーティを時間の経過と空間に応じて調べ、それらのサードパーティがどこで自分のオンライン行動につながっているかを特定できます。また、ユーザーはさまざまな方法でこの独特の Web 可視化に関わることができます。
+Lightbeam では、Graph (グラフ)、Clock (時計)、List (リスト)という 3 つの異なるタイプのインタラクティブな可視化表示を使用して個々のサードパーティを時間の経過と空間に応じて調べ、それらのサードパーティがどこで自分のオンライン行動につながっているかを特定できます。また、ユーザーはさまざまな方法でこの独特のウェブ可視化に関わることができます。
 
 
 ;The default Graph view provides a real time visualization of every site you visit and all third party requests made from your browser.
@@ -189,7 +189,7 @@ Lightbeam は 2011 年 7 月に、Mozilla のソフトウェア開発者 <a href
 
 
 ;Inspired by the book, <em>The Filter Bubble</em>, Atul created an experimental add-on to visualize browsing behavior and data collection on the Web.
-『<em>The Filter Bubble</em>』 (邦題『閉じこもるインターネット』) という本を読んでアイディアを得た Varma は、Web 上の閲覧行動とデータ収集を可視化する実験的なアドオンを開発しました。
+『<em>The Filter Bubble</em>』 (邦題『閉じこもるインターネット』) という本を読んでアイディアを得た Varma は、ウェブ上の閲覧行動とデータ収集を可視化する実験的なアドオンを開発しました。
 
 
 ;In February 2012, Gary Kovacs, Mozilla CEO at the time, introduced the Collusion add-on in a <a href="%s">TED talk</a> (now one of the most watched TED talks of all time) about exposing online tracking.
@@ -221,7 +221,7 @@ Mozilla は Lightbeam アドオンによって、コミュニティが調査を�
 
 
 ;Lightbeam is one step in a larger, concerted effort by Mozilla and its partners to provide Web users with greater control and transparency of their personal data.
-Lightbeam は、Web ユーザーに個人データの高度なコントロールと透明性を提供するために Mozilla とパートナー組織が協力して取り組んでいる、より重要な活動をさらに一歩進めるものです。
+Lightbeam は、ウェブユーザーに個人データの高度なコントロールと透明性を提供するために Mozilla とパートナー組織が協力して取り組んでいる、より重要な活動をさらに一歩進めるものです。
 
 
 ;Learn more about online tracking and privacy

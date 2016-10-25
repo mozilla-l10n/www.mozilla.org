@@ -25,12 +25,12 @@ OS {ok}
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+TV {ok}
 
 
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
-Pre-release downloads
+release এর আগের downloads
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -207,7 +207,7 @@ Mozilla পরিচিতি
 
 # Will replace "Other languages" for the footer's language switcher
 ;Page language:
-Page language:
+পেজ এর ভাষা:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -595,7 +595,7 @@ Mozilla আপডেট পান
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+পেটেন্টগুলি
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -790,7 +790,7 @@ HTML {ok}
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+আমি Mozilla এর সাথে সহমত যেভাবে আমার পরিচয় ব্যবহার হচ্ছে যা বলা আছে <a href="%s">এই গোপনীয়তা নীতিতে </a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>

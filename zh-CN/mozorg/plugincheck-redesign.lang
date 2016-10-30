@@ -9,16 +9,16 @@
 
 # Page description (HTML attribute)
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-在使用 Flash？QuickTime？Java？如果您正在借助它们提升 Firefox 的浏览体验，请检查您的插件！它们可能需要更新了。
+在使用 Flash？QuickTime？Java？如果您正在借助它们提升 Firefox 的浏览体验，快来检查一下这些插件是否需要更新吧。
 
 
 # Main title
 ;Check Your Plugins
-检查你的插件
+检查插件更新
 
 
 ;Plugins power the videos, animations and games in your Firefox. Keep an eye on their status and keep them up to date.
-插件驱动了 Firefox 上的视频、动画、游戏等功能。请多注意它们的更新状态，时时更新。
+插件带来了 Firefox 上的视频、动画、游戏等功能。建议您多多留意它们的更新状态，及时更新。
 
 
 ;Be sure to restart your Firefox after making all recommended updates.
@@ -30,7 +30,7 @@
 
 
 ;Update now to keep your plugins running smoothly and securely.
-立即更新以保证您顺畅、安全的运行插件。
+立即更新，确保您的插件能安全而顺畅地工作。
 
 
 ;Currently the plugin check service is only available to Firefox users on desktop and Android.
@@ -38,11 +38,11 @@
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-未找到插件。如果你认为这是个错误，<a href="%(bugzilla_url)s">请开一个 bug</a> 告诉我们。
+找不到插件。如果你认为这是个错误，<a href="%(bugzilla_url)s">请开一个 bug</a> 告诉我们。
 
 
 ;Common plugins you should check often.
-你应该经常检查常见插件。
+建议您常常检查插件是否有更新。
 
 
 ;All plugins
@@ -50,7 +50,7 @@
 
 
 ;These plugins are out of date. Please update.
-这些插件已过时。请更新。
+这些插件过于老旧，请更新。
 
 
 ;Plugin
@@ -70,7 +70,7 @@
 
 
 ;These plugins have an unknown status. Follow the links to learn more.
-这些插件的状态未知。跟随链接，了解更多。
+这些插件的状态未知。请访问下面的网址，进一步了解。
 
 
 ;Common Plugin Questions
@@ -90,7 +90,7 @@
 
 
 ;They’re built outside of Firefox by companies like Adobe Systems and Apple.
-插件由例如 Adobe、苹果等公司制作，而不是 Firefox。
+插件由 Adobe、苹果等公司制作，而非 Firefox 附带。
 
 
 ;Why should I update my plugins?
@@ -98,11 +98,11 @@
 
 
 ;Out of date plugins can increase your risk for attack by malware, viruses and other security threats.
-过时的插件将增加您受到恶意软件、病毒或其他安全威胁攻击的风险。
+过旧的插件会增加您受恶意软件、病毒和其他安全性问题威胁的风险。
 
 
 ;They can also cause interruptions that negatively affect your browsing experience.
-也可能导致您的浏览体验遇到负面状态，例如中断。
+这还可能导致您上网时感觉电脑非常卡顿。
 
 
 ;Updated plugins keep your browser working smoothly and safely.
@@ -110,7 +110,7 @@
 
 
 ;Plugins don’t always update automatically so it’s up to you from time to time.
-插件不一定会自动更新，所以要注意观察。
+插件不一定会自动更新，所以需要您留意。
 
 
 ;How can Firefox help me?
@@ -118,7 +118,7 @@ Firefox 能帮我做什么？
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to keep your Firefox safe.
-在未来，Firefox 可以为您更新。但在现在，您应该定期检查本页和更新您的插件，以保证您使用 Firefox 时的安全性。
+在未来，Firefox 可以为您更新插件。但在现在，您应该定期检查本页，更新您的插件，以保证您使用 Firefox 时的安全性。
 
 
 ;How can I see which plugins I have installed in my Firefox?
@@ -126,7 +126,7 @@ Firefox 能帮我做什么？
 
 
 ;We automatically detected your plugins above. To view all the plugins you have installed in Firefox, follow these steps in your desktop browser:
-我们在上面已自动检测您的插件。要查看已在您的 Firefox 中安装的插件的列表，在您的桌面版浏览器中按下列步骤操作：
+上面是我们为您检测出的插件。要查看已在您的 Firefox 中安装了哪些插件，请在您的桌面版浏览器中按下列步骤操作：
 
 
 ;Open the <span class="menu">menu</span>.
@@ -158,7 +158,7 @@ Firefox 能帮我做什么？
 
 
 ;Caution: Disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
-注意：禁用插件将阻止使用特定类型的内容。比如，如果您禁用 Flash，您将不能观看许多网站上的流媒体视频。
+注意：禁用插件将使您无法进行某些操作。比如，如果您禁用 Flash，您将不能观看许多网站上的流媒体视频。
 
 
 ;Back to Top
@@ -177,7 +177,7 @@ Firefox 能帮我做什么？
 
 # This is the string used to indicate that the plugin is up to date
 ;up to date
-已是最新
+最新
 
 
 # This is the string used to indicate that the plugin is unknown
@@ -187,11 +187,11 @@ Firefox 能帮我做什么？
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-已过期
+过旧
 
 
 # This is the string used to indicate that the plugin is vulnerable
 ;vulnerable
-漏洞
+有漏洞
 
 

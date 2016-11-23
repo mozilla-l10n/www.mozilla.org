@@ -92,3 +92,35 @@ Mozilla ದಲ್ಲಿ ಕೆಲಸ ಮಾಡುವುದರ ಲಾಭಗಳ �
 Firefox ಮತ್ತು Mozilla ಉತ್ಪನ್ನಗಳ ಬಗ್ಗೆ ನಿಮ್ಮಲ್ಲಿರುವ ಎಲ್ಲ ಪ್ರಶ್ನೆಗಳಿಗೆ ನಮ್ಮ ಬೆಂಬಲದ ತಂಡದಿಂದ ಉತ್ತರ ಪಡೆಯಿರಿ.
 
 
+# This will be used on a home page takeover starting from Dec 1st.
+# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
+;Proudly non-profit. <br>Donate before Dec 31.
+ಹೆಮ್ಮೆಯ ಲಾಭರಹಿತ ಸಂಸ್ಥೆ. <br>31 ಡಿಸೆಂಬರ್ ಒಳಗೆ ದೇಣಿಗೆ ನೀಡಿ.
+
+
+# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
+# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
+;$%(sum)s
+$%(sum)s {ok}
+
+
+# Take over form
+;Enter your own amount
+ನಿಮ್ಮ ಇಚ್ಛೆಯ ಮೊತ್ತ ನಮೂದಿಸಿ
+
+
+# Take over form: radio button for monthly contributions
+;Monthly
+ಮಾಸಿಕ
+
+
+# Take over form: radio button for one-time contributions
+;One-time
+ಒಂದು ಬಾರಿ
+
+
+# Take over form: button to submit the donation form
+;Donate Now
+ದೇಣಿಗೆ ನೀಡಿ
+
+

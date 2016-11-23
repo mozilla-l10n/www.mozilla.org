@@ -1,3 +1,4 @@
+## eoy_fundraising_takeover ##
 ## NOTE: demo server at https://bedrock-demo-agibson.us-west.moz.works/
 ## URL: https://bedrock-demo-agibson.us-west.moz.works/%LOCALE%
 
@@ -91,3 +92,41 @@ Need help?
 
 ;Get answers to your questions about Firefox and all Mozilla products from our support team.
 Get answers to your questions about Firefox and all Mozilla products from our support team.
+
+
+## TAG: eoy_fundraising_takeover
+# This will be used on a home page takeover starting from Dec 1st.
+# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
+;Proudly non-profit. <br>Donate before Dec 31.
+Proudly non-profit. <br>Donate before Dec 31.
+
+
+## TAG: eoy_fundraising_takeover
+# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
+# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
+;$%(sum)s
+$%(sum)s
+
+
+## TAG: eoy_fundraising_takeover
+# Take over form
+;Enter your own amount
+Enter your own amount
+
+
+## TAG: eoy_fundraising_takeover
+# Take over form: radio button for monthly contributions
+;Monthly
+Monthly
+
+
+## TAG: eoy_fundraising_takeover
+# Take over form: radio button for one-time contributions
+;One-time
+One-time
+
+
+## TAG: eoy_fundraising_takeover
+# Take over form: button to submit the donation form
+;Donate Now
+Donate Now

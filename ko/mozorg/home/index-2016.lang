@@ -93,3 +93,35 @@ Mozilla에서 근무하는 장점을 살펴보고 전세계에 열려있는 구�
 고객 지원 봉사자로 부터 Firefox와 Mozilla에 대한 질문에 대한 답을 받을 수 있습니다.
 
 
+# This will be used on a home page takeover starting from Dec 1st.
+# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
+;Proudly non-profit. <br>Donate before Dec 31.
+비영리 기부하기 <br>12월 31일까지
+
+
+# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
+# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
+;$%(sum)s
+$%(sum)s {ok}
+
+
+# Take over form
+;Enter your own amount
+기부액 입력
+
+
+# Take over form: radio button for monthly contributions
+;Monthly
+매월
+
+
+# Take over form: radio button for one-time contributions
+;One-time
+한번
+
+
+# Take over form: button to submit the donation form
+;Donate Now
+기부하기
+
+

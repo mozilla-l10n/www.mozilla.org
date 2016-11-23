@@ -93,3 +93,35 @@ Web 上的游戏
 我们的支持团队可以回答您关于 Firefox 及所有 Mozilla 产品的疑问。
 
 
+# This will be used on a home page takeover starting from Dec 1st.
+# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
+;Proudly non-profit. <br>Donate before Dec 31.
+自豪的非营利。<br>在12月31日前捐款。
+
+
+# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
+# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
+;$%(sum)s
+$%(sum)s {ok}
+
+
+# Take over form
+;Enter your own amount
+输入您自定的金额
+
+
+# Take over form: radio button for monthly contributions
+;Monthly
+每月
+
+
+# Take over form: radio button for one-time contributions
+;One-time
+一次
+
+
+# Take over form: button to submit the donation form
+;Donate Now
+立即捐款
+
+

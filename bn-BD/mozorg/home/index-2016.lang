@@ -93,3 +93,35 @@ Lean Data Toolkit পরখ করুন
 ফায়ারফক্স এবং মজিলা পণ্য সম্পর্কে আপনার প্রশ্নের সকল উত্তর পাবেন আমাদের সাপোর্ট টিমের কাছে।
 
 
+# This will be used on a home page takeover starting from Dec 1st.
+# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
+;Proudly non-profit. <br>Donate before Dec 31.
+গর্বের সাথে একটি অবাণিজ্যিক প্রতিষ্ঠান। <br> ডিসেম্বর ৩১ এর আগেই দান করুন।
+
+
+# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
+# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
+;$%(sum)s
+$%(sum)s {ok}
+
+
+# Take over form
+;Enter your own amount
+আপনার টাকার পরিমাণ লিখুন
+
+
+# Take over form: radio button for monthly contributions
+;Monthly
+মাসিক
+
+
+# Take over form: radio button for one-time contributions
+;One-time
+একবার
+
+
+# Take over form: button to submit the donation form
+;Donate Now
+এখনই দান করুন
+
+

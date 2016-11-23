@@ -93,3 +93,35 @@ Help nedich?
 Krij antwurden op jo fragen oer Firefox en alle Mozilla-produkten fan ús stipeteam.
 
 
+# This will be used on a home page takeover starting from Dec 1st.
+# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
+;Proudly non-profit. <br>Donate before Dec 31.
+Grutsk non-profit. <br>Donearje foar 31 des.
+
+
+# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
+# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
+;$%(sum)s
+€ %(sum)s
+
+
+# Take over form
+;Enter your own amount
+Fier jo eigen bedrach yn
+
+
+# Take over form: radio button for monthly contributions
+;Monthly
+Moanliks
+
+
+# Take over form: radio button for one-time contributions
+;One-time
+Ien kear
+
+
+# Take over form: button to submit the donation form
+;Donate Now
+No donearje
+
+

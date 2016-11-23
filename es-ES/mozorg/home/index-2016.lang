@@ -93,3 +93,35 @@ Infórmate de las ventajas de trabajar en Mozilla y echa un vistazo a las vacant
 Obtén respuestas de nuestro equipo de ayuda a todas tus preguntas sobre Firefox y todos los productos Mozilla.
 
 
+# This will be used on a home page takeover starting from Dec 1st.
+# Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
+;Proudly non-profit. <br>Donate before Dec 31.
+Sin fines de lucro y orgullosos de ello. <br>Dona antes del 31 de dic.
+
+
+# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
+# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
+;$%(sum)s
+%(sum)s&nbsp;€
+
+
+# Take over form
+;Enter your own amount
+Indicar tu propia cantidad
+
+
+# Take over form: radio button for monthly contributions
+;Monthly
+Al mes
+
+
+# Take over form: radio button for one-time contributions
+;One-time
+Una vez
+
+
+# Take over form: button to submit the donation form
+;Donate Now
+Donar ya
+
+

@@ -18,7 +18,7 @@
 
 
 ;Hi. We’re Mozilla, the proudly non-profit champions of the Internet, helping to keep it healthy, open and accessible to all.
-Здравейте! Ние сме Mozilla, организацията с нестопанска цел - поддръжници на Мрежата, поддържайки я в добро здраве, отворена и достъпна за всички.
+Здравейте! Ние сме Mozilla, организацията с нестопанска цел - поддръжници на Мрежата, поддържайки я в добро здраве, отворена и достъпна за всеки.
 
 
 ;Our impact
@@ -104,27 +104,27 @@ Proudly non-profit. <br>Donate before Dec 31.
 # This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
 # You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
-$%(sum)s
+€%(sum)s
 
 
 # Take over form
 ;Enter your own amount
-Enter your own amount
+Въведете друга сума
 
 
 # Take over form: radio button for monthly contributions
 ;Monthly
-Monthly
+Ежемесечно
 
 
 # Take over form: radio button for one-time contributions
 ;One-time
-One-time
+Еднократно
 
 
 # Take over form: button to submit the donation form
 ;Donate Now
-Donate Now
+Даряване
 
 
 # This is used as a link to dismiss the fundraising take over and continue to mozilla.org website

@@ -1,26 +1,24 @@
-## active ##
-## firefox_sync_non_fx ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
 ;Keep your Firefox in sync
-Hold Firefox i Sync
+Keep your Firefox in sync
 
 
 ;Ready, Set, Sync
-Klar, ferdig, sync
+Ready, Set, Sync
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-Du er registrert og klar til å få tilgang til <em>din</em> Firefox hvor som helst, når som helst.
+You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
 
 
 ;Take your Web with you
-Ta med deg webben
+Take your Web with you
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Synkroniser Firefox samme hvor du bruker den for å få tilgang til bokmerker, passord, faner og mer fra en smarttelefon, nettbrett eller datamaskin.
+Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
 
 
 ;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
@@ -28,11 +26,11 @@ Sync your bookmarks, passwords, tabs and more using your Firefox Account, and ac
 
 
 ;It looks like you’re running an older version of Firefox.
-Det ser ut som du bruker en eldre versjon av Firefox.
+It looks like you’re running an older version of Firefox.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-Den nye versjonen av Sync virker bare med den nyeste versjonen av Firefox
+The new version of Sync only works with the latest version of Firefox
 
 
 ;Soon you’ll be able to use Sync on your iOS device
@@ -40,7 +38,7 @@ Soon you’ll be able to use Sync on your iOS device
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync er bare en av de snedige funksjonene du får med Firefox. Oppdag flere av dem!
+Sync is just one of the great features you’ll only get with Firefox. Discover them all!
 
 
 ;Now sync Firefox with your iOS and Android devices.
@@ -49,11 +47,11 @@ Now sync Firefox with your iOS and Android devices.
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync er bare en av de snedige funksjonene du får med Firefox.
+Sync is just one of the great features you’ll only get with Firefox.
 
 
 ;Download Firefox for Android
-Last ned Firefox for Android
+Download Firefox for Android
 
 
 ;Get started with Sync
@@ -69,36 +67,36 @@ Last ned Firefox
 
 
 ;Get started with Sync in four easy steps:
-Kom i gang med Sync i fire enkle steg:
+Get started with Sync in four easy steps:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Åpne <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menyen</a> øverst til høyre i Firefox og velg “<strong>Logg inn på Sync.</strong>”
+Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Trykk på “<strong>Begynn</strong>” i fanen som åpnes.
+Click “<strong>Get started</strong>” in the tab that opens.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Skriv inn en e-postadresse og et passord for å “<strong>opprette en Firefox-konto.</strong>”
+Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Trykk på “<strong>Neste</strong>” for å få en bekreftelse sendt til e-postadressen din.
+Click “<strong>Next</strong>” to get a verification sent to your email.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-Etter du har lest e-posten og trykket på bekreftelseslenken, er du klar! Firefox vil automatisk synkronisere i bakgrunnen fra nå av.
+After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
 
 
 ;Get more detailed instructions.
-Få detaljerte instruksjoner.
+Get more detailed instructions.
 
 
 ;Using an older version of Sync?
@@ -107,46 +105,46 @@ Bruker du en eldre versjon av Sync?
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-Hvordan konfigurere Sync på fem enkle steg:
+How to set up Sync in five easy steps:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Trykk på <strong>Meny</strong>-knappen (enten under skjermen, eller i hjørnet øverst til høyre i nettleseren).
+Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Velg <strong>Innstillinger</strong> (du må kanskje trykke <strong>Mer</strong> først).
+Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Trykk på <strong>Sync</strong> og deretter <strong>Begynn</strong>.
+Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-Siden <strong>Opprett en Firefox-konto</strong> vil åpnes i en ny fane.
+The <strong>Create a Firefox Account page</strong> will open in a new tab.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fyll ut skjemaet og trykk <strong>Neste</strong>.
+Fill out the form and click <strong>Next</strong>.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-Etter du sjekker e-posten og trykker på bekreftelseslenken, er du klar! Ikke glem å koble til alle andre enheter du har for å få mest mulig ut av Sync.
+After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
 
 
 ;Sync a little. Sync a lot.
-Sync bare litt. Sync mye.
+Sync a little. Sync a lot.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-Du velger hvilke deler av Firefox som skal synkroniseres, og hvor du ønsker synkronisere de. Ta med deg åpne faner på dagens pendling. Få tilgang til bokmerker på jobben. Samme hva, når som helst, overalt.
+You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
@@ -174,27 +172,27 @@ History
 
 
 ;At home
-Hjemme
+At home
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Flytt deg fra skrivebordet ditt til sofaen uten å gå glipp av noe. Få tilgang til åpne faner på smarttelefonen, eller fortsett å bruke bokmerkene på nettbrettet.
+Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
 
 
 ;At work
-På jobben
+At work
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Hold deg tilkoblet for å motta viktig info. Synkroniser passord og bokmerker som du kanskje trenger å bruke en gang. Akkurat som Firefox, det er så trygt som det kan bli.
+Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
 
 
 ;On the go
-På farten
+On the go
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Hold deg oppdatert på favorittnettsteder, eller fullfør historien som du begynte på hjemme — samme hvor du drar. Med Sync har det aldri vært enklere.
+Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
 
 
 ;Add Firefox to your smartphone or tablet
@@ -210,14 +208,14 @@ Add Firefox
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Har du en <b>Android smarttelefon</b> eller <b>nettbrett</b>?
+Have an <b>Android smartphone</b> or <b>tablet</b>?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-LAST NED FIREFOX FOR ANDROID
+DOWNLOAD FIREFOX FOR ANDROID
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-For å gjøre Sync-opplevelsen komplett kan du ta med deg webben overalt hvor du bruker Firefox. Koble sammen smarttelefonen din, nettbrettet, datamaskinen og laptopen.
+To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
 
 

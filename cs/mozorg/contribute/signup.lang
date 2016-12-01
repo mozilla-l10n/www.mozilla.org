@@ -1,5 +1,6 @@
 ## active ##
 ## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -163,6 +164,11 @@ Podepište výzvu a podpořte silné a bezpečné šifrování.
 Šifrování umožňuje udržovat osobní informace v soukromí a v bezpečí. Připojte se k nám a pomozte jej chránit.
 
 
+;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">Zjistěte více o šifrování</a>, proč je tak důležité a musíme jej chránit.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 <a href="%s" rel="external" target="_blank">Zjistěte více o šifrování</a>, proč je tak důležité a musíme jej chránit.
 
@@ -208,6 +214,11 @@ Zhlédnout úvod.
 Podívejte se na další videa <em>Radost z programování</em> na Air Mozilla
 
 
+;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Zapojte se do naší komunity</a> a přidejte se k ostatním Mozillians po celém světě.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Zapojte se do naší komunity</a> a přidejte se k ostatním Mozillians po celém světě.
 
@@ -249,6 +260,11 @@ Zkusit Dev Tools Challenger
 Navštivte Dev Tools Challenger
 
 
+;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Zapojte se do naší komunity webových vývojářů</a> a přidejte se k ostatním Mozillians po celém světě.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Zapojte se do naší komunity webových vývojářů</a> a přidejte se k ostatním Mozillians po celém světě.
 
@@ -274,6 +290,11 @@ Mapujte bezdrátové sítě ve svém okolí.
 Nainstalujte si Mozilla Stumbler
 
 
+;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">Zjistěte více o Mozilla Location Services</a> a objevte další způsoby, jak se zapojit.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
 <a href="%s" target="_blank">Zjistěte více o Mozilla Location Services</a> a objevte další způsoby, jak se zapojit.
 

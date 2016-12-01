@@ -1,5 +1,6 @@
 ## active ##
 ## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -163,6 +164,11 @@ Tandatangani ikrar ini dan bangkitlah demi enkripsi yang kuat.
 Enkripsi adalah cara kita menjaga informasi personal aman dan privat. Bergabunglah dengan kami dalam perjuangan menjaganya.
 
 
+;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">Pelajari lebih lanjut tentang enkripsi</a>, kenapa itu penting dan kenapa kita perlu menjaganya.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 <a href="%s" rel="external" target="_blank">Pelajari lebih lanjut tentang enkripsi</a>, kenapa itu penting dan kenapa kita perlu menjaganya.
 
@@ -208,6 +214,11 @@ Tonton pendahuluannya.
 Lihat tayangan <em>Joy of Coding</em> lainnya di Air Mozilla
 
 
+;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Bergabunglah dengan Komunitas Coding</a> dan mulai berkolaborasi dengan Mozilian lainnya di seluruh dunia.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Bergabunglah dengan Komunitas Coding</a> dan mulai berkolaborasi dengan Mozilian lainnya di seluruh dunia.
 
@@ -249,6 +260,11 @@ Menuju Tantangan Peralatan Dev
 Kunjungi Tantangan Peralatan Dev
 
 
+;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Bergabung dengan Grup Kontribusi Webdev</a> dan mulailah berkolaborasi dengan Mozillian lainya di seluruh dunia.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Bergabung dengan Grup Kontribusi Webdev</a> dan mulailah berkolaborasi dengan Mozillian lainya di seluruh dunia.
 
@@ -274,6 +290,11 @@ Petakan jaringan nirkabel di lingkungan sekitar Anda.
 Pasang Mozilla Stumbler
 
 
+;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">Pelajari lebih lanjut tentang Mozilla Location Services</a> dan temukan lebih banyak cara untuk bisa terlibat.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
 <a href="%s" target="_blank">Pelajari lebih lanjut tentang Mozilla Location Services</a> dan temukan lebih banyak cara untuk bisa terlibat.
 

@@ -1,5 +1,6 @@
 ## active ##
 ## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -163,6 +164,11 @@ Podpišite zaobljubo in podprite močno šifriranje.
 S šifriranjem ohranjamo naše osebne podatke varne in zasebne. Pridružite se nam v boju za njegovo zaščito.
 
 
+;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">Več o šifriranju</a>, zakaj je ključno in zakaj ga moramo zaščititi.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 <a href="%s" rel="external" target="_blank">Več o šifriranju</a>, zakaj je ključno in zakaj ga moramo zaščititi.
 
@@ -208,6 +214,11 @@ Oglejte si predstavitev.
 Oglejte si več epizod <em>Radosti programiranja</em> na Air Mozilla
 
 
+;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Pridružite se skupnosti programerjev</a> in začnite sodelovati z drugimi Moziljani po svetu.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Pridružite se skupnosti programerjev</a> in začnite sodelovati z drugimi Moziljani po svetu.
 
@@ -249,6 +260,11 @@ Pojdite na Izziv za razvijalce
 Obišči Izziv za razvijalce
 
 
+;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Pridružite se skupnosti spletnih razvijalcev</a> in začnite sodelovati z drugimi Moziljani po svetu.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Pridružite se skupnosti spletnih razvijalcev</a> in začnite sodelovati z drugimi Moziljani po svetu.
 
@@ -274,6 +290,11 @@ Narišite zemljevid brezžičnih omrežij v svoji soseski.
 Namestite Mozilla Stumbler
 
 
+;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">Spoznajte Mozilline lokacijske storitve</a> in odkrijte več načinov, kako se pridružiti.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
 <a href="%s" target="_blank">Spoznajte Mozilline lokacijske storitve</a> in odkrijte več načinov, kako se pridružiti.
 

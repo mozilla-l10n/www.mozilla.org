@@ -1,5 +1,6 @@
 ## active ##
 ## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -163,6 +164,11 @@ Sign the pledge and stand up for strong encryption. {ok}
 Encryption is how we keep our personal information safe and private. Please join us in the fight to protect it. {ok}
 
 
+;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it. {ok}
+
+
+# Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 <a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it. {ok}
 
@@ -208,6 +214,11 @@ Watch the intro. {ok}
 View more <em>Joy of Coding</em> videos on Air Mozilla {ok}
 
 
+;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world. {ok}
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world. {ok}
 
@@ -249,6 +260,11 @@ Go to Dev Tools Challenger {ok}
 Visit Dev Tools Challenger {ok}
 
 
+;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world. {ok}
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world. {ok}
 
@@ -274,6 +290,11 @@ Map the wireless networks in your neighbourhood.
 Install Mozilla Stumbler {ok}
 
 
+;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved. {ok}
+
+
+# Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
 <a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved. {ok}
 

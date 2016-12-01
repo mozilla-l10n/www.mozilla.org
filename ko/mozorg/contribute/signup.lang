@@ -1,5 +1,6 @@
 ## active ##
 ## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -163,6 +164,11 @@ Firefox를 이용해 주셔서 감사합니다
 온라인 암호화를 통해 우리 개인 정보를 더 안전하게 보호할 수 있습니다. 이러한 활동에 동참해 주시기 바랍니다.
 
 
+;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">암호화에 대한 정보</a>를 통해 왜 온라인에서 필수적인 것인지 확인해 보세요.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 <a href="%s" rel="external" target="_blank">암호화에 대한 정보</a>를 통해 왜 온라인에서 필수적인 것인지 확인해 보세요.
 
@@ -208,6 +214,11 @@ The Joy of Coding를 시청하시고, 다른 Mozilla 활동가와 이야기를 �
 동영상 <em>Joy of Coding</em> 보기
 
 
+;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">코딩 커뮤니티 참여</a> 및 다른 Mozilla 활동가와 협력할 수 있습니다.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">코딩 커뮤니티 참여</a> 및 다른 Mozilla 활동가와 협력할 수 있습니다.
 
@@ -249,6 +260,11 @@ Firefox Developer Edition에서 개발 도구를 사용할 수 있으니, 먼저
 개발 도구 콘테스트 방문하기
 
 
+;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Webdev Contribute Group 참여</a> 및 전 세계 다른 Mozilla 활동가와 협력해 보세요.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Webdev Contribute Group 참여</a> 및 전 세계 다른 Mozilla 활동가와 협력해 보세요.
 
@@ -274,6 +290,11 @@ Mozilla Stumbler 안드로이드 앱 설치하기
 Mozilla Stumbler 설치
 
 
+;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">Mozilla Location Services</a> 정보 및 참여 방법에 대해 안내해 드립니다.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
 <a href="%s" target="_blank">Mozilla Location Services</a> 정보 및 참여 방법에 대해 안내해 드립니다.
 

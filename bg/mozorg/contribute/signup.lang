@@ -1,5 +1,6 @@
 ## active ##
 ## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -163,6 +164,11 @@ Firefox е независим мобилен браузър и като го и�
 С помощта на шифроването пазим нашата лична информация поверителна и в безопасност. Моля, присъединете се към нас в борбата да го защитим.
 
 
+;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">Научете повече за шифроването</a>, защо е важно и защо трябва да го защищаваме.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 <a href="%s" rel="external" target="_blank">Научете повече за шифроването</a>, защо е важно и защо трябва да го защищаваме.
 
@@ -208,6 +214,11 @@ Firefox е независим мобилен браузър и като го и�
 Гледайте още видеа то <em>Радостта от програмирането</em> на Air Mozilla
 
 
+;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">присъединете се към общността на програмистите</a> и започнете да си сътрудничите с други мозилианци по света.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">присъединете се към общността на програмистите</a> и започнете да си сътрудничите с други мозилианци по света.
 
@@ -249,6 +260,11 @@ Dev Tools изисква настолната версия на Firefox Develope
 Посещаване на DevTools Challenger
 
 
+;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">присъединете се към общността на уебразработчиците</a> и започнете да си сътрудничите с други мозилианци по света.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">присъединете се към общността на уебразработчиците</a> и започнете да си сътрудничите с други мозилианци по света.
 
@@ -274,6 +290,11 @@ Dev Tools изисква настолната версия на Firefox Develope
 Инсталиране на Mozilla Stumbler
 
 
+;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">Научете повече за услугите за местоположение на Mozilla</a> и открийте други начини да се включите.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
 <a href="%s" target="_blank">Научете повече за услугите за местоположение на Mozilla</a> и открийте други начини да се включите.
 

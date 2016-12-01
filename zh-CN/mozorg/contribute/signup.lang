@@ -1,5 +1,6 @@
 ## active ##
 ## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -163,6 +164,11 @@ Firefox 是独立的移动浏览器，使用此浏览器即可支持 Mozilla 的
 加密如何保护我们的个人信息的安全和隐私。请加入我们的抗争并保护它。
 
 
+;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">进一步了解加密</a>，为什么它是必要的，我们为何要保护它。
+
+
+# Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 <a href="%s" rel="external" target="_blank">进一步了解加密</a>，为什么它是必要的，我们为何要保护它。
 
@@ -208,6 +214,11 @@ Firefox 是独立的移动浏览器，使用此浏览器即可支持 Mozilla 的
 查看更多 <em>编程的快乐</em> 在 Air Mozilla 的视频
 
 
+;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">加入编程社区</a>并开始与世界各地的谋智人协作。
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">加入编程社区</a>并开始与世界各地的谋智人协作。
 
@@ -249,6 +260,11 @@ Firefox 是独立的移动浏览器，使用此浏览器即可支持 Mozilla 的
 查看开发者工具挑战
 
 
+;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">加入 Webdev 贡献组</a>并开始与世界各地的谋智人协作。
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">加入 Webdev 贡献组</a>并开始与世界各地的谋智人协作。
 
@@ -274,6 +290,11 @@ Firefox 是独立的移动浏览器，使用此浏览器即可支持 Mozilla 的
 安装 Mozilla Stumbler
 
 
+;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">进一步了解 Mozilla 位置服务</a>和发现更多参与方式。
+
+
+# Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
 <a href="%s" target="_blank">进一步了解 Mozilla 位置服务</a>和发现更多参与方式。
 

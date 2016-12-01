@@ -1,5 +1,6 @@
 ## active ##
 ## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -163,6 +164,11 @@
 رمزنگاری چیزی است که باعث می‌شود اطلاعات شخصی ما امن و خصوصی باقی بماند. لطفا به برای محافظت از آن بپیوندید.
 
 
+;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">درباره رمزنگاری بیشتر بدانید</a>، چرا مهم است و چرا لازم است که از آن محافظت کنیم.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 <a href="%s" rel="external" target="_blank">درباره رمزنگاری بیشتر بدانید</a>، چرا مهم است و چرا لازم است که از آن محافظت کنیم.
 
@@ -208,6 +214,11 @@
 ویدئوهای بیشتر از <em>لذت کدنویسی</em> را در Air Mozilla تماشا کنید
 
 
+;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">به جامعه کدنویسی بپیوندید</a> و شروع به همکاری با دیگر موزیلایی‌های سراسر دنیا بکنید.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">به جامعه کدنویسی بپیوندید</a> و شروع به همکاری با دیگر موزیلایی‌های سراسر دنیا بکنید.
 
@@ -249,6 +260,11 @@
 مشاهده چالشگر ابزارهای توسعه‌دهندگان
 
 
+;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">به گروه مشارکتی Webdev بپیوندید</a> و شروع به همکاری با سایر موزیلایی‌های سراسر دنیا بکنید.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">به گروه مشارکتی Webdev بپیوندید</a> و شروع به همکاری با سایر موزیلایی‌های سراسر دنیا بکنید.
 
@@ -274,6 +290,11 @@
 نصب Mozilla Stumbler
 
 
+;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">در مورد سرویس‌های مکانی موزیلا بیشتر بدانید</a> و راه‌های بیشتری برای همکاری پیدا کنید.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
 <a href="%s" target="_blank">در مورد سرویس‌های مکانی موزیلا بیشتر بدانید</a> و راه‌های بیشتری برای همکاری پیدا کنید.
 

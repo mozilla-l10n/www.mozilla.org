@@ -5,7 +5,7 @@
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>برائے</span>ڈیسک ٹاپ
 
 
 # Firefox family navigation menu. Main level item.
@@ -25,7 +25,7 @@ OS {ok}
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+ٹی وی
 
 
 # Used for the navigation menu, points to /firefox/channel
@@ -71,7 +71,7 @@ Flexible
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+آلات
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -127,7 +127,7 @@ For partners
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-ڈیولپرز کے لیے
+میرا آلہ تلاش کریں
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -221,7 +221,7 @@ Page language:
 
 # Used as link in the footer
 ;Cookies
-کوکی
+کوکیاں
 
 
 # Used as link in the footer
@@ -545,7 +545,7 @@ Mozilla کا حصہ بنیں
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
-Volunteer
+رضاکار
 
 
 # Top menu item on firefox/update page
@@ -570,17 +570,17 @@ Mozilla کی تازہ کاری حاصل کریں
 
 # footer link
 ;Mozilla on Twitter
-Mozilla on Twitter
+Mozilla Twitter پر
 
 
 # footer link
 ;Firefox on Twitter
-Firefox on Twitter
+Firefox Twitter پر
 
 
 # footer link
 ;Mozilla on Facebook
-Mozilla on Facebook
+Mozilla Facebook پر
 
 
 # footer link
@@ -781,7 +781,7 @@ Congrats. You’re up to date!
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -835,7 +835,7 @@ Firefox خبریں حاصل کریں
 
 
 ;Thanks!
-Thanks!
+شکریہ!
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
@@ -877,6 +877,6 @@ Web Innovations
 # This string will be used as a navigation label in home page, pointing to /internet-health
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Internet Health
-Internet Health
+انٹرنیٹ کی صحت
 
 

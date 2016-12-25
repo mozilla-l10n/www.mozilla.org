@@ -26,7 +26,7 @@ Sync your bookmarks, passwords, tabs and more using your Firefox Account, and ac
 
 
 ;It looks like you’re running an older version of Firefox.
-It looks like you’re running an older version of Firefox.
+נראה שגרסת ה־Firefox המותקנת ישנה.
 
 
 ;The new version of Sync only works with the latest version of Firefox
@@ -73,7 +73,7 @@ Get started with Sync in four easy steps:
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+פתחו את <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">התפריט</a> בפינה השמאלית העליונה ב־FIrefox ובחרו באפשרות “<strong>התחברות אל Sync</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -111,12 +111,12 @@ After you check your email and click the verification link, you’ll be all set!
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+לחצו על כפתור <strong>התפריט</strong> (מתחת למסך או בפינה השמאלית העליונה של הדפדפן).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+לחצו על <strong>הגדרות</strong> (יתכן שתצטרכו ללחוץ על <strong>עוד</strong> לפני כן).
 
 
 # This string is displayed on Android devices
@@ -131,7 +131,7 @@ The <strong>Create a Firefox Account page</strong> will open in a new tab.
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+מלאו את הטופס ולחצו <strong>הבא</strong>.
 
 
 # This string is displayed on Android devices
@@ -196,7 +196,7 @@ Keep up with your favorite sites, or finish that story you started at home — w
 
 
 ;Add Firefox to your smartphone or tablet
-Add Firefox to your smartphone or tablet
+הוספת Firefox לטלפון החכם או למחשב לוח
 
 
 ;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.

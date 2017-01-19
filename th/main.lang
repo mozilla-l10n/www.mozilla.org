@@ -36,12 +36,12 @@ Pre-release downloads
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+สำหรับเดสก์ท็อปและแล็ปท็อป
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+สำหรับโทรศัพท์และแท็บเล็ต
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -295,7 +295,7 @@ MB {ok}
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-ยกเว้นจะ<a href="%s">ถูกระบุ</a>เป็นอย่างอื่น เนื้อหาในเว็บนี้อยู่ภายใต้ <br /><a href="%s">สัญญาอนุญาตครีเอทีฟคอมมอนส์ แสดงที่มา อนุญาตแบบเดียวกัน 3.0</a> หรือรุ่นใหม่กว่า
+เว้นแต่จะ <a href="%s">ระบุไว้</a> เป็นอย่างอื่น เนื้อหาในไซต์นี้อยู่ภายใต้ <br /><a href="%s">สัญญาอนุญาต Creative Commons แสดงที่มา อนุญาตแบบเดียวกัน v3.0</a> หรือรุ่นใดก็ตามหลังจากนั้น
 
 
 ;Report Trademark Abuse
@@ -425,7 +425,7 @@ Firefox สำหรับอุปกรณ์เคลื่อนที่
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-ส่วนหนึ่งของเนื้อหานี้นั้นสงวนลิขสิทธิ์ 1998–%(current_year)s โดยผู้มีส่วนร่วมของ mozilla.org แต่ละคน เนื้อหาอยู่ภายใต้ <a href="%(url)s">สัญญาอนุญาตครีเอทีฟคอมมอนส์</a>
+บางส่วนของเนื้อหานี้สงวนลิขสิทธิ์ ©1998–%(current_year)s โดยผู้มีส่วนร่วมของ mozilla.org แต่ละคน เนื้อหาใช้งานได้ภายใต้ <a href="%(url)s">สัญญาอนุญาต Creative Commons</a>
 
 
 # Footer string (will replace "Contribute to this page")

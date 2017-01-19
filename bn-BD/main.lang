@@ -28,6 +28,11 @@ iOS এর <span>জন্য</span>
 টিভি
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+প্রাক-রিলিজ ডাউনলোডসমূহ
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -198,6 +203,11 @@ Find My Device {ok}
 
 ;Other languages:
 অন্যান্য ভাষা:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+পাতার ভাষা:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,10 +834,20 @@ Firefox এর সবকিছুর<br> সাথেই থাকুন।
 আমরা কেবল আপনাকে মোজিলা সম্পর্কিত তথ্য পাঠাবো।
 
 
+;Thanks!
+ধন্যবাদ!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+আপনি যদি পূর্বে Mozilla-সম্পর্কিত নিউজলেটারে সাবস্ক্রিপশন নিশ্চিত করে না থাকেন তাহলে তা আপনাকে করতে হবে। আমাদের পাঠানোর ইমেইল দেখতে অনুগ্রহ করে আপনার ইনবক্স অথবা আপনার স্প্যাম ফিল্টার দেখুন।
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 ধন্যবাদ! আপনার সাবস্ক্রপশন নিশ্চত হওয়ার জন্য আপনার ইনবক্স পরীক্ষা করুন।
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 আপনার সাবস্ক্রিপশন নিশ্চিত হতে mozilla@e.mozilla.org থেকে একটি ই-মেইল পাবেন। যদি আপনি তা দেখতে না পান, স্প্যাম ফিল্টার পরীক্ষা করুন। আমাদের নিউজলেটার পাওয়ার জন্য আপনাকে আপনার সাবস্ক্রিপশন নিশ্চিত করতে হবে।
 
@@ -838,5 +858,25 @@ Firefox এর সবকিছুর<br> সাথেই থাকুন।
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 মাসিক হালনাগাদ এবং সাম্প্রতিক মজিলার খবর রাখতে সাবস্ক্রাইব করুন, সর্বশেষ পরামর্শ এবং কৌশল সহ ফায়ারফক্স ব্রাউজারের সকল কিছু পেতে। সব সময় যোগাযোগ রাখতে এটাই আমাদের জন্য সঠিক উপায়!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + আপনি
+
+
+;Get Firefox tips, tricks, news and more
+Firefox এর টিপ, ট্রিক, খবরসহ আরও অনেক কিছু পান
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+ওয়েব উদ্ভাবন
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internet Health
 
 

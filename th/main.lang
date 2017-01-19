@@ -5,27 +5,32 @@
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>สำหรับ</span> เดสก์ท็อป
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>สำหรับ</span> Android
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+<span>สำหรับ</span> iOS
 
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OS
+OS {ok}
 
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+TV {ok}
+
+
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Pre-release downloads
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -46,17 +51,17 @@ For phones &amp; tablets
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
-Trusted
+เชื่อถือได้
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Flexible
-Flexible
+ยืดหยุ่น
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Fast
-Fast
+เร็ว
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -66,22 +71,22 @@ Fast
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+อุปกรณ์
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+สำหรับคู่ค้า
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+แอป
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+อย่าตามรอย
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -102,7 +107,7 @@ Developer Edition
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+การท่องเว็บแบบส่วนตัว
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -112,27 +117,27 @@ Private Browsing
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+ข่าว
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+สำหรับนักพัฒนา
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+ค้นหาอุปกรณ์ของฉัน
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
-Developers
+นักพัฒนา
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+เลือกเบราว์เซอร์ที่เป็นอิสระ
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -169,7 +174,7 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 
 
 ;switch language
-เปลี่ยนภาษา
+สลับภาษา
 
 
 ;Back to home page
@@ -197,7 +202,12 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 
 
 ;Other languages:
-ภาษาอื่น ๆ :
+ภาษาอื่น ๆ:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+ภาษาของหน้า:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -244,11 +254,11 @@ Firefox Affiliates
 
 
 ;Return to top
-ย้อนกลับข้างบน
+กลับด้านบนสุด
 
 
 ;Features
-ความสามารถ
+คุณลักษณะ
 
 
 ;Customize
@@ -256,11 +266,11 @@ Firefox Affiliates
 
 
 ;Download
-ดาวน์โหลดDownload
+ดาวน์โหลด
 
 
 ;Previous
-Previous
+ก่อนหน้า
 
 
 ;Next
@@ -273,7 +283,7 @@ MB {ok}
 
 
 ;MegaBytes
-เมกกะไบต์
+เมกะไบต์
 
 
 ;FAQ
@@ -306,17 +316,17 @@ MB {ok}
 
 
 ;Learn More
-เรียนรู้เพิ่ม
+เรียนรู้เพิ่มเติม
 
 
 # Same as previous above but with no capitalization on More
 ;Learn more
-เรียนรู้เพิ่ม
+เรียนรู้เพิ่มเติม
 
 
 # Link used to play again an animation or a video
 ;Replay
-Replay
+เล่นซ้ำ
 
 
 ;Watch the video
@@ -324,11 +334,11 @@ Replay
 
 
 ;Replay the video
-Replay the video
+เล่นวิดีโอซ้ำ
 
 
 ;Share the video
-Share the video
+แบ่งปันวิดีโอ
 
 
 ;WebM format
@@ -340,7 +350,7 @@ Share the video
 
 
 ;MPEG-4 format
-รูปแปบบ MPEG-4
+รูปแบบ MPEG-4
 
 
 ;Mobile
@@ -360,7 +370,7 @@ Share the video
 
 
 ;Desktop
-คอมพิวเตอร์ตั้งโต๊ะ
+เดสก์ท็อป
 
 
 ;Firefox Beta for mobile
@@ -415,12 +425,12 @@ Firefox สำหรับอุปกรณ์เคลื่อนที่
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-ส่วนหนึ่งของเนื้อหานี้นั้นสงวนลิขสิทธิ์ 1998–%(current_year)s โดยผู้มีส่วมร่วมของ mozilla.org แต่ละคน เนื้อหาอยู่ภายใต้ <a href="%(url)s">สัญญาอนุญาตครีเอทีฟคอมมอนส์</a>
+ส่วนหนึ่งของเนื้อหานี้นั้นสงวนลิขสิทธิ์ 1998–%(current_year)s โดยผู้มีส่วนร่วมของ mozilla.org แต่ละคน เนื้อหาอยู่ภายใต้ <a href="%(url)s">สัญญาอนุญาตครีเอทีฟคอมมอนส์</a>
 
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+มีส่วนร่วมกับหน้านี้
 
 
 # Footer string
@@ -435,7 +445,7 @@ Contribute to this site
 
 # Footer item on some pages to link to a tour of features
 ;Tour
-ท่องดู
+เที่ยวชม
 
 
 # Footer item
@@ -445,7 +455,7 @@ Contribute to this site
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync
+Sync {ok}
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -455,7 +465,7 @@ Sync
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+ส่วนเสริมสำหรับระบบ Android
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -470,7 +480,7 @@ Android Add-ons
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+การสนับสนุน Android
 
 
 # Top menu item on firefox/update page
@@ -535,7 +545,7 @@ Firefox สำหรับองค์กร
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
-Volunteer
+อาสาสมัคร
 
 
 # Top menu item on firefox/update page
@@ -560,52 +570,52 @@ Volunteer
 
 # footer link
 ;Mozilla on Twitter
-Mozilla on Twitter
+Mozilla บน Twitter
 
 
 # footer link
 ;Firefox on Twitter
-Firefox on Twitter
+Firefox บน Twitter
 
 
 # footer link
 ;Mozilla on Facebook
-Mozilla on Facebook
+Mozilla บน Facebook
 
 
 # footer link
 ;Firefox on Facebook
-Firefox on Facebook
+Firefox บน Facebook
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
-Forums
+กระดานสนทนา
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+สิทธิบัตร
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+ความเป็นผู้นำ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
-Governance
+การกำกับดูแลกิจการ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
-History
+ประวัติ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Our Products
-Our Products
+ผลิตภัณฑ์ของเรา
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -620,7 +630,7 @@ Become a volunteer contributor in a number of different areas.
 
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
-Menu
+เมนู
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
@@ -630,7 +640,7 @@ Committed to you, your privacy and an open Web
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Choose Independent
+เลือกอิสระ
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
@@ -752,7 +762,7 @@ Please turn on JavaScript to display this page correctly.
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox จะมาบน iOS เร็ว ๆ นี้! <a href="{url}">ลงทะเบียนเพื่อเรียนรู้เพิ่มเติม</a>
 
 
 ;Congrats. You’re up to date!
@@ -771,7 +781,7 @@ Congrats. You’re up to date!
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -824,10 +834,20 @@ Sign Up Now
 เราจะส่งเฉพาะข้อมูลที่เกี่ยวข้องกับ Mozilla เท่านั้น
 
 
+;Thanks!
+ขอบคุณ!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 ขอบคุณ! โปรดตรวจสอบกล่องจดหมายของคุณเพื่อยืนยันการบอกรับจดหมายข่าว
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 คุณจะได้รับอีเมลจาก mozilla@e.mozilla.org เพื่อยืนยันการบอกรับจดหมายข่าว ถ้าคุณไม่พบจดหมายฉบับนั้นลองตรวจสอบกล่องจดหมายขยะดู คุณจะต้องยืนยันการบอกรับจดหมายข่าวเพื่อให้การบอกรับจดหมายข่าวนั้นสมบูรณ์
 
@@ -838,5 +858,25 @@ Sign Up Now
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 บอกรับข่าวรายเดือนเพื่อเกาะติดข่าวที่เกี่ยวข้องกับ Mozilla เช่น กลเม็ดเคล็ดลับล่าสุดในการใช้งาน Firefox ให้มีประสิทธิภาพสูงสุด นี่เป็นหนทางที่ดีที่เราจะใกล้ชิดกัน!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + คุณ
+
+
+;Get Firefox tips, tricks, news and more
+รับกลเม็ด เคล็ดลับ ข่าว และอีกมากมายเกี่ยวกับ Firefox
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+นวัตกรรมเว็บ
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+สุขภาพอินเทอร์เน็ต
 
 

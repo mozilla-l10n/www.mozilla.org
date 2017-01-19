@@ -10,7 +10,7 @@ Navigacion
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>per</span> Android
+Firefox <span>per</span> Android
 
 
 # Firefox family navigation menu. Main level item.
@@ -26,6 +26,11 @@ OS {ok}
 # Used for the navigation menu only in Firefox OS pages
 ;TV
 TV
+
+
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Pre-release downloads
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -200,6 +205,11 @@ Contactatz-nos
 Autras lengas&nbsp;:
 
 
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Page language:
+
+
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %Y-%m-%d {ok}
@@ -216,7 +226,7 @@ Cookies {ok}
 
 # Used as link in the footer
 ;Firefox Affiliates
-Afiliats Firefox
+Collaboradors de Firefox
 
 
 ;Legal Notices
@@ -630,7 +640,7 @@ Engatjat per vos, vòstra vida privada e lo Web dobèrt
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Fasètz la causida de la libertat
+Causissètz la libertat
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
@@ -707,11 +717,11 @@ decembre
 
 
 ;<abbr>Feb</abbr>
-<abbr>feb</abbr>
+<abbr>febr</abbr>
 
 
 ;<abbr>Mar</abbr>
-<abbr>mar</abbr>
+<abbr>març</abbr>
 
 
 ;<abbr>Apr</abbr>
@@ -771,7 +781,7 @@ Tèxte
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -824,10 +834,20 @@ Lengas disponiblas
 Vos mandarem pas que d'informacions a prepaus Mozilla.
 
 
+;Thanks!
+Mercé !
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Mercé ! Consultats vòstra bóstia de corrièr per confirmar vòstra inscripcion.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Anatz recebrr un messatge de mozilla@e.mozilla.org per confirmar vòstre abonament. Se lo vesètz pas dins vòstre bóstia de letras, verificatz qu'es pas anat se metre dins los corrièrs indesirables. Vos caldrà confirmar vòstre abonament per recebre nòstra letra d'informacions.
 
@@ -838,5 +858,25 @@ Descobrissètz nòstra <span>letra d'informacions</span>
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Abonatz-vos per èsser informat cada mes de totas las mesas a jorn e de las novetats Mozilla, inclusas nòstras darrièras astúcias per optimizar vòstre navigador Firefox. Lo melhor biais de demorar en contacte&nbsp;!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + Vos
+
+
+;Get Firefox tips, tricks, news and more
+Get Firefox tips, tricks, news and more
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Web Innovations
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internet Health
 
 

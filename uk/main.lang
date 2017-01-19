@@ -28,6 +28,11 @@ OS {ok}
 ТБ
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Завантаження передрелізних версій
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -198,6 +203,11 @@ Firefox є неприбутковим, некорпоративним, безк�
 
 ;Other languages:
 Інші мови:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Мова сторінки:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,10 +834,20 @@ HTML {ok}
 Ми будемо надсилати вам лише інформацію, яка стосується Mozilla.
 
 
+;Thanks!
+Дякуємо!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Якщо ви досі не підтвердили підписку на новини про Mozilla, ви ще можете це зробити. Перевірте свою пошту або теку спаму на наявність листа від нас.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Дякуємо! Будь ласка, перевірте свої вхідні для підтвердження підписування.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Ви отримаєте лист від mozilla@e.mozilla.org для підтвердження підписування. Якщо ви його не бачите, перевірте фільтр спаму. Ви повинні підтвердити підписування, щоб отримувати наш інформаційний бюлетень.
 
@@ -838,5 +858,25 @@ HTML {ok}
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Підпишіться на щомісячні новини та будьте в курсі останніх новин від Mozilla, включаючи найновіші поради та підказки щодо роботи з браузером Firefox. Для нас це найкращий спосіб бути на зв’язку!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + Ви
+
+
+;Get Firefox tips, tricks, news and more
+Отримуйте поради, підказки та новини про Firefox
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Веб-Інновації
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Здоров'я Інтернету
 
 

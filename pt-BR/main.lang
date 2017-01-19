@@ -28,10 +28,15 @@ OS {ok}
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Downloads de pré-lançamento
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-Para desktops e notebooks
+Para computadores e portáteis
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -200,13 +205,18 @@ Entre em contato
 Outros idiomas:
 
 
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Idioma da página:
+
+
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d.%m.%Y
 
 
 ;Legal
-Legal {ok}
+Jurídico
 
 
 # Used as link in the footer
@@ -220,7 +230,7 @@ Afiliados do Firefox
 
 
 ;Legal Notices
-Avisos legais
+Notas jurídicas
 
 
 ;Privacy Policy
@@ -256,7 +266,7 @@ Personalização
 
 
 ;Download
-Baixar
+Baixe
 
 
 ;Previous
@@ -352,7 +362,7 @@ Confira o novo visual do Firefox.
 
 
 ;View Full Site
-Exibir site completo
+Ver site completo
 
 
 ;Download for <span>Android</span>
@@ -804,12 +814,12 @@ DIGITE SEU E-MAIL
 
 # Newsletter subscription Button
 ;Sign Up Now
-Inscreva-se Agora
+Inscreva-se agora
 
 
 # Old newsletter subscription Button
 ;Sign me up
-Me cadastre!
+Inscreva-me
 
 
 ;Select country
@@ -824,19 +834,49 @@ Idiomas disponíveis
 Não se preocupe, você só receberá informações da Mozilla.
 
 
+;Thanks!
+Obrigado!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Talvez seja necessário confirmar sua inscrição em uma newsletter relacionada a Mozilla caso não tenha feito isso anteriormente. Por favor, confira na sua caixa de entrada ou filtros de spam por uma mensagem nossa.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Obrigado! Por favor, confira sua caixa de entrada para confirmar seu cadastro.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Você receberá um e-mail de mozilla@e.mozilla.org para confirmar seu cadastro. Se não receber, confira na sua caixa de SPAM. Você precisa confirmar seu cadastro para começar a receber nossas mensagens.
 
 
 ;Read all about it in our <span>newsletter</span>
-Veja todos os detalhes em nossa <span>newsletter</span>
+Leia sobre isso em nosso <span>boletim informativo</span>
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Cadastre-se para receber atualizações mensais e estar em dia sobre as novidades da Mozilla, inclusive, sobre dicas para aproveitar melhor seu Firefox. É a melhor maneira de ficarmos em contato!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + Você
+
+
+;Get Firefox tips, tricks, news and more
+Veja dicas, truques, notícias e mais sobre o Firefox
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Inovações Web
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Saúde da Internet
 
 

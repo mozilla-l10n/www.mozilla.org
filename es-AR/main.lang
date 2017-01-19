@@ -28,10 +28,15 @@ SO
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Descargas pre lanzamiento
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-Para equipos de escritorios y notebooks
+Para equipos de escritorio y notebooks
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -61,7 +66,7 @@ Rápido
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
-Acerca
+Acerca de
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -145,7 +150,7 @@ Donar
 
 
 ;Support
-Soporte
+Ayuda
 
 
 ;Products
@@ -185,7 +190,7 @@ Involucrate
 
 
 ;Careers
-Empleo
+Empleos
 
 
 ;Press Center
@@ -193,11 +198,16 @@ Empleo
 
 
 ;Contact Us
-Contacto
+Contactanos
 
 
 ;Other languages:
 Otros idiomas:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Idioma de la página:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -206,7 +216,7 @@ Otros idiomas:
 
 
 ;Legal
-Legal {ok}
+Legales
 
 
 # Used as link in the footer
@@ -244,7 +254,7 @@ Cerrar
 
 
 ;Return to top
-Ir arriba
+Volver arriba
 
 
 ;Features
@@ -352,7 +362,7 @@ Mirá el nuevo diseño de Firefox.
 
 
 ;View Full Site
-Ver el sitio
+Ver el sitio completo
 
 
 ;Download for <span>Android</span>
@@ -372,7 +382,7 @@ Firefox para dispositivos móviles
 
 
 ;Email
-Email {ok}
+Correo electrónico
 
 
 ;Super speed
@@ -380,7 +390,7 @@ Súper rápido
 
 
 ;Stunning graphics
-Impresionantes gráficos
+Gráficos impresionantes
 
 
 ;The latest technologies
@@ -420,7 +430,7 @@ Partes de este contenido son ©1998–%(current_year)s de contribuyentes individ
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribuí a con este sitio
+Contribuí con este sitio
 
 
 # Footer string
@@ -440,7 +450,7 @@ Tour {ok}
 
 # Footer item
 ;Partner with Us
-Asóciese a nosotros
+Asociate a nosotros
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -465,7 +475,7 @@ Temas
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Ayuda sobre Firefox
+Ayuda para Firefox
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -510,7 +520,7 @@ Complementos para Firefox móvil
 
 # Top menu item on firefox/update page
 ;Mobile Support
-Ayuda sobre Firefox móvil
+Ayuda para Firefox móvil
 
 
 # Top menu item on firefox/update page
@@ -535,7 +545,7 @@ Participá
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
-Colaborar
+Colaborá
 
 
 # Top menu item on firefox/update page
@@ -550,7 +560,7 @@ Asociaciones
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-Conseguí novedades de Mozilla
+Conseguí actualizaciones de Mozilla
 
 
 # share button for social networks
@@ -590,7 +600,7 @@ Patentes
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Directorio
+Liderazgo
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -600,7 +610,7 @@ Governanza
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
-Historia
+Historial
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -780,11 +790,11 @@ HTML {ok}
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Estoy de acuerdo en que Mozilla maneje mi información como se describe en <a href="%s">esta nota de Privacidad</a>
+Estoy de acuerdo con que Mozilla maneje mi información como se describe en <a href="%s">esta nota de Privacidad</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Estoy de acuerdo en que Mozilla maneje mi información como se explica en <a href="%s">estas políticas de privacidad</a>
+Estoy de acuerdo con que Mozilla maneje mi información como se explica en <a href="%s">estas políticas de privacidad</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -809,11 +819,11 @@ Inscribite ya
 
 # Old newsletter subscription Button
 ;Sign me up
-Inscribirme
+Inscribime
 
 
 ;Select country
-Elige país
+Elegí el país
 
 
 ;Available Languages
@@ -821,13 +831,23 @@ Idiomas disponibles
 
 
 ;We will only send you Mozilla-related information.
-Solo te enviaremos información relacionada a Mozilla.
+Solo te enviaremos información relacionada con Mozilla.
 
 
+;Thanks!
+¡Gracias!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+SI no confirmaste previamente una suscripción a un boletín relacionado con Mozilla tenés que hacerlo. Buscá un correo electrónico nuestro en tu bandeja de entrada o en tu filtro de spam.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 ¡Gracias! Mirá tu bandeja de entrada para confirmar tu suscripción.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Recibirás un mensaje de correo de mozilla@e.mozilla.org para confirmar tu suscripción. Si no lo ves, mirá en el filtro de spam. Tenés que confirmar tu suscripción para recibir nuestro boletín.
 
@@ -837,6 +857,26 @@ Lee todo acerca de ello en nuestro <span>boletín de noticias</span>
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Subscribite a las actualizaciones mensuales y seguí al corriente de la noticias de Mozilla, incluyendo los últimos consejos y trucos para obtener lo mejor de tu navegador. ¡Es la forma perfecta para mantenernos en contacto!
+Suscribite a las actualizaciones mensuales y seguí al corriente de la noticias de Mozilla, incluyendo los últimos consejos y trucos para obtener lo mejor de tu navegador. ¡Es la forma perfecta para mantenernos en contacto!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> y tú
+
+
+;Get Firefox tips, tricks, news and more
+Recibí consejos y noticias sobre Firefox
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Innovaciones de la Web
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Salud de Internet
 
 

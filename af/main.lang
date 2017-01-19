@@ -25,7 +25,12 @@ OS {ok}
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+TV {ok}
+
+
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Weergawes voor vrystelling
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -198,6 +203,11 @@ Kontak ons
 
 ;Other languages:
 Ander tale:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Bladsytaal:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -445,7 +455,7 @@ Sluit aan by ons
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sinchroniseer
+Sync {ok}
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -585,7 +595,7 @@ Forums {ok}
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+Patente
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -780,7 +790,7 @@ Oeps! Maak seker dat ’n geldige e-posadres ingetik is.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Dis reg as my inligting hanteer word soos verduidelik in <a href="%s">dié privaatheidkennisgewing</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
@@ -789,7 +799,7 @@ Dis reg as my inligting hanteer word soos verduidelik in <a href="%s">dié priva
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Bly op datum met<br>alles oor Firefox.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -804,7 +814,7 @@ E-POSADRES HIER
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+Skryf nou in
 
 
 # Old newsletter subscription Button
@@ -824,10 +834,20 @@ Beskikbare tale
 Ons sal slegs Mozilla-verwante inligting stuur.
 
 
+;Thanks!
+Dankie!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+As u nog nie vantevore 'n inskrywing vir 'n Mozilla-verwante nuusbrief bevestig het nie, is dit dalk nou nodig. Kontroleer u e-pos en gemorspos vir 'n e-pos van ons.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Dankie! Kyk in u inkassie om u intekening te bevestig.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 U sal ’n e-pos ontvang vanaf mozilla@e.mozilla.org om u inskrywing te bevestig. Indien u dit nie sien nie, gaan u gemorspos na. ’n Intekening moet bevestig word om ons nuusbrief te ontvang.
 
@@ -838,5 +858,25 @@ Lees daaroor in ons <span>nuusletter</span>
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Skryf in vir die maandelikse nuus en bly op hoogte met Mozilla-nuus, insluitend die jongste wenke om die meeste uit Firefox te kry. Dis die perfekte manier vir ons om in kontak te bly!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + You
+
+
+;Get Firefox tips, tricks, news and more
+Kry wenke, nuus en nog wat oor Firefox
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Web-innovasie
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internet Health
 
 

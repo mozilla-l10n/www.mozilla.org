@@ -1,4 +1,6 @@
 ## active ##
+## mozilla_newsletter_copy ##
+## newsletter_confirm_2016 ##
 ## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
 
@@ -16,6 +18,26 @@ Land auswählen
 
 ;Country:
 Land:
+
+
+;You’re awesome!
+Sie sind klasse!
+
+
+;And we’re not just saying that because you trusted us with your email address.
+Und das nicht nur, weil Sie uns Ihre E-Mail-Adresse anvertraut haben.
+
+
+;Please be sure to add mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Bitte fügen Sie mozilla@e.mozilla.org in Ihr Adressbuch ein, damit wir immer Ihren Posteingang erreichen.
+
+
+;Mozilla touches on a variety of important issues.
+Mozilla kümmert sich um einige wichtige Themen.
+
+
+;Open your inbox (and your heart) even more — take a look at other topics we cover.
+Öffnen Sie Ihren Posteingang (und Ihr Herz) noch weiter – sehen Sie sich unsere anderen Themen an.
 
 
 # Form submit button on the Student Ambassador newsletter subscription form
@@ -92,13 +114,13 @@ Ein monatlicher Newsletter, um Ihnen die neuesten Informationen aus dem Firefox-
 
 
 # Name for the newsletter in Newsletter subscription page
-;Firefox Apps & Hacks
-Firefox Apps & Hacks {ok}
+;Mozilla Developer Newsletter
+Mozilla-Entwickler-Newsletter
 
 
-# Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
-;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
-Neuigkeiten für Entwickler zu Firefox OS, Firefox Marketplace und dem Ökosystem der Open-Web-Apps.
+# Description for the newsletter in Newsletter subscription page (Mozilla Developer Newsletter)
+;A developer's guide to highlights of Web platform innovations, best practices, new documentation and more.
+Ein Leitfaden für Entwickler, der Innovationen der Web-Plattform, bewährte Methoden, neue Dokumentation und mehr vorstellt.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -590,5 +612,33 @@ Add-on-Entwicklung
 
 ;Firefox Marketplace for Desktop
 Firefox Marketplace für Desktop
+
+
+# It appears here: https://www-dev.allizom.org/newsletter/firefox/
+;Put more fox in your inbox.
+Mehr Fuchs für Ihren Posteingang.
+
+
+;See where the Web can take you with monthly Firefox tips, tricks and Internet intel.
+Einmal im Monat zeigen wir Ihnen mit Tipps und Tricks zu Firefox und dem Internet, wozu Sie das Web nutzen können.
+
+
+;Sign up, read up,<br> stay informed.
+Abonnieren. Lesen.<br> Informiert bleiben.
+
+
+# String obsolete.  Do NOT remove.
+# It appears here: https://www.mozilla.org/newsletter/mozilla/
+;Sign up. Read up.<br> Make a difference.
+Abonnieren. Lesen.<br> Etwas bewegen.
+
+
+;Get smart on the issues affecting your life online.
+Informieren Sie sich über die Themen, die Ihr Online-Leben betreffen.
+
+
+# String obsolete.  Do NOT remove.
+;Get the Mozilla newsletter to stay informed about issues challenging the health of the Internet and to discover how you can get involved.
+Abonnieren Sie den Mozilla-Newsletter, um sich über Themen zu informieren, die den Zustand des Internets betreffen, und zu erfahren, wie Sie mitmachen können.
 
 

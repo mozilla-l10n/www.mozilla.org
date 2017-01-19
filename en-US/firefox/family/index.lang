@@ -1,12 +1,19 @@
-## hello_copy_update ##
 ## ios_product_tagline ##
 ## tracking_protection ##
+## fx49_remove_hello ##
+## download_browse_freely ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/products/
 ## URL: https://www-dev.allizom.org/%LOCALE%/firefox/products/
 
 
-## TAG: tracking_protection
+## TAG: fx49_remove_hello
 # Title of the page (HTML meta tag)
+;Firefox – Desktop browser, Android, iOS, Sync, Private Browsing
+Firefox – Desktop browser, Android, iOS, Sync, Private Browsing
+
+
+## TAG: tracking_protection
+# Obsolete title of the page (do not remove)
 ;Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing
 Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing
 
@@ -29,10 +36,17 @@ You’re using an older version of Firefox for desktop.
 Update today to stay fast and safe.
 
 
+## TAG: download_browse_freely
+;Browse Freely
+Browse Freely
+
+
+# String obsolete. Do NOT remove.
 ;Choose Independent.
 Choose Independent.
 
 
+# String obsolete. Do NOT remove.
 ;Choose Firefox.
 Choose Firefox.
 
@@ -84,15 +98,6 @@ Get it on iPhones and iPads
 ## TAG: tracking_protection
 ;Now with Tracking Protection.
 Now with Tracking Protection.
-
-
-## TAG: hello_copy_update
-;Browse the Web with friends.
-Browse the Web with friends.
-
-
-;Free, easy video conversations.
-Free, easy video conversations.
 
 
 ;Connect Firefox wherever you use it.

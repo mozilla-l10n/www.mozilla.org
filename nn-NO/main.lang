@@ -28,6 +28,11 @@ OS {ok}
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Last ned tidlege utgjevingar
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -112,7 +117,7 @@ Treng du hjelp?
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-Nyhende
+Nyheiter
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -198,6 +203,11 @@ Kontakt oss
 
 ;Other languages:
 Andre språk:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Sidespråk:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -610,7 +620,7 @@ Våre produkt
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
-Programnyskapning og andre nyhende for å vidareføra oppdraget vårt.
+Programnyskapning og andre nyheiter for å vidareføra oppdraget vårt.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -646,7 +656,7 @@ Slå på JavaScript for å få rett vising av denne sida.
 
 # Used as link to /firefox/desktop in footers on some pages
 ;Firefox Features
-Firefox-fuksjonar
+Firefox-funksjonar
 
 
 # Used as link to SUMO in footers on some pages
@@ -756,7 +766,7 @@ Firefox kjem snart til iOS! <a href="{url}">Registrer deg for å læra meir</a>.
 
 
 ;Congrats. You’re up to date!
-Gratulerar. Du er oppdatert!
+Gratulerer. Du er oppdatert!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -794,7 +804,7 @@ Alt om<br> Firefox.
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Få nyhende om Firefox
+Få nyheiter om Firefox
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
@@ -824,19 +834,49 @@ Tilgjengelege språk
 Vi vil berre senda deg Mozilla-relatert informasjon.
 
 
+;Thanks!
+Takk!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Om du ikkje tidlegare har bekrefta eit abonnement på eit Mozilla-relatert nyheitsbrev, må du kanskje gjera det no. Sjå etter ein e-post frå oss i innboksen din eller i søppelpostfilteret ditt.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Takk! Kontroller innboksen din for å stadfesta abonnementet.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Du vil få ein e-post frå mozilla@e.mozilla.org for å stadfesta abonnementet. Dersom du ikkje finn han, kontroller spamfilteret. Du må stadfesta abonnementet for å få nyheitsbrevet.
 
 
 ;Read all about it in our <span>newsletter</span>
-Les alt om det i <span>nyhendebrevet</span> vårt
+Les alt om det i <span>nyheitsbrevet</span> vårt
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Abonner på månadlege Mozilla-nyhende, og hald deg oppdatert om kva som skjer, med mellom anna dei siste tipsa om korleis du kan få mest muleg ut av Firefox. Det er den perfekte måten for oss å halda kontakten på!
+Abonner på månadlege Mozilla-nyheiter, og hald deg oppdatert om kva som skjer, med mellom anna dei siste tipsa om korleis du kan få mest muleg ut av Firefox. Det er den perfekte måten for oss å halda kontakten på!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + deg
+
+
+;Get Firefox tips, tricks, news and more
+Få Firefox-tips, triks, nyheiter og mykje meir
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Nyskapingar på nettet
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internetthelse
 
 

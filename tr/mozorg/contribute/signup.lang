@@ -1,5 +1,6 @@
 ## active ##
 ## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -163,6 +164,11 @@ Bağlılık sözü verin, güçlü şifrelemeyi savunduğunuzu gösterin.
 Şifreleme, kişisel bilgilerimizi güvende ve gizli tutmanın temel yoludur. Şifrelemeyi koruma mücadelemizde bize katılın.
 
 
+;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">Şifreleme hakkında daha fazla bilgi alın</a>, neden gerekli olduğunu ve korunması gerektiğini öğrenin.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 <a href="%s" rel="external" target="_blank">Şifreleme hakkında daha fazla bilgi alın</a>, neden gerekli olduğunu ve korunması gerektiğini öğrenin.
 
@@ -208,6 +214,11 @@ Tanıtımı izleyin.
 Air Mozilla’da daha fazla <em>Joy of Coding</em> videosu izleyin
 
 
+;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Programlama Topululuğu’na katılarak</a> dünyadaki diğer Mozillian’larla birlikte çalışmaya başlayın.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Programlama Topululuğu’na katılarak</a> dünyadaki diğer Mozillian’larla birlikte çalışmaya başlayın.
 
@@ -249,6 +260,11 @@ Dev Tools Challenger’a gidin
 Dev Tools Challenger’ı ziyaret edin
 
 
+;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Webdev Topululuğu’na katılarak</a> dünyadaki diğer Mozillian’larla birlikte çalışmaya başlayın.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Webdev Topululuğu’na katılarak</a> dünyadaki diğer Mozillian’larla birlikte çalışmaya başlayın.
 
@@ -274,6 +290,11 @@ Android için Mozilla Stumbler’ı yükleyin
 Mozilla Stumbler’ı yükleyin
 
 
+;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">Mozilla Konum Hizmetleri hakkında daha fazla bilgi alın</a> ve katkıda bulunmanın diğer yollarını keşfedin.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
 <a href="%s" target="_blank">Mozilla Konum Hizmetleri hakkında daha fazla bilgi alın</a> ve katkıda bulunmanın diğer yollarını keşfedin.
 

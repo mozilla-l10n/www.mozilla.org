@@ -28,6 +28,11 @@ iOS
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+გამოშვებამდელი ჩამოტვირთვები
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -200,6 +205,11 @@ Mozilla-ს შესახებ
 სხვა ენები:
 
 
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+გვერდის ენა:
+
+
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d.%m.%Y
@@ -224,7 +234,7 @@ Firefox-ის დამხმარეები
 
 
 ;Privacy Policy
-კონფიდენციალობის პოლიტიკა
+პრივატულობის პოლიტიკა
 
 
 ;Release Notes
@@ -824,10 +834,20 @@ Firefox სიახლეთა გამოწერა
 გამოგეგზავნებათ მხოლოდ Mozilla-სთან დაკავშირებული ინფორმაცია.
 
 
+;Thanks!
+გმადლობთ!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+თუ აქამდე არასდროს დაგიდასტურებიათ Mozilla-სთან დაკავშირებული ბიულეტენის გამოწერა, შესაძლოა ამის გაკეთება ახლა დაგჭირდეთ. გთხოვთ შეამოწმეთ ჩვენი წერილი თქვენს შემოსულებში ან სპამის საქაღალდეში.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 გმადლობთ! გთხოვთ გადაამოწმოთ თქვენი ელფოსტა ხელმოწერის დასადასტურებლად.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 თქვენ მიიღეთ ელფოსტა მისამართიდან mozilla@e.mozilla.org თქვენი ხელმოწერის დასადასტურებლად. თუ ვერ ხედავთ, გადაამოწმეთ სპამის დასტაში. სიახლეთა მისაღებათ მათი გამოწერა უნდა დაადასტუროთ.
 
@@ -838,5 +858,25 @@ Firefox სიახლეთა გამოწერა
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 გამოიწერეთ ჩვენი ყოველთვიური სიახლეები და მუდმივად იქნებით საქმის კურსში თუ რა ხდება Mozilla-ში. აქვე გაეცნობით რჩევებსა და ხერხებს თუ როგორ მიიღოთ მაქსიმალური სარგებელი Firefox ბრაუზერისგან. ეს საუკეთესო გზაა ჩვენთან კავშირისა!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + შენ
+
+
+;Get Firefox tips, tricks, news and more
+მიიღეთ Firefox-ის რჩევები, ხრიკები, სიახლეები და მეტი
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Web Innovations
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internet Health
 
 

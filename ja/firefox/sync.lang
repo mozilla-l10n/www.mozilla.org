@@ -15,11 +15,11 @@ Ready, Set, Sync {ok}
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-サインアップが済み、<em>あなたの</em> Firefox を好きなときに、好きな場所で使う準備ができています。
+ユーザー登録が完了し、<em>あなたの</em> Firefox を好きなときに、好きな場所で使う準備ができました。
 
 
 ;Take your Web with you
-自分の Web をどこへでも
+自分のウェブをどこへでも
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
@@ -27,7 +27,7 @@ Ready, Set, Sync {ok}
 
 
 ;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
-Firefox アカウントでサインイン。その後 Sync をしておけば、サインインした全ての場所で同じブックマークや、パスワードを使えます。
+Firefox アカウントでログイン。その後 Sync をしておけば、ログインしたすべての場所で同じブックマークや、パスワードを使えます。
 
 
 ;It looks like you’re running an older version of Firefox.
@@ -60,7 +60,7 @@ Android 版 Firefox をダウンロード
 
 
 ;Get started with Sync
-Sync をつかう
+Sync を使う
 
 
 ;Update your Firefox
@@ -72,13 +72,13 @@ Firefox のダウンロード
 
 
 ;Get started with Sync in four easy steps:
-Sync はたった 4 ステップで利用できます：
+Sync はたった 4 ステップで利用できます:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Firefox の右上にある <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">メニュー</a> を開き、“<strong>Sync にサインイン</strong>” を選びます。
+Firefox の右上にある <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">メニュー</a> を開き、“<strong>Sync にログイン</strong>” を選びます。
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -110,18 +110,18 @@ Firefox の右上にある <a class="menu ga-link" data-interaction="outbound li
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-Sync は 5 ステップで簡単に設定できます：
+Sync は 5 ステップで簡単に設定できます:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-<strong>メニュー</strong>ボタンをタップします。（メニューボタンは、スクリーン下部もしくは右上にあります）
+<strong>メニュー</strong>ボタンをタップします。(メニューボタンは、スクリーン下部もしくは右上にあります)
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-<strong>設定</strong>を選びます。（端末によっては、先に<strong>その他</strong> をタップします）
+<strong>設定</strong>を選びます。(端末によっては、先に<strong>その他</strong> をタップします)
 
 
 # This string is displayed on Android devices
@@ -141,11 +141,11 @@ Sync は 5 ステップで簡単に設定できます：
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-送信されたメールにある確認用のリンクをクリックすれば、準備完了です。同期する他のデバイスとの接続を忘れないでください。
+送信されたメールにある確認用のリンクをクリックすれば、準備完了です。同期する他の端末との接続を忘れないでください。
 
 
 ;Sync a little. Sync a lot.
-すこしでも、たくさんでも
+少しでも、たくさんでも
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
@@ -153,11 +153,11 @@ Firefox の何を、どこへ同期するかはあなたが選べます。PCで�
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-自宅で開いていたタブを、職場でも開きたい。出先でデスクトップの閲覧履歴を確認したい。全ての端末で、パスワードを同期したい。すべて Sync を使えば可能です。
+自宅で開いていたタブを、職場でも開きたい。出先でデスクトップの閲覧履歴を確認したい。すべての端末で、パスワードを同期したい。すべて Sync を使えば可能です。
 
 
 ;Here’s what you can sync:
-Sync では次のものを同期できます：
+Sync では次のものを同期できます:
 
 
 ;Bookmarks
@@ -213,14 +213,18 @@ Firefox を利用する
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-<b>Android の端末</b> や <b>タブレット</b>をお持ちなら。
+<b>Android スマートフォン</b> や <b>タブレット</b>をお持ちなら。
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
 Android 版 Firefox のダウンロードはこちら
 
 
+;Get Firefox everywhere
+Firefox をどこへでも持ち出そう
+
+
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-自分の Web をどこへでも持ち歩こう。スマートフォンやタブレット、デスクトップやノート PC を Sync して。
+自分のウェブをどこへでも持ち歩こう。スマートフォンやタブレット、デスクトップやノート PC を Sync して。
 
 

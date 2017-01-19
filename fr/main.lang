@@ -28,6 +28,11 @@ OS {ok}
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Télécharger une préversion
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -193,11 +198,16 @@ Centre de presse
 
 
 ;Contact Us
-Contactez-nous
+Nous contacter
 
 
 ;Other languages:
 Autres langues&nbsp;:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Langue de la page&nbsp;:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,10 +834,20 @@ Langues disponibles
 Nous ne vous enverrons que des informations concernant Mozilla.
 
 
+;Thanks!
+Merci.
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Si vous n’avez jamais confirmé d’abonnement à une lettre d’information liée à Mozilla, vous devrez peut-être le faire. Veuillez vérifier votre boîte de réception ou vos courriers indésirables et recherchez un message de notre part.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Merci&nbsp;! Veuillez relever votre boîte aux lettres pour confirmer votre abonnement.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Vous allez recevoir un message de mozilla@e.mozilla.org pour confirmer votre abonnement. Si vous ne le voyez pas dans votre boîte aux lettres, vérifiez qu’il n’a pas échoué dans les courriers indésirables. Vous devrez confirmer votre abonnement pour recevoir notre lettre d’information.
 
@@ -838,5 +858,25 @@ Découvrez notre <span>lettre d’information</span>
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Abonnez-vous pour être informé chaque mois de toutes les mises à jour et des nouveautés Mozilla, y compris nos dernières astuces pour optimiser votre navigateur Firefox. La meilleure manière de rester en contact&nbsp;!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span>&nbsp;+&nbsp;Vous
+
+
+;Get Firefox tips, tricks, news and more
+Recevez des actualités et des astuces Firefox
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Innovations web
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+La santé d’Internet
 
 

@@ -25,7 +25,12 @@ OS {ok}
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+TV {ok}
+
+
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Pre-release downloads
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -198,6 +203,11 @@ Liên hệ
 
 ;Other languages:
 Ngôn ngữ khác:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Ngôn ngữ hiển thị:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -585,7 +595,7 @@ Diễn đàn
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+Mẫu
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -771,7 +781,7 @@ Văn bản
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -780,7 +790,7 @@ Có lỗi! Xin hãy nhập một địa chỉ thư điện tử hợp lệ.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Tôi đồng ý với việc Mozilla xử lý thông tin của tôi như đã giải thích ở <a href="%s">Ghi chú bảo vệ riêng tư</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
@@ -789,7 +799,7 @@ Tôi đồng ý việc Mozilla sử dụng thông tin của tôi như trình bà
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Cập nhật mọi thứ<br> từ Firefox.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -804,7 +814,7 @@ EMAIL CỦA BẠN TẠI ĐÂY
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+Đăng ký ngay
 
 
 # Old newsletter subscription Button
@@ -824,10 +834,20 @@ Ngôn ngữ sẵn có
 Chúng tôi chỉ gửi bạn thông tin về Mozilla
 
 
+;Thanks!
+Cảm ơn!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Nếu bạn chưa từng đồng ý nhận email từ Mozilla, bạn nên làm vậy. Kiểm tra lại hộp thư đến hoặc bộ lọc thư rác để tìm email từ chúng tôi.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Cảm ơn! Vui lòng kiểm tra hộp thư đến để xác nhận việc đăng ký của bạn.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Bạn sẽ nhận được một thư điện tử từ mozilla@e.mozilla.org để xác nhận việc đăng ký. Nếu không nhìn thấy, xin hãy kiểm tra trong bộ lọc thư rác. Bạn cần phải xác nhận đăng ký để nhận thư thông báo của chúng tôi.
 
@@ -838,5 +858,25 @@ Tìm hiểu thêm trong <span>bản tin hàng tháng</span> của chúng tôi
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Đăng ký để hàng tháng cập nhật và theo dõi tin tức từ Mozilla, bao gồm những mẹo và những thủ thuật mới giúp bạn sử dụng trình duyệt Firefox được hiệu quả nhất. Đây là cách tốt nhất để chúng tôi giữ liên lạc với bạn!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + Bạn
+
+
+;Get Firefox tips, tricks, news and more
+Lấy những lời khuyên, mẹo, tin tức và hơn thế nữa về Firefox
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Web Innovations
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internet Health
 
 

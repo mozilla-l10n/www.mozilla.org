@@ -5,7 +5,7 @@ Menu di navigazione
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>per</span> Desktop
+<span>per</span> desktop
 
 
 # Firefox family navigation menu. Main level item.
@@ -26,6 +26,11 @@ OS {ok}
 # Used for the navigation menu only in Firefox OS pages
 ;TV
 TV {ok}
+
+
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Scarica versioni preliminari
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -198,6 +203,11 @@ Contattaci
 
 ;Other languages:
 Altre lingue:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Lingua:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,10 +834,20 @@ Lingue disponibili
 Ti invieremo solo notizie relative a Mozilla.
 
 
+;Thanks!
+Grazie.
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Potrebbe essere necessario confermare l’iscrizione se non sei già iscritto a una newsletter Mozilla. Verifica se c’è un nostro messaggio nella posta in arrivo o nello spam.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Grazie! Controlla la tua posta per confermare l’iscrizione.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Riceverai un’email da mozilla@e.mozilla.org per confermare la tua iscrizione, se non trovi questo messaggio controlla i tuoi filtri antispam. Per ricevere la nostra newsletter devi prima confermare l’iscrizione.
 
@@ -838,5 +858,25 @@ Scopri tutti i dettagli nella nostra <span>newsletter</span>
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Iscriviti agli aggiornamenti mensili con le ultime notizie dal mondo Mozilla, inclusi trucchi e suggerimenti per ottenere il massimo da Firefox. È il metodo ideale per rimanere in contatto con noi.
+
+
+;<span>Firefox</span> + You
+Tu&nbsp;e&nbsp;<span>Firefox</span>
+
+
+;Get Firefox tips, tricks, news and more
+Ricevi trucchi, suggerimenti, notizie e altro ancora su Firefox
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Tecnologie innovative
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Integrità di Internet
 
 

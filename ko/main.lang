@@ -28,6 +28,11 @@ iOS용
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+정식 출시전 버전
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -81,7 +86,7 @@ TV {ok}
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-추척 반대
+추적 방지 기능
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -197,7 +202,12 @@ Careers (영문)
 
 
 ;Other languages:
-다른 언어:
+언어별:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+페이지 언어:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,10 +834,20 @@ Firefox 뉴스레터
 Mozilla 관련 정보를 보내 드립니다.
 
 
+;Thanks!
+감사합니다!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Mozilla 관련 뉴스레터에 이전에 구독하신 적이 없으시다면, 지금 시작해 보세요. 저희 메일이 스팸함에 있을지 모르니, 확인해 보시기 바랍니다.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 감사합니다. 메일함에 구독 확인 메일을 살펴봐 주세요.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 mozilla@e.mozilla.org로 부터 구독 확인 메일이 도착했을 것입니다. 스팸 필터에 들어가 있는지 확인해 보시기 바랍니다.
 
@@ -838,5 +858,25 @@ mozilla@e.mozilla.org로 부터 구독 확인 메일이 도착했을 것입니�
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Mozilla에 관한 소식을 매월 보내 드립니다. Firefox 웹 브라우저 이용 팁이나 활용 방법 등도 포함되므로 도움이 되실 것입니다.
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + 사용자
+
+
+;Get Firefox tips, tricks, news and more
+Firefox 팁, 트릭, 뉴스 등
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+웹 기술 혁신
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+건강한 인터넷
 
 

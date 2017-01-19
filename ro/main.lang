@@ -28,6 +28,11 @@ Sistem de operare
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Descărcări înainte de lansare
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -198,6 +203,11 @@ Contactează-ne
 
 ;Other languages:
 Alte limbi:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Pagină în limba:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,10 +834,20 @@ Limbi disponibile
 Îți vom trimite numai informații legate de Mozilla.
 
 
+;Thanks!
+Mulțumim!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+S-ar putea să trebuiască să confirmi abonamentul la un buletin informativ Mozilla dacă nu ai făcut asta deja. Te rugăm să verifici căsuța de e-mail cu mesaje primite sau dosarul de spam pentru a găsi e-mail-ul de la noi.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Îți mulțumim! Te rugăm să verifici e-mailul pentru a confirma abonarea.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Vei primi un e-mail din partea mozilla@e.mozilla.org pentru a putea confirma abonarea. Dacă nu vezi mesajul, verifică filtrul de spam. Trebuie să confirmi abonarea pentru a primi buletinul nostru de știri.
 
@@ -838,5 +858,25 @@ Citește totul despre asta în <span>buletinele de știri</span>
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Abonează-te pentru a primi noutăți lunare și pentru a fi la curent cu știrile Mozilla, ce includ ultimele ponturi și trucuri pentru a obține maximul din browserul Firefox. Este modalitatea perfectă pentru a ține legătura!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + tu
+
+
+;Get Firefox tips, tricks, news and more
+Obține ponturi, trucuri, știri și mai multe
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Web Innovations
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internet Health
 
 

@@ -28,6 +28,11 @@ OS{ok}
 TV{ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Shkarkime paraprake hedhjeje në qarkullim
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -137,7 +142,7 @@ Zgjidhni shfletuesin e pavarur
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox-i është jofitimprurës, i pakorporatë, i pakomprometuar. Zgjedhja e Firefox-it s’është thjesht zgjedhje e një shfletuesi. Është një  votë për lirinë personale.
+Firefox-i është jofitimprurës, jo i ndonjë korporate, i pakomprometuar. Zgjedhja e Firefox-it s’është thjesht zgjedhje e një shfletuesi. Është një  votë për lirinë personale.
 
 
 ;Donate
@@ -198,6 +203,11 @@ Lidhuni Me Ne
 
 ;Other languages:
 Gjuhë të tjera:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Gjuhë faqeje:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -332,15 +342,15 @@ Ndajeni videon me të tjerët
 
 
 ;WebM format
-Formati WebM
+Në format WebM
 
 
 ;Ogg Theora format
-Formati Ogg Theora
+Në format Ogg Theora
 
 
 ;MPEG-4 format
-Formati MPEG-4
+Në format MPEG-4
 
 
 ;Mobile
@@ -376,7 +386,7 @@ Email {ok}
 
 
 ;Super speed
-Super shpejtësi
+Supershpejtësi
 
 
 ;Stunning graphics
@@ -641,7 +651,7 @@ Mbajeni ndezur flakën e pasionit për një Internet të lirë dhe të hapur! #C
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Ju lutemi, aktivizoni JavaScript-in që kjo faqe të shfaqet si duhet.
+Ju lutemi, që kjo faqe të shfaqet si duhet, aktivizoni JavaScript-in.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -824,10 +834,20 @@ Gjuhë të Mundshme
 Do t’ju dërgojmë vetëm të dhëna që kanë lidhje me Mozilla-n.
 
 
+;Thanks!
+Faleminderit!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Nëse s’e keni ripohuar më parë pajtimin te buletini me lajme nga Mozilla, mund t’ju duhet ta bëni. Ju lutemi, kontrolloni te të marrat tuaja apo te dosja e të padëshiruarave për një email nga ne.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Faleminderit! Ju lutemi, kontrolloni postën tuaj që të ripohoni pajtimin tuaj.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Do të merrni një email prej mozilla@e.mozilla.org që të ripohoni pajtimin tuaj. Nëse nuk e gjeni, kontrolloni filtrin tuaj për të padëshiruarit. Duhet të ripohoni pajtimin tuaj, që të merrni buletinin tonë.
 
@@ -838,5 +858,25 @@ Lexoni gjithçka për të, te <span>buletini</span> ynë
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Pajtohuni te përditësimet mujore dhe merrni vazhdimisht lajmet më të reja nga Mozilla, përfshi ndihmëzat më të reja për të përfituar maksimumin nga shfletuesi juaj Firefox. Mënyra e përsosur që të mbajmë lidhjet me njëri-tjetrin!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + Ju
+
+
+;Get Firefox tips, tricks, news and more
+Merrni ndihmëza, marifete, lajme dhe të tjera gjëra lidhur me Firefox-in
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Risi Web
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Shëndeti i Internetit
 
 

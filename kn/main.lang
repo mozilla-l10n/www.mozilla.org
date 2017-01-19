@@ -25,7 +25,12 @@ OS {ok}
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+TV {ok}
+
+
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Pre-release downloads
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -198,6 +203,11 @@ Firefox ಲಾಭರಹಿತ, ಖಾಸಗಿಯಲ್ಲದ, ರಾಜಿಗ�
 
 ;Other languages:
 ಇತರೆ ಭಾಷೆಗಳು:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+ಪುಟದ ಭಾಷೆ:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -585,7 +595,7 @@ MPEG-4 ವಿನ್ಯಾಸ
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+ಪೇಟೆಂಟುಗಳು
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -780,7 +790,7 @@ HTML {ok}
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+<a href="%s">ಈ ಗೌಪ್ಯತಾ ನಿಯಮ</a> ದಲ್ಲಿ ವಿವರಿಸಿರುವಂತೆ ನನ್ನ ವಿವರಗಳನ್ನು ಮೊಝಿಲ್ಲಾ ನಿರ್ವಹಿಸುವುದಕ್ಕೆ ನಾನು ಸಮ್ಮತಿಸುತ್ತೇನೆ
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
@@ -789,7 +799,7 @@ I’m okay with Mozilla handling my info as explained in <a href="%s">this Priva
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+ಜೊತೆಜೊತೆಯಾಗಿ ನೆಡೆಯಿರಿ<br> ಎಲ್ಲಾ Firefox.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -804,7 +814,7 @@ YOUR EMAIL HERE {ok}
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+ಇದೀಗ ಸೈನ್ ಅಪ್ ಮಾಡಿ
 
 
 # Old newsletter subscription Button
@@ -824,10 +834,20 @@ Sign Up Now
 ನಾವು ಕೇವಲ ಮೋಝಿಲ್ಲಾ-ಸಂಬಂಧಿ ಮಾಹಿತಿಯನ್ನು ಮಾತ್ರ ಒದಗಿಸುತ್ತೇವೆ.
 
 
+;Thanks!
+ಧನ್ಯವಾದಗಳು!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+ನೀವು ಈ ಹಿಂದೆ Mozilla ಸಂಬಂಧಿತ ಸುದ್ದಿಪತ್ರಕ್ಕೆ ಚಂದಾದಾರಿಕೆ ದೃಢೀಕರಿಸಿಲ್ಲವಾದರೆ ನೀವು ಹಾಗೆ ಮಾಡಬೇಕಾಗುತ್ತದೆ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಇನ್ಬಾಕ್ಸ್ ಅಥವಾ ನಿಮ್ಮ ಸ್ಪ್ಯಾಮ್ ಫಿಲ್ಟರ್‍‍ನಲ್ಲಿ ನಮ್ಮಿಂಡ ಬಂದಿರುವ ಇಮೇಲ್ ಪರಿಶೀಲಿಸಿ.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 ಧನ್ಯವಾದಗಳು! ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆಯನ್ನು ದೃಢೀಕರಿಸಲು ನಿಮ್ಮ ಮಿಂಚೆ ಒಳಬುಟ್ಟಿಯನ್ನು ದಯವಿಟ್ಟು ಪರೀಕ್ಷಿಸಿ.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆಯನ್ನು ದೃಢೀಕರಿಸಲು ನೀವು mozilla@e.mozilla.org ನಿಂದ ಮಿಂಚೆಯೊಂದನ್ನು ಪಡೆಯುವಿರಿ. ನಿಮಗೆ ಅದು ಸಿಗದಿದ್ದಲ್ಲಿ, ನಿಮ್ಮ ಸ್ಪಾಮ್ ಶೋಧಕಗಳನ್ನು ಪರಿಶೀಲಿಸಿ. ನಮ್ಮ ವಾರ್ತಾಪತ್ರವನ್ನು ಪಡೆಯಲು ನೀವು ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆಯನ್ನು ದೃಢಪಡಿಸಲೇಬೇಕಾಗುತ್ತದೆ.
 
@@ -838,5 +858,25 @@ Sign Up Now
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 ಮಾಸಿಕ ಪರಿಷ್ಕರಣೆಗಳಿಗೆ ಚಂದಾದಾರರಾಗಿ ಮತ್ತು Mozilla ವಾರ್ತೆಗಳ ಜೊತೆಗೆ, Firefox ಬ್ರೌಸರ್ ಅನ್ನು ಹೆಚ್ಚು ಪ್ರಯೋಜನಕಾರಿಯಾಗಿಸಲು ನವೀನ ಸಲಹೆಗಳು ಮತ್ತು ಉಪಾಯಗಳೊಂದಿಗೆ ನವೀಕೃತಗೊಳ್ಳುತ್ತಿರಿ. ಇದು ಸದಾ ನಮ್ಮೊಂದಿಗಿರಲು ಪರಿಪೂರ್ಣ ಹಾದಿಯಾಗಿದೆ!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + ನೀವು
+
+
+;Get Firefox tips, tricks, news and more
+Firefox ಸಲಹೆಗಳು, ಸೂಚನೆಗಳು, ಸುದ್ದಿ ಮತ್ತು ಇನ್ನಷ್ಟನ್ನು ಪಡೆಯಿರಿ
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Web Innovations
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internet Health
 
 

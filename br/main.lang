@@ -28,6 +28,11 @@ Reizhiad Korvoiñ
 Skinwel
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Pellgargadurioù rak-ermaeziañ
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -198,6 +203,11 @@ Kit e darempred ganeomp
 
 ;Other languages:
 Yezhoù all :
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Yezh ar bajenn:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,10 +834,20 @@ Yezhoù hegerz
 Kaset e vo titouroù deoc'h diwar-benn Mozilla nemetken.
 
 
+;Thanks!
+Trugarez deoc'h!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Ma n'ho peus ket kadarnaet ur c'houmanant d'ul lizher kelaouiñ liammet gant Mozilla endeo e c'hallit kaout d'en ober. Gwiriekait ho poest degemer pe ho sil lastez ma n'eus ket ur postel diganeomp.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Trugarez ! Mar plij, gwirit ho poest degemer evit kadarnaat ho koumanantiñ.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Ur postel a berzh mozilla@e.mozilla.org a zegemerot evit kadarnaat ho koumanantiñ. Ma ne welit ket anezhañ, gwirit ho siloù spam. Ret eo deoc'h kadarnaat ho koumanantiñ evit degemer hol lizhiri kelaouiñ.
 
@@ -838,5 +858,25 @@ Dizoloit hol <span>lizher kelaouiñ</span>
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Koumanantit d'hol lizher miziek ha degemerit keleier Mozilla, enno an tunioù ha ar c'horvigelloù diwezhañ evit kaout ar pep gwellañ eus Firefox. An doare gwellañ da chom e darempred.
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + C'hwi
+
+
+;Get Firefox tips, tricks, news and more
+Evit kaout tunioù, korvigelloù, keleier ha traoù all
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Nevezintioù ar Web
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Yec'hed an internet
 
 

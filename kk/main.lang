@@ -28,6 +28,11 @@ iOS <span>үшін</span>
 Теледидар
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Шығарылымға дейінгі жүктеп алулар
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -198,6 +203,11 @@ Mozilla туралы
 
 ;Other languages:
 Басқа тілдер:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Бет тілі:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,10 +834,20 @@ Firefox жаңалықтарын алу
 Біз сізге тек Mozilla-мен байланысты ақпаратты жіберетін боламыз.
 
 
+;Thanks!
+Рахмет!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Mozilla-ға байланысты жаңалықтар таспасына жазылуды осыған дейін растамаған болсаңыз, оны жасауыңыз керек болуы мүмкін. Поштаңыздың кіріс және спам бумаларынан бізден хатты іздеңіз.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Рахмет! Енді кіріс пошта бумасын тексеріп, өз жазылғандығыңызды дәлелдеңіз.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Сіздің жазылғаныңызды дәлелдеу үшін, сізге mozilla@e.mozilla.org хабарды жібереді. Егер сіз оны көрмесеңіз, спам-фильтрді тексеріңіз. Біздің жаңалықтардың таратылымын алу үшін, сіз оған жазылғандығыңызды дәлелдеуңіз керек.
 
@@ -838,5 +858,25 @@ Firefox жаңалықтарын алу
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Ай сайынғы жаңартуларға жазылып, сізге Firefox-ты барынша қолдануға рұқсат беретін Mozilla-ның соңғы жаңалықтары, кеңестері сонымен қатар қулықтары жайлы хабардар болыңыз. Ол сізбен байланыста қалу үшін табысты жол.
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> және сіз
+
+
+;Get Firefox tips, tricks, news and more
+Firefox жөнінде кеңестер, жаңалықтар және т.б. алу
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Веб инновациялары
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Интернет денсаулығы
 
 

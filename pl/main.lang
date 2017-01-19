@@ -28,6 +28,11 @@ system operacyjny
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Wersje rozwojowe
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -200,6 +205,11 @@ Kontakt z nami
 Inne języki:
 
 
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Page language: {ok}
+
+
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d.%m.%Y
@@ -360,7 +370,7 @@ Pobierz dla systemu <span>Android</span>
 
 
 ;Desktop
-Na komputery PC {ok}
+Na komputery
 
 
 ;Firefox Beta for mobile
@@ -465,12 +475,12 @@ Motywy
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Pomoc dla Firefoksa na komputery
+Wsparcie dla Firefoksa na komputery
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Pomoc dla Androida
+Wsparcie dla Androida
 
 
 # Top menu item on firefox/update page
@@ -510,7 +520,7 @@ Dodatki mobilne
 
 # Top menu item on firefox/update page
 ;Mobile Support
-Pomoc mobilna
+Wsparcie mobilne
 
 
 # Top menu item on firefox/update page
@@ -824,10 +834,20 @@ Dostępne języki
 Przesyłane będą wyłącznie informacje związane z Mozillą.
 
 
+;Thanks!
+Dziękujemy!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Jeśli jeszcze nigdy nie potwierdzono subskrypcji newslettera Mozilli, to możesz musieć to zrobić. Sprawdź, czy w skrzynce pocztowej lub spamie jest wiadomość od nas.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Dziękujemy! Sprawdź swoją skrzynkę, by potwierdzić subskrypcję.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 W celu potwierdzenia subskrypcji wyślemy do Ciebie e-mail z adresu mozilla@e.mozilla.org. Jeśli go nie zobaczysz, sprawdź ustawienia filtra niechcianej poczty. Zanim zaczniemy wysyłać do Ciebie wiadomości, musisz potwierdzić subskrypcję.
 
@@ -838,5 +858,25 @@ Przeczytaj więcej na ten<br /> temat w naszym <span>newsletterze</span>
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Subskrybuj comiesięczne aktualizacje, aby być na bieżąco z najnowszymi wieściami dotyczącymi Mozilli i otrzymywać nowe wskazówki, dzięki którym w pełni wykorzystasz możliwości Firefoksa. To idealny sposób na utrzymanie z nami kontaktu!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> i Ty
+
+
+;Get Firefox tips, tricks, news and more
+Porady, wskazówki i wiadomości ze świata Firefoksa
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Innowacje
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Zdrowy Internet
 
 

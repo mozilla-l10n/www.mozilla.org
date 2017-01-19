@@ -28,6 +28,11 @@ SO
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Descargues de prellanzamientu
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -71,7 +76,7 @@ Preseos
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+Pa socios
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -81,18 +86,18 @@ Aplicaciones
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+Nun rastrexar
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+Mosaicu
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+Panel d'interés
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -112,17 +117,17 @@ Restolar en privao
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+Anuncies
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+Pa desendolcadores
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+Alcontrar el mio preséu
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -132,12 +137,12 @@ Desendolcadores
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Escueyi'l restolador independiente
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox ye un restolador ensin ánimu de llucru, abiertu y llibre. Escoyer Firefox nun ye broma, ye un votu pa la llibertá personal.
 
 
 ;Donate
@@ -198,6 +203,11 @@ Contautu
 
 ;Other languages:
 Otres llingües:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Llingua de páxina:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -420,7 +430,7 @@ Dalgunos conteníos tán protexíos polos drechos d'autor ©1998–%(current_yea
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contrubúi a esti sitiu
+Contribúi a esti sitiu
 
 
 # Footer string
@@ -590,7 +600,7 @@ Patentes
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+Lideralgu
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -630,7 +640,7 @@ Comprometíu contigo, la to privacidá y con una Web abierta
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Elixi Independencia
+Escueyi independencia
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
@@ -752,7 +762,7 @@ Avientu
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+¡Firefox aportará ceo a iOS! <a href="{url}">Anicia sesión pa deprender más</a>.
 
 
 ;Congrats. You’re up to date!
@@ -776,11 +786,11 @@ HTML {ok}
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
-Eeepa! Introduz un corréu-e válidu
+¡Ups! Asegúrate d'introducir una direición válida de corréu.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Toi acordies con que Mozilla remane la mio información como se desplica <a href="%s">nesta Anuncia de Privacidá</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
@@ -824,10 +834,20 @@ Llingües disponibles
 Namás va unviásete información rellacionao con Mozilla.
 
 
+;Thanks!
+¡Gracies!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Previamente nun confirmesti una soscripción a los boletinos rellacionaos con Mozilla polo que deberíes facelo. Comprueba la to carpeta de spam pa ver el corréu.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Gracies! Mira na to bandexa d'entrada pa confirmar la to soscripción.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Vas recibir un mensaxe de corréu de mozilla@e.mozilla.org pa confirmar la to soscripción. Si nun lu ves, mira nel filtru de spam. Tienes que confirmar la soscripción pa recibir el nuesu boletín.
 
@@ -838,5 +858,25 @@ Vas recibir un mensaxe de corréu de mozilla@e.mozilla.org pa confirmar la to so
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Soscríbite pa recibir anovamientos mensuales y tar al día de les novedaes de Firefox, incluyendo los caberos trucos y conseyos pa saca-y el máximu partíu al to restolador web. Ye'l mou perfeutu de que sigamos en contautu contigo.
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + Tu
+
+
+;Get Firefox tips, tricks, news and more
+Consigui conseyos, trucos, anuncies y más de Firefox
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Web Innovations
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internet Health
 
 

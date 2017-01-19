@@ -28,6 +28,11 @@ OS {ok}
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Eelväljalasete allalaadimine
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -198,6 +203,11 @@ Kontakt
 
 ;Other languages:
 Teistes keeltes:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Lehe keel:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,10 +834,20 @@ Saadaval olevad keeled
 Saadame sulle vaid Mozillaga seotud infot.
 
 
+;Thanks!
+Täname!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Kui sa pole varem kinnitanud mõnda Mozilla uudiskirjatellimust, siis pead seda võib-olla tegema. Palun kontrolli oma postkasti või rämpspostikausta meie kirja vaatamiseks.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Täname! Palun vaata tellimuse kinnitamiseks oma postkasti.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Saadame sulle tellimuse kinnitamiseks aadressilt mozilla@e.mozilla.org kirja. Kui sa ei leia seda, siis kontrolli ka rämpsposti. Uudiskirja saamiseks pead tellimuse kinnitama.
 
@@ -838,5 +858,25 @@ Loe rohkem meie <span>uudiskirjast</span>
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Telli igakuine uudiskiri ning ole kursis Mozilla uudistega, kaasa arvatud uusimate nippide ja trikkidega Firefoxi veebilehitsejast parima võtmiseks. See on ideaalne võimalus meiega ühenduses olla!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + sina
+
+
+;Get Firefox tips, tricks, news and more
+Hangi Firefoxi nippe, trikke, uudiseid ja muud
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Veebiinnovatsioon
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Interneti tervis
 
 

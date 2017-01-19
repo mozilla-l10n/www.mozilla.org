@@ -5,12 +5,12 @@
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>برائے</span>ڈیسک ٹاپ
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>برائے</span>اینڈرائڈ
 
 
 # Firefox family navigation menu. Main level item.
@@ -20,18 +20,23 @@
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OS
+OS {ok}
 
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+ٹی وی
+
+
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+اجرا سے پہلے کی ڈاؤن لوڈ
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+برائے ڈیسک ٹاپس &amp; اور لیپ ٹاپس
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -46,17 +51,17 @@ For phones &amp; tablets
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
-Trusted
+اعتماد شدہ
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Flexible
-Flexible
+لچکدار
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Fast
-Fast
+تیز
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -66,7 +71,7 @@ Fast
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+آلات
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -76,7 +81,7 @@ For partners
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+ایپس
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -86,23 +91,23 @@ Apps
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+ٹائلیں
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+دلچسپی کا ڈیشبورڈ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+تخلیق کار اشاعت
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+نجی براؤزنگ
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -112,17 +117,17 @@ Private Browsing
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+خبریں
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+ڈیولپرز کے لیے
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+میرا آلہ تلاش کریں
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -132,12 +137,12 @@ Find My Device
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+آزادانہ براؤزر کا انتخاب کریں
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+فائر فاکس غیر منافع بخش، غیر کارپوریٹ، غیر معاہدہ کر لیا ہے. انتخاب فائر فاکس صرف ایک براؤزر کا انتخاب نہیں کیا ہے. یہ ذاتی آزادی کے لئے ایک ووٹ ہے.
 
 
 ;Donate
@@ -200,18 +205,23 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 دیگر زبانیں
 
 
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+صفحہ کی زبان:
+
+
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %Y-%m-%d {ok}
 
 
 ;Legal
-Legal
+قانونی
 
 
 # Used as link in the footer
 ;Cookies
-کوکی
+کوکیاں
 
 
 # Used as link in the footer
@@ -260,7 +270,7 @@ Firefox افلیئٹس
 
 
 ;Previous
-Previous
+پچھلا
 
 
 ;Next
@@ -311,7 +321,7 @@ MB {ok}
 
 # Same as previous above but with no capitalization on More
 ;Learn more
-اور سیکھیں
+مزید سیکھیں
 
 
 # Link used to play again an animation or a video
@@ -324,11 +334,11 @@ MB {ok}
 
 
 ;Replay the video
-Replay the video
+ویڈیو ری پلے
 
 
 ;Share the video
-Share the video
+ویڈیو کا اشتراک کریں
 
 
 ;WebM format
@@ -420,7 +430,7 @@ MPEG-4 فارمیٹ
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+اس سائٹ میں حصہ ڈالیں
 
 
 # Footer string
@@ -445,7 +455,7 @@ Contribute to this site
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync
+ہمہ وقت سازی
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -455,7 +465,7 @@ Sync
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+Android کے اظافہ-جات
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -470,7 +480,7 @@ Android Add-ons
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+Android کا تعاون
 
 
 # Top menu item on firefox/update page
@@ -535,7 +545,7 @@ Mozilla کا حصہ بنیں
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
-Volunteer
+رضاکار
 
 
 # Top menu item on firefox/update page
@@ -560,62 +570,62 @@ Mozilla کی تازہ کاری حاصل کریں
 
 # footer link
 ;Mozilla on Twitter
-Mozilla on Twitter
+Mozilla پرTwitter
 
 
 # footer link
 ;Firefox on Twitter
-Firefox on Twitter
+Firefox پرTwitter
 
 
 # footer link
 ;Mozilla on Facebook
-Mozilla on Facebook
+Mozilla Facebook پر
 
 
 # footer link
 ;Firefox on Facebook
-Firefox on Facebook
+فاِئرفاکس فیسبک پر
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
-Forums
+فورم
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+پیٹینٹ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+قیادت
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
-Governance
+گورننس
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
-History
+تاریخ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Our Products
-Our Products
+ہماری مصنوعات
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
-Software and other innovations designed to advance our mission.
+سافٹ ویئر اور آگے بڑھانے کے لئے ڈیزائن کیا گیا دیگر بدعات اور ہمارا مقصد.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Become a volunteer contributor in a number of different areas.
+رضاکار معاون بنیں اور متعدد مختلف چیزوں پر کام کریں
 
 
 # This is a non-visible string for blind people to indicate where the menu is
@@ -625,12 +635,12 @@ Become a volunteer contributor in a number of different areas.
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Committed to you, your privacy and an open Web
+آپ، آپ کی رازداری اور ایک کھلی ویب لئے مصروف عمل
 
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Choose Independent
+غیر تابع کا انتخاب کریں
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
@@ -703,7 +713,7 @@ Firefox مدد
 
 
 ;<abbr>Jan</abbr>
-<abbr>عمومی اعلان</abbr>
+<abbr>جنوری</abbr>
 
 
 ;<abbr>Feb</abbr>
@@ -715,7 +725,7 @@ Firefox مدد
 
 
 ;<abbr>Apr</abbr>
-<abbr>اپریل</abbr>
+<abbr>ایپرل</abbr>
 
 
 ;<abbr>May</abbr>
@@ -771,7 +781,7 @@ Congrats. You’re up to date!
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -804,7 +814,7 @@ Firefox خبریں حاصل کریں
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+ابھی سائن اپ کریں
 
 
 # Old newsletter subscription Button
@@ -824,10 +834,20 @@ Sign Up Now
 ہم آپکو صرف موزیلا سے متعلقہ معلومات بھیجیں گے۔
 
 
+;Thanks!
+شکریہ!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 شکریہ! اپنی رکنیت تصدیق کرنے کے لیے اپنا ان باکس چیک کریں۔
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 آپ کو اپنی رکنیت تصدیق کرنے کے لیے mozilla@e.mozilla.org کی طرف سے ایک ای میل ملے گی۔ اگر آپ کو نہیں مل رہی تو اپنا بے کار ڈاک فلٹر چیک کریں۔ نیوز لیٹر وصول کرنے کے لیے آپ کو رکنیت کی تصدیق کرنا ضروری ہے۔
 
@@ -838,5 +858,25 @@ Sign Up Now
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 ماہانہ تازہ کاریوں کے رکن بنیں اور موزیلا خبروں، بشمول فائر فاکس سے زیادہ سے زیادہ فائدہ اٹھانے  کے لیے تازہ ترین ٹوٹکوں اور چالوں سے باخبر رہیے۔ یہ ہمارے لیے رابطہ میں رہنے کا بہترین طریقہ ہے۔
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span>+ آپ
+
+
+;Get Firefox tips, tricks, news and more
+Firefox کے ٹوٹکے، چالاکی، خبریں اور مزید حاصل کریں
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+ویب کی چدتیں
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+انٹرنیٹ کی صحت
 
 

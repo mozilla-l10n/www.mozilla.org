@@ -1,5 +1,6 @@
 ## active ##
 ## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -163,6 +164,11 @@ Sottoscrivi il patto e impegnati a favore della crittografia di alta fedeltà.
 La crittografia è lo strumento che consente di mantenere le nostre comunicazioni sicure e private. Unisciti a noi nella battaglia per difenderla.
 
 
+;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">Impara di più sulla crittografia</a>, perché è così importante e perché dobbiamo impegnarci a proteggerla.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 <a href="%s" rel="external" target="_blank">Impara di più sulla crittografia</a>, perché è così importante e perché dobbiamo impegnarci a proteggerla.
 
@@ -208,6 +214,11 @@ Guarda l’introduzione
 Guarda altri video della serie <em>Joy of Coding</em> su Air Mozilla
 
 
+;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Unisciti alla comunità dedicata ai programmatori</a> e inizia a collaborare con altri mozilliani da tutto il mondo.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Unisciti alla comunità dedicata ai programmatori</a> e inizia a collaborare con altri mozilliani da tutto il mondo.
 
@@ -249,6 +260,11 @@ Vai su Dev Tools Challenger
 Visita Dev Tools Challenger
 
 
+;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Iscriviti al gruppo Webdev Contribute Group</a> e inizia a collaborare con altri mozilliani da tutto il mondo.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Iscriviti al gruppo Webdev Contribute Group</a> e inizia a collaborare con altri mozilliani da tutto il mondo.
 
@@ -274,6 +290,11 @@ Traccia una mappa delle connessioni wireless nelle tue vicinanze.
 Installa Mozilla Stumbler
 
 
+;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">Impara di più sui servizi geografici di Mozilla</a> e scopri altri modi per contribuire.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
 <a href="%s" target="_blank">Impara di più sui servizi geografici di Mozilla</a> e scopri altri modi per contribuire.
 

@@ -28,10 +28,15 @@ OS {ok}
 テレビ
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+プレリリース版のダウンロード
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-デスクトップとノートPCで使うなら
+デスクトップとノートパソコンで使うなら
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -46,7 +51,7 @@ OS {ok}
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
-信頼されるブラウザ
+信頼されるブラウザー
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -132,12 +137,12 @@ Find My Device {ok}
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-独立したブラウザを利用しよう
+独立したブラウザーを利用しよう
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox は非営利中立、企業にコントロールされません。Firefox を選ぶことは、利用するブラウザを選ぶことをだけを意味しません。個人の自由を大切に思うなら、Firefox を利用しましょう。
+Firefox は非営利中立、企業にコントロールされません。Firefox を選ぶことは、利用するブラウザーを選ぶことをだけを意味しません。個人の自由を大切に思うなら、Firefox を利用しましょう。
 
 
 ;Donate
@@ -185,7 +190,7 @@ Mozilla に参加しよう
 
 
 ;Careers
-求人
+求人情報
 
 
 ;Press Center
@@ -200,13 +205,18 @@ Mozilla に参加しよう
 他の言語 :
 
 
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+ページ言語:
+
+
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %Y-%m-%d {ok}
 
 
 ;Legal
-法的文書
+法的情報
 
 
 # Used as link in the footer
@@ -328,7 +338,7 @@ FAQ {ok}
 
 
 ;Share the video
-動画をシェア
+動画を共有
 
 
 ;WebM format
@@ -348,7 +358,7 @@ MPEG-4 形式
 
 
 ;Check out the new look and feel of Firefox.
-Firefox の新しいルック・アンド・フィールを確認してください。
+Firefox の新しいデザインを見てみてください。
 
 
 ;View Full Site
@@ -388,7 +398,7 @@ Android 版 Firefox
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-アップグレードして、Firefox を安全に保ちましょう。<br/>新しい Firefox は Web を快適に閲覧でき、カスタマイズも容易です。<br/> しかも高速で無料です。
+アップグレードして、Firefox を安全に保ちましょう。<br/>新しい Firefox はウェブを快適に閲覧でき、カスタマイズも容易です。<br/> しかも高速で無料です。
 
 
 ;Upgrade now
@@ -625,7 +635,7 @@ Mozilla は多くのコミュニティメンバーによって支えられてい
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-ユーザのプライバシー、そしてオープンな Web をあなたに
+ユーザーのプライバシー、そしてオープンなウェブをあなたに
 
 
 # Common title used in Fx 10 pages
@@ -655,108 +665,108 @@ Firefox ヘルプ
 
 
 ;January
-1月
+1 月
 
 
 ;February
-2月
+2 月
 
 
 ;March
-3月
+3 月
 
 
 ;April
-4月
+4 月
 
 
 ;May
-5月
+5 月
 
 
 ;June
-6月
+6 月
 
 
 ;July
-7月
+7 月
 
 
 ;August
-8月
+8 月
 
 
 ;September
-9月
+9 月
 
 
 ;October
-10月
+10 月
 
 
 ;November
-11月
+11 月
 
 
 ;December
-12月
+12 月
 
 
 ;<abbr>Jan</abbr>
-<abbr>(1月)</abbr>
+<abbr>(1 月)</abbr>
 
 
 ;<abbr>Feb</abbr>
-<abbr>(2月)</abbr>
+<abbr>(2 月)</abbr>
 
 
 ;<abbr>Mar</abbr>
-<abbr>(3月)</abbr>
+<abbr>(3 月)</abbr>
 
 
 ;<abbr>Apr</abbr>
-<abbr>(4月)</abbr>
+<abbr>(4 月)</abbr>
 
 
 ;<abbr>May</abbr>
-<abbr>(5月)</abbr>
+<abbr>(5 月)</abbr>
 
 
 ;<abbr>Jun</abbr>
-<abbr>(6月)</abbr>
+<abbr>(6 月)</abbr>
 
 
 ;<abbr>Jul</abbr>
-<abbr>(7月)</abbr>
+<abbr>(7 月)</abbr>
 
 
 ;<abbr>Aug</abbr>
-<abbr>(8月)</abbr>
+<abbr>(8 月)</abbr>
 
 
 ;<abbr>Sep</abbr>
-<abbr>(9月)</abbr>
+<abbr>(9 月)</abbr>
 
 
 ;<abbr>Oct</abbr>
-<abbr>(10月)</abbr>
+<abbr>(10 月)</abbr>
 
 
 ;<abbr>Nov</abbr>
-<abbr>(11月)</abbr>
+<abbr>(11 月)</abbr>
 
 
 ;<abbr>Dec</abbr>
-<abbr>(12月)</abbr>
+<abbr>(12 月)</abbr>
 
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-iOS 版 Firefox。まもなく登場します！ <a href="{url}">サインアップして詳細をゲットしよう</a>。
+iOS 版 Firefox。まもなく登場！ <a href="{url}">登録して詳細情報を手に入れよう</a>。
 
 
 ;Congrats. You’re up to date!
-お使いのブラウザは最新です。
+お使いのブラウザーは最新です。
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -776,7 +786,7 @@ HTML {ok}
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
-メールアドレスの書式が正しくないようです。修正をお願いします。
+メールアドレスの形式が正しくないようです。訂正してください。
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
@@ -824,10 +834,20 @@ Firefox ニュースレター
 Mozilla に関連する情報のみお届けします。
 
 
+;Thanks!
+ありがとうございます！
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+あなたがこれまでに Mozilla 関連ニュースレターの購読を確認したことがない場合、確認を求められます。受信トレイあるいは迷惑メールフィルターを確認して、Mozilla からのメールを見つけてください。
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 ありがとうございます！ メールをチェックして、購読の開始を確認してください。
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 購読開始を確認するため mozilla@e.mozilla.org からメールをお送りしました。もし見当たらない場合は迷惑メールとして分類されていないか確かめてください。ニュースレターを受け取るには購読開始を確認する必要があります。
 
@@ -837,6 +857,26 @@ Mozilla に関連する情報のみお届けします。
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-月刊ニュースレターを購読して、お使いの Firefox ブラウザを最大限活用するためのヒントなど、Mozilla の最新情報を受け取りましょう。ニュースレターは私たちが皆さんと連絡を取り合うために最適な方法と考えています。
+月刊ニュースレターを購読して、お使いの Firefox ブラウザーを最大限活用するためのヒントなど、Mozilla の最新情報を受け取りましょう。ニュースレターは私たちが皆さんと連絡を取り合うために最適な方法と考えています。
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + あなた
+
+
+;Get Firefox tips, tricks, news and more
+Firefox に関する使い方のコツや最新情報を手に入れよう
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+ウェブイノベーション
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+インターネットの健全性
 
 

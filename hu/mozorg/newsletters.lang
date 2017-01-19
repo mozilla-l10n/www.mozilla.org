@@ -1,4 +1,6 @@
 ## active ##
+## mozilla_newsletter_copy ##
+## newsletter_confirm_2016 ##
 ## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
 
@@ -16,6 +18,26 @@ Válasszon országot
 
 ;Country:
 Ország:
+
+
+;You’re awesome!
+Ön fantasztikus!
+
+
+;And we’re not just saying that because you trusted us with your email address.
+És ezt nem csak azért mondjuk, mert ránk bízta az e-mail címét.
+
+
+;Please be sure to add mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Adja hozzá a mozilla@e.mozilla.org címet a címjegyzékéhez, hogy mindig elérjük a fiókját.
+
+
+;Mozilla touches on a variety of important issues.
+A Mozilla különféle fontos ügyeket érint.
+
+
+;Open your inbox (and your heart) even more — take a look at other topics we cover.
+Nyissa meg még jobban a fiókját (és a szívét) – tegyen egy pillantást a többi témára, amit lefedünk.
 
 
 # Form submit button on the Student Ambassador newsletter subscription form
@@ -92,18 +114,18 @@ Havi hírlevél a Firefox Affiliates programról újdonságairól.
 
 
 # Name for the newsletter in Newsletter subscription page
-;Firefox Apps & Hacks
-Firefox alkalmazások és tippek
+;Mozilla Developer Newsletter
+Mozilla fejlesztői hírlevél
 
 
-# Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
-;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
-Fejlesztői hírlevél a Firefox OS, Firefox Marketplace és az Open Web appok kapcsán.
+# Description for the newsletter in Newsletter subscription page (Mozilla Developer Newsletter)
+;A developer's guide to highlights of Web platform innovations, best practices, new documentation and more.
+Fejlesztői útmutató, amely kiemeli a webes platform innovációit, legjobb gyakorlatait, új dokumentációt, stb.
 
 
 # Name for the newsletter in Newsletter subscription page
 ;Mozillians
-Moziilások
+Mozillások
 
 
 # Description for the newsletter in Newsletter subscription page
@@ -590,5 +612,33 @@ Kiegészítők fejlesztése
 
 ;Firefox Marketplace for Desktop
 Firefox Marketplace számítógépre
+
+
+# It appears here: https://www-dev.allizom.org/newsletter/firefox/
+;Put more fox in your inbox.
+Vegye át a rókapostát.
+
+
+;See where the Web can take you with monthly Firefox tips, tricks and Internet intel.
+Lássa hová viheti a web a havi Firefox tippekkel, trükkökkel és internetes hírekkel.
+
+
+;Sign up, read up,<br> stay informed.
+Iratkozzon fel, olvassa el,<br> legyen tájékozott.
+
+
+# String obsolete.  Do NOT remove.
+# It appears here: https://www.mozilla.org/newsletter/mozilla/
+;Sign up. Read up.<br> Make a difference.
+Iratkozzon fel. Olvassa el.<br> Érjen el változást.
+
+
+;Get smart on the issues affecting your life online.
+Legyen tudatos az online életét érintő ügyekben.
+
+
+# String obsolete.  Do NOT remove.
+;Get the Mozilla newsletter to stay informed about issues challenging the health of the Internet and to discover how you can get involved.
+Kapja meg a Mozilla hírlevelet, hogy értesüljön az Internet egészségét veszélyeztető problémákról, és hogy felfedezze hogyan kapcsolódhat be.
 
 

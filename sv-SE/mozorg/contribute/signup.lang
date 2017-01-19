@@ -1,5 +1,6 @@
 ## active ##
 ## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -163,6 +164,11 @@ Underteckna löftet och ställ upp för stark kryptering.
 Kryptering är hur vi håller våra personuppgifter säkra och privata. Gå med oss i kampen för att skydda den.
 
 
+;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">Läs mer om kryptering</a>, varför det är viktigt och varför vi måste skydda den.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 <a href="%s" rel="external" target="_blank">Läs mer om kryptering</a>, varför det är viktigt och varför vi måste skydda den.
 
@@ -208,6 +214,11 @@ Titta på introduktionen.
 Visa fler <em>Joy of Coding</em> videor på Air Mozilla
 
 
+;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Anslut till kodgemenskapen</a> och börja samarbeta med andra Mozillianer runt om i världen.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Anslut till kodgemenskapen</a> och börja samarbeta med andra Mozillianer runt om i världen.
 
@@ -249,6 +260,11 @@ Gå till Dev Tools Challenger
 Besök Dev Tools Challenger
 
 
+;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Gå med i Webdev bidragsgrupp</a> och börja samarbeta med andra Mozillianer runt om i världen.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Gå med i Webdev bidragsgrupp</a> och börja samarbeta med andra Mozillianer runt om i världen.
 
@@ -274,6 +290,11 @@ Kartlägg trådlösa nätverk i ditt närområde.
 Installera Mozilla Stumbler
 
 
+;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">Läs mer om Mozillas platstjänster</a> och upptäck fler sätt att engagera dig.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
 <a href="%s" target="_blank">Läs mer om Mozillas platstjänster</a> och upptäck fler sätt att engagera dig.
 

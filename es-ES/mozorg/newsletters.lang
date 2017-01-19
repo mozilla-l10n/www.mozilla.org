@@ -1,4 +1,6 @@
 ## active ##
+## mozilla_newsletter_copy ##
+## newsletter_confirm_2016 ##
 ## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
 
@@ -16,6 +18,26 @@ Elige un país
 
 ;Country:
 País:
+
+
+;You’re awesome!
+¡Eres genial!
+
+
+;And we’re not just saying that because you trusted us with your email address.
+Y no lo decimos solo porque nos hayas confiado tu dirección de correo.
+
+
+;Please be sure to add mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Añade mozilla@e.mozilla.org a tu libreta de direcciones para asegurarte de que siempre lleguemos a tu bandeja de entrada.
+
+
+;Mozilla touches on a variety of important issues.
+Mozilla aborda una amplia variedad de temas importantes.
+
+
+;Open your inbox (and your heart) even more — take a look at other topics we cover.
+Abre aún más tu buzón (y tu corazón). Echa un vistazo a otros temas que cubrimos.
 
 
 # Form submit button on the Student Ambassador newsletter subscription form
@@ -92,13 +114,13 @@ Un boletín mensual para mantenerte al día sobre el programa Firefox Affiliates
 
 
 # Name for the newsletter in Newsletter subscription page
-;Firefox Apps & Hacks
-Firefox Apps y Hacks
+;Mozilla Developer Newsletter
+Boletín de Mozilla Developer
 
 
-# Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
-;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
-Noticias para desarrolladores acerca de Firefox&nbsp;OS, Firefox Marketplace y el ecosistema de apps de la Web abierta.
+# Description for the newsletter in Newsletter subscription page (Mozilla Developer Newsletter)
+;A developer's guide to highlights of Web platform innovations, best practices, new documentation and more.
+Una guía para desarrolladores con las últimas novedades sobre innovaciones web, buenas prácticas, nueva documentación y mucho más.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -192,7 +214,7 @@ Define la Web
 
 # Description for the newsletter in Newsletter subscription page (Shape of the Web)
 ;News and information related to the health of the web.
-Noticias e información relacionadas con la salud de la Web
+Noticias e información relacionadas con la integridad de la Web.
 
 
 ;About Addons
@@ -457,7 +479,7 @@ Ha caducado el enlace provisto o no es válido. Recibirás uno nuevo en el próx
 
 
 ;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
-Agrega nuestra dirección de envío mozilla@e.mozilla.org a tu libreta de direcciones para asegurarte de que siempre lleguemos a tu buzón.
+Agrega nuestra dirección de envío mozilla@e.mozilla.org a tu libreta de direcciones para asegurarte de que siempre lleguemos a tu bandeja de entrada.
 
 
 ;While here, why not check out some more Firefox awesomeness.
@@ -590,5 +612,33 @@ Desarrollo de complementos
 
 ;Firefox Marketplace for Desktop
 Firefox Marketplace para escritorio
+
+
+# It appears here: https://www-dev.allizom.org/newsletter/firefox/
+;Put more fox in your inbox.
+Deja que Firefox se cuele en tu buzón.
+
+
+;See where the Web can take you with monthly Firefox tips, tricks and Internet intel.
+Descubre hasta dónde te puede llevar la Web con los trucos y consejos de Firefox.
+
+
+;Sign up, read up,<br> stay informed.
+Suscríbete,<br> infórmate.
+
+
+# String obsolete.  Do NOT remove.
+# It appears here: https://www.mozilla.org/newsletter/mozilla/
+;Sign up. Read up.<br> Make a difference.
+Suscríbete. Infórmate.<br> Marca la diferencia.
+
+
+;Get smart on the issues affecting your life online.
+Entérate de todo lo que afecta a tu vida digital.
+
+
+# String obsolete.  Do NOT remove.
+;Get the Mozilla newsletter to stay informed about issues challenging the health of the Internet and to discover how you can get involved.
+Recibe el boletín de noticias de Mozilla para estar informado sobre temas que afectan a la salud de Internet y para descubrir cómo puedes involucrarte.
 
 

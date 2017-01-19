@@ -2,11 +2,11 @@
 
 
 ;Get Involved with Mozilla Today
-Get Involved with Mozilla Today
+לתרום ל־Mozilla עוד היום
 
 
 ;Try something simple
-Try something simple
+בואו להתנסות במשהו פשוט
 
 
 ;more info
@@ -14,11 +14,11 @@ Try something simple
 
 
 ;Connect with Mozilla on Twitter
-Connect with Mozilla on Twitter
+התחברו ל־Mozilla בטוויטר
 
 
 ;Stay connected with the @StartMozilla team for news, announcements and opportunities.
-Stay connected with the @StartMozilla team for news, announcements and opportunities.
+הישארו מעודכנים עם קבוצת @StartMozilla, לחדשות, הכרזות והצעות.
 
 
 ;Use Firefox on your phone
@@ -38,7 +38,7 @@ Find out more about how encryption works, why it’s essential and what you can 
 
 
 ;Try something more challenging
-Try something more challenging
+בואו להתנסות במשהו מאתגר יותר
 
 
 ;Watch someone live hack on Firefox
@@ -50,7 +50,7 @@ Firefox engineer Mike Conley livehacks and crushes bugs where he finds them in t
 
 
 ;Learn a bit about coding
-Learn a bit about coding
+קצת מידע על כתיבת קוד
 
 
 ;Explore the new Firefox Developer Edition tools that take the pain out of CSS animation.
@@ -70,7 +70,7 @@ Mozilla Participation Tasks
 
 
 ;I want to pick a different task.
-I want to pick a different task.
+ברצוני לבחור משימה אחרת.
 
 
 ;Try another task?
@@ -82,16 +82,16 @@ Keep in touch with Mozilla. Sign up for our newsletter.
 
 
 ;Find your local Mozilla community.
-Find your local Mozilla community.
+חיפוש קהילת ה־Mozilla המקומית שלך.
 
 
 ;The Mozilla newsletter is currently available in English only.
-The Mozilla newsletter is currently available in English only.
+קבוצת הדיוור של Mozilla זמינה באנגלית בלבד נכון לעכשיו.
 
 
 # Page: task/follow-mozilla
 ;Tweet to @StartMozilla and see how your technical skills can contribute
-Tweet to @StartMozilla and see how your technical skills can contribute
+ניתן לשלוח ציוץ אל ‎@StartMozilla כדי לראות כיצד היכולות הטכניות שלך יכולות להיות לעזר
 
 
 ;There are so many ways to get involved with Mozilla and support the browser. If you’re ready to fix your first bug, tweet @StartMozilla to get connected with the perfect starting bug for you.
@@ -99,7 +99,7 @@ There are so many ways to get involved with Mozilla and support the browser. If 
 
 
 ;Tweet This
-Tweet This
+לצייץ
 
 
 # This is a tweet, try to keep it within the 140 characters limit
@@ -108,15 +108,15 @@ I’m raising my hand to contribute to Mozilla! @startmozilla tell me how I can 
 
 
 ;Share on Twitter
-Share on Twitter
+שיתוף ב־Twitter
 
 
 ;Follow @startmozilla on Twitter
-Follow @startmozilla on Twitter
+עקבו אחר ‎@startmozilla ב־Twitter
 
 
 ;Follow @startmozilla
-Follow @startmozilla
+עקבו אחר ‎@startmozilla
 
 
 ;Thanks for following
@@ -125,7 +125,7 @@ Thanks for following
 
 # Page: task/follow-mobile
 ;Install Firefox for iOS or Android
-Install Firefox for iOS or Android
+התקנת Firefox עבור iOS או Android
 
 
 ;Use Firefox on your iOS or Android phone and tablet
@@ -137,20 +137,20 @@ Firefox is the independent mobile browser and by using this you’re supporting 
 
 
 ;Add Firefox to your Android and iOS devices
-Add Firefox to your Android and iOS devices
+הורדת Firefox עבור מכשירי ה־Android וה־iOS שלך
 
 
 ;Download on the App Store
-Download on the App Store
+הורדה ב־App Store
 
 
 ;Thanks for installing Firefox
-Thanks for installing Firefox
+תודה שהתקנת את Firefox
 
 
 # Page: task/encryptiopn
 ;Learn About Encryption
-Learn About Encryption
+מידע נוסף אודות הצפנה
 
 
 ;Sign the pledge and stand up for strong encryption.
@@ -161,12 +161,17 @@ Sign the pledge and stand up for strong encryption.
 Encryption is how we keep our personal information safe and private. Please join us in the fight to protect it.
 
 
+;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 <a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 
 
 ;Become an encryption champion
-Become an encryption champion
+להיות אלופים בהצפנה
 
 
 ;Take the pledge
@@ -179,11 +184,11 @@ Thank you for taking the pledge
 
 # Page: task/joy-of-coding
 ;Get involved
-Get involved
+הצטרפות
 
 
 ;Watch: The Joy of Coding
-Watch: The Joy of Coding
+צפייה: מקודדים בשמחה
 
 
 ;Watch The Joy of Coding, then discuss it with other Mozillians
@@ -206,12 +211,17 @@ Watch the intro.
 View more <em>Joy of Coding</em> videos on Air Mozilla
 
 
+;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
 
 
 ;Thanks for watching
-Thanks for watching
+תודה שצפיתם
 
 
 ;Thanks for getting involved
@@ -232,7 +242,7 @@ The more you know about the web, the easier it is to make it your own. Participa
 
 
 ;Download Firefox Dev Edition
-Download Firefox Dev Edition
+הורדת Firefox מהדורת המפתחים
 
 
 ;Dev Tools requires Firefox Developer Edition desktop browser. To try this task, download Firefox Developer Edition first.
@@ -247,21 +257,26 @@ Go to Dev Tools Challenger
 Visit Dev Tools Challenger
 
 
+;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
 
 
 ;Thanks for taking the challenge
-Thanks for taking the challenge
+תודה שלקחת חלק באתגר
 
 
 # Page: task/stumbler
 ;Get it on Google Play
-Get it on Google Play
+הורדה מ־Google Play
 
 
 ;Install Mozilla Stumbler for Android
-Install Mozilla Stumbler for Android
+התקנת Mozilla Stumbler לאנדרויד
 
 
 ;Map the wireless networks in your neighborhood.
@@ -269,9 +284,14 @@ Map the wireless networks in your neighborhood.
 
 
 ;Install Mozilla Stumbler
-Install Mozilla Stumbler
+התקנת Mozilla Stumbler
 
 
+;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
 <a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
 

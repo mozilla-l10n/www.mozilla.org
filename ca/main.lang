@@ -28,6 +28,11 @@ OS {ok}
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Baixades de versions preliminars
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -198,6 +203,11 @@ Contacteu-nos
 
 ;Other languages:
 Altres llengües:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Llengua de la pàgina:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -789,7 +799,7 @@ Accepto que Mozilla gestioni la meva informació en els termes descrits en <a hr
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Mantingueu-vos al dia<br>del Firefox.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -804,7 +814,7 @@ LA VOSTRA ADREÇA ELECTRÒNICA AQUÍ
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+Subscriviu-vos-hi ara
 
 
 # Old newsletter subscription Button
@@ -824,10 +834,20 @@ Llengües disponibles
 Només us enviarem informació relacionada amb Mozilla.
 
 
+;Thanks!
+Gràcies!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Si anteriorment no heu confirmat la subscripció a algun butlletí de notícies relacionat amb Mozilla, és possible que ho hàgiu de fer. Comproveu la safata d'entrada o el filtre de correu brossa per veure si hi ha algun missatge de Mozilla.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Gràcies! Comproveu la vostra bústia per confirmar la subscripció.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Rebreu un correu electrònic de mozilla@e.mozilla.org per confirmar la vostra subscripció. Si no el veieu, comproveu el filtre del correu brossa. Cal que confirmeu la subscripció per rebre el butlletí.
 
@@ -838,5 +858,25 @@ Llegiu-ho tot al nostre <span>butlletí</span>
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Subscriviu-vos a les actualitzacions mensuals i manteniu-vos al dia de les novetats de Mozilla, que inclouen els últims trucs i consells per aprofitar al màxim el Firefox. És la manera perfecta de mantenir-nos en contacte!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> i vosaltres
+
+
+;Get Firefox tips, tricks, news and more
+Obtingueu consells, trucs, notícies i més sobre el Firefox
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Innovacions Web
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+La salut d'Internet
 
 

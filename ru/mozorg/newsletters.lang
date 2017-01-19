@@ -1,4 +1,6 @@
 ## active ##
+## mozilla_newsletter_copy ##
+## newsletter_confirm_2016 ##
 ## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
 
@@ -16,6 +18,26 @@
 
 ;Country:
 Страна:
+
+
+;You’re awesome!
+Вы удивительны!
+
+
+;And we’re not just saying that because you trusted us with your email address.
+И мы говорим это не только потому, что вы доверили нам ваш адрес электронной почты.
+
+
+;Please be sure to add mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Пожалуйста, убедитесь, что вы добавили mozilla@e.mozilla.org в вашу адресную книгу, чтобы мы всегда могли с вами связаться.
+
+
+;Mozilla touches on a variety of important issues.
+Mozilla занимается множеством важным проблем.
+
+
+;Open your inbox (and your heart) even more — take a look at other topics we cover.
+Откройте вашу папку "Входящие" (и своё сердце) ещё больше — посмотрите на другие вопросы, которыми мы занимаемся.
 
 
 # Form submit button on the Student Ambassador newsletter subscription form
@@ -92,13 +114,13 @@ Firefox Affiliates {ok}
 
 
 # Name for the newsletter in Newsletter subscription page
-;Firefox Apps & Hacks
-Приложения и хаки Firefox
+;Mozilla Developer Newsletter
+Рассылка для разработчиков от Mozilla
 
 
-# Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
-;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
-Новости для разработчиков о Firefox OS, Магазине Firefox и экосистеме открытых веб-приложений.
+# Description for the newsletter in Newsletter subscription page (Mozilla Developer Newsletter)
+;A developer's guide to highlights of Web platform innovations, best practices, new documentation and more.
+Руководство разработчика, выделяющее инновации веб-платформы, лучшие практики, новую документацию и многое другое.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -521,7 +543,7 @@ Student Reps {ok}
 
 
 ;Get Firefox for Android
-Получить Firefox для Android
+Загрузить Firefox для Android
 
 
 ;Drumbeat Newsgroup
@@ -590,5 +612,33 @@ Aurora {ok}
 
 ;Firefox Marketplace for Desktop
 Firefox Marketplace для компьютера
+
+
+# It appears here: https://www-dev.allizom.org/newsletter/firefox/
+;Put more fox in your inbox.
+Получайте от лисицы ещё больше новостей.
+
+
+;See where the Web can take you with monthly Firefox tips, tricks and Internet intel.
+Узнайте, чего вы можете достичь в Интернете, с помощью ежемесячных советов, уловок и новинок от Firefox.
+
+
+;Sign up, read up,<br> stay informed.
+Подпишитесь, читайте,<br> будьте в курсе.
+
+
+# String obsolete.  Do NOT remove.
+# It appears here: https://www.mozilla.org/newsletter/mozilla/
+;Sign up. Read up.<br> Make a difference.
+Подпишитесь. Читайте.<br> Добивайтесь изменений.
+
+
+;Get smart on the issues affecting your life online.
+Будьте в курсе событий, затрагивающих вашу жизнь в Интернете.
+
+
+# String obsolete.  Do NOT remove.
+;Get the Mozilla newsletter to stay informed about issues challenging the health of the Internet and to discover how you can get involved.
+Получайте новостную рассылку Mozilla, чтобы быть в курсе проблем, затрагивающих здоровье Интернета, и узнавайте, как вы можете принять участие.
 
 

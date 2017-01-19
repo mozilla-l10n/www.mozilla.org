@@ -28,6 +28,11 @@ OS {ok}
 Teledu
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Fersiynau cyn eu ryddhau
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -198,6 +203,11 @@ Cysylltu â ni
 
 ;Other languages:
 Ieithoedd eraill:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Iaith y dudalen:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,10 +834,20 @@ Ieithoedd sydd ar Gael
 Dim ond gwybodaeth am Mozilla fyddwn ni'n anfon atoch.
 
 
+;Thanks!
+Diolch!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Os nad ydych eisoes wedi cadarnhau tanysgrifiad i gylchlythyr y perthyn i Mozilla, rhaid i chi wneud hynny nawr. Gwiriwch eich blwch i mewn neu eich hidl sbam am e-bost gennym ni.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Diolch! Gwiriwch eich Blwch Derbyn i gadarnhau eich tanysgrifiad.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Byddwch yn derbyn e-bost oddi wrth mozilla@e.mozilla.org i gadarnhau eich tanysgrifiad. Os nad yw i'w weld, gwiriwch eich hidl sbam. Rhaid i chi gadarnhau eich tanysgrifiad er mwyn derbyn y newyddlen.
 
@@ -838,5 +858,25 @@ Darllen ein newyddion yn ein <span>newyddlen</span>
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Tanysgrifiwch i'r diweddariadau misol a chadw'n gyfredol gyda newyddion Mozilla, gan gynnwys y ffyrdd o gael y gorau allan o'ch porwr Firefox. Dyma'r ffordd berffaith i ni gadw mewn cysylltiad!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + Chi
+
+
+;Get Firefox tips, tricks, news and more
+Cewch gynghorion, triciau, newyddion a rhagor
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Arloesedd Gwe
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Iechyd y Rhyngrwyd
 
 

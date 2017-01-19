@@ -28,6 +28,11 @@ OS {ok}
 Telewizija
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Sćehnjenja předwersijow
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -200,13 +205,18 @@ Stajće so z nami do zwiska
 Druhe rěče:
 
 
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Rěč strony:
+
+
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d.%m.%Y
 
 
 ;Legal
-Prawniski
+Prawniske
 
 
 # Used as link in the footer
@@ -824,10 +834,20 @@ K dispoziciji stejace reče
 Pósćelemy wam jenož informacije nastupajo Mozilla.
 
 
+;Thanks!
+Wulki dźak!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Jeli hišće njejsće abonement powěsćoweho lista Mozilla wobkrućił, dyrbiće to nětko činić. Prošu hladajće do dochadneje e-mejle abo papjernika za e-mejlku wot nas.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Wulki dźak! Prošu pohladajće do swojeho póstoweho kašćika, zo byšće swój abonement wobkrućił.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Dóstanjeće e-mejlku wot mozilla@e.mozilla.org, zo byšće swój abonement wobkrućił. Jeli ju njewidźiće, přepruwujće swój spamowy filter. Dyrbiće swój abonement wobkrućić, zo byšće naš powěsćowy list dóstał.
 
@@ -838,5 +858,25 @@ Dóstanjeće e-mejlku wot mozilla@e.mozilla.org, zo byšće swój abonement wobk
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Abonujuće měsačne aktualizacije a wostańće z nowinkami Mozilla aktualny, inkluziwnje pokiwy a triki, zo byšće maksimum ze wašeho wobhladowaka Firefox won ćahnył. To je perfektne wašnje za nam w zwisku wostać!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + Wy
+
+
+;Get Firefox tips, tricks, news and more
+Wobstarajće sej pokiwy, triki, nowinki a wjace za Firefox
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Webinowacije
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Status interneta
 
 

@@ -28,6 +28,11 @@ Käyttöjärjestelmä
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Ennakkoversioiden lataukset
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -198,6 +203,11 @@ Ota yhteyttä
 
 ;Other languages:
 Muut kielet:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Sivun kieli:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -590,7 +600,7 @@ Patentit
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Johtajuus
+Johtajisto
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -625,7 +635,7 @@ Valikko
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Sitoutunut sinuun, tietosuojaasi ja avoimeen verkkoon
+Omistautunut sinulle, tietosuojallesi ja avoimelle verkolle
 
 
 # Common title used in Fx 10 pages
@@ -824,10 +834,20 @@ Valitse kieli
 Lähetämme vain Mozillaan liittyviä tietoja.
 
 
+;Thanks!
+Kiitos!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Voit joutua vahvistamaan tilauksen, jos et ole aiemmin vahvistanut Mozillaan liittyvän uutiskirjeen tilausta. Tarkista sähköpostisi ja roskapostisuodattimesi viestimme varalta.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Kiitos! Ole hyvä ja tarkista saapuneet viestisi vahvistaaksesi tilauksesi.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Sinulle lähetetään viesti osoitteesta mozilla@e.mozilla.org tilauksen vahvistamista varten. Jos et näe sitä, tarkista roskapostisuodattimesi. Sinun täytyy vahvistaa tilauksesi saadaksesi uutiskirjeemme.
 
@@ -838,5 +858,25 @@ Lue kaikki tästä aiheesta <span>uutiskirjeestämme</span>
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Tilaa kuukausittaiset päivitykset, niin saat viimeisimmät Mozilla-uutiset, mukaanlukien viimeisimmät vinkit siitä, miten saat Firefox-selaimestasi eniten irti. Se on hyvä tapa saada Mozillaa koskevaa tietoa.
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + sinä
+
+
+;Get Firefox tips, tricks, news and more
+Saa Firefox-vinkkejä, -niksejä, -uutisia ynnä muuta
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Verkkoinnovaatiot
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internetin terveys
 
 

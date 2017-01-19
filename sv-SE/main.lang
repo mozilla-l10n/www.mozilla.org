@@ -28,6 +28,11 @@ OS {ok}
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Förhandshämtningar
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -198,6 +203,11 @@ Kontakta oss
 
 ;Other languages:
 Andra språk:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Sidspråk:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,10 +834,20 @@ Tillgängliga språk
 Vi kommer endast att skicka mozillarelaterad information.
 
 
+;Thanks!
+Tack!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Om du inte tidigare har bekräftat en prenumeration på ett Mozilla-relaterat nyhetsbrev kan du behöva göra det. Vänligen kontrollera din inkorg eller ditt spamfilter efter e-post från oss.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Tack! Gå till din inkorg för att bekräfta din prenumeration.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Du kommer att få ett e-brev från mozilla@e.mozilla.org för bekräftelse av din prenumeration. Om du inte hittar det, titta i din skräppostmapp. Du måste bekräfta din prenumeration för att få vårt nyhetsbrev.
 
@@ -838,5 +858,25 @@ Läs om allt i vårt <span>nyhetsbrev</span>
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Prenumerera på månatliga mozillanyheter och var uppdaterad med vad som händer, bland annat de senaste tipsen på hur du får ut det bästa av Firefox. Det är det perfekta sättet för oss att hålla kontakten!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + Du
+
+
+;Get Firefox tips, tricks, news and more
+Få Firefox tips, tricks, nyheter och mer
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Webbinnovationer
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internethälsa
 
 

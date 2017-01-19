@@ -1,42 +1,47 @@
 ;Navigation
-Navigation
+Navigation {ok}
 
 
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>para sa</span> Desktop
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>para sa</span> Android
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+<span>para sa</span> iOS
 
 
 # Firefox family navigation menu. Main level item.
 ;OS
-OS
+OS {ok}
 
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+TV {ok}
+
+
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Pre-release downloads
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+Para sa mga desktop at laptop
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+Para sa mga telepono at tablet
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -46,7 +51,7 @@ Overview
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
-Trusted
+Pinagkakatiwalaan
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -56,7 +61,7 @@ Flexible
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Fast
-Fast
+Mabilis
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -76,7 +81,7 @@ For partners
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+Apps {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -86,7 +91,7 @@ Do Not Track
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+Mga Tiles
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -97,42 +102,42 @@ Interest Dashboard
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+Edisyong pang-Developer
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+Private Browsing {ok}
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 ;Need help?
-Need help?
+Kailangan ng tulong?
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+Balita
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+Para sa mga developers
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+Hanapin Ang Aparato
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
-Developers
+Developers {ok}
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Piliin ang malayang browser
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -141,7 +146,7 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 
 
 ;Donate
-Donate
+Mag-abuloy
 
 
 ;Support
@@ -153,31 +158,31 @@ Mga Produkto
 
 
 ;Add-ons
-Add-ons
+Add-ons {ok}
 
 
 ;About Us
-About Us
+Tungkol sa atin
 
 
 ;Labs
-Labs
+Labs {ok}
 
 
 ;skip to Navigation
-skip to Navigation
+laktawan ang Nabigasyon
 
 
 ;switch language
-switch language
+lumipat ng wika
 
 
 ;Back to home page
-Back to home page
+Bumalik sa tahanan
 
 
 ;About Mozilla
-About Mozilla
+Tungkol sa Mozilla
 
 
 ;Get Involved
@@ -189,42 +194,47 @@ Mga Trabaho
 
 
 ;Press Center
-Press Center
+Press Center {ok}
 
 
 ;Contact Us
-Contact Us
+Makipag-ugnayan sa amin
 
 
 ;Other languages:
-Other languages:
+Mga ibang wika:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Wika ng pahina
 
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%Y-%m-%d
+%Y-%m-%d {ok}
 
 
 ;Legal
-Legal
+Legal {ok}
 
 
 # Used as link in the footer
 ;Cookies
-Cookies
+Cookies {ok}
 
 
 # Used as link in the footer
 ;Firefox Affiliates
-Firefox Affiliates
+Firefox Affiliates {ok}
 
 
 ;Legal Notices
-Legal Notices
+Legal Notices {ok}
 
 
 ;Privacy Policy
-Privacy Policy
+Patakarang Pangpribado
 
 
 ;Release Notes
@@ -240,7 +250,7 @@ Isara
 
 
 ;(in English)
-(in English)
+(sa Ingles)
 
 
 ;Return to top
@@ -264,20 +274,20 @@ Previous
 
 
 ;Next
-Next
+Susunod
 
 
 # MegaBytes abbreviation
 ;MB
-MB
+MB {ok}
 
 
 ;MegaBytes
-MegaBytes
+MegaBytes {ok}
 
 
 ;FAQ
-FAQ
+FAQ {ok}
 
 
 ;Videos
@@ -332,7 +342,7 @@ Share the video
 
 
 ;WebM format
-WebM format
+WebM format {ok}
 
 
 ;Ogg Theora format
@@ -340,11 +350,11 @@ Ogg Theora format
 
 
 ;MPEG-4 format
-MPEG-4 format
+MPEG-4 format {ok}
 
 
 ;Mobile
-Mobile
+Mobile {ok}
 
 
 ;Check out the new look and feel of Firefox.
@@ -360,19 +370,19 @@ Download for <span>Android</span>
 
 
 ;Desktop
-Desktop
+Desktop {ok}
 
 
 ;Firefox Beta for mobile
-Firefox Beta for mobile
+Firefox Beta para sa mobile
 
 
 ;Firefox for mobile
-Firefox for mobile
+Firefox para sa mobile
 
 
 ;Email
-Email
+Email {ok}
 
 
 ;Super speed
@@ -495,7 +505,7 @@ Releases
 
 # Top menu item on firefox/update page
 ;Firefox
-Firefox
+Firefox {ok}
 
 
 # Top menu item on firefox/update page
@@ -515,7 +525,7 @@ Mobile Support
 
 # Top menu item on firefox/update page
 ;Blog
-Blog
+Blog {ok}
 
 
 # Top menu item on firefox/update page
@@ -525,7 +535,7 @@ About Firefox
 
 # Top menu item on firefox/update page
 ;Join Mozilla
-Join Mozilla
+Sumali sa Mozilla
 
 
 # Top menu item on firefox/update page
@@ -655,51 +665,51 @@ Firefox Help
 
 
 ;January
-January
+Enero
 
 
 ;February
-February
+Pebrero
 
 
 ;March
-March
+Marso
 
 
 ;April
-April
+Abril
 
 
 ;May
-May
+Mayo
 
 
 ;June
-June
+Hunyo
 
 
 ;July
-July
+Hulyo
 
 
 ;August
-August
+Agosto
 
 
 ;September
-September
+Setyembre
 
 
 ;October
-October
+Oktubre
 
 
 ;November
-November
+Nobyembre
 
 
 ;December
-December
+Disyembre
 
 
 ;<abbr>Jan</abbr>
@@ -771,7 +781,7 @@ Text
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -824,10 +834,20 @@ Available Languages
 We will only send you Mozilla-related information.
 
 
+;Thanks!
+Salamat!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Thanks! Please check your inbox to confirm your subscription.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 
@@ -838,5 +858,25 @@ Read all about it in our <span>newsletter</span>
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + Ikaw
+
+
+;Get Firefox tips, tricks, news and more
+Get Firefox tips, tricks, news and more
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Web Innovations
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internet Health
 
 

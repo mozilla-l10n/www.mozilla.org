@@ -1,5 +1,6 @@
 ## active ##
 ## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -163,6 +164,11 @@ Firefox - независимый мобильный браузер. Исполь
 Шифрование — это то, с помощью чего мы сохраняем нашу личную информацию в безопасности. Пожалуйста, присоединяйтесь к нам в борьбе за защиту шифрования.
 
 
+;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">Узнайте больше о шифровании</a>, почему оно так важно и почему мы должны его защищать.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 <a href="%s" rel="external" target="_blank">Узнайте больше о шифровании</a>, почему оно так важно и почему мы должны его защищать.
 
@@ -208,6 +214,11 @@ Firefox - независимый мобильный браузер. Исполь
 Смотрите больше видео про <em>Радость программирования</em> на Air Mozilla
 
 
+;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Присоединяйтесь к Сообществу программистов</a> и начните сотрудничать с другими Мозилльцами по всему миру.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Присоединяйтесь к Сообществу программистов</a> и начните сотрудничать с другими Мозилльцами по всему миру.
 
@@ -249,6 +260,11 @@ Firefox - независимый мобильный браузер. Исполь
 Посетить Челенджер Инструментов Разработчика
 
 
+;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Присоединяйтесь к группе помощников Webdev</a> и начинайте сотрудничать с другими Мозилльцами со всего мира.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Присоединяйтесь к группе помощников Webdev</a> и начинайте сотрудничать с другими Мозилльцами со всего мира.
 
@@ -274,6 +290,11 @@ Firefox - независимый мобильный браузер. Исполь
 Установить Mozilla Stumbler
 
 
+;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">Узнайте больше о Сервисах позиционирования Mozilla</a> и множестве способов принять участие.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
 <a href="%s" target="_blank">Узнайте больше о Сервисах позиционирования Mozilla</a> и множестве способов принять участие.
 

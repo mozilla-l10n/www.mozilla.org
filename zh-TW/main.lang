@@ -10,12 +10,12 @@
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-Android 版
+<span>for</span> Android {ok}
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS {OK}
+<span>for</span> iOS {ok}
 
 
 # Firefox family navigation menu. Main level item.
@@ -26,6 +26,11 @@ Android 版
 # Used for the navigation menu only in Firefox OS pages
 ;TV
 電視
+
+
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+發行前版本
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -76,17 +81,17 @@ Android 版
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps {OK}
+Apps {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track {OK}
+Do Not Track {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles {OK}
+Tiles {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -97,7 +102,7 @@ Tiles {OK}
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition {OK}
+Developer Edition {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -198,6 +203,11 @@ Firefox 非營利、非商業、永不妥協。選擇 Firefox 不只是選擇一
 
 ;Other languages:
 其他語言：
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+頁面語言:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -445,7 +455,7 @@ Firefox 行動版
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync {OK}
+Sync {ok}
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -495,7 +505,7 @@ Android 技術支援
 
 # Top menu item on firefox/update page
 ;Firefox
-Firefox {OK}
+Firefox {ok}
 
 
 # Top menu item on firefox/update page
@@ -636,7 +646,7 @@ Facebook 上的 Firefox
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox: {OK}
+讓對自由與開放的網際網路的熱情更加發光發熱！#ChooseIndependent，下載 Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -771,7 +781,7 @@ iOS 版 Firefox 即將推出！<a href="{url}">登記取得更多資訊</a>。
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML {OK}
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -821,13 +831,23 @@ HTML {OK}
 
 
 ;We will only send you Mozilla-related information.
-我們將只會寄送與 Mozilla 有關的資訊給您。
+我們只會寄送 Mozilla 相關資訊給您。
 
 
+;Thanks!
+感謝！
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+若您還沒有確認過要訂閱 Mozilla 相關電子報，可能會收到我們的確認郵件。請檢查您的信箱收件匣或垃圾信件匣當中有沒有來自我們的郵件。
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 謝謝您！請收信並確認您的訂閱。
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 您將會收到一封來自 mozilla@e.mozilla.org 的訂閱確認信。若您沒收到的話，請檢查您的垃圾信件過濾器，您必須確認訂閱後才會開始收到我們的電子報。
 
@@ -838,5 +858,25 @@ HTML {OK}
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 訂閱每月的更新消息，並取得 Mozilla 的最新消息，還有能讓您完全發揮 Firefox 瀏覽器功能的小撇步等等。這是您能保持與我們聯繫的最佳方式！
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + You {ok}
+
+
+;Get Firefox tips, tricks, news and more
+訂閱 Firefox 最新使用小密技、最新消息等相關資訊
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Web 技術創新
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internet 健康生態
 
 

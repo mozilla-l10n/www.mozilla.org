@@ -1,4 +1,5 @@
 ## active ##
+## geolocation_faq_update ##
 ## NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
 
 
@@ -10,8 +11,8 @@
 גלישה מבוססת מיקום
 
 
-;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
-Firefox יכול לתת לאתרים מידע על המיקום שלך, כך שתוכל לקבל מידע יותר רלוונטי למיקום שלך ויותר שימושי. כל זאת כדי להפוך את הרשת לחכמה יותר &ndash; וזה מתבצע בדרך שמכבדת את פרטיותך המלאה. <a href="%(url)s" id="%(id)s" style="%(style)s">נסה זאת!</a>
+;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s">Give it a try!</a>
+Firefox יכול לתת לאתרים מידע על המיקום שלך, כך שתוכל לקבל מידע יותר רלוונטי למיקום שלך ויותר שימושי. כל זאת כדי להפוך את הרשת לחכמה יותר &ndash; וזה מתבצע בדרך שמכבדת את פרטיותך המלאה. <a href="%(url)s" id="%(id)s">נסה זאת!</a>
 
 
 ;Frequently asked Questions
@@ -191,12 +192,12 @@ Mozilla או Google לעולם לא ישתמשו במידע שנאסף על־י�
 
 
 ;How can I add support for Geolocation to my web site?
-How can I add support for Geolocation to my web site?
+כיצד אוכל להוסיף תמיכה במידע גאוגרפי לאתר שלי?
 
 
 # Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 ;You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
-You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
+ניתן לשלב תמיכה במידע גאוגרפי אל תוך השירות שלך על ידי מילוי ההוראות ב<a href="%(url)s">מרכז המפתחים של Mozilla</a>.
 
 
 ;Where am I?

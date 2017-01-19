@@ -1,65 +1,70 @@
+## active ##
+## firefox_sync_mobile_buttons_update ##
+## firefox_sync_non_fx ##
+## fx38_sync_updates ##
+## ios_announce ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
 ;Keep your Firefox in sync
-Keep your Firefox in sync
+તમારા Firefox ને સુમેળ માં રાખો
 
 
 ;Ready, Set, Sync
-Ready, Set, Sync
+તૈયાર, સેટ, સુમેળ
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+તમે સાઇન અપ અને વપરાશ માટે તૈયાર છો <em>તમારા</em> ફાયરફોક્સ ને ગમે ત્યાં, ગમે ત્યારે.
 
 
 ;Take your Web with you
-Take your Web with you
+તમે તમારા વેબ ને લો
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+સુમેળ ફાયરફોક્સ ને તમે વાપરવા માટે કોઇ સ્માર્ટફોન, ટેબ્લેટ અથવા કમ્પ્યુટરથી તમારા બુકમાર્ક્સ, પાસવર્ડ્સ, ટેબો અને વધુ પ્રવેશ કરો.
 
 
 ;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
-Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
+તમારા બુકમાર્ક્સ, પાસવર્ડ્સ ટેબ્સને સમન્વયિત અને તમારા ફાયરફોક્સ એકાઉન્ટ નો વધુ ઉપયોગ કરીને, અને તેને દરેક જગ્યાએ સાઇન ઇનથી પ્રવેશ કરો.
 
 
 ;It looks like you’re running an older version of Firefox.
-It looks like you’re running an older version of Firefox.
+લાગે છે કે તમે Firefox ની જૂની આવૃત્તિ વાપરી રહ્યા છો.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-The new version of Sync only works with the latest version of Firefox
+સમન્વય ની નવી આવૃત્તિ માત્ર ફાયરફોક્સ ની તાજેતરની આવૃત્તિ સાથે કામ કરે છે
 
 
 ;Soon you’ll be able to use Sync on your iOS device
-Soon you’ll be able to use Sync on your iOS device
+ટૂંક સમયમાં તમે તમારા iOS ઉપકરણ પર સમન્વયિત વાપરવા માટે સમર્થ હશો
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+સમન્વય લક્ષણ તમને માત્ર ફાયરફોક્સ સાથે મળશે છે. તેને બધા શોધવા!
 
 
 ;Now sync Firefox with your iOS and Android devices.
-Now sync Firefox with your iOS and Android devices.
+હવે તમારા iOS અને Android ઉપકરણો સાથે ફાયરફોક્સ સમન્વયન.
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync is just one of the great features you’ll only get with Firefox.
+સમન્વય લક્ષણ તમને માત્ર ફાયરફોક્સ સાથે મળશે છે.
 
 
 ;Download Firefox for Android
-Download Firefox for Android
+ડાઉનલોડ કરો ફાયરફોક્સ Android માટે
 
 
 ;Get started with Sync
-Sync થી શરૂઆત કરો
+સમન્વયન સાથે મદદ મેળવો
 
 
 ;Update your Firefox
-Update your Firefox
+તમારું Firefox અદ્યતન કરો
 
 
 ;Download Firefox
@@ -67,36 +72,36 @@ Firefox ડાઉનલોડ કરો
 
 
 ;Get started with Sync in four easy steps:
-Get started with Sync in four easy steps:
+ચાર સરળ પગલાંઓમાં સમન્વયન સાથે પ્રારંભ કરો:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+ખોલો <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">યાદી</a> ફાયરફોક્સ અને પસંદ કરો ટોચ જમણી “<strong>સમન્વયન માટે સાઇન ઇન.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+ક્લિક કરો “<strong>શરૂ કરો</strong>” ટેબ ખુલે છે.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+ઇમેઇલ સરનામું અને પાસવર્ડ દાખલ કરો “<strong>ફાયરફોક્સ એકાઉન્ટ બનાવો</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+ક્લિક કરો “<strong>આગળ</strong>” ચકાસણી તમારા ઇમેઇલ પર મોકલવામાં માટે.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+તમે તમારા ઇમેઇલ તપાસો અને ચકાસણી લિંક પર ક્લિક કરો, પછી તમે સેટ હશો! ફાયરફોક્સ આપોઆપ પછીથી પૃષ્ઠભૂમિમાં સમન્વયિત થશે.
 
 
 ;Get more detailed instructions.
-Get more detailed instructions.
+વધુ વિગતવાર સૂચનો મેળવો.
 
 
 ;Using an older version of Sync?
@@ -105,117 +110,121 @@ Sync ની જૂની આવૃત્તિ વાપરી રહ્યા �
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-How to set up Sync in five easy steps:
+પાંચ સરળ પગલાં સમન્વય કેવી રીતે:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+ટેપ <strong>મેનુ</strong> બટન (સ્ક્રીન નીચે અથવા બ્રાઉઝર ની ટોચ જમણે ખૂણે).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+પસંદ કરો <strong>સેટિંગ્સ</strong> (જો તમે ટેપ કરવાની જરૂર પડી શકે છે <strong>વધુ</strong> પ્રથમ).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+ટેપ <strong>સમન્વય</strong> અને પછી <strong>શરૂ કરો</strong>.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+આ <strong>ફાયરફોક્સ એકાઉન્ટ પાનું બનાવો</strong> નવી ટેબમાં ખુલશે.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+ફોર્મ ભરો અને ક્લિક કરો <strong>આગળ</strong>.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+તમે તમારા ઇમેઇલ તપાસો અને ચકાસણી લિંક પર ક્લિક કરો પછી, તમે જવા માટે તૈયાર હશો! સમન્વય સૌથી મેળવવા માટે તમારા બધા અન્ય ઉપકરણો સાથે જોડાવા માટે ભૂલતા નહિ.
 
 
 ;Sync a little. Sync a lot.
-Sync a little. Sync a lot.
+થોડો સમન્વયન કરો. ઘણો સમન્વયન કરો.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+તમે શું તમારા ફાયરફોક્સ ભાગો તમે સમન્વયિત કરવા માંગો છો અને જ્યાં તમે તેમને સુમેળ કરવા માંગો છો તે પસંદ. તમારા ખુલ્લા ટૅબ્સને દૈનિક પરિવહન પર લો. કામ પર તમારા બુકમાર્ક્સ પ્રવેશ કરો. ગમે તે હોય, જ્યારે, બધે.
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+અન્ય ઉપકરણ માંથી તમારા કમ્પ્યુટર ઓપન ટેબો મુલાકાત કરવા માંગો છો? તમારા બ્રાઉઝિંગ ઇતિહાસ પ્રવેશ કરો અને જાઓ ? તમારી સાથે તમારા પાસવર્ડો રાખવા? હવે તમે કરી શકો છો.
 
 
 ;Here’s what you can sync:
-Here’s what you can sync:
+અહીં તમે શું સમન્વયન કરી શકો છો:
 
 
 ;Bookmarks
-Bookmarks
+બુકમાર્ક્સ
 
 
 ;Passwords
-Passwords
+પાસવર્ડો
 
 
 ;Open tabs
-Open tabs
+ઓપન ટેબ્સ
 
 
 ;History
-History
+ઇતિહાસ
 
 
 ;At home
-At home
+મુખ્ય પાનું
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+એક બીટ અવગણીને વગર કોચથી તમારા ડેસ્ક પરથી ખસેડો. તમારા સ્માર્ટફોન પર તમારા ખુલ્લા ટૅબ્સને પ્રવેશ, અથવા તમારા tablets પર તમારા બુકમાર્ક્સ બ્રાઉઝ રાખો.
 
 
 ;At work
-At work
+કામ પર
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+તમારા મહત્વપૂર્ણ તમામમાહિતી સાથે જોડાયેલ રહો. પાસવર્ડ્સ અને બુકમાર્ક્સ તમે કોઈપણ સમયે હક કરવા માટે જરૂર પડી શકે છે તેને સમન્વયન કરો. માત્ર ફાયરફોક્સ જેવા, તે સુરક્ષિત હોઈ શકે છે કારણ કે તે છે.
 
 
 ;On the go
-On the go
+સફરમાં
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+તમારી મનપસંદ સાઇટ્સ સાથે રાખો, અથવા તે વાર્તા તમે શરૂથી સમાપ્ત કરો — ત્યાં તમે જાઓ. સમન્વય સાથે, તે સરળ છે.
 
 
 ;Add Firefox to your smartphone or tablet
-Add Firefox to your smartphone or tablet
+તમારા સ્માર્ટફોન અથવા tablet પર ફાયરફોક્સ ઉમેરો
 
 
 ;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
-To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
+સંપૂર્ણ સમન્વય અનુભવ મેળવવા માટે, iOS અથવા Android માટે ફાયરફોક્સ મેળવો અને તમારા બધા ઉપકરણો સાથે જોડાવો — દરેક જગ્યાએ અને ગમે ત્યાં તમે ફાયરફોક્સ વાપરો.
 
 
 ;Add Firefox
-Add Firefox
+ફાયરફોક્સ ઉમેરો
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Have an <b>Android smartphone</b> or <b>tablet</b>?
+પાસે છે એક <b>Android સ્માર્ટફોન</b> અથવા <b>tablet</b>?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-DOWNLOAD FIREFOX FOR ANDROID
+Android માટે ફાયરફોક્સ ડાઉનલોડ
+
+
+;Get Firefox everywhere
+ફાયરફોક્સ બધે મેળવો
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+સંપૂર્ણ સમન્વય અનુભવ મેળવવા માટે, દરેક જગ્યાએ તમારા વેબ લેવા માટે તમે ફાયરફોક્સ વાપરો. તમારા સ્માર્ટફોન, tablet, કમ્પ્યુટર અને લેપટોપ સાથે જોડાવો.
 
 

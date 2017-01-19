@@ -28,6 +28,11 @@ OS {ok}
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Նախաթողարկումների ներբեռնումներ
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -81,7 +86,7 @@ TV {ok}
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Չհետագծել
+Չհետագծում
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -198,6 +203,11 @@ Mozilla-ի մասին
 
 ;Other languages:
 Այլ լեզուներ.
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Հիմնական լեզուն.
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,10 +834,20 @@ HTML {ok}
 Մենք ձեզ կուղարկենք միայն Mozilla-ին առնչվող տեղեկատվություն:
 
 
+;Thanks!
+Շնորհակալություն:
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Եթե նախկինում չեք հաստատել բաժանորդագրությունները Mozilla-ի նորություններին, ապա դա կարող եք անել հիմա: Դա անելու համար ստուգեք ձեր էլ. փոստարկղը կամ թափոնի պանակը և գտեք մեր ուղարկած նամակը:
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Շնորհակալություն։ Ստուգեք Ձեր Մուտքայինները՝ հաստատելու համար բաժանորդագրությունը։
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Դուք կստանաք նամակ mozilla@e.mozilla.org-ից՝ հաստատելու համար։ Եթե չեք տեսնում այն, ստուգեք լցոնի կանոնները։ Դուք պետք է հաստատեք բաժանորդագրությունը։
 
@@ -838,5 +858,25 @@ HTML {ok}
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Բաժանորդագրվեք ամսական թարմացումներին և հետ մի մնացեք Մոզիլլայի նորություններից, վերջին խորհուրդներից և փորձերից` Firefox դիտարկիչը լավագույնը դարձնելու համար: Սա գերազանց միջոց է, որպեսզի մենք կապի մեջ լինենք:
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span>-ը և Դուք
+
+
+;Get Firefox tips, tricks, news and more
+Ստացեք Firefox-ի հուշումները, գաղտնիքները, նորությունները և ավելին
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Վեբ նորարարություններ
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Համացանցի առողջությունը
 
 

@@ -25,7 +25,12 @@
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+ТВ
+
+
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Изтегляне на изпитателни версии
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -97,7 +102,7 @@ TV
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Развойна версия
+Developer Edition {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -200,6 +205,11 @@ Firefox остана не-комерсиален, не-корпоративен,
 Други езици:
 
 
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Език на страницата:
+
+
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d.%m.%Y
@@ -289,7 +299,7 @@ MБ
 
 
 ;Report Trademark Abuse
-Доклад за злоупотреба с търговска марка
+Докладване на злоупотреба с търговска марка
 
 
 ;Free Upgrade
@@ -415,7 +425,7 @@ Firefox за мобилни телефони
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Части от това съдържание са ©1998–%(current_year)s на индивидуални mozilla.org сътрудници. Съдържанието е достъпно под <a href="%(url)s">Creative Commons license</a>.
+Части от това съдържание са ©1998–%(current_year)s на индивидуални сътрудници на mozilla.org. Съдържанието е достъпно под <a href="%(url)s">Creative Commons license</a>.
 
 
 # Footer string (will replace "Contribute to this page")
@@ -485,7 +495,7 @@ Android поддръжка
 
 # Top menu item on firefox/update page
 ;Privacy &amp; Security
-Сигурност &amp; Неприкосновеност
+Сигурност и неприкосновеност
 
 
 # Top menu item on firefox/update page
@@ -535,7 +545,7 @@ Firefox за организации
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
-Volunteer
+Бъдете доброволец
 
 
 # Top menu item on firefox/update page
@@ -585,7 +595,7 @@ Firefox във Facebook
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+Патенти
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -646,7 +656,7 @@ Patents
 
 # Used as link to /firefox/desktop in footers on some pages
 ;Firefox Features
-Firefox възможности
+Възможности на Firefox
 
 
 # Used as link to SUMO in footers on some pages
@@ -771,7 +781,7 @@ Firefox излиза скоро за iOS! <a href="{url}">Запишете се,
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -780,36 +790,36 @@ HTML
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Съгласен съм Mozilla да разполага с данните ми, както е обяснено в <a href="%s">тази Политика за личните данни</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Съгласен съм Mozilla да разполага с моята информация, както е обяснено в <a href="%s">тази Политика за поверителност</a>
+Съгласен съм Mozilla да разполага с данните ми, както е обяснено в <a href="%s">тази Политика за личните данни</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Бъдете в течение с<br>всичко около Firefox.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Получавайте Firefox новини
+Получавайте новини за Firefox
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-ВЪВЕДЕТЕ ВАШИЯ ИМЕЙЛ ТУК
+ВЪВЕДЕТЕ СВОЯ ИМЕЙЛ ТУК
 
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+Абониране
 
 
 # Old newsletter subscription Button
 ;Sign me up
-Запишете ме
+Абониране
 
 
 ;Select country
@@ -824,10 +834,20 @@ Sign Up Now
 Ще ви изпращаме само информация, свързана с Мozilla.
 
 
+;Thanks!
+Благодарим!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Ако преди не сте потвърждавали абонамент за бюлетин на Mozilla ще трябва да го направите сега. Моля, проверете входящата или папката с нежелана поща за писмо от нас.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Благодарим! Моля проверете входящата си поща, за да потвърдите абонамента си.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Ще получите имейл от mozilla@e.mozilla.org, за да потвърдите абонамента си. Ако не го видите, проверете спам филтъра си. Трябва да потвърдите абонамента си, за да получавате бюлетина ни.
 
@@ -837,6 +857,26 @@ Sign Up Now
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Запишете се за месечните ни новини и бъдете в крак с новите неща около Mozilla, включително и последните сътвети как да направите вашия Firefox по-добър. Това е идеален начин да следите какво става с нас!
+Абонирайте се за месечните ни новини и бъдете в крак с новите неща около Mozilla, включително и последните съвети как да направите вашия Firefox по-добър. Това е идеален начин да следите какво става при нас!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + Вие
+
+
+;Get Firefox tips, tricks, news and more
+Съвети, новини и още много за Firefox
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Иновации на уеб
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Здраве на Мрежата
 
 

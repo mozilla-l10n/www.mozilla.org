@@ -28,6 +28,11 @@ OS
 TV
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Pre-release downloads
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -107,7 +112,7 @@ Private Browsing
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 ;Need help?
-ସହାୟତା ଆବଶ୍ୟକ କି?
+Need help?
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -200,9 +205,14 @@ Mozilla ବିଷୟରେ
 ଅନ୍ୟାନ୍ୟ ଭାଷାଗୁଡ଼ିକ:
 
 
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Page language:
+
+
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%d-%m-%Y
+%Y-%m-%d {ok}
 
 
 ;Legal
@@ -311,7 +321,7 @@ FAQ
 
 # Same as previous above but with no capitalization on More
 ;Learn more
-ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ
+Learn more
 
 
 # Link used to play again an animation or a video
@@ -405,12 +415,12 @@ Firefox ର ନୂତନ ରୂପକୁ ଦେଖନ୍ତୁ ଏବଂ ଅନ�
 
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 ;What’s New
-What’s New
+ନୂଆ କଣ ରହିଛି
 
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
 ;Privacy
-Privacy
+ଗୋପନୀୟତା
 
 
 # Footer string
@@ -766,7 +776,7 @@ Congrats. You’re up to date!
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;Text
-ପାଠ୍ୟ
+Text
 
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
@@ -824,10 +834,20 @@ Sign Up Now
 ଆମେ ଆପଣଙ୍କୁ କେବଳ Mozilla-ସମ୍ପର୍କୀୟ ସୂଚନା ପଠାଇବୁ।
 
 
+;Thanks!
+Thanks!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 ଧନ୍ୟବାଦ! ଆପଣଙ୍କର ସଦସ୍ୟତାକୁ ନିଶ୍ଚିତ କରିବା ପାଇଁ ଦୟାକରି ଆପଣଙ୍କର ଚିଠିବାକ୍ସ ଦେଖନ୍ତୁ।
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 ଆପଣଙ୍କର ସଦସ୍ୟତାକୁ ନିଶ୍ଚିତ କରିବା ପାଇଁ ଆପଣ mozilla@e.mozilla.org ରୁ ଏକ ଚିଠି ପାଇବେ। ଯଦି ଆପଣ ଏହାକୁ ନ ପାଆନ୍ତି, ତେବେ ସ୍ପାମରେ ଦେଖନ୍ତୁ। ଆମର ଖବର ପତ୍ରିକା ପାଇବା ପାଇଁ ଆପଣ  ନିଜର ସଦସ୍ୟତାକୁ ନିଶ୍ଚିତ କରିବା ଆବଶ୍ୟକ।
 
@@ -838,5 +858,25 @@ Sign Up Now
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 ମାସିକ ଅଦ୍ୟତନ ପାଇଁ ସଦସ୍ୟତା ଗ୍ରହଣ କରନ୍ତୁ ଏବଂ  Mozilla ଖବର ଜାଣନ୍ତୁ, Firefox ବ୍ରାଉଜରରୁ ଅଧିକ ଲାଭ ପାଇବା ପାଇଁ  ସୂଚନା ଏବଂ କୌଶଳକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରି। ସମ୍ପର୍କ ଜାରି ରଖିବା ପାଇଁ ଏହା ହେଉଛି ଏକ ଉତ୍ତମ ଉପାୟ!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + You
+
+
+;Get Firefox tips, tricks, news and more
+Get Firefox tips, tricks, news and more
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Web Innovations
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internet Health
 
 

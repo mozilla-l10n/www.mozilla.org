@@ -28,6 +28,11 @@
 ТВ
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Загрузка предрелизных версий
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -141,7 +146,7 @@ Firefox — некоммерческий, некорпоративный и не
 
 
 ;Donate
-Пожертвование
+Пожертвовать
 
 
 ;Support
@@ -198,6 +203,11 @@ Firefox — некоммерческий, некорпоративный и не
 
 ;Other languages:
 Другие языки:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Язык страницы:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -277,7 +287,7 @@ Firefox — некоммерческий, некорпоративный и не
 
 
 ;FAQ
-FAQ {ok}
+ЧЗВ
 
 
 ;Videos
@@ -824,19 +834,49 @@ HTML {ok}
 Мы будем посылать вам только информацию, относящуюся к Mozilla.
 
 
+;Thanks!
+Спасибо!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Если вы ранее не подтверждали подписку на новостную рассылку Mozilla, вам, возможно, придется сделать это. Пожалуйста, проверьте свой почтовый ящик или спам-фильтр, чтобы посмотреть, не пришло ли от нас письмо.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Спасибо! Пожалуйста, проверьте свою папку входящих писем, чтобы подтвердить свою подписку.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Вы получите сообщение от mozilla@e.mozilla.org, просящее подтвердить вашу подписку. Если вы его не видите, проверьте свой спам-фильтр. Для получения нашей новостной рассылки вы должны подтвердить свою подписку.
 
 
 ;Read all about it in our <span>newsletter</span>
-Узнайте все новости из <span>нашей подписки</span>
+Узнайте все новости из <span>нашей новостной рассылки</span>
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Подпишитесь на ежемесячную рассылку и будьте в курсе новостей Mozilla, а также последних советов и секретов, позволяющих использовать ваш Firefox по максимуму. Это идеальный способ для нас оставаться на связи!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + Вы
+
+
+;Get Firefox tips, tricks, news and more
+Получайте советы, хитрости и новости Firefox и даже больше
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Веб-инновации
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Здоровье Интернета
 
 

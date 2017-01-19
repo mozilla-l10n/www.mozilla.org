@@ -28,6 +28,11 @@ OS {ok}
 Tv
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Pre-releasedownloads
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -200,6 +205,11 @@ Contact
 Andere talen:
 
 
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Paginataal:
+
+
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d-%m-%Y
@@ -306,12 +316,12 @@ Aanpassen met add-ons
 
 
 ;Learn More
-Meer lezen
+Meer info
 
 
 # Same as previous above but with no capitalization on More
 ;Learn more
-Meer lezen
+Meer info
 
 
 # Link used to play again an animation or a video
@@ -824,10 +834,20 @@ Beschikbare talen
 We sturen u alleen Mozilla-gerelateerde informatie.
 
 
+;Thanks!
+Bedankt!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Als u nog niet eerder een inschrijving voor een Mozilla-gerelateerde nieuwsbrief hebt bevestigd, dient u dit mogelijk te doen. Controleer uw Postvak IN of uw spamfilter voor een e-mail van ons.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Bedankt! Controleer uw Postvak IN om uw inschrijving te bevestigen.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 U ontvangt een e-mailbericht van mozilla@e.mozilla.org om uw inschrijving te bevestigen. Als u dit niet ziet, controleer dan uw spamfilter. U moet uw inschrijving bevestigen om onze nieuwsbrief te ontvangen.
 
@@ -838,5 +858,25 @@ Lees er alles over in onze <span>nieuwsbrief</span>
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Abonneer u op maandelijkse updates en blijf op de hoogte met Mozilla-nieuws, waaronder de nieuwste tips en trucs om het meeste uit uw Firefox-browser te halen. Voor ons is het de perfecte manier om contact te houden!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + u
+
+
+;Get Firefox tips, tricks, news and more
+Ontvang tips, trucs, nieuws en meer over Firefox
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Webinnovaties
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internetgezondheid
 
 

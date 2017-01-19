@@ -10,12 +10,12 @@
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>សម្រាប់</span> Android
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+<span>សម្រាប់</span> iOS
 
 
 # Firefox family navigation menu. Main level item.
@@ -25,7 +25,12 @@
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+ទូរទស្សន៍
+
+
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Pre-release downloads
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -198,6 +203,11 @@ Firefox មិន​រក​ប្រាក់​ចំណេញ មិន​�
 
 ;Other languages:
 ភាសា​ផ្សេង​ទៀត ៖
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Page language:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,10 +834,20 @@ Sign Up Now
 យើង​នឹង​ផ្ញើ​ឲ្យ​អ្នក​តែ​ព័ត៌មាន​ដែល​ទាក់ទង​ទៅ​និង Mozilla ប៉ុណ្ណោះ ។
 
 
+;Thanks!
+អរគុណ!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 អរគុណ! សូម​ពិនិត្យ​មើល​ប្រអប់​សំបុត្រ​របស់​អ្នក​ដើម្បី​​បញ្ជាក់​ការ​ជាវ​របស់​អ្នក។
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 អ្នក​នឹង​ទទួល​បាន​អ៊ីមែល​ពី mozilla@e.mozilla.org ដើម្បី​បញ្ជាក់​ការ​ជាវ​របស់​អ្នក។ បើ​អ្នក​មិន​ឃើញ​វា​ទេ សូម​ពិនិត្យ​មើល​​ក្នុង​តម្រង​​សារ​ឥត​បាន​ការ​របស់​អ្នក។ អ្នក​ត្រូវតែ​បញ្ជាក់​ការ​ជាវ​របស់​អ្នក​ដើម្បី​ទទួល​បាន​​ព្រឹត្តិបត្រ​របស់​យើង។
 
@@ -838,5 +858,25 @@ Sign Up Now
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 ជាវ​ប្រចាំ​បច្ចុប្បន្ន​ភាព​ប្រចាំ​ខែ និងទទួល​បាន​ព័ត៌មាន​ថ្មីៗ​ពី Mozilla រួម​បញ្ចូល​ទាំង​ដំណោះ​ស្រាយ​ខ្លីៗ​ក្នុង​ការ​ប្រើប្រាស់​កម្មវិធី​រុករក Firefox យ៉ាង​មាន​ប្រសិទ្ធិភាព ។ វា​ជា​វិធី​មួយ​យ៉ាង​ប្រសើរ​បំផុត​ក្នុង​ការ​រក្សា​ទំនាក់ទំនង​ជាមួយ​គ្នា!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + អ្នក
+
+
+;Get Firefox tips, tricks, news and more
+Get Firefox tips, tricks, news and more
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Web Innovations
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internet Health
 
 

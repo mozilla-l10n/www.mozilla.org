@@ -1,189 +1,192 @@
+## active ##
+## forget_button ##
+## tracking_protection ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
 
 
 # <title> tag
 ;Firefox — Designed to protect your privacy — The most trusted browser on the Web
-Firefox — Designed to protect your privacy — The most trusted browser on the Web
+ફાયરફોક્સ — તમારી ગોપનીયતા રક્ષણ કરવા માટે રચાયેલ — વેબ પર સૌથી વધુ વિશ્વસનીય બ્રાઉઝર
 
 
 # main title
 ;Trust isn’t made. It’s earned.
-Trust isn’t made. It’s earned.
+વિશ્વાસ બનાવવામાં આવતો નથી. તે મળ્યો હતો.
 
 
 # L10n: Line break below is for wide screen formatting only.
 ;We build Firefox with a mission to put you first, above all else.<br class="wide-br">
-We build Firefox with a mission to put you first, above all else.<br class="wide-br">
+અમે તમને પ્રથમ બધા બીજા ઉપર મૂકવામાં આવે છે, એક મિશન સાથે ફાયરફોક્સ બિલ્ડ.<br class="wide-br">
 
 
 ;We do it to keep you in control.
-We do it to keep you in control.
+અમે તેને તમારા નિયંત્રણમાં રાખીશુ.
 
 
 ;We do it so you can browse without worry.<br class="wide-br">
-We do it so you can browse without worry.<br class="wide-br">
+અમે તે કરી જેથી તમે ચિંતા વગર બ્રાઉઝ કરી શકો છો.<br class="wide-br">
 
 
 ;And we do it because no one else will.
-And we do it because no one else will.
+અને અમે તે કરીશુ કારણ કે કોઈ કરશે નહિ.
 
 
 # The span tags are for presentational purpose
 ;<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
-<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
+<span id="trust-line1">સૌથી વિશ્વસનીય </span> <span id="trust-line2">ઇન્ટરનેટ કંપની</span> <span id="trust-line3">ગોપનીયતા માટે </span>
 
 
 ;Designed to protect your privacy
-Designed to protect your privacy
+તમારી ગોપનીયતા રક્ષણ કરવા માટે રચાયેલ
 
 
 ;We believe your personal information belongs only to you.<br class="wide-br">
-We believe your personal information belongs only to you.<br class="wide-br">
+અમે તમારી વ્યક્તિગત માહિતી માત્ર તમને અનુસરે છે એમ માને છે.<br class="wide-br">
 
 
 ;That’s why Firefox is filled with features to ensure that’s the case.
-That’s why Firefox is filled with features to ensure that’s the case.
+એટલે જ કે આ કેસ છે તેની ખાતરી કરવા માટે ફાયરફોક્સ લક્ષણો સાથે ભરવામાં આવે છે.
 
 
 ;Private Browsing with<br> Tracking Protection
-Private Browsing with<br> Tracking Protection
+સાથે ખાનગી બ્રાઉઝિંગ<br> ટ્રૅકિંગ સંરક્ષણ
 
 
 ;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
-Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
+તમારા ઇતિહાસ અથવા શોધ સાચવવામાં કૂકીઝ સાચવવા વગર બ્રાઉઝ કરો, અને સમગ્ર વેબ પર તમે નીચેના માંથી છુપાયેલા તૃતીય પક્ષો અવરોધિત કરો.
 
 
 ;Learn more about Private Browsing
-Learn more about Private Browsing
+ખાનગી બ્રાઉઝિંગ વિશે વધુ જાણો
 
 
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 # http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 ;Forget Button
-Forget Button
+ભૂલવાનુ બટન
 
 
 ;Remove browsing information from your computer after the fact.
-Remove browsing information from your computer after the fact.
+એ હકીકત પછી તમારા કમ્પ્યુટર માંથી બ્રાઉઝ માહિતી દૂર કરો.
 
 
 ;Use it when you’ve visited a site that you don’t want in your history.
-Use it when you’ve visited a site that you don’t want in your history.
+તેને વાપરો જ્યારે તમે સાઇટ નીમુલાકાત લીધી અનને તમારા ઇતિહાસમાં નહિં માંગો.
 
 
 ;Add the Forget Button to your toolbar
-Add the Forget Button to your toolbar
+તમારા ટૂલબાર ભૂલવાનુ બટન ઉમેરો
 
 
 ;See who’s watching you online.
-See who’s watching you online.
+તમને કોણ ઓનલાઇન જોવે છે તે જુઓ.
 
 
 ;The Lightbeam add-on exposes the first and third party sites you interact with as you browse.
-The Lightbeam add-on exposes the first and third party sites you interact with as you browse.
+Lightbeam ઉમેરો પર તો તમે બ્રાઉઝ સાથે વાર્તાલાપ પ્રથમ અને તૃતીય પક્ષ સાઇટ્સ પ્રદર્શિત કરે છે.
 
 
 ;Shine a light on the Web with Lightbeam
-Shine a light on the Web with Lightbeam
+પ્રકાશ બીમ સાથે વેબ પર પ્રકાશ ચમકવું
 
 
 ;Keeping you safe across the Web
-Keeping you safe across the Web
+તમે વેબ સુરક્ષિત રહેવા માટે
 
 
 ;Firefox lets you learn more about the sites you visit and helps keep you secure online.
-Firefox lets you learn more about the sites you visit and helps keep you secure online.
+ફાયરફોક્સ તમે સાઇટ્સ તમે મુલાકાત લો છો તે વિશે વધુ જાણવા દે છે અને તમે સુરક્ષિત રાખવામાં મદદ કરે છે.
 
 
 ;World class protection
-World class protection
+વિશ્વ કક્ષાની સુરક્ષા
 
 
 ;Anti-phishing & anti-malware features protect you from trojan horses and spyware and warn you about potentially fraudulent sites.
-Anti-phishing & anti-malware features protect you from trojan horses and spyware and warn you about potentially fraudulent sites.
+વિરોધી ફિશીંગ અને વિરોધી મૉલવેર લક્ષણો ટ્રોજન હોર્સ અને સ્પાયવેર રક્ષણ અને સંભવિત કપટી સાઇટ્સ વિશે ચેતવે છે.
 
 
 ;Automatic security updates
-Automatic security updates
+આપોઆપ સુરક્ષા સુધારાઓ
 
 
 ;Firefox updates automatically to make sure you always have the latest and greatest security fixes.
-Firefox updates automatically to make sure you always have the latest and greatest security fixes.
+ફાયરફોક્સ ખાતરી કરો કે તમે હંમેશા તાજેતરની અને મહાન સુરક્ષા સુધારાઓ છે બનાવવા માટે આપમેળે અપડેટ.
 
 
 ;Secure connections
-Secure connections
+સુરક્ષિત જોડાણ
 
 
 ;Use instant Website ID to make sure a site is what it claims to be and to check if your connection to it is secure.
-Use instant Website ID to make sure a site is what it claims to be and to check if your connection to it is secure.
+ખાતરી કરો કે એક સાઇટ છે કે તે શું હોઈ શકે છે અને જો તે તમારું કનેક્શન સુરક્ષિત છે તે ચકાસવા માટે દાવો કરે છે તેની ખાતરી કરવા માટે તાત્કાલિક વેબસાઇટ ID ને વાપરો.
 
 
 ;Browse without worry
-Browse without worry
+ચિંતા કર્યા વગર બ્રાઉઝ
 
 
 # L10n: Line break below is for visual formatting only.
 ;Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
-Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
+શા માટે તમારી ગોપનીયતા અને સુરક્ષા તેથી મહત્વનું છે વધુ જાણો <br class="wide-br">અને તમે તમારી જાતને ઓનલાઇન સુરક્ષિત રાખવા માટે શું કરી શકો છો.
 
 
 ;Privacy & you
-Privacy & you
+ગોપનીયતા અને તમે
 
 
 ;How to stay safe online
-How to stay safe online
+કેવી રીતે સુરક્ષિત રહેવું તે
 
 
 ;Privacy & security FAQ
-Privacy & security FAQ
+ગોપનીયતા અને સુરક્ષા FAQ
 
 
 ;Privacy & security add-ons
-Privacy & security add-ons
+ગોપનીયતા અને સુરક્ષા એડ ઓન
 
 
 ;Privacy blog
-Privacy blog
+ગોપનીયતા બ્લોગ
 
 
 ;Security blog
-Security blog
+સુરક્ષા બ્લોગ
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Do Not Track
-Do Not Track
+ટ્રૅક કરશો નહીં
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
-A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
+ફાયરફોક્સ નવીનતા, ટ્રૅક કરશો નહીં તમે જે રીતે તમારા વ્યક્તિગત માહિતી એકત્રિત અને વપરાય છે ઓનલાઇન વિશે પસંદગી સૂચવે કરી શકો છો.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
-Learn more about Do Not Track
+ટ્રૅક કરશો નહીં વિશે વધુ જાણો
 
 
 # Obsolete string, do not remove
 ;Private browsing
-Private browsing
+ખાનગી બ્રાઉઝિંગ
 
 
 # Obsolete string, do not remove
 ;Sometimes it’s nice to go undercover.
-Sometimes it’s nice to go undercover.
+ક્યારેક તે જાસૂસી જવા માટે સરસ છે.
 
 
 # Obsolete string, do not remove
 ;Turn this feature on to protect your browsing history from others.
-Turn this feature on to protect your browsing history from others.
+અન્ય લોકો પાસેથી તમારા બ્રાઉઝિંગ ઇતિહાસ રક્ષણ પર આ લક્ષણ ચાલુ કરો.
 
 
 # Obsolete string, do not remove
 ;Learn how to open a private window
-Learn how to open a private window
+કેવી રીતે ખાનગી વિન્ડો ખોલવા જાણવા
 
 

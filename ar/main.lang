@@ -28,6 +28,11 @@
 أجهزة التلفزيون
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Pre-release downloads
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -198,6 +203,11 @@
 
 ;Other languages:
 لغات أخرى:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Page language:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,10 +834,20 @@ HTML {ok}
 سنرسل لك معلومات متعلقة بموزيلا فقط.
 
 
+;Thanks!
+Thanks!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 شكرًا. من فضلك، راجع صندوق الوارد لتأكيد اشتراكك.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 ستصلك رسالة من mozilla@e.mozilla.org لتأكيد اشتراكك. إذا لم تجدها فراجع مرشّح الرسائل المزعجة (السخام). يجب أن تؤكّد اشتراكك لتصلك الرسائل الإخبارية.
 
@@ -838,5 +858,25 @@ HTML {ok}
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 اشترك في التحديثات الشهرية وابق على اطلاع على آخر مستجدات موزيلا، بما في ذلك التلميحات والحيل للاستفادة المثلى من إمكانيات فَيَرفُكس. هذه أفضل وسيلة لنا لنبقى على تواصل.
+
+
+;<span>Firefox</span> + You
+<span>فيَرفُكس</span> + أنت
+
+
+;Get Firefox tips, tricks, news and more
+احصل على أفكار وحِيَل حول استخدام فيَرفُكس، على أخبار والمزيد
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Web Innovations
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internet Health
 
 

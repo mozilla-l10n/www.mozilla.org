@@ -11,8 +11,8 @@ Xeollocalización en Firefox
 Restolar cola reconocencia d'allugamientu
 
 
-;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
-Firefox pue dici-yos a los sitios web u t'allugues pa que pueas alcontrar la información que ye más relevante y útil. Trátase de facer la web más intelixente &ndash; y esto faise d'un mou que respeta dafechu la to privacidá. <a href="%(url)s" id="%(id)s" style="%(style)s">¡Pruébalo!</a>
+;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s">Give it a try!</a>
+Firefox pue dici-yos a los sitios web u t'allugues pa que pueas alcontrar la información que ye más relevante y útil. Trátase de facer la web más intelixente &ndash; y esto faise d'un mou que respeta dafechu la to privacidá. <a href="%(url)s" id="%(id)s">¡Pruébalo!</a>
 
 
 ;Frequently asked Questions
@@ -24,15 +24,15 @@ Entrugues frecuentes
 
 
 ;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
-Los sitios web qu'usen navegación considerando la llocalización van entrugate au tas pa poder date información más importante, o p'aforrate tiempu mientres guetes. Supongamos qu'andes guetando una sidrería na to redolada. Un sitiu web va pidite que-y informes de la to llocalización pa que, guetando simplemente "sidrería", te dea les rempuestes que necesites... ensin tener qu'escribir o dar más información.
+Los sitios web qu'usen la reconocencia d'allugamientu al restolar entrugarán u tas pa ufrite información más relevante o p'aforrate tiempu entrín guetes. Digamos que tas guetando por un restorán na to zona. Un sitiu web sedrá a entrugate pa compartir el to allugamientu pa que namái al guetar «cachopu» te dea les rempuestes que precises... ensin dar más información o tener d'escribir más.
 
 
 ;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
-O, si andes guetando instrucciones nun mapa p'aportar a dalgún sitiu, el sitiu web va saber d'aú partes, asina que namái vas tener que dicir aú quies dir.
+O, si tas planiando direiciones pa dir a daqué sitiu, el sitiu web sabrá dende ú entames, asina que tolo que tienes de facer ye cunta-y a ú quies dir.
 
 
 ;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
-Esti serviciu ye totalmente opcional &ndash; Firefox nun comparte la to llocalización ensin el to permisu &ndash; y faise col másimu respetu pola to privacidá. Y, como tolos elementos de Firefox, fízose usando estándares abiertos pa facilitar la adopción por desendolcadores web.
+Esti serviciu ye opcional dafechu &ndash; Firefox nun comparte'l to allugamientu ensin el to permisu y faise col máximu respetu pa la to privacidá. Y, como tolos elementos de Firefox, creose usando estándares abiertos pa facilitar la adopción por desendolcadores web.
 
 
 ;How does it work?
@@ -40,43 +40,43 @@ Esti serviciu ye totalmente opcional &ndash; Firefox nun comparte la to llocaliz
 
 
 ;When you visit a location-aware website, Firefox will ask you if you want to share your location.
-Cuando visites un sitiu web que considera la to llocalización, Firefox va entrugate si quies compartir la to posición.
+Cuando visites un sitiu cola reconocencia d'allugamientu, Firefox entrugaráte si quies compartir el to allugamientu.
 
 
 ;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
-Si aceutes, Firefox recopila información sobre los puntos d'accesu inalámbricu cercanos y la direición IP del to equipu. Entós Firefox manda esta información al fornidor de servicios de xeollocalización predetermináu, Google Location Services, pa obtener una estimación del to allugamientu. Esa estimación de la to llocalización unvíase entós al sitiu web que la solicitó.
+Si das laude, Firefox recoyerá datos tocante a puntos d'accesu Wi-Fi averaos y la direición IP del to ordenador. Dempués Firefox unvia esta información al fornidor de servicios de xeollocalización por defeutu, Google Location Services, pa consiguir una estimación del to allugamientu. Esi allugamientu estimáu va compartise col sitiu web solicitante.
 
 
 ;If you say that you do not consent, Firefox will not do anything.
-Si nun aceutes, Firefox nun fadrá un res.
+Si dices que nun das laude, Firefox nun fadrá un res.
 
 
 ;How accurate are the locations?
-¿Cómo son de precises les llocalizaciones?
+¿Cómo son de precisos los allugamientos?
 
 
 ;Accuracy varies greatly from location to location. In some places, our service providers may be able to provide a location to within a few meters. However, in other areas it might be much more than that. All locations returned by our service providers are estimates only and we do not guarantee the accuracy of the locations provided. Please do not use this information for emergencies. Always use common sense.
-La exactitú cimbla considerablemente de llocalización a llocalización. En dalgunos llugares, los nuestros fornidores de serviciu pueden ufrir una llocalización con una precisión d'unos pocos metros. Sicasí, n'otres zones podríen ser munchos más. Toles llocalizaciones devueltes polos fornidores de serviciu son namái estimaciones y nun se garantiza la precisión de les mesmes. Por favor, nun uses esta información pa emerxencies. Úsala siempres con xacíu.
+La precisión varía permuncho d'un allugamientu a otru. En dellos llugares, los nuesos fornidores de serviciu quiciabes seyan a apurrir un allugamientu dientro de dellos metros. Por embargu, n'otres árees quiciabes seya muncho más qu'eso. Tolos allugamientos devolvíos polos nuesos fornidores de serviciu son namái estimaciones y nun garantizamos la so precisión. Nun uses esta información pa emerxencies, por favor. Usa'l sentíu común siempres.
 
 
 ;What information is being sent, and to whom? How is my privacy protected?
-¿Qué información s'unvia, y a quién? ¿Cómo se protexe la mio privacidá?
+¿Qué información s'unvia y a quién? ¿Cómo se protexe la mio privacidá?
 
 
 ;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
-La to privacidá ye enforma importante pa nós, y Firefox enxamás comparte la to llocalización ensin el to permisu. Cuando visites una páxina que solicite la to llocalización, va entrugásete enantes de compartir información col sitiu solicitante o el fornidor esternu de serviciu.
+La to privacidá ye enforma importante pa nós y Firefox enxamás comparte'l to allugamientu ensin el to permisu. Cuando visites una páxina que solicite la to información, entrugarásete enantes de compartir nada col sitiu solicitante o'l nuesu fornidor de serviciu de terceros.
 
 
 ;By default, Firefox uses Google Location Services to determine your location by sending:
-Por defeutu, Firefox usa Google Location Services pa determinar la to llocalización unviando:
+Por defeutu, Firefox usa Google Location Services pa determinar el to allugamientu unviando:
 
 
 ;your computer’s IP address,
-La direición IP del to equipu,
+la direición IP del to ordenador,
 
 
 ;information about the nearby wireless access points, and
-Información sobre los puntos d'accesu inalámbricos cercanos,
+información tocante a los puntos d'accesu inalámbricos averaos, y
 
 
 ;a random client identifier, which is assigned by Google, that expires every 2 weeks.

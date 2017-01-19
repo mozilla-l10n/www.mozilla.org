@@ -28,6 +28,11 @@ OS {ok}
 TV
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Pre-release downloads
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -198,6 +203,11 @@ Mozilla ৰ বিষয়ে
 
 ;Other languages:
 অন্য ভাষাসমূহ:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Page language:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,10 +834,20 @@ Sign Up Now
 আমি আপোনাক কেৱল Mozilla-প্ৰাসংগিক তথ্যহে পঠাম।
 
 
+;Thanks!
+Thanks!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 ধন্যবাদ! আপোনাৰ স্বাক্ষৰণ সুনিশ্চিত কৰিবলে অনুগ্ৰহ কৰি আপোনাৰ ইনবক্স নিৰীক্ষণ কৰক।
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 আপোনাৰ স্বাক্ষৰণ সুনিশ্চিত কৰিবলে আপুনি mozilla@e.mozilla.org ৰ পৰা এটা ইমেইল প্ৰাপ্ত কৰিব। যদি আপুনি ইয়াক দেখি নাপায়, আপোনাৰ স্পেম ফিল্টাৰ নিৰীক্ষণ কৰক। আমাৰ বাতৰিকাকত গ্ৰহণ কৰিবলে আপুনি আপোনাৰ স্বাক্ষৰণ সুনিশ্চিত কৰিব লাগিব।
 
@@ -838,5 +858,25 @@ Sign Up Now
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 মাহেকীয়া উন্নয়নসমূহলে স্বাক্ষৰ কৰক আৰু Mozilla বাতৰিৰ সৈতে সংযুক্ত থাকক, আপোনাৰ Firefox ব্ৰাউছাৰৰ পৰা সৰ্বাধিক প্ৰাপ্ত কৰিবলে শেহতীয়া কিটিপসমূহ অন্তৰ্ভুক্ত কৰাকৈ। সংযোগত থাকিবলে এইটোৱে সৰ্বোত্তম পদ্ধতি!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + You
+
+
+;Get Firefox tips, tricks, news and more
+Get Firefox tips, tricks, news and more
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Web Innovations
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internet Health
 
 

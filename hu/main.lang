@@ -28,6 +28,11 @@ OS {ok}
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Előzetes kiadású letöltések
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -137,7 +142,7 @@ Válassza a független böngészőt
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-A Firefox non-profit, nem vállalati, nem kompromittálódott. A Firefox választása nem csupán egy böngésző választása: Szavazat a személyes szabadság mellett.
+A Firefox nonprofit, nem vállalati, nem kompromittált. A Firefox választása nem csupán egy böngésző választása: szavazat a személyes szabadság mellett.
 
 
 ;Donate
@@ -198,6 +203,11 @@ Kapcsolat
 
 ;Other languages:
 Más nyelvek:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Oldal nyelve:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,10 +834,20 @@ Elérhető nyelvek
 Csak a Mozillával kapcsolatos információt fogunk küldeni.
 
 
+;Thanks!
+Köszönjük!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Ha korábban nem erősítette meg a Mozillához kapcsolódó hírlevél feliratkozását, akkor lehet hogy meg kell tennie. Ellenőrizze a Beérkezett üzenetek mappáját vagy a spam-szűrőjét az e-mailünk után.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Köszönjük! Keresse meg postafiókjában a jóváhagyó levelet.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 A jóváhagyó levél a mozilla@e.mozilla.org e-mail címről fog érkezik. Amennyiben nem találja, nézzen szét a levélszemét között. Ahhoz, hogy hírlevelet kapjon, jóvá kell hagynia a feliratkozást.
 
@@ -838,5 +858,25 @@ Olvassa <span>hírlevelünket</span>
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Iratkozzon fel a havonta megjelenő hírlevélre, amely a Mozilla-híreken túl a Firefox használatával kapcsolatos tippeket és trükköket is tartalmaz. Ez a legjobb módja annak, hogy kapcsolatban legyünk!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + Ön
+
+
+;Get Firefox tips, tricks, news and more
+Firefox tippek, trükkök, hírek és továbbiak
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Webes innovációk
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Az Internet egészsége
 
 

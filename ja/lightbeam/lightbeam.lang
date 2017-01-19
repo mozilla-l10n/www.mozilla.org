@@ -22,7 +22,7 @@ Lightbeam for Firefox {ok}
 
 
 ;Lightbeam is a Firefox add-on that uses interactive visualizations to show you the first and third party sites you interact with on the Web.
-Lightbeam は Firefox 向けのアドオンで、ユーザが直接やりとりをする Web サイトとサードパーティとのつながりをインタラクティブに可視化します。
+Lightbeam は Firefox 向けのアドオンで、ユーザーが直接やりとりをするウェブサイトとサードパーティとのつながりをインタラクティブに可視化します。
 
 
 ;Shine a Light on Who’s Watching You
@@ -34,7 +34,7 @@ Lightbeam は Firefox 向けのアドオンで、ユーザが直接やりとり�
 
 
 ;As you browse, Lightbeam reveals the full depth of the Web today, including parts that are not transparent to the average user.
-Web の閲覧を行うと、Lightbeam によって、一般のユーザには見えない部分も含めて Web の現在の様子が深く掘り下げられ、明らかになります。
+ウェブの閲覧を行うと、Lightbeam によって、一般のユーザーには見えない部分も含めてウェブの現在の様子が深く掘り下げられ、明らかになります。
 
 
 ;Download Lightbeam for Firefox
@@ -42,7 +42,7 @@ Lightbeam for Firefox をダウンロード
 
 
 ;Get it from Mozilla Add-Ons
-Mozilla のアドオンから入手
+Mozilla Add-ons から入手
 
 
 ;How Lightbeam Works
@@ -50,19 +50,19 @@ Lightbeam が機能する仕組み
 
 
 ;Download and run the Lightbeam add-on in your Firefox browser.
-Lightbeam アドオンを Firefox ブラウザにダウンロードして実行します。
+Lightbeam アドオンを Firefox ブラウザーにダウンロードして実行します。
 
 
 ;Lightbeam will create a record of events for every site you visit and every third party site that is stored locally on your browser.
-ユーザがアクセスしたすべてのサイトと、ユーザのブラウザでローカルに格納されているすべてのサードパーティのサイトに関するイベントの記録が、Lightbeam によって作成されます。
+ユーザーがアクセスしたすべてのサイトと、ユーザーのブラウザーでローカルに格納されているすべてのサードパーティのサイトに関するイベントの記録が、Lightbeam によって作成されます。
 
 
 ;Lightbeam visually graphs these events to highlight the interactions between sites you intentionally visit and the third parties.
-Lightbeam によってこれらのイベントがグラフに可視化され、ユーザが意図的にアクセスしたサイトとサードパーティのサイトとのやり取りが明らかになります。
+Lightbeam によってこれらのイベントがグラフに可視化され、ユーザーが意図的にアクセスしたサイトとサードパーティのサイトとのやり取りが明らかになります。
 
 
 ;Lightbeam will continue to add to your graph as you browse the Web. You can stop Lightbeam at any time by disabling it or uninstalling the add-on. Your Lightbeam data can be easily saved or deleted.
-ユーザが Web の閲覧を行うと、そのサイトの情報が Lightbeam によってユーザのグラフに継続的に追加されます。Lightbeam は無効にするかアンインストールすることによって、いつでも停止できます。Lightbeam のデータは保存や削除も簡単にできます。
+ユーザーがウェブの閲覧を行うと、そのサイトの情報が Lightbeam によってユーザーのグラフに継続的に追加されます。Lightbeam は無効にするかアンインストールすることによって、いつでも停止できます。Lightbeam のデータは保存や削除も簡単にできます。
 
 
 ;Tracking & privacy
@@ -70,11 +70,11 @@ Lightbeam によってこれらのイベントがグラフに可視化され、�
 
 
 ;Not all tracking is bad. Many services rely on user data to provide relevant content and enhance your online experience.
-追跡がすべていけないというわけではありません。多くのサービスでは、ユーザデータに基づいてユーザに関連のあるコンテンツを提供し、ユーザのオンライン体験を向上させます。
+追跡がすべていけないというわけではありません。多くのサービスでは、ユーザーデータに基づいてユーザーに関連のあるコンテンツを提供し、ユーザーのオンライン体験を向上させます。
 
 
 ;But tracking can happen without the user’s knowledge.
-しかし、ユーザが気付かないうちに追跡が行われることがあります。
+しかし、ユーザーが気付かないうちに追跡が行われることがあります。
 
 
 ;That’s not okay for some.
@@ -82,43 +82,27 @@ Lightbeam によってこれらのイベントがグラフに可視化され、�
 
 
 ;It should be you who decides when, how and if you want your browsing data to be shared. We recognize the importance of transparency and our mission is all about empowering users — both with tools and information.
-ユーザの閲覧データを共有するタイミング、方法、共有の可否を決めるのはユーザ自身でなければなりません。Mozilla は透明性が重要であることを認識し、ツールと情報を提供することによってユーザに力を与えることをミッションと考えています。
-
-
-;Explore the database
-データベースの調査
-
-
-;In the Lightbeam database, you will be able to browse first and third-party connection data uploaded by donors who use the Lightbeam add-on.
-Lightbeam のデータベースでは、Lightbeam アドオンのユーザから提供されアップロードされた、当事者サイトとサードパーティのサイトのつながりを示すデータを閲覧できます。
+ユーザーの閲覧データを共有するタイミング、方法、共有の可否を決めるのはユーザー自身でなければなりません。Mozilla は透明性が重要であることを認識し、ツールと情報を提供することによってユーザーに力を与えることをミッションと考えています。
 
 
 ;We’re building this crowd-sourced directory to encourage users to visualize the state of tracking as an aggregate and to examine relationships that exist on the Web.
-Mozilla はこのクラウドソースのディレクトリを構築することによって、追跡の全体像を可視化し、Web 上に存在するつながりを検証する活動を推進しようとしています。
+Mozilla はこのクラウドソースのディレクトリーを構築することによって、追跡の全体像を可視化し、ウェブ上に存在するつながりを検証する活動を推進しようとしています。
 
 
 ;Visualize your data
-ユーザデータの可視化
+ユーザーデータの可視化
 
 
 ;After you download and install the Lightbeam add-on to Firefox, it will begin to create a real time visualization of the websites you visit and all the third parties that are also active on those pages.
-Lightbeam アドオンをダウンロードして Firefox にインストールすると、ユーザがアクセスする Web サイトと、そのページでそのときにアクティブなすべてのサードパーティの可視化が開始されます。
+Lightbeam アドオンをダウンロードして Firefox にインストールすると、ユーザーがアクセスするウェブサイトと、そのページでそのときにアクティブなすべてのサードパーティの可視化が開始されます。
 
 
 ;Analyze your connections
-ユーザの接続状況の分析
+ユーザーの接続状況の分析
 
 
 ;As your visualizations grow, you can take a closer look into the relationships between the various first and third party sites that are stored in your data. You can also reset or save your data at any time.
-ユーザの可視化が進むと、ユーザのデータに格納されているさまざまな当事者サイトとサードパーティのサイトとの関係がより詳しく分かるようになります。データのリセットや保存も可能です。
-
-
-;Contribute your data
-ユーザデータの提供
-
-
-;As a part of Lightbeam, we are creating a big-picture view of Internet tracking and of how first and third party sites are connected.
-Lightbeam の機能の一環として、Mozilla はインターネット上での追跡の状況や当事者サイトとサードパーティのサイトとがどのようにつながっているかを示す全体像を作成しています。
+ユーザーの可視化が進むと、ユーザーのデータに格納されているさまざまな当事者サイトとサードパーティのサイトとの関係がより詳しく分かるようになります。データのリセットや保存も可能です。
 
 
 ;To help us, you can contribute your data to our Lightbeam database.
@@ -143,7 +127,7 @@ Lightbeam について
 
 
 ;Lightbeam visualizes the relationships between the sites you visit and the third party sites that are active on those pages.
-Lightbeam はユーザがアクセスしたサイトと、そのページでアクティブになっているサードパーティのサイトとの関係を可視化します。
+Lightbeam はユーザーがアクセスしたサイトと、そのページでアクティブになっているサードパーティのサイトとの関係を可視化します。
 
 
 ;How the add-on works
@@ -152,20 +136,20 @@ Lightbeam が機能する仕組み
 
 # New string (May 15) to reflect features that have been removed from the add-on.
 ;Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
-Lightbeam は、それぞれのサードパーティがどのようにつながっているかを、グラフとリストの 2つの方式で可視化します。これらを通して、私たちは Web を普段とは異なった形で見ることができます。
+Lightbeam は、それぞれのサードパーティがどのようにつながっているかを、グラフとリストの 2つの方式で可視化します。これらを通して、私たちはウェブを普段とは異なった形で見ることができます。
 
 
 # Obsolete string, do not remove
 ;Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
-Lightbeam では、Graph (グラフ)、Clock (時計)、List (リスト)という 3 つの異なるタイプのインタラクティブな可視化表示を使用して個々のサードパーティを時間の経過と空間に応じて調べ、それらのサードパーティがどこで自分のオンライン行動につながっているかを特定できます。また、ユーザはさまざまな方法でこの独特の Web 可視化に関わることができます。
+Lightbeam では、Graph (グラフ)、Clock (時計)、List (リスト)という 3 つの異なるタイプのインタラクティブな可視化表示を使用して個々のサードパーティを時間の経過と空間に応じて調べ、それらのサードパーティがどこで自分のオンライン行動につながっているかを特定できます。また、ユーザーはさまざまな方法でこの独特のウェブ可視化に関わることができます。
 
 
 ;The default Graph view provides a real time visualization of every site you visit and all third party requests made from your browser.
-デフォルトの Graph ビューでは、ユーザがアクセスした個々のサイトと、ユーザが使用しているブラウザで実行されたすべてのサードパーティの要求をリアルタイムで可視化します。
+既定の Graph ビューでは、ユーザーがアクセスした個々のサイトと、ユーザーが使用しているブラウザーで実行されたすべてのサードパーティの要求をリアルタイムで可視化します。
 
 
 ;The Graph view also provides adjustable filters that allow you to visualize more types of data at a glance.
-調整可能なフィルタを使用して、より多くのタイプのデータを瞬時に可視化することもできます。
+調整可能なフィルターを使用して、より多くの種類のデータを瞬時に可視化することもできます。
 
 
 ;The List view provides more options for drilling down into individual sites.
@@ -173,11 +157,11 @@ List ビューでは、個々のサイトについてより詳しく調べるた
 
 
 ;Site preferences in the List view enable you to block sites from connecting to your Firefox browser, watch sites you’re interested in or hide sites you don’t want to see visualized.
-List ビューの「Site (サイト)」設定では、サイトから Firefox ブラウザへの接続をブロックしたり、自分にとって関心のあるサイトを観察したり、可視化する必要のないサイトを隠したりするように設定できます。
+List ビューの「Site (サイト)」設定では、サイトから Firefox ブラウザーへの接続をブロックしたり、自分にとって関心のあるサイトを観察したり、可視化する必要のないサイトを隠したりするように設定できます。
 
 
 ;Lightbeam also offers an information panel that provides additional details about the site you selected and the sites it has connected to.
-また、Lightbeam にはユーザが選択したサイトやそのサイトに接続しているサイトについてさらに詳しい情報を提供する情報パネルもあります。
+また、Lightbeam にはユーザーが選択したサイトやそのサイトに接続しているサイトについてさらに詳しい情報を提供する情報パネルもあります。
 
 
 ;The origins of Lightbeam
@@ -189,7 +173,7 @@ Lightbeam は 2011 年 7 月に、Mozilla のソフトウェア開発者 <a href
 
 
 ;Inspired by the book, <em>The Filter Bubble</em>, Atul created an experimental add-on to visualize browsing behavior and data collection on the Web.
-『<em>The Filter Bubble</em>』 (邦題『閉じこもるインターネット』) という本を読んでアイディアを得た Varma は、Web 上の閲覧行動とデータ収集を可視化する実験的なアドオンを開発しました。
+『<em>The Filter Bubble</em>』 (邦題『閉じこもるインターネット』) という本を読んでアイデアを得た Varma は、ウェブ上の閲覧行動とデータ収集を可視化する実験的なアドオンを開発しました。
 
 
 ;In February 2012, Gary Kovacs, Mozilla CEO at the time, introduced the Collusion add-on in a <a href="%s">TED talk</a> (now one of the most watched TED talks of all time) about exposing online tracking.
@@ -221,7 +205,7 @@ Mozilla は Lightbeam アドオンによって、コミュニティが調査を�
 
 
 ;Lightbeam is one step in a larger, concerted effort by Mozilla and its partners to provide Web users with greater control and transparency of their personal data.
-Lightbeam は、Web ユーザに個人データの高度なコントロールと透明性を提供するために Mozilla とパートナー組織が協力して取り組んでいる、より重要な活動をさらに一歩進めるものです。
+Lightbeam は、ウェブユーザーに個人データの高度なコントロールと透明性を提供するために Mozilla とパートナー組織が協力して取り組んでいる、より重要な活動をさらに一歩進めるものです。
 
 
 ;Learn more about online tracking and privacy
@@ -238,12 +222,12 @@ Lightbeam のデータ形式
 
 # New string (May 15) to reflect features that have been removed from the add-on.
 ;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam.
-Lightbeam で利用するファイル形式の詳細については <a href="%s">Github 上のページ</a> をご覧ください。
+Lightbeam で利用するファイル形式の詳細については <a href="%s">GitHub 上のページ</a> をご覧ください。
 
 
 # Obsolete string, do not remove
 ;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute data.
-Mozilla の<a href="%s">ファイル形式に関する Github のページ</a>を参照すると、Lightbeam で使用されているファイル形式の詳細と、データの提供を許可した場合にアップロードされるデータの詳細をご覧いただけます。
+Mozilla の<a href="%s">ファイル形式に関する GitHub のページ</a>を参照すると、Lightbeam で使用されているファイル形式の詳細と、データの提供を許可した場合にアップロードされるデータの詳細をご覧いただけます。
 
 
 ;Partners of Lightbeam

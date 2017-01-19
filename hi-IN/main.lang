@@ -28,6 +28,11 @@ OS {ok}
 टीवी
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+पूर्व लोकार्पण डाउनलोड
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -198,6 +203,11 @@ OS {ok}
 
 ;Other languages:
 अन्य भाषाएँ:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+पृष्ठ की भाषा:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -824,12 +834,22 @@ Mozilla से में ख़ुश हु जेसे इसने मेरी
 हम आपको केवल मोज़िला संबंधित जानकारी भेजेंगे.
 
 
+;Thanks!
+धन्यवाद
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+अगर आपने पिछले किसी Mozilla संबंधित समाचार की सदस्यता पुष्टि नहीं की है, तो आपको करनी पड़ सकती है. कृपया अपने इनबॉक्स या फर्ज़ी फ़िल्टर में हमारे द्वारा भेजी गयी ईमेल की जांच करें.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 धन्यवाद ! कृपया अपना इनबॉक्स जाँचें अपना सब्सक्रिप्शन पक्का करने के लिए.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-आप एक ई-मेल पाएंगे mozilla@e.mozilla.org से आपका सब्सक्रिप्शन पक्का करने के लिये. अगर आप इसे ना देखे, फ़र्जी फ़िल्टर जाँचें. आपको सब्सक्रिप्शन अवस्य पक्का करना चाहिये न्युजलेटर प्राप्त करने के लिये |
+आप अपनी सदस्यता पुष्टि करने के लिये mozilla@e.mozilla.org से एक ई-मेल पाएंगे. अगर आप इसे नही देख पाते हैं, तो फ़र्जी फ़िल्टर जाँचें. आपको हमारी न्युजलेटर प्राप्त करने के लिये अवश्य अपनी सदस्यता पुष्टि करना चाहिए.
 
 
 ;Read all about it in our <span>newsletter</span>
@@ -838,5 +858,25 @@ Mozilla से में ख़ुश हु जेसे इसने मेरी
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 मासिक अपडेट्स की सदस्यता लें और मोज़िला की खबरों से जुड़े रहे, अपने फ़ायरफ़ॉक्स ब्राउज़र के लिए नवीनतम युक्तियाँ और संकेत सहित. यह हमें संपर्क में रखने के लिए एकदम सही तरीका है!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> और आप
+
+
+;Get Firefox tips, tricks, news and more
+Firefox सुझाव, तरकीब, न्यूज़ ओर भी बहुत कुछ पायें.
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+वेब नवीनता
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+इन्टरनेट स्वास्थ
 
 

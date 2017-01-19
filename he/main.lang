@@ -15,7 +15,7 @@
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+<span>עבור</span> iOS
 
 
 # Firefox family navigation menu. Main level item.
@@ -28,10 +28,15 @@
 טלוויזיה
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+גרסאות טרום בכורה
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+עבור מחשבים נייחים וניידים
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -81,12 +86,12 @@ For desktops &amp; laptops
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+מניעת מעקב
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+אריחים
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -97,7 +102,7 @@ Interest Dashboard
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+מהדורה למפתחים
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -122,7 +127,7 @@ Developer Edition
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+חיפוש ההתקן שלי
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -132,12 +137,12 @@ Find My Device
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+בחירה בדפדפן העצמאי
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox הוא דפדפן שלא למטרות רווח, לא מסחרי וללא סכנה בשימוש בו. הבחירה ב־Firefox אינה רק בחירת דפדפן. זוהי הצבעה בעד החופש האישי שלך.
 
 
 ;Donate
@@ -198,6 +203,11 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 
 ;Other languages:
 שפות אחרות:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+שפת הדף:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -420,7 +430,7 @@ Firefox לנייד
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+תרומה לאתר זה
 
 
 # Footer string
@@ -535,7 +545,7 @@ Firefox for Organizations {ok}
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
-Volunteer
+תרומה
 
 
 # Top menu item on firefox/update page
@@ -585,12 +595,12 @@ Firefox ב־Facebook
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+פטנטים
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+הנהגה
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -752,11 +762,11 @@ Leadership
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox בקרוב גם ב־iOS! <a href="{url}">הרשמה לקבלת מידע נוסף</a>.
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+הידד! הדפדפן שברשותך עדכני.
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -771,7 +781,7 @@ Congrats. You’re up to date!
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -804,7 +814,7 @@ Keep up with<br> all things Firefox.
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+הרשמה
 
 
 # Old newsletter subscription Button
@@ -824,10 +834,20 @@ Sign Up Now
 אנו נשלח אליך רק מידע שקשור ל־Mozilla.
 
 
+;Thanks!
+תודה!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+אם לא אישרת בעבר הרשמה לניוזלטרים של Mozilla, יהיה עליך לעשות זאת. נא לבדוק את תיבת הדואר הנכנס או את מסנני דואר הזבל כדי לאתר את הודעת הדואר האלקטרוני ששלחנו.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 תודה! בבקשה לבדוק את תיבת הדואר הנכנס כדי לאשר את הרישום.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 מיד תתקבל הודעה מאת mozilla@e.mozilla.org כדי לאשר את הרישום. אם אינך רואה הודעה זו, יש לבדוק את מסנן דואר הזבל שלך.
 
@@ -838,5 +858,25 @@ Sign Up Now
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 הירשמו לעדכונים חודשיים והישארו בעניינים עם חדשות מבית Mozilla, כולל גם הטיפים והטריקים החדשים ביותר להוצאת המירב מדפדפן Firefox שלכם. זוהי דרך מעולה עבורנו כדי לשמור על קשר!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> ואתם
+
+
+;Get Firefox tips, tricks, news and more
+קבלת טיפים וטריקים, חדשות ועוד על אודות Firefox
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+חדשנות ברשת
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+בריאות הרשת
 
 

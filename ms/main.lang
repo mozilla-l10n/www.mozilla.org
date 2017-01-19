@@ -5,17 +5,17 @@ Navigasi
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
-<span>for</span> Desktop
+<span>untuk</span> Desktop
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>for</span> Android
+<span>untuk</span> Android
 
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
-<span>for</span> iOS
+<span>untuk</span> iOS
 
 
 # Firefox family navigation menu. Main level item.
@@ -25,23 +25,28 @@ OS {ok}
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+TV {ok}
+
+
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Muat-turun pra keluaran
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
-For desktops &amp; laptops
+Untuk desktop &amp; komputer riba
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
-For phones &amp; tablets
+Untuk telefon &amp; tablet
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Overview
-Sekilas pandang
+Intisari
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -61,43 +66,43 @@ Pantas
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
-Tentang Kami
+Perihal
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
-Devices
+Peranti
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
-For partners
+Untuk rakan kongsi
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Appl
+App
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+Jangan Jejaki
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
-Tiles
+Tiles {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+Interest Dashboard {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+Developer Edition {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -117,12 +122,12 @@ Berita
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
-For developers
+Untuk pembangun
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
-Find My Device
+Cari Peranti Saya
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -132,12 +137,12 @@ Pembangun
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Pilih pelayar bebas
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox ialah pembangun bukan untung, bukan korporat, dan tidak terjejas. Memilih Firefox bukan sekadar memilih pelayar. Inilah pilihan untuk kebebasan peribadi.
 
 
 ;Donate
@@ -149,7 +154,7 @@ Sokongan
 
 
 ;Products
-Produk-produk
+Produk
 
 
 ;Add-ons
@@ -157,7 +162,7 @@ Add-ons {ok}
 
 
 ;About Us
-Tentang kami
+Perihal Kami
 
 
 ;Labs
@@ -173,15 +178,15 @@ tukar bahasa
 
 
 ;Back to home page
-Kembali ke laman utama
+Kembali ke halaman utama
 
 
 ;About Mozilla
-Mengenai Mozilla
+Perihal Mozilla
 
 
 ;Get Involved
-Penglibatan diri
+Sertainya
 
 
 ;Careers
@@ -197,7 +202,12 @@ Hubungi Kami
 
 
 ;Other languages:
-Bahasa-bahasa lain:
+Bahasa lain:
+
+
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Bahasa halaman:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -220,7 +230,7 @@ Firefox Affiliates {ok}
 
 
 ;Legal Notices
-Pemberitahuan Sah
+Notis Undang-undang
 
 
 ;Privacy Policy
@@ -240,11 +250,11 @@ Tutup
 
 
 ;(in English)
-(dalam English)
+(English)
 
 
 ;Return to top
-Kembali untuk atas
+Kembali ke atas
 
 
 ;Features
@@ -252,7 +262,7 @@ Ciri-ciri
 
 
 ;Customize
-Kustomisasi
+Penyesuaian
 
 
 ;Download
@@ -281,11 +291,11 @@ FAQ {ok}
 
 
 ;Videos
-Video-video
+Video
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-Kecuali dimana sebaliknya <a href="%s">secara khusus</a>, kandungan dalam laman ini adalah diperlesenkan bawah <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> atau sebarang versi yang sebelumnya.
+Kecuali sebaliknya <a href="%s">secara khusus</a>, kandungan dalam laman ini dilesenkan di bawah <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> atau versi yang sebelumnya.
 
 
 ;Report Trademark Abuse
@@ -293,30 +303,30 @@ Lapor Penyalahgunaan Jenama
 
 
 ;Free Upgrade
-Free Upgrade {ok}
+Naik taraf Percuma
 
 
 # social networks such as Facebook and Twitter
 ;Follow us on:
-Ikuti kami pada:
+Ikuti kami di:
 
 
 ;Customize with Add-ons
-Kustomisasi dengan Add-ons
+Penyesuaian Add-ons
 
 
 ;Learn More
-Ketahui lanjut
+Ketahui Selanjutnya
 
 
 # Same as previous above but with no capitalization on More
 ;Learn more
-Ketahui lebih lanjut
+Ketahui selanjutnya
 
 
 # Link used to play again an animation or a video
 ;Replay
-Ulang Tayang
+Ulang tayang
 
 
 ;Watch the video
@@ -328,7 +338,7 @@ Ulang Tayang video
 
 
 ;Share the video
-Share the video
+Kongsi video
 
 
 ;WebM format
@@ -348,15 +358,15 @@ Mobile {ok}
 
 
 ;Check out the new look and feel of Firefox.
-Nikmati dengan rupa baru dan rasai daripada Firefox.
+Teliti rupa baru dan perbezaan Firefox.
 
 
 ;View Full Site
-Lihat laman penuh
+Papar Laman Penuh
 
 
 ;Download for <span>Android</span>
-Muat Turun tuntuk <span>Android</span>
+Muat turun untuk <span>Android</span>
 
 
 ;Desktop
@@ -372,27 +382,27 @@ Firefox untuk mobile
 
 
 ;Email
-Emel
+E-mel
 
 
 ;Super speed
-Kelajuan luar biasa
+Kepantasan luar biasa
 
 
 ;Stunning graphics
-Grafik-grafik yang mengagumkan
+Grafik yang mengagumkan
 
 
 ;The latest technologies
-Teknologi-teknologi yang terbaru
+Teknologi terbaru
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Anda perlu upgrade! Bertindak selamat dalam kurang daripada seminit. <br/> Mulakan Firefox baru anda untuk melayari dengan terbaik dan kustomisasi kepada Web. <br/>  Ia pantas dan percuma!
+Anda perlu naik taraf! Kekal selamat dalam tempoh kurang daripada seminit. <br/> Mulakan Firefox baru anda untuk menggunakan pelayar dan penyesuaian yang terbaik dalam Web. <br/>  Pantas dan percuma!
 
 
 ;Upgrade now
-Upgrade sekarang
+Naik taraf sekarang
 
 
 ;Update now
@@ -405,7 +415,7 @@ Peranti yang disokong
 
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 ;What’s New
-Apa yang terbaru
+Perkembangan Terbaru
 
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
@@ -415,17 +425,17 @@ Privasi
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Porsi daripada kandungan ini adalah ©1998–%(current_year)s oleh individu penyumbang mozilla.org. Kandungan sedia ada dibawah sebuah <a href="%(url)s">Lesen Creative Commons</a>.
+Sebahagian kandungan ini ©1998–%(current_year)s dihasilkan oleh individu penyumbang mozilla.org. Kandungan tersedia di bawah <a href="%(url)s">Lesen Creative Commons</a>.
 
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Menyumbang ke laman ini
+Beri sumbangan ke laman ini
 
 
 # Footer string
 ;Contribute to this page
-Menyumbang ke laman ini
+Beri sumbangan ke laman ini
 
 
 # Top menu item
@@ -435,7 +445,7 @@ Misi
 
 # Footer item on some pages to link to a tour of features
 ;Tour
-Lawati
+Panduan ringkas
 
 
 # Footer item
@@ -450,12 +460,12 @@ Sync {ok}
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-Desktop Addon
+Add-ons Desktop
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+Add-ons Android
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -465,12 +475,12 @@ Tema
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Bantuan Desktop
+Sokongan Desktop
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+Sokongan Android
 
 
 # Top menu item on firefox/update page
@@ -505,12 +515,12 @@ Firefox untuk Organisasi
 
 # Top menu item on firefox/update page
 ;Mobile Add-ons
-Telefon Mudah Alih Addon
+Add-ons Mobile
 
 
 # Top menu item on firefox/update page
 ;Mobile Support
-Bantuan Mudah Alih
+Sokongan Mobile
 
 
 # Top menu item on firefox/update page
@@ -520,7 +530,7 @@ Blog {ok}
 
 # Top menu item on firefox/update page
 ;About Firefox
-Tentang Firefox
+Perihal Firefox
 
 
 # Top menu item on firefox/update page
@@ -545,7 +555,7 @@ Jenama Kit Alatan
 
 # Top menu item on firefox/update page
 ;Partnerships
-Rakan Perkongsian
+Rakan kongsi
 
 
 # Newsletter subscription form above footer on some pages
@@ -585,12 +595,12 @@ Forum
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+Paten
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+Kepimpinan
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -630,18 +640,18 @@ Komited kepada anda, privasi anda dan Web terbuka
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Choose Independent
+Pilih pelayar bebas
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Teruskan semangat untuk Internet yang bebas dan terbuka! #ChooseIndependent. Pilih Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+Sila aktifkan JavaScript untuk papar halaman ini dengan betul.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -687,7 +697,7 @@ Ogos
 
 
 ;September
-September
+September {ok}
 
 
 ;October
@@ -695,7 +705,7 @@ Oktober
 
 
 ;November
-November
+November {ok}
 
 
 ;December
@@ -723,7 +733,7 @@ Disember
 
 
 ;<abbr>Jun</abbr>
-<abbr>Jun</abbr>
+<abbr>Jun</abbr> {ok}
 
 
 ;<abbr>Jul</abbr>
@@ -752,11 +762,11 @@ Disember
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox akan datang tidak lama lagi untuk iOS! <a href="{url}">Daftar untuk ketahui selanjutnya</a>.
 
 
 ;Congrats. You’re up to date!
-Tahniah. Anda telah berada yang terkini!
+Tahniah. Anda sudah ada versi terkini!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -771,16 +781,16 @@ Teks
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
-Whoops! Pastikan anda meletakkan alamat emel yang sah.
+Whoops! Pastikan anda masukkan alamat e-mel yang sah.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Saya okay dengan Mozilla untuk mengendalikan maklumat saya seperti yang dijelaskan dalam <a href="%s">Dasar Privasi ini</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
@@ -789,7 +799,7 @@ Saya okay dengan Mozilla mengendalikan maklumat saya seperti yang dijelaskan dal
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Sentiasa berhubungan dengan <br> Firefox.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -799,12 +809,12 @@ Dapatkan berita Firefox
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-EMEL ANDA DISINI
+YOUR EMAIL HERE {ok}
 
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+Daftar Sekarang
 
 
 # Old newsletter subscription Button
@@ -817,26 +827,56 @@ Pilih negara
 
 
 ;Available Languages
-Bahasa-bahasa yang tersedia
+Bahasa yang tersedia
 
 
 ;We will only send you Mozilla-related information.
-Kami hanya akan menghantar maklumat yang berkaitan dengan Mozilla.
+Kami akan hanya menghantar maklumat yang berkaitan dengan Mozilla.
 
 
+;Thanks!
+Terima kasih!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Jika anda belum pernah mengesahkan langganan surat berita yang berkaitan dengan Mozilla, anda mungkin perlu untuk berbuat demikian. Sila semak peti masuk anda atau penapis spam anda untuk dapatkan e-mel daripada kami.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
-Terima Kasih! Sila semak inbox anda untuk mengesahkan langganan anda.
+Terima kasih! Sila semak mel anda untuk mengesahkan langganan anda.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Anda akan menerima satu emel dari mozilla@e.mozilla.org untuk mengesahkan langganan anda. Jika anda tiada, sila periksa turas spam anda. Anda perlu mengesahkan langganan anda untuk menerima surat berita kami.
+Anda akan menerima e-mel daripada mozilla@e.mozilla.org untuk mengesahkan langganan anda. Jika anda tidak menerimanya, sila semak penapis spam anda. Anda perlu mengesahkan langganan anda untuk menerima surat berita kami.
 
 
 ;Read all about it in our <span>newsletter</span>
-Baca semua mengenai kami dalam <span>berita</span>
+Baca semuanya dalam <span>berita</span>
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Melanggan kepada pengemaskinian bulanan dan kekal terkini dengan berita Mozilla, termasuk tip-tip terbaru dan trik untuk mendapatkan yang terbaik daripada pelayar Firefox anda. Ia adalah cara yang sempurna bagi kita untuk terus berhubung!
+Langgani kemaskini bulanan dan dapatkan berita terkini Mozilla, termasuk tip dan trik terbaru untuk mendapatkan yang terbaik daripada pelayar Firefox anda. Inilah cara terbaik untuk kita terus berhubung!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + Anda
+
+
+;Get Firefox tips, tricks, news and more
+Dapatkan tip, trik, berita Firefox dan banyak lagi
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Inovasi Web
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Sistem Internet
 
 

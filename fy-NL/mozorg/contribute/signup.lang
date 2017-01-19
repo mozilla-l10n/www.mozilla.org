@@ -1,5 +1,6 @@
 ## active ##
 ## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -8,7 +9,7 @@ Wurd hjoed noch meiwurker fan Mozilla
 
 
 ;Try something simple
-Probearje wat ienfâldigs
+Probearje wat ienfâldichs
 
 
 ;more info
@@ -48,7 +49,7 @@ Besjoch hoe't ien oan koade fan Firefox wurket
 
 
 ;Firefox engineer Mike Conley livehacks and crushes bugs where he finds them in this unscripted, uncensored, true-to-life video series.
-Firefox-engineer Mike Conley wurket oan en ferpletteret bugs wêr hy se tsjinkomt yn dizze net-fêstleine, net-sensurearre, libbensechte fideosearie.
+Firefox-engineer Mike Conley wurket oan en ferpletteret bugs wêr hy se tsjinkomt yn dizze net-fêstleine, net-sensurearre, libbensechte fideosearje.
 
 
 ;Learn a bit about coding
@@ -64,7 +65,7 @@ Brûk de Mozilla Stumbler-app
 
 
 ;Mozilla Stumbler is an open-source wireless network scanner which collects GPS, cellular and wireless network metadata for our crowd-sourced location database.
-Mozilla Stumbler is in iepen-boarne en triedleaze netwurkskanner dy't metagegevens fan gps-, gsm- en wifi-netwurken foar ús crowdsourced lokaasjedatabase sammelt.
+Mozilla Stumbler is in iepen-boarne en triedleaze netwurkskanner dy't metagegevens fan gps-, gsm- en wifi-netwurken foar ús crowdsourced lokaasjedatabase sammelet.
 
 
 ;Mozilla Participation Tasks
@@ -163,6 +164,11 @@ Undertekenje de ferklearring en kom op foar sterke fersifering.
 Mei fersifering hâlde wy ús persoanlike gegevens feilich en privee. Slút jo oan yn ús gefjocht om it te beskermjen.
 
 
+;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">Lês mear oer fersifering</a>, wêrom it essinsjeel is, en wêrom wy it beskermje moatte.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 <a href="%s" rel="external" target="_blank">Lês mear oer fersifering</a>, wêrom it essinsjeel is, en wêrom wy it beskermje moatte.
 
@@ -193,7 +199,7 @@ Besjoch The Joy of Coding, en besprek it dêrnei mei oare Mozillians
 
 
 ;Anyone can contribute to Firefox by finding and fixing errors that people report via Bugzilla. Watch a demonstration of a Firefox engineer live hacking to see what it’s all about.
-Eltsenien kin oan Firefox bydrage troch flaters te finen en te ferhelpen dy't minsken fia Bugzilla melde. Besjoch in demonstraasje fan in Firefox-engineer dy't oan koade wurket om te sjen wêr't it allegearre om giet.
+Elkenien kin oan Firefox bydrage troch flaters te finen en te ferhelpen dy't minsken fia Bugzilla melde. Besjoch in demonstraasje fan in Firefox-engineer dy't oan koade wurket om te sjen wêr't it allegearre om giet.
 
 
 ;Watch the intro.
@@ -208,6 +214,11 @@ Besjoch de yntro.
 Besjoch mear <em>Joy of Coding</em>-fideo's op Air Mozilla
 
 
+;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Slút jo oan by de programmearmienskip</a> en wurkje tegearre mei oare Mozillians oer de hiele wrâld.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Slút jo oan by de programmearmienskip</a> en wurkje tegearre mei oare Mozillians oer de hiele wrâld.
 
@@ -217,7 +228,7 @@ Tank foar it besjen
 
 
 ;Thanks for getting involved
-Tank foar it meiwurkjen wolle
+Tank dat jo meiwurkje wolle
 
 
 # Page: task/devtools-challenger
@@ -249,6 +260,11 @@ Nei Dev Tools Challenger
 Besykje Dev Tools Challenger
 
 
+;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Slút jo oan by de Webdev Contribute-groep</a> en wurkje tegearre mei oare Mozillians oer de hiele wrâld.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Slút jo oan by de Webdev Contribute-groep</a> en wurkje tegearre mei oare Mozillians oer de hiele wrâld.
 
@@ -274,6 +290,11 @@ Bring de triedleaze netwurken yn jo buert yn kaart.
 Ynstallearje Mozilla Stumbler
 
 
+;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">Lês mear oer lokaasjetsjinsten fan Mozilla</a> en ûntdek mear manieren om mei te dwaan.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
 <a href="%s" target="_blank">Lês mear oer lokaasjetsjinsten fan Mozilla</a> en ûntdek mear manieren om mei te dwaan.
 

@@ -28,6 +28,11 @@ OS {ok}
 Tf
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Pre-releasedownloads
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -200,6 +205,11 @@ Kontakt
 Oare talen:
 
 
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Sidetaal:
+
+
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d-%m-%Y
@@ -285,7 +295,7 @@ Fideo's
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-Utsein wêr oars <a href="%s">melden</a>, ynhâld op dizze side is lisinsearre ûnder de <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> of eltse lettere ferzje.
+Utsein wêr oars <a href="%s">melden</a>, ynhâld op dizze side is lisinsearre ûnder de <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> of elke lettere ferzje.
 
 
 ;Report Trademark Abuse
@@ -824,10 +834,20 @@ Beskikbere talen
 Wy sille jo allinnich Mozilla-relatearre ynformaasje stjoere.
 
 
+;Thanks!
+Tank!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+As jo noch net earder in ynskriuwing foar in Mozilla-relatearre nijsbrief befêstige hawwe, moatte jo dit mooglik dwaan. Kontrolearje jo Postfek YN of jo spamfilter foar in e-mail fan ús.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Tank! Sjoch yn jo postfek yn om jo oanmelding te befêstigjen.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Jo ûntfange in e-mail fan mozilla@e.mozilla.org om de oanmelding te befêstigjen. As jo it net sjogge, kontrolearje jo spamfilter. Jo moatte jo oanmelding befêstigje om de nijsbrief te ûntfangen.
 
@@ -837,6 +857,26 @@ Lês alles hjiroer yn ús <span>nijsbrief</span>
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Meld jo oan foar moanliks nijs en bliuw op 'e hichte mei Mozilla nijs, ynklusyf de lêste tips en trúks om it bêste út jo Firefox-browser te heljen. It is de perfekte manier foar ús om yn kontakt te bliuwen!
+Meld jo oan foar moanliks nijs en bliuw op 'e hichte mei Mozilla-nijs, ynklusyf de lêste tips en trúks om it bêste út jo Firefox-browser te heljen. It is de perfekte manier foar ús om yn kontakt te bliuwen!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + jo
+
+
+;Get Firefox tips, tricks, news and more
+Untfang tips, trúks, nijs en mear oer Firefox
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Webynnovaasjes
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Ynternetsûnens
 
 

@@ -28,6 +28,11 @@ OS {ok}
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Final öncesi sürümler
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -200,6 +205,11 @@ Bize Ulaşın
 Diğer diller:
 
 
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Sayfa dili:
+
+
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d.%m.%Y
@@ -228,7 +238,7 @@ Gizlilik İlkeleri
 
 
 ;Release Notes
-Sürüm Notları
+Sürüm notları
 
 
 ;Other Systems and Languages
@@ -256,7 +266,7 @@ Başa dön
 
 
 ;Download
-İndirin
+İndir
 
 
 ;Previous
@@ -306,12 +316,12 @@ Eklentilerle Özelleştirin
 
 
 ;Learn More
-Devamını okuyun
+Ayrıntılı bilgi alın
 
 
 # Same as previous above but with no capitalization on More
 ;Learn more
-Devamını okuyun
+Ayrıntılı bilgi alın
 
 
 # Link used to play again an animation or a video
@@ -821,13 +831,23 @@ Bülten Dilleri
 
 
 ;We will only send you Mozilla-related information.
-Mozilla ile ilgili olmayan hiçbir şey göndermeyeceğiz.
+Mozilla ile ilgili olmayan hiçbir şey göndermiyoruz.
 
 
+;Thanks!
+Teşekkürler!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Daha önce bir Mozilla bültenine abone olmadıysanız aboneliğinizi onaylamanız gerekebilir. Lütfen gelen kutunuzu veya spam klasörünüzü kontrol edin.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Teşekkürler! Aboneliğinizi onaylamak için gelen kutunuzu kontrol edin.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Aboneliğinizi onaylamak için mozilla@e.mozilla.org adresinden bir e-posta alacaksanız. Gelmezse spam filtrenizi kontrol edin. Bültenimizi alabilmek için aboneliğinizi onaylamalısınız.
 
@@ -838,5 +858,25 @@ Hepsini <span>bültenimizde</span> okuyun
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Aylık bültene abone olarak Mozilla’da gelişmelerden haberdar olun, püf noktalarını öğrenin veFirefox tarayıcınızdan faydalanmanın yeni yollarını keşfedin. Bizimle iletişimde kalmanın en iyi yolu bu!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + Sen
+
+
+;Get Firefox tips, tricks, news and more
+Firefox ipuçlarını, haberlerini ve daha fazlasını alın
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Web Buluşları
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+İnternet Sağlığı
 
 

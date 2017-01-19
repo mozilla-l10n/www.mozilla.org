@@ -1,5 +1,6 @@
 ## active ##
 ## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -163,6 +164,11 @@ Signez la pétition et défendez un chiffrement efficace.
 Le chiffrement est le moyen grâce auquel nous gardons nos informations privées et en sécurité. Battez-vous à nos côtés pour le protéger.
 
 
+;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">Apprenez-en davantage sur le chiffrement</a> et sur les raisons pour lesquelles il est essentiel que nous le protégions.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 <a href="%s" rel="external" target="_blank">Apprenez-en davantage sur le chiffrement</a> et sur les raisons pour lesquelles il est essentiel que nous le protégions.
 
@@ -208,6 +214,11 @@ Regardez la présentation
 Visionnez davantage de vidéos <em>Joy of Coding</em> sur Air Mozilla
 
 
+;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Rejoignez la communauté de développeurs</a> et commencez à travailler avec des Mozilliens du monde entier.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Rejoignez la communauté de développeurs</a> et commencez à travailler avec des Mozilliens du monde entier.
 
@@ -249,6 +260,11 @@ Lancer Dev Tools Challenger
 Visitez Dev Tools Challenger
 
 
+;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Rejoignez le Webdev Contribute Group</a> et travaillez avec des Mozilliens du monde entier.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
 <a href="%s" id="get-involved" target="_blank">Rejoignez le Webdev Contribute Group</a> et travaillez avec des Mozilliens du monde entier.
 
@@ -274,6 +290,11 @@ Cartographiez les réseaux sans fil près de chez vous.
 Installez Mozilla Stumbler
 
 
+;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">Apprenez-en davantage sur les services de localisation de Mozilla</a> et découvrez de nouveaux moyens de vous impliquer.
+
+
+# Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
 <a href="%s" target="_blank">Apprenez-en davantage sur les services de localisation de Mozilla</a> et découvrez de nouveaux moyens de vous impliquer.
 

@@ -28,6 +28,11 @@ OS {ok}
 TV {ok}
 
 
+# Used for the navigation menu, points to /firefox/channel
+;Pre-release downloads
+Pre-release downloads
+
+
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
@@ -141,7 +146,7 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 
 
 ;Donate
-ආධාර
+ආධාර කරන්න
 
 
 ;Support
@@ -200,6 +205,11 @@ Mozilla පිළිබඳ
 වෙනත් භාෂා:
 
 
+# Will replace "Other languages" for the footer's language switcher
+;Page language:
+Page language:
+
+
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %Y-%m-%d {ok}
@@ -216,7 +226,7 @@ Mozilla පිළිබඳ
 
 # Used as link in the footer
 ;Firefox Affiliates
-Firefox Affiliates
+Firefox සම්බන්ධකයන්
 
 
 ;Legal Notices
@@ -450,12 +460,12 @@ Portions of this content are ©1998–%(current_year)s by individual mozilla.org
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-Desktop Add-ons
+වැඩතල ඇඩෝන
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+Android ඇඩෝන
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -465,7 +475,7 @@ Android Add-ons
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Desktop Support
+වැඩතල සහාය
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -480,37 +490,37 @@ Desktop Support
 
 # Top menu item on firefox/update page
 ;Technology
-Technology
+තාක්ෂණය
 
 
 # Top menu item on firefox/update page
 ;Privacy &amp; Security
-Privacy &amp; Security
+පුද්ගලිකත්වය &amp ආරක්ෂාව
 
 
 # Top menu item on firefox/update page
 ;Releases
-Releases
+නිකුතු
 
 
 # Top menu item on firefox/update page
 ;Firefox
-Firefox
+Firefox {ok}
 
 
 # Top menu item on firefox/update page
 ;Firefox for Organizations
-Firefox for Organizations
+සංවිධාන සඳහා Firefox
 
 
 # Top menu item on firefox/update page
 ;Mobile Add-ons
-Mobile Add-ons
+ජංගම ඇඩෝන
 
 
 # Top menu item on firefox/update page
 ;Mobile Support
-Mobile Support
+ජංගම සහාය
 
 
 # Top menu item on firefox/update page
@@ -535,17 +545,17 @@ Mozilla හා සම්බන්ධ වෙන්න
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
-Volunteer
+ස්වේච්චා
 
 
 # Top menu item on firefox/update page
 ;Brand Toolkit
-Brand Toolkit
+සන්නාම මෙවලම් කට්ටලය
 
 
 # Top menu item on firefox/update page
 ;Partnerships
-Partnerships
+හවුල්
 
 
 # Newsletter subscription form above footer on some pages
@@ -580,22 +590,22 @@ Facebook හි Firefox
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
-Forums
+ෆෝරම
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+පේටන්ට්
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+නායකත්වය
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
-Governance
+පරිපාලනය
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -605,17 +615,17 @@ Governance
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Our Products
-Our Products
+අපගේ නිශ්පාදන
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
-Software and other innovations designed to advance our mission.
+අපගේ මෙහෙවර දියුණු කිරීමට සඳහා වන සැලසුම් කළ මෘදුකාංග හා වෙනත් නව නිපැයුම්.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Become a volunteer contributor in a number of different areas.
+විවිධාකාර ක්ෂේත්‍රයන් තුළ ස්වේච්චා දායකයකු වන්න.
 
 
 # This is a non-visible string for blind people to indicate where the menu is
@@ -630,7 +640,7 @@ Become a volunteer contributor in a number of different areas.
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Choose Independent
+ස්වාධීන තෝරන්න
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
@@ -641,7 +651,7 @@ Keep the passion for a free and open Internet burning bright! #ChooseIndependent
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+කරුණාකර මෙම පිටුව නිවැරදිව පෙන්වීම සඳහා JavaScript සක්‍රීය කරන්න.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -752,16 +762,16 @@ Firefox උපකාරක
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox iOS වෙත පැමිණෙයි! <a href="{url}">තවත් දැනගැනීමට පිවිසෙන්න</a>.
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+සුභපැතුම්. ඔබ යාවත්ව ඇත!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
 ;Format
-Format
+හැඩතල
 
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
@@ -771,7 +781,7 @@ Format
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -794,17 +804,17 @@ Keep up with<br> all things Firefox.
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Get Firefox news
+Firefox ප්‍රවෘත්ති ලබාගන්න
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-YOUR EMAIL HERE
+YOUR EMAIL HERE {ok}
 
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+දැන් ලියාපදිංචි වෙන්න
 
 
 # Old newsletter subscription Button
@@ -824,10 +834,20 @@ Sign Up Now
 අපි ඔබට මොසිල්ලා සම්බන්ධ තොරතුරු පමණක් එවන්නෙමු.
 
 
+;Thanks!
+ස්තුතියි!
+
+
+;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+
+
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Thanks! Please check your inbox to confirm your subscription.
 
 
+# Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 
@@ -838,5 +858,25 @@ Read all about it in our <span>newsletter</span>
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
 Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+
+
+;<span>Firefox</span> + You
+<span>Firefox</span> + ඔබ
+
+
+;Get Firefox tips, tricks, news and more
+Get Firefox tips, tricks, news and more
+
+
+# This string will be used as a navigation label in home page, pointing to /technology
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Web Innovations
+Web Innovations
+
+
+# This string will be used as a navigation label in home page, pointing to /internet-health
+# The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+;Internet Health
+Internet Health
 
 

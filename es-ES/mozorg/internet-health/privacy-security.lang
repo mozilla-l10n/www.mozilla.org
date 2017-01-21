@@ -1,10 +1,12 @@
 ## NOTE: Demo server is available at https://www-dev.allizom.org/internet-health/privacy-security/
 
 
+# Used as both main title and HTML meta tag (title)
 ;A Healthy Internet is Secure and Private
 A Healthy Internet is Secure and Private
 
 
+# HTML meta tag (description)
 ;The Internet only stays healthy if we trust it as a safe place – to explore, transact, connect, and create.
 The Internet only stays healthy if we trust it as a safe place – to explore, transact, connect, and create.
 
@@ -112,6 +114,10 @@ What you can do about cyber security
 
 ;An extra step goes a long way. For the best protection, take advantage of <a href="%(twofactor)s" rel="external">2-factor authentication</a> wherever it’s offered.
 An extra step goes a long way. For the best protection, take advantage of <a href="%(twofactor)s" rel="external">2-factor authentication</a> wherever it’s offered.
+
+
+;What Mozilla is doing about cyber security
+What Mozilla is doing about cyber security
 
 
 ;Educating about the value of <a href="%(codemoji)s" rel="external">encryption</a>, and advocating for its <a href="%(letsencrypt)s" rel="external">universal adoption</a>.

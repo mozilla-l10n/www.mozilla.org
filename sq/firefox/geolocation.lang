@@ -12,7 +12,7 @@ Shfletim i Ndjeshëm ndaj Vendit
 
 
 ;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s">Give it a try!</a>
-Firefox mund t’u tregojë <i>site</i>-ve web se ku gjendeni, që kështu të mund të gjeni të dhëna më me peshë dhe më të dobishme. Bëhet fjalë për ta bërë Web-in më të mençur &ndash; dhe kjo bëhet duke respektuar plotësisht privatësinë tuaj. <a href="%(url)s" id="%(id)s">Provojeni!</a>
+Firefox mund të tregojë sajtin web se ku gjendeni, që kështu të mund të gjeni të dhëna më me peshë dhe më të dobishme. Bëhet fjalë për ta bërë Web-in më të mençur &ndash; dhe kjo bëhet duke respektuar plotësisht privatësinë tuaj. <a href="%(url)s" id="%(id)s">Provojeni!</a>
 
 
 ;Frequently asked Questions
@@ -24,11 +24,11 @@ Pyetje të Bëra Shpesh
 
 
 ;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
-<i>Site</i>-et Web që përdorin shfletim të ndjeshëm ndaj vendit do t’ju pyesin se ku gjendeni, që të mund t’ju sjellin të dhëna më me peshë, ose për t’ju kursyer kohë gjatë kërkimeve. Le të themi që po kërkoni për një piceri në zonën tuaj. <i>Site</i>-i web do të jetë në gjendje t’ju pyesë të jepni vendin ku ndodheni, në mënyrë që thjesht kërkimi për “pica” do t’ju sjellë përgjigjen që ju duhet... pa qenë nevoja për të dhëna të tjera apo më tepër shkrim në tastierë.
+Sajtet që përdorin shfletim të ndjeshëm ndaj vendit do t’ju pyesin se ku gjendeni, që të mund t’ju sjellin të dhëna më me peshë, ose për t’ju kursyer kohë gjatë kërkimeve. Le të themi që po kërkoni për një piceri në zonën tuaj. Sajti do të jetë në gjendje t’ju pyesë të jepni vendin ku ndodheni, në mënyrë që thjesht kërkimi për “pica” do t’ju sjellë përgjigjen që ju duhet… pa qenë nevoja për të dhëna të tjera apo më tepër shkrim në tastierë.
 
 
 ;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
-Ose, në rast se po përpiqeni si të gjeni në hartë rrugën për diku, <i>site</i>-i web do e dijë se nga do filloni, e kështu e vetmja gjë që duhet t’i tregoni është ku doni të shkoni.
+Ose, në rast se po përpiqeni si të gjeni në hartë rrugën për diku, sajti do ta dijë se nga do të filloni, dhe kështu e vetmja gjë që duhet t’i tregoni është ku doni të shkoni.
 
 
 ;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
@@ -40,15 +40,15 @@ Si funksionon?
 
 
 ;When you visit a location-aware website, Firefox will ask you if you want to share your location.
-Kur vizitoni një <i>site</i> web të ndjeshëm ndaj vendit, Firefox-i do t’ju pyesë nëse doni të jepni vendin ku gjendeni.
+Kur vizitoni një sajt të ndjeshëm ndaj vendit, Firefox-i do t’ju pyesë nëse doni të jepni vendin ku gjendeni.
 
 
 ;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
-Nëse pranoni, Firefox-i grumbullon të dhëna rreth pikash të afërta me hyrje në Internet pa kabllo dhe rreth vendndodhjes IP të kompjuterit tuaj. Mandej Firefox-i i dërgon këto të dhëna te mundësuesi parazgjedhje i shërbimit të gjeolokalizimi, Google Location Services, për të pasur një vlerësim mbi vendin tuaj. Ky vlerësim vendi mandej i jepet <i>site</i>-it web që e kërkoi.
+Nëse pranoni, Firefox-i grumbullon të dhëna rreth pikash të afërta hyrjeje në Internet pa fill dhe rreth vendndodhjes IP të kompjuterit tuaj. Mandej Firefox-i i dërgon këto të dhëna te furnizuesi parazgjedhje i shërbimit të gjeolokalizimi, Google Location Services, për të pasur një vlerësim mbi vendin tuaj. Ky vlerësim vendi mandej i jepet sajtit web që e kërkoi.
 
 
 ;If you say that you do not consent, Firefox will not do anything.
-Po qe se thoni se nuk pranoni, Firefox-i nuk do të bëjë gjë.
+Po qe se thoni se nuk pranoni, Firefox-i s’do të bëjë gjë.
 
 
 ;How accurate are the locations?
@@ -56,7 +56,7 @@ Sa të sakta janë vendet?
 
 
 ;Accuracy varies greatly from location to location. In some places, our service providers may be able to provide a location to within a few meters. However, in other areas it might be much more than that. All locations returned by our service providers are estimates only and we do not guarantee the accuracy of the locations provided. Please do not use this information for emergencies. Always use common sense.
-Saktësia ndryshon fort nga vendi në vend. Në disa vende, mundësuesit e shërbimit tonë mund të jenë në gjendje të furnizojnë vendndodhje brenda pak metrash. Sidoqoftë, në zona të tjera mund të bëhet fjalë për më shumë se kaq. Të tëra vendet e dhëna si përgjigje nga mundësuesit e shërbimit tonë janë vetëm vlerësime dhe nuk garantojmë saktësinë e tyre. Ju lutem mos i përdorni këto të dhëna për urgjenca. Përdorni përherë arsyen.
+Saktësia ndryshon fort nga vendi në vend. Në disa vende, furnizuesit e shërbimit tonë mund të jenë në gjendje të furnizojnë vendndodhje brenda pak metrash. Sidoqoftë, në zona të tjera mund të bëhet fjalë për më shumë se kaq. Të tëra vendet e dhëna si përgjigje nga furnizuesit e shërbimit tonë janë vetëm vlerësime dhe nuk garantojmë saktësinë e tyre. Ju lutemi, mos i përdorni këto të dhëna për urgjenca. Përdorni përherë arsyen.
 
 
 ;What information is being sent, and to whom? How is my privacy protected?
@@ -64,7 +64,7 @@ Saktësia ndryshon fort nga vendi në vend. Në disa vende, mundësuesit e shër
 
 
 ;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
-Privatësia juaj është tejet e rëndësishme për ne, dhe Firefox-i nuk i jep kurrë të dhënat tuaja pa leje nga ju. Kur vizitoni një faqe që kërkon të dhëna tuajat, do të pyeteni, përpara se çfarëdo e dhënë të jepet te <i>site</i>-i web që e kërkon dhe te mundësuesi palë e tretë i shërbimit.
+Privatësia juaj është tejet e rëndësishme për ne, dhe Firefox-i nuk i jep kurrë të dhënat tuaja pa leje nga ju. Kur vizitoni një faqe që kërkon të dhëna tuajat, do të pyeteni, përpara se çfarëdo e dhënë të jepet te sajti që e kërkon dhe te furnizuesi palë e tretë i shërbimit.
 
 
 ;By default, Firefox uses Google Location Services to determine your location by sending:
@@ -76,7 +76,7 @@ vendndodhjes IP të kompjuterit tuaj,
 
 
 ;information about the nearby wireless access points, and
-të dhëna rreth pikash të afërta të hyrjes në Internet pa kabllo, dhe
+të dhëna rreth pikash të afërta hyrjeje në Internet pa fill, dhe
 
 
 ;a random client identifier, which is assigned by Google, that expires every 2 weeks.
@@ -84,15 +84,15 @@ një identifikues të rastësishëm të klientit, i cili caktohet nga Google, q�
 
 
 ;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
-Për një përshkrim të plotë të të dhënave të mbledhura dhe përdorura nga Firefox-i, ju lutem shihni <a href="%(url)s">Rregulla Privatësie për Firefox-in</a> (në Anglisht).
+Për një përshkrim të plotë të të dhënave të mbledhura dhe përdorura nga Firefox-i, ju lutemi, shihni <a href="%(url)s">Rregulla Privatësie për Firefox-in</a> (në Anglisht).
 
 
 ;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
-Google Location Services përgjigjet mandej me vendin tuaj sipas tyre (p.sh., gjerësi dhe gjatësi gjeografike). Për një përshkrim të plotë të të dhënave të mbledhura dhe përdorura nga Google, ju lutem shihni <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a> (në Anglisht).
+Google Location Services përgjigjet mandej me vendin tuaj sipas tyre (p.sh., gjerësi dhe gjatësi gjeografike). Për një përshkrim të plotë të të dhënave të mbledhura dhe përdorura nga Google, ju lutemi, shihni <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a> (në Anglisht).
 
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
-Të dhënat shkëmbehen përmes një lidhjeje të fshehtëzuar, për të mbrojtur privatësinë tuaj. Pasi të ketë vendin tuaj, Firefox-i ia kalon atë <i>site</i>-i web që e kërkoi. As emri apo vendi i <i>site</i>-it web që po vizitoni, as ndonjë <i>cookie</i>, nuk jepen kurrë te Google Location Services.
+Të dhënat shkëmbehen përmes një lidhjeje të fshehtëzuar, për të mbrojtur privatësinë tuaj. Pasi të ketë vendin tuaj, Firefox-i ia kalon atë sajtit që e kërkoi. As emri apo vendi i sajtit që po vizitoni, as ndonjë <i>cookie</i>, nuk jepen kurrë te Google Location Services.
 
 
 ;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
@@ -100,7 +100,7 @@ As Mozilla dhe as Google nuk kanë për të përdorur kurrë të dhëna të mble
 
 
 ;For information about what the requesting website does with your location information, please refer to that website’s privacy policy.
-Për të dhëna rreth se çfarë bën <i>site</i>-i web që bëri kërkesën me të dhënat mbi vendin tuaj, ju lutem shihni rregullat e privatësisë të <i>site</i>-it web.
+Për të dhëna rreth se çfarë bën sajti që bëri kërkesën me të dhënat mbi vendin tuaj, ju lutemi, shihni rregullat e privatësisë të sajtit.
 
 
 ;For more information about your privacy, you should also read:
@@ -120,19 +120,19 @@ A më gjurmojnë ndërkohë që shfletoj në web?
 
 
 ;No. Firefox only requests a location when a website makes a request, and only shares your location when the user has approved the request. Firefox does not track or remember your location as you browse.
-Jo. Firefox-i kërkon për një vend vetëm kur bën kërkesë një <i>site</i> web, dhe e jep vendin tuaj vetëm kur përdoruesi e ka miratuar kërkesën. Firefox-i nuk e ndjek apo e ruan në kujtesë vendin tuaj ndërkohë që ju shfletoni.
+Jo. Firefox-i kërkon për vend vetëm kur bën kërkesë një sajt, dhe e jep vendin tuaj vetëm kur përdoruesi e ka miratuar kërkesën. Firefox-i nuk e ndjek apo e ruan në kujtesë vendin tuaj ndërkohë që ju shfletoni.
 
 
 ;How do I undo a permission granted to a site?
-Si të tërheq lejen që dhashë për një <i></i>?
+Si ta shfuqizoj lejen që dhashë për një sajt?
 
 
 ;If you've given Firefox permission to always give your location to a site and later change your mind, you can easily revoke that permission. Here's how:
-Po qe se i keni dhënë Firefox-it leje që të japë përherë vendin tuaj te një <i>site</i> dhe më pas ndërroni mendje, mundeni lehtësisht të shfuqizoni atë leje. Ja se si:
+Po qe se i keni dhënë Firefox-it leje që të japë përherë vendin tuaj te një sajt dhe më pas ndërroni mendje, mundeni lehtësisht të shfuqizoni atë leje. Ja se si:
 
 
 ;Navigate to the site to which you’ve given permission
-Shkoni te <i>site</i> të cilit i keni dhënë leje
+Shkoni te sajti të cilit i keni dhënë leje
 
 
 ;Go to the <em>Tools</em> menu, then select <em>Page Info</em>
@@ -152,7 +152,7 @@ Si ta pastroj “numrin identifikues të rastësishëm të klientit”?
 
 
 ;Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>
-Shkoni te menuja <em>Mjete</em>, mandej përzgjidhni <em>Hiq Historikun Së fundmi</em>
+Shkoni te menuja <em>Mjete</em>, mandej përzgjidhni <em>Hiq Historik Së Fundi</em>
 
 
 ;Click the <em>Details</em> arrow
@@ -172,7 +172,7 @@ Si ta çaktivizoj Shfletimin e Ndjeshëm ndaj Vendit përgjithmonë?
 
 
 ;Location-Aware Browsing is always opt-in in Firefox. No location information is ever sent without your permission. If you wish to disable the feature completely, please follow this set of steps:
-Shfletimi i Ndjeshëm ndaj Vendit është përherë me-zgjedhje te Firefox. Asnjë e dhënë vendi nuk jepet pa lejen tuaj. Nëse dëshironi ta çaktivizoni plotësisht këtë veçori, ju lutem ndiqni këtë grup hapash:
+Shfletimi i Ndjeshëm ndaj Vendit në Firefox është përherë me-zgjedhje. Asnjë e dhënë vendi nuk jepet pa lejen tuaj. Nëse dëshironi ta çaktivizoni plotësisht këtë veçori, ju lutemi, ndiqni këtë grup hapash:
 
 
 ;In the URL bar, type <code>about:config</code>

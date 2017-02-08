@@ -1,6 +1,7 @@
 ## active ##
 ## mozorg-home-fundraising-2016 ##
 ## mozorg-home-fxcopy-unleash ##
+## mozorg-home-health-report ##
 ## mozorg-home-impact-health ##
 ## NOTE: demo server at https://bedrock-demo-agibson.us-west.moz.works/
 
@@ -12,7 +13,7 @@ Internet për njerëzit, jo për fitime
 
 # HTML description tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource, open and accessible to all.
-E dinit? Mozilla - krijuesja e Firefox-it - lufton për ta mbajtur Internetin një burim global publik,të hapët dhe përdorshmë nga kushdo.
+E dinit? Mozilla - krijuesja e Firefox-it - lufton për ta mbajtur Internetin një burim global publik,të hapët dhe përdorshëm nga kushdo.
 
 
 # Line break below for visual formatting only
@@ -45,7 +46,7 @@ Provoni Lean Data Toolkit
 
 
 ;Read our Internet Health Report
-Read our Internet Health Report
+Lexoni Raportin tonë mbi Shëndetin e Internetit
 
 
 ;Our innovations
@@ -121,7 +122,7 @@ Krenarë që jemi jofitimprurës. <br>Dhuroni përpara 31 Dhjetorit.
 # This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
 # You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
-$%(sum)s{ok}
+€%(sum)s
 
 
 # Take over form

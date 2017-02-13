@@ -2,81 +2,14 @@
 Điều hướng
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>cho</span> Máy tính
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>cho</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>cho</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Cho máy tính để bàn và laptop
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Cho điện thoại và máy tính bảng
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Tổng quan
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Tin cậy
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Linh hoạt
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Nhanh
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Giới thiệu
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Các thiết bị
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Dành cho các đối tác
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ App
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Không theo dõi
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Tile
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Ứng dụng tổng quan theo dõi sở thích
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Cần trợ giúp?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Tin tức
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Dành cho lập trình viên
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Tìm máy bị mất
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Lập trình viên
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Thông tin pháp lý
 # Used as link in the footer
 ;Cookies
 Cookie
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates {ok}
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Chia sẻ video này
 Di động
 
 
-;Check out the new look and feel of Firefox.
-Trải nghiệm giao diện mới của Firefox.
-
-
 ;View Full Site
 Xem trang đầy đủ
 
 
-;Download for <span>Android</span>
-Tải xuống bản cho <span>Android</span>
-
-
 ;Desktop
 Máy tính
-
-
-;Firefox Beta for mobile
-Firefox Beta cho di động
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox cho di động
 
 ;Email
 Email {ok}
-
-
-;Super speed
-Siêu nhanh
-
-
-;Stunning graphics
-Đồ họa ấn tượng
-
-
-;The latest technologies
-Công nghệ mới nhất
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Bạn cần nâng cấp! Chỉ cần một phút thôi để có thể lướt Web một cách an toàn. <br/> Hãy bắt đầu dùng Firefox bản mới để có trải nghiệm duyệt và tùy biến trên Web tốt nhất. <br/> Firefox vừa nhanh lại miễn phí!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Sứ mệnh
 Tham quan
 
 
-# Footer item
-;Partner with Us
-Hợp tác
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Đồng bộ Sync
@@ -483,79 +352,12 @@ Hỗ trợ bản cho máy tính
 Hỗ trợ trên Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Hiệu năng
-
-
-# Top menu item on firefox/update page
-;Technology
-Công nghệ
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Riêng tư &amp; Bảo mật
-
-
-# Top menu item on firefox/update page
 ;Releases
 Các bản phát hành
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox cho các tổ chức
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Add-on cho di động
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Hỗ trợ di động
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Giới thiệu Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Tham gia Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Tham gia
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Tình nguyện viên
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Bộ công cụ thương hiệu
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Hợp tác
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Menu {ok}
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Vì bạn, vì tự do cá nhân và vì một nền tảng Web mở
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Hãy bỏ phiếu cho sự độc lập
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Hãy giữ cho ngọn lửa đam mê vì một Internet tự do và mở cháy mãi! #ChooseIndependent. Hãy lựa chọn Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Tháng mười hai
 <abbr>Th12</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox sắp ra phiên bản cho iOS! <a href="{url}">Hãy đăng ký để biết thêm chi tiết</a>.
-
-
 ;Congrats. You’re up to date!
 Chúc mừng. Bạn đang dùng phiên bản mới nhất!
 
@@ -791,10 +577,6 @@ Có lỗi! Xin hãy nhập một địa chỉ thư điện tử hợp lệ.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Tôi đồng ý với việc Mozilla xử lý thông tin của tôi như đã giải thích ở <a href="%s">Ghi chú bảo vệ riêng tư</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Tôi đồng ý việc Mozilla sử dụng thông tin của tôi như trình bày trong <a href="%s">Chính sách riêng tư này</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Cảm ơn!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Nếu bạn chưa từng đồng ý nhận email từ Mozilla, bạn nên làm vậy. Kiểm tra lại hộp thư đến hoặc bộ lọc thư rác để tìm email từ chúng tôi.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Cảm ơn! Vui lòng kiểm tra hộp thư đến để xác nhận việc đăng ký của bạn.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Bạn sẽ nhận được một thư điện tử từ mozilla@e.mozilla.org để xác nhận việc đăng ký. Nếu không nhìn thấy, xin hãy kiểm tra trong bộ lọc thư rác. Bạn cần phải xác nhận đăng ký để nhận thư thông báo của chúng tôi.
 
 
 ;Read all about it in our <span>newsletter</span>

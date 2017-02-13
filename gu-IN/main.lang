@@ -2,81 +2,14 @@
 શોધખોળ
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>માટે</span> ડેસ્કટોપ
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>માટે</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>માટે</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-ડેસ્કટોપ માટે &amp; લેપટોપ
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-ફોન માટે &amp; તકતી
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-ઝાંખી
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-વિશ્વસનીય
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-લવચીક
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-ઝડપી
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 વિશે
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-ઉપકરણો
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-ભાગીદારો માટે
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Pre-release downloads
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 ટ્રૅક કરો નહિ
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-ટાઇલ્સ
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-વ્યાજ ડેશબોર્ડ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Pre-release downloads
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 સમાચાર
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-વિકાસકર્તાઓ માટે
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-મારા ઉપકરણ શોધો
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-ડેવલપર્સ
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Mozilla વિશે
 # Used as link in the footer
 ;Cookies
 કુકીઓ
-
-
-# Used as link in the footer
-;Firefox Affiliates
-ફાયરફોક્સ સંલગ્ન
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 બંધારણ
 મોબાઈલ
 
 
-;Check out the new look and feel of Firefox.
-Firefox નો નવો દેખાવ અને અનુભવ માણો.
-
-
 ;View Full Site
 પૂર્ણ સાઇટ જુઓ
 
 
-;Download for <span>Android</span>
-<span>Android</span> માટે ડાઉનલોડ કરો
-
-
 ;Desktop
 ડૅસ્કટોપ
-
-
-;Firefox Beta for mobile
-મોબાઇલ માટે Firefox બીટા
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox નો નવો દેખાવ અને અનુભવ માણો.
 
 ;Email
 ઇ-મેલ
-
-
-;Super speed
-અત્યંત ઝડપી
-
-
-;Stunning graphics
-સ્તબ્ધ કરી નાંખે એવું ગ્રાફિક્સ
-
-
-;The latest technologies
-તાજેતરની ટેક્નૉલોજીઓ
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-તમને અપગ્રેડની જરૂર છે! મિનિટ કરતાં પણ ઓછા સમયમાં સુરક્ષિત થઇ જાવ. <br/> વેબ પર બ્રાઉઝીંગમાં અને વૈવિધ્યપૂર્ણ ઉપયોગમાં શ્રેષ્ઠ એવા તમારા નવા Firefox વાપરવાનું શરૂ કરો. <br/>   તે ઝડપી અને મુક્ત છે!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Firefox નો નવો દેખાવ અને અનુભવ માણો.
 પ્રવાસ
 
 
-# Footer item
-;Partner with Us
-અમારી સાથે ભાગીદારી
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 સમન્વય
@@ -483,79 +352,12 @@ Android એડ-ઑન્સ
 Android આધાર
 
 
-# Top menu item on firefox/update page
-;Performance
-કામગીરી
-
-
-# Top menu item on firefox/update page
-;Technology
-તકનીક
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-ગોપનીયતા &amp; સુરક્ષા
-
-
-# Top menu item on firefox/update page
 ;Releases
 પ્રકાશિત પાડેલ
 
 
-# Top menu item on firefox/update page
-;Firefox
-ફાયરફોક્સ
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-સંસ્થાઓ માટે ફાયરફોક્સ
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-મોબાઇલ એડ-ઓન
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-મોબાઇલ આધાર
-
-
-# Top menu item on firefox/update page
 ;Blog
 બ્લોગ
-
-
-# Top menu item on firefox/update page
-;About Firefox
-ફાયરફોક્સ વિશે
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Mozilla સાથે જોડાવો
-
-
-# Top menu item on firefox/update page
-;Participate
-ભાગ
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-સ્વયંસેવક
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-બ્રાન્ડ ટૂલકિટ
-
-
-# Top menu item on firefox/update page
-;Partnerships
-ભાગીદારી
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Twitter પર ફાયરફોક્સ
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 તમારા માટે, તમારી ગુપ્તતા માટે અને ઓપન વેબ માટે સમર્પિત
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-સ્વતંત્ર પસંદ કરો
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-એક મુક્ત અને ઓપન ઈન્ટરનેટ બર્નિંગ તેજસ્વી માટે આવેગ રાખો! #ChooseIndependent. ફાયરફોક્સ પસંદ કરો:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Firefox મદદ
 <abbr>ડિસ</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-ફાયરફોક્સ iOS માટે ટૂંક સમયમાં આવી રહ્યું છે! <a href="{url}">વધુ જાણવા માટે સાઇન અપ કરો</a>.
-
-
 ;Congrats. You’re up to date!
 અભિનંદન. તમે અદ્યતન છો!
 
@@ -791,10 +577,6 @@ HTML {ok}
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 હું મોઝીલા મારા માહિતી સંભાળવા તરીકે સમજાવી સાથે ઠીક છું <a href="%s">આ ગોપનીયતા સૂચના</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-હું મોઝીલા મારા માહિતી સંભાળવા તરીકે સમજાવી સાથે ઠીક છું<a href="%s">આ ગોપનીયતા નીતિ</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Firefox સમાચાર મેળવો
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 જો તમે પહેલાં મોઝિલા સંબંધિત ન્યૂઝલેટર માટે ઉમેદવારી પુષ્ટિ ન હોય તો તમે આવું કરવા માટે હોઈ શકે છે. તમારા ઇનબૉક્સમાં અથવા અમારી પાસેથી ઇમેઇલ માટે તમારા સ્પામ ફિલ્ટર તપાસો.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-તમારો આભાર! મહેરબાની કરીને તમારી ઉમેદવારીની ખાતરી કરવા માટે તમારાં ઇનબોક્સને ચકાસો.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-તમને તમારી ઉમેદવારીની ખાતરી કરવા માટે mozilla@e.mozilla.org માંથી ઇમેઇલ મળશે. જો તમે તેને ન જુઓ તો, તમારાં સ્પામ ફિલ્ટરને ચકાસો. તમને અમારા સૂચનાપત્રોને મેળવવા માટે તમારી ઉમેદવારીની ખાતરી કરવી જ જોઇએ.
 
 
 ;Read all about it in our <span>newsletter</span>

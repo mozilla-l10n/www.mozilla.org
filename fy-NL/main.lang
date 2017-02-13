@@ -2,81 +2,14 @@
 Navigaasje
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>foar</span> Desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>foar</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>foar</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-Tf
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-releasedownloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Foar desktops &amp; laptops
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Foar telefoans &amp; tablets
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Oersjoch
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Fertroud
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Fleksibel
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Fluch
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Oer
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Apparaten
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Foar partners
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Apps {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Net folgje
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Tegels
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Ynteressedashboerd
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Help nedich?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Nijs
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Foar ûntwikkelers
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Find My Device {ok}
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Untwikkelers
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Juridysk
 # Used as link in the footer
 ;Cookies
 Cookies {ok}
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates {ok}
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4-formaat
 Mobyl
 
 
-;Check out the new look and feel of Firefox.
-Probearje de fernijde foarmjouwing fan Firefox.
-
-
 ;View Full Site
 Folsleine website besjen
 
 
-;Download for <span>Android</span>
-Download foar <span>Android</span>
-
-
 ;Desktop
 Buro-PC
-
-
-;Firefox Beta for mobile
-Firefox Bèta foar mobyl
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox foar mobyl
 
 ;Email
 E-mail
-
-
-;Super speed
-Superfaasje
-
-
-;Stunning graphics
-Fantastyske graphics
-
-
-;The latest technologies
-De lêste technology
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Jo hawwe in fernijing nedich! Bliuw feilich yn minder as in minút. <br/> Start mei it gebrûk fan jo nije Firefox foar it bêste yn browsen en oanpasberheid op it Web. <br/>   It is fluch en fergees!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Missy
 Rûnlieding
 
 
-# Footer item
-;Partner with Us
-Partner wurde
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Stipe foar buro-PC
 Stipe foar Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Prestaasjes
-
-
-# Top menu item on firefox/update page
-;Technology
-Technology {ok}
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Privacy &amp; feilichheid
-
-
-# Top menu item on firefox/update page
 ;Releases
 Ferzjes
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox foar organisaasjes
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Add-ons foar mobyl
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Stipe foar mobyl
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Oer Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Kom by Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Meiwurkje
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Frijwilliger
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Merkhelpmiddelen
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Partners
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Menu {ok}
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Tawijd ta jo, jo privacy en in iepen Web
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Kies ûnôfhinklik
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Hâld de passy foar in frij en iepen ynternet brânend! #ChooseIndependent. Kies Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ desimber
 <abbr>des</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox komt ynkoarten nei iOS! <a href="{url}">Meld jo oan foar mear ynfo</a>.
-
-
 ;Congrats. You’re up to date!
 Lokwinske. Jo binne by-de-tiid!
 
@@ -791,10 +577,6 @@ Oeps! Wês wis dat jo in korrekt e-mailadres ynfolje.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Ik gean akkoard mei hoe't Mozilla omgiet mei myn ynformaasje as útlein yn <a href="%s">dit Privacybelied</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Ik gean akkoard dat Mozilla myn ynfo brûkt as útlein yn <a href="%s">dit Privacybelied</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Tank!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 As jo noch net earder in ynskriuwing foar in Mozilla-relatearre nijsbrief befêstige hawwe, moatte jo dit mooglik dwaan. Kontrolearje jo Postfek YN of jo spamfilter foar in e-mail fan ús.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Tank! Sjoch yn jo postfek yn om jo oanmelding te befêstigjen.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Jo ûntfange in e-mail fan mozilla@e.mozilla.org om de oanmelding te befêstigjen. As jo it net sjogge, kontrolearje jo spamfilter. Jo moatte jo oanmelding befêstigje om de nijsbrief te ûntfangen.
 
 
 ;Read all about it in our <span>newsletter</span>

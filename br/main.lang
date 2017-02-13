@@ -2,81 +2,14 @@
 Merdeiñ
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>evit</span> an urzhiataer
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>evit</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>evit</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-Reizhiad Korvoiñ
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-Skinwel
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pellgargadurioù rak-ermaeziañ
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Evit urzhiataerioù burev &amp; urzhiataerioù hezoug
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Evit pellgomzerioù &amp; tabletennoù
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Alberzh
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Fizius
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Azasaus
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Herrek
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 A-zivout
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Trobarzhelloù
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Evit keneskemmerien
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Arloadoù
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 N'am heuilhit ket
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Teoloù
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Taolenn dedenn
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Ezhomm skoazell ?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Nevezadennoù
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Evit diorroerien
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Kavout va trevnad
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Diorroerien
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Lezennel
 # Used as link in the footer
 ;Cookies
 Toupinoù
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Kenizili Firefox
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Mentrezh MPEG-4
 Pellgomzer hezoug
 
 
-;Check out the new look and feel of Firefox.
-Deuit da welout neuz nevez Firefox.
-
-
 ;View Full Site
 Gwelout al lec'hienn a-bezh
 
 
-;Download for <span>Android</span>
-Pellgargañ evit <span>Android</span>
-
-
 ;Desktop
 Urzhiataer burev
-
-
-;Firefox Beta for mobile
-Firefox Beta evit hezougell
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox evit hezougell
 
 ;Email
 Postel
-
-
-;Super speed
-Un tizh dispar
-
-
-;Stunning graphics
-Kevregadoù souezhus
-
-
-;The latest technologies
-Ar c'halvezouriezhoù diwezhañ
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Ezhomm oc'h eus hizivaat ! Chomit diogel e nebeutoc'h eget ur vunutenn. <br/>Krogit arverañ ho Firefox nevez a-benn kaout ar pep gwellañ eus ar merdeiñ hag ar personelaat war ar genrouedad. <br/>Buan ha digoust eo !
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Kefridi
 Gweladenniñ
 
 
-# Footer item
-;Partner with Us
-Deuit da vezañ keveler
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Urzhiataerioù burev
 Skor Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Digonusted
-
-
-# Top menu item on firefox/update page
-;Technology
-Kalvezouriezh
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Buhez prevez ha diogelroez
-
-
-# Top menu item on firefox/update page
 ;Releases
 Ermaeziadennoù
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox evit aozadurioù
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Askouezhioù evit hezougelloù
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Hezougelloù
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-A-zivout Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Mont davet Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Kemer perzh
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Kemer perzh
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Sturlevr ar merk
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Kevelerezhioù
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Lañser
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Gouestlet deoc'h, d'ho puhez prevez ha d'ar Web digor
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Dibabit dizalc'h
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Dalc'hit ar youl evit un internet frank ha digor ! #DibabitDizalc'h. Dibabit Firefox :
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Kerzu
 <abbr>Kzu</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-O tont war iOS emañ Firefox a-benn nebeut ! <a href="{url}">Emezelit evit gouzout hiroc'h</a>.
-
-
 ;Congrats. You’re up to date!
 Gourc'hemennoù. Hizivaet oc'h !
 
@@ -790,10 +576,6 @@ Hopala ! Ho chomlec'h postel n'eo ket talvoudek.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-An doare ma vez keweriet ma zitouroù gant Mozilla zo mat din evel ma 'z eo bet displeget er <a href="%s">reolenn-mañ a fet buhez prevez</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 An doare ma vez keweriet ma zitouroù gant Mozilla zo mat din evel ma 'z eo bet displeget er <a href="%s">reolenn-mañ a fet buhez prevez</a>
 
 
@@ -840,16 +622,6 @@ Trugarez deoc'h!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Ma n'ho peus ket kadarnaet ur c'houmanant d'ul lizher kelaouiñ liammet gant Mozilla endeo e c'hallit kaout d'en ober. Gwiriekait ho poest degemer pe ho sil lastez ma n'eus ket ur postel diganeomp.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Trugarez ! Mar plij, gwirit ho poest degemer evit kadarnaat ho koumanantiñ.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Ur postel a berzh mozilla@e.mozilla.org a zegemerot evit kadarnaat ho koumanantiñ. Ma ne welit ket anezhañ, gwirit ho siloù spam. Ret eo deoc'h kadarnaat ho koumanantiñ evit degemer hol lizhiri kelaouiñ.
 
 
 ;Read all about it in our <span>newsletter</span>

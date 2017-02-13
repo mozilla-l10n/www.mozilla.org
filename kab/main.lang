@@ -2,81 +2,14 @@
 Tunigin
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>i</span> yiselkimen
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>i</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>i</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Sider ileqman uzwiren
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-I yiselkimen
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-I yizirazen akked tfelwiyin n uselkem
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Agzul
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Yettwaflas
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Afallaẓ
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Arurad
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Ɣef
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Ibenkan
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Amɛiwen
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Isnasen
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Ur yi-sfuɣul ara
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Tafagurt
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Tafelwit n usenqed n tɣawsiwin yelhan
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Tesriḍ tallalt?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Isallen
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-I yisneflayen
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Af-d ibenk-iw
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Isneflayen
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Usḍif
 # Used as link in the footer
 ;Cookies
 Inagan n tuqqna
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Ttekkan ɣer Firefox
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Amasal MPEG-4
 Aziraz
 
 
-;Check out the new look and feel of Firefox.
-Iya-d ad twaliḍ agrudem amaynut n Firefox.
-
-
 ;View Full Site
 Sken akk asmel
 
 
-;Download for <span>Android</span>
-Sider i <span>Android</span>
-
-
 ;Desktop
 Aselkim
-
-
-;Firefox Beta for mobile
-Firefox Beta i uziraz
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox i uziraz
 
 ;Email
 Imayl
-
-
-;Super speed
-Arured meqqṛen
-
-
-;Stunning graphics
-Udlifen ifazen
-
-
-;The latest technologies
-Titiknulujiyin tineggura
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Tesriḍ lqem! Qqim d aɣlsan deg kra n wakud kan.<br/> Bdu s useqdec n Firefox amaynut i tunigin ifazen akked waggan di Web.<br/> S zreb u baṭel!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Tuɣdaṭ
 Tirza fessusen
 
 
-# Footer item
-;Partner with Us
-Imɛawanen
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Mtawi
@@ -483,79 +352,12 @@ Tallalt n Iselkimen
 Tallalt Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Tamellit
-
-
-# Top menu item on firefox/update page
-;Technology
-Tatiknulujit
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Tudert tabaḍnit  &amp; Taɣellist
-
-
-# Top menu item on firefox/update page
 ;Releases
 Ileqman
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox i tkebbaniyin
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Izegrar izirazen
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Tallalt i yizirazen
-
-
-# Top menu item on firefox/update page
 ;Blog
 Ablug
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Ɣef Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Ddu ɣer Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Ttekki
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Iwizi
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Amnir n uɣanib
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Imɛawanen
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Umuɣ
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Yettazzal fell-ak, tudert-inek akked ɣef Web yeldin
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Fren ad tiliḍ d ilelli
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Amennuɣ-nneɣ lwaḥid akken Internet ad yeqqim d ilelli u yeldi ! #ChooseIndependent. Fren Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Dujamber
 <abbr>Duj</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox ad yili ihegga akka kra n wussan ɣef iOS! <a href="{url}">Jerred ɣer tebratt n telɣut akken ur tzeggleḍ kra</a>.
-
-
 ;Congrats. You’re up to date!
 Ayuz. Aql-ak tettwaleqmeḍ!
 
@@ -791,10 +577,6 @@ Ay ay ay! Wali ma yella tessekcmeḍ tansa imayl tameɣtut.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Qebleɣ akken Mozilla ad tesseqdec talɣut-inu akken tella <a href="%s">tsertit-a n tbaḍnit</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Qebleɣ akken Mozilla ad tesseqdec talɣut-inu tabaḍnit akken tella deg <a href="%s">tsertit-a tabaḍnit</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Tanemmirt!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Ma yella ur tsentmeḍ ara yakan ajerred ɣer yizen n telɣutyerzan Mozilla, ahat yessefk tura. Ma ulac aɣilif, senqed tirawt-inek neɣ imzizdig-inek n yispamen akken ad twaliḍ imayl i ak-d-nuzen.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Tanemmirt! Ma ulac aɣilif senqed tirawt-inek akken ad tsentmeḍ ajerred-inek.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Ad tremseḍ imayl seg mozilla@e.mozilla.org akken ad tsentmeḍ ajerred. Ma yella ur twalaḍ ara, senqed imzizdig-inek n yispamen. Yessefk ad tsentmeḍ ajerred-inek akked ad tremseḍ izen-nneɣ n telɣut.
 
 
 ;Read all about it in our <span>newsletter</span>

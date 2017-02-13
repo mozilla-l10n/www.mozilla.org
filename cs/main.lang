@@ -2,81 +2,14 @@
 Navigace
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>pro</span> Počítač
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>pro</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>pro</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Stažení nefinálních vydání
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Pro počítače a notebooky
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Pro telefony a tablety
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Přehled
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Spolehlivý
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Flexibilní
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Rychlý
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 O nás
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Zařízení
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Pro partnery
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Aplikace
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Do Not Track {ok}
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Dlaždice
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Nástěnka zájmů
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Potřebujete pomoci?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Novinky
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Pro vývojáře
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Nalézt mé zařízení
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Vývojáři
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Právní informace
 # Used as link in the footer
 ;Cookies
 Cookies {ok}
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates {ok}
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Formát MPEG-4
 Mobily
 
 
-;Check out the new look and feel of Firefox.
-Podívejte se na nový svěží vzhled Firefoxu.
-
-
 ;View Full Site
 Zobrazit celou stránku
 
 
-;Download for <span>Android</span>
-Stáhnout pro <span>Android</span>
-
-
 ;Desktop
 Počítač
-
-
-;Firefox Beta for mobile
-Firefox Beta pro mobily
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox pro mobily
 
 ;Email
 E-mail
-
-
-;Super speed
-Super rychlost
-
-
-;Stunning graphics
-Úžasná grafika
-
-
-;The latest technologies
-Nejnovější technologie
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Potřebujete aktualizovat! Bezpečí získáte za méně než minutu. <br/>  Začněte používat nejnovější Firefox pro nejlepší prohlížení a přizpůsobení webu. <br/> Je rychlý a je zdarma!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Mise
 Průvodce
 
 
-# Footer item
-;Partner with Us
-Partnerství s námi
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Podpora pro počítač
 Podpora pro Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Výkon
-
-
-# Top menu item on firefox/update page
-;Technology
-Technologie
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Soukromí a zabezpečení
-
-
-# Top menu item on firefox/update page
 ;Releases
 Vydání
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox pro organizace
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Doplňky pro mobily
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Podpora pro mobily
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-O Firefoxu
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Připojení k Mozille
-
-
-# Top menu item on firefox/update page
-;Participate
-Zapojte se
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Zapojte se
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Brand Toolkit {ok}
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Partnerství
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Nabídka
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Připraven pro vás, vaše soukromí a otevřený web
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Zvolte nezávislost
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Zvolte Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Prosinec
 <abbr>Pro</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Již brzy tu bude Firefox pro iOS! <a href="{url}">Přihlaste se pro více informací</a>.
-
-
 ;Congrats. You’re up to date!
 Gratulujeme. Jste aktuální!
 
@@ -791,10 +577,6 @@ Opss! Ujistěte se, že jste zadali platnou e-mailovou adresu.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Souhlasím s tím, aby Mozilla zpracovávala mé informace tak, jak je popsáno v <a href="%s">těchto Zásadách ochrany soukromí</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Souhlasím s tím, aby Mozilla zpracovávala mé informace tak, jak je popsáno v <a href="%s">Zásadách ochrany soukromí</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Děkujeme!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Pokud jste dříve nepotvrdili odběr zpravodaje Mozilly, budete tak muset učinit nyní. Podívejte se prosím do vaší e-mailové schránky a případně i nevyžádané pošty, jestli tam není e-mail od nás.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Děkujeme! Podívejte se do své pošty a potvrďte přihlášení.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-E-mail s potvrzením odběru obdržíte z adresy mozilla@e.mozilla.org. Pokud nic neobdržíte, zkontrolujte si svou složku s nevyžádanou poštou (spamem). Pro odběr zpravodajů musíte odběr potvrdit.
 
 
 ;Read all about it in our <span>newsletter</span>

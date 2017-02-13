@@ -2,81 +2,14 @@
 Navigasi
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>untuk</span> Desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>untuk</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>untuk</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-Sistem Operasi
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Unduhan pre-rilis
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Untuk desktop &amp; laptop
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Untuk ponsel &amp; tablet
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Tinjauan
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Tepercaya
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Luwes
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Cepat
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Tentang
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Perangkat
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Untuk mitra
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Aplikasi
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Jangan Lacak
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Ubin
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Dasbor Ketertarikan
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Butuh bantuan?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Berita
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Untuk pengembang
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Temukan Perangkat Saya
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Pengembang
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Tentang Legal
 # Used as link in the footer
 ;Cookies
 Kuki
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliate
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Format MPEG-4
 Seluler
 
 
-;Check out the new look and feel of Firefox.
-Saksikan tampilan baru Firefox.
-
-
 ;View Full Site
 Tampilkan Situs Desktop
 
 
-;Download for <span>Android</span>
-Unduh untuk <span>Android</span>
-
-
 ;Desktop
 Desktop {ok}
-
-
-;Firefox Beta for mobile
-Firefox Beta untuk seluler
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox untuk seluler
 
 ;Email
 Surel
-
-
-;Super speed
-Kecepatan tinggi
-
-
-;Stunning graphics
-Grafik nan memesona
-
-
-;The latest technologies
-Teknologi terbaru
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Anda perlu meningkatkan versi Firefox! Perbarui selalu agar tetap aman. <br/> Setelah itu pakai Firefox baru Anda untuk mendapatkan yang terbaik ketika menjelajah dan menyesuaikan Web seperti yang Anda suka. <br/>   Cepat dan gratis!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Misi
 Tur
 
 
-# Footer item
-;Partner with Us
-Bermitra bersama Kami
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Dukungan Desktop
 Dukungan Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Kinerja
-
-
-# Top menu item on firefox/update page
-;Technology
-Teknologi
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Privasi &amp; Keamanan
-
-
-# Top menu item on firefox/update page
 ;Releases
 Rilis
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox untuk Organisasi
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Pengaya Seluler
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Dukungan Seluler
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Tentang Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Mari Bergabung dengan Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Ikut Berpartisipasi
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Menjadi sukarelawan
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Pernak-pernik Merek
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Kemitraan
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Menu {ok}
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Berkomitmen untuk Anda, privasi Anda, dan Web terbuka
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Pilih Independen
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Jaga semangat untuk menjaga Internet terbuka dan bebas tetap menyala! #ChooseIndependent. Pilih Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Desember
 <abbr>Des</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox segera hadir untuk iOS! <a href="{url}">Daftarkan surel Anda untuk mengetahui lebih lanjut</a>.
-
-
 ;Congrats. You’re up to date!
 Selamat! Anda sudah memiliki versi terbaru!
 
@@ -790,10 +576,6 @@ Duh, pastikan memasukkan alamat surel yang benar ya!
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Saya menyetujui Mozilla untuk menangani data tentang saya seperti yang dijelaskan dalam <a href="%s">Kebijakan Privasi ini</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 Saya menyetujui Mozilla untuk menangani data tentang saya seperti yang dijelaskan dalam <a href="%s">Kebijakan Privasi ini</a>
 
 
@@ -840,16 +622,6 @@ Trims!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Jika Anda sebelumnya belum pernah mengonfirmasi berlangganan salah satu nawala terkait Mozilla, Anda mungkin harus melakukannya. Silakan cek surel dari kami di kotak atau filter spam Anda.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Trims! Silakan periksa kotak masuk Anda untuk mengonfirmasi langganan Anda.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Anda akan menerima surel dari mozilla@e.mozilla.org untuk mengonfirmasikan langganan Anda. Jika surelnya tidak ditemukan, mohon periksa filter spam juga. Anda harus mengonfirmasikan langganan sebelum dapat menerima nawala kami.
 
 
 ;Read all about it in our <span>newsletter</span>

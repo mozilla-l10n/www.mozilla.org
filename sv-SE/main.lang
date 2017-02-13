@@ -2,81 +2,14 @@
 Navigering
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>för</span> Datorer
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>för</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>för</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Förhandshämtningar
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-För stationära &amp; bärbara datorer
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-För telefoner &amp; surfplattor
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Översikt
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Pålitlig
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Flexibel
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Snabb
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Om Mozilla
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Enheter
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Partnerskap
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Appar
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Spårningsskydd
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Paneler
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Intressepanelen
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Behöver du hjälp?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Nyheter
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-För utvecklare
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Hitta min enhet
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Utvecklare
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Juridisk information
 # Used as link in the footer
 ;Cookies
 Kakor
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates {ok}
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4-format
 Mobil
 
 
-;Check out the new look and feel of Firefox.
-Upptäck allt det nya i Firefox.
-
-
 ;View Full Site
 Visa webbplatsen
 
 
-;Download for <span>Android</span>
-Hämta för <span>Android</span>
-
-
 ;Desktop
 Stationär
-
-
-;Firefox Beta for mobile
-Firefox Beta för mobilen
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox för mobilen
 
 ;Email
 E-post
-
-
-;Super speed
-Supersnabb
-
-
-;Stunning graphics
-Fantastisk grafik
-
-
-;The latest technologies
-Den senaste tekniken
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Du behöver en uppgradering! Det tar dig mindre än en minut att fortsätta vara skyddad. <br/> Börja använda din nya Firefox och få det bästa inom surfning och anpassningar på webben. <br/>   Snabbt och gratis!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Uppdrag
 Presentation
 
 
-# Footer item
-;Partner with Us
-Bli affärs&shy;partner
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Hjälpcenter för stationär
 Hjälpcenter för Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Prestanda
-
-
-# Top menu item on firefox/update page
-;Technology
-Teknik
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Sekretess &amp; säkerhet
-
-
-# Top menu item on firefox/update page
 ;Releases
 Utgåvor
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox för organisationer
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Tillägg för mobil
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Hjälpcenter för mobil
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blogg
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Om Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Gå med i Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Delta
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Volontär
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Varumärkesverktyg
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Partnerskap
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Meny
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Hängiven dig, din integritet och ett öppet internet
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Välj fritt
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Visa din kärlek till det fria och öppna internet! #ChooseIndependent. Välj Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ December {ok}
 <abbr>Dec</abbr> {ok}
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Snart kommer Firefox till iOS! <a href="{url}">Prenumerera för att få veta mer</a>.
-
-
 ;Congrats. You’re up to date!
 Grattis! Du är uppdaterad.
 
@@ -790,10 +576,6 @@ Hoppsan! Var noga med att ange en giltig e-postadress.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Jag godkänner att Mozilla hanterar min information på det sätt som beskrivs och förklaras i denna <a href="%s">sekretesspolicy</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 Jag godkänner att Mozilla hanterar min information på det sätt som beskrivs och förklaras i denna <a href="%s">sekretesspolicy</a>
 
 
@@ -840,16 +622,6 @@ Tack!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Om du inte tidigare har bekräftat en prenumeration på ett Mozilla-relaterat nyhetsbrev kan du behöva göra det. Vänligen kontrollera din inkorg eller ditt spamfilter efter e-post från oss.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Tack! Gå till din inkorg för att bekräfta din prenumeration.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Du kommer att få ett e-brev från mozilla@e.mozilla.org för bekräftelse av din prenumeration. Om du inte hittar det, titta i din skräppostmapp. Du måste bekräfta din prenumeration för att få vårt nyhetsbrev.
 
 
 ;Read all about it in our <span>newsletter</span>

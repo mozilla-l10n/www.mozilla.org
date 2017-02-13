@@ -2,81 +2,14 @@
 Gezinme
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-Masaüstü <span>için</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-Android <span>için</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-iOS <span>için</span> Firefox
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Final öncesi sürümler
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Bilgisayarlar için
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Telefon ve tabletler için
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Genel Bakış
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Güvenilir
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Esnek
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Hızlı
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Hakkımızda
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Cihazlar
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-İş ortakları için
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Uygulamalar
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Beni İzleme
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Kutucuklar
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-İlgi Alanı Panosu
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Yardım mı lazım?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Haberler
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Geliştiriciler için
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Cihazımı Bul
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Geliştiriciler
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Yasal
 # Used as link in the footer
 ;Cookies
 Çerezler
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Kardeşleri
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 biçimi
 Mobil
 
 
-;Check out the new look and feel of Firefox.
-Firefox’un yeni görünümüne göz atın.
-
-
 ;View Full Site
 Tüm siteyi göster
 
 
-;Download for <span>Android</span>
-<span>Android</span> için indir
-
-
 ;Desktop
 Masaüstü
-
-
-;Firefox Beta for mobile
-Mobil aygıtlar için Firefox Beta
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Mobil aygıtlar için Firefox
 
 ;Email
 E-posta
-
-
-;Super speed
-Yüksek hız
-
-
-;Stunning graphics
-Etkileyici grafikler
-
-
-;The latest technologies
-En yeni teknolojiler
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Yükseltmeniz gerekiyor! Birkaç dakika içinde güvenliğinizi yeniden sağlayın. <br/> Web’de gezinme ve en iyi özelleştirme deneyimi için yeni Firefox’u kullanmaya başlayın. <br/> Hem hızlı hem de bedava!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Misyon
 Tur
 
 
-# Footer item
-;Partner with Us
-İş Ortağımız Olun
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Masaüstü Desteği
 Android Desteği
 
 
-# Top menu item on firefox/update page
-;Performance
-Performans
-
-
-# Top menu item on firefox/update page
-;Technology
-Teknoloji
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Gizlilik ve Güvenlik
-
-
-# Top menu item on firefox/update page
 ;Releases
 Sürümler
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Kurumlar için Firefox
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Mobil Eklentiler
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Mobil Desteği
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Firefox Hakkında
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Mozilla’ya Katılın
-
-
-# Top menu item on firefox/update page
-;Participate
-Katkıda Bulunun
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Gönüllü olun
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Marka Kiti
-
-
-# Top menu item on firefox/update page
-;Partnerships
-İş Ortaklıkları
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Menü
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Sizin için, gizliliğiniz için ve açık bir Web için varız
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Bağımsızlığı seç
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Özgür ve açık internet tutkusu alev gibi parlasın! #ChooseIndependent. Bağımsızlığı seç. Firefox’u seç:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Aralık
 <abbr>Ara</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox yakında iOS’e geliyor! <a href="{url}">Daha fazla bilgi için kaydolun</a>.
-
-
 ;Congrats. You’re up to date!
 Tebrikler, tarayıcınız güncel!
 
@@ -791,10 +577,6 @@ Hata! Geçerli bir e-posta adresi girdiğinizden emin olun.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Mozilla’nın bilgilerimi <a href="%s">bu Gizlilik Notu’nda</a> açıklandığı şekilde kullanmasını kabul ediyorum.
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-<a href="%s">Bu gizlilik ilkesinde</a> açıklandığı şekilde, bu bilgileri sizinle paylaşmayı kabul ediyorum
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Teşekkürler!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Daha önce bir Mozilla bültenine abone olmadıysanız aboneliğinizi onaylamanız gerekebilir. Lütfen gelen kutunuzu veya spam klasörünüzü kontrol edin.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Teşekkürler! Aboneliğinizi onaylamak için gelen kutunuzu kontrol edin.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Aboneliğinizi onaylamak için mozilla@e.mozilla.org adresinden bir e-posta alacaksanız. Gelmezse spam filtrenizi kontrol edin. Bültenimizi alabilmek için aboneliğinizi onaylamalısınız.
 
 
 ;Read all about it in our <span>newsletter</span>

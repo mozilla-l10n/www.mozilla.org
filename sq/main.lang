@@ -2,81 +2,14 @@
 Lëvizje
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>për</span> Desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>për</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>për</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS{ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV{ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Shkarkime paraprake hedhjeje në qarkullim
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Për desktop &amp; laptop
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Për telefon &amp; tablet
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Përmbledhje
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-I besuar
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-I zhdërvjellët
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-I shpejtë
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Rreth
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Pajisje
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Për partnerë
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Aplikacione
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Mos Më Gjurmo
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Kuadrate
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Pult Interesash
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Ju duhet ndihmë?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Lajme
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Për zhvillues
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Gjeje Pajisjen Time
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Zhvillues
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Ligjore
 # Used as link in the footer
 ;Cookies
 Cookies{ok}
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Përkrahës të Firefox-it
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Në format MPEG-4
 Celular
 
 
-;Check out the new look and feel of Firefox.
-Shiheni vetë pamjen e re dhe ndjesitë e reja që jep Firefox-i.
-
-
 ;View Full Site
 Shihni Sajtin e Plotë
 
 
-;Download for <span>Android</span>
-Shkarkojeni për <span>Android</span>
-
-
 ;Desktop
 Desktop {ok}
-
-
-;Firefox Beta for mobile
-Firefox Beta për celular
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox për celular
 
 ;Email
 Email {ok}
-
-
-;Super speed
-Supershpejtësi
-
-
-;Stunning graphics
-Grafikë mbresëlënëse
-
-
-;The latest technologies
-Teknologjia më e re
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Ju duhet një përmirësim! Riktheni sigurinë në më pak se një minutë. <br/> Filloni përdorimin e Firefox-it të ri, për anët më të mira në shfletim dhe personalizim në Web. <br/>   Bëhet shpejt dhe falas!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Misioni
 Tur
 
 
-# Footer item
-;Partner with Us
-Bëhuni Partner i Yni
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync{ok}
@@ -483,79 +352,12 @@ Asistencë për Desktop
 Asistencë për Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Performancë
-
-
-# Top menu item on firefox/update page
-;Technology
-Teknologji
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Privatësi &amp; Siguri
-
-
-# Top menu item on firefox/update page
 ;Releases
 Hedhje Në Qarkullim
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox{ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox për Organizma
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Shtesa Celulare
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Asistencë për Celular
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog{ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Rreth Firefox-it
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Bëhuni Pjesë e Mozilla-s
-
-
-# Top menu item on firefox/update page
-;Participate
-Merrni Pjesë
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Dilni vullnetar
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Brand Toolkit{ok}
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Partneritete
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Menu {ok}
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 I përkushtuar ndaj jush, privatësisë suaj dhe një Web-i të hapur
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Zgjidhni Të Pavarurin
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Mbajeni ndezur flakën e pasionit për një Internet të lirë dhe të hapur! #ChooseIndependent. Zgjidhni Firefox-in:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Dhjetor
 <abbr>Dhj</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox-i së shpejti do të mbërrijë edhe te iOS-i! <a href="{url}">Regjistrohuni që të mësoni më tepër</a>.
-
-
 ;Congrats. You’re up to date!
 Përgëzime. E keni të përditësuar!
 
@@ -791,10 +577,6 @@ Kujdes! Sigurohuni që po jepni një adresë email të vlefshme.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Pajtohem me trajtimin që Mozilla u bën të dhënave të mia, ashtu si shpjegohet te <a href="%s">ky Shënim mbi Privatësinë</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Pajtohem me trajtimin që Mozilla u bën të dhënave të mia, ashtu si shpjegohet te <a href="%s">këto Rregulla Privatësie</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Faleminderit!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Nëse s’e keni ripohuar më parë pajtimin te buletini me lajme nga Mozilla, mund t’ju duhet ta bëni. Ju lutemi, kontrolloni te të marrat tuaja apo te dosja e të padëshiruarave për një email nga ne.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Faleminderit! Ju lutemi, kontrolloni postën tuaj që të ripohoni pajtimin tuaj.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Do të merrni një email prej mozilla@e.mozilla.org që të ripohoni pajtimin tuaj. Nëse nuk e gjeni, kontrolloni filtrin tuaj për të padëshiruarit. Duhet të ripohoni pajtimin tuaj, që të merrni buletinin tonë.
 
 
 ;Read all about it in our <span>newsletter</span>

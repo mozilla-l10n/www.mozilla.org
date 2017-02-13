@@ -2,81 +2,14 @@
 Seòladh
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>airson</span> an deasga
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>airson</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>airson</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TBh
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Luchdaidhean ro-sgaoilidh
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Airson desktops ⁊ laptops
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Airson fònaichean ⁊ tablaidean
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Foir-shealladh
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Earbsach
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Sùbailte
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Luath
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Mu dhèidhinn
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Uidheaman
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Airson com-pàirtichean
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Aplacaidean
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Na tracaich
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Leacagan
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Deas-bhòrd nan ùidhean
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Cobhair a dhìth?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Naidheachdan
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Airson luchd-leasachaidh
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Lorg an t-uidheam agam
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Luchd-leasachaidh
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Laghail
 # Used as link in the footer
 ;Cookies
 Briosgaidean
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Dlùth-chompanaich Firefox
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Fòrmat MPEG-4
 Gluasadach
 
 
-;Check out the new look and feel of Firefox.
-Thoir sùil air an dreach ùr snasail a tha air Firefox.
-
-
 ;View Full Site
 Seall an làrach shlàn
 
 
-;Download for <span>Android</span>
-Luchdaich a-nuas airson <span>Android</span>
-
-
 ;Desktop
 Deasg
-
-
-;Firefox Beta for mobile
-Firefox Beta airson innealan-làimhe
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox airson innealan-làimhe
 
 ;Email
 Post-d
-
-
-;Super speed
-Cho luath ri seabhag
-
-
-;Stunning graphics
-Grafaigean do-chreidsinneach
-
-
-;The latest technologies
-An teicneolas as ùire
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-B' fheairrde dhut àrdachadh! Faigh àrdachadh a chum do thèarainteachd fhèin 's cha doir e ach mionaid. <br/> Cleachd am Firefox as ùire airson am brabhsadh 's an gnàthachadh as fhearr air an lìon. <br/>   Tha e luath 's saor an-asgaidh!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Am misean
 Turas
 
 
-# Footer item
-;Partner with Us
-Rach ann an com-pàirteachas leinn
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sioncronaich
@@ -483,79 +352,12 @@ Taic airson Firefox deasga
 Taic Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Dèanadas
-
-
-# Top menu item on firefox/update page
-;Technology
-Teicneolas
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Prìobhaideachd ⁊ Tèarainteachd
-
-
-# Top menu item on firefox/update page
 ;Releases
 Sgaoilidhean
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox do bhuidhnean
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Tuilleadain mobile
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Taic airson Firefox mobile
-
-
-# Top menu item on firefox/update page
 ;Blog
 Bloga
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Mu dhèidhinn Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Gabh pàirt ann am Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Gabh pàirt
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Com-pàirteachas saor-thoileach
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Brand Toolkit {ok}
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Com-pàirteachasan
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Clàr-taice
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 An dealas dhut, dha do phrìobhaideachd is do lìon fosgailte
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-'S fheairrde duine neo-eisimeileachd
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Brosnaich eadar-lìon a bhios saor is fosgailte! #ChooseIndependent. Tagh Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Dùbhlachd
 <abbr>Dùbh</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Tha Firefox a' tighinn gu iOS a dh'aithghearr! <a href="{url}">Clàraich airson barrachd fiosrachaidh</a>.
-
-
 ;Congrats. You’re up to date!
 Meal do naidheachd, gach rud cho ùr ’s a ghabhas!
 
@@ -791,10 +577,6 @@ Oich! Dèan cinnteach gu bheil am post-dealain a chuireas thu a-steach dligheach
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Tha mi toilichte gun làimhsich Mozilla am fiosrachadh agam mar a mhìnich iad san <a href="%s">aithris phrìobhaideachd seo</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Tha mi a' toirt cead dha Mozilla am fiosrachadh seo a chleachdadh mar a mhìnich sibh sa <a href="%s">phoileasaidh phrìobhaideachd</a> seo
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Mòran taing!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Mur an do dhearbh thu fo-sgrìobhadh airson cuairt-litir air chor-eigin o Mozilla, dh’fhaoidte gum bi agad ri sin seo a dhèanamh. Thoir sùil air a’ bhogsa phuist agad no pasgan an spama airson post-d uainn.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Gun robh math agad! Thoir sùil air a' bhogsa phuist agad is dearbh am fo-sgrìobhadh agad.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Gheibh thu post-d o mozilla@e.mozilla.org gus am fo-sgrìobhadh agad a dhearbhadh. Mur fhaic thu e, thoir sùil air a' chriathrag spama agad. Feumaidh tu am fo-sgrìobhadh a dhearbhadh mus fhaigh thu a' chuairt-litir againn.
 
 
 ;Read all about it in our <span>newsletter</span>

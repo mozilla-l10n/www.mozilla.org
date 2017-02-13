@@ -2,81 +2,14 @@
 Navigado
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>por</span> komputiloj
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>por</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>por</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS{ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-Televidilo
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Elŝuto de preparaj versioj
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Por labortablaj kaj porteblaj komputiloj
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Por telefonoj kaj tabulkomputiloj
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Superrigardo
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Fidata
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Fleksema
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Rapida
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Pri
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Aparatoj
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Por asociitoj
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Programoj
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Ne spuri
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Kaheloj
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Afiŝejo de interesoj
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Privata retumo
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Novaĵoj
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Por disvolvantoj
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Trovi mian aparaton
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Disvolvantoj
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Leĝaĵoj
 # Used as link in the footer
 ;Cookies
 Kuketoj
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates{ok}
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4-a formo
 Poŝtelefono
 
 
-;Check out the new look and feel of Firefox.
-Kontroli la novan aspekton de Firefox.
-
-
 ;View Full Site
 Vidi la tutan retejon
 
 
-;Download for <span>Android</span>
-Elŝuti por <span>Android</span>
-
-
 ;Desktop
 Labortabla
-
-
-;Firefox Beta for mobile
-Firefox Beta por poŝtelefonoj
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox por poŝtelefonoj
 
 ;Email
 Retpoŝto
-
-
-;Super speed
-Supera rapido
-
-
-;Stunning graphics
-Miriga grafiko
-
-
-;The latest technologies
-La lastaj teĥnologioj
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Vi bezonas ĝisdatigi! Resti sekura en malpli ol minuto. <br/> Komencu la uzadon de via nova Firefox por havi la plejbonon en retumado kaj adaptado en la TTT. <br/>   Estas rapide kaj senpage!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Celo
 Rondiro
 
 
-# Footer item
-;Partner with Us
-Kunlabori kun ni
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Speguli
@@ -483,79 +352,12 @@ Helpo por komputilo
 Helpo por Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Efikeco
-
-
-# Top menu item on firefox/update page
-;Technology
-Teĥnologio
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Privateco kaj sekureco
-
-
-# Top menu item on firefox/update page
 ;Releases
 Eldonoj
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox{ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox por organizoj
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Aldonaĵoj por poŝaparatoj
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Helpo por poŝaparatoj
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blogo
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Pri Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Aliĝi al Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Partopreni
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Volontuli
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Ilaro de varmarko
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Asociitoj
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Menuo
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Dediĉita al vi, via privateco kaj la malfermita Teksaĵo
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Elektu sendependencon
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Tenu arde brilanta la pasion je libera kaj malfermita Interreto! #ChooseIndependent. Elektu Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Decembro
 <abbr>Dec</abbr>{ok}
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox baldaŭ alvenos al iOS! <a href="{url}">Abonu por havi pli da informo</a>.
-
-
 ;Congrats. You’re up to date!
 Gratulon! Via versio estas aktuala.
 
@@ -791,10 +577,6 @@ Atentu! Estu certa tajpi validan retpoŝtan adreson.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Mi akceptas kiel Mozilla traktas mian informon, laŭ la priskribo de <a href="%s">tiu ĉi noto pri privateco</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Mi akceptas kiel Mozilla traktas mian informon, laŭ la priskribo de <a href="%s">tiu ĉi politiko pri privateco</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Dankon!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Se vi antaŭe ne konfirmis abonon al bulteno de Mozilla, vi eble devos tion fari. Bonvolu kontroli ĉu estas mesaĝo nia en via enirkesto aŭ trudmesaĝujo.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Dankon! Bonvolu kontroli vian enirkeston por konfirmi vian abonon.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Vi ricevos retmesaĝon de mozilla@e.mozilla.org por konfirmi vian abonon. Se vi ĝin ne vidas, kontrolu vian trudmesaĝan filtrilon. Vi devas konfirmi vian abonon por ricevi nian novaĵleteron.
 
 
 ;Read all about it in our <span>newsletter</span>

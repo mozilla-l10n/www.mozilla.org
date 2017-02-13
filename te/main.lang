@@ -2,81 +2,14 @@
 మార్గదర్శకం
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-డెస్క్‌టాప్ <span>కొరకు</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-Android <span>కొరకు</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-iOS <span>కొరకు</span>
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 విడుదలకు మునుపు డౌన్లోడ్ లు
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-డెస్క్‌టాపులు &amp; లాప్‌టాపుల కొరకు
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-ఫోన్లు &amp; టాబ్లెట్ల కొరకు
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-అవలోకనం
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-విశ్వసనీయం
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-సౌకర్యవంతం
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-వేగవంతం
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 గురించి
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-పరికరాలు
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-భాగస్వాముల కొరకు
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ TV {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 ట్రాక్ చెయ్యవద్దు
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-టైల్స్
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-ఆసక్తి డాష్‌బోర్డు
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ TV {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 వార్తలు
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-డెవలపర్ల కొరకు
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-నా పరికరాన్ని కనిపెట్టు
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-డెవలపర్లు
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Mozilla గురించి
 # Used as link in the footer
 ;Cookies
 కుకీలు
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox అఫిలియేట్స్
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 ఫార్మాటు
 మొబైల్
 
 
-;Check out the new look and feel of Firefox.
-Firefox కొత్త రూపురేఖల్ని పరిశీలించి చూడండి.
-
-
 ;View Full Site
 పూర్తి సైటుని చూడండి
 
 
-;Download for <span>Android</span>
-<span>Android</span> కొరకు దింపుకోలు
-
-
 ;Desktop
 రంగస్థలం
-
-
-;Firefox Beta for mobile
-మొబైల్ కొరకు Firefox Beta
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox కొత్త రూపురేఖల్ని పరిశీలి�
 
 ;Email
 ఈమెయిల్
-
-
-;Super speed
-అత్యంత వేగవంతం
-
-
-;Stunning graphics
-కళ్లుచెదిరే రేఖాచిత్రాలు
-
-
-;The latest technologies
-అత్యాధునిక సాంకేతికతలు
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-మీకు నవీకరణ అవసరం! ఒక నిముషంలోనే సురక్షితంగా ఉండండి. <br/> విహారణలో గొప్ప అనుభవానికి మరియు అభిమతీకరణకు కొత్త Firefox ను వాడటం ప్రారంభించండి. <br/>   ఇది వేగవంతం మరియు ఉచితం!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Firefox కొత్త రూపురేఖల్ని పరిశీలి�
 ప్రదర్శన
 
 
-# Footer item
-;Partner with Us
-మాతో భాగస్వాములవ్వండి
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 సింక్
@@ -483,79 +352,12 @@ Android యాడాన్లు
 Android తోడ్పాటు
 
 
-# Top menu item on firefox/update page
-;Performance
-పనితనం
-
-
-# Top menu item on firefox/update page
-;Technology
-సాంకేతికత
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-గోప్యత &amp; భద్రత
-
-
-# Top menu item on firefox/update page
 ;Releases
 విడుదలలు
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-సంస్థల కొరకు Firefox
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-మొబైల్ యాడాన్లు
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-మొబైల్ తోడ్పాటు
-
-
-# Top menu item on firefox/update page
 ;Blog
 బ్లాగు
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Firefox గురించి
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Mozilla లో చేరండి
-
-
-# Top menu item on firefox/update page
-;Participate
-పాల్గొనండి
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-ఔత్సాహికులవ్వండి
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-బ్రాండ్ టూల్‌కిట్
-
-
-# Top menu item on firefox/update page
-;Partnerships
-భాగస్వామ్యాలు
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Facebook లో Firefox
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 మీకు, మీ అంతరంగికతకు మరియు బహిరంగ జాలానికి అంకితం
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-స్వతంత్రతని ఎంచుకోండి
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-స్వేచ్ఛాయుతమైన మరియు మర్మంలేని ఉజ్వలమైన అంతర్జాలం కొరకై మీ మోజు వీడకండి! #ChooseIndependent. Firefox ను ఎంచుకోండి:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Firefox సహాయం
 <abbr>డిసెం</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox iOSకి వస్తోంది! <a href="{url}">మరింత తెలుసుకోడానికి నమోదవ్వండి</a>.
-
-
 ;Congrats. You’re up to date!
 అభినందనలు. మీ ఫైర్‌ఫాక్స్ తాజాగావుంది!
 
@@ -790,10 +576,6 @@ HTML {ok}
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-ఈ <a href="%s">గోప్యతా నోటీసు</a>లో వివరించిన విధంగా Mozilla నా సమాచార నిర్వహణ ఒప్పుకుంటున్నాను
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 ఈ <a href="%s">గోప్యతా నోటీసు</a>లో వివరించిన విధంగా Mozilla నా సమాచార నిర్వహణ ఒప్పుకుంటున్నాను
 
 
@@ -840,16 +622,6 @@ YOUR EMAIL HERE {ok}
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 మీరు గతంలో ఒక Mozilla సంబంధిత వార్తాలేఖ ఒక చందా ధ్రువీకరించారు ఉండకపోతే మీరు అలా కలిగి ఉండవచ్చు. మీ ఇన్బాక్స్ లేదా మానుండి ఇమెయిల్ కోసం స్పామ్ వడపోత తనిఖీ చేయండి.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-కృతజ్ఞతలు! మీ చందాను నిర్ధారించడానికి మీ ఇన్‌బాక్స్‌లో మెయిలును చూడండి.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-మీ చందాను నిర్ధారించేందుకు మీకు mozilla@e.mozilla.org నుండి ఈమెయిలు వస్తుంది. అది కనబడకపోతే, మీ స్పాము వడపోతలను సరిచూసుకోండి. మా వార్తాలేఖను అందుకోవాలంటే మీరు తప్పనిసరిగా మీ చందాను నిర్ధారించాలి.
 
 
 ;Read all about it in our <span>newsletter</span>

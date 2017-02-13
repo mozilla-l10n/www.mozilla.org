@@ -2,81 +2,14 @@
 සැරිසැරුම
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-ඩෙස්ක්ටොප් <span>සඳහා</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-ඇන්ඩ්‍රොයිඩ් <span>සඳහා</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-iOS <span>සඳහා</span>
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-ඩෙස්ක්ටොප් සහ ලැප්ටොප් සඳහා
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-දුරකතන සහ ටැබ්ලට් සඳහා
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-දළ විශ්ලේෂණය
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-විශ්වාසිත
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-සුනම්‍ය
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-වේගවත්
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 පිළිබඳ
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-උපාංග
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-හවුල්කරුවන් සඳහා
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Pre-release downloads
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 ලුහුබදින්න එපා
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-ටයිල්
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Interest Dashboard
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Interest Dashboard
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 පුවත්
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-සංවර්ධකයින් සඳහා
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-මාගේ උපාංගය සොයන්න
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-සංවර්ධකයො
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Page language:
 # Used as link in the footer
 ;Cookies
 කුකී
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox සම්බන්ධකයන්
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 හැඩතලය
 ජංගම දුරකථනය
 
 
-;Check out the new look and feel of Firefox.
-Firefox හි නව පෙනුම හා හැඟුම පරීක්ෂා කරන්න
-
-
 ;View Full Site
 සම්පූර්ණ අඩවිය බලන්න
 
 
-;Download for <span>Android</span>
-<span>Android</span> සඳහා බාගත කරන්න
-
-
 ;Desktop
 වැඩතලය (Desktop)
-
-
-;Firefox Beta for mobile
-ජංගම දු.ක. සඳහා ෆයර්‍ෛාක්ස් බීටා
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox හි නව පෙනුම හා හැඟුම පරීක්ෂ�
 
 ;Email
 ඊමේල්
-
-
-;Super speed
-සුපිරි වේගය
-
-
-;Stunning graphics
-ඉස්තරම් චිත්‍රක
-
-
-;The latest technologies
-නවතම තාක්ෂණය
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-නවතම නිකුතුව ලබාගන්න! විනාඩි කිහිපයකින් ලබාගත හැකි එය වඩාත් ආරක්ෂිතය. <br/> නව ෆයර්ෆොක්ස් වඩා දියුනු වෙබ් ගවේෂණයක් සඳහා මෙන්ම රිසිකරණය සඳහාද පහසුව සලසයි. <br/>   එය වේගවත්ය නොමිලයේ ලබාගත හැකිය!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Portions of this content are ©1998–%(current_year)s by individual mozilla.org
 සංචාරය
 
 
-# Footer item
-;Partner with Us
-අප සමඟ හවුල් වෙන්න
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 සම්මුහුර්ත
@@ -483,79 +352,12 @@ Android ඇඩෝන
 ඇන්ඩ්‍රොයිඩ සහාය
 
 
-# Top menu item on firefox/update page
-;Performance
-ක්‍රියාකාරිත්වය
-
-
-# Top menu item on firefox/update page
-;Technology
-තාක්ෂණය
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-පුද්ගලිකත්වය &amp ආරක්ෂාව
-
-
-# Top menu item on firefox/update page
 ;Releases
 නිකුතු
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-සංවිධාන සඳහා Firefox
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-ජංගම ඇඩෝන
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-ජංගම සහාය
-
-
-# Top menu item on firefox/update page
 ;Blog
 බ්ලොග්
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Firefox ගැන
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Mozilla හා සම්බන්ධ වෙන්න
-
-
-# Top menu item on firefox/update page
-;Participate
-සහභාගී වෙන්න
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-ස්වේච්චා
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-සන්නාම මෙවලම් කට්ටලය
-
-
-# Top menu item on firefox/update page
-;Partnerships
-හවුල්
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Facebook හි Firefox
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 ඔබගේ පෞද්ගලිකත්වය හා විවෘත ජාලයක් සඳහාම කැපවී ඇත
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-ස්වාධීන තෝරන්න
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Firefox උපකාරක
 <abbr>දෙසැම්බර්</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox iOS වෙත පැමිණෙයි! <a href="{url}">තවත් දැනගැනීමට පිවිසෙන්න</a>.
-
-
 ;Congrats. You’re up to date!
 සුභපැතුම්. ඔබ යාවත්ව ඇත!
 
@@ -791,10 +577,6 @@ HTML {ok}
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ YOUR EMAIL HERE {ok}
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Thanks! Please check your inbox to confirm your subscription.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 
 
 ;Read all about it in our <span>newsletter</span>

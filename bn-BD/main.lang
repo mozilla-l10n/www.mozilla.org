@@ -2,81 +2,14 @@
 ন্যাভিগেশন
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-ডেস্কটপের <span>জন্য</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-অ্যান্ড্রয়েডের <span>জন্য</span> ফায়ারফক্স
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-iOS এর <span>জন্য</span>
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-ওএস
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-টিভি
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 প্রাক-রিলিজ ডাউনলোডসমূহ
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-ডেস্কটপ &amp; ল্যাপটপ জন্য
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-ফোন &amp; টেবলেট জন্য
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-সারসংক্ষেপ
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-বিশ্বস্ত
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-নমনীয়
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-দ্রুত
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 পরিচিতি
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-ডিভাইস
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-অংশীদারদের জন্য
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ iOS এর <span>জন্য</span>
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 ট্র্যাক করবে না
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-টালি
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-আগ্রহ ড্যাসবোর্ড
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ iOS এর <span>জন্য</span>
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 সংবাদ
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-ডেভেলপারদের জন্য
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Find My Device {ok}
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-ডেভেলপারগণ
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Find My Device {ok}
 # Used as link in the footer
 ;Cookies
 কুকি
-
-
-# Used as link in the footer
-;Firefox Affiliates
-ফায়ারফক্স সম্বন্ধযুক্ত
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 ফরম্যাট
 মোবাইল
 
 
-;Check out the new look and feel of Firefox.
-ফায়ারফক্স&nbsp;৪ এর নতুনত্ব এখনই উপভোগ করুন।
-
-
 ;View Full Site
 সম্পূর্ণ সাইট দেখুন
 
 
-;Download for <span>Android</span>
-<span>অ্যান্ড্রয়েড</span> ডাউনলোড করুন
-
-
 ;Desktop
 ডেস্কটপ
-
-
-;Firefox Beta for mobile
-মোবাইলের জন্য ফায়ারফক্স বেটা
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ MPEG-4 ফরম্যাট
 
 ;Email
 ইমেইল
-
-
-;Super speed
-প্রচন্ড গতি
-
-
-;Stunning graphics
-অপূর্বসুন্দর গ্রাফিক্স
-
-
-;The latest technologies
-সাম্প্রতিক প্রযুক্তি
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-আপনার হালনাগাদ প্রয়োজন! এক মিনিটেরও কম সময়ে নিরাপদ হোন। <br/> ওয়েবে ব্রাউজিং এবং স্বনির্ধারণী এবং সর্বোৎকৃষ্টতার জন্য আপনার নতুন ফায়ারফক্স ব্যবহার করা শুরু করুন। <br/>  এটি দ্রুত এবং ফ্রী!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Supported devices
 ট্যুর
 
 
-# Footer item
-;Partner with Us
-আমাদের সাথে অংশীদার
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 সিঙ্ক
@@ -483,79 +352,12 @@ Supported devices
 অ্যান্ড্রয়েড সাপোর্ট
 
 
-# Top menu item on firefox/update page
-;Performance
-কার্যকারিতা
-
-
-# Top menu item on firefox/update page
-;Technology
-প্রযুক্তি
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-গোপনীয়তা &amp; নিরাপত্তা
-
-
-# Top menu item on firefox/update page
 ;Releases
 রিলিজ
 
 
-# Top menu item on firefox/update page
-;Firefox
-ফায়ারফক্স
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-সংগঠনের জন্যে ফায়ারফক্স
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-মোবাইল অ্যাড-অন্স
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-মোবাইল সহায়তা
-
-
-# Top menu item on firefox/update page
 ;Blog
 ব্লগ
-
-
-# Top menu item on firefox/update page
-;About Firefox
-ফায়ারফক্স সম্পর্কে
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-মোজিলাতে যোগদান করুন
-
-
-# Top menu item on firefox/update page
-;Participate
-অংশগ্রহণ
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-স্বেচ্ছাসেবক
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-ব্র্যান্ড টুলকিট
-
-
-# Top menu item on firefox/update page
-;Partnerships
-অংশীদারী
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Supported devices
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 আমরা প্রতিশ্রুতিবদ্ধ আপনার কাছে, আপনার গোপনীয়তা এবং ওপেন ওয়েবের কাছে।
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-স্বাধীনতাক বেছে নিন।
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-একটি উজ্জ্বল ফ্রি ও উন্মুক্ত ইন্টারনেটের জন্য আবেগ রাখুন! #ChooseIndependent. ফায়ারফক্স বেছে:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Supported devices
 <abbr>ডিসে</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-iOS এ ফায়ারফক্স আসছে!<a href="{url}">আরও জানতে সাইন আপ করুন</a>।
-
-
 ;Congrats. You’re up to date!
 অভিনন্দন। আপনি হালনাগাদ রয়েছে!
 
@@ -791,10 +577,6 @@ HTML {ok}
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 মজিলা আমার তথ্যাদি কিভাবে ব্যবহার করে <a href="%s">গোপনীয়তা নোটিশে</a> দেওয়া সে সম্পর্কিত ব্যাখ্যায় আমি সন্তুষ্ট।
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-আমি ঠিক আছি মজিলার সাথে আমার তথ্য পরিচালনায় যা মজিলা ব্যাখ্যা করেছে <a href="%s">গোপনীয়তা নীতি</a> অংশে
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Firefox এর সবকিছুর<br> সাথেই থাকুন।
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 আপনি যদি পূর্বে Mozilla-সম্পর্কিত নিউজলেটারে সাবস্ক্রিপশন নিশ্চিত করে না থাকেন তাহলে তা আপনাকে করতে হবে। আমাদের পাঠানোর ইমেইল দেখতে অনুগ্রহ করে আপনার ইনবক্স অথবা আপনার স্প্যাম ফিল্টার দেখুন।
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-ধন্যবাদ! আপনার সাবস্ক্রপশন নিশ্চত হওয়ার জন্য আপনার ইনবক্স পরীক্ষা করুন।
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-আপনার সাবস্ক্রিপশন নিশ্চিত হতে mozilla@e.mozilla.org থেকে একটি ই-মেইল পাবেন। যদি আপনি তা দেখতে না পান, স্প্যাম ফিল্টার পরীক্ষা করুন। আমাদের নিউজলেটার পাওয়ার জন্য আপনাকে আপনার সাবস্ক্রিপশন নিশ্চিত করতে হবে।
 
 
 ;Read all about it in our <span>newsletter</span>

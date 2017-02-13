@@ -2,81 +2,14 @@
 ნავიგაცია
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-დესკტოპისთვის
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-ოს
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 გამოშვებამდელი ჩამოტვირთვები
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-დესკტოპებისთვის და ნოუთბუქებისთვის
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-ტელეფონებისთვის და პლანშეტებისთვის
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-მიმოხილვა
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-სანდო
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-მოქნილი
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-სწრაფი
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 ჩვენ შესახებ
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-მოწყობილობები
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-პარტნიორებისთვის
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ TV {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 უარი-თვალყურზე
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-ფილები
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-ინტერესების პანელი
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ TV {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 სიახლეები
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-დეველოპერებისთვის
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-იპოვე ჩემი მოწყობილობა
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-დევლოპერები
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Mozilla-ს შესახებ
 # Used as link in the footer
 ;Cookies
 ფუნთუშები
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox-ის დამხმარეები
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 ფორმატი
 მობილური
 
 
-;Check out the new look and feel of Firefox.
-შეაფასეთ Firefox-ის ახალი იერსახე.
-
-
 ;View Full Site
 საიტის სრული ვერსია
 
 
-;Download for <span>Android</span>
-ჩამოტვირთეთ <span>Android</span>-ისთვის
-
-
 ;Desktop
 კომპიუტერი
-
-
-;Firefox Beta for mobile
-Firefox ბეტა მობილურისთვის
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox მობილურისთვის
 
 ;Email
 ელფოსტა
-
-
-;Super speed
-სუპერსწრაფი
-
-
-;Stunning graphics
-გასაოცარი გრაფიკა
-
-
-;The latest technologies
-უახლესი ტექნოლოგიები
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-გესაჭიროებათ განახლება! უზრუნველყავით თქვენი უსაფრთხოება წამებში. <br/> იგრძენით თავი კომფორტულად და უსაფრთხოდ თქვენი ახალი Firefox ბრაუზერით. <br/>   ეს განახლება მყისიერი და უფასოა!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Firefox მობილურისთვის
 ტური
 
 
-# Footer item
-;Partner with Us
-ითანამშრომლეთ ჩვენთან
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 სინქრონიზაცია
@@ -483,79 +352,12 @@ Android-ის დამატებები
 Android-ის ვერსიის მხარდაჭერა
 
 
-# Top menu item on firefox/update page
-;Performance
-წარმადობა
-
-
-# Top menu item on firefox/update page
-;Technology
-ტექნოლოგია
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-კონფიდენციალობა და უსაფრთხოება
-
-
-# Top menu item on firefox/update page
 ;Releases
 ვერსიები
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox ორგანიზაციებისთვის
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-დამატებები მობილურისთვის
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-მობილურის მხარდაჭერა
-
-
-# Top menu item on firefox/update page
 ;Blog
 ბლოგი
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Firefox-ის შესახებ
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-შემოუერთდით Mozilla-ს
-
-
-# Top menu item on firefox/update page
-;Participate
-მონაწილეობა
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-გახდით მოხალისე
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-ხელსაწყოთა სკივრი
-
-
-# Top menu item on firefox/update page
-;Partnerships
-თანამშრომლობა
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Firefox Facebook-ზე
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 თქვენი, თქვენი კონფიდენციაულურობის და ღია ინტერნეტის ერთგული
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-აირჩიეთ დამოუკიდებლობა
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-დაე უფასო და გახსნილი ინტერნეტისადმი თქვენმა სიყვარულმა მუდამ ინათოს! #ChooseIndependent. აირჩიეთ Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Firefox დახმარება
 <abbr>დეკ</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox მალე გახდება ხელმისაწვდომი iOS-ზე! <a href="{url}">დარეგისტრირდით, რათა გაიგოთ მეტი</a>.
-
-
 ;Congrats. You’re up to date!
 გილოცავთ. თქვენ აქტუალური ვერსია გაქვთ!
 
@@ -791,10 +577,6 @@ HTML {ok}
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 ვეთანხმები, რომ Mozilla ჩემ ინფორმაციას ისე გამოიყენებს, როგორც ახსნილია <a href="%s">ამ კონფიდენციალურობის უწყებაში</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-ვეთანხმები, რომ Mozilla ჩემ ინფორმაციას ისე გამოიყენებს, როგორც ახსნილია <a href="%s">ამ კონფიდენციალურობის პოლიტიკაში</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Firefox სიახლეთა გამოწერა
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 თუ აქამდე არასდროს დაგიდასტურებიათ Mozilla-სთან დაკავშირებული ბიულეტენის გამოწერა, შესაძლოა ამის გაკეთება ახლა დაგჭირდეთ. გთხოვთ შეამოწმეთ ჩვენი წერილი თქვენს შემოსულებში ან სპამის საქაღალდეში.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-გმადლობთ! გთხოვთ გადაამოწმოთ თქვენი ელფოსტა ხელმოწერის დასადასტურებლად.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-თქვენ მიიღეთ ელფოსტა მისამართიდან mozilla@e.mozilla.org თქვენი ხელმოწერის დასადასტურებლად. თუ ვერ ხედავთ, გადაამოწმეთ სპამის დასტაში. სიახლეთა მისაღებათ მათი გამოწერა უნდა დაადასტუროთ.
 
 
 ;Read all about it in our <span>newsletter</span>

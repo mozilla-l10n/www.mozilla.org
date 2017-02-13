@@ -2,81 +2,14 @@
 Навігацыя
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>for</span> Desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>for</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>for</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-АС
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-For desktops &amp; laptops
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-For phones &amp; tablets
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Агляд
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Надзейны
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Гнуткі
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Хуткі
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Пра
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Devices
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-For partners
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Apps
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Do Not Track
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Tiles
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Interest Dashboard
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Private Browsing
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 News
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-For developers
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Find My Device
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Распрацаўнікі
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Page language:
 # Used as link in the footer
 ;Cookies
 Біркі
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Share the video
 Мабільны
 
 
-;Check out the new look and feel of Firefox.
-Зазнайце яскравыя адчуванні ад новага выгляду Firefox.
-
-
 ;View Full Site
 Пабачыць пляцоўку цалкам
 
 
-;Download for <span>Android</span>
-Сцягнуць для <span>Android</span>
-
-
 ;Desktop
 Настольны
-
-
-;Firefox Beta for mobile
-Мабільны Firefox Бета
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Share the video
 
 ;Email
 Э-Пошта
-
-
-;Super speed
-Звыш-хуткасць
-
-
-;Stunning graphics
-Ашаламляльная графіка
-
-
-;The latest technologies
-Найноўшыя тэхналогіі
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Вам патрэбны ўздым! Ахвяруйце хвілінку дзеля бяспекі. <br/> Пачніце ўжываць новы Firefox для найлепшага азірання і ўладкавання Сеціва. <br/>   Хуткі і дармовы!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Contribute to this site
 Тур
 
 
-# Footer item
-;Partner with Us
-Супрацоўніцтва
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync
@@ -483,79 +352,12 @@ Android Add-ons
 Android Support
 
 
-# Top menu item on firefox/update page
-;Performance
-Працавыніковасць
-
-
-# Top menu item on firefox/update page
-;Technology
-Тэхналогія
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Адасабленне і бяспека
-
-
-# Top menu item on firefox/update page
 ;Releases
 Выданні
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox для ўстановаў
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Дадаткі для мабільніка
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Падтрымка мабільніка
-
-
-# Top menu item on firefox/update page
 ;Blog
 Дзённік
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Пра Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Далучыцца да Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Удзел
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Volunteer
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Майстэрня
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Супрацоўніцтва
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Leadership
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Створаны для вас, вашага адасаблення і адкрытага Сеціва
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Choose Independent
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Please turn on JavaScript to display this page correctly.
 <abbr>Снж</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-
-
 ;Congrats. You’re up to date!
 Congrats. You’re up to date!
 
@@ -791,10 +577,6 @@ HTML
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Я згодны з тым, што Mozilla апрацоўвае мае звесткі адпаведна <a href="%s">палітыцы захавання адасаблення</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Thanks!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Thanks! Please check your inbox to confirm your subscription.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 
 
 ;Read all about it in our <span>newsletter</span>

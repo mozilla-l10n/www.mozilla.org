@@ -2,81 +2,14 @@
 تصفّح
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>على</span> الحواسيب المكتبيّة
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>على</span> أندرويد
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>على</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-نظام تشغيل
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-أجهزة التلفزيون
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 تحميل الإصدارات القبلية
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-للحواسيب المكتبيّة والمحمولة
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-للهواتف الذّكيّة والأجهزة اللوحيّة
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-نظرة عامة
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-موثُوق
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-مَرِن
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-سريع
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 عن
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-أجهزة
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-للشّركاء
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 خاصّيّة عدم المُتابعة
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-وُريقات
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-لوحة الاهتمامات
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 أخبار
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-للمُطوّرين
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-جد جهازي
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-المطوّرون
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@
 # Used as link in the footer
 ;Cookies
 الكعكات
-
-
-# Used as link in the footer
-;Firefox Affiliates
-برنامج شراكة فَيَرفُكس
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@
 الجوّال
 
 
-;Check out the new look and feel of Firefox.
-ألق نظرة على مظهر فَيَرفُكس الجديد.
-
-
 ;View Full Site
 شاهد الموقع كاملًا
 
 
-;Download for <span>Android</span>
-نزّل على <span>أندرويد</span>
-
-
 ;Desktop
 حواسيب
-
-
-;Firefox Beta for mobile
-فَيَرفُكس بيتا للجوال
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@
 
 ;Email
 البريد الإلكتروني
-
-
-;Super speed
-سرعة خارقة
-
-
-;Stunning graphics
-رسوميات مذهلة
-
-
-;The latest technologies
-أحدث التقنيات
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-يحتاج متصفحك للتحديث! زِد أمان متصفحك في أقل من دقيقة. <br/> ابدأ باستخدام فَيَرفُكس الجديد لتتصفح الوب وتخصصه بشكل أفضل. <br/> التحديث سريع ومجاني!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@
 جولة
 
 
-# Footer item
-;Partner with Us
-كُن شريكًا لنا
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 تزامُن
@@ -483,79 +352,12 @@
 دعم أندرويد
 
 
-# Top menu item on firefox/update page
-;Performance
-الأداء
-
-
-# Top menu item on firefox/update page
-;Technology
-التقنية
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-الخصوصية والأمان
-
-
-# Top menu item on firefox/update page
 ;Releases
 الإصدارات
 
 
-# Top menu item on firefox/update page
-;Firefox
-فَيَرفُكس
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-فَيَرفُكس للمؤسسات
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-إضافات الجوال
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-دعم نسخة الجوال
-
-
-# Top menu item on firefox/update page
 ;Blog
 المدونة
-
-
-# Top menu item on firefox/update page
-;About Firefox
-عن فَيَرفُكس
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-انضم إلى موزيلا
-
-
-# Top menu item on firefox/update page
-;Participate
-شارك
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-تطوّع
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-عدة الشعار
-
-
-# Top menu item on firefox/update page
-;Partnerships
-الشراكة
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 مُلتزمون اتجاهك، اتجاه خصوصيتك واتجاه الويب المفتوح
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-اختر الحُرّيّة
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-لنُحافظ على شُعلة الويب الحر والمفتوح مُتّقدة. #ChooseIndependent. اختر فَيَرفُكس:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@
 <abbr>ديسمبر</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-سيصل فيَرفُكس قريبًا إلى نظام iOS <a href="{url}">سجّل لتعرف المزيد</a>.
-
-
 ;Congrats. You’re up to date!
 تهانينا. أنت تستخدم أحدث إصدار
 
@@ -790,10 +576,6 @@ HTML {ok}
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-أنا موافق على طريقة تعامل موزيلا مع بياناتي كما هو موضح في <a href="%s">سياسة الخصوصية</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 أنا موافق على طريقة تعامل موزيلا مع بياناتي كما هو موضح في <a href="%s">سياسة الخصوصية</a>
 
 
@@ -840,16 +622,6 @@ HTML {ok}
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 إذا لم يسبق لك تأكيد اشتراكك في إحدى نشرات موزيلا البريدية فقد تحتاج للقيام بذلك. فضلًا تحقق من وصول الرّسالة التي أرسلناها إلى بريدك (تحقّق من مُجلّد البريد المُزعج أيضًا).
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-شكرًا. من فضلك، راجع صندوق الوارد لتأكيد اشتراكك.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-ستصلك رسالة من mozilla@e.mozilla.org لتأكيد اشتراكك. إذا لم تجدها فراجع مرشّح الرسائل المزعجة (السخام). يجب أن تؤكّد اشتراكك لتصلك الرسائل الإخبارية.
 
 
 ;Read all about it in our <span>newsletter</span>

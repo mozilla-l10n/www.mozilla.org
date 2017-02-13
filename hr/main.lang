@@ -2,81 +2,14 @@
 Navigacija
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>za</span> desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>za</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>za</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Za stolna i prijenosna računala
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Za telefone i tablete
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Pregled
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Pouzdan
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Fleksibilan
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Brz
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Informacije
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Uređaji
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Za partnere
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Aplikacije
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Do Not Track {ok}
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Pločice
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Nadzorna ploča interesa
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Trebate pomoć?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Vijesti
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Za programere
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Pronađi moj uređaj
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Razvijatelji
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Pravno
 # Used as link in the footer
 ;Cookies
 Kolačići
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliate članovi
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 format {ok}
 Mobile {ok}
 
 
-;Check out the new look and feel of Firefox.
-Isprobajte novo sučelje Firefoxa.
-
-
 ;View Full Site
 Prikaži cijelu stranicu
 
 
-;Download for <span>Android</span>
-Preuzmite za <span>Android</span>
-
-
 ;Desktop
 Desktop {ok}
-
-
-;Firefox Beta for mobile
-Firefox beta za mobilne uređaje
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox za mobilne uređaje
 
 ;Email
 E-pošta
-
-
-;Super speed
-Super brzina
-
-
-;Stunning graphics
-Zapanjujuća grafika
-
-
-;The latest technologies
-Najnovije tehnologije
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Potrebna vam je nadogradnja! Ostanite sigurni za manje od minute. <br/> Započnite koristiti novi Firefox i uživajte u najboljem surfanju i prilagodbi weba. <br/>   Brzo je i besplatno!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Misija
 Obilazak
 
 
-# Footer item
-;Partner with Us
-Postanite partner
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sinkronizacija
@@ -483,79 +352,12 @@ Podrška za desktop inačicu
 Android podrška
 
 
-# Top menu item on firefox/update page
-;Performance
-Performanse
-
-
-# Top menu item on firefox/update page
-;Technology
-Tehnologija
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Privatsnost i sigurnost
-
-
-# Top menu item on firefox/update page
 ;Releases
 Izdanja
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox za organizacije
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Dodaci za mobilnu inačicu
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Podrška za mobilnu inačicu
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-O Firefoxu
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Pridruži se Mozilli
-
-
-# Top menu item on firefox/update page
-;Participate
-Sudjeluj
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Volontiraj
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Brand toolkit
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Partnerstva
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Izbornik
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Posvećen vama, vašoj privatnosti i otvorenom webu
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Odaberite nezavisnost
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Održite strast za besplatnim i otvorenim internetom! #ChooseIndependent. Odaberite Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Prosinac
 <abbr>Pro</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox uskoro dolazi na iOS! <a href="{url}">Pretplatite se da biste saznali više</a>.
-
-
 ;Congrats. You’re up to date!
 Čestitamo, ažurni ste!
 
@@ -791,10 +577,6 @@ Ups! Provjerite jeste li ispravno upisali adresu e-pošte.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Slažem se da Mozilla upravlja ovim informacijama, kao što je objašnjeno u <a href="%s">politici privatnosti</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Slažem se s Mozillinim rukovođenjem ovih informacija, kao što je objašnjeno u <a href="%s">politici privatnosti</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Thanks!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Hvala vam! Provjerite svoju e-poštu i potvrdite pretplatu.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Dobit ćete poruku od mozilla@e.mozilla.org s uputama za potvrdu pretplate. Ako ne uočite poruku, provjerite svoj antispam filter. Da biste mogli primati newsletter, trebat ćete potvrditi svoju pretplatu.
 
 
 ;Read all about it in our <span>newsletter</span>

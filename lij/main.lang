@@ -2,81 +2,14 @@
 Navegaçion
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>pe</span> Desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>pe</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>pe</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Verscioin in anteprimma
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Pe desktop &amp; laptop
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Pe telefonin &amp; tablet
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Vista d'insemme
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Fiou
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Flescibile
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Veloce
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Informaçioin
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Dispoxitivi
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Pe coloboratoî
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ App
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 No traciame
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Tile
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Quaddro di interesci
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Bezeugno d'agiutto?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Notiçie
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Pe svilopatoî
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Treuva o mæ dispoxitivo
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Svilopatoî
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Lezze
 # Used as link in the footer
 ;Cookies
 Cookie
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Afigiæ
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Formou MPEG-4
 Telefonin
 
 
-;Check out the new look and feel of Firefox.
-Vanni in pö a vedde mai bello ch'o l'é o neuvo stile de Firefox.
-
-
 ;View Full Site
 Veddi tutto o scito
 
 
-;Download for <span>Android</span>
-Descaregamento pe <span>Android</span>
-
-
 ;Desktop
 Computer
-
-
-;Firefox Beta for mobile
-Firefox Beta pe telefonin
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox pe telefonin
 
 ;Email
 Email{ok}
-
-
-;Super speed
-Velocitæ ch'a te fa xoâ via o capello
-
-
-;Stunning graphics
-Grafica da no credde
-
-
-;The latest technologies
-Tecnologie che coscì avansæ no ghe l'à nisciun
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Mea amigo bezeugna che ti agiorni! Metite ao seguo in meno de 'n menuto. <br/> Co-o neuvo firefox ti avié o mascimo inta navegaçion e inta personalizaçion.<br/>  E comme se no ghe ne fise abasta o l'é veloce e de badda!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Miscion
 Tour{ok}
 
 
-# Footer item
-;Partner with Us
-Uniscite a niatri
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Sopòrto pe-o Computer
 Sopòrto pe Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Prestaçioin
-
-
-# Top menu item on firefox/update page
-;Technology
-Tecnòlogia
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Privacy e Seguessa
-
-
-# Top menu item on firefox/update page
 ;Releases
 Verscioin
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox{ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox pe-e Organizaçioin
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Conponenti azonti pe telefonin
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Sopòrto pe-i Telefonin
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-In sce Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Intra in Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Parteçipa
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Volontai
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Atressi do Marchio
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Colaboraçioin
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Menû
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Fæto pe ti, a teu privacy e 'na Ræ averta
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Çerni l'Indipendensa
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Mantegni viva a pascion pe l'Internet de badda e averto! #ChooseIndependent. Çerni Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Dexembre
 <abbr>Dex</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox o l'é apreuvo a arivâ fito pe iOS! <a href="{url}">Registrite pe saveine de ciù</a>.
-
-
 ;Congrats. You’re up to date!
 Conplimenti. Ti ê agiornou!
 
@@ -791,10 +577,6 @@ Belin! Veddi ben de avei misso 'n'indirisso email bon.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Son d'acòrdio che Mozilla o gestisca e mæ informaçioin comme spiegou inte <a href="%s">sto Avîzo de Privacy</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Son d'acordio ch'o Mozilla o se pigge e mæ informaçioin comme spiegou inta <a href="%s">Politica da Privacy</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Graçie!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Se primma no ti æ confermou l'abonamento a-a newsletter in sce Mozilla-related ti doviesci fâlo. Amîa ben inta teu pòsta in intrâ ò into spam se no ti gh'æ ina email da niâtri.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Graçie! Pe favô vanni inta teu email pe confermâ l'iscriçion.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Ti ti riçeviæ 'na email da mozilla@e.mozilla.org pe confermâ a teu iscriçion. Se no ti a veddi, contròlla o teu filtro anti spam. Ti devi confermâ a teu iscriçion pe riçeive a nòstra newsletter
 
 
 ;Read all about it in our <span>newsletter</span>

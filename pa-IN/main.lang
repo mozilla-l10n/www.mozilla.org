@@ -2,81 +2,14 @@
 ਨੇਵੀਗੇਸ਼ਨ
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-ਡੈਸਕਟਾਪ <span>ਲਈ</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-ਐਂਡਰਾਇਡ <span>ਲਈ</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>iOS</span> ਲਈ
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-ਟੀ.ਵੀ.
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਡਾਊਨਲੋਡ
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-ਡੈਸਕਟਾਪ ਅਤੇ ਲੈਪਟਾਪਾਂ ਲਈ
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-ਫ਼ੋਨਾਂ ਅਤੇ ਟੇਬਲੇਟਾਂ ਲਈ
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-ਆਮ ਜਾਣਕਾਰੀ
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-ਭਰੋਸੇਯੋਗ
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-ਆਗਿਆਕਾਰੀ
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-ਤੇਜ਼
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 ਇਸ ਬਾਰੇ
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-ਡਿਵਾਇਸ
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-ਹਿੱਸੇਦਾਰਾਂ ਬਾਰੇ
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ OS {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 ਟਰੈਕ ਨਾ ਕਰੋ
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-ਟਾਈਲਾਂ
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-ਸ਼ੌਕ ਡੈਸ਼-ਬੋਰਡ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ OS {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 ਖ਼ਬਰਾਂ
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-ਡਿਵੈਲਪਰਾਂ ਲਈ
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-ਮੇਰਾ ਡਿਵਾਇਸ ਲੱਭੋ
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-ਡਿਵੈਲਪਰ
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ OS {ok}
 # Used as link in the footer
 ;Cookies
 ਕੂਕੀਜ਼
-
-
-# Used as link in the footer
-;Firefox Affiliates
-ਫਾਇਰਫਾਕਸ ਨਾਲ ਸੰਬੰਧ
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 ਫਾਰਮੈਟ
 ਮੋਬਾਇਲ
 
 
-;Check out the new look and feel of Firefox.
-ਫਾਇਰਫਾਕਸ ਦੀ ਨਵੀਂ ਦਿੱਖ ਤੇ ਰੂਪ ਨੂੰ ਅੱਜ ਵਰਤ ਕੇ ਵੇਖੋ।
-
-
 ;View Full Site
 ਪੂਰੀ ਸਾਈਟ ਵੇਖੋ
 
 
-;Download for <span>Android</span>
-<span>ਐਂਡਰਾਇਡ</span> ਲਈ ਡਾਊਨਲੋਡ ਕਰੋ
-
-
 ;Desktop
 ਡੈਸਕਟਾਪ
-
-
-;Firefox Beta for mobile
-ਮੋਬਾਇਲ ਲਈ ਫਾਇਰਫਾਕਸ ਬੀਟਾ
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ MPEG-4 ਫਾਰਮੈਟ
 
 ;Email
 ਈਮੇਲ
-
-
-;Super speed
-ਸੁਪਰ ਸਪੀਡ
-
-
-;Stunning graphics
-ਸ਼ਾਨਦਾਰ ਗਰਾਫਿਕਸ
-
-
-;The latest technologies
-ਸਭ ਤੋਂ ਨਵੀਆਂ ਤਕਨੀਕਾਂ
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-ਤੁਹਾਨੂੰ ਅੱਪਗਰੇਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ! ਇੱਕ ਮਿੰਟ ਤੋਂ ਵੀ ਘੱਟ ਸਮੇਂ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਬਣੋ। <br/> ਵੈੱਬ ਉੱਤੇ ਸਭ ਤੋਂ ਵਧੀਆ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੇ ਪਸੰਦ ਮੁਤਾਬਕ ਢਾਲਣ ਲਈ ਆਪਣੇ ਨਵੇਂ ਫਾਇਰਫਾਕਸ ਨੂੰ ਵਰਤਣਾ ਸ਼ੁਰੂ ਕਰੋ <br/>   ਇਹ ਤੇਜ਼ ਅਤੇ ਮੁਫ਼ਤ ਹੈ!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ MPEG-4 ਫਾਰਮੈਟ
 ਦੌਰਾ ਕਰੋ
 
 
-# Footer item
-;Partner with Us
-ਸਾਡੇ ਨਾਲ ਹਿੱਸੇਦਾਰ ਬਣੋ
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 ਸਿੰਕ
@@ -483,79 +352,12 @@ MPEG-4 ਫਾਰਮੈਟ
 ਐਂਡਰਾਇਡ ਸਹਾਇਤਾ
 
 
-# Top menu item on firefox/update page
-;Performance
-ਕਾਰਗੁਜ਼ਾਰੀ
-
-
-# Top menu item on firefox/update page
-;Technology
-ਤਕਨੀਕ
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-ਪਰਦੇਦਾਰੀ ਤੇ ਸੁਰੱਖਿਆ
-
-
-# Top menu item on firefox/update page
 ;Releases
 ਰੀਲਿਜ਼
 
 
-# Top menu item on firefox/update page
-;Firefox
-ਫਾਇਰਫਾਕਸ
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-ਸੰਗਠਨਾਂ ਲਈ ਫਾਇਰਫਾਕਸ
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-ਮੋਬਾਇਲ ਐਡ-ਆਨ
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-ਮੋਬਾਇਲ ਸਹਿਯੋਗ
-
-
-# Top menu item on firefox/update page
 ;Blog
 ਬਲੌਗ
-
-
-# Top menu item on firefox/update page
-;About Firefox
-ਫਾਇਰਫਾਕਸ ਬਾਰੇ
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-ਮੋਜ਼ੀਲਾ ਜੁਆਇੰਨ ਕਰੋ
-
-
-# Top menu item on firefox/update page
-;Participate
-ਭਾਗ ਲਵੋ
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-ਵਲੰਟੀਅਰ ਬਣੋ
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-ਮਾਰਕਾ ਟੂਲਕਿੱਟ
-
-
-# Top menu item on firefox/update page
-;Partnerships
-ਹਿੱਸੇਦਾਰੀ
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ MPEG-4 ਫਾਰਮੈਟ
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 ਤੁਹਾਨੂੰ, ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਅਤੇ ਸਰਬ ਸਾਂਝੇ ਵੈੱਬ ਨੂੰ ਸਮਰਪਤ
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-ਅਜ਼ਾਦੀ ਚੁਣੋ
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-ਮੁਫ਼ਤ ਤੇ ਅਜ਼ਾਦ ਇੰਟਰਨੈੱਟ ਲਈ ਜ਼ੋਸ਼ ਨੂੰ ਕਾਇਮ ਰੱਖੋ! ਅਜ਼ਾਦੀ ਚੁਣੋ। ਫਾਇਰਫਾਕਸ ਚੁਣੋ #ChooseIndependent:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ MPEG-4 ਫਾਰਮੈਟ
 <abbr>ਦਸੰ</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-ਫਾਇਰਫਾਕਸ ਛੇਤੀ ਹੀ iOS ਉੱਤੇ ਆ ਰਿਹਾ ਹੈ! <a href="{url}">ਜਾਣ ਲਈ ਸਾਇਨ ਅਪ ਕਰੋ</a>।
-
-
 ;Congrats. You’re up to date!
 ਵਧਾਈਆਂ। ਤੁਸੀਂ ਅੱਪ-ਟੂ-ਡੇਟ!
 
@@ -791,10 +577,6 @@ HTML {ok}
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 ਮੋਜ਼ੀਲਾ ਵਲੋਂ <a href="%s">ਇਸ ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ</a> ਵਿੱਚ ਦਰਸਾਏ ਮੁਤਾਬਕ ਮੇਰੀ ਜਾਣਕਾਰੀ ਨਾਲ ਕੰਮ ਕਰਨ ਦੇਣ ਲਈ ਮੈਂ ਸਹਿਮਤ ਹਾਂ।
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-ਮੈਂ ਮੋਜ਼ੀਲਾ ਵਲੋਂ ਮੇਰੀ ਜਾਣਕਾਰੀ ਨੂੰ <a href="%s">ਇਸ ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਦੇ ਤਹਿਤ ਵਰਤਣ ਦੇਣ ਲਈ ਸਹਿਮਤ ਹਾਂ
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ HTML {ok}
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ ਮੋਜ਼ੀਲਾ-ਅਧਾਰਿਤ ਖ਼ਬਰਸਾਰ ਵਾਸਤੇ ਮੈਂਬਰੀ ਨੂੰ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਹੈ ਤਾਂ ਹੁਣ ਕਰ ਸਕਦੇ ਹੋ। ਆਪਣੇ ਇਨਬਾਕਸ ਜਾਂ ਆਪਣੇ ਸਪੈਮ ਫਿਲਟਰ ਨੂੰ ਸਾਡੇ ਵਲੋਂ ਈਮੇਲ ਵਾਸਤੇ ਜਾਂਚ ਕਰੋ।
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-ਧੰਨਵਾਦ! ਆਪਣੀ ਮੈਂਬਰੀ ਲਈ ਆਪਣੇ ਇਨ-ਬਾਕਸ ਨੂੰ ਵੇਖੋ ਜੀ।
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-ਤੁਹਾਨੂੰ ਤੁਹਾਡੀ ਮੈਂਬਰੀ ਲਈ ਤਸਦੀਕ ਕਰਨ ਵਾਸਤੇ mozilla@e.mozilla.org ਵਲੋਂ ਈਮੇਲ ਮਿਲੇਗੀ। ਜੇ ਤੁਹਾਨੂੰ ਇਹ ਨਹੀਂ ਮਿਲਦੀ ਹੈ ਤਾਂ ਆਪਣੇ ਸਪੈਮ ਫੋਲਡਰ ਦੀ ਜਾਂਚ ਕਰੋ। ਤੁਹਾਨੂੰ ਸਾਡੇ ਨਿਊਜ਼ਲੈਟਰ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰਨ ਥਈ ਆਪਣੀ ਮੈਂਬਰੀ ਦੀ ਤਸਦੀਕ ਕਰਨੀ ਜ਼ਰੂਰੀ ਹੈ।
 
 
 ;Read all about it in our <span>newsletter</span>

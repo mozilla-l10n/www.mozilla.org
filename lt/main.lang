@@ -2,81 +2,14 @@
 Navigacija
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>kompiuteriams</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-Android <span>įrenginiams</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-iOS <span>įrenginiams</span>
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Staliniams kompiuteriams
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Telefonams ir planšetėms
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Apžvalga
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Patikima
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Lanksti
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Sparti
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Apie
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Įrenginiai
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Partneriams
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Programos
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Nestebėti („Do Not Track“)
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Plytelės
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Pomėgių statistika
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Reikia pagalbos?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Naujienos
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Programuotojams
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Įrenginio ieška
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Programuotojams
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Teisinė informacija
 # Used as link in the footer
 ;Cookies
 Slapukai
-
-
-# Used as link in the footer
-;Firefox Affiliates
-„Firefox“ skleidėjai
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Dalintis vaizdo įrašu
 Mobiliesiems
 
 
-;Check out the new look and feel of Firefox.
-Išbandykite naująją „Firefox“ išvaizdą.
-
-
 ;View Full Site
 Į pilnos apimties svetainę
 
 
-;Download for <span>Android</span>
-Parsisiųsti į <span>Android</span>
-
-
 ;Desktop
 Kompiuteriams
-
-
-;Firefox Beta for mobile
-„Firefox“ beta mobiliesiems
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Kompiuteriams
 
 ;Email
 El. paštas
-
-
-;Super speed
-Ypatinga sparta
-
-
-;Stunning graphics
-Naujos kartos grafika
-
-
-;The latest technologies
-Naujausios technologijos
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Jūsų naršyklę būtina atnaujinti! Tapkite saugūs vos per minutę. <br /> Pradėkite naudotis naująja „Firefox“ ir mėgaukitės patogiausiu naršymu ir išsamiausiu individualizavimu. <br /> Naujovinimas greitas ir nemokamas!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Misija
 Apžvalga
 
 
-# Footer item
-;Partner with Us
-Bendradarbiaukime
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sinchronizavimas
@@ -483,79 +352,12 @@ Stalinės „Firefox“ palaikymas
 „Android“ palaikymas
 
 
-# Top menu item on firefox/update page
-;Performance
-Našumas
-
-
-# Top menu item on firefox/update page
-;Technology
-Technologija
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Privatumas ir saugumas
-
-
-# Top menu item on firefox/update page
 ;Releases
 Laidos
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-„Firefox“ organizacijoms
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Priedai mobiliajame
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Mobiliosios „Firefox“ palaikymas
-
-
-# Top menu item on firefox/update page
 ;Blog
 Tinklaraštis
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Apie „Firefox“
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Jungtis prie „Mozillos“
-
-
-# Top menu item on firefox/update page
-;Participate
-Dalyvavimas
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Savanorystė
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Prekės ženklo vadovas
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Partnerystė
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Meniu
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Pašvęsta jums, jūsų privatumui ir atvirajam saitynui
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Rinkitės nepriklausomą
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Išlaikykime internetą laisvu ir atviru visiems! #ChooseIndependent. Rinkimės „Firefox“:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ gruodžio
 <abbr>Grd</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Netrukus „Firefox“ galėsite naudotis ir „iOS“ įrenginiuose! <a href="{url}">Prenumeruokite naujienlaiškį ir sužinokite daugiau</a>.
-
-
 ;Congrats. You’re up to date!
 Sveikiname, jūs atsinaujinę!
 
@@ -791,10 +577,6 @@ Oi! Įsitikinkite, jog įvedėte galiojantį el. pašto adresą.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Sutinku, kad „Mozilla“ tvarkytų mano duomenis kaip paaiškinta <a href="%s">šioje pastaboje dėl privatumo</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Sutinku, kad „Mozilla“ tvarkytų mano duomenis kaip paaiškinta <a href="%s">šiuose Privatumo nuostatuose</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Ačiū!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Ačiū! Dabar prašome pasitikrinti savo el. pašto dėžutę ir patvirtinti prenumeratą.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Netrukus iš mozilla@e.mozilla.org gausite laišką, prašantį patvirtinti prenumeratą. Jeigu jo nematote, paieškokite brukalo aplanke. Kad gautumėte naujienlaiškį, privalote patvirtinti prenumeratą.
 
 
 ;Read all about it in our <span>newsletter</span>

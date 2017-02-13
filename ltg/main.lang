@@ -2,81 +2,14 @@
 Navigaceja
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>deļ</span> datora
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>deļ</span> Android'a
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>deļ</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Deļ vysaida veida datorim
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Deļ kuļdinīkim un planšetem
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Pōrskots
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Uztycams
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Elasteigs
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Ōtrs
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Par
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Īreices
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Partnerim
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Aplikacejas
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Naizsekōt
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Miniaturas
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Interešu paneļs
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Vajag paleidzeibu?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Ziņas
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Izstrōdōtōjim
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Atrast munu īreici
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Izstrōdōtōji
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Juridiska informaceja
 # Used as link in the footer
 ;Cookies
 Seikdatnes
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox partnerprogrammas
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 formats
 Mobilais formats
 
 
-;Check out the new look and feel of Firefox.
-Paraugi Firefox jaunū izskotu un lītōjameibu.
-
-
 ;View Full Site
 Rōdēt vysu teiklavītu
 
 
-;Download for <span>Android</span>
-Nūlōdēt <span>Android</span> platformai
-
-
 ;Desktop
 Dators
-
-
-;Firefox Beta for mobile
-Firefox Beta kuļdinīkim
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox kuļdinīkim
 
 ;Email
 E-posts
-
-
-;Super speed
-Dyžan ōtrs
-
-
-;Stunning graphics
-Īspaideiga grafika
-
-
-;The latest technologies
-Jaunōkōs tehnoloģejas
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Tev vajag atajuninōjumu! Byusi drūšeibā pec napylnas minutes. <br/> Sōc lītōt jaunū Firefox, kas ir lobōkais škārsteikla porlyukōšonā un damārōšonā elasteigs. <br/>   Tys ir ōtrs un bez moksas!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Miseja
 Ekskurseja
 
 
-# Footer item
-;Partner with Us
-Kļiut par myusu partneri
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sinhronizēt
@@ -483,79 +352,12 @@ Atbolsts golda datoru lītōtōjim
 Atbolsts Android lītōtōjim
 
 
-# Top menu item on firefox/update page
-;Performance
-Veikuma spieja
-
-
-# Top menu item on firefox/update page
-;Technology
-Tehnoloģeja
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Privātums un drūšeiba
-
-
-# Top menu item on firefox/update page
 ;Releases
 Laidumi
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox organizacejom
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Papyldynōjumi mobilajom īreicem
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Atbolsts mobilū īreiču lītōtōjim
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blogs
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Par Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Pīsabīdrōt Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Jimt daleibu
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Breivprōteigais
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Zeimūla instrumentu komplekts
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Partnerattīceibas
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Izvielne
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Uzticams tev, tovam privātumam un breivam škārsteiklam
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Izalosi naatkareibu
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Sagloboj karsmi uz breivu Internetu korstu un spūžu! #ChooseIndependent. Izalosi Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Decembrs
 <abbr>Dec</abbr> {ok}
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox dreiži byus ari iOS īreicem! <a href="{url}">Pīzaroksti, kap uzzynōt vaira</a>.
-
-
 ;Congrats. You’re up to date!
 Apsveicam! Ņiuļa tev ir jaunōkō verseja.
 
@@ -791,10 +577,6 @@ Eva kai! Porzalīcynoj, ka esi pareizi pīrakstiejs e-posta adresi.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Es asu uz mīru, ka Mozilla reikojās ar munu informaceji, kai nūleigts <a href="%s">itymā Privātuma paziņōjumā</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Es asu ar mīru, ka Mozilla apsaīt ar munu informaceji, kai paskaidrōts <a href="%s">Privātuma politikā</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Thanks!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Paļdis! Porbaudi sovu e-postu un apstypryni jaunumu sajimšonu.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Tu sajimsi e-postu nu mozilla@e.mozilla.org, kap apstyprynōtu jaunumu sajimšonu. Ja tu naradzi ziņojumu, porbaudi spam filtru. Tev ir jōapstyprynoj jaunumu sajimšona.
 
 
 ;Read all about it in our <span>newsletter</span>

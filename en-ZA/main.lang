@@ -2,81 +2,14 @@
 Navigation {ok}
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>for</span> Desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>for</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>for</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-For desktops &amp; laptops
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-For phones &amp; tablets
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Overview {ok}
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Trusted {ok}
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Flexible {ok}
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Fast {ok}
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 About {ok}
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Devices
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-For partners
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Apps
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Do Not Track {ok}
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Tiles
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Interest Dashboard
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Need help? {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 News
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-For developers
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Find My Device
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Developers {ok}
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Legal
 # Used as link in the footer
 ;Cookies
 Cookies
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates {ok}
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 format {ok}
 Mobile {ok}
 
 
-;Check out the new look and feel of Firefox.
-Check out the new look and feel of Firefox. {ok}
-
-
 ;View Full Site
 View Full Site {ok}
 
 
-;Download for <span>Android</span>
-Download for <span>Android</span> {ok}
-
-
 ;Desktop
 Desktop {ok}
-
-
-;Firefox Beta for mobile
-Firefox Beta for mobile {ok}
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox for mobile {ok}
 
 ;Email
 Email {ok}
-
-
-;Super speed
-Super speed {ok}
-
-
-;Stunning graphics
-Stunning graphics {ok}
-
-
-;The latest technologies
-The latest technologies {ok}
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customisation on the Web. <br/>   It’s fast and free!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Mission {ok}
 Tour {ok}
 
 
-# Footer item
-;Partner with Us
-Partner with Us {ok}
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync
@@ -483,79 +352,12 @@ Desktop Support {ok}
 Android Support
 
 
-# Top menu item on firefox/update page
-;Performance
-Performance {ok}
-
-
-# Top menu item on firefox/update page
-;Technology
-Technology {ok}
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Privacy &amp; Security {ok}
-
-
-# Top menu item on firefox/update page
 ;Releases
 Releases {ok}
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox for Organizations {ok}
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Mobile Add-ons {ok}
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Mobile Support {ok}
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-About Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Join Mozilla {ok}
-
-
-# Top menu item on firefox/update page
-;Participate
-Participate {ok}
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Volunteer {ok}
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Brand Toolkit {ok}
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Partnerships {ok}
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Menu {ok}
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Committed to you, your privacy and an open Web {ok}
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Choose Independent
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ December
 <abbr>Dec</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-
-
 ;Congrats. You’re up to date!
 Congrats. You’re up to date!
 
@@ -791,10 +577,6 @@ Whoops! Be sure to enter a valid email address. {ok}
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a> {ok}
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Thanks!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Thanks! Please check your inbox to confirm your subscription. {ok}
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter. {ok}
 
 
 ;Read all about it in our <span>newsletter</span>

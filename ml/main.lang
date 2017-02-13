@@ -2,81 +2,14 @@
 നാവിഗേഷന്‍
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-ഡെസ്ക്ട്ടോപ്പിനു <span>വേണ്ടി</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>for</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>for</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-ഓപ്പറേറ്റിങ് സിസ്റ്റം
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-ഡെസ്ക്ടോപ്പുകള്‍ &amp; ലാപ്ടോപ്പുകള്‍ എന്നിവയ്ക്ക് വേണ്ടി
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-For phones &amp; tablets
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-അവലോകനം
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-വിശ്വസനീയം
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-രൂപപ്പെടുത്താവുന്ന
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-പെട്ടെന്ന്
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 ഇതിനെക്കുറിച്ച്
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-ഡിവൈസുകള്‍
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-For partners
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ For partners
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 നിരീക്ഷിയ്ക്കേണ്ട
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Tiles
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Interest Dashboard
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Developer Edition
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 News
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-ഡവലപ്പർമാർക്കു വേണ്ടി
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Find My Device
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-ഡവലപ്പര്‍മാര്‍
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Page language:
 # Used as link in the footer
 ;Cookies
 കുക്കികള്‍
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 ഫോര്‍മാറ്റ്
 മൊബൈല്‍
 
 
-;Check out the new look and feel of Firefox.
-Firefox-ന്റെ പുതിയ ശൈലിയും ഭാവവും തൊട്ടറിയൂ.
-
-
 ;View Full Site
 സൈറ്റ് പൂര്‍ണ്ണമായി കാണുക
 
 
-;Download for <span>Android</span>
-<span>ആന്‍ഡ്രോയിഡ്</span>-നായി ഡൌണ്‍ലോഡ് ചെയ്യൂ
-
-
 ;Desktop
 പണിയിടം
-
-
-;Firefox Beta for mobile
-മൊബൈയിലിനുള്ള ഫയര്‍ഫോക്സ് ബീറ്റാ
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox-ന്റെ പുതിയ ശൈലിയും ഭാവവും �
 
 ;Email
 ഈമെയില്‍
-
-
-;Super speed
-അടിപൊളി വേഗത
-
-
-;Stunning graphics
-അടിപോളി ഗ്രാഫിക്സ്
-
-
-;The latest technologies
-ഏറ്റവും പുതിയ ടെക്നോളജികള്‍
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-നിങ്ങള്‍ക്കൊരു പരിഷ്കരണം ആവശ്യമുണ്ടു്! ഒരു മിനിറ്റില്‍ എല്ലാം ലഭ്യമാക്കുക. <br/>ഏറ്റവും ഉത്തമമായ ബ്രൌസിങിനായി പുതിയ ഫയര്‍ഫോക്സ് ഉപയോഗിയ്ക്കുക. <br/>   ഇതു് സൌജന്യമാകുന്നു!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Firefox-ന്റെ പുതിയ ശൈലിയും ഭാവവും �
 പര്യടനം
 
 
-# Footer item
-;Partner with Us
-ഞങ്ങളുടെ പങ്കാളിയാകുക
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 സിന്‍ക്
@@ -483,79 +352,12 @@ Android Add-ons
 ആന്‍ഡ്രോയിഡ് പിന്തുണ
 
 
-# Top menu item on firefox/update page
-;Performance
-പ്രവര്‍ത്തനം
-
-
-# Top menu item on firefox/update page
-;Technology
-സങ്കേതികവിദ്യ
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-സ്വകാര്യതയും സുരക്ഷയും
-
-
-# Top menu item on firefox/update page
 ;Releases
 പതിപ്പുകള്‍
 
 
-# Top menu item on firefox/update page
-;Firefox
-ഫയര്‍ഫോക്സ്
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-സ്ഥാപനങ്ങള്‍ക്കുള്ള ഫയര്‍ഫോക്സ്
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-മൊബൈലിനുള്ള ആഡ്-ഓണുകള്‍
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-മൊബൈല്‍ പിന്തുണ
-
-
-# Top menu item on firefox/update page
 ;Blog
 ബ്ലോഗ്
-
-
-# Top menu item on firefox/update page
-;About Firefox
-ഫയര്‍ഫോക്സിനെപ്പറ്റി
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-മോസിലയില്‍ പങ്കു് ചേരുക
-
-
-# Top menu item on firefox/update page
-;Participate
-പങ്കു് ചേരുക
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-വോളന്റിയര്‍
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-ബ്രാന്‍ഡ് ടൂള്‍ക്കിറ്റ്
-
-
-# Top menu item on firefox/update page
-;Partnerships
-പങ്കാളികള്‍
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Patents
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 നിങ്ങളുടെ സ്വകാര്യത ഞങ്ങളുടെ പ്രതിബന്ധത
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-സ്വതന്ത്രമായി തിരഞ്ഞെടുക്കു
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Keep the passion for a free and open Internet burning bright! #ChooseIndependent
 <abbr>ഡിസം</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-
-
 ;Congrats. You’re up to date!
 Congrats. You’re up to date!
 
@@ -791,10 +577,6 @@ Congrats. You’re up to date!
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-മോസില്ല <a href="%s">ലെ സ്വകാര്യ പോളിസി</a> വ്യക്തമാക്കിയിരിക്കുന്ന പോലെ എന്റെ വിവരങ്ങൾ കൈകാര്യം ചെയ്യുവാൻ എനിക്ക് സമ്മതമാണ്
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Thanks!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-നന്ദി! നിങ്ങളുടെ സബ്സ്ക്രിപ്ഷന്‍ ഉറപ്പാക്കുന്നതിനായി ഇന്‍ബോക്സ് പരിശോധിയ്ക്കുക.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-നിങ്ങളുടെ സബ്സ്ക്രിപ്ഷന്‍ ഉറപ്പാക്കുന്നതിനായി mozilla@e.mozilla.org-ല്‍ നിന്നും നിങ്ങള്‍ക്കു് ഈമെയില്‍ ലഭിയ്ക്കുന്നതാണു്. ഇന്‍ബോക്സില്‍ കണ്ടില്ലെങ്കില്‍ സ്പാം ഫില്‍റ്റര്‍ പരിശോധിയ്ക്കുക. ഞങ്ങളുടെ വാര്‍ത്താപത്രികകള്‍ ലഭിയ്ക്കുന്നതിനായി നിങ്ങളുടെ സബ്സ്ക്രിപ്ഷന്‍ ഉറപ്പാക്കേണ്ടതുണ്ടു്.
 
 
 ;Read all about it in our <span>newsletter</span>

@@ -2,81 +2,14 @@
 导航
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>面向</span> 桌面
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>面向</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>面向</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-操作系统
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-电视
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 预览版下载
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-面向桌面和笔记本电脑
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-面向手机和平板电脑
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-综述
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-可信
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-灵活
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-快速
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 关于
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-设备
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-面向合作伙伴
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 请勿跟踪
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-磁贴
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-兴趣仪表盘
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 新闻
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-面向开发者
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-查找我的设备
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-开发者
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Firefox 是非营利、无企业背景、无妥协的。选择 Firefox 不仅是
 # Used as link in the footer
 ;Cookies
 Cookie
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates {ok}
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 格式
 移动版
 
 
-;Check out the new look and feel of Firefox.
-看看 Firefox 的新外观、新感受。
-
-
 ;View Full Site
 查看完整网页
 
 
-;Download for <span>Android</span>
-下载 <span>Android</span> 版
-
-
 ;Desktop
 桌面
-
-
-;Firefox Beta for mobile
-Firefox 移动测试版
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox 移动版
 
 ;Email
 电子邮件
-
-
-;Super speed
-超快的速度
-
-
-;Stunning graphics
-卓越的图像
-
-
-;The latest technologies
-最新的技术
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-您需要升级！不到一分钟的时间来确保安全。 <br/> 开始使用你的新 Firefox 以获得最佳的网络浏览和定制体验。 <br/> 不仅快速，而且免费！
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Firefox 移动版
 指引
 
 
-# Footer item
-;Partner with Us
-与我们合作
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 同步
@@ -483,79 +352,12 @@ Android 版附加组件
 Android 版技术支持
 
 
-# Top menu item on firefox/update page
-;Performance
-性能
-
-
-# Top menu item on firefox/update page
-;Technology
-技术
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-隐私和安全
-
-
-# Top menu item on firefox/update page
 ;Releases
 发布
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox 应用于组织机构
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-移动版附加组件
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-移动版技术支持
-
-
-# Top menu item on firefox/update page
 ;Blog
 博客
-
-
-# Top menu item on firefox/update page
-;About Firefox
-关于 Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-加入 Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-参与
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-志愿者
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-商标工具包
-
-
-# Top menu item on firefox/update page
-;Partnerships
-合作伙伴
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Facebook 上的 Firefox
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 对您、您的隐私和开放的网络做出承诺
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-选择独立
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-让我们全力以赴，用热情点亮一个自由和开放的互联网！ #ChooseIndependent. 选择 Firefox：
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Firefox 帮助
 <abbr>十二月</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox 即将登陆 iOS！<a href="{url}">注册以了解更多信息</a>。
-
-
 ;Congrats. You’re up to date!
 恭喜。您已经在用最新版！
 
@@ -791,10 +577,6 @@ HTML {ok}
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 我同意 Mozilla 按照<a href="%s">这份隐私声明</a>所述的方式处理我的信息
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-我同意 Mozilla 如 <a href="%s">隐私政策</a> 中说明的那样处理我的信息
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ HTML {ok}
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 如果您以前没有确认订阅过 Mozilla 相关的新闻报，您可能需要检查您的收件箱、垃圾邮件箱或垃圾邮件过滤器，以找到我们发给您的确认邮件。
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-谢谢！请检查你的收件箱确认你的订阅。
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-你将会收到来自 mozilla@e.mozilla.org 的邮件以确认你的订阅。如果没有收到，请检查你的垃圾邮件箱。必须先确认订阅后才能收到我们的邮件。
 
 
 ;Read all about it in our <span>newsletter</span>

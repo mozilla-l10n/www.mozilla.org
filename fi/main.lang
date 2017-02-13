@@ -2,81 +2,14 @@
 Sisältö
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-työpöydälle
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-Androidille
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-iOS:lle
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-Käyttöjärjestelmä
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Ennakkoversioiden lataukset
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Työpöydälle ja kannettaville tietokoneille
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Puhelimille ja taulutietokoneille
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Yhteenveto
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Luotettu
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Joustava
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Nopea
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Tietoja
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Laitteet
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Yhteistyökumppaneille
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Sovellukset
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Älä seuraa
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Ruudut
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Kiinnostuksen kohteiden kojelauta
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Tarvitsetko apua?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Uutiset
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Kehittäjille
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Etsi laitteeni
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Kehittäjät
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Lakiteksti
 # Used as link in the footer
 ;Cookies
 Evästeet
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefoxin tukijat
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4-muoto
 Mobiili
 
 
-;Check out the new look and feel of Firefox.
-Tutustu uudistuneeseen Firefoxiin.
-
-
 ;View Full Site
 Näytä koko sivusto
 
 
-;Download for <span>Android</span>
-Lataa <span>Androidille</span>
-
-
 ;Desktop
 Tietokone
-
-
-;Firefox Beta for mobile
-Firefox Beta mobiililaitteille
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox mobiililaitteille
 
 ;Email
 Sähköposti
-
-
-;Super speed
-Huippunopea
-
-
-;Stunning graphics
-Mahtavaa grafiikkaa
-
-
-;The latest technologies
-Uusinta tekniikkaa
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Tarvitset päivityksen! Kohenna turvallisuutta hetkessä. <br/> Uusi Firefoxia on selaamisen ja muokkauksen ykkönen. <br/>   Se on nopea ja ilmainen!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Missio
 Esittely
 
 
-# Footer item
-;Partner with Us
-Ryhdy yhteistyöhön
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync-palvelu
@@ -483,79 +352,12 @@ Pöytäkoneversion tuki
 Android-tuki
 
 
-# Top menu item on firefox/update page
-;Performance
-Suorituskyky
-
-
-# Top menu item on firefox/update page
-;Technology
-Tekniikka
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Tietosuoja ja turvallisuus
-
-
-# Top menu item on firefox/update page
 ;Releases
 Julkaisut
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox organisaatioille
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Mobiiliversion lisäosat
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Mobiiliversion tuki
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blogi
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Tietoja Firefoxista
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Liity Mozillaan
-
-
-# Top menu item on firefox/update page
-;Participate
-Osallistu
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Ryhdy vapaaehtoiseksi
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Brändipaketti
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Yhteistyömahdollisuudet
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Valikko
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Omistautunut sinulle, tietosuojallesi ja avoimelle verkolle
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Valitse riippumaton
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Intohimoisesti ilmaisen ja vapaan Internetin puolesta!  #ChooseIndependent. Valitse Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ joulukuu
 <abbr>joulu</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox on pian tulossa iOS:lle! <a href="{url}">Rekisteröidy lukeaksesi lisää</a>.
-
-
 ;Congrats. You’re up to date!
 Onneksi olkoon, olet ajan tasalla!
 
@@ -791,10 +577,6 @@ Hupsista! Tarkista, että kirjoitit sähköpostiosoitteesi oikein.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Minulle käy, että Mozilla käsittelee tietojani <a href="%s">tietosuojakäytännössä</a> kuvatulla tavalla
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Minulle käy, että Mozilla käsittelee tietojani <a href="%s">tietosuojakäytännössä</a> kuvatulla tavalla.
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Kiitos!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Voit joutua vahvistamaan tilauksen, jos et ole aiemmin vahvistanut Mozillaan liittyvän uutiskirjeen tilausta. Tarkista sähköpostisi ja roskapostisuodattimesi viestimme varalta.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Kiitos! Ole hyvä ja tarkista saapuneet viestisi vahvistaaksesi tilauksesi.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Sinulle lähetetään viesti osoitteesta mozilla@e.mozilla.org tilauksen vahvistamista varten. Jos et näe sitä, tarkista roskapostisuodattimesi. Sinun täytyy vahvistaa tilauksesi saadaksesi uutiskirjeemme.
 
 
 ;Read all about it in our <span>newsletter</span>

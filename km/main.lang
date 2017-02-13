@@ -2,81 +2,14 @@
 ការ​រុករក
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>for</span> Desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>សម្រាប់</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>សម្រាប់</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-ប្រព័ន្ធ​ប្រតិបត្តិការ
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-ទូរទស្សន៍
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-សម្រាប់​កុំព្យូទ័រ​លើ​តុ &amp; កុំព្យូទ័រ​យួរដៃ
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-For phones &amp; tablets
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-ទិដ្ឋភាព​ទូទៅ
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-ដែល​ទុកចិត្ត
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-ភាព​បត់បែន
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-លឿន
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 អំពី
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-ឧបករណ៍​
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-For partners
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Apps
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 កុំ​តាមដាន
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-ក្បឿង
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Interest Dashboard
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Developer Edition
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 News
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-For developers
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Find My Device
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-អ្នក​អភិវឌ្ឍ
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Page language:
 # Used as link in the footer
 ;Cookies
 ខូគី
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates {ok}
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Firefox Affiliates {ok}
 ទូរស័ព្ទ​ចល័ត
 
 
-;Check out the new look and feel of Firefox.
-ពិនិត្យមើល​រូបរាង និង​មុខងារ​ថ្មី​របស់ Firefox ។
-
-
 ;View Full Site
 មើល​តំបន់បណ្ដាញ​ទាំងមូល
 
 
-;Download for <span>Android</span>
-ទាញយក​សម្រាប់ <span>Android</span>
-
-
 ;Desktop
 ផ្ទៃតុ
-
-
-;Firefox Beta for mobile
-បែតា Firefox សម្រាប់​ទូរស័ព្ទចល័ត
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox សម្រាប់​ទូរស័ព្ទចល័ត
 
 ;Email
 អ៊ីមែល
-
-
-;Super speed
-ល្បឿន​លឿន
-
-
-;Stunning graphics
-ក្រាហ្វិក​ដ៏​អស្ចារ្យ
-
-
-;The latest technologies
-បច្ចេក​វិទ្យា​ចុង​ក្រោយ​បំផុត
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-អ្នក​ចាំបាច់​ត្រូវ​ធ្វើឲ្យ​ប្រសើរ ! នៅតែ​មាន​សុវត្ថិភាព​ក្នុង​រយៈពេល​តិច​ជាង​មួយ​នាទី ។ <br/> ចាប់ផ្ដើម​ប្រើ Firefox ថ្មី​ ដើម្បី​ធ្វើឲ្យ​ការ​រុករក និង​ការ​ប្ដូរ​តាម​បំណង​នៅ​លើ​តំបន់បណ្ដាញ​កាន់​តែ​មាន​ភាព​ប្រសើរ​បំផុត ។ <br/>   វា​លឿន និង​ឥត​គិតថ្លៃ!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Firefox សម្រាប់​ទូរស័ព្ទចល័ត
 ទស្សនា
 
 
-# Footer item
-;Partner with Us
-ធ្វើ​ដៃគូ​ជាមួយ​យើង
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 ធ្វើ​សមកាលកម្ម
@@ -483,79 +352,12 @@ Firefox សម្រាប់​ទូរស័ព្ទចល័ត
 ការ​គាំទ្រ Android
 
 
-# Top menu item on firefox/update page
-;Performance
-ដំណើរការ
-
-
-# Top menu item on firefox/update page
-;Technology
-បច្ចេកវិទ្យា
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-ភាព​ឯកជន &amp; សុវត្ថិភាព
-
-
-# Top menu item on firefox/update page
 ;Releases
 ការ​ចេញ​ផ្សាយ
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox សម្រាប់​អង្គការ
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-កម្មវិធី​បន្ថែម​សម្រាប់​ទូរស័ព្ទ
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-ការ​គាំទ្រ​ឧបករណ៍​ចល័ត
-
-
-# Top menu item on firefox/update page
 ;Blog
 ប្លុក
-
-
-# Top menu item on firefox/update page
-;About Firefox
-អំពី Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-ចូលរួម​ជាមួយ Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-ចូលរួម
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-អ្នក​ស្ម័គ្រចិត្ត
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Brand Toolkit {ok}
-
-
-# Top menu item on firefox/update page
-;Partnerships
-ភាព​ជា​ដៃគូ
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Leadership
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 បាន​ប្ដេជ្ញា​ចំពោះ​អ្នក រក្សា​ភាព​ឯកជន និង​ជា​បណ្ដាញ​បើក​ចំហ
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-ជ្រើស​ឯករាជ្យ
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Keep the passion for a free and open Internet burning bright! #ChooseIndependent
 <abbr>ធ្នូ</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-
-
 ;Congrats. You’re up to date!
 អបអរសាទរ។ អ្នក​ទាន់សម័យ​ហើយ!
 
@@ -791,10 +577,6 @@ HTML
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-ខ្ញុំ​យល់ព្រម​ជាមួយ​ការ​គ្រប់គ្រង Mozilla ​ព័ត៌មាន​របស់​ខ្ញុំ​ដូច​ដែល​បាន​ពន្យល់​នៅ​ក្នុង <a href="%s">គោលនយោបាយ​ឯកជន​នេះ</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Sign Up Now
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-អរគុណ! សូម​ពិនិត្យ​មើល​ប្រអប់​សំបុត្រ​របស់​អ្នក​ដើម្បី​​បញ្ជាក់​ការ​ជាវ​របស់​អ្នក។
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-អ្នក​នឹង​ទទួល​បាន​អ៊ីមែល​ពី mozilla@e.mozilla.org ដើម្បី​បញ្ជាក់​ការ​ជាវ​របស់​អ្នក។ បើ​អ្នក​មិន​ឃើញ​វា​ទេ សូម​ពិនិត្យ​មើល​​ក្នុង​តម្រង​​សារ​ឥត​បាន​ការ​របស់​អ្នក។ អ្នក​ត្រូវតែ​បញ្ជាក់​ការ​ជាវ​របស់​អ្នក​ដើម្បី​ទទួល​បាន​​ព្រឹត្តិបត្រ​របស់​យើង។
 
 
 ;Read all about it in our <span>newsletter</span>

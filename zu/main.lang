@@ -2,81 +2,14 @@
 Ukuzula
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>for</span> Desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>for</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>for</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-For desktops &amp; laptops
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-For phones &amp; tablets
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Okufingqiwe
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Okwethenjiwe
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Okushintshekayo
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Okusheshayo
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Mayelana
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Devices
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-For partners
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Apps
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Do Not Track
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Tiles
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Interest Dashboard
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Udinga usizo?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 News
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-For developers
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Thola Idivayisi Yami
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Onjiniyela
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Ezomthetho
 # Used as link in the footer
 ;Cookies
 Uhide lokwaziswa
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Abahlobene ne-Firefox
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Ifomethi ye-MPEG-4
 Iselula
 
 
-;Check out the new look and feel of Firefox.
-Buka ukubukeka okusha kanye nomuzwa omusha we-Firefox.
-
-
 ;View Full Site
 Buka Isayithi Yonke
 
 
-;Download for <span>Android</span>
-Dawuniloda ku <span>Android</span>
-
-
 ;Desktop
 Okukuskrini
-
-
-;Firefox Beta for mobile
-I-Firefox beta yeselula
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox yeselula
 
 ;Email
 I-imeyili
-
-
-;Super speed
-Isivinini esedlulele
-
-
-;Stunning graphics
-Imidwebo emihle kakhulu
-
-
-;The latest technologies
-Ubuchwepheshe bakamuva
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Udinga ukuthola okungcono! Hlala uphephile ngesikhathi esingaphansi komzuzu. <br/> Qala ukusebenzisa i-Firefox entsha ukuze ukwazi ukubrawuza kahle uqambe nokwakho kuWebhu. <br/>Kulula futhi kumahhala!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Umgomo
 Uhambo
 
 
-# Footer item
-;Partner with Us
-Bambisana nathi
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Qondanisa
@@ -483,79 +352,12 @@ Ukwesekwa kweskrini sangaphambili
 Ukwesekwa kwe-Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Ukusebenza
-
-
-# Top menu item on firefox/update page
-;Technology
-Ubuichwepheshe
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Ukugcinwa kuyimfihlo &amp; Ukuvikeleka
-
-
-# Top menu item on firefox/update page
 ;Releases
 Okukhishiwe
 
 
-# Top menu item on firefox/update page
-;Firefox
-I-Firefox
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-I-Firefox Yezinkampani
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Okwengeziwe Kwamaselula
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Ukwesekwa Kweselula
-
-
-# Top menu item on firefox/update page
 ;Blog
 I-blog
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Mayelama ne-Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Joyina i-Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Zibandakanye
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Volontiya
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Amathuluzi Enkampani
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Ubudlelwano
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Imenyu
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Izibophezele kuwena, ukuvikeleka kwemininingwane yakho kanye neWebhu evulelekile.
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Khetha okuzimele
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Gcina uthando lwe-inthanethi yamahhala nevulelekile luvutha bhe! #ChooseIndependent. Khetha i-Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Uzibandlela
 <abbr>Zib</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-
-
 ;Congrats. You’re up to date!
 Congrats. You’re up to date!
 
@@ -791,10 +577,6 @@ Yhoo! Qinisekisa ukufaka ikheli le-imeyili elivumelekile.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Thanks!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Thanks! Please check your inbox to confirm your subscription.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 
 
 ;Read all about it in our <span>newsletter</span>

@@ -2,81 +2,14 @@
 Navigācija
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-Datoram
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Datoriem un laptopiem
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Telefoniem un planšetēm
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Pārskats
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Uzticams
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Elastīgs
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Ātrs
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Par
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Ierīces
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Partneriem
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Aplikācijas
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Izsekošanas bloķēšana
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Kartiņas
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Interešu radars
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Nepieciešama palīdzība?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Jaunumi
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Izstrādātājiem
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Atrast manu ierīci
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Izstrādātāji
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Juridiskā informācija
 # Used as link in the footer
 ;Cookies
 Sīkdatnes
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Biedri
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 formāts
 Mobilā versija
 
 
-;Check out the new look and feel of Firefox.
-Apskati Firefox jauno izskatu un iespējas.
-
-
 ;View Full Site
 Aplūkot pilno lapu
 
 
-;Download for <span>Android</span>
-Lejupielādēt <span>Android</span> ierīcēm
-
-
 ;Desktop
 Datoriem
-
-
-;Firefox Beta for mobile
-Firefox Beta mobilajām ierīcēm
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox mobilajām ierīcēm
 
 ;Email
 Epasts
-
-
-;Super speed
-Super ātrums
-
-
-;Stunning graphics
-Satriecoša grafika
-
-
-;The latest technologies
-Jaunākās tehnoloģijas
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Jums nepieciešams atjauninājums! Jaunākās iespējas mazāk kā minūtes laikā. <br/> Lietojiet jaunāko Firefox ar plašākajām funkcijām un iespējām pielāgot tīmekli. <br/>   Tas ir moderni un ātri!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Misija
 Ekskursija
 
 
-# Footer item
-;Partner with Us
-Kļūstiet par mūsu partneri
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sinhronizācija
@@ -483,79 +352,12 @@ Atbalsts datoram
 Android atbalsts
 
 
-# Top menu item on firefox/update page
-;Performance
-Veiktspēja
-
-
-# Top menu item on firefox/update page
-;Technology
-Tehnoloģija
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Privātums un drošība
-
-
-# Top menu item on firefox/update page
 ;Releases
 Laidieni
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox organizācijām
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Papildinājumi mobilajiem
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Atbalsts mobilajiem
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blogs
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Par Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Pievienojies Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Piedalies
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Piesakies par brīvprātīgo
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Zīmola rīki
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Partnerības
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Izvēlne
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Vienmēr domājot par jums, jūsu privātumu un interneta atvērtību
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Izvēlieties neatkarīgo
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Paturiet aizraušanos brīvam un atvērtam Internetam! #ChooseIndependent. Izvēlieties Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Decembris
 <abbr>Dec</abbr> {ok}
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox būs drīzumā pieejams uz iOS! <a href="{url}">Pierakstieties lai uzzināt vairāk</a>.
-
-
 ;Congrats. You’re up to date!
 Apsveicam. Jūs jau izmantojat pēdējo versiju!
 
@@ -790,10 +576,6 @@ Uuuups! Pārliecinieties, ka ievadītā epasta adrese ir pareiza.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Esmu ar mieru lai mozilla apietos ar manam datnēm kā noteiks šajā <a href="%s">Privātuma Politikā</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 Esmu ar mieru lai mozilla apietos ar manam datnēm kā noteiks šajā <a href="%s">Privātuma Politikā</a>
 
 
@@ -840,16 +622,6 @@ Paldies!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Paldies! Lūdzu, pārbaudi savu pasta kasti, lai apstiprinātu pieteikšanos jaunumiem.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Jūs saņemsiet epastu no mozilla@e.mozilla.org, lai apstiprinātu pieteikšanos jaunumiem. Ja neredzat šo epastu, pārbaudiet mēstuļu mapi. Lai saņemtu jaunumus, jāapstiprina pieteikšanās uz tiem.
 
 
 ;Read all about it in our <span>newsletter</span>

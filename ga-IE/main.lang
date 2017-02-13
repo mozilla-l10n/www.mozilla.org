@@ -2,81 +2,14 @@
 Nascleanúint
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>ar an</span> Deasc
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>ar</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>ar</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-Firefox OS
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-Teilifís
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Íosluchtú réamhleaganacha
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Ar an deasc agus ar ríomhairí glúine
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Ar ghutháin agus ar tháibléid
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Foramharc
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Iontaofa
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Solúbtha
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Sciobtha
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Eolas
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Gléasanna
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Do comhpháirtithe
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Aipeanna
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Ná Lorgtar Mé
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Tíleanna
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Painéal Suimeanna
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Cabhair uait?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Nuacht
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Le haghaidh forbróirí
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Aimsigh Mo Ghléas
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Forbróirí
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Cúrsaí Dlí
 # Used as link in the footer
 ;Cookies
 Fianáin
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Cleamhnaithe Firefox
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Formáid MPEG-4
 Soghluaiste
 
 
-;Check out the new look and feel of Firefox.
-Bainfidh tú sult as an gcuma úrnua ar Firefox.
-
-
 ;View Full Site
 Féach ar an Suíomh Iomlán
 
 
-;Download for <span>Android</span>
-Íosluchtaigh le haghaidh <span>Android</span>
-
-
 ;Desktop
 Deasc
-
-
-;Firefox Beta for mobile
-Firefox Soghluaiste - Béite
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox Soghluaiste
 
 ;Email
 Ríomhphost
-
-
-;Super speed
-Ardluas
-
-
-;Stunning graphics
-Grafaic álainn
-
-
-;The latest technologies
-Na teicneolaíochtaí is déanaí
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Tá nuashonrú uait! Bí slán sábháilte i níos lú ná nóiméad amháin. <br/> Faigh an Firefox nua agus bain an tairbhe is mó as an nGréasán. <br/> Tá sé an-tapa agus saor in aisce!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Misean
 Turas
 
 
-# Footer item
-;Partner with Us
-Comhpháirtíocht
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Tacaíocht (Deasc)
 Tacaíocht Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Feidhmíocht
-
-
-# Top menu item on firefox/update page
-;Technology
-Teicneolaíocht
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Príobháideacht &amp; Slándáil
-
-
-# Top menu item on firefox/update page
 ;Releases
 Leaganacha
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox i d'Eagraíocht
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Breiseáin Shoghluaiste
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Tacaíocht (Soghluaiste)
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blag
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Maidir le Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Bí Linn
-
-
-# Top menu item on firefox/update page
-;Participate
-Glac Páirt
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Obair Dheonach
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Uirlisí Brandála
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Comhpháirtíocht
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Roghchlár
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Tiomanta don phríobháideacht, don Ghréasán oscailte, agus duitse
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Roghnaigh an Neamhspleáchas
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Seas an fód ar son Idirlín shaoir oscailte! #ChooseIndependent #Neamhspleáchas. Roghnaigh Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Nollaig
 <abbr>Nol</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Beidh Firefox ar iOS go luath! <a href="{url}">Cláraigh chun tuilleadh eolais a fháil</a>.
-
-
 ;Congrats. You’re up to date!
 Comhghairdeas. Tá tú cothrom le dáta!
 
@@ -790,10 +576,6 @@ HTML {ok}
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Tá cead ag Mozilla mo chuid sonraí pearsanta a úsáid mar a mhínítear <a href="%s">sa bPolasaí Príobháideachta seo</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 Tá cead ag Mozilla mo chuid sonraí pearsanta a úsáid mar a mhínítear <a href="%s">sa bPolasaí Príobháideachta seo</a>
 
 
@@ -840,16 +622,6 @@ GRMA!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Murar dheimhnigh tú do shíntiús le nuachtlitir Mozilla roimhe seo, seans gur gá duit é sin a dhéanamh anois. Coinnigh súil ar do bhosca isteach nó d'fhillteán turscair le haghaidh teachtaireacht ríomhphoist uainn.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Go raibh maith agat! Féach ar do bhosca ríomhphoist chun an síntiús a chur i gcrích.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Gheobhaidh tú teachtaireacht ó mozilla@e.mozilla.org chun an síntiús a dhearbhú. Mura bhfeiceann tú é, féach ar do bhosca dramhphoist. Caithfidh tú an síntiús a dhearbhú chun an nuachtlitir a fháil.
 
 
 ;Read all about it in our <span>newsletter</span>

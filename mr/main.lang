@@ -2,81 +2,14 @@
 संचारन
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>for</span> Desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>for</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>for</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-ओएस
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-For desktops &amp; laptops
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-For phones &amp; tablets
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-पूर्वावलोकन
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-विश्वासु
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-लवचिक
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-गतिशील
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 विषयी
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Devices
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-For partners
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Apps
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 पाठलाग करू नका
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Tiles
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Interest Dashboard
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Private Browsing
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 News
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-For developers
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Find My Device
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-डेवलपर्स
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Page language:
 # Used as link in the footer
 ;Cookies
 कूकिज
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 रुपण
 मोबाइल
 
 
-;Check out the new look and feel of Firefox.
-Firefox चे नवीन रूप व स्पर्श तपासून पहा.
-
-
 ;View Full Site
 पूर्ण स्थळ पहा
 
 
-;Download for <span>Android</span>
-<span>अँड्रॉइड</span> करीता डाउनलोड करा
-
-
 ;Desktop
 डेस्कटॉप
-
-
-;Firefox Beta for mobile
-मोबाइलकरीता Firefox Beta
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox चे नवीन रूप व स्पर्श तपासून 
 
 ;Email
 इमेल
-
-
-;Super speed
-सर्वोत्तम वेग
-
-
-;Stunning graphics
-सुंदर ग्राफिक्स
-
-
-;The latest technologies
-नवीन तंत्र
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-सुधारणा पाहिजे! मिनिटापेक्षाहि कमी वेळात सुरक्षित व्हा. <br/> वेबमधील उत्तम ब्राउजिंग व पसंतीकरीता नवीन Firefoxचा वापर सुरू करा. <br/>   हे वेगवान व मोफत आहे!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Contribute to this site
 थोडक्यात ओळख
 
 
-# Footer item
-;Partner with Us
-आमचे भागीदार व्हा
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync
@@ -483,79 +352,12 @@ Android Add-ons
 Android साठी मदत
 
 
-# Top menu item on firefox/update page
-;Performance
-कामगिरी
-
-
-# Top menu item on firefox/update page
-;Technology
-तंत्रज्ञान
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-गोपणीयता आणि सुरक्षा
-
-
-# Top menu item on firefox/update page
 ;Releases
 प्रकाशने
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-संस्थांकरिता Firefox
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-मोबाईल ॲडऑन्स
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-मोबाईल सपोर्ट
-
-
-# Top menu item on firefox/update page
 ;Blog
 ब्लॉग
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Firefox विषयी
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Mozillaसह भेटा
-
-
-# Top menu item on firefox/update page
-;Participate
-सामील व्हा
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-स्वयंसेवा
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-ब्रँड टूलकिट
-
-
-# Top menu item on firefox/update page
-;Partnerships
-भागीदारी
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Leadership
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 तुमच्यासाठी, तुमच्या गुप्ततेसाठी आणि ओपन वेबसाठी वचनबद्ध
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Choose Independent
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Please turn on JavaScript to display this page correctly.
 <abbr>डिसे</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-
-
 ;Congrats. You’re up to date!
 Congrats. You’re up to date!
 
@@ -791,10 +577,6 @@ HTML
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-<a href="%s">ह्या गुप्तता धोरणात</a> सांगितल्यानुसार Mozillaने माझी माहिती हाताळण्यास मला काही हरकत नाही
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Thanks!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-धन्यवाद! कृपया सबस्क्रिप्शनची खात्री करण्यासाठी इंबॉक्स् तपासा.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-सबस्क्रिप्शनची खात्री करण्यासाठी तुम्हाला mozilla@e.mozilla.org कडून ईमेल प्राप्त होईल. ईमेल न आढळल्यास, स्पॅम फिल्टर तपासा. समाचारपत्र प्राप्त करण्यासाठी सबस्क्रिप्शनची खात्री करणे आवश्यक आहे.
 
 
 ;Read all about it in our <span>newsletter</span>

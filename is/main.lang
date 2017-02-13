@@ -2,81 +2,14 @@
 Flakka
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>fyrir</span> borðtölvu
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>fyrir</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>fyrir</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-Stýrikerfi
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-Sjónvarp
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Niðurhala forútgáfu
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Fyrir borðtölvur &amp; fartölvur
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Fyrir farsíma &amp; spjaldtölvur
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Yfirlit
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Traustur
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Sveigjanlegur
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Hraður
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Um
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Tæki
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Fyrir samstarfsaðila
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Fyrir samstarfsaðila
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Do Not Track {ok}
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Kassar
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Interest Dashboard {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Vantar þig hjálp?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Fréttir
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Fyrir forritara
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Finndu tækið mitt
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Þróunaraðilar
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Lögmæti
 # Used as link in the footer
 ;Cookies
 Smákökur
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox tengdir aðilar
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 skráarsnið
 Farsími
 
 
-;Check out the new look and feel of Firefox.
-Kíktu á nýja útlitið á Firefox.
-
-
 ;View Full Site
 Skoða allt vefsvæðið
 
 
-;Download for <span>Android</span>
-Niðurhala fyrir <span>Android</span>
-
-
 ;Desktop
 Tölva
-
-
-;Firefox Beta for mobile
-Firefox Beta fyrir farsíma
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox fyrir farsíma
 
 ;Email
 Tölvupóstur
-
-
-;Super speed
-Ofurhraði
-
-
-;Stunning graphics
-Ótrúleg grafík
-
-
-;The latest technologies
-Nýjasta tækni
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Þú þarft að uppfæra! Vertu öruggur á innan við mínútu. <br/> Byrjaðu að nota nýjustu útgáfu af Firefox til að vafra betur og fá bestu stillimöguleika á vefnum. <br/>   Hann er hraðvirkur og ókeypis!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Takmark
 Skoðunarferð
 
 
-# Footer item
-;Partner with Us
-Taktu þátt með okkur
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Hjálp fyrir tölvu
 Android stuðningur
 
 
-# Top menu item on firefox/update page
-;Performance
-Afkastageta
-
-
-# Top menu item on firefox/update page
-;Technology
-Tækni
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Friðhelgi og öryggi
-
-
-# Top menu item on firefox/update page
 ;Releases
 Útgáfur
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox fyrir fyrirtæki
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Farsíma viðbætur
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Hjálp fyrir farsíma
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blogg
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Um Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Taka þátt með Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Taka þátt
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Taka þátt
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Brand Toolkit {ok}
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Þátttakendur
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Valmynd
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Fyrir þig, þína friðhelgi og netfrelsi
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Veldu frelsi
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Láttu ljósið skína fyrir frjálst og opið Internet! #ChooseIndependent. Veldu Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Desember
 <abbr>Des</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox kemur bráðlega fyrir iOS! <a href="{url}">Skráðu þig til að vita meira</a>.
-
-
 ;Congrats. You’re up to date!
 Til hamingju. Þú ert með nýjustu útgáfu!
 
@@ -791,10 +577,6 @@ HTML {ok}
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Ég er sáttur við að Mozilla meðhöndli mínar upplýsingar eins og útskýrt er <a href="%s">þessum skilmálum</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Ég er sáttur við hvernig Mozilla meðhöndlar mínar upplýsingar eins og útskýrt er <a href="%s">hérna í meðferð persónuupplýsinga</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Takk!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Ef þú hefur ekki þegar staðfest áskrift að Mozilla tengdu fréttabréfi gætirðu þurft að staðfesta. Athugaðu hvort póstur sé frá okkur í innhólfinu eða í ruslpóst möppunni.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Takk! Athugaðu póst í innhólfi til að staðfesta áskriftina.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Þú færð póst frá mozilla@e.mozilla.org til að staðfesta áskriftina. Ef þú sérð ekki póstinn, athugaðu þá ruslpóst möppuna. Þú verður að staðfesta áskriftina til að fá fréttabréfið.
 
 
 ;Read all about it in our <span>newsletter</span>

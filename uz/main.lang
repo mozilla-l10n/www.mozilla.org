@@ -2,81 +2,14 @@
 Navigatsiya
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-Kompyuter <span>uchun</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-Android <span>uchun</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-iOS <span>uchun</span>
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Kompyuter va notebooklar uchun
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Telefonlar va planshetlar uchun
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Ko‘rib chiqish
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Ishonchli
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Qulay
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Tez
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Biz haqimizda
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Qurilmalar
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Hamkorlar uchun
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Ilova dasturlar
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Kuzatmang
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Kataklar
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Qiziqish boshqaruv paneli
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Yordam kerakmi?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Yangiliklar
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Dasturchilar uchun
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Qurilmamni topish
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Dasturchilar
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Huquqiy ma’lumot
 # Used as link in the footer
 ;Cookies
 Kukilar
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox bilan hamkorlik
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 format {ok}
 Mobil
 
 
-;Check out the new look and feel of Firefox.
-Yangi Firefox uslubi va ko‘rinishiga baho bering.
-
-
 ;View Full Site
 To‘liq saytni ko‘rish
 
 
-;Download for <span>Android</span>
-<span>Android</span> uchun yuklab oling
-
-
 ;Desktop
 Kompyuter
-
-
-;Firefox Beta for mobile
-Mobil telefonlar uchun Firefox Beta
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Mobil telefonlar uchun Firefox
 
 ;Email
 E-pochta
-
-
-;Super speed
-Super tezlik
-
-
-;Stunning graphics
-Ajoyib grafika
-
-
-;The latest technologies
-So‘nggi texnologiyalar
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Siz yangilashni o‘rnatishingiz kerak! Ko‘pi bilan bir daqiqada xavfsizligingizni ta'minlang. <br/> Yangi "Firefox"ni o‘rnatib, internetda ishlaganda o‘zingizni qulay his qiling. <br/>   U tez va bepul!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Maqsadimiz
 Sayohat
 
 
-# Footer item
-;Partner with Us
-Biz bilan hamkorlik qilish
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sinx
@@ -483,79 +352,12 @@ Kompyuter uchun moslik
 Android yordam xizmati
 
 
-# Top menu item on firefox/update page
-;Performance
-Unumdorlik
-
-
-# Top menu item on firefox/update page
-;Technology
-Texnologiya
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Maxfiylik va xavfsizlik
-
-
-# Top menu item on firefox/update page
 ;Releases
 Relizlar
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Tashkilotlar uchun Firefox
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Mobil qurilmalar uchun qo‘shimcha dasturlar
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Mobil telefonlarga moslik
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Firefox haqida
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-"Mozilla"ga qo‘shiling
-
-
-# Top menu item on firefox/update page
-;Participate
-Hissangizni qo‘shing
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Ko‘ngilli
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Brend vositalari
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Hamkorlik
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Menyu
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Siz, shaxsiy hayotingiz va ochiq tarmoq uchun mo‘ljallangan
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Erkinlikni tanlang
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Erkin va ochiq internet yorqinligidan bahra oling! #ChooseIndependent. Firefox’ni tanlang:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Dekabr
 <abbr>Dek</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox tez kunlarda iOS tizimida ham ishlay boshlaydi! <a href="{url}">Ko‘proq ma’lumot olish uchun ro‘yxatdan o‘ting</a>.
-
-
 ;Congrats. You’re up to date!
 Tabriklaymiz. Brauzeringiz yap-yangi!
 
@@ -791,10 +577,6 @@ Obbo! To‘g‘ri e-pochta manzilini kiritmadingiz.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-"Mozilla"ning mening ma’lumotlarim bilan ishlashiga <a href="%s">ushbu "Maxfiylik siyosati"</a>ga muvofiq roziman.
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Thanks!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Rahmat! Obuna bo‘lishni tasdiqlash uchun e-pochtangizga kiruvchi xabarlarni tekshirib ko‘ring.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Siz mozilla@e.mozilla.org saytidan obunani tasdiqlash haqidagi xabarni olasiz. Agar uni ko‘rmasangiz, spam filterini tekshirib ko‘ring. Bizning yangiliklar xabarlarimizni olishingiz uchun obunani tasdiqlashingiz kerak.
 
 
 ;Read all about it in our <span>newsletter</span>

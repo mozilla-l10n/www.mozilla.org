@@ -2,81 +2,14 @@
 Inavigeyishini
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>se</span> I-Desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>for</span> I-Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>ukulungiselela i-</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-I-TV
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Khulula kwangoko ezikhutshelweyo
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Yeyee-desktops &amp; ii-laptops
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Yeyeefeowni &amp; ii-tablets
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Ushwankathelo
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Ethembekileyo
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Elungele yonke imeko
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Ekhawulezayo
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Malunga
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Izixhobo
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Yeyamahlakane
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Ii-Apps
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Musa ukulanda umkhondo
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Iithayili
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Yenza i-Dashboard ibenomdla
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Ufuna uncedo?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Iindaba
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Yeyabaphuhlisi
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Fumana Isixhobo Sam
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Abaphuhlisi
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Okusemthethweni
 # Used as link in the footer
 ;Cookies
 Iikhukhi
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Amahlakani ka-Firefox
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Ifomati ye-MPEG-4
 Imobhayile
 
 
-;Check out the new look and feel of Firefox.
-Jonga inkangeleko entsha nemvakalo ye-Firefox.
-
-
 ;View Full Site
 Jonga Isayithi Epheleleyo
 
 
-;Download for <span>Android</span>
-Khuphelela i-<span>Android</span>
-
-
 ;Desktop
 Idesktopu
-
-
-;Firefox Beta for mobile
-I-Firefox Beta yemobhayile
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ I-Firefox yemobhayile
 
 ;Email
 I-imeyile
-
-
-;Super speed
-Isantya esixhomileyo
-
-
-;Stunning graphics
-Iigrafiki ezimangalisayo
-
-
-;The latest technologies
-Ubugcisa bamvanje
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Ufuna ehlaziyiweyo! Hlala ukhuselekile ngaphantsi komzuzu. <br/> Qala ukusebenzisa iFirefox yakho entsha ukuze ubhrawuze yaye uqhelanise ngcono kwiWebhu. <br/>   Iyakhawuleza kwaye ikhuselekile!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Umsebenzi
 Ukhenketho
 
 
-# Footer item
-;Partner with Us
-Zimanye nathi
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Ngqamanisa
@@ -483,79 +352,12 @@ Inkxaso Yedesktophu
 Inkxaso ye-Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Ukusebenza
-
-
-# Top menu item on firefox/update page
-;Technology
-Ubuchwepheshe
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Ubungasese &amp; uKhuseleko
-
-
-# Top menu item on firefox/update page
 ;Releases
 Okushicilelweyo
 
 
-# Top menu item on firefox/update page
-;Firefox
-I-Firefox
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-I-Firefox yeMibutho
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Izongezelelo zemobhayile
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Inkxaso yemobhayile
-
-
-# Top menu item on firefox/update page
 ;Blog
 Ibhlogu
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Malunga ne-Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Joyina i-Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Thabatha inxaxheba
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Itsha-ntliziyo
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Ikiti Yezixhobo ZeBhrendi
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Amahlakani
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Imenyu
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Izinikezele kuwe, kubungasese bakho kwaye ivula iwebhu
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Khetha uZimele
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Gcina uthando lweIntanethi evulekileyo nemahala ekhanya ngokucacileyo! #ChooseIndependent. Khetha i-Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Disemba
 <abbr>uDis</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-I-Firefox iyeza kwakamsinya ku-iOS! <a href="{url}">Sayina ukuze ufunde ngakumbi</a>.
-
-
 ;Congrats. You’re up to date!
 Uvuyiswano. Usemgangathweni!
 
@@ -790,10 +576,6 @@ Hayibo! Qiniseka ukufaka idilesi ye-imeyili esebenzayo.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Ndilungile kwiMozilla ukuba isingathe inkcazelo njengoko kuchaziwe <a href="%s">kule Mgaqo-nkqubo Wabucala</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 Ndilungile kwiMozilla ukuba isingathe inkcazelo njengoko kuchaziwe <a href="%s">kule Mgaqo-nkqubo Wabucala</a>
 
 
@@ -840,16 +622,6 @@ Enkosi!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Ukuba ngaphambili akukhange uqinisekise umrhumo kwiphephandaba elinxulumene neMozilla kusenokufuneka wenjenjalo. Nceda ukhangele i-inboksi yakho okanye ifiltha yakho yespam ukuze ubone i-imeyili evela kuthi.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Ngombulelo! Sicela uhlole ibhokisi yakho yee-imeyili ukuqinisekisa umrhumo wakho.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Uza kufumana i-imeyili esuka kwi-mozilla@e.mozilla.org eqinisekisa umrhumo wakho. Ukuba akuyiboni, hlola ifiltha yakho yemiyalezo eyimfitshimfitshi. Ufanele uqinisekise umrhumo wakho ukuze ufumane ileta yeendaba.
 
 
 ;Read all about it in our <span>newsletter</span>

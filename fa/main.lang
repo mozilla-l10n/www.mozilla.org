@@ -2,81 +2,14 @@
 راهبری
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>برای</span> نسخه رومیزی
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>برای</span> اندروید
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>برای</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-سیستم عامل
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-تلویزیون
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 نسخه‌های آزمایشی
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-برای  کامپیوتردسکتاپ &amp; لپتاپ
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-برای تلفن &amp; تبلت
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-دید کلی
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-مورد اعتماد
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-منعطف
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-سریع
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 درباره
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-دستگاه‌ها
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-برای شرکا
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 ردیابی نکن
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-کاشی‌ها
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-داشبورد علاقمندی ها
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 اخبار
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-برای توسعه‌دهندگان
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-پیدا کردن دستگاه من
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-برنامه‌نویس‌ها
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@
 # Used as link in the footer
 ;Cookies
 کوکی‌ها
-
-
-# Used as link in the footer
-;Firefox Affiliates
-موسات وابسته فایرفاکس
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@
 همراه
 
 
-;Check out the new look and feel of Firefox.
-ظاهر و حس تازهٔ فایرفاکس را ببینید.
-
-
 ;View Full Site
 مشاهدهّ وب‌گاه کامل
 
 
-;Download for <span>Android</span>
-دریافت برای <span>آندروئید</span>
-
-
 ;Desktop
 رومیزی
-
-
-;Firefox Beta for mobile
-فایرفاکس بتا برای تلفن همراه
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@
 
 ;Email
 پست الکترونیکی
-
-
-;Super speed
-سرعت عالی
-
-
-;Stunning graphics
-تصاویر خیره کننده
-
-
-;The latest technologies
-آخرین فن‌آوری‌ها
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-شما به ارتقا نیاز دارید! در کمتر از یک دقیقه امن باقی بمانید. <br/> برای بهترین مرور و سفارشی‌سازی در وب از فایرفاکس جدید استفاده کنید. <br/>   سریع و رایگان!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@
 سیاحت
 
 
-# Footer item
-;Partner with Us
-با ما مشارکت کنید
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 همگام‌سازی
@@ -483,79 +352,12 @@
 پیشتیبانی اندروید
 
 
-# Top menu item on firefox/update page
-;Performance
-کارایی
-
-
-# Top menu item on firefox/update page
-;Technology
-فناوری
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-حریم‌خصوصی و امنیت
-
-
-# Top menu item on firefox/update page
 ;Releases
 انتشارها
 
 
-# Top menu item on firefox/update page
-;Firefox
-فایرفاکس
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-فایرفاکس برای سازمان‌ها
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-افزونه‌های تلفن‌همراه
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-پشتیبانی تلفن‌همراه
-
-
-# Top menu item on firefox/update page
 ;Blog
 بلاگ
-
-
-# Top menu item on firefox/update page
-;About Firefox
-درباره فایرفاکس
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-به موزیلا بپیوندید
-
-
-# Top menu item on firefox/update page
-;Participate
-مشارکت
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-داوطلب
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-ابزار برند تجاری
-
-
-# Top menu item on firefox/update page
-;Partnerships
-شرکا
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 متعهد به شما، حریم خصوصی شما و وب آزاد
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-استقلال را انتخاب کنید
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-اشتیاق خود را برای اینترنت آزاد و باز روشن نگه دارید! #ChooseIndependent. فایرفاکس را انتخاب کنید:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@
 <abbr>دسامبر</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-فایرفاکس بزودی برای iOS هم منتشر می‌شود! <a href="{url}">برای اطلاعات بیشتر عضو شوید</a>.
-
-
 ;Congrats. You’re up to date!
 تبریک! شما بروز هستید!
 
@@ -791,10 +577,6 @@ HTML {ok}
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 من با اینکه موزیلا اطلاعاتم را بر اساس موارد شرح داده شده در <a href="%s">نکات حریم‌خصوصی</a> استفاده کند مشکلی ندارم
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-من با اینکه موزیلا اطلاعات من را بر اساس <a href="%s">این سند حریم‌خصوصی</a> مدیریت کند، مشکلی ندارم.
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ HTML {ok}
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 اگر پیش از این ثبت‌نام خود را در یکی از خبرنامه‌های مرتبط با موزیلا تایید نکرده‌اید، ممکن است لازم باشد که این کار را بکنید. لطفا پست‌الکترونیکی یا قسمت اسپم‌های خود را برای یک رایانامه از طرف ما بررسی کنید.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-ممنون! لطفا پست‌الکترونیکی خود را برای تایید ثبت‌نام، بررسی کنید.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-شما یک پست‌الکترونیکی از mozilla@e.mozilla.org برای تایید عضویت خود دریافت خواهید کرد. اگر نمی‌بینیداش، صندوق اسپم خود را بررسی کنید. شما باید عضویت خود را برای دریافت خبرنامه تایید کنید.
 
 
 ;Read all about it in our <span>newsletter</span>

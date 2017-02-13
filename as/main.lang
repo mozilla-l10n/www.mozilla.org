@@ -2,81 +2,14 @@
 মাৰ্গদৰ্শন
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>for</span> Desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>for</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>for</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-For desktops &amp; laptops
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-For phones &amp; tablets
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-অভাৰভিউ
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-ভৰষাবান
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-স্থিতিস্থাপক
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-দ্ৰুত
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 বিষয়ে
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Devices
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-For partners
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Apps
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Do Not Track
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Tiles
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Interest Dashboard
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Private Browsing
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 News
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-For developers
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Find My Device
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-উন্নয়নকাৰীসকল
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Page language:
 # Used as link in the footer
 ;Cookies
 কুকিসমূহ
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 বিন্যাস
 মবাইল
 
 
-;Check out the new look and feel of Firefox.
-Firefox ৰ নতুন ৰূপ আৰু অনুভূতি নিৰীক্ষণ কৰক।
-
-
 ;View Full Site
 সম্পূৰ্ণ ছাইট দৰ্শন কৰক
 
 
-;Download for <span>Android</span>
-<span>Android</span> ৰ বাবে ডাউনল'ড কৰক
-
-
 ;Desktop
 ডেস্কটপ
-
-
-;Firefox Beta for mobile
-মবাইলৰ বাবে Firefox Beta
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox ৰ নতুন ৰূপ আৰু অনুভূতি নিৰী�
 
 ;Email
 ই-মেইল
-
-
-;Super speed
-তিব্ৰ গতি
-
-
-;Stunning graphics
-আকৰ্ষণীয় গ্ৰাফিক্স
-
-
-;The latest technologies
-শেহতীয়া প্ৰযুক্তিসমূহ
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-আপোনাৰ এটা উন্নয়নৰ প্ৰয়োজন! এক মিনিটৰো কম সময়ত সুৰক্ষিত থাকক। <br/> ব্ৰাউছিংত উত্তম আৰু আৰু ৱেবত স্বনিৰ্বাচনৰ বাবে আপোনাৰ নতুন Firefox ব্যৱহাৰ কৰা আৰম্ভ কৰক।  <br/>   ই দ্ৰুত আৰু বিনামূলীয়া!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Contribute to this site
 ভ্ৰমণ
 
 
-# Footer item
-;Partner with Us
-আমাৰ সহকাৰী হওক
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync
@@ -483,79 +352,12 @@ Android Add-ons
 Android Support
 
 
-# Top menu item on firefox/update page
-;Performance
-পৰিৱেশন
-
-
-# Top menu item on firefox/update page
-;Technology
-প্ৰযুক্তি
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-গোপনীয়তা &amp; সুৰক্ষা
-
-
-# Top menu item on firefox/update page
 ;Releases
 উন্মোচনসমূহ
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-সংঘঠনসমূহৰ বাবে Firefox
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-মবাইল এড-অনসমূহ
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-মবাইল সমৰ্থন
-
-
-# Top menu item on firefox/update page
 ;Blog
 ব্লগ
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Firefox ৰ বিষয়ে
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Mozilla ত অংশগ্ৰহণ কৰক
-
-
-# Top menu item on firefox/update page
-;Participate
-অংশগ্ৰহণ কৰক
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Volunteer
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-ব্ৰেণ্ড সঁজুলি
-
-
-# Top menu item on firefox/update page
-;Partnerships
-সহযোগ
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Leadership
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 আপুনি, আপোনাৰ গোপনীয়তা আৰু এটা মুক্ত ৱেবলৈ অৰ্পিত
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Choose Independent
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Firefox সহায়
 <abbr>ডিচে</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-
-
 ;Congrats. You’re up to date!
 Congrats. You’re up to date!
 
@@ -791,10 +577,6 @@ HTML
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-<a href="%s">এই গোপনীয়তা নীতি</a>ত বিৱৰণ দিয়া ধৰণে Mozilla এ মোৰ তথ্য নিয়ন্ত্ৰণ কৰিব পাৰিব
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Thanks!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-ধন্যবাদ! আপোনাৰ স্বাক্ষৰণ সুনিশ্চিত কৰিবলে অনুগ্ৰহ কৰি আপোনাৰ ইনবক্স নিৰীক্ষণ কৰক।
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-আপোনাৰ স্বাক্ষৰণ সুনিশ্চিত কৰিবলে আপুনি mozilla@e.mozilla.org ৰ পৰা এটা ইমেইল প্ৰাপ্ত কৰিব। যদি আপুনি ইয়াক দেখি নাপায়, আপোনাৰ স্পেম ফিল্টাৰ নিৰীক্ষণ কৰক। আমাৰ বাতৰিকাকত গ্ৰহণ কৰিবলে আপুনি আপোনাৰ স্বাক্ষৰণ সুনিশ্চিত কৰিব লাগিব।
 
 
 ;Read all about it in our <span>newsletter</span>

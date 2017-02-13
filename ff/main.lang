@@ -2,81 +2,14 @@
 Banngagol
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>for</span> Ordinateer
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>for</span> Android {ok}
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>mo</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TELE
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Gaawte bayyine bagge
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Mo ordinateer &amp; beelne
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Mo cinnde &amp; taable
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Jiimtorde
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Koolniɗum
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Weeɓtuɗum
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Jaawɗum
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Baɗte
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Kaɓirɗi
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Toɗɗii ko gollodiiɓe
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Jaaɓɗe
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Hoto Rewindo-mi
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Keeɗe
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Jiimtorde Katojine
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Aɗa sokli ballal?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Kabaruuji
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Toɗɗii ko Topayɓe
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Yiytu Kaɓirgol Am
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Topayɓe
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Laawol
 # Used as link in the footer
 ;Cookies
 Kukiije
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Gollodiiɓe Firefox
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Mbayka MPEG-4
 Cinndel
 
 
-;Check out the new look and feel of Firefox.
-Ar humpito mbaydi e dakamme kese Firefox.
-
-
 ;View Full Site
 Hollu lowre ndee fof
 
 
-;Download for <span>Android</span>
-Aaawto mo <span>Android</span>
-
-
 ;Desktop
 Ordinateer
-
-
-;Firefox Beta for mobile
-Firefox Beta mo cinndel
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox mo cinndel
 
 ;Email
 Iimeel
-
-
-;Super speed
-Njaaweeki moolanaaki
-
-
-;Stunning graphics
-Jaytine kulɓiniiɗe
-
-
-;The latest technologies
-Karallaagal cakkitiingal
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Aɗa soki kesɗitinal! Ɓeydu kisal e ko jaasi hojom. <br/> Fuɗɗo huuroraade Firefox maa keso ngam heɓde wanngorde ɓurnde yuɓɓude e heertinaade. <br/>   Ena yaawi tee yoɓetaake!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Darnde
 Yillo
 
 
-# Footer item
-;Partner with Us
-Huutondir e Amen
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sanngoɗin
@@ -483,79 +352,12 @@ Wallitorde Biro
 Wallitorde Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Jaawgol golle
-
-
-# Top menu item on firefox/update page
-;Technology
-Karallaagal
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Suturo &amp; Kisal
-
-
-# Top menu item on firefox/update page
 ;Releases
 Bayyine
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox mo Pelle
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Ɓeydiite Cinnde
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Wallitorde Cinndel
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Baɗte Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Yantu e Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Naat e golle ɗee
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Yarlito
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Kuutorɗe Marke
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Kuutondiral
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Dosol
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Ena tiiɗaa suturo maa e Geese udditiiɗe
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Suɓo Jaytaare
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Duumo e hatojinde e Enternet mo bellitiiɗo, udditiiɗo! #ChooseIndependent. Suɓo Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Bowte
 <abbr>Bow</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox nana ara to iOS! <a href="{url}">Winndito ngam ɓeydude humpito</a>.
-
-
 ;Congrats. You’re up to date!
 Woyyoo. A hesɗitii!
 
@@ -791,10 +577,6 @@ Ndo! Ƴeew so a naatnii ñiiɓirde iimeel moƴƴere.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Alanaa kam caɗeele e Mozilla huutoraade ngoo humpito hono no facciraa e <a href="%s">ngol Dawirgol Suturo</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Alanaa kam caɗeele e Mozilla huutoraade ngoo humpito hono no paamir-mi e <a href="%s">Dawirgol Suturo</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ A jaaraama!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 So a suwaa tawo teeŋtinde lulnagol e ɓataake habrirde baɗte Mozilla maa tawa aɗa foti waɗde ɗum. Tiiɗno ƴeewto wandannde ɓaakeeji maa walla ceɗol spaam maa ngam yiytude iwɗo e amen.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-A jaaraama! Tiiɗno ƴeewto wakannde ɓatakeeji maa ngam teeŋtinde binnditagol maa.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Maa heɓ iimeel ummoraade e mozilla@e.mozilla.org ngam teeŋtinde binnditagol maa. So a heɓaani-mo, ƴeewto seɗorde spamuuji maa. Alaa e sago teeŋtinaa binnditagol maa ngam heɓde ɓataake amen habrirde.
 
 
 ;Read all about it in our <span>newsletter</span>

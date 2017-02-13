@@ -2,81 +2,14 @@
 Navigation {ok}
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>til</span> Computer
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>til</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>til</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Hent tidlige udgivelser
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Til computere &amp; bærbare
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Til telefoner &amp; tablets
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Overblik
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Betroet
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Fleksibel
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Hurtig
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Om
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Enheder
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-For partnere
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Apps {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Spor mig ikke
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Fliser
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Dine interesser
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Har du brug for hjælp?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Nyheder
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-For udviklere
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Find min enhed
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Udviklere
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Juridisk
 # Used as link in the footer
 ;Cookies
 Cookies {ok}
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates {ok}
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4-format
 Mobilen
 
 
-;Check out the new look and feel of Firefox.
-Udforsk det nye udseende i Firefox.
-
-
 ;View Full Site
 Vis den fulde side
 
 
-;Download for <span>Android</span>
-Download til <span>Android</span>
-
-
 ;Desktop
 Computer
-
-
-;Firefox Beta for mobile
-Firefox Beta til mobilen
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox til mobilen
 
 ;Email
 Mail
-
-
-;Super speed
-Lynhurtig
-
-
-;Stunning graphics
-Forbløffende grafik
-
-
-;The latest technologies
-De nyeste teknologier
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Du er nødt til at opdatere. Surf sikkert på mindre end ét minut. <br/> Brug din nye Firefox med de bedste tilpasningsmuligheder på nettet. <br/>   Det er hurtigt og gratis!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Mission {ok}
 Præsentation
 
 
-# Footer item
-;Partner with Us
-Bliv partner med os
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Support til computeren
 Support til Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Ydelse
-
-
-# Top menu item on firefox/update page
-;Technology
-Teknologi
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Privatliv &amp; sikkerhed
-
-
-# Top menu item on firefox/update page
 ;Releases
 Udgivelser
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox til Organisationer
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Tilføjelser til mobilen
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Support til mobilen
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Om Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Vær med i Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Deltag
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Bliv frivillig
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Værktøj til layout
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Partnerskaber
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Menu {ok}
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Forpligtet til at beskytte dit privatliv og et åbent internet
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Vær uafhængig
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Lad lidenskaben for et frit og åbent internet brænde klart! #ChooseIndependent. Vælg Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ December {ok}
 <abbr>Dec</abbr> {ok}
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox kommer snart til iOS! <a href="{url}">Abonnér for at læse mere</a>.
-
-
 ;Congrats. You’re up to date!
 Tillykke. Du er opdateret!
 
@@ -790,10 +576,6 @@ Ups! Kontrollér, at du har indtastet en gyldig mailadresse.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Det er helt fint, at Mozilla håndterer mine oplysninger som beskrevet i <a href="%s">denne privatlivspolitik</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 Det er helt fint, at Mozilla håndterer mine oplysninger som beskrevet i <a href="%s">denne privatlivspolitik</a>
 
 
@@ -840,16 +622,6 @@ Tak!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Hvis du ikke tidligere har bekræftet din tilmelding til et nyhedsbrev fra Mozilla, kan det være nødvendigt at gøre det. Tjek din indbakke eller spam-mappe for en mail fra os.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Tak! Tjek din indbakke, så du kan bekræfte din tilmelding.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Du vil modtage en bekræftelsesmail fra mozilla@e.mozilla.org. Hvis du ikke kan se mailen, så tjek din spam-mappe. Du skal bekræfte din tilmelding for at modtage vores nyhedsbrev.
 
 
 ;Read all about it in our <span>newsletter</span>

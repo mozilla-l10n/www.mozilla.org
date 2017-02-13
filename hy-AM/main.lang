@@ -2,81 +2,14 @@
 Ուղղորդում
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>Դեսքթոփի</span> համար
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>Անդրոիդի</span> համար
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span></span> iOS-ի համար
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Նախաթողարկումների ներբեռնումներ
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Համակարգիչների և լափթոփների համար
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Հեռաոսների և թաբլեթների համար
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Ակնարկ
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Վստահելի
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Ճկուն
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Արագ
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Մեր Մասին
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Սարքեր
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Գործընկերների համար
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ TV {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Չհետագծում
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Սալիկներ
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Հետաքրքրությունների կառավահան
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Developer Edition {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Նորություններ
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Ծրագրավորողների համար
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Գտնել իմ սարքը
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Developers {ok}
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Mozilla-ի մասին
 # Used as link in the footer
 ;Cookies
 Cookie-ներ
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox-ի գործընկեր
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 տեսակի
 Բջջային
 
 
-;Check out the new look and feel of Firefox.
-Ստուգի՛ր Firefox-ի նոր տեսքը
-
-
 ;View Full Site
 Դիտել ամբողջական կայքը
 
 
-;Download for <span>Android</span>
-Ներբեռնել <span>Android</span>-ի համար
-
-
 ;Desktop
 Դեսքթոփ
-
-
-;Firefox Beta for mobile
-Firefox Beta-ն բջջայինի համար
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox-ը բջջայինի համար
 
 ;Email
 Էլ. փոստ
-
-
-;Super speed
-Գերարագ
-
-
-;Stunning graphics
-Ցնցող գրաֆիկա
-
-
-;The latest technologies
-Նորագույն տեխնոլոգիաներ
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Թարմացման կարիք կա: Պահեք անվտանգությունը ընդամենը մեկ րոպեում: <br/> Սկսեք օգտագործել ձեր նոր Firefox-ը: <br/>   Այն արագ է և անվճար:
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Firefox-ը բջջայինի համար
 Շրջայց
 
 
-# Footer item
-;Partner with Us
-Համագործակցեք մեզ հետ
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Սինք
@@ -483,79 +352,12 @@ Android-ի հավելումներ
 Android-ի աջակցություն
 
 
-# Top menu item on firefox/update page
-;Performance
-Արագագործությունը
-
-
-# Top menu item on firefox/update page
-;Technology
-Տեխնոլոգիան
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Անվտանգության &amp; քաղաքականությունը
-
-
-# Top menu item on firefox/update page
 ;Releases
 Թողարկումներ
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox-ը կազմակերպությունների համար
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Բջջայինի հավելումները
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Բջջայինի աջակցությունը
-
-
-# Top menu item on firefox/update page
 ;Blog
 Բլոգը
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Firefox-ի մասին
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Միացեք Mozilla-ին
-
-
-# Top menu item on firefox/update page
-;Participate
-Մասնակցեք
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Մասնակցել
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Ապրանքանիշի գործիքները
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Համագործակցություններ
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Firefox-ը Facebook-ում
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Ուղղված է Ձեզ, Ձեր անվտանգության և բաց վեբի համար է
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Ընտրեք անկախություն
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Պահեք ազատ և բաց համացանցի գաղափարը: #ChooseIndependent. Ընտրեք Firefox-ը.
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Firefox-ի օգնությունը
 <abbr>Դեկ</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Շուտով Firefox-ը հասանելի կլինի նաև iOS-ի համար: <a href="{url}">Մուտք գործեք՝ մանրամասները կարդալու համար</a>:
-
-
 ;Congrats. You’re up to date!
 Շնորհավորում ենք: Դուք օգտագործում եք նոր տարբերակը:
 
@@ -791,10 +577,6 @@ HTML {ok}
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Ես ընդունում եմ, որ Mozilla-ն կարող է մշակել իմ տեղեկությունները, ինչպես որ բացատրված է <a href="%s">Գաղտնիության այս ծանուցումում</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Ես համաձայն եմ կիսվել այս տեղեկատվությամբ Mozilla-ի հետ՝ համաձայն <a href="%s">Գաղտնիության Քաղաքականության</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ HTML {ok}
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Եթե նախկինում չեք հաստատել բաժանորդագրությունները Mozilla-ի նորություններին, ապա դա կարող եք անել հիմա: Դա անելու համար ստուգեք ձեր էլ. փոստարկղը կամ թափոնի պանակը և գտեք մեր ուղարկած նամակը:
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Շնորհակալություն։ Ստուգեք Ձեր Մուտքայինները՝ հաստատելու համար բաժանորդագրությունը։
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Դուք կստանաք նամակ mozilla@e.mozilla.org-ից՝ հաստատելու համար։ Եթե չեք տեսնում այն, ստուգեք լցոնի կանոնները։ Դուք պետք է հաստատեք բաժանորդագրությունը։
 
 
 ;Read all about it in our <span>newsletter</span>

@@ -2,81 +2,14 @@
 Àrea de navegació
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>per a</span> l'escriptori
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>per a</span> l'Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>per a</span> l'iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Baixades de versions preliminars
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Per a ordinadors d'escriptori i portàtils
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Per a telèfons i tauletes
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Resum
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Fiable
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Flexible {ok}
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Ràpid
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Quant a
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Dispositius
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Per socis
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Aplicacions
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 No vull que se'm segueixi
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Mosaics
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Tauler d'interessos
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Necessiteu ajuda?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Notícies
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Per a desenvolupadors
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Troba el meu dispositiu
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Desenvolupadors
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Avisos legals
 # Used as link in the footer
 ;Cookies
 Galetes
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Col·laboradors del Firefox
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Format MPEG-4
 Mòbil
 
 
-;Check out the new look and feel of Firefox.
-Vegeu el nou aspecte del Firefox.
-
-
 ;View Full Site
 Versió sencera
 
 
-;Download for <span>Android</span>
-Baixa per a l'<span>Android</span>
-
-
 ;Desktop
 Escriptori
-
-
-;Firefox Beta for mobile
-Firefox Beta per a mòbils
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox per a mòbils
 
 ;Email
 Correu electrònic
-
-
-;Super speed
-Súper velocitat
-
-
-;Stunning graphics
-Gràfics impressionants
-
-
-;The latest technologies
-Les darreres tecnologies
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Us heu d'actualitzar! Navegueu de forma segura en menys d'un minut. <br/>Comenceu a utilitzar el nou Firefox per obtenir la millor experiència de navegació i personalització. <br/> És ràpid i de franc!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Missió
 Visita guiada
 
 
-# Footer item
-;Partner with Us
-Col·laboreu amb nosaltres
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Ajuda per a escriptori
 Suport per a l'Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Rendiment
-
-
-# Top menu item on firefox/update page
-;Technology
-Tecnologia
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Privadesa i seguretat
-
-
-# Top menu item on firefox/update page
 ;Releases
 Versions
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox per a organitzacions
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Complements per a mòbils
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Ajuda per a mòbil
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Quant al Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Uniu-vos a Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Participeu
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Voluntaris
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Eines de marca
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Socis
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Menú
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Compromès amb l'usuari, la privadesa i un web obert
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Trieu l'independent.
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-No perdeu la passió per un Internet lliure i obert! #ChooseIndependent. Trieu el Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ desembre
 <abbr>des</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Aviat arriba el Firefox a l'iOS!<a href="{url}">Registreu-vos per a més informació</a>.
-
-
 ;Congrats. You’re up to date!
 Felicitats, està actualitzat!
 
@@ -791,10 +577,6 @@ Assegureu-vos que introduïu una adreça electrònica vàlida.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Accepto que Mozilla gestioni la meva informació en els termes descrits en <a href="%s">la política de privadesa</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Accepto que Mozilla gestioni la meva informació en els termes descrits en <a href="%s">la Política de Privadesa</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Gràcies!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Si anteriorment no heu confirmat la subscripció a algun butlletí de notícies relacionat amb Mozilla, és possible que ho hàgiu de fer. Comproveu la safata d'entrada o el filtre de correu brossa per veure si hi ha algun missatge de Mozilla.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Gràcies! Comproveu la vostra bústia per confirmar la subscripció.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Rebreu un correu electrònic de mozilla@e.mozilla.org per confirmar la vostra subscripció. Si no el veieu, comproveu el filtre del correu brossa. Cal que confirmeu la subscripció per rebre el butlletí.
 
 
 ;Read all about it in our <span>newsletter</span>

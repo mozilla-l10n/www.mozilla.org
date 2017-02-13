@@ -2,81 +2,14 @@
 Nawigacija
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>za</span> Desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>za</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>za</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-Telewizija
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Sćehnjenja předwersijow
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Za desktopy a laptopy
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Za telefony a tablety
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Přehlad
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Dowěry hódny
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Fleksibelny
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Spěšny
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Wo nas
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Graty
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Za partnerow
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Nałoženja
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Do Not Track {ok}
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Kachlicy
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Přehlad zajimow
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Trjebaće pomoc?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Nowinki
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Za wuwiwarjow
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Mój grat namakać
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Wuwiwarjo
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Prawniske
 # Used as link in the footer
 ;Cookies
 Placki
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Partnerojo Firefox
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Format MPEG-4
 Mobilny
 
 
-;Check out the new look and feel of Firefox.
-Wuprobujće nowy napohlad a začuće Firefox.
-
-
 ;View Full Site
 Dospołne sydło sej wobhladać
 
 
-;Download for <span>Android</span>
-Sćehnjenje za <span>Android</span>
-
-
 ;Desktop
 Desktop {ok}
-
-
-;Firefox Beta for mobile
-Firefox Beta mobilny
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox mobilny
 
 ;Email
 E-mejl
-
-
-;Super speed
-Superspěšnosć
-
-
-;Stunning graphics
-Wulkotna grafika
-
-
-;The latest technologies
-Najnowše techniki
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Trjebaće aktualizaciju! Wostańće wěsty za mjenje hač jednu mjeńšinu. <br/> Wužijće nowy Firefox za najlěpše přehladowanje a přiměrjenje we webje. <br/> Je spěšny a darmotny!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Misija
 Tura
 
 
-# Footer item
-;Partner with Us
-Stańće so z našim partnerom
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Desktopowa podpěra
 Podpěra za Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Wukon
-
-
-# Top menu item on firefox/update page
-;Technology
-Technika
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Priwatnosć a wěstota
-
-
-# Top menu item on firefox/update page
 ;Releases
 Přepodaća
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox za organizacije
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Mobilne přidatki
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Mobilna podpěra
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Wo Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Přidružće so Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Wobdźělić so
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Dobrowólnik
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Brand Toolkit {ok}
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Partnerstwa
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Meni
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Wam, wašej priwatnosći a wotewrjenemu webej zawjazany
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Wubjerće njewotwisnje
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Dźeržće zahoritosć za swobodny a wotewrjeny internet so swětle palacy! #ChooseIndependent. Wubjerće Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ December {ok}
 <abbr>Dec</abbr> {ok}
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox budźe bórze na iOS! <a href="{url}">Zregistrujće so, zo byšće wjace zhonił</a>.
-
-
 ;Congrats. You’re up to date!
 Zbožopřeće. Sće aktualny!
 
@@ -790,10 +576,6 @@ Hopla! Přeswědčće so, zo sće płaćiwu e-mejlowu adresu zapodał.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Sym z tym přezjedny, kak Mozilla po <a href="%s">tutych prawidłach priwatnosće</a> z mojimi informacijemi wobchadźa
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 Sym z tym přezjedny, kak Mozilla po <a href="%s">tutych prawidłach priwatnosće</a> z mojimi informacijemi wobchadźa
 
 
@@ -840,16 +622,6 @@ Wulki dźak!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Jeli hišće njejsće abonement powěsćoweho lista Mozilla wobkrućił, dyrbiće to nětko činić. Prošu hladajće do dochadneje e-mejle abo papjernika za e-mejlku wot nas.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Wulki dźak! Prošu pohladajće do swojeho póstoweho kašćika, zo byšće swój abonement wobkrućił.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Dóstanjeće e-mejlku wot mozilla@e.mozilla.org, zo byšće swój abonement wobkrućił. Jeli ju njewidźiće, přepruwujće swój spamowy filter. Dyrbiće swój abonement wobkrućić, zo byšće naš powěsćowy list dóstał.
 
 
 ;Read all about it in our <span>newsletter</span>

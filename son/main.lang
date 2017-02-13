@@ -2,81 +2,14 @@
 Naaruyan
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-Ordinater <span>se</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-Android <span>se</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-iOS <span>se</span>
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-Teele
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Kaataray se jine zumandey
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Hugu nda kanbe ordinater se
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Talfon nda walha se
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Moo-daaru
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Naanante
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Baana
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Cahã
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Ga
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Jinawey
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Šettakašinawey se
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Porogaramey
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 War ši hanga agay
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Cenbey
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Nafaw goydoo zuu
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Ga baa faaba?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Alhabar
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Cinakey se
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Ay jinaa guna
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Cinakey
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Alhukum bande
 # Used as link in the footer
 ;Cookies
 Aleewawey
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox kondantey
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 takari
 Kanbehaya
 
 
-;Check out the new look and feel of Firefox.
-Firefox guna nda maate da kaŋ a ga taaga.
-
-
 ;View Full Site
 Interneti nungoo kul guna
 
 
-;Download for <span>Android</span>
-Zumandiyan <span>Android</span> se
-
-
 ;Desktop
 Ordinater
-
-
-;Firefox Beta for mobile
-Firefox Beta kanbe talfon se
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox kanbe talfon se
 
 ;Email
 Bataga
-
-
-;Super speed
-Cahãri šifante
-
-
-;Stunning graphics
-Kayfi bii takariyaŋ
-
-
-;The latest technologies
-Dabaribayray kokorantey
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-War ga hima ka taagandi! War boŋ saajandiyan ši too miniti ffo. <br/> Šintin ka goy nda Firefox taaga ka duu Interneti ceeciyan and boŋše-hanseyan felle. <br/>  Cahãnte nda forba!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Anniya
 Cebeyan
 
 
-# Footer item
-;Partner with Us
-Šettakašinay nd'iri
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Ordinater gaakašinay
 Android gaakašinay
 
 
-# Top menu item on firefox/update page
-;Performance
-Teeyan sahã
-
-
-# Top menu item on firefox/update page
-;Technology
-Dabaribayray
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Sutura nda saajaw
-
-
-# Top menu item on firefox/update page
 ;Releases
 Kaataray
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Goykondawey se
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Kanbe tontoney
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Kanbe gaakašinay
-
-
-# Top menu item on firefox/update page
 ;Blog
 Bulogu
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Firefox ga
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Huru Mozilla ra
-
-
-# Top menu item on firefox/update page
-;Participate
-Kanbe dam
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Faabakaw
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Haŋakaari goyjinay
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Goykašiney
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Wa tee faaba nda kanbuzaamay fondo booboyaŋ ra.
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 N'allahidu zaa war suturaa nda interneti feerante se
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Suuba boŋhangakaw
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Wa gaabandi nda huzum hala interneti ma cinda ka tee baytal feerante ! #ChooseIndependent. Firefox suuba:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Deesanbur
 <abbr>Des</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox ga kaa iOS ga kayna da! <a href="{url}">Hantum ka bay ka tonton</a>.
-
-
 ;Congrats. You’re up to date!
 Hoy-hoy! War n'a taagandi!
 
@@ -791,10 +577,6 @@ Aywaa! Alhakiika ka bataga aderesu boryo dam.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Ay ga yadda kaŋ Mozilla m'ay boŋ alhabarey ka goy <a href="%s">Sutura bayrandoo woo</a> bande
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Ay ga yadda kaŋ Mozilla m'ay boŋ alhabarey ka goy <a href="%s">Sutura laadaa woo</a> bande
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Foo nda goy!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Nda war mana bay ka war maa-hantumyanoo tabatandi ka duu Mozilla-misey tiiraa, war ga hima k'a tee. Ni duuyan bataa guna wala bataga žiiba dogoo ir batagaa se.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Foo nda goy! War duuyan bataa guna ka war maa-hantumoo tabatandi.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-War ga duu bataga ka hun mozilla@e.mozilla.org do ka war maa-hantumoo tabatandi. Nda war ši dii ya, war bataga žiiba gaŋaa guna. War maa-hantumoo mma hima ka tabatandi jina hala war ga duu ir alhabar batagaa.
 
 
 ;Read all about it in our <span>newsletter</span>

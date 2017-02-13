@@ -2,81 +2,14 @@
 Kundaha rendaite
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>g̃uarã</span> Mba'erechaha
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>g̃uarã</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>g̃uarã</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Mesa ariguápe g̃uarã ha, mohendaha mongu'ekuaáva
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Pumbyrýpe g̃uarã ha; tableta
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Marandu opavavépe g̃uarãva
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Jeroviaháva
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Ambuekuaáva
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Karu'i
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Rehegua
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Mba'e'oka
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Irũnguérape g̃uarã
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Tembipuru'i
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Ani rehapykue reka
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Verapy
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Techaha momorambýva
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Reikotevẽpa pytyvõ
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Marandu
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Mboguatahárape g̃uarã
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Aheka che mba'e'oka
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Mboguataha
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Añetegua
 # Used as link in the footer
 ;Cookies
 Kookie
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Reheguaite
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 ysaja
 Pumbyry popegua
 
 
-;Check out the new look and feel of Firefox.
-Ehechajey Firefox ra'ãnga ipyahúva.
-
-
 ;View Full Site
 Tenda tuichakue jehecha
 
 
-;Download for <span>Android</span>
-Emboguejy <span>Android</span>-pe g̃uarã
-
-
 ;Desktop
 Mba'erechaha
-
-
-;Firefox Beta for mobile
-Firefox Beta Android pe g̃uarã
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox pumbyry popeguápe g̃uarã
 
 ;Email
 Ñanduti veve
-
-
-;Super speed
-Ipya'etereíva
-
-
-;Stunning graphics
-Ta'ãnga techaramomby
-
-
-;The latest technologies
-Tembipurupyahu ramoguavéva
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-¡Eikotevẽ embohekopyahu! Embojerovia nde rekorosã eipurúvo peteĩ aravo'i añoite. <br/> Eñepyrũ eipuru nde Firefox pyahu ha eguerekóta kundaha iporãvéva ha ñanduti ñemomba'e. <br/> ¿Ipya'e ha reigua!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Tembipota
 Ñeg̃uahẽ ñanduti rupi
 
 
-# Footer item
-;Partner with Us
-Eiko ore irũramo
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Mbojuehe
@@ -483,79 +352,12 @@ Mba'erechaha pytyvõha
 Android pytyvõha
 
 
-# Top menu item on firefox/update page
-;Performance
-Mba'eaporã
-
-
-# Top menu item on firefox/update page
-;Technology
-Tembipurupyahu
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Ñemigua ha tekorosã
-
-
-# Top menu item on firefox/update page
 ;Releases
 Jekuaauka
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox atyguasúpe g̃uarã
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Moĩmbaha pumbyry popeguápe g̃uarã
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Ñepytyvõ pumbyry popeguápe g̃uarã
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Firefox rehegua
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Ejuaju Mozilla ndive
-
-
-# Top menu item on firefox/update page
-;Participate
-Eike pype
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Mba'aporei
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Aranduka'i marca rehegua
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Atyvusu
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Poravorã
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Oĩva nendive, nde rekorosã ha peteĩ ñanduti ijurujáva
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Eiporavo nde jehegui
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Ehecharamo tapia Ñanduti isãso ha ijurujáva #ChooseIndependent. Eiporavo Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Jasypakõi
 <abbr>Jasypakõi</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox ipya'eterei iOS-pe g̃uarã <a href="{url}">Eñemboheraguapy eikuaave hag̃ua</a>.
-
-
 ;Congrats. You’re up to date!
 Vy'apavẽ. Nde reime hi'araitépe!
 
@@ -791,10 +577,6 @@ HTML {ok}
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Aime porã marandu che Mozilla reheguápe oñemohesakãhápe <a href="%s">ko temiñemi purureko rehegua</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Thanks!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-¡Aguyje! Ikatúpiko ehecha nde jeikeha rendápe emoneĩ hag̃ua ne ñemboheraguapy.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Ndéve og̃uahẽta ñanduti veve mozilla@e.mozilla.org-gui emoneĩ hag̃ua ne ñemboheraguapy. Nderehecháiramo, ejeporeka ñandutiveve jepota'ỹva mboguahápe. Emoneĩva'erã ne ñemboheraguapy og̃uahẽ hag̃ua ndéve ore kuatiahai'i.
 
 
 ;Read all about it in our <span>newsletter</span>

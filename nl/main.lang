@@ -2,81 +2,14 @@
 Navigatie
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>voor</span> desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>voor</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>voor</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-Tv
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-releasedownloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Voor desktops &amp; laptops
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Voor telefoons &amp; tablets
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Overzicht
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Vertrouwd
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Flexibel
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Snel
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Over
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Apparaten
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Voor partners
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Apps {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Niet volgen
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Tegels
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Interessedashboard
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Hulp nodig?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Nieuws
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Voor ontwikkelaars
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Find My Device {ok}
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Ontwikkelaars
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Juridisch
 # Used as link in the footer
 ;Cookies
 Cookies {ok}
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates {ok}
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4-formaat
 Mobiel
 
 
-;Check out the new look and feel of Firefox.
-Probeer de nieuwe vormgeving van Firefox.
-
-
 ;View Full Site
 Volledige website bekijken
 
 
-;Download for <span>Android</span>
-Download voor <span>Android</span>
-
-
 ;Desktop
 Desktop {ok}
-
-
-;Firefox Beta for mobile
-Firefox Bèta voor mobiel
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox voor mobiel
 
 ;Email
 E-mail
-
-
-;Super speed
-Supersnelheid
-
-
-;Stunning graphics
-Spannende graphics
-
-
-;The latest technologies
-De nieuwste technologieën
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-U hebt een upgrade nodig! Blijf veilig in minder dan een minuut. <br/> Gebruik uw nieuwe Firefox om het beste op het gebied van browsen en aanpassen op het web te krijgen. <br/>   Het is snel en gratis!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Missie
 Rondleiding
 
 
-# Footer item
-;Partner with Us
-Partner worden
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Ondersteuning voor desktop
 Ondersteuning voor Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Prestaties
-
-
-# Top menu item on firefox/update page
-;Technology
-Technologie
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Privacy &amp; beveiliging
-
-
-# Top menu item on firefox/update page
 ;Releases
 Versies
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox voor organisaties
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Add-ons voor mobiel
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Ondersteuning voor mobiel
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Over Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Help Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Meewerken
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Word vrijwilliger
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Merktoolkit
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Partners
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Menu {ok}
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Toegewijd aan u, uw privacy en een open web
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Kies onafhankelijk
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Houd de passie voor een vrij en open internet brandend! #ChooseIndependent. Kies Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ december
 <abbr>dec</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Binnenkort komt Firefox naar iOS! <a href="{url}">Schrijf u in voor meer info</a>.
-
-
 ;Congrats. You’re up to date!
 Gefeliciteerd. U bent up-to-date!
 
@@ -791,10 +577,6 @@ Oeps! Zorg dat u een geldig e-mailadres invoert.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Ik ga akkoord met het gebruik van mijn gegevens door Mozilla, zoals uitgelegd in <a href="%s">deze privacyverklaring</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Ik ga akkoord met het gebruik van mijn gegevens door Mozilla, zoals uitgelegd in <a href="%s">dit privacybeleid</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Bedankt!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Als u nog niet eerder een inschrijving voor een Mozilla-gerelateerde nieuwsbrief hebt bevestigd, dient u dit mogelijk te doen. Controleer uw Postvak IN of uw spamfilter voor een e-mail van ons.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Bedankt! Controleer uw Postvak IN om uw inschrijving te bevestigen.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-U ontvangt een e-mailbericht van mozilla@e.mozilla.org om uw inschrijving te bevestigen. Als u dit niet ziet, controleer dan uw spamfilter. U moet uw inschrijving bevestigen om onze nieuwsbrief te ontvangen.
 
 
 ;Read all about it in our <span>newsletter</span>

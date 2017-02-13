@@ -2,81 +2,14 @@
 Menu di navigazione
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>per</span> desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>per</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>per</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Scarica versioni preliminari
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Per computer desktop e portatili
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Per cellulari e tablet
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Panoramica
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Affidabile
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Flessibile
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Veloce
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Informazioni
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Dispositivi
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Partner
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ App
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Antitracciamento
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Riquadri
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Interest Dashboard {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Hai bisogno d’aiuto?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Notizie
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Per gli sviluppatori
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Trova dispositivo
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Sviluppatori
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Note legali
 # Used as link in the footer
 ;Cookies
 Cookie
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates {ok}
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Formato MPEG-4
 Mobile {ok}
 
 
-;Check out the new look and feel of Firefox.
-Scopri il nuovo stile di Firefox.
-
-
 ;View Full Site
 Visualizza il sito completo
 
 
-;Download for <span>Android</span>
-Scarica per <span>Android</span>
-
-
 ;Desktop
 Desktop {ok}
-
-
-;Firefox Beta for mobile
-Firefox Beta per dispositivi portatili
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox per dispositivi portatili
 
 ;Email
 email
-
-
-;Super speed
-Velocità supersonica
-
-
-;Stunning graphics
-Grafica incredibile
-
-
-;The latest technologies
-Tecnologie all’avanguardia
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Hai bisogno di un aggiornamento! Meno di un minuto per la tua sicurezza. <br/> Navigazione sul Web e possibilità di personalizzazione ai massimi livelli grazie al nuovo Firefox. <br/> È veloce e gratuito.
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Missione
 Panoramica
 
 
-# Footer item
-;Partner with Us
-Diventa nostro partner
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Assistenza desktop
 Assistenza Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Prestazioni
-
-
-# Top menu item on firefox/update page
-;Technology
-Tecnologie
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Privacy e sicurezza
-
-
-# Top menu item on firefox/update page
 ;Releases
 Versioni
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox per le aziende
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Componenti aggiuntivi mobile
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Assistenza mobile
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Informazioni su Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Collabora con Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Partecipa
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Diventa un volontario
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Gestione marchi
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Diventa nostro partner
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Menu {ok}
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Impegnato a favore delle persone, della privacy e dell’open Web
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Scegli l’indipendenza
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Mantieni viva la passione per un Internet libero e aperto! #ChooseIndependent. Scegli Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Dicembre
 <abbr>Dic</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox sta per arrivare su iOS! <a href="{url}">Iscriviti alla newsletter per ricevere tutti gli aggiornamenti</a>.
-
-
 ;Congrats. You’re up to date!
 Complimenti. Stai utilizzando l’ultima versione disponibile.
 
@@ -790,10 +576,6 @@ Oops! Verifica di aver inserito un indirizzo email valido.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Acconsento al trattamento di queste informazioni secondo quanto indicato nell’<a href="%s">informativa sulla privacy</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 Acconsento al trattamento di queste informazioni secondo quanto indicato nell’<a href="%s">informativa sulla privacy</a>
 
 
@@ -840,16 +622,6 @@ Grazie.
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Potrebbe essere necessario confermare l’iscrizione se non sei già iscritto a una newsletter Mozilla. Verifica se c’è un nostro messaggio nella posta in arrivo o nello spam.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Grazie! Controlla la tua posta per confermare l’iscrizione.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Riceverai un’email da mozilla@e.mozilla.org per confermare la tua iscrizione, se non trovi questo messaggio controlla i tuoi filtri antispam. Per ricevere la nostra newsletter devi prima confermare l’iscrizione.
 
 
 ;Read all about it in our <span>newsletter</span>

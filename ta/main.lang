@@ -2,81 +2,14 @@
 திசையமைப்பு
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>திரை</span> கணினி
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>ஆண்ட்ராய்டு</span> பேசி
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>for</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-இயங்கு தளம்
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-திரைக்கணினிகள் &amp; மடிக்கணினிகள்
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-கைப்பேசிகள் &amp; கையடக்ககணினிகள்
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-மேலோட்டம்
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-நம்பகமானது
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-இலுகுவானது
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-வேகமானது
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 பற்றி
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-சாதனங்கள்
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-பங்குதாரர்கள்
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Apps
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 தடமறிய வேண்டாம்
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-டைல்ஸ்
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-விருப்பமான பக்கம்
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Apps
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 செய்திகள்
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-உருவாக்குநர்கள்
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-சாதனத்தைக் கண்டறி
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-வல்லுநர்கள்
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Page language:
 # Used as link in the footer
 ;Cookies
 நினைவிகள்
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox இணையாளர்கள்
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 வடிவம்
 மொபைல்
 
 
-;Check out the new look and feel of Firefox.
-Firefox இன் புதிய பார்வையை பாருங்கள்.
-
-
 ;View Full Site
 முழு தளத்தை பார்க்கவும்
 
 
-;Download for <span>Android</span>
-<span>Android</span>க்கு பதிவிறக்கு
-
-
 ;Desktop
 கணினி
-
-
-;Firefox Beta for mobile
-கைபேசிக்கான Firefox Beta
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox இன் புதிய பார்வையை பாருங்க
 
 ;Email
 மின்னஞ்சல்
-
-
-;Super speed
-அதிக வேகம்
-
-
-;Stunning graphics
-பிரமிக்கத்தக்க கிராபிக்ஸ்
-
-
-;The latest technologies
-புதிய தொழில்நுட்பம்
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-உங்களுக்கு புதுபித்தல் தேவைபடுகிறது! ஒரு நிமிடத்திற்கும் குறைவான நேரத்தில் பாதுகாப்பை பெறுங்கள். <br/> சிறந்த உலாவுதல் மற்றும் வலை விருப்பமைக்கு உங்கள் புதிய Firefoxஐ பயன்படுத்த துவங்குகள். <br/>   இது வேகமானது மற்றும் இலவசமானது!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ mozilla.org இல் உள்ள சில உள்ளடக்கங்க�
 உலா
 
 
-# Footer item
-;Partner with Us
-எங்களுடன் பங்காளியாகு
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 ஒத்திசை
@@ -483,79 +352,12 @@ mozilla.org இல் உள்ள சில உள்ளடக்கங்க�
 ஆண்ட்ராய்டு ஆதரவு
 
 
-# Top menu item on firefox/update page
-;Performance
-செயல்திறன்
-
-
-# Top menu item on firefox/update page
-;Technology
-தொழில்நுட்பம்
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-தனி உரிமை &amp; பாதுகாப்பு
-
-
-# Top menu item on firefox/update page
 ;Releases
 வெளியீடுகள்
 
 
-# Top menu item on firefox/update page
-;Firefox
-பயர்பாக்ஸ்
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-நிறுவனங்களுக்கான பயர்பாக்ஸ்
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-செல்பேசியின் கூடுதல் இணைப்புகள்
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-செல்பேசிக்கான ஆதரவு
-
-
-# Top menu item on firefox/update page
 ;Blog
 வலைப்பூ
-
-
-# Top menu item on firefox/update page
-;About Firefox
-பயர்பாக்ஸ் பற்றி
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Mozilla இல் சேரவும்
-
-
-# Top menu item on firefox/update page
-;Participate
-பங்கெடுக்கவும்
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-தன்னார்வலர்
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-பிராண்ட் கருவிகள்
-
-
-# Top menu item on firefox/update page
-;Partnerships
-பங்காளித்தனங்கள்
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Patents
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 ஒரு திறந்த இணையத்தை உங்களுக்கும் உங்களுடைய தனியுரிமைக்கும் உறுதியளிக்கிறது
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-தனித்ததை தேர்ந்தெடு
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-கட்டற்ற திறந்த இணையம் சுடர்விட இந்த மோகத்தை தொடர்ந்து வைத்திரு! #ChooseIndependent. பயர்பாக்ஸை தேர்வுச்செய்யவும்:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Firefox உதவி
 <abbr>டிச</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-பயர்பாக்ஸ் விரைவில் iOS இயங்குதளத்திற்கு வரவிருக்கிறது! <a href="{url}">மேலும் அறிய உள்நுழையவும்</a>.
-
-
 ;Congrats. You’re up to date!
 Congrats. You’re up to date!
 
@@ -791,10 +577,6 @@ HTML
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Thanks!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-நன்றி! சந்தாவை உறுதிப்படுத்த தயவுசெய்து உங்கள் அஞ்சல் பெட்டியைப் பாருங்கள்.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-உங்களுக்கு mozilla@e.mozilla.org என்ற முகவரியில் இருந்து உங்கள் சந்தாவை உறுதிப்படுத்தும் மின்னஞ்சல் வரும். உங்களுக்கு அது கிடைக்கவில்லை என்றால் உங்கள் தேவையற்ற மின்னஞ்சல் வடிப்பானை சரிபார்க்கவும். செய்தி மடலைப் பெற நீங்கள் சந்தாவை கட்டாயம் உறுதிப்படுத்தியாக வேண்டும்.
 
 
 ;Read all about it in our <span>newsletter</span>

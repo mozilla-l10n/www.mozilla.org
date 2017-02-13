@@ -2,81 +2,14 @@
 Llywio
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>ar gyfer y</span> Bwrdd Gwaith
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>ar gyfer </span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>ar gyfer</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-Teledu
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Fersiynau cyn eu ryddhau
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Ar gyfer cyfrifiaduron bwrdd gwaith a gliniaduron
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Ar gyfer ffonau a thabledi
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Trosolwg
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Ymddiriedaeth
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Hyblygrwydd
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Cyflymder
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Ynghylch
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Dyfeisiadau
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Ar gyfer partneriaid
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Apiau
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Dim Tracio
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Teils
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Bwrdd Gwaith Diddordeb
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Angen cymorth?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Newyddion
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Ar gyfer datblygwyr
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Canfod fy Nyfais
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Datblygwyr
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Cyfreithiol
 # Used as link in the footer
 ;Cookies
 Cwcis
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Cysyllteion Firefox
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Fformat MPEG-4
 Symudol
 
 
-;Check out the new look and feel of Firefox.
-Defnyddiwch Firefox ar ei newydd wedd.
-
-
 ;View Full Site
 Gweld y Wefan Gyfan
 
 
-;Download for <span>Android</span>
-Llwytho i lawr ar gyfer <span>Android</span>
-
-
 ;Desktop
 Bwrdd Gwaith
-
-
-;Firefox Beta for mobile
-Firefox Beta ar gyfer ffonau symudol
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox ar gyfer ffonau symudol
 
 ;Email
 E-bost
-
-
-;Super speed
-Cyflym iawn
-
-
-;Stunning graphics
-Graffigau trawiadol
-
-
-;The latest technologies
-Y technolegau diweddaraf
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Mae angen diweddariad arnoch! Cadwch yn ddiogel mewn llai na munud. <br/> Cychwynnwch ddefnyddio eich Firefox newydd i gael y pori a'r cyfaddasu gorau ar y We. <br/>   Mae'n gyflym ac am ddim!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Amcan
 Cyflwyniad
 
 
-# Footer item
-;Partner with Us
-Partneru gyda Ni
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Cydweddu
@@ -483,79 +352,12 @@ Cynnal y Bwrdd Gwaith
 Cefnogaeth Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Perfformiad
-
-
-# Top menu item on firefox/update page
-;Technology
-Technoleg
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Preifatrwydd a Diogelwch
-
-
-# Top menu item on firefox/update page
 ;Releases
 Rhyddhau
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox far gyfer Cyrff
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Ychwanegion Symudol
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Cynnal y Symudol
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Ynghylch Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Ymuno â Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Cymryd Rhan
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Gwirfoddoli
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Offer Nod Masnach
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Partneriaethau
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Dewislen
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Yn ymroddedig i chi, eich preifatrwydd ac i'r We agored
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Dewiswch Annibynnol
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Cadwch y brwdfrydedd am ryngrwyd rhydd ac agored yn fyw! #ChooseIndependent. Dewiswch Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Rhagfyr
 <abbr>Rha</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Mae Firefox y dod i iOS cyn bo hir! <a href="{url}">Dysgu rhagor</a>.
-
-
 ;Congrats. You’re up to date!
 Llongyfarchiadau. Rydych yn gyfredol!
 
@@ -791,10 +577,6 @@ Wps! Cofiwch roi cyfeiriad e-bost dilys.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Rwy'n fodlon i Mozilla drin fy manylion fel mae'n cael ei esbonio yn y <a href="%s">Datganiad Preifatrwydd hwn</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Rwy'n fodlon i Mozilla drin fy ngwybodaeth fel mae'n cael ei esbonio yn <a href="%s">y polisi Preifatrwydd hwn</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Diolch!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Os nad ydych eisoes wedi cadarnhau tanysgrifiad i gylchlythyr y perthyn i Mozilla, rhaid i chi wneud hynny nawr. Gwiriwch eich blwch i mewn neu eich hidl sbam am e-bost gennym ni.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Diolch! Gwiriwch eich Blwch Derbyn i gadarnhau eich tanysgrifiad.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Byddwch yn derbyn e-bost oddi wrth mozilla@e.mozilla.org i gadarnhau eich tanysgrifiad. Os nad yw i'w weld, gwiriwch eich hidl sbam. Rhaid i chi gadarnhau eich tanysgrifiad er mwyn derbyn y newyddlen.
 
 
 ;Read all about it in our <span>newsletter</span>

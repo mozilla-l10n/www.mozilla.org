@@ -2,81 +2,14 @@
 नेभिगेशन
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-डेस्कटपका <span>लागि</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-Android का <span>लागि</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-iOS का <span>लागि</span>
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-टिभि
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 प्री-रिलिज डाउनलोडहरू
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-डेस्कटपहरू र ल्यापटपहरूका लागि
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-फोनहरू र ट्याब्लेटहरूका लागि
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-समीक्षा
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-विश्वास गरिएको
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-लचिलो
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-छिटो
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 बारेमा
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-यन्त्रहरू
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-पार्टनरहरूका लागि
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ OS {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Do Not Track {ok}
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-टायलहरू
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Interest Dashboard {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Developer Edition {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 समाचारहरू
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-बिकासकर्ताकाहरूका लागि
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-मेरो यन्त्र खोज्नुहोस्
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-विकासकर्ताहरू
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Mozilla को बारेमा
 # Used as link in the footer
 ;Cookies
 कुकिज
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates {ok}
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 format {ok}
 मोबाइल
 
 
-;Check out the new look and feel of Firefox.
-Firefox को नया रूप चलाउनुहोस्।
-
-
 ;View Full Site
 पुरा साइट हेर्नुहोस्
 
 
-;Download for <span>Android</span>
-<span>Android</span> को लागि डाउनलोड गर्नुहोस्
-
-
 ;Desktop
 डेस्कटप
-
-
-;Firefox Beta for mobile
-मोबाइलको लागि Firefox Beta
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox को नया रूप चलाउनुहोस्।
 
 ;Email
 इमेल
-
-
-;Super speed
-Super speed {ok}
-
-
-;Stunning graphics
-राम्रो ग्राफिक्स
-
-
-;The latest technologies
-पछिल्ला प्रविधिहरु
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-तपाईँलाई अद्यावधिक चाहिन्छ! एक मिनेट भन्दा पनि कममा सुरक्षित रहनुहोस्। <br/> ब्राउजिङ्ग र अनुकुलन मा सर्वोत्तम, अाफ्नो नयाँ Firefox चलाउन थाल्नुहोस। <br/>   यो छिटो र निःशुल्क छ!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ mozilla.org का व्यक्तिगत योगदानकर्ता
 Tour {ok}
 
 
-# Footer item
-;Partner with Us
-हामिसंग साझेदारी गर्नुहोस्
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Desktop साहयता
 Android साहयता
 
 
-# Top menu item on firefox/update page
-;Performance
-प्रदर्शन
-
-
-# Top menu item on firefox/update page
-;Technology
-प्रबिधि
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-गोपनीयता र सुरक्षा
-
-
-# Top menu item on firefox/update page
 ;Releases
 जारी
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-संघ संस्थाहरुका लागि Firefox
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-मोबाइल एड-अनहरू
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-मोबाइल साहयता
-
-
-# Top menu item on firefox/update page
 ;Blog
 ब्लग
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Firefox को बारेमा
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Mozilla मा सहभागी हुनुहोस्
-
-
-# Top menu item on firefox/update page
-;Participate
-सहभागी
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-स्वयंसेवक
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Brand Toolkit {ok}
-
-
-# Top menu item on firefox/update page
-;Partnerships
-साझेदारीहरू
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Facebook मा Firefox
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 तपाईँ, तपाईँको गोपनीयता र खुल्ला वेबमा प्रतिबद्ध
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-स्वतन्त्रता छान्नुहोस्
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox: {ok}
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Firefox सहयोग
 <abbr>डिसेम्बर</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox iOS मा अाउँदैै छ! <a href="{url}">अझ जान्न खाता खोल्नुहोस्</a>।
-
-
 ;Congrats. You’re up to date!
 बधाई छ। तपाई अद्यावधिक हुनुहुन्छ!
 
@@ -790,10 +576,6 @@ HTML {ok}
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-यस <a href="%s">गोपनियाता सुचना</a> मा भनिए अनुसार Mozilla ले मेरो जानकारी सम्हाल्दा मलाई कुनै समस्या छैन।
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 यस <a href="%s">गोपनियाता सुचना</a> मा भनिए अनुसार Mozilla ले मेरो जानकारी सम्हाल्दा मलाई कुनै समस्या छैन।
 
 
@@ -840,16 +622,6 @@ Firefox को समाचार प्राप्त गर्नुहोस
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 यदि तपाईँले पहिले नै Mozilla संग सम्बन्धित समाचारपत्र को सदस्यता पक्का गर्नुएको छैन भने तपाईँले सो गर्नुपर्ने हुन सक्छ। कृपया अाफ्नो इमेल खातामा हामिबाट अाएको इमेल खोज्नुहोस्।
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-धन्यबाद! कृपया सदस्यता पक्का गर्न अाफ्नो इमेल खाता हेर्नुहोस्।
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-सदस्यता पक्का गर्नको निमित्त तपाईँले mozilla@e.mozilla.org बाट एक इमेल पाउनुहुनेछ। यदि तपाईँले सो देख्नुभएन भने, अाफ्नो spam filter जाँच्नुहोस्। हाम्रो समाचारपत्र पाउन तपाईँले सदस्यता पक्का गर्नु जरुरी छ।
 
 
 ;Read all about it in our <span>newsletter</span>

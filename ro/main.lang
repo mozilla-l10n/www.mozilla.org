@@ -2,81 +2,14 @@
 Navigare
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>pentru</span> desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>pentru</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>pentru</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-Sistem de operare
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Descărcări înainte de lansare
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Pentru calculatoare și laptopuri
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Pentru telefoane și tablete
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Prezentare generală
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-De încredere
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Flexibil
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Rapid
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Despre
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Dispozitive
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Pentru parteneri
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Aplicații
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Nu mă urmări
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Miniaturi
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Tabloul intereselor mele
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Ai nevoie de ajutor?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Știri
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Pentru dezvoltatori
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Găsește-mi dispozitivul
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Dezvoltatori
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Mențiuni legale
 # Used as link in the footer
 ;Cookies
 Cookie-uri
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Afiliați Firefox
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ Format MPEG-4
 Mobil
 
 
-;Check out the new look and feel of Firefox.
-Încearcă noul aspect al Firefox.
-
-
 ;View Full Site
 Vezi site-ul complet
 
 
-;Download for <span>Android</span>
-Descarcă pentru <span>Android</span>
-
-
 ;Desktop
 Desktop {ok}
-
-
-;Firefox Beta for mobile
-Firefox Beta pentru mobil
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox pentru mobil
 
 ;Email
 E-mail
-
-
-;Super speed
-Superviteză
-
-
-;Stunning graphics
-Grafică uimitoare
-
-
-;The latest technologies
-Cele mai noi tehnologii
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Ai nevoie de o actualizare! Vei fi în siguranță în mai puțin de un minut. <br/> Începe să folosești noul Firefox pentru cea mai bună navigare și personalizare pe web. <br/>   Este rapid și gratuit!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Misiune
 Tur
 
 
-# Footer item
-;Partner with Us
-Devino partenerul nostru
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sincronizare
@@ -483,79 +352,12 @@ Suport desktop
 Suport Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Performanță
-
-
-# Top menu item on firefox/update page
-;Technology
-Tehnologie
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Confidențialitate și securitate
-
-
-# Top menu item on firefox/update page
 ;Releases
 Lansări
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox pentru organizații
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Suplimente pentru mobil
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Suport mobil
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Despre Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Alătură-te Mozillei
-
-
-# Top menu item on firefox/update page
-;Participate
-Participă
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Fii voluntar
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Unelte pentru brand
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Parteneriate
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Meniu
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Creat pentru tine, pentru confidențialitatea ta și pentru un web deschis
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Alege independent
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Menține vie flacăra pasiunii pentru internetul liber și deschis! #ChooseIndependent. Alege Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Decembrie
 <abbr>Dec</abbr> {ok}
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox vine în curând pe iOS! <a href="{url}">Înregistrează-te pentru a afla mai multe</a>.
-
-
 ;Congrats. You’re up to date!
 Felicitări. Deții cea mai nouă versiune!
 
@@ -791,10 +577,6 @@ Ups! Asigură-te că introduci o adresă de e-mail validă.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Sunt de acord ca Mozilla să-mi gestioneze informațiile conform cu <a href="%s">această notificare privind confidențialitatea</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Sunt de acord cu folosirea informațiilor mele de către Mozilla așa cum se explică în <a href="%s">acestă Politică de confidențialitate</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Mulțumim!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 S-ar putea să trebuiască să confirmi abonamentul la un buletin informativ Mozilla dacă nu ai făcut asta deja. Te rugăm să verifici căsuța de e-mail cu mesaje primite sau dosarul de spam pentru a găsi e-mail-ul de la noi.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Îți mulțumim! Te rugăm să verifici e-mailul pentru a confirma abonarea.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Vei primi un e-mail din partea mozilla@e.mozilla.org pentru a putea confirma abonarea. Dacă nu vezi mesajul, verifică filtrul de spam. Trebuie să confirmi abonarea pentru a primi buletinul nostru de știri.
 
 
 ;Read all about it in our <span>newsletter</span>

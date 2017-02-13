@@ -2,81 +2,14 @@
 نیویگیشن
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>برائے</span>ڈیسک ٹاپ
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>برائے</span>اینڈرائڈ
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-iOS <span>کے لئے</span>
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-ٹی وی
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 اجرا سے پہلے کی ڈاؤن لوڈ
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-برائے ڈیسک ٹاپس &amp; اور لیپ ٹاپس
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-ٹیبلیٹ &amp; فون کے لئے
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-عمومی جائزہ
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-اعتماد شدہ
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-لچکدار
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-تیز
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 بارے میں
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-آلات
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-ساتھی کے لئے
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ OS {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 ٹریک مت کریں
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-ٹائلیں
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-دلچسپی کا ڈیشبورڈ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ OS {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 خبریں
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-ڈیولپرز کے لیے
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-میرا آلہ تلاش کریں
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-ڈیولپر
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ OS {ok}
 # Used as link in the footer
 ;Cookies
 کوکیاں
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox افلیئٹس
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 فارمیٹ
 موبایل
 
 
-;Check out the new look and feel of Firefox.
-فایر فاکس کی جدید وضع قطع کو چیک کریں۔
-
-
 ;View Full Site
 پوری سائٹ دیکھیں
 
 
-;Download for <span>Android</span>
-ڈاؤن لوڈ کریں <span>Android</span> کے لیے
-
-
 ;Desktop
 ڈیسک ٹاپ
-
-
-;Firefox Beta for mobile
-فایر فاکس بی ٹا موبایل کے لیے
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ MPEG-4 فارمیٹ
 
 ;Email
 ای میل
-
-
-;Super speed
-تیز رفتار
-
-
-;Stunning graphics
-حیرت ینگیز گرافکس
-
-
-;The latest technologies
-جدید ٹیکنالوجیز
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-اپکو درجہ افزاں کرنے کی ٖضرورت ہے! محفوض رہیں ایک سے بھی کم منٹ میں۔ <br/>اپنا نیا فایر فاکس استمال کریں بہترین براؤزنگ اور تخصیص کاری کے لیے۔<br/>
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ MPEG-4 فارمیٹ
 سیر
 
 
-# Footer item
-;Partner with Us
-ہمارے ساتھ شریک ہوں
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 ہمہ وقت سازی
@@ -483,79 +352,12 @@ Android کے اظافہ-جات
 Android کا تعاون
 
 
-# Top menu item on firefox/update page
-;Performance
-سرانجام دہی
-
-
-# Top menu item on firefox/update page
-;Technology
-ٹیکنالوجی
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-نجی نوعیت ;amp& سلامتی
-
-
-# Top menu item on firefox/update page
 ;Releases
 اجرا
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-تنظیموں کے لیے Firefox
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-موبائل ایڈ اون
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-موبائل معاونت
-
-
-# Top menu item on firefox/update page
 ;Blog
 بلاگ
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Firefox کے بارے میں
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Mozilla کا حصہ بنیں
-
-
-# Top menu item on firefox/update page
-;Participate
-شمولیت
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-رضاکار
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-برانڈ ٹول کٹ
-
-
-# Top menu item on firefox/update page
-;Partnerships
-حصہ داری
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Mozilla Facebook پر
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 آپ، آپ کی رازداری اور ایک کھلی ویب لئے مصروف عمل
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-غیر تابع کا انتخاب کریں
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-مفت اور کھلے انٹرنیٹ کے لیے اپنے جذبہ کو روشن برقرار رکھیں#ChooseIndependent۔ Firefox چنیں:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Firefox مدد
 <abbr>دسمبر</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox جلد آرہا ہے iOS! پر <a href="{url}">مزید سکھنے کے لیئے سائن اپ کریں</a>۔
-
-
 ;Congrats. You’re up to date!
 مبارک ہو۔ آپ اپڈیٹ ہے!
 
@@ -791,10 +577,6 @@ HTML {ok}
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 میں Mozilla سے میری زاتی جانکاری ہینڈل کرنے میں صحمت ہوں جیسا کی <a href="%s">رازداری نوٹس</a> میں وضاحت کیا ہوا ہے
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-میں Mozilla سے میری زاتی جانکاری ہینڈل کرنے میں صحمت ہوں جیسا کی <a href="%s">رازداری پولیسی</a> میں وضاحت کیا ہوا ہے
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Firefox خبریں حاصل کریں
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 اگر آپ نے پہلے Mozilla-related نیوز لیٹر کی رکنیت کی تصدیق نھیں کی تو ھو سکتا ھے اپکو کرنی پڑے۔ براہ مہربانی اپنے آمد خانہ کی پڑتال کریں یا ھماری طرف سے ایک ای میل کو اپنے سپیم فلٹر میں۔
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-شکریہ! اپنی رکنیت تصدیق کرنے کے لیے اپنا ان باکس چیک کریں۔
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-آپ کو اپنی رکنیت تصدیق کرنے کے لیے mozilla@e.mozilla.org کی طرف سے ایک ای میل ملے گی۔ اگر آپ کو نہیں مل رہی تو اپنا بے کار ڈاک فلٹر چیک کریں۔ نیوز لیٹر وصول کرنے کے لیے آپ کو رکنیت کی تصدیق کرنا ضروری ہے۔
 
 
 ;Read all about it in our <span>newsletter</span>

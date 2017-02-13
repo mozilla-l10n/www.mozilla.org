@@ -2,81 +2,14 @@
 Navigáció
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>asztali számítógépre</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>Androidra</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>iOS-re</span>
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Előzetes kiadású letöltések
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Asztali gépekre és laptopokra
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Telefonokra és tabletekre
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Áttekintés
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Megbízható
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Rugalmas
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Gyors
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Bemutatkozás
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Készülékek
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Partnereknek
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Appok
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Ne kövessenek
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Csempék
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Érdeklődés vezérlőpult
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Segítségre van szüksége?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Hírek
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Fejlesztőknek
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Eszközkereső
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Fejlesztők
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Jogi információk
 # Used as link in the footer
 ;Cookies
 Sütik
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox barátai
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 formátum
 Mobil
 
 
-;Check out the new look and feel of Firefox.
-Tekintse meg az új megjelenésű Firefox böngészőt.
-
-
 ;View Full Site
 Teljes oldal megtekintése
 
 
-;Download for <span>Android</span>
-Letöltés <span>Androidra</span>
-
-
 ;Desktop
 Számítógép
-
-
-;Firefox Beta for mobile
-Firefox Beta for mobile {ok}
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox for mobile {ok}
 
 ;Email
 E-mail
-
-
-;Super speed
-Szupergyors
-
-
-;Stunning graphics
-Lenyűgöző grafika
-
-
-;The latest technologies
-A legújabb technológiák
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Frissítésre van szüksége! Maradjon biztonságban. <br/> Használja az új Firefoxot, amely a legjobb a böngészésben és az internet testreszabásában. <br/>   Gyors és ingyenes!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Küldetés
 Bemutató
 
 
-# Footer item
-;Partner with Us
-Partnereink
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
@@ -483,79 +352,12 @@ Támogatás
 Android támogatás
 
 
-# Top menu item on firefox/update page
-;Performance
-Teljesítmény
-
-
-# Top menu item on firefox/update page
-;Technology
-Technológia
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Adatvédelem és biztonság
-
-
-# Top menu item on firefox/update page
 ;Releases
 Kiadások
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox szervezeteknek
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Mobil kiegészítők
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Mobil támogatás
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Firefox névjegye
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Csatlakozás
-
-
-# Top menu item on firefox/update page
-;Participate
-Közreműködés
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Vegyen részt!
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Arculati eszköztár
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Partnerkapcsolatok
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Menü
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Nekünk a felhasználók, az adatvédelem és a nyílt internet a fontos
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Válassza a függetlenséget
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Lángoljon tovább a szabad és nyílt internet iránti szenvedély! #ChooseIndependent. Válaszd a Firefoxot:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ December {ok}
 <abbr>Dec.</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-A Firefox hamarosan megérkezik iOS-re! <a href="{url}">Iratkozzon fel további hírekért</a>.
-
-
 ;Congrats. You’re up to date!
 Gratulálunk, a legfrissebb verziót használja!
 
@@ -791,10 +577,6 @@ Hoppá! Győződjön meg róla, hogy jó e-mail címet adott-e meg.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Elfogadom, hogy a Mozilla az <a href="%s">adatvédelmi nyilatkozatnak</a> megfelelően kezelje az adataimat
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Elfogadom, hogy a Mozilla az <a href="%s">adatvédelmi irányelveknek</a> megfelelően kezelje az adataimat
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Köszönjük!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Ha korábban nem erősítette meg a Mozillához kapcsolódó hírlevél feliratkozását, akkor lehet hogy meg kell tennie. Ellenőrizze a Beérkezett üzenetek mappáját vagy a spam-szűrőjét az e-mailünk után.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Köszönjük! Keresse meg postafiókjában a jóváhagyó levelet.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-A jóváhagyó levél a mozilla@e.mozilla.org e-mail címről fog érkezik. Amennyiben nem találja, nézzen szét a levélszemét között. Ahhoz, hogy hírlevelet kapjon, jóvá kell hagynia a feliratkozást.
 
 
 ;Read all about it in our <span>newsletter</span>

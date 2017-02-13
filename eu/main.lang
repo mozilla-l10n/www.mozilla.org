@@ -2,81 +2,14 @@
 Nabigazioa
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-Mahaigain<span>erako</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-Android<span>erako</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-iOS<span>erako</span>
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TB
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Aurreargitalpen deskargak
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-Mahaigaineko eta eramangarrietarako
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-Mugikor eta tabletetarako
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Sarrera
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Fidagarria
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Malgua
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Bizkorra
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Honi buruz
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Gailuak
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-Bazkideentzat
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Aplikazioak
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Do Not Track {ok}
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Mosaikoak
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-Zaletasunen aginte-panela
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Laguntza bila?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Albisteak
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Garatzaileentzat
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Aurkitu nire gailua
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Garatzaileentzat
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Lege-oharra
 # Used as link in the footer
 ;Cookies
 Cookieak
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefoxen bazkideak
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 formatua
 Mugikorra
 
 
-;Check out the new look and feel of Firefox.
-Egiaztatu zuk zeuk Firefoxen itxura berria.
-
-
 ;View Full Site
 Ikusi gune osoa
 
 
-;Download for <span>Android</span>
-Deskargatu <span>Android</span>erako
-
-
 ;Desktop
 Mahaigainekoa
-
-
-;Firefox Beta for mobile
-Firefox Beta mugikorrerako
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Firefox mugikorrerako
 
 ;Email
 Posta
-
-
-;Super speed
-Super-abiadura
-
-
-;Stunning graphics
-Grafiko txundigarriak
-
-
-;The latest technologies
-Azken teknologiak
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Bertsio-berritzea behar duzu! Babestu zaitez di-da batean. <br/> Hasi Firefox berria erabiltzen Webeko nabigatze eta pertsonalizazio hoberena izateko. <br/> Azkarra eta doakoa da!
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Misioa
 Aurkezpena
 
 
-# Footer item
-;Partner with Us
-Egin bazkide
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sinkronizatu
@@ -483,79 +352,12 @@ Mahaigainerako laguntza
 Androiderako laguntza
 
 
-# Top menu item on firefox/update page
-;Performance
-Errendimendua
-
-
-# Top menu item on firefox/update page
-;Technology
-Teknologia
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Pribatutasuna eta segurtasuna
-
-
-# Top menu item on firefox/update page
 ;Releases
 Bertsioak
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox erakundeentzako
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Mugikorrerako gehigarriak
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Mugikorrerako laguntza
-
-
-# Top menu item on firefox/update page
 ;Blog
 Bloga
-
-
-# Top menu item on firefox/update page
-;About Firefox
-Firefoxi buruz
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Batu Mozillara
-
-
-# Top menu item on firefox/update page
-;Participate
-Hartu parte
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Egin boluntario
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Marka eta estiloa
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Bazkideak
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Menua
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Zurekin, pribatutasunarekin eta Web irekiarekin konprometitua
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Aukeratu independentzia
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Mantendu Internet libre eta irekiaren grina bizi-bizi! #ChooseIndependent. Aukeratu Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Abendua
 <abbr>Abe</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Laster Firefox iOS-era helduko da! <a href="{url}">Harpidetu gehiago jakiteko</a>.
-
-
 ;Congrats. You’re up to date!
 Bejondeizula. Egunean zaude!
 
@@ -791,10 +577,6 @@ Hara! Egiaztatu baliozko e-posta helbide bat sartu duzula.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 Onartzen dut Mozillak nire informazioa <a href="%s">pribatutasun-ohar honetan</a> azaldu bezala kudeatzea
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Onartzen dut Mozillak nire informazioa <a href="%s">pribatutasun-politika honetan</a> azaldu bezala kudeatzea
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ Milesker!
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Ez baduzu inoiz berretsi Mozillarekin lotutako berripaper baterako harpidetzarik, orain egin beharko duzu. Begiratu zure sarrera-ontzian edo zabor-postan gure mezua aurkitzeko.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Milesker! Egiaztatu zure sarrera-ontzia harpidetza berretsi ahal izateko.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Mezu bat jasoko duzu mozilla@e.mozilla.org helbidetik harpidetza berresteko. Ez baduzu aurkitzen, egiaztatu zabor-postaren iragazkia. Gure berripapera jasotzeko harpidetza berretsi behar duzu.
 
 
 ;Read all about it in our <span>newsletter</span>

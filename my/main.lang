@@ -2,81 +2,14 @@
 လမ်းညွှန်
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-ဒတ်စတောခ့် <span>အတွက်</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-Android <span>အတွက်</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-iOS <span>အတွက်</span>
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-တီဗွီ
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-ဒတ်စတောခ့် &amp; လပ်တော့ပ်များ အတွက်
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-ဖုန်းများ &amp; တပ်ဗလပ်များ အတွက်
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-ခြုံငုံသုံးသပ်ချက်
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-ယုံကြည်ထားသော
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-ပြောင်းလွှဲနိုင်သော
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-လျင်မြန်သော
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 အကြောင်းအရာ
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-ကိရိယာများ
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-မိတ်ဆွေများအတွက်
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,17 +20,6 @@ Pre-release downloads
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 နောက်ယောင်မခံပါနှင့်
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-အခင်းအကျင်းများ
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-;Interest Dashboard
-စိတ်ဝင်စားမှုပြ ဘုတ်
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +40,6 @@ Developer သုံးဗားရှင်း
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 သတင်း
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-Developer များအတွက်
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-ကျွနု်ပ်၏ကိရိယာအားရှာပါ
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Developers {ok}
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +129,6 @@ Developers {ok}
 # Used as link in the footer
 ;Cookies
 ကွတ်ကီးများ
-
-
-# Used as link in the footer
-;Firefox Affiliates
-မီးမြေခွေး ကိုယ်စားလှယ်များ
 
 
 ;Legal Notices
@@ -357,24 +259,12 @@ MPEG-4 format {ok}
 မိုဘိုင်း
 
 
-;Check out the new look and feel of Firefox.
-အသစ်ထွက် ဒီဇိုင်းနဲ့အပြင်အဆင်ကို ကြည့်လိုက်ပါ
-
-
 ;View Full Site
 ဝတ်ဆိုဒ်ကိုကြည့်
 
 
-;Download for <span>Android</span>
-<span>Android</span>အတွက်ဒေါင်းလုဒ်ယူပါ
-
-
 ;Desktop
 Desktop {ok}
-
-
-;Firefox Beta for mobile
-မိုဘိုင်းအတွက် မီးမြေခွေးဘီတာ
 
 
 ;Firefox for mobile
@@ -383,22 +273,6 @@ Desktop {ok}
 
 ;Email
 အီးမေလ်း
-
-
-;Super speed
-အလျှင်မြန်ဆုံး
-
-
-;Stunning graphics
-မှင်သက်လောက်စေတဲ့ပုံရိပ်
-
-
-;The latest technologies
-နောက်ဆုံးပေါ်နည်းပညာများ
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-အဆင့်မြှင့်ဖို့လိုနေပြီ! မိနစ်ပိုင်းအတွက် လုံခြုံသွားအောင်လုပ်လိုက်ပါ။<br/>ဝတ်ပေါ်တွင် ပြင်ဆင်မှူနဲ့ရှာဖွေမှူအကောင်းဆုံး လုပ်နိုင်ရန် မီးမြေခွေးအသစ်ကိုသုံးလိုက်ပါ။<br/>     လျှင်မြန်ပြီး အခမဲ့ ဆော့ဝဲပါ !
 
 
 ;Upgrade now
@@ -448,11 +322,6 @@ Portions of this content are ©1998–%(current_year)s by individual mozilla.org
 လေ့လာမည်
 
 
-# Footer item
-;Partner with Us
-ကျွန်ုပ် တို့နှင့် လက်တွဲပါ
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 ထပ်တူချိတ်
@@ -483,79 +352,12 @@ Portions of this content are ©1998–%(current_year)s by individual mozilla.org
 အန်းဒရွိက် အထောက်အပံ့
 
 
-# Top menu item on firefox/update page
-;Performance
-လုပ်ဆောင်မှူ
-
-
-# Top menu item on firefox/update page
-;Technology
-နည်းပညာ
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-လုံခြုံရေး &amp; ထိမ်းသိမ်းရေး
-
-
-# Top menu item on firefox/update page
 ;Releases
 ထုတ်လွှင့်မှူများ
 
 
-# Top menu item on firefox/update page
-;Firefox
-မီးမြေခွေး
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-အဖွဲ့အစည်းများအတွက် မီးမြေခွေး
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-မိုဘိုင်း ထပ်ပေါင်းဆော့ဝဲများ
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-မိုဘိုင်း အထောက်အပံ့
-
-
-# Top menu item on firefox/update page
 ;Blog
 ဘလော်ခ့်
-
-
-# Top menu item on firefox/update page
-;About Firefox
-မီးမြေခွေး အကြောင်း
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-မိုဇီလာတွင်ပါဝင်ပါ
-
-
-# Top menu item on firefox/update page
-;Participate
-ပါဝင်လုပ်ဆောင်ပါ
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-လုပ်အားပေး
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Brand Toolkit {ok}
-
-
-# Top menu item on firefox/update page
-;Partnerships
-လက်တွဲလုပ်ဆောင်မှူ
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +438,6 @@ Facebook ပေါ်ရှိ မီးမြေခွေး
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 သင်၊ သင့်​လုံခြုံ​မှူ နှင့် လွတ်လပ်​သော ဝက်ဘ်​အတွက်
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-သင်​အသုံးပြု​လို​တာ​ကို ရွေးချယ်​ပေးပါ
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-အခမဲ့ လွတ်လပ်အင်တာနက်အတွက် စိတ်အားထက်သန်မှုကို ထိန်းသိမ်းပါ #ChooseIndependent. မီးမြေခွေးကို ရွေးချယ်ပါ
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +551,6 @@ Facebook ပေါ်ရှိ မီးမြေခွေး
 <abbr>ဒီ</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-မီးမြေခွေးသည် iOS အတွက် မကြာမီ လာပါတော့မည်။ <a href="{url}">ပိုမိုသိရှိနိုင်ရန်အတွက် စာရင်းပေးပါ</a>။
-
-
 ;Congrats. You’re up to date!
 နောက်ဆုံး​ထွက် ဗား​ရှင်း​ကို အသုံးပြု​နေ​သည့်​အတွက် ဂုဏ်​ယူ​ပါ​တယ်...
 
@@ -791,10 +577,6 @@ HTML {ok}
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 ကျွန်တော်/မသည် <a href="%s">ဒီ ကိုယ်ရေးလုံခြုံမှုအသိပေးချက်</a>တွင် ဖော်ပြထားသည့်အတိုင်း မော်ဇီလာက အချက်အလက်များကို ကိုင်တွယ်ခြင်းနှင့် ပတ်သက်ပြီး သဘောတူလက်ခံပါသည်။
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-<a href="%s">ဒီကိုယ်ရေးလုံခြုံမှုမူဝါဒ</a>တွင် ဖော်ပြထားသည့်အတိုင်း ကျွန်တော်/မသည် မော်ဇီလာမှ အချက်အလက်များကို ကိုင်တွယ်ခြင်းနှင့် ပတ်သက်ပြီး သဘောတူလက်ခံပါသည်။
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -840,16 +622,6 @@ HTML {ok}
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 Mozilla ဆက်စပ်သတင်းလွှာများရယူခြင်းဆိုင်ရာ လစဉ်မှာယူမှုကို အရင်က အတည်မပြုထားရသေးလျှင် အတည်ပြုရန် လိုအပ်ပါသည်။ ကျွန်ုပ်တို့ထံမှ စာ ရောက်/မရောက်အတွက် သင့်စာတိုက်ပုံး သို့မဟုတ် ကြော်ငြာစာစစ်ထုတ်ကိရိယာတွင် စစ်ဆေးပါ။
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-ကျေးဇူးပြုပြီးသင့်ရဲ့မေလ်းဘောက်စ် ထဲကို အတည်ပြုရန်စစ်ဆေးပေးပါ
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-သင်သည် mozill​a@e.mozilla.org  မှနေပြီးမေလ်းတစ်စောင်ရလိမ့်မည်။ ထိုမေလ်းရောက်မလာပါက သင်၏ Spam ဘောက်စ်ထဲသို့ စစ်ပေးပါ။ သင်သတင်းတွေရဖို့ အတည်တော့ပြုပေးဖို့လိုသည်။
 
 
 ;Read all about it in our <span>newsletter</span>

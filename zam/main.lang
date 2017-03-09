@@ -1,20 +1,20 @@
 ;Navigation
-Navigation
+Pá dúl
 
 
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
-Pre-release downloads
+b-là
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
-About
+Güí
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+Ko kub
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -35,17 +35,17 @@ Developer Edition
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+Lú ta nié
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 ;Need help?
-Need help?
+This lí chél thíb yá
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+Ko kub
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -125,7 +125,7 @@ Page language:
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%Y-%m-%d
+%Y-%m-%d {ok}
 
 
 ;Legal
@@ -134,7 +134,7 @@ Legal
 
 # Used as link in the footer
 ;Cookies
-Cookies
+Cookies {ok}
 
 
 ;Legal Notices
@@ -154,7 +154,7 @@ Other Systems and Languages
 
 
 ;Close
-Close
+tòɁw
 
 
 ;(in English)
@@ -182,20 +182,20 @@ Previous
 
 
 ;Next
-Next
+Te ner rá
 
 
 # MegaBytes abbreviation
 ;MB
-MB
+MB {ok}
 
 
 ;MegaBytes
-MegaBytes
+Megabytes
 
 
 ;FAQ
-FAQ
+FAQ {ok}
 
 
 ;Videos
@@ -224,12 +224,12 @@ Customize with Add-ons
 
 
 ;Learn More
-Learn More
+Lab Kue
 
 
 # Same as previous above but with no capitalization on More
 ;Learn more
-Learn more
+Lab Kue
 
 
 # Link used to play again an animation or a video
@@ -321,7 +321,7 @@ Tour
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync
+Sync {ok}
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -354,7 +354,7 @@ Releases
 
 
 ;Blog
-Blog
+Blog {ok}
 
 
 # Newsletter subscription form above footer on some pages
@@ -369,22 +369,22 @@ Share
 
 # footer link
 ;Mozilla on Twitter
-Mozilla on Twitter
+Güí Mozilla lent Twitter
 
 
 # footer link
 ;Firefox on Twitter
-Firefox on Twitter
+Güí Firefox lent Twitter
 
 
 # footer link
 ;Mozilla on Facebook
-Mozilla on Facebook
+Güí Mozilla lent Facebook
 
 
 # footer link
 ;Firefox on Facebook
-Firefox on Facebook
+Güí Firefox lent Facebook
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -409,7 +409,7 @@ Governance
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
-History
+Ree koo güil
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -453,99 +453,99 @@ Firefox Help
 
 
 ;January
-January
+Enér
 
 
 ;February
-February
+Febrer
 
 
 ;March
-March
+Marsh
 
 
 ;April
-April
+Abríl
 
 
 ;May
-May
+Máy
 
 
 ;June
-June
+Jun
 
 
 ;July
-July
+Júl
 
 
 ;August
-August
+Agost
 
 
 ;September
-September
+Septiembr
 
 
 ;October
-October
+Octubr
 
 
 ;November
-November
+Noviembr
 
 
 ;December
-December
+Diciembr
 
 
 ;<abbr>Jan</abbr>
-<abbr>Jan</abbr>
+<abbr>Ene</abbr>
 
 
 ;<abbr>Feb</abbr>
-<abbr>Feb</abbr>
+<abbr>Feb</abbr> {ok}
 
 
 ;<abbr>Mar</abbr>
-<abbr>Mar</abbr>
+<abbr>Mar</abbr> {ok}
 
 
 ;<abbr>Apr</abbr>
-<abbr>Apr</abbr>
+<abbr>Apr</abbr> {ok}
 
 
 ;<abbr>May</abbr>
-<abbr>May</abbr>
+<abbr>May</abbr> {ok}
 
 
 ;<abbr>Jun</abbr>
-<abbr>Jun</abbr>
+<abbr>Jun</abbr> {ok}
 
 
 ;<abbr>Jul</abbr>
-<abbr>Jul</abbr>
+<abbr>Jul</abbr> {ok}
 
 
 ;<abbr>Aug</abbr>
-<abbr>Aug</abbr>
+<abbr>Aug</abbr> {ok}
 
 
 ;<abbr>Sep</abbr>
-<abbr>Sep</abbr>
+<abbr>Sep</abbr> {ok}
 
 
 ;<abbr>Oct</abbr>
-<abbr>Oct</abbr>
+<abbr>Oct</abbr> {ok}
 
 
 ;<abbr>Nov</abbr>
-<abbr>Nov</abbr>
+<abbr>Nov</abbr> {ok}
 
 
 ;<abbr>Dec</abbr>
-<abbr>Dec</abbr>
+<abbr>Dec</abbr> {ok}
 
 
 ;Congrats. You’re up to date!
@@ -564,7 +564,7 @@ Text
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -630,7 +630,7 @@ Subscribe to monthly updates and keep current with Mozilla news, including the l
 
 
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+<span>Firefox</span> + Lú
 
 
 ;Get Firefox tips, tricks, news and more

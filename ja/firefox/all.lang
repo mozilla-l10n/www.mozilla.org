@@ -4,7 +4,7 @@
 
 # %s is replaced with Firefox.
 ;Download %s for Android in your language
-Download %s for Android in your language
+あなたの言語向けの Android 版 %s をダウンロード
 
 
 # %s is replaced with Firefox.
@@ -28,12 +28,12 @@ Download
 # %s is replaced with Firefox.
 # This is displayed on firefox/aurora/all/.
 ;Download %s in your language to experience the newest features and innovations in an unstable environment even before they go to Beta. Give us feedback that will determine what makes it to Final Release and help shape the future of Firefox.
-Download %s in your language to experience the newest features and innovations in an unstable environment even before they go to Beta. Give us feedback that will determine what makes it to Final Release and help shape the future of Firefox.
+あなたの言語向けの %s をダウンロードして、最新の機能と革新をベータ版よりも前に不安定な環境で試せます。最終リリースに含めるかどうかの判断材料となるフィードバックを提供して、Firefox の未来を形作るための取り組みにご協力ください。
 
 
 # This is displayed on firefox/nightly/all/.
 ;Are you a power-user comfortable installing pre-alpha software? Install Nightly and help us improve Firefox quality, hunt crashes and regressions and test new features as they get coded!
-Are you a power-user comfortable installing pre-alpha software? Install Nightly and help us improve Firefox quality, hunt crashes and regressions and test new features as they get coded!
+プレアルファ版ソフトウェアのインストールをいとわないパワーユーザーですか？ Nightly をインストールして、Firefox の品質を高めたり、クラッシュやリグレッションを特定したり、開発の最前線で新機能をテストしたりする作業にご協力ください。
 
 
 # This is displayed on firefox/organizations/all/.
@@ -47,12 +47,12 @@ Firefox は世界中のコミュニティメンバーによって作られてい
 
 # Product name is hard coded inside the product, thus not localizable.
 ;Firefox Developer Edition
-Firefox Developer Edition
+Firefox Developer Edition {ok}
 
 
 # Product name is hard coded inside the product, thus not localizable.
 ;Firefox Nightly
-Firefox Nightly
+Firefox Nightly {ok}
 
 
 ;Thanks to contributions of Mozilla community members around the world, Firefox is available in 90 languages:
@@ -61,7 +61,7 @@ Firefox Nightly
 
 # This is displayed on firefox/nightly/all/.
 ;<strong>Warning</strong>: Nightly is updated daily. It is most appropriate for core Mozilla contributors and early adopters, not regular users.
-<strong>Warning</strong>: Nightly is updated daily. It is most appropriate for core Mozilla contributors and early adopters, not regular users.
+<strong>警告</strong>: Nightly は毎日更新されます。これはコアな Mozilla 貢献者やアーリーアダプター向けであり、一般ユーザー向けではありません。
 
 
 ;Check the system requirements
@@ -69,16 +69,16 @@ Firefox Nightly
 
 
 ;Release notes
-Release notes
+リリースノート
 
 
 ;Source code
-Source code
+ソースコード
 
 
 # This is displayed on firefox/organizations/all/.
 ;Show:
-Show:
+表示:
 
 
 ;Fully localized versions
@@ -95,7 +95,7 @@ Show:
 
 # Used in Android pages like /firefox/android/beta/all/
 ;Multi-locale
-Multi-locale
+マルチロケール版
 
 
 ;Search languages
@@ -103,7 +103,7 @@ Multi-locale
 
 
 ;Search
-Search
+検索
 
 
 ;No matching languages found.
@@ -111,7 +111,7 @@ Search
 
 
 ;Download for %(platform)s in %(locale)s
-Download for %(platform)s in %(locale)s
+%(locale)s の %(platform)s 版をダウンロード
 
 
 ;Not Yet Available

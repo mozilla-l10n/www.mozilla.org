@@ -1,4 +1,3 @@
-## active ##
 ## NOTE: The page is at https://www-dev.allizom.org/firefox/all/
 
 
@@ -9,12 +8,12 @@ Download %s for Android in your language
 
 # %s is replaced with Firefox.
 ;Download %s in your language
-<span style="display:inline-block">各国語版の</span> %s を<span style="display:inline-block">ダウンロード</span>
+Download %s in your language
 
 
 # This is displayed on firefox/beta/all/.
 ;Download Firefox Beta in your language and experience cutting edge features before they make it to final release. Provide feedback to help us refine and polish the next version of Firefox.
-リリース版に搭載されていない先端機能を体験できる Firefox Beta をダウンロードできます。次のバージョンの Firefox の改良のため、フィードバックをお寄せください。
+Download Firefox Beta in your language and experience cutting edge features before they make it to final release. Provide feedback to help us refine and polish the next version of Firefox.
 
 
 # %s is replaced with Firefox.
@@ -30,11 +29,11 @@ Are you a power-user comfortable installing pre-alpha software? Install Nightly 
 
 # This is displayed on firefox/organizations/all/.
 ;Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
-Firefox ESR は、デスクトップ環境を集中管理・運用している組織向けに提供されています。<a href="%s">ESR について</a>
+Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
 
 
 ;Firefox is made in large part by volunteers around the world. That’s why we offer it in 90 languages (and why there’s heart and soul in every piece of code).
-Firefox は世界中のコミュニティメンバーによって作られています。その情熱が Firefox を育て、90 の言語で利用を可能にしました。
+Firefox is made in large part by volunteers around the world. That’s why we offer it in 90 languages (and why there’s heart and soul in every piece of code).
 
 
 # Product name is hard coded inside the product, thus not localizable.
@@ -48,7 +47,7 @@ Firefox Nightly
 
 
 ;Thanks to contributions of Mozilla community members around the world, Firefox is available in 90 languages:
-世界中のコミュニティメンバーによる貢献のおかげで、Firefox は次の 90 言語で利用できます：
+Thanks to contributions of Mozilla community members around the world, Firefox is available in 90 languages:
 
 
 # This is displayed on firefox/nightly/all/.
@@ -57,7 +56,7 @@ Firefox Nightly
 
 
 ;Check the system requirements
-システム要件を満たしているか確認する
+Check the system requirements
 
 
 ;Release notes
@@ -73,19 +72,19 @@ Show
 
 
 ;Fully localized versions
-完全にローカライズされているバージョン
+Fully localized versions
 
 
 ;Localized versions in testing
-ローカライズがテスト中のバージョン
+Localized versions in testing
 
 
 ;These localizations aren’t final. We’re waiting for more feedback from the community to perfect them.
-これらのローカライズは完了していません。よりよいものにするためにコミュニティからのフィードバックをお待ちしております。
+These localizations aren’t final. We’re waiting for more feedback from the community to perfect them.
 
 
 ;Search languages
-言語をさがす
+Search languages
 
 
 ;Search
@@ -93,7 +92,7 @@ Search
 
 
 ;No matching languages found.
-お探しの言語は存在しません
+No matching languages found.
 
 
 ;Download for %(platform)s in %(locale)s
@@ -101,6 +100,6 @@ Download for %(platform)s in %(locale)s
 
 
 ;Not Yet Available
-現在利用できません
+Not Yet Available
 
 

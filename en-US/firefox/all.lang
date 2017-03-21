@@ -30,10 +30,12 @@ Firefox ESR is intended for groups who deploy and maintain the desktop environme
 Firefox is made in large part by volunteers around the world. That’s why we offer it in 90 languages (and why there’s heart and soul in every piece of code).
 
 
+# Product name is hard coded inside the product, thus not localizable.
 ;Firefox Developer Edition
 Firefox Developer Edition
 
 
+# Product name is hard coded inside the product, thus not localizable.
 ;Firefox Nightly
 Firefox Nightly
 
@@ -80,3 +82,23 @@ These localizations aren’t final. We’re waiting for more feedback from the c
 
 ;Keep up with<br> all things Firefox.
 Keep up with<br> all things Firefox.
+
+
+;Search languages
+Search languages
+
+
+;Search
+Search
+
+
+;No matching languages found.
+No matching languages found.
+
+
+;Download for %(platform)s in %(locale)s
+Download for %(platform)s in %(locale)s
+
+
+;Not Yet Available
+Not Yet Available

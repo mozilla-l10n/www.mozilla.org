@@ -70,7 +70,7 @@ Set the Web free and your mind will follow.
 
 # String obsolete. Do NOT remove.
 ;Browse freely.
-Browse freely.
+လွတ်လပ်စွာ ရှာဖွေကြည့်ရှုပါ။
 
 
 # String obsolete. Do NOT remove.
@@ -79,7 +79,7 @@ Discover unlimited potential, endless possibility and a wide open Web.
 
 
 ;Get Firefox today
-Get Firefox today
+Firefox ကို ယနေ့ပင် ရယူပါ
 
 
 ;Add-ons
@@ -117,7 +117,7 @@ Proudly non-profit. <br>Donate before Dec 31.
 # This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
 # You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
-$%(sum)s
+$%(sum)s {ok}
 
 
 # Take over form
@@ -127,17 +127,17 @@ Enter your own amount
 
 # Take over form: radio button for monthly contributions
 ;Monthly
-Monthly
+လစဉ်
 
 
 # Take over form: radio button for one-time contributions
 ;One-time
-One-time
+တစ်ကြိမ်တည်း
 
 
 # Take over form: button to submit the donation form
 ;Donate Now
-Donate Now
+ယခုပင် ပါဝင်လှူဒါန်းရန်
 
 
 # This is used as a link to dismiss the fundraising take over and continue to mozilla.org website

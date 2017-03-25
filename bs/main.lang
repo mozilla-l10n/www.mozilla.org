@@ -14,12 +14,12 @@ O
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+Aplikacije
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+Nemoj me pratiti
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -35,22 +35,22 @@ Developer Edition
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+Privatno pregledanje
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 ;Need help?
-Need help?
+Trebate pomoć?
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+Vijesti
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Izaberite nezavisni pretraživač
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -71,7 +71,7 @@ Proizvodi
 
 
 ;Add-ons
-Add-oni
+Dodaci
 
 
 ;About Us
@@ -111,7 +111,7 @@ Press Centar
 
 
 ;Contact Us
-Kontakt
+Kontaktirajte nas
 
 
 ;Other languages:
@@ -465,7 +465,7 @@ Mart
 
 
 ;April
-April
+April {ok}
 
 
 ;May
@@ -481,7 +481,7 @@ Juli
 
 
 ;August
-Avgust
+August {ok}
 
 
 ;September
@@ -501,19 +501,19 @@ Decembar
 
 
 ;<abbr>Jan</abbr>
-<abbr>Jan</abbr>
+<abbr>Jan</abbr> {ok}
 
 
 ;<abbr>Feb</abbr>
-<abbr>Feb</abbr>
+<abbr>Feb</abbr> {ok}
 
 
 ;<abbr>Mar</abbr>
-<abbr>Mar</abbr>
+<abbr>Mar</abbr> {ok}
 
 
 ;<abbr>Apr</abbr>
-<abbr>Apr</abbr>
+<abbr>Apr</abbr> {ok}
 
 
 ;<abbr>May</abbr>
@@ -521,19 +521,19 @@ Decembar
 
 
 ;<abbr>Jun</abbr>
-<abbr>Jun</abbr>
+<abbr>Jun</abbr> {ok}
 
 
 ;<abbr>Jul</abbr>
-<abbr>Jul</abbr>
+<abbr>Jul</abbr> {ok}
 
 
 ;<abbr>Aug</abbr>
-<abbr>Avg</abbr>
+<abbr>Aug</abbr> {ok}
 
 
 ;<abbr>Sep</abbr>
-<abbr>Sep</abbr>
+<abbr>Sep</abbr> {ok}
 
 
 ;<abbr>Oct</abbr>
@@ -541,11 +541,11 @@ Decembar
 
 
 ;<abbr>Nov</abbr>
-<abbr>Nov</abbr>
+<abbr>Nov</abbr> {ok}
 
 
 ;<abbr>Dec</abbr>
-<abbr>Dec</abbr>
+<abbr>Dec</abbr> {ok}
 
 
 ;Congrats. You’re up to date!
@@ -564,7 +564,7 @@ Tekst
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -573,7 +573,7 @@ Ups! Pobrinite se da unesete ispravnu email adresu.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Slažem se da Mozilla koristi mojim informacijama kao što je objašnjeno u <a href="%s"> ovoj obavjesti o privatnosti</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.

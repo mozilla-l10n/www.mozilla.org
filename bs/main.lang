@@ -30,7 +30,7 @@ Interest Dashboard
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+Programersko izdanje
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -87,11 +87,11 @@ preskoči na Navigaciju
 
 
 ;switch language
-promijeni jezik
+promijenite jezik
 
 
 ;Back to home page
-Nazad na početnu stranu
+Nazad na početnu stranicu
 
 
 ;About Mozilla
@@ -103,11 +103,11 @@ Uključite se
 
 
 ;Careers
-Karijera
+Karijere
 
 
 ;Press Center
-Press Centar
+Pres Centar
 
 
 ;Contact Us
@@ -115,21 +115,21 @@ Kontaktirajte nas
 
 
 ;Other languages:
-Ostali jezici:
+Drugi jezici:
 
 
 # Will replace "Other languages" for the footer's language switcher
 ;Page language:
-Page language:
+Jezik stranice:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%d-%m-%Y
+%Y-%m-%d {ok}
 
 
 ;Legal
-Legal
+Pravno
 
 
 # Used as link in the footer
@@ -138,11 +138,11 @@ Kolačići
 
 
 ;Legal Notices
-Pravne napomene
+Pravne odredbe
 
 
 ;Privacy Policy
-Polica privatnosti
+Pravila privatnosti
 
 
 ;Release Notes
@@ -150,7 +150,7 @@ Napomene o izdanju
 
 
 ;Other Systems and Languages
-Ostali sistemi i jezici
+Drugi sistemi i jezici
 
 
 ;Close
@@ -162,27 +162,27 @@ Zatvori
 
 
 ;Return to top
-Vrati se na vrh
+Natrag na početak
 
 
 ;Features
-Mogućnosti
+Karakteristike
 
 
 ;Customize
-Prilagođavanje
+Prilagodi
 
 
 ;Download
-Preuzmite
+Preuzmi
 
 
 ;Previous
-Previous
+Prethodna
 
 
 ;Next
-Dalje
+Sljedeća
 
 
 # MegaBytes abbreviation
@@ -191,7 +191,7 @@ MB {ok}
 
 
 ;MegaBytes
-Megabajta
+Megabajti
 
 
 ;FAQ
@@ -199,7 +199,7 @@ FAQ {ok}
 
 
 ;Videos
-Video
+Video snimci
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
@@ -207,7 +207,7 @@ Osim gdje je drugačije <a href="%s">navedeno</a>, sadržaj na ovoj stranici je 
 
 
 ;Report Trademark Abuse
-Prijavite zloupotrebu zaštitnog znaka
+Prijavi zloupotrebu zaštitnog znaka
 
 
 ;Free Upgrade
@@ -220,7 +220,7 @@ Pratite nas na:
 
 
 ;Customize with Add-ons
-Prilagodite pomoću Add-ona
+Prilagodite sa dodacima
 
 
 ;Learn More
@@ -234,19 +234,19 @@ Saznajte više
 
 # Link used to play again an animation or a video
 ;Replay
-Replay
+Ponovi
 
 
 ;Watch the video
-Pogledajte video
+Gledajte video
 
 
 ;Replay the video
-Replay the video
+Ponovite video
 
 
 ;Share the video
-Share the video
+Podijelite video
 
 
 ;WebM format
@@ -262,11 +262,11 @@ MPEG-4 format {ok}
 
 
 ;Mobile
-Mobilni
+Mobilno
 
 
 ;View Full Site
-Prikaži cijelu stranicu
+Pogledajte cijelu stranicu
 
 
 ;Desktop
@@ -274,19 +274,19 @@ Desktop {ok}
 
 
 ;Firefox for mobile
-Firefox za mobilni
+Koristi Firefox za mobilne uređaje
 
 
 ;Email
-Email {ok}
+E-pošta
 
 
 ;Upgrade now
-Nadogradi odmah
+Nadogradi sada
 
 
 ;Update now
-Izvrši update odmah
+Ažuriraj sada
 
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
@@ -316,85 +316,85 @@ Misija
 
 # Footer item on some pages to link to a tour of features
 ;Tour
-Tour
+Obilazak
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync
+Sinhronizacija
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-Desktop Add-ons
+Desktop dodaci
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+Android dodaci
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Themes
-Themes
+Teme
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Desktop Support
+Desktop podrška
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+Android podrška
 
 
 ;Releases
-Releases
+Izdanja
 
 
 ;Blog
-Blog
+Blog {ok}
 
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-Get Mozilla updates
+Dobijte Mozilla ažuriranja
 
 
 # share button for social networks
 ;Share
-Share
+Podijelite
 
 
 # footer link
 ;Mozilla on Twitter
-Mozilla on Twitter
+Mozilla na Twitteru
 
 
 # footer link
 ;Firefox on Twitter
-Firefox on Twitter
+Firefox na Twitteru
 
 
 # footer link
 ;Mozilla on Facebook
-Mozilla on Facebook
+Mozilla na Fejsbuku
 
 
 # footer link
 ;Firefox on Facebook
-Firefox on Facebook
+Firefox na Fejsbuku
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
-Forums
+Forumi
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+Patenti
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -409,17 +409,17 @@ Governance
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
-History
+Historija
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Our Products
-Our Products
+Naši proizvodi
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
-Software and other innovations designed to advance our mission.
+Softver i druge inovacije dizajnirane da unaprijede našu misiju.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -429,22 +429,22 @@ Become a volunteer contributor in a number of different areas.
 
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
-Menu
+Izbornik
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Committed to you, your privacy and an open Web
+Posvećen vama, vašoj privatnosti i otvorenom webu
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+Molimo uključite JavaScript da prikažete ovu stranicu pravilno.
 
 
 # Used as link to /firefox/desktop in footers on some pages
 ;Firefox Features
-Firefox mogućnosti
+Firefox značajke
 
 
 # Used as link to SUMO in footers on some pages
@@ -549,7 +549,7 @@ Decembar
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+Čestitamo. Vi ste ažurirani!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -569,7 +569,7 @@ HTML {ok}
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
-Ups! Pobrinite se da unesete ispravnu email adresu.
+Ups! Budite sigurni da unosite ispravnu email adresu.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
@@ -578,31 +578,31 @@ Slažem se da Mozilla koristi mojim informacijama kao što je objašnjeno u <a h
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Nastavite sa<br> svim stvarima Firefoxa.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Get Firefox news
+Dobijte Firefox vijesti
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-YOUR EMAIL HERE
+VAŠ EMAIL OVDJE
 
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+Registruj me sada
 
 
 # Old newsletter subscription Button
 ;Sign me up
-Prijavi me
+Registruj me
 
 
 ;Select country
-Izaberite državu
+Odaberite državu
 
 
 ;Available Languages
@@ -610,11 +610,11 @@ Dostupni jezici
 
 
 ;We will only send you Mozilla-related information.
-Mi ćemo vam slati samo informacije vezane za Mozillu.
+Mi ćemo vam samo poslati informacije Mozilline veze.
 
 
 ;Thanks!
-Thanks!
+Hvala!
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
@@ -630,7 +630,7 @@ Prijavite se na mjesečne novosti i ostanite u korak sa Mozilla novostima, uklju
 
 
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+<span>Firefox</span> + Vi
 
 
 ;Get Firefox tips, tricks, news and more
@@ -646,7 +646,7 @@ Web Innovations
 # This string will be used as a navigation label in home page, pointing to /internet-health
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Internet Health
-Internet Health
+Internet zdravlje
 
 
 # Used as title in What's new page for 50

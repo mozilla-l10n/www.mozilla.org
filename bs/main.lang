@@ -25,7 +25,7 @@ Nemoj me pratiti
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+Korist komandne table
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -55,7 +55,7 @@ Izaberite nezavisni pretraživač
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox je neprofitni, nekorporativan, nenagodljiv. Izbor Firefoxa nije samo odabir preglednika. To je glas za ličnu slobodu.
 
 
 ;Donate
@@ -203,7 +203,7 @@ Video snimci
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-Osim gdje je drugačije <a href="%s">navedeno</a>, sadržaj na ovoj stranici je licenciran pod <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> ili bilo kojom novijom verzijom.
+Osim kada je drugačije <a href="%s"> navedeno </a>, sadržaj na ovim stranicama je licenciran pod <br /><a href="%s"> Creative Commons Share-Alike licencom v3.0 </a> ili bilo koje kasnije verzije.
 
 
 ;Report Trademark Abuse
@@ -296,7 +296,7 @@ Privatnost
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Dijelovi ovog sadržaja su ©1998–%(current_year)s od strane pojedinih mozilla.org doprinosilaca. Sadržaj je dostupan pod a <a href="%(url)s">Creative Commons licencom</a>.
+Dijelovi ovog sadržaja su ©1998 -%(current_year)s pojedinačnim mozilla.org saradnicima. Sadržaj je dostupan pod <a href="%(url)s"> Creative Commons licencom </a>.
 
 
 # Footer string (will replace "Contribute to this page")
@@ -424,7 +424,7 @@ Softver i druge inovacije dizajnirane da unaprijede našu misiju.
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Become a volunteer contributor in a number of different areas.
+Postati volonter doprinosa u velikom broju različitih područja.
 
 
 # This is a non-visible string for blind people to indicate where the menu is
@@ -610,7 +610,7 @@ Dostupni jezici
 
 
 ;We will only send you Mozilla-related information.
-Mi ćemo vam samo poslati informacije Mozilline veze.
+Mi ćemo vam samo poslati informacije povezane sa Mozillom.
 
 
 ;Thanks!
@@ -618,15 +618,15 @@ Hvala!
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Ako niste prethodno potvrdili pretplatu na bilten vezan za Mozillu možete to uraditi. Molimo provjerite vašu ulaznu poštu ili vaš filter neželjene pošte za e-poštu od nas.
 
 
 ;Read all about it in our <span>newsletter</span>
-Pročitajte sve o tome u našem <span>newsletteru</span>
+Pročitajte sve o tome u našem <span>biltenu</span>
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Prijavite se na mjesečne novosti i ostanite u korak sa Mozilla novostima, uključujući najnovije trikove kako da izvučete maksimum iz svog Firefox browsera. To je savršen način da ostanemo u kontaktu!
+Pretplatite se na mjesečna ažuriranja i budite uz Mozilla vijesti, uključujući posljednje savjete i trikove za dobijanje najviše od vašeg Firefox pretraživača. To je perfektan način za nas da budemo u kontaktu!
 
 
 ;<span>Firefox</span> + You
@@ -634,13 +634,13 @@ Prijavite se na mjesečne novosti i ostanite u korak sa Mozilla novostima, uklju
 
 
 ;Get Firefox tips, tricks, news and more
-Get Firefox tips, tricks, news and more
+Dobijte Firefox savjete, trikove, vijesti i više
 
 
 # This string will be used as a navigation label in home page, pointing to /technology
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Web Innovations
-Web Innovations
+Web inovacije
 
 
 # This string will be used as a navigation label in home page, pointing to /internet-health

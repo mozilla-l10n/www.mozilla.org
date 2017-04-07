@@ -25,17 +25,17 @@ Nemoj me pratiti
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Korist komandne table
+Kontrolna tabla interesa
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Programersko izdanje
+Developer Edition {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Privatno pregledanje
+Privatno pretraživanje
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -55,7 +55,7 @@ Izaberite nezavisni pretraživač
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox je neprofitni, nekorporativan, nenagodljiv. Izbor Firefoxa nije samo odabir preglednika. To je glas za ličnu slobodu.
+Firefox je neprofitan, nekorporativan, nenagodljiv. Izbor Firefoxa nije samo odabir preglednika. To je glas za ličnu slobodu.
 
 
 ;Donate
@@ -83,7 +83,7 @@ Laboratorije
 
 
 ;skip to Navigation
-idi na navigaciju
+preskoči na navigaciju
 
 
 ;switch language
@@ -107,7 +107,7 @@ Karijere
 
 
 ;Press Center
-Pres Centar
+Centar za medije
 
 
 ;Contact Us
@@ -195,7 +195,7 @@ Megabajti
 
 
 ;FAQ
-FAQ {ok}
+Često postavljena pitanja
 
 
 ;Videos
@@ -207,7 +207,7 @@ Osim kada je drugačije <a href="%s"> navedeno </a>, sadržaj na ovim stranicama
 
 
 ;Report Trademark Abuse
-Prijavi zloupotrebu zaštitnog znaka
+Prijavite zloupotrebu zaštitnog znaka
 
 
 ;Free Upgrade
@@ -274,7 +274,7 @@ Desktop {ok}
 
 
 ;Firefox for mobile
-Koristi Firefox za mobilne uređaje
+Firefox za mobilne uređaje
 
 
 ;Email
@@ -282,11 +282,11 @@ E-pošta
 
 
 ;Upgrade now
-Nadogradi sada
+Nadogradite sada
 
 
 ;Update now
-Ažuriraj sada
+Ažurirajte sada
 
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
@@ -296,17 +296,17 @@ Privatnost
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Dijelovi ovog sadržaja su ©1998 -%(current_year)s pojedinačnim mozilla.org saradnicima. Sadržaj je dostupan pod <a href="%(url)s"> Creative Commons licencom </a>.
+Dijelovi ovog sadržaja su ©1998 –%(current_year)s pojedinačnim mozilla.org saradnicima. Sadržaj je dostupan pod <a href="%(url)s">Creative Commons licencom</a>.
 
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Doprinesi ovom sajtu
+Doprinesite ovom sajtu
 
 
 # Footer string
 ;Contribute to this page
-Doprinesi ovoj stranici
+Doprinesite ovoj stranici
 
 
 # Top menu item
@@ -424,12 +424,12 @@ Softver i druge inovacije dizajnirane da unaprijede našu misiju.
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Postati volonter doprinosa u velikom broju različitih područja.
+Postanite volonter i doprinesite u različitim oblastima.
 
 
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
-Izbornik
+Meni
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
@@ -444,7 +444,7 @@ Molimo uključite JavaScript da prikažete ovu stranicu pravilno.
 
 # Used as link to /firefox/desktop in footers on some pages
 ;Firefox Features
-Firefox značajke
+Firefox mogućnosti
 
 
 # Used as link to SUMO in footers on some pages
@@ -549,7 +549,7 @@ Decembar
 
 
 ;Congrats. You’re up to date!
-Čestitamo. Vi ste ažurirani!
+Čestitamo. Imate najnoviju verziju!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -573,17 +573,17 @@ Ups! Budite sigurni da unosite ispravnu email adresu.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Slažem se da Mozilla koristi mojim informacijama kao što je objašnjeno u <a href="%s"> ovoj obavjesti o privatnosti</a>
+Slažem se da se Mozilla koristi mojim informacijama kao što je objašnjeno u <a href="%s">ovoj obavjesti o privatnosti</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Nastavite sa<br> svim stvarima Firefoxa.
+Budite u toku<br> sa svim vezanim uz Firefox.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Dobijte Firefox vijesti
+Primite novosti o Firefoxu
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
@@ -593,7 +593,7 @@ VAŠA E-POŠTA OVDJE
 
 # Newsletter subscription Button
 ;Sign Up Now
-Registruj me sada
+Registrujte se sada
 
 
 # Old newsletter subscription Button

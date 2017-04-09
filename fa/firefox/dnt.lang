@@ -26,7 +26,7 @@
 
 
 ;Mozilla Firefox offers a Do Not Track feature that lets you express a preference not to be tracked by websites. When the feature is enabled, Firefox will tell advertising networks and other websites and applications that you want to opt-out of tracking for purposes like behavioral advertising.
-Mozilla Firefox offers a Do Not Track feature that lets you express a preference not to be tracked by websites. When the feature is enabled, Firefox will tell advertising networks and other websites and applications that you want to opt-out of tracking for purposes like behavioral advertising.
+موزیلا فایرفاکس قابلیت من را دنبال نکن را ارائه می‌کند که به شما امکان می‌دهد تا اولویت خود برای ردیابی نشدن توسط وب‌سایت‌ها را بیان کنید. وقتی این قابلیت فعال باشد، فایرفاکس به شبکه‌های تبلیغاتی و دیگر وب سایت‌ها و اپلیکیشن‌ها می‌گوید که شما می‌خواهید از ردیابی برای اهدافی مانند تبلیغات رفتاری امتناع کنید.
 
 
 ;Frequently Asked <span>Questions</span>
@@ -95,11 +95,11 @@ Click to check the box next to &quot;Tell websites I do not want to be tracked&q
 
 
 ;Will companies honor my Do Not Track preference?
-Will companies honor my Do Not Track preference?
+آیا شرکت‌ها ترجیح من را دنبال نکن را محترم می‌شمارند؟
 
 
 ;Companies are starting to support Do Not Track, but you may not notice any changes initially. We are actively working with companies that have started to implement Do Not Track, with others who have committed to doing so soon.
-Companies are starting to support Do Not Track, but you may not notice any changes initially. We are actively working with companies that have started to implement Do Not Track, with others who have committed to doing so soon.
+شرکت ها در حال آغاز پشتیبانی از من را دنبال نکن هستند،‌ولی ممکن است شما تغییر را در ابتدا احساس نکنید. ما به صورت کاملا فعال در حال کار با شرکت هایی هستیم که پیاده سازی من را دنبال نکن را آغاز کرده اند یا جاهای دیگری که متعهد شده اند آن را به زودی انجام دهند.
 
 
 ;Where can I learn more?
@@ -107,15 +107,15 @@ Companies are starting to support Do Not Track, but you may not notice any chang
 
 
 ;Other interesting work about Do Not Track and online privacy:
-Other interesting work about Do Not Track and online privacy:
+کار جالب دیگری درباره من را دنبال نکن و حریم خصوصی آنلاین:
 
 
 ;<a href="%s">Private browsing</a> in Firefox &#8212; limits saving data about which sites and pages you have visited online
-<a href="%s">Private browsing</a> in Firefox &#8212; limits saving data about which sites and pages you have visited online
+در فایرفاکس&#8212;<a href="%s">مرور به صورت خصوصی</a> ذخیره سازی داده های مرتبط با پایگاه‌های اینترنتی و صفحه بازدید شده به صورت آنلاین را محدود می‌کند
 
 
 ;<a href="%(url1)s">Managing cookies</a> in Firefox &#8212; lets you control how <a href="%(url2)s">cookies</a> are saved on your computer
-<a href="%(url1)s">Managing cookies</a> in Firefox &#8212; lets you control how <a href="%(url2)s">cookies</a> are saved on your computer
+در فایرفاکس &#8212;<a href="%(url1)s">مدیریت کوکی‌ها</a> این امکان را به شما می‌دهد تا دریابید چگونه<a href="%(url2)s">کوکی‌ها</a> بر روی رایانه شما ذخیره شده اند
 
 
 ;<a href="%s">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from Mozilla’s Technology and Privacy Officer
@@ -123,27 +123,27 @@ Other interesting work about Do Not Track and online privacy:
 
 
 ;<a href="%s">donottrack.us</a> project &#8212; Stanford researchers working on the ideas behind Do Not Track
-<a href="%s">donottrack.us</a> project &#8212; Stanford researchers working on the ideas behind Do Not Track
+&#8212;پروژه<a href="%s">donottrack.us</a> محققین استنفورد در حال کار بر روی ایده‌های پشت سر دنبال نکن هستند
 
 
 ;The Tracking Preference Expression (DNT) <a href="%s">W3C Editor’s Draft</a>
-The Tracking Preference Expression (DNT) <a href="%s">W3C Editor’s Draft</a>
+بیان اولیه دنبال کردن (DNT)<a href="%s">W3C پیش نویس ویرایشگر</a>
 
 
 ;Tracking Compliance and Scope <a href="%s">W3C Editor’s Draft</a>
-Tracking Compliance and Scope <a href="%s">W3C Editor’s Draft</a>
+توافق و محدوده دنبال کردن<a href="%s">W3C پیش نویس ویرایشگر </a>
 
 
 ;The W3C <a href="%s">Tracking Protection Working Group</a>
-The W3C <a href="%s">Tracking Protection Working Group</a>
+W3C <a href="%s">کار گروه حفاظت ردیابی</a>
 
 
 ;<a href="%s">Ghostery</a> &#8212; a tool that lets you learn which sites are tracking you online
-<a href="%s">Ghostery</a> &#8212; a tool that lets you learn which sites are tracking you online
+<a href="%s">Ghostery</a>&#8212; ابزاری است که به شما این امکان را می‌دهد که یاد بگیرید کدام پایگاه اینترنتی زمانی که آنلاین هستید شما را دنبال میکند
 
 
 ;See <a href="%s">where your data goes</a> before you click &#8212; an image from the Future of Privacy Forum
-See <a href="%s">where your data goes</a> before you click &#8212; an image from the Future of Privacy Forum
+قبل از کلیک بر روی &#8212 تصویری از آینده انجمن حریم شخصی; ابتدا <a href="%s"> داده های شما کجا می‌روند</a> را مشاهده کنید
 
 
 ;Mozilla and Stanford’s Do Not Track <a href="%(url)s">submission to the IETF</a> &#8212; IETF is a standards body that helps define how the Web works, regardless of which Internet browser you use
@@ -171,6 +171,6 @@ See <a href="%s">where your data goes</a> before you click &#8212; an image from
 
 
 ;To enable Do Not Track in IE 9, you need to enable IE 9’s <a href="%(url)s">Tracking Protection</a> feature. The easiest way to do that is to install <a href="%(tpl)s">Mozilla’s Simple Tracking Protection List</a>. If you view this page in IE 9, there will be instructions right here.
-To enable Do Not Track in IE 9, you need to enable IE 9’s <a href="%(url)s">Tracking Protection</a> feature. The easiest way to do that is to install <a href="%(tpl)s">Mozilla’s Simple Tracking Protection List</a>. If you view this page in IE 9, there will be instructions right here.
+با فعال کردن من را دنبال نکن در IE9، شما بایستی امکان<a href="%(url)s"> محافظت از دنبال کردن</a> را در IE9فعال کنید. راحت ترین راه برای نصب آن <a href="%(tpl)s"> لیست  ساده محافظت دنبال کردن موزیلا</a> است. اگر شما این صفحه را در IE9 مشاهده می‌کنید،  دستورالعمل دقیقا در آنجا قرار دارد.
 
 

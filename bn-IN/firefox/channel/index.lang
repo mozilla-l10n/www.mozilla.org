@@ -2,11 +2,6 @@
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
-# HTML Description
-;Download and test future releases of Firefox for desktop, Android and iOS.
-ডাউনলোড করুন এবং ডেক্সটপ, Android এবং iOS এর জন্য Firefox-এর ভবিষ্যতের সংস্করণগুলিতে পরীক্ষা করুন।
-
-
 # Main page heading. In case the text is too hard to translate, here's an alternative text: "Take the future for a test run."
 ;Take a browse on the wild side.
 ওয়াইল্ড সাইডে ব্রাউজ করুন।
@@ -51,6 +46,24 @@ iOS {ok}
 টেস্ট পাইলট সম্পর্কে আরো জানুন
 
 
+# HTML page title, on the Android page only.
+;Try New Features in a Pre-Release Android Browser | Firefox
+Try New Features in a Pre-Release Android Browser | Firefox
+
+
+# String is obsolete. Do not remove.
+# HTML page title
+;Download and test future releases of Firefox for desktop, Android and iOS.
+ডাউনলোড করুন এবং ডেক্সটপ, Android এবং iOS এর জন্য Firefox-এর ভবিষ্যতের সংস্করণগুলিতে পরীক্ষা করুন।
+
+
+# HTML Description, on the Android page only.
+;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
+Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
+
+
+# String is obsolete. Do not remove.
+# HTML Description
 ;Download and test the latest Firefox for Android features with Aurora, Beta and Nightly builds.
 ডাউনলোড করুন এবং দেখুন আধুনিক Firefox for Android বৈশিষ্ট্য সমুহ যা অররা, বিটা এবং নাইট বিলদ এর সঙ্গে সমম্পৃক্ত।
 
@@ -79,6 +92,18 @@ Firefox বিটা স্বয়ংক্রিয়ভাবে Mozilla-�
 <a rel="external" href="%(feedback)s">আমাদের ফিডব্যাক দিন</a> আমাদের একটি স্থিতিশীল পরিবেশে কর্মক্ষমতা এবং কার্যকারিতা চূড়ান্ত সমন্বয় করতে সাহায্য করুন।
 
 
+# HTML page title, on the desktop page only.
+;Try New Browser Features in Pre-Release Versions | Firefox
+Try New Browser Features in Pre-Release Versions | Firefox
+
+
+# HTML page description, on the desktop page only.
+;Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+
+
+# String is obsolete. Do not remove.
+# HTML page description
 ;Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
 Firefox for desktop-এর বৈশিষ্ট্যগুলি ডাউনলোড এবং পরীক্ষা করুন ডেভেলপার সংস্করণ, বেটা এবং নাইটলি বিল্ডের সাথে।
 
@@ -115,6 +140,19 @@ Firefox নাইটলি স্বয়ংক্রিয়ভাবে Mozi
 নাইটলি ব্লগ
 
 
+# HTML page title, on the iOS page only.
+;Try New Features in a Pre-Release iOS Browser | Firefox
+Try New Features in a Pre-Release iOS Browser | Firefox
+
+
+# HTML page description, on the iOS page only.
+# Don't translate TestFlight
+;Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
+Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
+
+
+# String is obsolete. Do not remove.
+# HTML page description
 # Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program and help make our mobile browser for iPhone, iPad and iPod touch even better.
 অ্যাপলের TestFlight প্রোগ্রামের মাধ্যমে ফায়ারফক্স এর বিটা সংস্করণ টি iOS এর জন্য পরীক্ষা করে দেখুন এবং আমাদের iPhone, iPad এবং iPod এর মোবাইল ব্রাউজার টি আরও উন্নত করতে সাহায্য করুন।

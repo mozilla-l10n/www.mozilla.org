@@ -3,11 +3,6 @@
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
-# HTML Description
-;Download and test future releases of Firefox for desktop, Android and iOS.
-Halaðu niður og prófaðu framtíðarútgáfur af Firefox fyrir borðtölvur, Android og iOS.
-
-
 # Main page heading. In case the text is too hard to translate, here's an alternative text: "Take the future for a test run."
 ;Take a browse on the wild side.
 Vertu villtur og vafraðu í framtíðinni.
@@ -52,6 +47,24 @@ Prófaðu nýjustu eiginleikana sem eru nú í prófunum og mótaðu hvernig fra
 Fræðast meira um Test Pilot
 
 
+# HTML page title, on the Android page only.
+;Try New Features in a Pre-Release Android Browser | Firefox
+Try New Features in a Pre-Release Android Browser | Firefox
+
+
+# String is obsolete. Do not remove.
+# HTML page title
+;Download and test future releases of Firefox for desktop, Android and iOS.
+Halaðu niður og prófaðu framtíðarútgáfur af Firefox fyrir borðtölvur, Android og iOS.
+
+
+# HTML Description, on the Android page only.
+;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
+Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
+
+
+# String is obsolete. Do not remove.
+# HTML Description
 ;Download and test the latest Firefox for Android features with Aurora, Beta and Nightly builds.
 Halaðu niður og prófaðu nýjustu möguleikana í Firefox fyrir Android með Aurora, Beta og Nightly builds.
 
@@ -80,6 +93,18 @@ Firefox Beta sendir sjálfkrafa upplýsingar til Mozilla.
 <a rel="external" href="%(feedback)s">Sendu inn þína skoðun</a> og hjálpaðu til með að fínstilla afköst og eiginleika.
 
 
+# HTML page title, on the desktop page only.
+;Try New Browser Features in Pre-Release Versions | Firefox
+Try New Browser Features in Pre-Release Versions | Firefox
+
+
+# HTML page description, on the desktop page only.
+;Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+
+
+# String is obsolete. Do not remove.
+# HTML page description
 ;Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
 Halaðu niður og prófaðu nýjustu möguleikana í Firefox fyrir borðtölvur með Developer Edition, Beta og Nightly builds.
 
@@ -116,6 +141,19 @@ Firefox Nightly sendir sjálkrafa upplýsingar til Mozilla.
 Nightly Blogg
 
 
+# HTML page title, on the iOS page only.
+;Try New Features in a Pre-Release iOS Browser | Firefox
+Try New Features in a Pre-Release iOS Browser | Firefox
+
+
+# HTML page description, on the iOS page only.
+# Don't translate TestFlight
+;Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
+Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
+
+
+# String is obsolete. Do not remove.
+# HTML page description
 # Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program and help make our mobile browser for iPhone, iPad and iPod touch even better.
 Prófaðu beta útgáfur af Firefox fyrir iOS með Apple TestFlight forritinu og hjálpaðu til við að gera vafrann fyrir iPhone, iPad og iPod touch ennþá betri.

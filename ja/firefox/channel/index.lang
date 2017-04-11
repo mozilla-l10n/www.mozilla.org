@@ -3,11 +3,6 @@
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
-# HTML Description
-;Download and test future releases of Firefox for desktop, Android and iOS.
-デスクトップ、Android、iOS 向け Firefox の次期バージョンをダウンロードしテストしてください。
-
-
 # Main page heading. In case the text is too hard to translate, here's an alternative text: "Take the future for a test run."
 ;Take a browse on the wild side.
 試運転で未来を先取り。
@@ -52,6 +47,24 @@ iOS {ok}
 Test Pilot の詳細はこちら
 
 
+# HTML page title, on the Android page only.
+;Try New Features in a Pre-Release Android Browser | Firefox
+Try New Features in a Pre-Release Android Browser | Firefox
+
+
+# String is obsolete. Do not remove.
+# HTML page title
+;Download and test future releases of Firefox for desktop, Android and iOS.
+デスクトップ、Android、iOS 向け Firefox の次期バージョンをダウンロードしテストしてください。
+
+
+# HTML Description, on the Android page only.
+;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
+Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
+
+
+# String is obsolete. Do not remove.
+# HTML Description
 ;Download and test the latest Firefox for Android features with Aurora, Beta and Nightly builds.
 Aurora、Beta あるいは Nightly ビルドで Android 版 Firefox の最新機能をテストしてください。
 
@@ -80,6 +93,18 @@ Firefox Beta は Mozilla へ自動的にフィードバックを送信します�
 <a rel="external" href="%(feedback)s">フィードバックを提供</a> して、安定版に適したパフォーマンスと機能の最終調整にご協力ください。
 
 
+# HTML page title, on the desktop page only.
+;Try New Browser Features in Pre-Release Versions | Firefox
+Try New Browser Features in Pre-Release Versions | Firefox
+
+
+# HTML page description, on the desktop page only.
+;Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+
+
+# String is obsolete. Do not remove.
+# HTML page description
 ;Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
 Developer Edition、Beta あるいは Nightly ビルドでデスクトップ版 Firefox の最新機能をテストしてください。
 
@@ -116,6 +141,19 @@ Firefox Nightly は Mozilla へ自動的にフィードバックを送信しま�
 Nightly Blog {ok}
 
 
+# HTML page title, on the iOS page only.
+;Try New Features in a Pre-Release iOS Browser | Firefox
+Try New Features in a Pre-Release iOS Browser | Firefox
+
+
+# HTML page description, on the iOS page only.
+# Don't translate TestFlight
+;Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
+Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
+
+
+# String is obsolete. Do not remove.
+# HTML page description
 # Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program and help make our mobile browser for iPhone, iPad and iPod touch even better.
 Apple の TestFlight プログラムを通じて iOS 版 Firefox のベータ版をテストし、iPhone、iPad、iPod touch 向けモバイルブラウザーのさらなる改良にご協力ください。

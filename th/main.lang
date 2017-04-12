@@ -2,81 +2,14 @@
 การนำทาง
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>สำหรับ</span> เดสก์ท็อป
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>สำหรับ</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>สำหรับ</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV {ok}
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-For desktops &amp; laptops
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-For phones &amp; tablets
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-ภาพรวม
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-เชื่อถือได้
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-ยืดหยุ่น
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-เร็ว
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 เกี่ยวกับ
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-อุปกรณ์
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-สำหรับคู่ค้า
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,11 +20,6 @@ For phones &amp; tablets
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 อย่าตามรอย
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Tiles
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +46,6 @@ Developer Edition
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 ข่าว
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-สำหรับนักพัฒนา
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-ค้นหาอุปกรณ์ของฉัน
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-นักพัฒนา
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -224,11 +137,6 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 คุกกี้
 
 
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates
-
-
 ;Legal Notices
 ข้อกฎหมาย
 
@@ -295,15 +203,15 @@ MB {ok}
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-ยกเว้นจะ<a href="%s">ถูกระบุ</a>เป็นอย่างอื่น เนื้อหาในเว็บนี้อยู่ภายใต้ <br /><a href="%s">สัญญาอนุญาตครีเอทีฟคอมมอนส์ แสดงที่มา อนุญาตแบบเดียวกัน 3.0</a> หรือรุ่นใหม่กว่า
+เว้นแต่จะ <a href="%s">ระบุไว้</a> เป็นอย่างอื่น เนื้อหาในไซต์นี้อยู่ภายใต้ <br /><a href="%s">สัญญาอนุญาต Creative Commons แสดงที่มา อนุญาตแบบเดียวกัน v3.0</a> หรือรุ่นใดก็ตามหลังจากนั้น
 
 
 ;Report Trademark Abuse
-รายการการใช้เครื่องหมายการค้าที่ผิดวัตถุประสงค์
+รายงานการใช้เครื่องหมายการค้าที่ผิดวัตถุประสงค์
 
 
 ;Free Upgrade
-ปรับรุ่นฟรี
+อัปเกรดฟรี
 
 
 # social networks such as Facebook and Twitter
@@ -357,24 +265,12 @@ MB {ok}
 อุปกรณ์พกพา
 
 
-;Check out the new look and feel of Firefox.
-ลอง Firefox โฉมใหม่
-
-
 ;View Full Site
 ดูเต็มรูปแบบ
 
 
-;Download for <span>Android</span>
-ดาวน์โหลดสำหรับ <span>Android</span>
-
-
 ;Desktop
 เดสก์ท็อป
-
-
-;Firefox Beta for mobile
-Firefox Beta สำหรับอุปกรณ์เคลื่อนที่
 
 
 ;Firefox for mobile
@@ -385,37 +281,12 @@ Firefox สำหรับอุปกรณ์เคลื่อนที่
 อีเมล
 
 
-;Super speed
-เร็วสุดยอด
-
-
-;Stunning graphics
-กราฟฟิคสุดประทับใจ
-
-
-;The latest technologies
-เทคโนโลยีล่าสุด
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-คุณต้องปรับรุ่น! คงความปลอดภัยไว้ด้วยเวลาไม่กี่นาที <br/> เริ่มใช้ Firefox รุ่นใหม่เพื่อการท่องและปรับแต่งเว็บที่ดีที่สุด <br/>   เร็วและฟรี!
-
-
 ;Upgrade now
-ปรับรุ่นทันที
+อัปเกรดตอนนี้
 
 
 ;Update now
-ปรับรุ่นทันที
-
-
-;Supported Devices
-อุปกรณ์ที่รองรับ
-
-
-# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-;What’s New
-มีอะไรใหม่
+อัปเดตตอนนี้
 
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
@@ -425,7 +296,7 @@ Firefox สำหรับอุปกรณ์เคลื่อนที่
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-ส่วนหนึ่งของเนื้อหานี้นั้นสงวนลิขสิทธิ์ 1998–%(current_year)s โดยผู้มีส่วนร่วมของ mozilla.org แต่ละคน เนื้อหาอยู่ภายใต้ <a href="%(url)s">สัญญาอนุญาตครีเอทีฟคอมมอนส์</a>
+บางส่วนของเนื้อหานี้สงวนลิขสิทธิ์ ©1998–%(current_year)s โดยผู้มีส่วนร่วมของ mozilla.org แต่ละคน เนื้อหาใช้งานได้ภายใต้ <a href="%(url)s">สัญญาอนุญาต Creative Commons</a>
 
 
 # Footer string (will replace "Contribute to this page")
@@ -446,11 +317,6 @@ Firefox สำหรับอุปกรณ์เคลื่อนที่
 # Footer item on some pages to link to a tour of features
 ;Tour
 เที่ยวชม
-
-
-# Footer item
-;Partner with Us
-เป็นพันธมิตรกับเรา
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -483,84 +349,17 @@ Sync {ok}
 การสนับสนุน Android
 
 
-# Top menu item on firefox/update page
-;Performance
-ประสิทธิภาพ
-
-
-# Top menu item on firefox/update page
-;Technology
-เทคโนโลยี
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-ความเป็นส่วนตัวและความปลอดภัย
-
-
-# Top menu item on firefox/update page
 ;Releases
 รุ่นที่ออก
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox {ok}
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox สำหรับองค์กร
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-ส่วนเสริมสำหรับอุปกรณ์พกพา
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-การสนับสนุนอุปกรณ์พกพา
-
-
-# Top menu item on firefox/update page
 ;Blog
 บล็อก
 
 
-# Top menu item on firefox/update page
-;About Firefox
-เกี่ยวกับ Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-เข้าร่วม Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-มีส่วนร่วม
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-อาสาสมัคร
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-เครื่องมือสำหรับแบรนด์
-
-
-# Top menu item on firefox/update page
-;Partnerships
-พันธมิตร
-
-
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-ตามข้อมูลใหม่ของ Mozilla
+รับการอัปเดตจาก Mozilla
 
 
 # share button for social networks
@@ -620,7 +419,7 @@ Firefox บน Facebook
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
-Software and other innovations designed to advance our mission.
+ซอฟต์แวร์และนวัตกรรมอื่นออกแบบมาเพื่อทำให้ภารกิจเราก้าวไปข้างหน้า
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -635,23 +434,12 @@ Become a volunteer contributor in a number of different areas.
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Committed to you, your privacy and an open Web
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-เลือกอิสระ
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+มอบหมายให้แก่คุณ, ความเป็นส่วนตัวของคุณ และเว็บเสรี
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+โปรดเปิดใช้งาน JavaScript เพื่อแสดงหน้านี้อย่างถูกต้อง
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -760,11 +548,6 @@ Please turn on JavaScript to display this page correctly.
 <abbr>ธ.ค.</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox จะมาบน iOS เร็ว ๆ นี้! <a href="{url}">ลงทะเบียนเพื่อเรียนรู้เพิ่มเติม</a>
-
-
 ;Congrats. You’re up to date!
 Congrats. You’re up to date!
 
@@ -786,15 +569,11 @@ HTML {ok}
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
-โอ๊ะ! ตรวจสอบให้แน่ใจว่าคุณกรอกอีเมลถูกต้อง
+โอ๊ะ! ตรวจสอบให้แน่ใจว่าป้อนที่อยู่อีเมลที่ถูกต้อง
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -809,17 +588,17 @@ Keep up with<br> all things Firefox.
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-กรอกอีเมลของคุณที่นี่
+อีเมลของคุณที่นี่
 
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+ลงทะเบียนตอนนี้
 
 
 # Old newsletter subscription Button
 ;Sign me up
-บอกรับข่าว
+ลงทะเบียน
 
 
 ;Select country
@@ -840,16 +619,6 @@ Sign Up Now
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-ขอบคุณ! โปรดตรวจสอบกล่องจดหมายของคุณเพื่อยืนยันการบอกรับจดหมายข่าว
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-คุณจะได้รับอีเมลจาก mozilla@e.mozilla.org เพื่อยืนยันการบอกรับจดหมายข่าว ถ้าคุณไม่พบจดหมายฉบับนั้นลองตรวจสอบกล่องจดหมายขยะดู คุณจะต้องยืนยันการบอกรับจดหมายข่าวเพื่อให้การบอกรับจดหมายข่าวนั้นสมบูรณ์
 
 
 ;Read all about it in our <span>newsletter</span>
@@ -878,5 +647,10 @@ If you haven’t previously confirmed a subscription to a Mozilla-related newsle
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Internet Health
 สุขภาพอินเทอร์เน็ต
+
+
+# Used as title in What's new page for 50
+;Thanks for choosing Firefox!
+ขอบคุณที่เลือก Firefox!
 
 

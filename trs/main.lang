@@ -1,97 +1,25 @@
 ;Navigation
-Navigation
-
-
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>for</span> Desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>for</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>for</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV
+Gaché nu'
 
 
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
-Pre-release downloads
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-For desktops &amp; laptops
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-For phones &amp; tablets
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Overview
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Trusted
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Flexible
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Fast
+Gi'iaj suhui' da' nadunin'
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
-About
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Devices
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-For partners
+Rayi'î
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+Nej aplikasiûn
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Tiles
+Si nana'ui'
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -102,781 +30,627 @@ Interest Dashboard
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+Guenda nej si nagi'iaj
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+Gache nun hui'
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 ;Need help?
-Need help?
+¿ Ni¿ñanj sa ruguñu'unj son aj?
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-For developers
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Find My Device
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Developers
+Noticiâ
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Nagui navegador hua ninin
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+'Iaj sun nika Firefox, nitaj si nachin' ma guenda. So' huin ni'in si garasunt Firefox. Rugujñu'un rukut da' ganin ma'an ruhuat.
 
 
 ;Donate
-Donate
+Ga'ui' che'
 
 
 ;Support
-Support
+Sa ruguñu'unj un
 
 
 ;Products
-Products
+Rasuun
 
 
 ;Add-ons
-Add-ons
+Sa ga'ue nutò'
 
 
 ;About Us
-About Us
+Rayi'in ñunj
 
 
 ;Labs
-Labs
+Rakïj ñaj
 
 
 ;skip to Navigation
-skip to Navigation
+Gun' riña ga'ue gache nun'
 
 
 ;switch language
-switch language
+Naduno' nanj a'mi'
 
 
 ;Back to home page
-Back to home page
+Gun' ñan gayi'ij
 
 
 ;About Mozilla
-About Mozilla
+Rayi'i Mozilla
 
 
 ;Get Involved
-Get Involved
+Gatu gi'iaj sunt
 
 
 ;Careers
-Careers
+Suun
 
 
 ;Press Center
-Press Center
+Rayi'i prensan
 
 
 ;Contact Us
-Contact Us
+Contacto
 
 
 ;Other languages:
-Other languages:
+A'ngo nanj a'mi'
 
 
 # Will replace "Other languages" for the footer's language switcher
 ;Page language:
-Page language:
+Página ma nanj a'mi'
 
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%Y-%m-%d
+%Y-%m-%d {ok}
 
 
 ;Legal
-Legal
+Nuguan' a'nï'ïn
 
 
 # Used as link in the footer
 ;Cookies
-Cookies
-
-
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates
+Cookies {ok}
 
 
 ;Legal Notices
-Legal Notices
+Nuguan nikà
 
 
 ;Privacy Policy
-Privacy Policy
+Sa gara yino’
 
 
 ;Release Notes
-Release Notes
+Nuguan' ri' riña aga' na
 
 
 ;Other Systems and Languages
-Other Systems and Languages
+A'ngo nanj a'mi' ni sistema
 
 
 ;Close
-Close
+Ganarun'
 
 
 ;(in English)
-(in English)
+(nanj ra'ña'an)
 
 
 ;Return to top
-Return to top
+Gun' ne' yata'a
 
 
 ;Features
-Features
+Daj hua ma
 
 
 ;Customize
-Customize
+Nagi'iô' daj huin ruhuô'
 
 
 ;Download
-Download
+Naduni'
 
 
 ;Previous
-Previous
+Sa gachin
 
 
 ;Next
-Next
+Ne'ian an
 
 
 # MegaBytes abbreviation
 ;MB
-MB
+MB {ok}
 
 
 ;MegaBytes
-MegaBytes
+Megabytes
 
 
 ;FAQ
-FAQ
+FAQ {ok}
 
 
 ;Videos
-Videos
+Sa siki' ni'io'
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+Dà doj si gataj ma <a href="%s">si nuhuij</a>, na nun riña sitio web ni na'ninj ma nga <br /><a href="%s">Creative Commons Atribución-Licenciamiento recíproco v3.0</a> nej si a'ngo sa nakà doj..
 
 
 ;Report Trademark Abuse
-Report Trademark Abuse
+Garân ruhuo' rayi'i a'ngo marca
 
 
 ;Free Upgrade
-Free Upgrade
+Nagi'iaj nakà chre'
 
 
 # social networks such as Facebook and Twitter
 ;Follow us on:
-Follow us on:
+Ganiko' ñunj riña:
 
 
 ;Customize with Add-ons
-Customize with Add-ons
+Nagi'iaj sa rugujñu'unj
 
 
 ;Learn More
-Learn More
+Gahio' doj
 
 
 # Same as previous above but with no capitalization on More
 ;Learn more
-Learn more
+Gahio' doj
 
 
 # Link used to play again an animation or a video
 ;Replay
-Replay
+Duguchro'
 
 
 ;Watch the video
-Watch the video
+Ni'io' sa siki'i
 
 
 ;Replay the video
-Replay the video
+Tanikaj ñun
 
 
 ;Share the video
-Share the video
+Duyin'nga' ma
 
 
 ;WebM format
-WebM format
+Formato WebM
 
 
 ;Ogg Theora format
-Ogg Theora format
+Formato Ogg Theora
 
 
 ;MPEG-4 format
-MPEG-4 format
+Formato MPEG-4
 
 
 ;Mobile
-Mobile
-
-
-;Check out the new look and feel of Firefox.
-Check out the new look and feel of Firefox.
+Sa atô'
 
 
 ;View Full Site
-View Full Site
-
-
-;Download for <span>Android</span>
-Download for <span>Android</span>
+Ni'io' da'ua ngè sitiô
 
 
 ;Desktop
-Desktop
-
-
-;Firefox Beta for mobile
-Firefox Beta for mobile
+Escritorio
 
 
 ;Firefox for mobile
-Firefox for mobile
+Firefos guendà nej aga' ato'
 
 
 ;Email
-Email
-
-
-;Super speed
-Super speed
-
-
-;Stunning graphics
-Stunning graphics
-
-
-;The latest technologies
-The latest technologies
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+Korrêo
 
 
 ;Upgrade now
-Upgrade now
+Nagi'iaj nako' hiàj
 
 
 ;Update now
-Update now
-
-
-;Supported Devices
-Supported Devices
-
-
-# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-;What’s New
-What’s New
+Nagi'ia nako' ma
 
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
 ;Privacy
-Privacy
+Sa hùii
 
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+Da'aj sa nu riña man huin ©1998–%(current_year)s sa 'iaj sun nej dugui' nikaj ñu'unj mozilla.org. da'uit gachinj ni'iat riña <a href="%(url)s">Creative Commons</a>.
 
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+Rugujñu'unj riña sitiô na
 
 
 # Footer string
 ;Contribute to this page
-Contribute to this page
+Rugujñu'unj riña página na
 
 
 # Top menu item
 ;Mission
-Mission
+Ña guchi'
 
 
 # Footer item on some pages to link to a tour of features
 ;Tour
-Tour
-
-
-# Footer item
-;Partner with Us
-Partner with Us
+Gaché nu'
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync
+Sync {ok}
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-Desktop Add-ons
+Sa rugujñu'unj si aga' re'
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+Sa rugujñu'unj Android
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Themes
-Themes
+Tema
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Desktop Support
+Sa dugu'nin' rukù Escritorio
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+Sa dugu'nin' ruku Android
 
 
-# Top menu item on firefox/update page
-;Performance
-Performance
-
-
-# Top menu item on firefox/update page
-;Technology
-Technology
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Privacy &amp; Security
-
-
-# Top menu item on firefox/update page
 ;Releases
-Releases
+Sa duyingo'
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox for Organizations
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Mobile Add-ons
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Mobile Support
-
-
-# Top menu item on firefox/update page
 ;Blog
-Blog
-
-
-# Top menu item on firefox/update page
-;About Firefox
-About Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Join Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Participate
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Volunteer
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Brand Toolkit
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Partnerships
+Blog {ok}
 
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-Get Mozilla updates
+Nahuin ràa sa nagui'iaj nako' Mozilla
 
 
 # share button for social networks
 ;Share
-Share
+Duyingo'
 
 
 # footer link
 ;Mozilla on Twitter
-Mozilla on Twitter
+Mozilla riña Twitter
 
 
 # footer link
 ;Firefox on Twitter
-Firefox on Twitter
+Firefox riña Twitter
 
 
 # footer link
 ;Mozilla on Facebook
-Mozilla on Facebook
+Mozilla riña Facebook
 
 
 # footer link
 ;Firefox on Facebook
-Firefox on Facebook
+Firefox riña Facebook
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
-Forums
+Foros
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+Patentes
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+Daj ganikaj ñu'un'
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
-Governance
+Daj ga'nin'
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
-History
+Daran' rajsunt
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Our Products
-Our Products
+Sì rasun'
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
-Software and other innovations designed to advance our mission.
+Software ni a'ngo sa rugujñu'unj da' guchi' ñan anin ruo'.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Become a volunteer contributor in a number of different areas.
+Ganahuin ngo dugui' rugujñu'unj a'ngo suun.
 
 
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
-Menu
+Menû
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Committed to you, your privacy and an open Web
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Choose Independent
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Hua nikà ruaj ngàt, ni nga si redt.
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+Nachrun JavaScript da' ga'ue gi'iaj sunt nga página na.
 
 
 # Used as link to /firefox/desktop in footers on some pages
 ;Firefox Features
-Firefox Features
+Daj hua Firefox
 
 
 # Used as link to SUMO in footers on some pages
 ;Firefox Help
-Firefox Help
+Ruguñu'unj Firefox
 
 
 ;January
-January
+Enero
 
 
 ;February
-February
+Febrero
 
 
 ;March
-March
+Marzo
 
 
 ;April
-April
+Abril
 
 
 ;May
-May
+Mayû
 
 
 ;June
-June
+Juniû
 
 
 ;July
-July
+Juliû
 
 
 ;August
-August
+Gustû
 
 
 ;September
-September
+Septiembre
 
 
 ;October
-October
+Octubre
 
 
 ;November
-November
+Noviembre
 
 
 ;December
-December
+Diciembre
 
 
 ;<abbr>Jan</abbr>
-<abbr>Jan</abbr>
+<abbr>Ene</abbr>
 
 
 ;<abbr>Feb</abbr>
-<abbr>Feb</abbr>
+<abbr>Feb</abbr> {ok}
 
 
 ;<abbr>Mar</abbr>
-<abbr>Mar</abbr>
+<abbr>Mar</abbr> {ok}
 
 
 ;<abbr>Apr</abbr>
-<abbr>Apr</abbr>
+<abbr>Abr</abbr>
 
 
 ;<abbr>May</abbr>
-<abbr>May</abbr>
+<abbr>May</abbr> {ok}
 
 
 ;<abbr>Jun</abbr>
-<abbr>Jun</abbr>
+<abbr>Jun</abbr> {ok}
 
 
 ;<abbr>Jul</abbr>
-<abbr>Jul</abbr>
+<abbr>Jul</abbr> {ok}
 
 
 ;<abbr>Aug</abbr>
-<abbr>Aug</abbr>
+<abbr>Agos</abbr>
 
 
 ;<abbr>Sep</abbr>
-<abbr>Sep</abbr>
+<abbr>Sep</abbr> {ok}
 
 
 ;<abbr>Oct</abbr>
-<abbr>Oct</abbr>
+<abbr>Oct</abbr> {ok}
 
 
 ;<abbr>Nov</abbr>
-<abbr>Nov</abbr>
+<abbr>Nov</abbr> {ok}
 
 
 ;<abbr>Dec</abbr>
-<abbr>Dec</abbr>
-
-
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+<abbr>Dic</abbr>
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+Guruat. ¡Ngà huaj!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
 ;Format
-Format
+Formatù
 
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;Text
-Text
+Formatù
 
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
-Whoops! Be sure to enter a valid email address.
+¡Uy! Gachrun ngo korreô ni'ñanj an.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Guendaj ni hua hue'ej sin Mozilla achín ni'iaj garasunj sa ni'in guendaj <a href="%s">dnaj hua nian sa hûii</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Garasun nga <br> nuin si hua rayi'i Firefox.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Get Firefox news
+Nahuin ra'a noticia rayi'i Firefox
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-YOUR EMAIL HERE
+SI KORREÔ ÑUNA
 
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+Guta' si yuguit
 
 
 # Old newsletter subscription Button
 ;Sign me up
-Sign me up
+¡Guta' si yuguí!
 
 
 ;Select country
-Select country
+Ganahui ngo país
 
 
 ;Available Languages
-Available Languages
+Nej nanj hua
 
 
 ;We will only send you Mozilla-related information.
-We will only send you Mozilla-related information.
+Man si nuguan' Mozilla ga'ue ga'ninj ñunj.
 
 
 ;Thanks!
-Thanks!
+Thanks! {ok}
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
-
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Thanks! Please check your inbox to confirm your subscription.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Ni'ias si nga garajyinat gi'iaj sunt nga Mozilla, si nihuij ni da'ui ginùn huint. Gi'iaj suntuj ni ni'iaj riña si korreôt da' gi'iaj hià raj.
 
 
 ;Read all about it in our <span>newsletter</span>
-Read all about it in our <span>newsletter</span>
+¡Gahia daran' sa da'uít gini'in rayi'ì Firefox riña <span>riña ma nuguan'an!</span>
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Guta' si yuguit da' nahuin ra'at da' ahuii sa nakà 'iaj sun nga Firefox, daran ngo sa' nahuin nakà da' ga'ue garasun hue'uet si navegador rá. ¡Danaj huin gi'io' da' ga'ue girinu'un ne'ñan doj!
 
 
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+<span>Firefox</span> guenda iOS
 
 
 ;Get Firefox tips, tricks, news and more
-Get Firefox tips, tricks, news and more
+Nana'ui' nuin si hua doj riña Firefox
 
 
 # This string will be used as a navigation label in home page, pointing to /technology
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Web Innovations
-Web Innovations
+Web Innovations {ok}
 
 
 # This string will be used as a navigation label in home page, pointing to /internet-health
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Internet Health
-Internet Health
+Hua hue'e internet
+
+
+# Used as title in What's new page for 50
+;Thanks for choosing Firefox!
+Thanks for choosing Firefox!
 
 

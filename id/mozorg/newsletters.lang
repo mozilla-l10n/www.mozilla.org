@@ -1,4 +1,7 @@
 ## active ##
+## mozilla_newsletter_2017 ##
+## mozilla_newsletter_copy ##
+## newsletter_confirm_2016 ##
 ## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
 
@@ -18,12 +21,27 @@ Pilih negara
 Negara:
 
 
+# Headline in /newsletter
+;Read all about it in our <span>newsletter</span>
+Baca selengkapnya di <span>nawala</span> kami
+
+
+# Subtitle in /newsletter
+;Subscribe to updates and keep current with Mozilla news. It’s the perfect way for us to keep in touch!
+Berlanggananlah untuk mendapatkan kabar terbaru dengan berita Mozilla. Ini adalah cara terbaik bagi kita untuk tetap terhubung!
+
+
+# Obsolete string, do not remove
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Berlangganan berita bulanan tentang kabar terbaru dari Mozilla, termasuk kiat untuk mendapatkan manfaat sebesar-besarnya dari peramban Firefox Anda. Cara tepat untuk selalu mendapat kabar Mozilla terhangat!
+
+
 ;You’re awesome!
 Anda keren!
 
 
 ;And we’re not just saying that because you trusted us with your email address.
-And we’re not just saying that because you trusted us with your email address.
+Dan kami tidak sekedar mengatakannya hanya karena Anda mempercayakan alamat surel pada kami.
 
 
 ;Please be sure to add mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
@@ -31,11 +49,23 @@ Pastikan menambahkan mozilla@e.mozilla.org ke buku alamat Anda agar surel kami s
 
 
 ;Mozilla touches on a variety of important issues.
-Mozilla touches on a variety of important issues.
+Mozilla membahas berbagai macam permasalahan yang penting.
 
 
 ;Open your inbox (and your heart) even more — take a look at other topics we cover.
-Open your inbox (and your heart) even more — take a look at other topics we cover.
+Bukalah kotak masuk (dan hati Anda) lebih lebar — simaklah topik yang kami cakup.
+
+
+;Love the web? So do we!
+Mecintai web? Begitu juga kami!
+
+
+;Join thousands of developers like you who are learning the best of web development.
+Bergabunglah dengan ribuan pengembang seperti Anda yang mempelajari pengembangan web yang terbaik.
+
+
+;If you don’t like the Mozilla developer newsletter, you can easily unsubscribe (but we think you’ll like it).
+Jika tidak menyukai nawala pengembang Mozilla, Anda bisa dengan mudah keluar (tapi kami yakin Anda akan menyukainya).
 
 
 # Form submit button on the Student Ambassador newsletter subscription form
@@ -113,12 +143,12 @@ Nawala bulanan agar Anda selalu mendapatkan kabar terbaru tentang program Firefo
 
 # Name for the newsletter in Newsletter subscription page
 ;Mozilla Developer Newsletter
-Mozilla Developer Newsletter
+Nawala Pengembang Mozilla
 
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Developer Newsletter)
 ;A developer's guide to highlights of Web platform innovations, best practices, new documentation and more.
-A developer's guide to highlights of Web platform innovations, best practices, new documentation and more.
+Panduan pengembang untuk menyorot inovasi, praktik terbaik, dokumentasi baru dan lainnya dari dunia Web.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -622,7 +652,7 @@ Lihat ke mana Web akan membawa Anda dengan tips, trik Firefox dan pemantau Inter
 
 
 ;Sign up, read up,<br> stay informed.
-Sign up, read up,<br> stay informed.
+Daftar, baca,<br> tetap terhubung.
 
 
 # String obsolete.  Do NOT remove.
@@ -632,7 +662,7 @@ Mendaftar. Menyimak.<br> Buatlah perbedaan.
 
 
 ;Get smart on the issues affecting your life online.
-Get smart on the issues affecting your life online.
+Pelajari permasalahan yang mempengaruhi kehidupan daring Anda.
 
 
 # String obsolete.  Do NOT remove.

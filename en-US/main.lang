@@ -2,81 +2,14 @@
 Navigation
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-<span>for</span> Desktop
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>for</span> Android
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>for</span> iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-TV
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-For desktops &amp; laptops
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-For phones &amp; tablets
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-Overview
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-Trusted
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-Flexible
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-Fast
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 About
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-Devices
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-For partners
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,11 +20,6 @@ Apps
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Do Not Track
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-Tiles
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +46,6 @@ Need help?
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 News
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-For developers
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-Find My Device
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-Developers
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -224,11 +137,6 @@ Legal
 Cookies
 
 
-# Used as link in the footer
-;Firefox Affiliates
-Firefox Affiliates
-
-
 ;Legal Notices
 Legal Notices
 
@@ -263,7 +171,6 @@ Features
 
 ;Customize
 Customize
-
 
 
 ;Download
@@ -358,24 +265,12 @@ MPEG-4 format
 Mobile
 
 
-;Check out the new look and feel of Firefox.
-Check out the new look and feel of Firefox.
-
-
 ;View Full Site
 View Full Site
 
 
-;Download for <span>Android</span>
-Download for <span>Android</span>
-
-
 ;Desktop
 Desktop
-
-
-;Firefox Beta for mobile
-Firefox Beta for mobile
 
 
 ;Firefox for mobile
@@ -386,37 +281,12 @@ Firefox for mobile
 Email
 
 
-;Super speed
-Super speed
-
-
-;Stunning graphics
-Stunning graphics
-
-
-;The latest technologies
-The latest technologies
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-
-
 ;Upgrade now
 Upgrade now
 
 
 ;Update now
 Update now
-
-
-;Supported Devices
-Supported Devices
-
-
-# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-;What’s New
-What’s New
 
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
@@ -449,11 +319,6 @@ Mission
 Tour
 
 
-# Footer item
-;Partner with Us
-Partner with Us
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync
@@ -484,79 +349,12 @@ Desktop Support
 Android Support
 
 
-# Top menu item on firefox/update page
-;Performance
-Performance
-
-
-# Top menu item on firefox/update page
-;Technology
-Technology
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-Privacy &amp; Security
-
-
-# Top menu item on firefox/update page
 ;Releases
 Releases
 
 
-# Top menu item on firefox/update page
-;Firefox
-Firefox
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-Firefox for Organizations
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-Mobile Add-ons
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-Mobile Support
-
-
-# Top menu item on firefox/update page
 ;Blog
 Blog
-
-
-# Top menu item on firefox/update page
-;About Firefox
-About Firefox
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-Join Mozilla
-
-
-# Top menu item on firefox/update page
-;Participate
-Participate
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-Volunteer
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-Brand Toolkit
-
-
-# Top menu item on firefox/update page
-;Partnerships
-Partnerships
 
 
 # Newsletter subscription form above footer on some pages
@@ -637,19 +435,6 @@ Menu
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Committed to you, your privacy and an open Web
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-Choose Independent
-
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -763,11 +548,6 @@ December
 <abbr>Dec</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-
-
 ;Congrats. You’re up to date!
 Congrats. You’re up to date!
 
@@ -794,10 +574,6 @@ Whoops! Be sure to enter a valid email address.
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
 I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-
-
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -845,16 +621,6 @@ Thanks!
 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 
 
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-Thanks! Please check your inbox to confirm your subscription.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-
-
 ;Read all about it in our <span>newsletter</span>
 Read all about it in our <span>newsletter</span>
 
@@ -881,3 +647,8 @@ Web Innovations
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Internet Health
 Internet Health
+
+
+# Used as title in What's new page for 50
+;Thanks for choosing Firefox!
+Thanks for choosing Firefox!

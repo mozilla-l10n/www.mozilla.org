@@ -1,63 +1,64 @@
+## active ##
 ## NOTE: Demo server available at url: https://www-dev.allizom.org/plugincheck/
 
 
 # Page title (HTML attribute)
 ;Keep your Firefox healthy with a quick checkup
-Keep your Firefox healthy with a quick checkup
+Držite Firefox zdravlje kao brzo provjeru
 
 
 # Page description (HTML attribute)
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
+Koristite Flash? Brzo vrijeme? Java? Ako koristite ovo kako bi vaše Firefox iskustvo bilo fenomenalno, provjerite plugin! Oni će se možda morati ažurirati.
 
 
 # Main title
 ;Check Your Plugins
-Provjerite svoje plugine
+Provjerite vaše plugin-ove
 
 
 ;Plugins power the videos, animations and games in your Firefox. Keep an eye on their status and keep them up to date.
-Plugins power the videos, animations and games in your Firefox. Keep an eye on their status and keep them up to date.
+Plugini napajanja video, animacija i igrica u Firefoxu. Obratite pažnju na njihov status i držite ih do danas.
 
 
 ;Be sure to restart your Firefox after making all recommended updates.
-Be sure to restart your Firefox after making all recommended updates.
+Budite sigurni da ponovo pokrenete Firefox nakon što napravite sve preporučene ispravke.
 
 
 ;You are using an older version of Firefox.
-You are using an older version of Firefox.
+Koristite stariju verziju Firefoxa.
 
 
 ;Update now to keep your plugins running smoothly and securely.
-Update now to keep your plugins running smoothly and securely.
+Ažurirajte sada kako bi zadržali da vaš plugin radi glatko i čvrsto.
 
 
 ;Currently the plugin check service is only available to Firefox users on desktop and Android.
-Currently the plugin check service is only available to Firefox users on desktop and Android.
+Trenutna provjera usluga plugina je dostupna samo za Firefox korisnike na desktopu i Androidu.
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+Nijedan plugin nije pronađen. Ako mislite da je ovo greška, <a href="%(bugzilla_url)s"> molimo vas ubilježite Bug </a> i javite nam.
 
 
 ;Common plugins you should check often.
-Common plugins you should check often.
+Obični plugin se treba često provjeriti.
 
 
 ;All plugins
-All plugins
+Svi priključci
 
 
 ;These plugins are out of date. Please update.
-These plugins are out of date. Please update.
+Ovi priključci su zastarjeli. Molimo vas ažurirajte.
 
 
 ;Plugin
-Plugin
+Priključci
 
 
 ;Status
-Stanje
+Status {ok}
 
 
 ;Action
@@ -65,51 +66,51 @@ Akcija
 
 
 ;These plugins are up to date. No action required.
-These plugins are up to date. No action required.
+Ovi priključci su ažurirani. Nije potrebna nikakva akcija.
 
 
 ;These plugins have an unknown status. Follow the links to learn more.
-These plugins have an unknown status. Follow the links to learn more.
+Ovi priključci imaju nepoznat status. Pratite veze kako biste saznali više.
 
 
 ;Common Plugin Questions
-Common Plugin Questions
+Česta pitanja o priključcima
 
 
 ;Need help? Visit Mozilla Support.
-Need help? Visit Mozilla Support.
+Trebate pomoć? Posjetite Mozilla podršku.
 
 
 ;What is a plugin?
-Šta je plugin?
+Šta je priključak?
 
 
 ;Plugins are bits of software that power videos, animation and games in your browser.
-Plugins are bits of software that power videos, animation and games in your browser.
+Priključci su komadići softvera koji daju moć za video, animacije i igre u vašem pretraživaču.
 
 
 ;They’re built outside of Firefox by companies like Adobe Systems and Apple.
-They’re built outside of Firefox by companies like Adobe Systems and Apple.
+Oni su izgrađen izvan Firefox kompanije kao što su Adobe Systems i Apple.
 
 
 ;Why should I update my plugins?
-Zašto bih trebao/la vršiti update mojih plugina?
+Zašto bi trebalo da ažuriram priključak?
 
 
 ;Out of date plugins can increase your risk for attack by malware, viruses and other security threats.
-Out of date plugins can increase your risk for attack by malware, viruses and other security threats.
+Zastarjeli priključci mogu da povećaju vaš rizik od napada zlonamjernih programa, virusa i drugih sigurnosnih prijetnji.
 
 
 ;They can also cause interruptions that negatively affect your browsing experience.
-They can also cause interruptions that negatively affect your browsing experience.
+Oni također mogu uzrokovati prekide koji negativno utiču na vaše iskustvo pregledavanja.
 
 
 ;Updated plugins keep your browser working smoothly and safely.
-Updated plugins keep your browser working smoothly and safely.
+Ažuriran priključak omogućava da vaš pretraživač radi glatko i sigurno.
 
 
 ;Plugins don’t always update automatically so it’s up to you from time to time.
-Plugins don’t always update automatically so it’s up to you from time to time.
+Priključci se neće uvijek ažurirati automatski, tako da je to do vas s vremena na vrijeme.
 
 
 ;How can Firefox help me?
@@ -117,80 +118,80 @@ Kako mi Firefox može pomoći?
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to keep your Firefox safe.
-In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to keep your Firefox safe.
+U budućnosti, Firefox će ažurirati priključke za vas. Do tada, trebali bi redovito provjeriti ovu stranicu i ažurirati vaše priključke da bi Firefox bio siguran.
 
 
 ;How can I see which plugins I have installed in my Firefox?
-How can I see which plugins I have installed in my Firefox?
+Kako da vidim koji priključak sam instalirao u moj Firefox?
 
 
 ;We automatically detected your plugins above. To view all the plugins you have installed in Firefox, follow these steps in your desktop browser:
-We automatically detected your plugins above. To view all the plugins you have installed in Firefox, follow these steps in your desktop browser:
+Mi automatski prepoznajemo vaš priključak iznad. Da biste pogledali sve priključke koje ste instalirali u Firefox, slijedite ove korake na vašem desktop pretraživaču:
 
 
 ;Open the <span class="menu">menu</span>.
-Open the <span class="menu">menu</span>.
+Otvorite <span class="menu">meni</span>.
 
 
 ;Choose Add-ons.
-Izaberite Add-oni.
+Izaberite dodatke.
 
 
 ;Click the plugins tab.
-Kliknite tab plugini.
+Kliknite na tab priključci.
 
 
 ;How do I disable a plugin?
-Kako mogu onemogućiti plugin?
+Kako da onemogućim priključak?
 
 
 ;In Firefox for desktop:
-In Firefox for desktop:
+U Firefoxu za desktop:
 
 
 ;Click on the drop down next to the plugin you wish to disable.
-Click on the drop down next to the plugin you wish to disable.
+Kliknite na padajući meni pored priključka koji želite isključiti.
 
 
 ;Select "Never Activate" from the available choices.
-Select "Never Activate" from the available choices.
+Odaberite "Nikada aktivirati" iz dostupnih opcija.
 
 
 ;Caution: Disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
-Caution: Disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
+Pažnja: Onemogućavanje priključka znači da više nećete moći da radite određene stvari. Na primjer, ako onemogućite Flash, nećete moći da gledate video snimke na nekim web stranicama za strimovanje videa.
 
 
 ;Back to Top
-Back to Top
+Povratak na vrh
 
 
 # This is a button telling the user to update their plugin
 ;Update Now
-Izvrši update odmah
+Ažuriraj sada
 
 
 # This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+Ikona priključka
 
 
 # This is the string used to indicate that the plugin is up to date
 ;up to date
-up to date
+najnovije
 
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+nepoznato
 
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+zastarjelo
 
 
 # This is the string used to indicate that the plugin is vulnerable
 ;vulnerable
-ranjiv
+osjetljivo
 
 

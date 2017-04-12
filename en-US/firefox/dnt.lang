@@ -1,3 +1,4 @@
+## macos_branding ##
 ## NOTE: page is at https://www-dev.allizom.org/firefox/dnt/
 ## URL: https://www-dev.allizom.org/%LOCALE%/firefox/dnt/
 
@@ -82,6 +83,12 @@ How do I enable Do Not Track in Firefox?
 This feature is not enabled by default. You can find the Do Not Track request on the Privacy pane. <span id="%(id)s">On Windows, go to Tools &gt; Options&hellip; &gt; Privacy.</span>
 
 
+## TAG: macos_branding
+;On macOS, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
+On macOS, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
+
+
+# String is obsolete. Do NOT remove.
 ;On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
 On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
 
@@ -168,5 +175,3 @@ Enable Do Not Track in Internet Explorer 9
 
 ;To enable Do Not Track in IE 9, you need to enable IE 9’s <a href="%(url)s">Tracking Protection</a> feature. The easiest way to do that is to install <a href="%(tpl)s">Mozilla’s Simple Tracking Protection List</a>. If you view this page in IE 9, there will be instructions right here.
 To enable Do Not Track in IE 9, you need to enable IE 9’s <a href="%(url)s">Tracking Protection</a> feature. The easiest way to do that is to install <a href="%(tpl)s">Mozilla’s Simple Tracking Protection List</a>. If you view this page in IE 9, there will be instructions right here.
-
-

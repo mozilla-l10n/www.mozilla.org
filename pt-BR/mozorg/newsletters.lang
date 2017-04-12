@@ -1,4 +1,5 @@
 ## active ##
+## mozilla_newsletter_2017 ##
 ## mozilla_newsletter_copy ##
 ## newsletter_confirm_2016 ##
 ## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
@@ -20,6 +21,21 @@ Escolha o país
 País:
 
 
+# Headline in /newsletter
+;Read all about it in our <span>newsletter</span>
+Leia sobre isso em nosso <span>boletim informativo</span>
+
+
+# Subtitle in /newsletter
+;Subscribe to updates and keep current with Mozilla news. It’s the perfect way for us to keep in touch!
+Subscreva para receber atualizações e mantenha-se atualizado com as notícias da Mozilla. É a maneira perfeita para nos mantermos em contato!
+
+
+# Obsolete string, do not remove
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Cadastre-se para receber atualizações mensais e estar em dia sobre as novidades da Mozilla, inclusive, sobre dicas para aproveitar melhor seu Firefox. É a melhor maneira de ficarmos em contato!
+
+
 ;You’re awesome!
 Você é demais!
 
@@ -38,6 +54,18 @@ A Mozilla aborda uma ampla variedade de temas importantes.
 
 ;Open your inbox (and your heart) even more — take a look at other topics we cover.
 Abra sua caixa de entrada (e seu coração) ainda mais — dê uma olhada em outros tópicos que abordamos.
+
+
+;Love the web? So do we!
+Ama a web? Nós também!
+
+
+;Join thousands of developers like you who are learning the best of web development.
+Junte-se a milhares de desenvolvedores que, como você, estão aprendendo o melhor do desenvolvimento web.
+
+
+;If you don’t like the Mozilla developer newsletter, you can easily unsubscribe (but we think you’ll like it).
+Se você não gostar do boletim informativo para desenvolvedores da Mozilla, você pode facilmente cancelar a inscrição (mas achamos que você irá gostar).
 
 
 # Form submit button on the Student Ambassador newsletter subscription form
@@ -218,7 +246,7 @@ Notícias e informações relacionadas com a saúde da web.
 
 
 ;About Addons
-Sobre complementos
+Sobre extensões
 
 
 ;Firefox OS
@@ -338,7 +366,7 @@ Digite um endereço de e-mail válido
 
 
 ;Newsletter Subscriptions
-Cadastros em newsletters
+Assinaturas de boletins informativos
 
 
 ;Unsubscribe
@@ -402,7 +430,7 @@ Envie o link
 
 
 ;Added extras
-Complementos
+Extensões
 
 
 ;%s is not a valid newsletter
@@ -426,7 +454,7 @@ Você foi descadastrado.
 
 
 ;Make Firefox do more with add-ons.
-Adicione recursos ao Firefox com complementos.
+Adicione recursos ao Firefox com extensões.
 
 
 ;You must agree to the privacy notice
@@ -443,7 +471,7 @@ Outros...
 
 # <title> tag for the subscription confirmation page
 ;Newsletter confirm
-Confirmação da newsletter
+Confirmação do boletim informativo
 
 
 ;Not interested in our newsletters, but like those special announcements? No problem.
@@ -607,7 +635,7 @@ Anúncios especiais, ajudando você a obter o máximo do Webmaker.
 
 
 ;Addon Development
-Desenvolvimento de complementos
+Desenvolvimento de extensões
 
 
 ;Firefox Marketplace for Desktop

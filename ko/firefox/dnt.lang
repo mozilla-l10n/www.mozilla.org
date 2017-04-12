@@ -1,4 +1,5 @@
 ## active ##
+## macos_branding ##
 ## NOTE: page is at https://www-dev.allizom.org/firefox/dnt/
 
 
@@ -82,6 +83,11 @@ Firefox 안드로이드 버전에서도 사용가능한가요?
 이 기능은 기본값으로 켜져 있지 않으며, 개인 정보 설정 패털에서 할 수 있습니다. <span id="%(id)s">윈도 상에서 도구 &gt; 설정 &hellip; &gt; 개인정보</span>
 
 
+;On macOS, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
+macOS에서는 Firefox &gt; 환경 설정 &gt; 개인 정보, 리눅스에서는 편집 &gt; 환경 설정 &gt; 개인 정보입니다.
+
+
+# String is obsolete. Do NOT remove.
 ;On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
 Mac OS X에서는 Firefox &gt; 환경 설정 &gt; 개인 정보, 리눅스에서는 편집 &gt; 환경 설정 &gt; 개인 정보입니다.
 
@@ -123,11 +129,11 @@ Firefox <a href="%(url1)s">쿠키 관리</a> &#8212; 웹 사이트에서 만드�
 
 
 ;The Tracking Preference Expression (DNT) <a href="%s">W3C Editor’s Draft</a>
-The Tracking Preference Expression (DNT) <a href="%s">W3C 표준안</a>
+추적 선호 표시에 대한 (DNT) <a href="%s">W3C 표준안</a>
 
 
 ;Tracking Compliance and Scope <a href="%s">W3C Editor’s Draft</a>
-Tracking Compliance and Scope <a href="%s">W3C 표준안</a>
+추적 규정 및 보안에 대한 <a href="%s">W3C 표준안</a>
 
 
 ;The W3C <a href="%s">Tracking Protection Working Group</a>

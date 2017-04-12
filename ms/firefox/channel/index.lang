@@ -3,11 +3,6 @@
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
-# HTML Description
-;Download and test future releases of Firefox for desktop, Android and iOS.
-Muat turun dan uji keluaran akan datang Firefox untuk desktop, Android dan iOS.
-
-
 # Main page heading. In case the text is too hard to translate, here's an alternative text: "Take the future for a test run."
 ;Take a browse on the wild side.
 Layari masa hadapan untuk mengujinya.
@@ -52,6 +47,24 @@ Gunakan ciri eksperimen kami untuk membentuk masa depan Firefox.
 Ketahui lebih lanjut mengenai Test Pilot
 
 
+# HTML page title, on the Android page only.
+;Try New Features in a Pre-Release Android Browser | Firefox
+Try New Features in a Pre-Release Android Browser | Firefox
+
+
+# String is obsolete. Do not remove.
+# HTML page title
+;Download and test future releases of Firefox for desktop, Android and iOS.
+Muat turun dan uji keluaran akan datang Firefox untuk desktop, Android dan iOS.
+
+
+# HTML Description, on the Android page only.
+;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
+Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
+
+
+# String is obsolete. Do not remove.
+# HTML Description
 ;Download and test the latest Firefox for Android features with Aurora, Beta and Nightly builds.
 Muat turun dan uji Firefox terbaru untuk ciri-ciri Android dengan binaan Aurora, Beta dan Nightly.
 
@@ -80,6 +93,18 @@ Firefox Beta secara automatik menghantar maklum balas kepada Mozilla.
 <a rel="external" href="%(feedback)s">Beri kami maklum balas</a> bagi membantu kami melaksanakan sentuhan terakhir membaiki prestasi dan fungsi dalam persekitaran yang stabil.
 
 
+# HTML page title, on the desktop page only.
+;Try New Browser Features in Pre-Release Versions | Firefox
+Try New Browser Features in Pre-Release Versions | Firefox
+
+
+# HTML page description, on the desktop page only.
+;Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+
+
+# String is obsolete. Do not remove.
+# HTML page description
 ;Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
 Muat turun dan uji Firefox terbaru untuk ciri-ciri desktop dengan binaan Developer Edition, Beta dan Nightly.
 
@@ -116,6 +141,19 @@ Firefox Nightly secara automatik menghantar maklum balas kepada Mozilla.
 Nightly Blog {ok}
 
 
+# HTML page title, on the iOS page only.
+;Try New Features in a Pre-Release iOS Browser | Firefox
+Try New Features in a Pre-Release iOS Browser | Firefox
+
+
+# HTML page description, on the iOS page only.
+# Don't translate TestFlight
+;Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
+Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
+
+
+# String is obsolete. Do not remove.
+# HTML page description
 # Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program and help make our mobile browser for iPhone, iPad and iPod touch even better.
 Uji versi beta Firefox untuk iOS via program Apple TestFlight program dan bantu kami menjadikan pelayar mobile untuk iPhone, iPad dan iPod menjadi lebih baik.

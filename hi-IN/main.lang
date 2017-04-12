@@ -2,81 +2,14 @@
 नेविगेशन
 
 
-# Firefox family navigation menu. Main level item.
-# Example: https://www-dev.allizom.org/firefox/os
-;<span>for</span> Desktop
-डेस्कटॉप <span>के लिए</span>
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> Android
-<span>एंड्राइड</span>  के लिए
-
-
-# Firefox family navigation menu. Main level item.
-;<span>for</span> iOS
-<span>के लिए</span>iOS
-
-
-# Firefox family navigation menu. Main level item.
-;OS
-OS {ok}
-
-
-# Used for the navigation menu only in Firefox OS pages
-;TV
-टीवी
-
-
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 पूर्व लोकार्पण डाउनलोड
 
 
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-;For desktops &amp; laptops
-लैपटॉप &amp; डेस्कटॉप  के लिए
-
-
-# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-;For phones &amp; tablets
-फोन &amp; टैबलेट के लिए
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Overview
-सारांश
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Trusted
-विश्वसनीय
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Flexible
-लचीला
-
-
-# Firefox family navigation menu. Second-level item shared across different menus.
-;Fast
-तेज़ी से
-
-
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 परिचय
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;Devices
-उपकरण
-
-
-# Used in the new Firefox family navigation menu. Second-level item of "OS"
-;For partners
-सहभागीयों के लिए
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -87,11 +20,6 @@ OS {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 ट्रैक न करें
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Tiles
-टाइलें
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -118,21 +46,6 @@ OS {ok}
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 समाचार
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;For developers
-डेवलपर्स के लिए
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Find My Device
-मेरा डिवाइस खोंजे
-
-
-# Firefox family navigation menu. Item displayed pressing the "…" button.
-;Developers
-डेवलेपर
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -222,11 +135,6 @@ OS {ok}
 # Used as link in the footer
 ;Cookies
 कुकीज
-
-
-# Used as link in the footer
-;Firefox Affiliates
-फ़ायरफ़ॉक्स से संबद्ध
 
 
 ;Legal Notices
@@ -357,24 +265,12 @@ Ogg थियोरा प्रारूप
 मोबाइल
 
 
-;Check out the new look and feel of Firefox.
-फ़ायरफ़ॉक्स के ने रूप-रंग को हासिल करें.
-
-
 ;View Full Site
 पूरी साइट देखें
 
 
-;Download for <span>Android</span>
-<span>एंड्रायड</span> के लिए डाउनलोड करें
-
-
 ;Desktop
 डेस्कटॉप
-
-
-;Firefox Beta for mobile
-मोबाइल के लिए फ़ायरफ़ॉक्स बीटा
 
 
 ;Firefox for mobile
@@ -385,37 +281,12 @@ Ogg थियोरा प्रारूप
 ईमेल
 
 
-;Super speed
-जबरदस्त तेज
-
-
-;Stunning graphics
-अद्भुत चित्रादि
-
-
-;The latest technologies
-नवीनतम प्रौद्योगिकी
-
-
-;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-आपको एक उन्नयन की जरूरत है! मात्र एक मिनट से भी कम समय में सुरक्षित रहें.<br/> नई फ़ायरफ़ॉक्स ब्राउज़िंग और वेब पर सबसे अच्छा ब्राउज़िंग और अनुकूलन के लिए अपने नई फ़ायरफ़ॉक्स का उपयोग करना प्रारंभ करें<br/>   यह तेज और मुफ़्त है!
-
-
 ;Upgrade now
 अभी अपग्रेड करें
 
 
 ;Update now
 अभी अपडेट करें
-
-
-;Supported Devices
-समर्थित युक्ति
-
-
-# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-;What’s New
-नया क्या हैं
 
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
@@ -448,11 +319,6 @@ Ogg थियोरा प्रारूप
 यात्रा
 
 
-# Footer item
-;Partner with Us
-हमारे भागीदार बनें
-
-
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
 सिंक
@@ -483,79 +349,12 @@ Ogg थियोरा प्रारूप
 एंड्राइड सहयोग
 
 
-# Top menu item on firefox/update page
-;Performance
-प्रदर्शन
-
-
-# Top menu item on firefox/update page
-;Technology
-प्रौद्योगिकी
-
-
-# Top menu item on firefox/update page
-;Privacy &amp; Security
-गोपनीयता व सुरक्षा
-
-
-# Top menu item on firefox/update page
 ;Releases
 रिलीज
 
 
-# Top menu item on firefox/update page
-;Firefox
-फ़ायरफ़ॉक्स
-
-
-# Top menu item on firefox/update page
-;Firefox for Organizations
-संगठनों के लिए फ़ायरफ़ॉक्स
-
-
-# Top menu item on firefox/update page
-;Mobile Add-ons
-मोबाइल सहयुक्तियाँ
-
-
-# Top menu item on firefox/update page
-;Mobile Support
-मोबाइल समर्थन
-
-
-# Top menu item on firefox/update page
 ;Blog
 ब्लॉग
-
-
-# Top menu item on firefox/update page
-;About Firefox
-फ़ायरफ़ॉक्स परिचय
-
-
-# Top menu item on firefox/update page
-;Join Mozilla
-मोज़िल्ला से जुड़ें
-
-
-# Top menu item on firefox/update page
-;Participate
-सहभागी
-
-
-# Will be used for the navigation. Translate as a verb (call to action), not a noun.
-;Volunteer
-स्वयंसेवी
-
-
-# Top menu item on firefox/update page
-;Brand Toolkit
-ब्रांड टूलकिट
-
-
-# Top menu item on firefox/update page
-;Partnerships
-साझेदारी
 
 
 # Newsletter subscription form above footer on some pages
@@ -636,17 +435,6 @@ Ogg थियोरा प्रारूप
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 आप,आपकी गोपनीयता और एक मुक्त वेब के लिए वचनबद्ध.
-
-
-# Common title used in Fx 10 pages
-;Choose Independent
-स्वतंत्र चुनें
-
-
-# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-# The '#ChooseIndependent' hashtag should not be translated.
-;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-एक स्वतंत्र और खुला इंटरनेट उज्ज्वल के लिए जुनून बनाये रखें! #ChooseIndependent। Firefox चुनें:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -760,11 +548,6 @@ Firefox मदद
 <abbr>दिसम्बर</abbr>
 
 
-# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox iOS के लिए जल्द ही आ रहा है! <a href="{url}"> जानने के लिए साइन अप करें</a>.
-
-
 ;Congrats. You’re up to date!
 मुबारक हो. आप तिथि के साथ हैं!
 
@@ -793,10 +576,6 @@ HTML {ok}
 Mozilla से में ख़ुश हु जेसे इसने मेरी जानकारी को सम्भाले रखा है | जेसा इस गोपनीय <a href="%s">नीति में समझाया गया है</a>
 
 
-;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Mozilla से में ख़ुश हु जेसे इसने मेरी जानकारी को सम्भाले रखा है | जेसा इस गोपनीय <a href="%s">नीति में समझाया गया है</a>
-
-
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
 <br>Firefox पर नजर रखें.
@@ -804,7 +583,7 @@ Mozilla से में ख़ुश हु जेसे इसने मेरी
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-फायरफोक्स समाचार पाएं
+Firefox समाचार पाएं
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
@@ -842,16 +621,6 @@ Mozilla से में ख़ुश हु जेसे इसने मेरी
 अगर आपने पिछले किसी Mozilla संबंधित समाचार की सदस्यता पुष्टि नहीं की है, तो आपको करनी पड़ सकती है. कृपया अपने इनबॉक्स या फर्ज़ी फ़िल्टर में हमारे द्वारा भेजी गयी ईमेल की जांच करें.
 
 
-# Obsolete string. Do not remove.
-;Thanks! Please check your inbox to confirm your subscription.
-धन्यवाद ! कृपया अपना इनबॉक्स जाँचें अपना सब्सक्रिप्शन पक्का करने के लिए.
-
-
-# Obsolete string. Do not remove.
-;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-आप अपनी सदस्यता पुष्टि करने के लिये mozilla@e.mozilla.org से एक ई-मेल पाएंगे. अगर आप इसे नही देख पाते हैं, तो फ़र्जी फ़िल्टर जाँचें. आपको हमारी न्युजलेटर प्राप्त करने के लिये अवश्य अपनी सदस्यता पुष्टि करना चाहिए.
-
-
 ;Read all about it in our <span>newsletter</span>
 इन सबके बारे में पूरा हमारे <span>समाचार</span> पत्र में पढ़े
 
@@ -878,5 +647,10 @@ Firefox सुझाव, तरकीब, न्यूज़ ओर भी बह�
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Internet Health
 इन्टरनेट स्वास्थ
+
+
+# Used as title in What's new page for 50
+;Thanks for choosing Firefox!
+फ़ायरफ़ॉक्स को चुनने के लिए धन्यवाद!
 
 

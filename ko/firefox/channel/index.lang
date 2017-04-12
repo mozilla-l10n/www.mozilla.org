@@ -3,11 +3,6 @@
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
-# HTML Description
-;Download and test future releases of Firefox for desktop, Android and iOS.
-Firefox 데스크톱, 안드로이드 및 iOS에서 향후 출시 기능을 테스트할 수 있는 버전을 다운로드 하세요.
-
-
 # Main page heading. In case the text is too hard to translate, here's an alternative text: "Take the future for a test run."
 ;Take a browse on the wild side.
 미래의 신규 기능을 테스트해보세요!
@@ -52,6 +47,24 @@ iOS {ok}
 Test Pilot 자세히 알아보기
 
 
+# HTML page title, on the Android page only.
+;Try New Features in a Pre-Release Android Browser | Firefox
+Try New Features in a Pre-Release Android Browser | Firefox
+
+
+# String is obsolete. Do not remove.
+# HTML page title
+;Download and test future releases of Firefox for desktop, Android and iOS.
+Firefox 데스크톱, 안드로이드 및 iOS에서 향후 출시 기능을 테스트할 수 있는 버전을 다운로드 하세요.
+
+
+# HTML Description, on the Android page only.
+;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
+Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
+
+
+# String is obsolete. Do not remove.
+# HTML Description
 ;Download and test the latest Firefox for Android features with Aurora, Beta and Nightly builds.
 Firefox for Android의 신규 기능 테스트를 위해 Aurora, Beta 및 Nightly 버전을 다운로드 하세요.
 
@@ -80,6 +93,18 @@ Firefox Beta는 자동으로 Mozilla에 피드백을 보냅니다.
 정식 버전의 기능 안정화 및 성능 향상을 위해 여러분의 <a rel="external" href="%(feedback)s">소중한 의견</a>이 필요합니다.
 
 
+# HTML page title, on the desktop page only.
+;Try New Browser Features in Pre-Release Versions | Firefox
+Try New Browser Features in Pre-Release Versions | Firefox
+
+
+# HTML page description, on the desktop page only.
+;Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+
+
+# String is obsolete. Do not remove.
+# HTML page description
 ;Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
 Firefox 데스크톱의 신규 기능 테스트를 위해 개발자 에디션, Beta 및 Nightly 버전을 다운로드 하세요.
 
@@ -116,6 +141,19 @@ Firefox Nightly 버전은 자동으로 Mozilla에 피드백을 보냅니다.
 Nightly 블로그
 
 
+# HTML page title, on the iOS page only.
+;Try New Features in a Pre-Release iOS Browser | Firefox
+Try New Features in a Pre-Release iOS Browser | Firefox
+
+
+# HTML page description, on the iOS page only.
+# Don't translate TestFlight
+;Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
+Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
+
+
+# String is obsolete. Do not remove.
+# HTML page description
 # Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program and help make our mobile browser for iPhone, iPad and iPod touch even better.
 Firefox iOS 베타 버전은 Apple의 TestFlight 프로그램을 통해 아이폰, 아이패드 및 아이팟에서 좀 더 나은 모바일 브라우저를 개발합니다.

@@ -1,4 +1,5 @@
 ## active ##
+## macos_branding ##
 ## NOTE: page is at https://www-dev.allizom.org/firefox/dnt/
 
 
@@ -23,7 +24,7 @@ Antitracciamento disattivato
 
 
 ;Mozilla is a global, nonprofit organization dedicated to making the Web better. We emphasize principle over profit, and believe that the Web is a shared public resource to be cared for, not a commodity to be sold. We answer to no one but you and believe it is crucial to put you in control of your online experience. We are aiming to give you better insight and control into the ways your personal information is collected, used, stored and shared online.
-Mozilla è una associazione senza fini di lucro impegnata a migliorare il Web a livello globale. Poniamo l’accento sui principi oltre i profitti e crediamo che il Web sia una risorsa pubblica condivisa da tutelare, non una merce da vendere. Non rendiamo conto a nessun altro che a te e crediamo sia fondamentale garantirti il pieno controllo della tua esperienza online. Puntiamo a accrescere la tua consapevolezza e il tuo controllo delle informazioni personali che vengono raccolte, utilizzate, memorizzate e condivise in rete.
+Mozilla è un’organizzazione senza fini di lucro impegnata a migliorare il Web a livello globale. Poniamo l’accento sui principi oltre i profitti e crediamo che il Web sia una risorsa pubblica condivisa da tutelare, non una merce da vendere. Non rendiamo conto a nessun altro che a te e crediamo sia fondamentale garantirti il pieno controllo della tua esperienza online. Puntiamo a accrescere la tua consapevolezza e il tuo controllo delle informazioni personali che vengono raccolte, utilizzate, memorizzate e condivise in rete.
 
 
 ;Mozilla Firefox offers a Do Not Track feature that lets you express a preference not to be tracked by websites. When the feature is enabled, Firefox will tell advertising networks and other websites and applications that you want to opt-out of tracking for purposes like behavioral advertising.
@@ -82,6 +83,11 @@ Come attivo l’antitracciamento in Firefox?
 Questa funzione non è attivata di default. È possibile trovare la preferenza per attivarla nel pannello Privacy. <span id="%(id)s">In Windows, andare in Strumenti &gt; Opzioni… &gt; Privacy.</span>
 
 
+;On macOS, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
+In macOS, andare in Firefox &gt; Preferenze… &gt; Privacy. In Linux, andare in Modifica &gt; Preferenze &gt; Privacy.
+
+
+# String is obsolete. Do NOT remove.
 ;On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
 In Mac OS X, andare in Firefox &gt; Preferenze… &gt; Privacy. In Linux, andare in Modifica &gt; Preferenze &gt; Privacy.
 

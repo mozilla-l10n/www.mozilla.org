@@ -10,6 +10,7 @@ Download %s for Android in your language
 ;Download %s in your language
 %s 언어 버전 다운로드
 
+
 ;Language
 언어별
 
@@ -22,10 +23,12 @@ Download %s for Android in your language
 ;Download Firefox Beta in your language and experience cutting edge features before they make it to final release. Provide feedback to help us refine and polish the next version of Firefox.
 Firefox Beta 언어별 버전을 다운로드하여 최신 기능을 정식 출시 전에 경험하십시오. Firefox 다음 버전을 수정하고 개선하는 데 도움이 되는 피드백을 보내주십시오.
 
+
 # %s is replaced with Firefox.
 # This is displayed on firefox/aurora/all/.
 ;Download %s in your language to experience the newest features and innovations in an unstable environment even before they go to Beta. Give us feedback that will determine what makes it to Final Release and help shape the future of Firefox.
 %s 언어별 다운로드하여, 베타 버전으로 가기 전에 최신 기능과 혁신을 경험해보십시오. 정식 출시에 미래를 좌우하는 데, 도움이 되는 의견을 보내주십시오.
+
 
 # This is displayed on firefox/nightly/all/.
 ;Are you a power-user comfortable installing pre-alpha software? Install Nightly and help us improve Firefox quality, hunt crashes and regressions and test new features as they get coded!
@@ -36,8 +39,10 @@ Firefox Beta 언어별 버전을 다운로드하여 최신 기능을 정식 출�
 ;Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
 Firefox ESR 은 대형 조직에서 데스크톱 환경을 배포하고 유지 관리하는 그룹을 대상으로합니다. <a href="%s">자세히 알아보기</a>
 
+
 ;Firefox is made in large part by volunteers around the world. That’s why we offer it in 90 languages (and why there’s heart and soul in every piece of code).
 Firefox는 전 세계의 자원 봉사자들에 의해 개발됩니다. 이를 통해 90개 언어별 버전을 제공하는 이유입니다.
+
 
 # Product name is hard coded inside the product, thus not localizable.
 ;Firefox Developer Edition
@@ -53,13 +58,14 @@ Firefox Nightly {ok}
 ;Thanks to contributions of Mozilla community members around the world, Firefox is available in 90 languages:
 전 세계 Mozilla 커뮤니티 회원들의 자원 봉사로 90개 언어로 사용자로 제공합니다.
 
+
 # This is displayed on firefox/nightly/all/.
 ;<strong>Warning</strong>: Nightly is updated daily. It is most appropriate for core Mozilla contributors and early adopters, not regular users.
 <strong>경고</strong>: 나이틀리는 매일 업데이트입니다. 일반 사용자가 아닌 Mozilla의 핵심 개발자와 고급 사용자에게 가장 적합합니다.
 
 
 ;Check the system requirements
-시스템 요구사항 
+시스템 요구사항
 
 
 ;Release notes
@@ -84,7 +90,8 @@ Firefox Nightly {ok}
 
 
 ;These localizations aren’t final. We’re waiting for more feedback from the community to perfect them.
-아직 지역화가 완전히 이루어지지 않았고, 커뮤니티에 피드백을 보내실 수 있습니다. 
+아직 지역화가 완전히 이루어지지 않았고, 커뮤니티에 피드백을 보내실 수 있습니다.
+
 
 # Used in Android pages like /firefox/android/beta/all/
 ;Multi-locale

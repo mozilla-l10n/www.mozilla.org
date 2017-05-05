@@ -4,7 +4,7 @@
 
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
-Pre-release downloads
+ດາວໂຫລດລຸ້ນອອກກ່ອນຕົວຈິງ
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -19,23 +19,23 @@ Pre-release downloads
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+ຢ່າຕິດຕາມ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+ແດສ໌ບອດທີ່ຫນ້າສົນໃຈ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+ລຸ້ນສຳລັບນັກພັດທະນາ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+ການທ່ອງເວັບແບບສ່ວນຕົວ
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -50,7 +50,7 @@ Private Browsing
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+ເລືອກບຣາວເຊີທີ່ມີຄວາມເປັນອິດສະລະ
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -83,7 +83,7 @@ Add-ons {ok}
 
 
 ;skip to Navigation
-skip to Navigation
+ຂ້າມໄປຫາການນຳທາງ
 
 
 ;switch language
@@ -107,7 +107,7 @@ skip to Navigation
 
 
 ;Press Center
-Press Center
+ສູນຂ່າວ
 
 
 ;Contact Us
@@ -138,11 +138,11 @@ Press Center
 
 
 ;Legal Notices
-Legal Notices
+ແຈ້ງການກ່ຽວກັບກົດຫມາຍ
 
 
 ;Privacy Policy
-Privacy Policy
+ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
 
 
 ;Release Notes
@@ -150,7 +150,7 @@ Release Notes
 
 
 ;Other Systems and Languages
-Other Systems and Languages
+ລະບົບ ແລະ ພາສາອື່ນໆ
 
 
 ;Close
@@ -158,15 +158,15 @@ Other Systems and Languages
 
 
 ;(in English)
-(in English)
+(in ພາສາອັງກິດ)
 
 
 ;Return to top
-Return to top
+ກັບໄປດ້ານເທິງ
 
 
 ;Features
-Features
+ຄຸນລັກສະນະ
 
 
 ;Customize
@@ -211,16 +211,16 @@ Report Trademark Abuse
 
 
 ;Free Upgrade
-Free Upgrade
+ຟຣີອັບເກດ
 
 
 # social networks such as Facebook and Twitter
 ;Follow us on:
-Follow us on:
+ຕິດຕາມພວກເຮົາໄດ້ໃນ:
 
 
 ;Customize with Add-ons
-Customize with Add-ons
+ປັບແຕ່ງດ້ວຍ Add-ons
 
 
 ;Learn More
@@ -234,31 +234,31 @@ Customize with Add-ons
 
 # Link used to play again an animation or a video
 ;Replay
-Replay
+ຫຼິ້ນຊໍ້າ
 
 
 ;Watch the video
-Watch the video
+ເບິງວິດີໂອ
 
 
 ;Replay the video
-Replay the video
+ຫຼິ້ນວິດີໂອຊໍ້າ
 
 
 ;Share the video
-Share the video
+ແບ່ງປັນວິດີໂອ
 
 
 ;WebM format
-WebM format
+ຮູບແບບ WebM
 
 
 ;Ogg Theora format
-Ogg Theora format
+ຮູບແບບ Ogg Theora
 
 
 ;MPEG-4 format
-MPEG-4 format
+ຮູບແບບ MPEG-4
 
 
 ;Mobile
@@ -270,11 +270,11 @@ View Full Site
 
 
 ;Desktop
-Desktop
+ເດສກ໌ທັອບ
 
 
 ;Firefox for mobile
-Firefox for mobile
+Firefox ສຳລັບໂທລະສັບ
 
 
 ;Email
@@ -282,11 +282,11 @@ Firefox for mobile
 
 
 ;Upgrade now
-Upgrade now
+ອັບເກດຕອນນີ້
 
 
 ;Update now
-Update now
+ອັບເດດຕອນນີ້
 
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
@@ -311,7 +311,7 @@ Contribute to this page
 
 # Top menu item
 ;Mission
-Mission
+ພາລະກິດ
 
 
 # Footer item on some pages to link to a tour of features
@@ -321,22 +321,22 @@ Tour
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync
+Sync {ok}
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-Desktop Add-ons
+Add-ons ສຳລັບເດສກ໌ທັອບ
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+Add-ons ສຳລັບ Android
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Themes
-Themes
+ເທມ
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -354,7 +354,7 @@ Releases
 
 
 ;Blog
-Blog
+ບລັອກ
 
 
 # Newsletter subscription form above footer on some pages
@@ -364,32 +364,32 @@ Get Mozilla updates
 
 # share button for social networks
 ;Share
-Share
+ແບ່ງປັນ
 
 
 # footer link
 ;Mozilla on Twitter
-Mozilla on Twitter
+Mozilla ໃນ Twitter
 
 
 # footer link
 ;Firefox on Twitter
-Firefox on Twitter
+Firefox ໃນ Twitter
 
 
 # footer link
 ;Mozilla on Facebook
-Mozilla on Facebook
+Mozilla ໃນ Facebook
 
 
 # footer link
 ;Firefox on Facebook
-Firefox on Facebook
+Firefox ໃນ Facebook
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
-Forums
+ຟໍລຳ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -409,12 +409,12 @@ Governance
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
-History
+ປະຫວັດ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Our Products
-Our Products
+ຜະລິດຕະພັນຂອງພວກເຮົາ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -429,7 +429,7 @@ Become a volunteer contributor in a number of different areas.
 
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
-Menu
+ເມນູ
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
@@ -453,51 +453,51 @@ Firefox Help
 
 
 ;January
-January
+ມັງກອນ
 
 
 ;February
-February
+ກຸມພາ
 
 
 ;March
-March
+ມີນາ
 
 
 ;April
-April
+ເມສາ
 
 
 ;May
-May
+ພຶດສະພາ
 
 
 ;June
-June
+ມິຖຸນາ
 
 
 ;July
-July
+ກໍລະກົດ
 
 
 ;August
-August
+ສິງຫາ
 
 
 ;September
-September
+ກັນຍາ
 
 
 ;October
-October
+ຕຸລາ
 
 
 ;November
-November
+ພະຈິກ
 
 
 ;December
-December
+ທັນວາ
 
 
 ;<abbr>Jan</abbr>

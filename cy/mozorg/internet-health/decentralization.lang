@@ -81,8 +81,8 @@ Rydym yn dibynnu ar ddarparwyr rhwydwaith – cwmnïau ffôn a chebl – am ein 
 Ers Rhagfyr 2016, mae gan 47 gwlad ddeddfau yn eu lle i ddiogelu Niwtraliaeth y Rhyngrwyd.
 
 
-;Source: <a href="{{ accessnow }}">Access Now</a>
-Source: <a href="{{ accessnow }}">Access Now</a>
+;Source: <a href="%(accessnow)s">Access Now</a>
+Source: <a href="%(accessnow)s">Access Now</a>
 
 
 # String obsolete. Do NOT remove

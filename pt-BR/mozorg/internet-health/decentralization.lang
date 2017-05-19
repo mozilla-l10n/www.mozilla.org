@@ -81,8 +81,8 @@ Dependemos de provedores de acesso – empresas de telecomunicações e companhi
 Em dezembro de 2016, 47 países possuem leis que protegem a Neutralidade da Internet.
 
 
-;Source: <a href="{{ accessnow }}">Access Now</a>
-Source: <a href="{{ accessnow }}">Access Now</a>
+;Source: <a href="%(accessnow)s">Access Now</a>
+Source: <a href="%(accessnow)s">Access Now</a>
 
 
 # String obsolete. Do NOT remove

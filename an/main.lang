@@ -4,7 +4,7 @@ Navegación
 
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
-Pre-release downloads
+Descargas de versions preliminars
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -14,23 +14,23 @@ Quanto a
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps {ok}
+Aplicacions
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-No seguir o bayo
+"No me sigas"
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Tablón d'intereses
+Taula d'intereses
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition {ok}
+Edición de desenvolvedor
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -55,7 +55,7 @@ Triga lo navegador independient
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox ye sin animo de lucro, sin de compromisos ni vinculacions corporativas. Trigar Firefox no ye simplament trigar un navegador. Ye un voto en favor d'a tuya libertat personal.
+Firefox ye gratuito, sin afán de lucro y sin compromís. Trigar lo Firefox no ye nomás trigar un navegador. Ye un voto por la libertat individual.
 
 
 ;Donate
@@ -120,12 +120,12 @@ Atras luengas:
 
 # Will replace "Other languages" for the footer's language switcher
 ;Page language:
-Page language:
+Luenga d'a pachina:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%d-%m-%Y
+%Y-%m-%d {ok}
 
 
 ;Legal
@@ -242,11 +242,11 @@ Mira-te o video
 
 
 ;Replay the video
-Tornar a reproducir o video
+Tornar a reproducir lo video
 
 
 ;Share the video
-Compartir o video
+Compartir lo video
 
 
 ;WebM format
@@ -301,7 +301,7 @@ Bellas partes d'iste conteniu tienen dreitos ©1998–%(current_year)s de colabo
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Colabora con iste puesto
+Colaborar en ista pachina
 
 
 # Footer string
@@ -331,7 +331,7 @@ Complementos ta Escritorio
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Complementos ta Android
+Connectors de l'Android
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -341,16 +341,16 @@ Temas
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Aduya ta escritorio
+Suporte ta escritorio
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Aduya ta Android
+Soporte pa l'Android
 
 
 ;Releases
-Versions
+Releases {ok}
 
 
 ;Blog
@@ -394,12 +394,12 @@ Forums {ok}
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+Patents {ok}
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Liderazgo
+Liderache
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -439,7 +439,7 @@ Comprometiu con tu, con a tuya privacidat y con una Web ubierta
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Activa JavaScript ta veyer ista pachina correctament.
+Activa JavaScript pa que s'amuestre correctament ista pachina.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -473,7 +473,7 @@ mayo
 
 
 ;June
-chunyo
+chunio
 
 
 ;July
@@ -549,7 +549,7 @@ aviento
 
 
 ;Congrats. You’re up to date!
-Parabiens. Yes a o diya!
+Felicidatz, ya yes esviellau!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -573,12 +573,12 @@ Ui! Para cuenta d'escribir una adreza de correu electronico valida.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Soi d'acuerdo con que Mozilla maneye la mía información como s'explica en <a href="%s">Politica de Privacidat</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Mantiene esviellau<br> lo Firefox.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -593,7 +593,7 @@ O TUYO CORREU AQUÍ
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+Conduce-te agora
 
 
 # Old newsletter subscription Button
@@ -614,11 +614,11 @@ Nomás le ninviaremos información tocant a Mozilla.
 
 
 ;Thanks!
-Thanks!
+Mersi!
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Si denantes no has confirmau la conducción a bell boletín de noticias de Moilla, ye posible que l'heses de fer. Compreba la servilla de dentrada u lo filtro de correu vasuera pa veyer si i hai bell mensache de Mozilla.
 
 
 ;Read all about it in our <span>newsletter</span>
@@ -630,23 +630,23 @@ Conduce-te a las actualizacions mensuals y informa-te d'as noticias de Mozilla, 
 
 
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+<span>Firefox</span> y tu
 
 
 ;Get Firefox tips, tricks, news and more
-Get Firefox tips, tricks, news and more
+Obtiene consellos, trucos, noticias y mas
 
 
 # This string will be used as a navigation label in home page, pointing to /technology
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Web Innovations
-Web Innovations
+Innovacions Web
 
 
 # This string will be used as a navigation label in home page, pointing to /internet-health
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Internet Health
-Internet Health
+La salut d'internet
 
 
 # Used as title in What's new page for 50
@@ -656,6 +656,6 @@ Gracias por trigar Firefox!
 
 # Used in combination with other strings to create HTML page titles, e.g. in What's new pages
 ;Mozilla Firefox Web Browser
-Mozilla Firefox Web Browser
+Navegador Web Mozilla Firefox
 
 

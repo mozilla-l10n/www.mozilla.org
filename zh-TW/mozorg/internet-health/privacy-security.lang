@@ -138,7 +138,7 @@ Encouraging and educating the industry about <a href="%(leandata)s">lean data pr
 
 
 ;Cyber Security: Locking down your sensitive information
-Cyber Security: Locking down your sensitive information
+網路安全：保護您的個人隱私訊息
 
 
 ;We should all have the ability to protect our online identity.
@@ -159,7 +159,7 @@ Source: Wikipedia, <a href="%(wiki)s" rel="external">List of data breaches</a>, 
 
 # This is an abbreviation for the number "1 billion" used as decoration in a callout box. Make it short.
 ;1B
-1B
+1B {ok}
 
 
 ;What you can do about cyber security
@@ -167,11 +167,11 @@ What you can do about cyber security
 
 
 ;Choose strong passwords
-Choose strong passwords
+使用更有力的密碼組合
 
 
 ;<a href="%(strongpass)s" rel="external">Choose strong, unique pins and passwords</a>, and use a <a href="%(passmanager)s" rel="external">password manager</a>. (Note: we haven’t tried them all – see what works for you.)
-<a href="%(strongpass)s" rel="external">Choose strong, unique pins and passwords</a>, and use a <a href="%(passmanager)s" rel="external">password manager</a>. (Note: we haven’t tried them all – see what works for you.)
+<a href="%(strongpass)s" rel="external">選擇更強力、獨一無二的 Pin 碼及密碼</a>，以及利用<a href="%(passmanager)s" rel="external">密碼管理員</a>。（備註：雖然我們並沒有使用全部的東西—但你可以看看哪些比較適合你。）
 
 
 ;Use 2-factor authentication
@@ -221,11 +221,11 @@ Source: <a href="%(cigi)s" rel="external"><abbr title="Centre for International 
 
 # This is used as a decorative element in a callout box.
 ;38%
-38%
+38% {ok}
 
 
 ;What you can do about government surveillance
-What you can do about government surveillance
+關於政府監控你可以做些什麼
 
 
 ;Encrypt your data

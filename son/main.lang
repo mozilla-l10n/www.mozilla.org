@@ -114,6 +114,11 @@ Alhabarkoyni gam
 Hantum ir se
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Šenni waaney:
 
@@ -294,7 +299,12 @@ Sohõ taagandiri
 Sutura
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Gundekunaa woo jereyaŋ ti ©1998–%(current_year)s mozilla.org kanbuzaakey sabbu ra. Gundekuna ga bara <a rel="license" href="%(url)s">Creative Commons duɲe kaddasu</a> ra.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Gundekunaa woo jereyaŋ ti ©1998–%(current_year)s mozilla.org kanbuzaakey sabbu ra. Gundekuna ga bara <a href="%(url)s">Creative Commons duɲe kaddasu</a> ra.
 

@@ -114,6 +114,11 @@ Careers (영문)
 연락처
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 언어별:
 
@@ -294,7 +299,12 @@ Firefox 모바일
 개인 정보 정책
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+©1998–%(current_year)s. 콘텐츠의 일부는 개별 mozilla.org 공헌자에게 저작권이 있습니다. 콘텐츠는 <a rel="license" href="%(url)s">Creative Commons license</a>에 의해 사용할 수 있습니다.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 ©1998–%(current_year)s. 콘텐츠의 일부는 개별 mozilla.org 공헌자에게 저작권이 있습니다. 콘텐츠는 <a href="%(url)s">Creative Commons license</a>에 의해 사용할 수 있습니다.
 

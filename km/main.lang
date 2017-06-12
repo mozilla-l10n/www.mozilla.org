@@ -114,6 +114,11 @@ Firefox មិន​រក​ប្រាក់​ចំណេញ មិន​�
 ទាក់ទង​​យើង
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 ភាសា​ផ្សេង​ទៀត ៖
 
@@ -294,7 +299,12 @@ Firefox សម្រាប់​ទូរស័ព្ទចល័ត
 ភាព​ឯកជន
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+ផ្នែក​នៃ​មាតិកា​នេះ​​​នៅ​អំឡុង ©1998–%(current_year)s បង្កើត​ដោយ​​អ្នក​ចូលរួម​ចំណែក mozilla.org ។ មាតិកា​អាច​​ប្រើ​បាន​ក្រោម <a rel="license" href="%(url)s">អាជ្ញាប័ណ្ណ Creative Commons</a>។
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 ផ្នែក​នៃ​មាតិកា​នេះ​​​នៅ​អំឡុង ©1998–%(current_year)s បង្កើត​ដោយ​​អ្នក​ចូលរួម​ចំណែក mozilla.org ។ មាតិកា​អាច​​ប្រើ​បាន​ក្រោម <a href="%(url)s">អាជ្ញាប័ណ្ណ Creative Commons</a>។
 

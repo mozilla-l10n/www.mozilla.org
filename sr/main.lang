@@ -114,6 +114,11 @@ Firefox је непрофитан, не-корпоративан, не-комп�
 Контактирајте нас
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Други језици:
 
@@ -294,7 +299,12 @@ Aжурирај сада
 Приватност
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Права над деловима овог садржаја ©1998–%(current_year)s задржали су индивидуални доприноситељи mozilla.org пројекта. Садржај је доступан под <a rel="license" href="%(url)s">Creative Commons лиценцом</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Права над деловима овог садржаја ©1998–%(current_year)s задржали су индивидуални доприноситељи mozilla.org пројекта. Садржај је доступан под <a href="%(url)s">Creative Commons лиценцом</a>.
 

@@ -114,6 +114,11 @@ Dành cho báo giới
 Liên hệ
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Ngôn ngữ khác:
 
@@ -294,7 +299,12 @@ Cập nhật ngay
 Riêng tư
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Một phần nội dung này được giữ bản quyền ©1998–%(current_year)s bởi từng cộng tác viên của mozilla.org độc lập. Nội dung được phát hành với <a rel="license" href="%(url)s">giấy phép Creative Commons</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Một phần nội dung này được giữ bản quyền ©1998–%(current_year)s bởi từng cộng tác viên của mozilla.org độc lập. Nội dung được phát hành với <a href="%(url)s">giấy phép Creative Commons</a>.
 

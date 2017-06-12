@@ -114,6 +114,11 @@ Rayi'i prensan
 Contacto
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 A'ngo nanj a'mi'
 
@@ -294,7 +299,12 @@ Nagi'ia nako' ma
 Sa hùii
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Da'aj sa nu riña man huin ©1998–%(current_year)s sa 'iaj sun nej dugui' nikaj ñu'unj mozilla.org. da'uit gachinj ni'iat riña <a rel="license" href="%(url)s">Creative Commons</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Da'aj sa nu riña man huin ©1998–%(current_year)s sa 'iaj sun nej dugui' nikaj ñu'unj mozilla.org. da'uit gachinj ni'iat riña <a href="%(url)s">Creative Commons</a>.
 

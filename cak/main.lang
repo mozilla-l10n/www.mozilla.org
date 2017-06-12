@@ -114,6 +114,11 @@ Ruk'ojlib'al laq'apub'äl
 Rub'i' achib'il
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Ch'aqa' chik ch'ab'äl:
 
@@ -294,7 +299,12 @@ Tak'exa' ruwäch wakami
 Ichinanem
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Jujun kipam etamab'äl chajin ruma kich'ojib'al b'anel ©1998–%(current_year)s kuma to'onela' pa mozilla.org. Ri ch'aqa' chik rupam, ya'on q'ij chi yeq'alajin pe ruma ri <a rel="license" href="%(url)s">Creative Commons</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Jujun kipam etamab'äl chajin ruma kich'ojib'al b'anel ©1998–%(current_year)s kuma to'onela' pa mozilla.org. Ri ch'aqa' chik rupam, ya'on q'ij chi yeq'alajin pe ruma ri <a href="%(url)s">Creative Commons</a>.
 

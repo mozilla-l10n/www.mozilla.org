@@ -114,6 +114,11 @@ Mozilla পরিচিতি
 যোগাযোগ করুন
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 অন্যান্য ভাষা:
 
@@ -294,7 +299,12 @@ MPEG-4 বিন্যাস
 গোপনীয়তা
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+এই বিষয়বস্তুর অংশ ©1998–%(current_year)sঅাছে mozilla.org-র অনুদানকারীদের দ্বারা. সামগ্রী উপলব্ধ অাছে <a rel="license" href="%(url)s">Creative Commons license</a> অধীনে.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 এই বিষয়বস্তুর অংশ ©1998–%(current_year)sঅাছে mozilla.org-র অনুদানকারীদের দ্বারা. সামগ্রী উপলব্ধ অাছে <a href="%(url)s">Creative Commons license</a> অধীনে.
 

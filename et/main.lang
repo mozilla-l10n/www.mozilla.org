@@ -114,6 +114,11 @@ Pressikeskus
 Kontakt
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Teistes keeltes:
 
@@ -294,7 +299,12 @@ Uuenda kohe
 Privaatsusest
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Osa sisu autoriõigused kuuluvad 1998–%(current_year)s mozilla.org kaastöötajatele. Sisu on avaldatud <a rel="license" href="%(url)s">Creative Commonsi litsentsi</a> all.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Osa sisu autoriõigused kuuluvad 1998–%(current_year)s mozilla.org kaastöötajatele. Sisu on avaldatud <a href="%(url)s">Creative Commonsi litsentsi</a> all.
 

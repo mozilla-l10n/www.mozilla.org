@@ -114,6 +114,11 @@ Basın Merkezi
 Bize ulaşın
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Diğer diller:
 
@@ -294,7 +299,12 @@ E-posta
 Gizlilik
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Bu içeriğin bazı kısımları ©1998–%(current_year)s bireysel mozilla.org yazarları. İçerik, <a rel="license" href="%(url)s">Creative Commons lisansı</a> ile sunulmaktadır.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Bu içeriğin bazı kısımları ©1998–%(current_year)s bireysel mozilla.org yazarları. İçerik, <a href="%(url)s">Creative Commons lisansı</a> ile sunulmaktadır.
 

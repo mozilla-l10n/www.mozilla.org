@@ -114,6 +114,11 @@ Nowinski centrum
 Stajće so z nami do zwiska
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Druhe rěče:
 
@@ -294,7 +299,12 @@ Nětko aktualizować
 Priwatnosć
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Dźěle tutoho wobsaha wot jednotliwych sobuskutkowacych mozilla.org wutworjene ©1998–%(current_year)s. Wobsah steji pod licencu <a rel="license" href="%(url)s">Creative Commons license</a> k dispoziciji.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Dźěle tutoho wobsaha wot jednotliwych sobuskutkowacych mozilla.org wutworjene ©1998–%(current_year)s. Wobsah steji pod licencu <a href="%(url)s">Creative Commons license</a> k dispoziciji.
 

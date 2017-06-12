@@ -114,6 +114,11 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 Контактирајте нѐ
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Други јазици:
 
@@ -294,7 +299,12 @@ Firefox за мобилни
 Приватност
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Делови од оваа содржина се ©1998–%(current_year)s на поединци кои придонеле на mozilla.org. Содржината е достапна под <a rel="license" href="%(url)s">лиценца на Криејтив комонс</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Делови од оваа содржина се ©1998–%(current_year)s на поединци кои придонеле на mozilla.org. Содржината е достапна под <a href="%(url)s">лиценца на Криејтив комонс</a>.
 

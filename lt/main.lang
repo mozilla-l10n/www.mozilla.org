@@ -114,6 +114,11 @@ Spaudos centras
 Susisiekite su mumis
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Kitos kalbos:
 
@@ -294,7 +299,12 @@ Atnaujinti dabar
 Privatumas
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+©1998–%(current_year)s. Kai kurių šio turinio dalių autoriai yra atskiri mozilla.org bendradarbiai. Turinys pateikiamas <a rel="license" href="%(url)s">„Creative Commons“ licencijos</a> sąlygomis.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 ©1998–%(current_year)s. Kai kurių šio turinio dalių autoriai yra atskiri mozilla.org bendradarbiai. Turinys pateikiamas <a href="%(url)s">„Creative Commons“ licencijos</a> sąlygomis.
 

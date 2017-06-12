@@ -114,6 +114,11 @@ Press centar
 Kontaktirajte nas
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Drugi jezici:
 
@@ -294,7 +299,12 @@ Ažuriraj sada
 Privatnost
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Prava nad dijelovima ovog sadržaja (©1998–%(current_year)s) zadržali su individualni doprinositelji mozilla.org projekta. Sadržaj je dostupan pod <a rel="license" href="%(url)s">Creative Commons licencom</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Prava nad dijelovima ovog sadržaja (©1998–%(current_year)s) zadržali su individualni doprinositelji mozilla.org projekta. Sadržaj je dostupan pod <a href="%(url)s">Creative Commons licencom</a>.
 

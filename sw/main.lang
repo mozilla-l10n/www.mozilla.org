@@ -114,6 +114,11 @@ Kituo cha Wanahabari
 Wasiliana Nasi
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Lugha Zingine:
 
@@ -294,7 +299,12 @@ Sasisha sasa
 Faragha
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Sehemu ya yaliyomo ni ©1998%(current_year)s na wachangiaji binafsi wa mozilla.org. Yaliyomo yako katika <a rel="license" href="%(url)s">Leseni ya Creative Commons</a>
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Sehemu ya yaliyomo ni ©1998%(current_year)s na wachangiaji binafsi wa mozilla.org. Yaliyomo yako katika <a href="%(url)s">Leseni ya Creative Commons</a>
 

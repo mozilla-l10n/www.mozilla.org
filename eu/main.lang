@@ -114,6 +114,11 @@ Prentsagunea
 Jarri gurekin harremanetan
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Beste hizkuntzetan:
 
@@ -294,7 +299,12 @@ Eguneratu orain
 Pribatutasuna
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Eduki honen zati batzuk mozilla.org-en laguntzaile indibidualenak dira, ©1998–%(current_year)s. Edukia <a rel="license" href="%(url)s">Creative Commons lizentzia</a>pean dago erabilgarri.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Eduki honen zati batzuk mozilla.org-en laguntzaile indibidualenak dira, ©1998–%(current_year)s. Edukia <a href="%(url)s">Creative Commons lizentzia</a>pean dago erabilgarri.
 

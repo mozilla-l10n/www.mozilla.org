@@ -114,6 +114,11 @@ Carreiras
 Entre em contato
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Outros idiomas:
 
@@ -294,7 +299,12 @@ Atualizar agora
 Privacidade
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Trechos deste conteúdo possuem direitos reservados (©1998–%(current_year)s) por colaboradores da mozilla.org. Conteúdo disponível sob a licença <a rel="license" href="%(url)s">Creative Commons</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Trechos deste conteúdo possuem direitos reservados (©1998–%(current_year)s) por colaboradores da mozilla.org. Conteúdo disponível sob a licença <a href="%(url)s">Creative Commons</a>.
 

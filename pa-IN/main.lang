@@ -114,6 +114,11 @@
 ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 ਹੋਰ ਭਾਸ਼ਾਵਾਂ:
 
@@ -294,7 +299,12 @@ MPEG-4 ਫਾਰਮੈਟ
 ਪਰਦੇਦਾਰੀ
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+ਇਹ ਸਮੱਗਰੀ ਦੇ ਹਿੱਸੇ ©1998–%(current_year)s ਵੱਖ-ਵੱਖ mozilla.org ਦਾ ਯੋਗਦਾਨ ਹਨ। ਸਮੱਗਰੀ <a rel="license" href="%(url)s">ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਲਸੰਸ</a> ਅਧੀਨ ਹੈ।
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 ਇਹ ਸਮੱਗਰੀ ਦੇ ਹਿੱਸੇ ©1998–%(current_year)s ਵੱਖ-ਵੱਖ mozilla.org ਦਾ ਯੋਗਦਾਨ ਹਨ। ਸਮੱਗਰੀ <a href="%(url)s">ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਲਸੰਸ</a> ਅਧੀਨ ਹੈ।
 

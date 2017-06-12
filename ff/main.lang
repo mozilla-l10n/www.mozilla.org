@@ -114,6 +114,11 @@ Nokku Jaaynde
 Jokkondir e amen
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Ɗemɗe goɗɗe:
 
@@ -294,7 +299,12 @@ Hesɗitin jooni
 Suturo
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Bannge e ndii loowdi ko ©1998–%(current_year)s wallitooɓe Mozilla.org heeriiɓe. Loowdi ngoodndi e jamirol <a rel="license" href="%(url)s">Creative Commons license</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Bannge e ndii loowdi ko ©1998–%(current_year)s wallitooɓe Mozilla.org heeriiɓe. Loowdi ngoodndi e jamirol <a href="%(url)s">Creative Commons license</a>.
 

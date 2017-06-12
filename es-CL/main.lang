@@ -114,6 +114,11 @@ Centro de prensa
 Contáctanos
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Otros idiomas:
 
@@ -294,7 +299,12 @@ Actualiza ahora
 Privacidad
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Algunos de estos contenidos están protegidos por derechos de autor ©1998–%(current_year)s de determinados colaboradores en mozilla.org. Contenido disponible bajo una <a rel="license" href="%(url)s">licencia Creative Commons</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Algunos de estos contenidos están protegidos por derechos de autor ©1998–%(current_year)s de determinados colaboradores en mozilla.org. Contenido disponible bajo una <a href="%(url)s">licencia Creative Commons</a>.
 

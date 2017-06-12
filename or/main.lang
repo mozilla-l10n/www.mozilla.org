@@ -114,6 +114,11 @@ Mozilla ବିଷୟରେ
 ଆମ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 ଅନ୍ୟାନ୍ୟ ଭାଷାଗୁଡ଼ିକ:
 
@@ -294,7 +299,12 @@ MPEG-4 ଶୈଳୀ
 ଗୋପନୀୟତା
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 

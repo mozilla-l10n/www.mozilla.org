@@ -114,6 +114,11 @@ Canolfan y Wasg
 Cysylltu â ni
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Ieithoedd eraill:
 
@@ -294,7 +299,12 @@ Diweddarwch yn awr
 Preifatrwydd
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Mae darnau o'r cynnwys yn ©1998–%(current_year)s gan gyfranwyr unigol mozilla.org. Mae'r cynnwys ar gael o dan <a rel="license" href="%(url)s">drwydded Creative Commons</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Mae darnau o'r cynnwys yn ©1998–%(current_year)s gan gyfranwyr unigol mozilla.org. Mae'r cynnwys ar gael o dan <a href="%(url)s">drwydded Creative Commons</a>.
 

@@ -114,6 +114,11 @@ Mozilla గురించి
 మమ్ముల్ని సంప్రదించండి
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 ఇతర భాషలు:
 
@@ -294,7 +299,12 @@ MPEG-4 ఫార్మాటు
 గోప్యత
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+ఈ సమాచారంలో కొన్ని భాగాల కాపీహక్కులు ©1998–%(current_year)s వ్యక్తిగత mozilla.org తోడ్పాటుదార్లవి. ఈ సమాచారం <a rel="license" href="%(url)s">క్రియేటివ్ కామన్స్ లైసెన్సు</a> క్రింద లభ్యం.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 ఈ సమాచారంలో కొన్ని భాగాల కాపీహక్కులు ©1998–%(current_year)s వ్యక్తిగత mozilla.org తోడ్పాటుదార్లవి. ఈ సమాచారం <a href="%(url)s">క్రియేటివ్ కామన్స్ లైసెన్సు</a> క్రింద లభ్యం.
 

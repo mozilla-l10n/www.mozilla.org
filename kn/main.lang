@@ -114,6 +114,11 @@ Firefox ಲಾಭರಹಿತ, ಖಾಸಗಿಯಲ್ಲದ, ರಾಜಿಗ�
 ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 ಇತರೆ ಭಾಷೆಗಳು:
 
@@ -294,7 +299,12 @@ MPEG-4 ವಿನ್ಯಾಸ
 ಗೌಪ್ಯತೆ
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+ಈ ವಸ್ತುವಿಷಯದ ಭಾಗಗಳು ©1998–%(current_year)s ಮೊಝಿಲ್ಲಾ ವ್ಯಕ್ತಿಗತ ಕೊಡುಗೆದಾರರಿಗೆ ಸೇರಿವೆ. ವಸ್ತುವಿಷಯವು <a rel="license" href="%(url)s">ಕ್ರಿಯೇಟಿವ್ ಕಾಮನ್ಸ್ ಪರವಾನಿಗೆ</a> ಯ ಅಡಿಯಲ್ಲಿ ಲಭ್ಯವಿದೆ.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 ಈ ವಸ್ತುವಿಷಯದ ಭಾಗಗಳು ©1998–%(current_year)s ಮೊಝಿಲ್ಲಾ ವ್ಯಕ್ತಿಗತ ಕೊಡುಗೆದಾರರಿಗೆ ಸೇರಿವೆ. ವಸ್ತುವಿಷಯವು <a href="%(url)s">ಕ್ರಿಯೇಟಿವ್ ಕಾಮನ್ಸ್ ಪರವಾನಿಗೆ</a> ಯ ಅಡಿಯಲ್ಲಿ ಲಭ್ಯವಿದೆ.
 

@@ -114,6 +114,11 @@ Mozilla-ի մասին
 Կապը մեզ հետ
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Այլ լեզուներ.
 
@@ -294,7 +299,12 @@ Firefox-ը բջջայինի համար
 Անվտանգությունը
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Այս բովանդակության մի մասը ©1998–%(current_year)s mozilla.org անհատական կամավորների կողմից է։ Բովանդակությունը հասանելի է <a rel="license" href="%(url)s">Creative Commons license</a>-ով։
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Այս բովանդակության մի մասը ©1998–%(current_year)s mozilla.org անհատական կամավորների կողմից է։ Բովանդակությունը հասանելի է <a href="%(url)s">Creative Commons license</a>-ով։
 

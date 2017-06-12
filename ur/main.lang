@@ -114,6 +114,11 @@
 ہم سے رابطہ کریں
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 دیگر زبانیں
 
@@ -294,7 +299,12 @@ MPEG-4 فارمیٹ
 نجی نوعیت
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+اس مواد کے کچھ حصےذاتی mozilla.org معاونین کے جانب سے © 1998 تا %(current_year)s ہیں۔ مواد <a rel="license" href="%(url)s">Creative Commons لائسنس</a> کے تحت دستیاب ہے۔
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 اس مواد کے کچھ حصےذاتی mozilla.org معاونین کے جانب سے © 1998 تا %(current_year)s ہیں۔ مواد <a href="%(url)s">Creative Commons لائسنس</a> کے تحت دستیاب ہے۔
 

@@ -114,6 +114,11 @@ Sajtóoldal
 Kapcsolat
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Más nyelvek:
 
@@ -294,7 +299,12 @@ Frissítsen most
 Adatvédelem
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+A tartalom egy részét ©1998–%(current_year)s mozilla.org közreműködők készítették. A tartalom <a rel="license" href="%(url)s">Creative Commons licenc</a> alatt érhető el.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 A tartalom egy részét ©1998–%(current_year)s mozilla.org közreműködők készítették. A tartalom <a href="%(url)s">Creative Commons licenc</a> alatt érhető el.
 

@@ -114,6 +114,11 @@ Tiskové centrum
 Kontaktujte nás
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Další jazyky:
 
@@ -294,7 +299,12 @@ Aktualizujte
 Soukromí
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Části tohoto obsahu jsou ©1998–%(current_year)s jednotlivými přispěvateli mozilla.org. Obsah je dostupný pod <a rel="license" href="%(url)s">licencí Creative Commons</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Části tohoto obsahu jsou ©1998–%(current_year)s jednotlivými přispěvateli mozilla.org. Obsah je dostupný pod <a href="%(url)s">licencí Creative Commons</a>.
 

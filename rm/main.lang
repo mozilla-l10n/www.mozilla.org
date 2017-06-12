@@ -114,6 +114,11 @@ Center da pressa
 Ans contactescha
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Autras linguas:
 
@@ -294,7 +299,12 @@ Actualisar ussa
 Sfera privata
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Parts dal cuntegn èn ©1998–%(current_year)s da divers contribuents a mozilla.org. Il cuntegn stat a disposiziun tenor la <a rel="license" href="%(url)s">licenza da Creative Commons</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Parts dal cuntegn èn ©1998–%(current_year)s da divers contribuents a mozilla.org. Il cuntegn stat a disposiziun tenor la <a href="%(url)s">licenza da Creative Commons</a>.
 

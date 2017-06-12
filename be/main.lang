@@ -114,6 +114,11 @@ Firefox - некамерцыйны, некарпаратыўны і нескам
 Сувязь з намі
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Іншыя мовы:
 
@@ -294,7 +299,12 @@ Firefox - некамерцыйны, некарпаратыўны і нескам
 Прыватнасць
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Часткі змесціва створаны індывідуальна ўкладчыкамі mozilla.org ©1998–%(current_year)s. Змесціва даступна згодна <a rel="license" href="%(url)s">Creative Commons license</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Часткі змесціва створаны індывідуальна ўкладчыкамі mozilla.org ©1998–%(current_year)s. Змесціва даступна згодна <a href="%(url)s">Creative Commons license</a>.
 

@@ -114,6 +114,11 @@ Centro stanpa
 Contatine
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Atre lengoe:
 
@@ -294,7 +299,12 @@ Agiorna oua
 Privacy {ok}
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Parte de sti contegnui son fæti de personn-e che colaboran co-o mozilla.org inti anni ©1998–%(current_year)s. I contegnui son a dispoxiçion sotta 'na <a rel="license" href="%(url)s">licensa Creative Commons</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Parte de sti contegnui son fæti de personn-e che colaboran co-o mozilla.org inti anni ©1998–%(current_year)s. I contegnui son a dispoxiçion sotta 'na <a href="%(url)s">licensa Creative Commons</a>.
 

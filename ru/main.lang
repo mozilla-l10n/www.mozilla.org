@@ -114,6 +114,11 @@ Firefox — некоммерческий, некорпоративный и не
 Обратная связь
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Другие языки:
 
@@ -294,7 +299,12 @@ Firefox — некоммерческий, некорпоративный и не
 Приватность
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Части этого содержимого созданы участниками проекта mozilla.org ©1998–%(current_year)s. Содержимое доступно на условиях <a rel="license" href="%(url)s">лицензии Creative Commons</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Части этого содержимого созданы участниками проекта mozilla.org ©1998–%(current_year)s. Содержимое доступно на условиях <a href="%(url)s">лицензии Creative Commons</a>.
 

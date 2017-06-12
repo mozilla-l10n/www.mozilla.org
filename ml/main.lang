@@ -114,6 +114,11 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 ഞങ്ങളെ ബന്ധപ്പെടുക
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 മറ്റ് ഭാഷകള്‍:
 
@@ -294,7 +299,12 @@ MPEG-4 ഫോര്‍മാറ്റ്
 സ്വകാര്യത
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+വിവരങ്ങളുടം ഈ ഭാഗങ്ങള്‍  ഓരോ mozilla.org സംഭാവനക്കാരുടെ ©1998–%(current_year)s പകര്‍പ്പവകാശത്തിലാകുന്നു. <a rel="license" href="%(url)s">ക്രിയേറ്റീവ് കോമണ്‍സ് ലൈസന്‍സില്‍</a> വിവരങ്ങള്‍ ലഭ്യം.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 വിവരങ്ങളുടം ഈ ഭാഗങ്ങള്‍  ഓരോ mozilla.org സംഭാവനക്കാരുടെ ©1998–%(current_year)s പകര്‍പ്പവകാശത്തിലാകുന്നു. <a href="%(url)s">ക്രിയേറ്റീവ് കോമണ്‍സ് ലൈസന്‍സില്‍</a> വിവരങ്ങള്‍ ലഭ്യം.
 

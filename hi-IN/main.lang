@@ -114,6 +114,11 @@
 संपर्क करें
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 अन्य भाषाएँ:
 
@@ -294,7 +299,12 @@ Ogg थियोरा प्रारूप
 गोपनीयता
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+इस सामग्री के कुछ हिस्से ©1998–%(current_year)s अलग-अलग mozilla.org योगदानकर्ताओं के द्वारा दिए गए हैं. यह सामग्री <a rel="license" href="%(url)s">क्रियेटिव कॉमन्स लाइसेंस</a> के अंतर्गत उपलब्ध हैं.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 इस सामग्री के कुछ हिस्से ©1998–%(current_year)s अलग-अलग mozilla.org योगदानकर्ताओं के द्वारा दिए गए हैं. यह सामग्री <a href="%(url)s">क्रियेटिव कॉमन्स लाइसेंस</a> के अंतर्गत उपलब्ध हैं.
 

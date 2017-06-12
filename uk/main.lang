@@ -114,6 +114,11 @@ Firefox є неприбутковим, некорпоративним, безк�
 Зв’язок з нами
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Інші мови:
 
@@ -294,7 +299,12 @@ Firefox для мобільних пристроїв
 Приватність
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Частини цього вмісту створені учасниками проекту mozilla.org ©1998–%(current_year)s. Вміст доступний на умовах <a rel="license" href="%(url)s">ліцензії Creative Commons</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Частини цього вмісту створені учасниками проекту mozilla.org ©1998–%(current_year)s. Вміст доступний на умовах <a href="%(url)s">ліцензії Creative Commons</a>.
 

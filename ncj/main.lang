@@ -114,6 +114,11 @@ Amatanauatilmej
 Kampa se uelis techijkuilouilis
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Oksekin tajtolismej:
 
@@ -294,7 +299,12 @@ Maj axkan moyankuili
 Keniuj tiyekpiaj tein tikseliaj
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Sekin taman tein nikan moajsij teaxkauan uan kimatampauiaj tein ika kiiliaj derechos de autor ©1998–%(current_year)s uan ininaxkauan sekin tokniuan akin kipaleuiaj itech mozilla.org. Oksekin taman tein nikan moajsij se uelis kikuis ika se licencia <a rel="license" href="%(url)s">Creative Commons</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Sekin taman tein nikan moajsij teaxkauan uan kimatampauiaj tein ika kiiliaj derechos de autor ©1998–%(current_year)s uan ininaxkauan sekin tokniuan akin kipaleuiaj itech mozilla.org. Oksekin taman tein nikan moajsij se uelis kikuis ika se licencia <a href="%(url)s">Creative Commons</a>.
 

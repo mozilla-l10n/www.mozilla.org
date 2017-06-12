@@ -114,6 +114,11 @@ Lehdistökeskus
 Ota yhteyttä
 
 
+# Used in new footer to switch the language of the page
+;Language
+Language
+
+
 ;Other languages:
 Muut kielet:
 
@@ -294,7 +299,12 @@ Päivitä heti
 Tietosuoja
 
 
-# Footer string
+# New footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Tämän sisällön tietyt osat ovat ©1998–%(current_year)s yksittäisten mozilla.org:n tukijoiden omaisuutta. Sisältö on saatavilla <a rel="license" href="%(url)s">Creative Commons -lisenssillä</a>.
+
+
+# Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Tämän sisällön tietyt osat ovat ©1998–%(current_year)s yksittäisten mozilla.org:n tukijoiden omaisuutta. Sisältö on saatavilla <a href="%(url)s">Creative Commons -lisenssillä</a>.
 

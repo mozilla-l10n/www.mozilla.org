@@ -24,7 +24,7 @@ Czym jest przeglądanie uwzględniające położenie?
 
 
 ;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
-Witryny używające technik geolokalizacji mogą poprosić o informacje na temat położenia geograficznego użytkownika, by dostarczyć bardziej przydatnych informacji, czy też zaoszczędzić czas poświęcony na wyszukiwanie. Na przykład, możesz szukać pizzerii w&nbsp;okolicy. Witryna może poprosić o&nbsp;informacje o&nbsp;położeniu, dzięki czemu, by odnaleźć najbliższą pizzerię wystarczy wyszukać hasła &bdquo;pizza&rdquo; &ndash; nie potrzeba nic więcej.
+Witryny używające technik geolokalizacji mogą poprosić o informacje na temat położenia geograficznego użytkownika, by dostarczyć bardziej przydatnych informacji, czy też zaoszczędzić czas poświęcony na wyszukiwanie. Na przykład, możesz szukać pizzerii w&nbsp;okolicy. Witryna może poprosić o&nbsp;informacje o&nbsp;położeniu, dzięki czemu, by odnaleźć najbliższą pizzerię wystarczy wyszukać hasła &bdquo;pizza&rdquo; &ndash; nie potrzeba nic więcej.
 
 
 ;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
@@ -32,7 +32,7 @@ Inny przykład: chcesz wyznaczyć trasę przejazdu do jakiegoś miejsca &ndash; 
 
 
 ;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
-Korzystanie z&nbsp;tej usługi jest opcjonalne &ndash; Firefox nie udostępnia danych o&nbsp;położeniu geograficznym bez zgody użytkownika &ndash; dzieje się to przy całkowitym poszanowaniu prywatności. Ponadto, jak wszystkie elementy Firefoksa, funkcjonalność ta zbudowana została na bazie otwartych standardów, aby ułatwić jej stosowanie przez programistów WWW.
+Korzystanie z&nbsp;tej usługi jest opcjonalne &ndash; Firefox nie udostępnia danych o&nbsp;położeniu geograficznym bez zgody użytkownika &ndash; dzieje się to przy całkowitym poszanowaniu prywatności. Ponadto, jak wszystkie elementy Firefoksa, funkcjonalność ta zbudowana została na bazie otwartych standardów, aby ułatwić jej stosowanie przez programistów WWW.
 
 
 ;How does it work?
@@ -48,7 +48,7 @@ Jeśli wyrazisz zgodę, Firefox zbierze informacje na temat punktów dostępowyc
 
 
 ;If you say that you do not consent, Firefox will not do anything.
-Jeśli nie wyrazisz zgody, żadne sprawdzanie położenia przez Firefoksa będzie miało miejsca.
+Jeśli nie wyrazisz zgody, żadne sprawdzanie położenia przez Firefoksa będzie miało miejsca.
 
 
 ;How accurate are the locations?
@@ -56,7 +56,7 @@ Jak dokładnie wyznaczane jest położenie?
 
 
 ;Accuracy varies greatly from location to location. In some places, our service providers may be able to provide a location to within a few meters. However, in other areas it might be much more than that. All locations returned by our service providers are estimates only and we do not guarantee the accuracy of the locations provided. Please do not use this information for emergencies. Always use common sense.
-Dokładność może być różna w&nbsp;zależności od miejsca. Często nasi dostawcy usług mogą być w&nbsp;wstanie określić położenie z dokładnością do kilku metrów, jednakże w innych miejscach dokładność ta może być znacznie mniejsza. Wszystkie dane o położeniu dostarczone przez naszych dostawców usług są wyłącznie wartościami przybliżonymi, nie gwarantujemy ich dokładności ani prawidłowości. Danych tych nie należy używać w&nbsp;sytuacjach krytycznych. Warto też pamiętać o&nbsp;zdrowym rozsądku.
+Dokładność może być różna w&nbsp;zależności od miejsca. Często nasi dostawcy usług mogą być w&nbsp;wstanie określić położenie z dokładnością do kilku metrów, jednakże w innych miejscach dokładność ta może być znacznie mniejsza. Wszystkie dane o położeniu dostarczone przez naszych dostawców usług są wyłącznie wartościami przybliżonymi, nie gwarantujemy ich dokładności ani prawidłowości. Danych tych nie należy używać w&nbsp;sytuacjach krytycznych. Warto też pamiętać o&nbsp;zdrowym rozsądku.
 
 
 ;What information is being sent, and to whom? How is my privacy protected?
@@ -64,7 +64,7 @@ Jakie informacje są przesyłane i&nbsp;do kogo? Jak chroniona jest moja prywatn
 
 
 ;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
-Twoja prywatność jest dla nas niezmiernie ważna. Firefox nigdy nie udzieli witrynom informacji geolokalizacyjnych bez Twojej zgody. Kiedy otwierasz stronę proszącą o dane na temat położenia, zostaniesz poproszony o potwierdzenie przed jakimkolwiek przesłaniem informacji do tej witryny jak i&nbsp;do naszego zewnętrznego dostawcy usług.
+Twoja prywatność jest dla nas niezmiernie ważna. Firefox nigdy nie udzieli witrynom informacji geolokalizacyjnych bez Twojej zgody. Kiedy otwierasz stronę proszącą o dane na temat położenia, zostaniesz poproszony o potwierdzenie przed jakimkolwiek przesłaniem informacji do tej witryny jak i&nbsp;do naszego zewnętrznego dostawcy usług.
 
 
 ;By default, Firefox uses Google Location Services to determine your location by sending:
@@ -92,11 +92,11 @@ Google Location Services zwracają przybliżone położenie geograficzne (szerok
 
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
-Informacje te przesyłane są szyfrowanym połączeniem, chroniąc prywatność użytkownika. Kiedy Firefox uzyska informacje na temat położenia, przekazuje je do witryny, która o nie prosiła. Nigdy nie są przesyłane do Google Location Services nazwa odwiedzanej strony, jej adres, ani tzw. ciasteczka.
+Informacje te przesyłane są szyfrowanym połączeniem, chroniąc prywatność użytkownika. Kiedy Firefox uzyska informacje na temat położenia, przekazuje je do witryny, która o nie prosiła. Nigdy nie są przesyłane do Google Location Services nazwa odwiedzanej strony, jej adres, ani tzw. ciasteczka.
 
 
 ;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
-Ani Mozilla, ani Google nie będą nigdy używać informacji dostarczonych przez Google Location Services do zidentyfikowania czy szpiegowania użytkownika.
+Ani Mozilla, ani Google nie będą nigdy używać informacji dostarczonych przez Google Location Services do zidentyfikowania czy szpiegowania użytkownika.
 
 
 ;For information about what the requesting website does with your location information, please refer to that website’s privacy policy.
@@ -120,7 +120,7 @@ Czy jestem śledzony podczas przeglądania sieci?
 
 
 ;No. Firefox only requests a location when a website makes a request, and only shares your location when the user has approved the request. Firefox does not track or remember your location as you browse.
-Nie. Firefox prosi o&nbsp;dane o&nbsp;położeniu tylko wtedy, gdy poprosi o&nbsp;nie witryna, a&nbsp;dostarcza informacji o&nbsp;położeniu tylko wtedy, gdy użytkownik wyrazi zgodę. Firefox nie śledzi ani nie zapamiętuje położenia użytkownika podczas przeglądania.
+Nie. Firefox prosi o&nbsp;dane o&nbsp;położeniu tylko wtedy, gdy poprosi o&nbsp;nie witryna, a&nbsp;dostarcza informacji o&nbsp;położeniu tylko wtedy, gdy użytkownik wyrazi zgodę. Firefox nie śledzi ani nie zapamiętuje położenia użytkownika podczas przeglądania.
 
 
 ;How do I undo a permission granted to a site?
@@ -172,7 +172,7 @@ Jak całkowicie wyłączyć funkcje geolokalizacyjne?
 
 
 ;Location-Aware Browsing is always opt-in in Firefox. No location information is ever sent without your permission. If you wish to disable the feature completely, please follow this set of steps:
-Ustalenie położenia zawsze odbywa się za zgodą użytkownika Firefoksa. Żadne informacje nie są przesyłane bez jego zgody. Aby całkowicie wyłączyć funkcje geolokalizacyjne, należy wykonać poniższe kroki:
+Ustalenie położenia zawsze odbywa się za zgodą użytkownika Firefoksa. Żadne informacje nie są przesyłane bez jego zgody. Aby całkowicie wyłączyć funkcje geolokalizacyjne, należy wykonać poniższe kroki:
 
 
 ;In the URL bar, type <code>about:config</code>

@@ -43,7 +43,7 @@ Når du besøker et stedsavhengig nettsted vil Firefox spørre deg om du ønsker
 
 
 ;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
-Dersom du godtar dette, henter Firefox inn informasjon om trådløse tilgangspunkter i nærheten og datamaskinens IP-adresse. Firefox sender denne informasjonen til en geolocation-tjenestetilbyder (Google Location Services) for å finne et estimat på hvor du er. Denne informasjonen deles deretter med nettstedet som forespurte den.
+Dersom du godtar dette, henter Firefox inn informasjon om trådløse tilgangspunkter i nærheten og datamaskinens IP-adresse. Firefox sender denne informasjonen til en geolokasjonstjenestetilbyder (Google Location Services) for å finne et estimat på hvor du er. Denne informasjonen deles deretter med nettstedet som forespurte den.
 
 
 ;If you say that you do not consent, Firefox will not do anything.
@@ -87,7 +87,7 @@ For en fullstendig beskrivelse av informasjonen som samles inn og brukes av Fire
 
 
 ;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
-Google Location Services returnerer din estimerte posisjon (f.eks. lengde- og breddegrad). For en komplett beskrivelse av informasjonen som samles sammen og brukes av Google, se <a href="%(url)s" class="%(class)s">Google Geolocation-personvernbestemmelser</a> (engelsk).
+Geolokasjonstjenester (Google Location Services) returnerer din estimerte posisjon (f.eks. lengde- og breddegrad). For en komplett beskrivelse av informasjonen som samles sammen og brukes av Google, se <a href="%(url)s" class="%(class)s">Google Geolocation-personvernbestemmelser</a> (engelsk).
 
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.

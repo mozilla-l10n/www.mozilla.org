@@ -1,12 +1,6 @@
-## NOTE: demo page available at https://www-dev.allizom.org/firefox/products/developer
-## URL: https://www-dev.allizom.org/%LOCALE%/firefox/products/developer
+## NOTE: demo page available at https://www-dev.allizom.org/firefox/developer
+## URL: https://www-dev.allizom.org/%LOCALE%/firefox/developer
 ## NOTE: Keep tool names in English
-
-
-# Used as HTML title of the page
-# This product name remains in English.
-;Firefox Developer Edition
-Firefox Developer Edition
 
 
 # Used as HTML description of the page
@@ -24,12 +18,6 @@ Create and debug web experiences with powerful, open source tools.
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
 Firefox Developer Edition automatically sends feedback to Mozilla.
-
-
-# Link to https://www.mozilla.org/privacy/firefox/#telemetry
-# The legal document is localized only in a few languages.
-;Learn more
-Learn more
 
 
 ;Modernize
@@ -210,6 +198,7 @@ Learn more about the Performance panel
 Memory
 
 
+# Zippy means very fast.
 ;Find memory leaks and make your application zippy.
 Find memory leaks and make your application zippy.
 

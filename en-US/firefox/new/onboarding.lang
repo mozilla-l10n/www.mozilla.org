@@ -1,5 +1,6 @@
+## NOTE: Used for the new http://www-dev.allizom.org/firefox/new/
 ## NOTE: Used for the new http://www-dev.allizom.org/firefox/54.0/firstrun/
-## URL: https://www-dev.allizom.org/%LOCALE%/firefox/54.0/firstrun/
+## URL: https://www-dev.allizom.org/%LOCALE%/firefox/new/
 
 
 ;You’re browsing freely with the latest version of Firefox.
@@ -7,6 +8,7 @@ You’re browsing freely with the latest version of Firefox.
 
 
 # Link points to a SUMO page.
+# This is displayed to Android users on older version of Firefox
 ;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
 <a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
 
@@ -21,10 +23,6 @@ You’re using a pre-release version of Firefox.
 
 ;Chart your own course
 Chart your own course
-
-
-;Get it free on Google Play
-Get it free on Google Play
 
 
 # Link points to a SUMO page.
@@ -70,10 +68,6 @@ Keep up with<br> all things Firefox.
 
 ;Firefox for other platforms
 Firefox for other platforms
-
-
-;Download on the App Store
-Download on the App Store
 
 
 # Span is for visual formatting and line break

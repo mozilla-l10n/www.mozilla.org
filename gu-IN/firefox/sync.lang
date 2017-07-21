@@ -1,7 +1,5 @@
 ## active ##
 ## firefox_sync_mobile_buttons_update ##
-## firefox_sync_non_fx ##
-## firefox_title_meta_bug1345338 ##
 ## fx38_sync_updates ##
 ## ios_announce ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
@@ -12,29 +10,53 @@
 ઉપકરણો પર બુકમાર્ક્સ, ટૅબ્સ અને પાસવર્ડ્સનો ઉપયોગ કરો | Firefox
 
 
-# String is obsolete. Do not remove.
-# HTML page title
-;Keep your Firefox in sync
-તમારા Firefox ને સુમેળ માં રાખો
-
-
 # HTML page description
 ;Bring your Firefox bookmarks, tabs, or passwords wherever you go with Firefox Sync. Share between computers and mobile devices. Get Firefox now!
 Firefox સમન્વયન સાથે તમે જ્યાં જાઓ ત્યાં તમારા Firefox બુકમાર્ક્સ, ટૅબ્સ અથવા પાસવર્ડ્સને લાવો. કમ્પ્યુટર્સ અને મોબાઇલ ઉપકરણો વચ્ચે સહભાગિતા કરો. અત્યારે Firefox મેળવો!
 
 
+;Browse boldly. Connect your devices.
+Browse boldly. Connect your devices.
+
+
+;Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
+Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
+
+
+# String is obsolete. Do NOT remove.
 ;Ready, Set, Sync
 તૈયાર, સેટ, સુમેળ
 
 
+# String is obsolete. Do NOT remove.
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
 તમે સાઇન અપ અને વપરાશ માટે તૈયાર છો <em>તમારા</em> ફાયરફોક્સ ને ગમે ત્યાં, ગમે ત્યારે.
 
 
+;Your web, how you like it, everywhere
+Your web, how you like it, everywhere
+
+
+;Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
+Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
+
+
+# This expression was popular on ad billboard about real estate, suggesting if one bought the house here, he or she didn't have to fight the traffic further.
+# Here it emphasizes Sync's feature of seemless integration between desktop and mobile. Feel free to come up with a different text (we're waiting for an alternative headline from copywriters).
+;If you lived here you’d be home by now
+If you lived here you’d be home by now
+
+
+;Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+
+
+# String is obsolete. Do NOT remove.
 ;Take your Web with you
 તમે તમારા વેબ ને લો
 
 
+# String is obsolete. Do NOT remove.
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
 સુમેળ Firefox ને તમે વાપરવા માટે કોઇ સ્માર્ટફોન, ટેબ્લેટ અથવા કમ્પ્યુટરથી તમારા બુકમાર્ક્સ, પાસવર્ડ્સ, ટેબો અને વધુ પ્રવેશ કરો.
 
@@ -61,11 +83,6 @@ Firefox સમન્વયન સાથે તમે જ્યાં જાઓ �
 
 ;Now sync Firefox with your iOS and Android devices.
 હવે તમારા iOS અને Android ઉપકરણો સાથે ફાયરફોક્સ સમન્વયન.
-
-
-# This string is displayed when you visit the page with a different browser (i.e. not Firefox)
-;Sync is just one of the great features you’ll only get with Firefox.
-સમન્વય લક્ષણ તમને માત્ર ફાયરફોક્સ સાથે મળશે છે.
 
 
 ;Download Firefox for Android
@@ -189,26 +206,57 @@ Sync ની જૂની આવૃત્તિ વાપરી રહ્યા �
 ઇતિહાસ
 
 
+;Personal
+Personal
+
+
+# A rabbit hole is a long and winding exploratory path with many connections. The Web is essentially designed to function as a rabbit hole because of the way hyperlinks work.
+;That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
+That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
+
+
+# String is obsolete. Do NOT remove.
 ;At home
 મુખ્ય પાનું
 
 
+# String is obsolete. Do NOT remove.
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
 એક બીટ અવગણીને વગર કોચથી તમારા ડેસ્ક પરથી ખસેડો. તમારા સ્માર્ટફોન પર તમારા ખુલ્લા ટૅબ્સને પ્રવેશ, અથવા તમારા tablets પર તમારા બુકમાર્ક્સ બ્રાઉઝ રાખો.
 
 
+;Secure
+Secure
+
+
+;Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
+Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
+
+
+# String is obsolete. Do NOT remove.
 ;At work
 કામ પર
 
 
+# String is obsolete. Do NOT remove.
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
 તમારા મહત્વપૂર્ણ તમામમાહિતી સાથે જોડાયેલ રહો. પાસવર્ડ્સ અને બુકમાર્ક્સ તમે કોઈપણ સમયે હક કરવા માટે જરૂર પડી શકે છે તેને સમન્વયન કરો. માત્ર ફાયરફોક્સ જેવા, તે સુરક્ષિત હોઈ શકે છે કારણ કે તે છે.
 
 
+;Accessible
+Accessible
+
+
+;Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
+Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
+
+
+# String is obsolete. Do NOT remove.
 ;On the go
 સફરમાં
 
 
+# String is obsolete. Do NOT remove.
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
 તમારી મનપસંદ સાઇટ્સ સાથે રાખો, અથવા તે વાર્તા તમે શરૂથી સમાપ્ત કરો — ત્યાં તમે જાઓ. સમન્વય સાથે, તે સરળ છે.
 

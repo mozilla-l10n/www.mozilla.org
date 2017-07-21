@@ -1,7 +1,5 @@
 ## active ##
 ## firefox_sync_mobile_buttons_update ##
-## firefox_sync_non_fx ##
-## firefox_title_meta_bug1345338 ##
 ## fx38_sync_updates ##
 ## ios_announce ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
@@ -12,29 +10,53 @@
 在不同裝置間同步書籤、開啟分頁與密碼 | Firefox
 
 
-# String is obsolete. Do not remove.
-# HTML page title
-;Keep your Firefox in sync
-同步您的 Firefox
-
-
 # HTML page description
 ;Bring your Firefox bookmarks, tabs, or passwords wherever you go with Firefox Sync. Share between computers and mobile devices. Get Firefox now!
 透過 Firefox Sync，讓您 Firefox 的書籤、開啟分頁與登入密碼可在不同的電腦與行動裝置間同步。快來下載 Firefox！
 
 
+;Browse boldly. Connect your devices.
+Browse boldly. Connect your devices.
+
+
+;Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
+Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
+
+
+# String is obsolete. Do NOT remove.
 ;Ready, Set, Sync
 各就各位…預備…同步！！
 
 
+# String is obsolete. Do NOT remove.
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
 您已經註冊好，可以隨時隨地存取<em>您的</em> Firefox。
 
 
+;Your web, how you like it, everywhere
+Your web, how you like it, everywhere
+
+
+;Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
+Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
+
+
+# This expression was popular on ad billboard about real estate, suggesting if one bought the house here, he or she didn't have to fight the traffic further.
+# Here it emphasizes Sync's feature of seemless integration between desktop and mobile. Feel free to come up with a different text (we're waiting for an alternative headline from copywriters).
+;If you lived here you’d be home by now
+If you lived here you’d be home by now
+
+
+;Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+
+
+# String is obsolete. Do NOT remove.
 ;Take your Web with you
 讓您的 Web 隨身帶著走
 
 
+# String is obsolete. Do NOT remove.
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
 同步 Firefox，讓您可以在任何智慧型手機、平板或電腦存取您的書籤、密碼、開啟分頁等資料。
 
@@ -61,11 +83,6 @@ Sync 只是 Firefox 眾多強大功能當中的一部份，快下載 Firefox，�
 
 ;Now sync Firefox with your iOS and Android devices.
 現在可以在 iOS 與 Android 裝置間同步 Firefox。
-
-
-# This string is displayed when you visit the page with a different browser (i.e. not Firefox)
-;Sync is just one of the great features you’ll only get with Firefox.
-Sync 只是 Firefox 眾多強大功能當中的一部份。
 
 
 ;Download Firefox for Android
@@ -189,26 +206,57 @@ Sync 新手入門
 瀏覽紀錄
 
 
+;Personal
+Personal
+
+
+# A rabbit hole is a long and winding exploratory path with many connections. The Web is essentially designed to function as a rabbit hole because of the way hyperlinks work.
+;That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
+That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
+
+
+# String is obsolete. Do NOT remove.
 ;At home
 在家
 
 
+# String is obsolete. Do NOT remove.
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
 不用掉一拍就能從您的桌面轉移到沙發上。在您的智慧型手機打開在桌機開過的分頁，或是用您的平板繼續瀏覽您的書籤。
 
 
+;Secure
+Secure
+
+
+;Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
+Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
+
+
+# String is obsolete. Do NOT remove.
 ;At work
 在公司
 
 
+# String is obsolete. Do NOT remove.
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
 同步您可能會突然用到的密碼與書籤，就跟 Firefox 一樣，超安全的，讓您能與所有的重要資訊保持連線。
 
 
+;Accessible
+Accessible
+
+
+;Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
+Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
+
+
+# String is obsolete. Do NOT remove.
 ;On the go
 移動中
 
 
+# String is obsolete. Do NOT remove.
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
 透過 Sync，從來沒有這麼簡單就能隨時隨地不漏接您最愛網站的最新消息，或完成在家裡開始寫的文章。
 

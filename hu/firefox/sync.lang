@@ -1,7 +1,5 @@
 ## active ##
 ## firefox_sync_mobile_buttons_update ##
-## firefox_sync_non_fx ##
-## firefox_title_meta_bug1345338 ##
 ## fx38_sync_updates ##
 ## ios_announce ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
@@ -12,29 +10,53 @@
 Használjon könyvjelzőket, füleket és jelszavakat minden eszközén | Firefox
 
 
-# String is obsolete. Do not remove.
-# HTML page title
-;Keep your Firefox in sync
-Tartsa Firefox böngészőjét szinkronban a Sync-kel
-
-
 # HTML page description
 ;Bring your Firefox bookmarks, tabs, or passwords wherever you go with Firefox Sync. Share between computers and mobile devices. Get Firefox now!
 Bárhová is megy, a Firefox Sync segítségével vigye magával a Firefox könyvjelzőket, füleket, vagy jelszavakat. Ossza meg ezeket a számítógépei és mobileszközei között. Szerezze be a Firefoxot most!
 
 
+;Browse boldly. Connect your devices.
+Browse boldly. Connect your devices.
+
+
+;Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
+Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
+
+
+# String is obsolete. Do NOT remove.
 ;Ready, Set, Sync
 Vigyázz, kész, Sync
 
 
+# String is obsolete. Do NOT remove.
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
 Regisztráció után elérheti a <em>saját</em> Firefoxát akárhol, akármikor.
 
 
+;Your web, how you like it, everywhere
+Your web, how you like it, everywhere
+
+
+;Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
+Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
+
+
+# This expression was popular on ad billboard about real estate, suggesting if one bought the house here, he or she didn't have to fight the traffic further.
+# Here it emphasizes Sync's feature of seemless integration between desktop and mobile. Feel free to come up with a different text (we're waiting for an alternative headline from copywriters).
+;If you lived here you’d be home by now
+If you lived here you’d be home by now
+
+
+;Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+
+
+# String is obsolete. Do NOT remove.
 ;Take your Web with you
 Vigye magával az internetet
 
 
+# String is obsolete. Do NOT remove.
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
 A Firefox Sync segítségével bárhonnan, bármilyen telefonról, tabletről, asztali gépről elérheti könyvjelzőit, jelszavait, böngészőlapjait.
 
@@ -61,11 +83,6 @@ A Sync egyike azoknak a remek lehetőségeknek, amelyeket a Firefox kínál. Fed
 
 ;Now sync Firefox with your iOS and Android devices.
 Most szinkronizálja a Firefoxot az iOS és Android eszközeivel.
-
-
-# This string is displayed when you visit the page with a different browser (i.e. not Firefox)
-;Sync is just one of the great features you’ll only get with Firefox.
-A Sync egyike azoknak a remek lehetőségeknek, amelyeket a Firefox kínál.
 
 
 ;Download Firefox for Android
@@ -189,26 +206,57 @@ Nyitott lapok
 Előzmények
 
 
+;Personal
+Personal
+
+
+# A rabbit hole is a long and winding exploratory path with many connections. The Web is essentially designed to function as a rabbit hole because of the way hyperlinks work.
+;That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
+That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
+
+
+# String is obsolete. Do NOT remove.
 ;At home
 Otthon
 
 
+# String is obsolete. Do NOT remove.
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
 Dolgozzon kényelmesen akár a kanapéról. Férjen hozzá böngészőjéhez a telefonjáról, keresgéljen a könyvjelzői között a tabletjén.
 
 
+;Secure
+Secure
+
+
+;Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
+Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
+
+
+# String is obsolete. Do NOT remove.
 ;At work
 Munkában
 
 
+# String is obsolete. Do NOT remove.
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
 Férjen hozzá mindig a legfontosabb adataihoz. Szinkronizálja a jelszavakat és könyvjelzőket, ha azt szeretné, hogy mindig kéznél legyenek. Mint a Firefox, ez is a lehető legbiztonságosabb.
 
 
+;Accessible
+Accessible
+
+
+;Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
+Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
+
+
+# String is obsolete. Do NOT remove.
 ;On the go
 Útközben
 
 
+# String is obsolete. Do NOT remove.
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
 Akármerre is jár: kövesse kedvenc weboldalait, fejezze be egy történet olvasását, amit még otthon kezdett el. Soha nem volt még ilyen egyszerű a Sync-nek köszönhetően.
 

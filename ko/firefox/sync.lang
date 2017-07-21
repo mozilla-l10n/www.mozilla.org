@@ -1,7 +1,5 @@
 ## active ##
 ## firefox_sync_mobile_buttons_update ##
-## firefox_sync_non_fx ##
-## firefox_title_meta_bug1345338 ##
 ## fx38_sync_updates ##
 ## ios_announce ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
@@ -12,29 +10,53 @@
 Firefox - 기기간 북마크, 탭 및 암호 동기화 기능 제공
 
 
-# String is obsolete. Do not remove.
-# HTML page title
-;Keep your Firefox in sync
-Firefox 동기화 사용하기
-
-
 # HTML page description
 ;Bring your Firefox bookmarks, tabs, or passwords wherever you go with Firefox Sync. Share between computers and mobile devices. Get Firefox now!
 Firefox 북마크, 탭 및 암호 등을 Firefox 동기화 기능입니다. 데스크톱과 모바일 기기와의 상호 동기화 가능한 Firefox를 사용하세요!  
 
 
+;Browse boldly. Connect your devices.
+Browse boldly. Connect your devices.
+
+
+;Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
+Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
+
+
+# String is obsolete. Do NOT remove.
 ;Ready, Set, Sync
 준비, 설정 및 동기화
 
 
+# String is obsolete. Do NOT remove.
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
 가입하시면 언제 어디서나 여러분의 <em>최신</em> Firefox를 사용할 수 있습니다.
 
 
+;Your web, how you like it, everywhere
+Your web, how you like it, everywhere
+
+
+;Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
+Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
+
+
+# This expression was popular on ad billboard about real estate, suggesting if one bought the house here, he or she didn't have to fight the traffic further.
+# Here it emphasizes Sync's feature of seemless integration between desktop and mobile. Feel free to come up with a different text (we're waiting for an alternative headline from copywriters).
+;If you lived here you’d be home by now
+If you lived here you’d be home by now
+
+
+;Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+
+
+# String is obsolete. Do NOT remove.
 ;Take your Web with you
 어디서나 최신 웹 서비스
 
 
+# String is obsolete. Do NOT remove.
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
 여러분의 스마트폰, 태블릿 및 PC에서 언제 어디서나 최신 북마크, 저장암호, 탭 정보 등을 동기화해서 사용하세요.
 
@@ -61,11 +83,6 @@ iOS 기기에서 동기화 지원 예정
 
 ;Now sync Firefox with your iOS and Android devices.
 이제 iOS와 안드로이드 기기에서도 Firefox 동기화를 사용하세요.
-
-
-# This string is displayed when you visit the page with a different browser (i.e. not Firefox)
-;Sync is just one of the great features you’ll only get with Firefox.
-Firefox 동기화 기능은 가장 필수적인 기능 중 하나입니다.
 
 
 ;Download Firefox for Android
@@ -189,26 +206,57 @@ Firefox에서 동기화 하고자 하는 항목을 선택할 수 있습니다. �
 방문 기록
 
 
+;Personal
+Personal
+
+
+# A rabbit hole is a long and winding exploratory path with many connections. The Web is essentially designed to function as a rabbit hole because of the way hyperlinks work.
+;That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
+That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
+
+
+# String is obsolete. Do NOT remove.
 ;At home
 집
 
 
+# String is obsolete. Do NOT remove.
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
 회사 책상에서 집안 소파에서도 언제든 원하는 정보를 함께 접근할 수 있습니다. 스마트폰이나 태블릿에서도 같은 웹 경험이 유지됩니다.
 
 
+;Secure
+Secure
+
+
+;Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
+Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
+
+
+# String is obsolete. Do NOT remove.
 ;At work
 직장
 
 
+# String is obsolete. Do NOT remove.
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
 모든 중요 정보는 여전히 연결되어 있습니다. 암호 및 북마크 모두 동기화 되지만, Firefox 처럼 안전하게 서비스됩니다.
 
 
+;Accessible
+Accessible
+
+
+;Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
+Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
+
+
+# String is obsolete. Do NOT remove.
 ;On the go
 언제나 어디서나
 
 
+# String is obsolete. Do NOT remove.
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
 즐겨 찾는 사이트를 유지하거나 집에서 사용했던 사이트를 계속 쓰려면 함께 하실 수 있습니다.
 

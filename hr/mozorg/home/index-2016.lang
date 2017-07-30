@@ -117,7 +117,7 @@ Proudly non-profit. <br>Donate before Dec 31.
 # This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
 # You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
-$%(sum)s
+$%(sum)s {ok}
 
 
 # Take over form
@@ -127,7 +127,7 @@ Enter your own amount
 
 # Take over form: radio button for monthly contributions
 ;Monthly
-Monthly
+Mjesečno
 
 
 # Take over form: radio button for one-time contributions

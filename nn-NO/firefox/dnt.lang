@@ -26,7 +26,7 @@ Mozilla er ein global, ideell organisasjon, som arbeider for å gjere internett 
 
 
 ;Mozilla Firefox offers a Do Not Track feature that lets you express a preference not to be tracked by websites. When the feature is enabled, Firefox will tell advertising networks and other websites and applications that you want to opt-out of tracking for purposes like behavioral advertising.
-Mozilla Firefox offers a Do Not Track feature that lets you express a preference not to be tracked by websites. When the feature is enabled, Firefox will tell advertising networks and other websites and applications that you want to opt-out of tracking for purposes like behavioral advertising.
+Mozilla Firefox tilbyr sporingsvernfunksjonen «Ikkje spor»  (Do Not Track), som lèt deg uttrykkje eit klart ønskje om at du ikkje vil verte spora av nettstadar. Når funksjonen er aktivert kjem Firefox til å fortelje reklamenettverk, nettstadar og program, at du ikkje vil la dine data verte samla inn for føremål som åtferdsbasert annonsering.
 
 
 ;Frequently Asked <span>Questions</span>
@@ -38,7 +38,7 @@ Kva er Ikkje spor (Do Not Track)?
 
 
 ;Do Not Track is a step toward putting you in control of the way your information is collected and used online. Do Not Track is a feature in Firefox that allows you to let a website know you would like to opt-out of third-party tracking for purposes including behavioral advertising. It does this by transmitting a Do Not Track HTTP header every time your data is requested from the Web.
-Do Not Track is a step toward putting you in control of the way your information is collected and used online. Do Not Track is a feature in Firefox that allows you to let a website know you would like to opt-out of third-party tracking for purposes including behavioral advertising. It does this by transmitting a Do Not Track HTTP header every time your data is requested from the Web.
+«Ikkje spor» (Do Not Track) er eit steg nærare målet om å la deg kontrollera korleis informasjonen din vert samla inn og nytta på internett. Det er ein funksjon i Firefox, som lèt deg fortelje nettstadar, at du ikkje vil la dine data verte samla inn for sporingsføremål og åtferdsannonseringannonsering. «Ikkje spor» (Do Not Track) utfører det oppdraget ved å sende eit særskilt HTTP-hovud kvar gang dataane dine vert spurde etter på nettet.
 
 
 ;Is Do Not Track available on Firefox for Android?
@@ -62,7 +62,7 @@ Korleis fungerer «Ikkje spor» (Do Not Track) saman med andre integritetsverkt�
 
 
 ;Do Not Track is one of many privacy solutions. Do Not Track does not replace your anti-virus software, will not encrypt data, and is not a security mechanism. There are several other <a href="%(url)s">privacy and security</a> features within Firefox.
-Do Not Track is one of many privacy solutions. Do Not Track does not replace your anti-virus software, will not encrypt data, and is not a security mechanism. There are several other <a href="%(url)s">privacy and security</a> features within Firefox.
+«Ikkje spor» (Do Not Track) er ein av mange personvernløysingar. Det erstattar ikkje antivirusprogrammet ditt, kjem ikkje til å kryptere data, og er inga tryggingsmekanisme. Det finst fleire andre <a href="%(url)s">personvern- og tryggingsfunksjonar</a> i Firefox.
 
 
 ;Will Do Not Track affect the rest of my Web experience?
@@ -87,7 +87,7 @@ On macOS, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &
 
 # String is obsolete. Do NOT remove.
 ;On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
-On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
+I Mac OS X, gå til Firefox &gt; Innstillingar… &gt; Personvern. I Linux, gå till Rediger &gt; Instillingar &gt; Personvern.
 
 
 ;Click to check the box next to &quot;Tell websites I do not want to be tracked&quot;. For more information, see the help file on <a href="%(url)s">how to stop websites from tracking you</a>.
@@ -107,19 +107,19 @@ Kvar kan eg finne ut meir?
 
 
 ;Other interesting work about Do Not Track and online privacy:
-Other interesting work about Do Not Track and online privacy:
+Interessante arbeid om «Ikkje spor» (Do Not Track) og personvern på nettet:
 
 
 ;<a href="%s">Private browsing</a> in Firefox &#8212; limits saving data about which sites and pages you have visited online
-<a href="%s">Private browsing</a> in Firefox &#8212; limits saving data about which sites and pages you have visited online
+<a href="%s">Privat surfing</a> i Firefox &#8212; avgrensar lagring av data om kva for nettstadar og sider du har besøkt på nettet
 
 
 ;<a href="%(url1)s">Managing cookies</a> in Firefox &#8212; lets you control how <a href="%(url2)s">cookies</a> are saved on your computer
-<a href="%(url1)s">Managing cookies</a> in Firefox &#8212; lets you control how <a href="%(url2)s">cookies</a> are saved on your computer
+<a href="%(url1)s">Handtering av infokapslar</a> i Firefox &#8212; lèt deg kontrollere korleis <a href="%(url2)s">infokapslar</a> vert lagra på datamaskina di
 
 
 ;<a href="%s">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from Mozilla’s Technology and Privacy Officer
-<a href="%s">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from Mozilla’s Technology and Privacy Officer
+<a href="%s">Alex Fowlers mozillablogg</a> &#8212; dei siste nyheitene frå Mozilla sin ansvarlege for teknologi- og internettspørsmål (på&nbsp;engelsk)
 
 
 ;<a href="%s">donottrack.us</a> project &#8212; Stanford researchers working on the ideas behind Do Not Track
@@ -127,7 +127,7 @@ Other interesting work about Do Not Track and online privacy:
 
 
 ;The Tracking Preference Expression (DNT) <a href="%s">W3C Editor’s Draft</a>
-The Tracking Preference Expression (DNT) <a href="%s">W3C Editor’s Draft</a>
+<a href="%s">The Tracking Preference Expression (DNT)</a> &#8212; eit redaksjonsforlag, Editor’s Draft, frå W3C (på&nbsp;engelsk)
 
 
 ;Tracking Compliance and Scope <a href="%s">W3C Editor’s Draft</a>
@@ -135,7 +135,7 @@ Tracking Compliance and Scope <a href="%s">W3C Editor’s Draft</a>
 
 
 ;The W3C <a href="%s">Tracking Protection Working Group</a>
-The W3C <a href="%s">Tracking Protection Working Group</a>
+Arbeidsgruppa for sporingsvern, <a href="%s">Tracking Protection Working Group</a>, ved W3C (på&nbsp;engelska)
 
 
 ;<a href="%s">Ghostery</a> &#8212; a tool that lets you learn which sites are tracking you online
@@ -143,7 +143,7 @@ The W3C <a href="%s">Tracking Protection Working Group</a>
 
 
 ;See <a href="%s">where your data goes</a> before you click &#8212; an image from the Future of Privacy Forum
-See <a href="%s">where your data goes</a> before you click &#8212; an image from the Future of Privacy Forum
+Sjå <a href="%s">kvar dataa dine tek vegen</a> før du klikkar på &#8212; eit bilde frå organisasjonen Future of Privacy Forum (på&nbsp;engelska)
 
 
 ;Mozilla and Stanford’s Do Not Track <a href="%(url)s">submission to the IETF</a> &#8212; IETF is a standards body that helps define how the Web works, regardless of which Internet browser you use

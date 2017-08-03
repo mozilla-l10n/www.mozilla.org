@@ -3,7 +3,7 @@
 
 # HTML page title
 ;More browser features, fewer plugin updates | Firefox
-More browser features, fewer plugin updates | Firefox
+Plus de fonctionnalités de navigation, moins de mises à jour de plugins | Firefox
 
 
 # HTML page decription
@@ -15,22 +15,22 @@ Browse with fewer interruptions. Features from NPAPI plugins are now automatical
 # Message targetting users already on the latest version of Firefox
 # <br> for visual formatting
 ;Good news - you’re using<br> the latest version of Firefox!
-Good news - you’re using<br> the latest version of Firefox!
+Bonne nouvelle, vous utilisez la version la plus récente de Firefox.
 
 
 ;Even better news - Firefox now <a href="%(npapi)s">supports features</a> that used to require additional plugins.
-Even better news - Firefox now <a href="%(npapi)s">supports features</a> that used to require additional plugins.
+Encore mieux, Firefox possède désormais <a href="%(npapi)s">des fonctionnalités</a> qui nécessitaient autrefois l’ajout de plugins.
 
 
 # The link points to https://support.mozilla.org/
 ;Need help? Visit Mozilla Support
-Need help? Visit Mozilla Support
+Besoin d’aide ? Consultez l’assistance de Mozilla.
 
 
 # Message targeting users on older versions of Firefox
 # <br> for visual formatting
 ;Better features,<br> fewer plugin updates
-Better features,<br> fewer plugin updates
+De meilleures fonctionnalités,<br> moins de mises à jours de plugins
 
 
 ;Firefox has been <a href="%(npapi)s">expanding to support features</a> that used to require extra plugins. Now, they’re kept up-to-date automatically and managed through <a href="%(blocklist)s">blocklisting</a> for added security. So you can stay current with just one Firefox update.
@@ -38,17 +38,17 @@ Firefox has been <a href="%(npapi)s">expanding to support features</a> that used
 
 
 ;Download the latest version:
-Download the latest version:
+Téléchargez la dernière version de Firefox :
 
 
 ;Update Firefox
-Update Firefox
+Mettre à jour Firefox
 
 
 # FMessage targeting non-Firefox users
 # <br> for visual formatting
 ;Tired of updating plugins?<br> Firefox has you covered.
-Tired of updating plugins?<br> Firefox has you covered.
+Vous en avez assez de mettre à jour les plugins ?<br> Firefox s’occupe de tout.
 
 
 ;As the web moves forward, so do we. Firefox now <a href="%(npapi)s">supports more features</a> that used to require plugins, so you can browse with fewer crashes and interruptions. Plus, our <a href="%(blocklist)s">blocklist system</a> protects you between updates.

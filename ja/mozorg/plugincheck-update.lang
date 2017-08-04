@@ -3,13 +3,13 @@
 
 # HTML page title
 ;More browser features, fewer plugin updates | Firefox
-ブラウザーの機能が増えれば、プラグインの更新も少なくなります | Firefox
+ブラウザーの機能が増えれば、プラグインの更新は少なくなります | Firefox
 
 
 # HTML page decription
 # NPAPI stands for Netscape Plugin Application Programming Interface.
 ;Browse with fewer interruptions. Features from NPAPI plugins are now automatically supported in Firefox. Download the latest Firefox now!
-中断を減らしてブラウジングを。これまで NPAPI プラグインが必要だった機能も、今では Firefox 本体に取り込まれています。最新の Firefox を今すぐダウンロード！
+中断を減らしてブラウジングを。これまで NPAPI プラグインを必要としていた機能も、今では Firefox 本体に取り込まれています。最新の Firefox を今すぐダウンロード！
 
 
 # Message targetting users already on the latest version of Firefox
@@ -19,7 +19,7 @@
 
 
 ;Even better news - Firefox now <a href="%(npapi)s">supports features</a> that used to require additional plugins.
-もっと良いお知らせ — Firefox はこれまで追加のプラグインが必要だった <a href="%(npapi)s">機能に対応しました</a>。
+もっと良いお知らせ — Firefox は、これまで追加のプラグインを必要としていた <a href="%(npapi)s">機能に対応しました</a>。
 
 
 # The link points to https://support.mozilla.org/
@@ -34,7 +34,7 @@
 
 
 ;Firefox has been <a href="%(npapi)s">expanding to support features</a> that used to require extra plugins. Now, they’re kept up-to-date automatically and managed through <a href="%(blocklist)s">blocklisting</a> for added security. So you can stay current with just one Firefox update.
-Firefox has been <a href="%(npapi)s">expanding to support features</a> that used to require extra plugins. Now, they’re kept up-to-date automatically and managed through <a href="%(blocklist)s">blocklisting</a> for added security. So you can stay current with just one Firefox update.
+Firefox は、これまで追加のプラグインを必要としていた <a href="%(npapi)s">機能への対応を拡大</a> してきました。今では、プラグインは自動的に更新され、さらなる安心のため <a href="%(blocklist)s">ブロックリスト</a> を通じて管理されています。Firefox を 1 回更新するだけで常に最新の状態でいられます。
 
 
 ;Download the latest version:
@@ -48,11 +48,11 @@ Firefox を更新
 # FMessage targeting non-Firefox users
 # <br> for visual formatting
 ;Tired of updating plugins?<br> Firefox has you covered.
-Tired of updating plugins?<br> Firefox has you covered.
+プラグインの更新にウンザリしていませんか？<br>Firefox はあなたの味方です。
 
 
 ;As the web moves forward, so do we. Firefox now <a href="%(npapi)s">supports more features</a> that used to require plugins, so you can browse with fewer crashes and interruptions. Plus, our <a href="%(blocklist)s">blocklist system</a> protects you between updates.
-As the web moves forward, so do we. Firefox now <a href="%(npapi)s">supports more features</a> that used to require plugins, so you can browse with fewer crashes and interruptions. Plus, our <a href="%(blocklist)s">blocklist system</a> protects you between updates.
+ウェブが前進するにつれて、私たちも前進しています。Firefox は、これまでプラグインを必要としていた <a href="%(npapi)s">様々な機能に対応</a> しているので、クラッシュや中断を減らしてブラウジングできます。さらに、私たちの <a href="%(blocklist)s">ブロックリストシステム</a> が、更新の間もあなたを守ります。
 
 
 ;Hungry for more?

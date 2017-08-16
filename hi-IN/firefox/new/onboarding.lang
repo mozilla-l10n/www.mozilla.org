@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Used for the new http://www-dev.allizom.org/firefox/new/ but also http://www-dev.allizom.org/firefox/54.0/firstrun/
 
 
@@ -8,7 +9,7 @@
 # Link points to a SUMO page.
 # This is displayed to Android users on older version of Firefox.
 ;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-गति और गोपनीयता में नयेपन के लिए अपने Firefox को <a href="%(url)s">अद्यतन करे</a>.
+गति और गोपनीयता में नयेपन के लिए अपने Firefox को <a href="%(url)s">अद्यतन करे</a>
 
 
 ;Congrats! You’re using the latest version of Firefox.
@@ -30,40 +31,40 @@
 
 
 ;Chart your own course
-Chart your own course
+अपने खुद के कोर्स को तैयार करें
 
 
 # Link points to a SUMO page.
 ;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
-Firefox संस्थापित करने के लिए कृपया <a href="%(url)s">इन अनुदेशो</a> का अनुसरण करें.
+कृपया Firefox इंस्टॉल करने के लिए <a href="%(url)s">इन निर्देशों</a> का पालन करें.
 
 
 ;Refresh Firefox
-फ़ायरफ़ॉक्स पुनः आरंभ
+Firefox रिफ्रेश करें
 
 
 ;Discover all the ways to take Firefox on the go
-फ़ायरफ़ॉक्स को अपने कार्य में प्रयोग करने के लिए सभी तरीकों का खोज करें
+Firefox को अपने कार्य में प्रयोग करने के लिए सभी तरीकों का खोज करें
 
 
 ;Go Fast
-Go Fast
+तेज़ी करें
 
 
 ;You have things to do. Get them done faster.
-You have things to do. Get them done faster.
+आपके पास करने के लिए चीजें हैं. उन्हें तेजी से पूरा करें.
 
 
 ;Go Far
-Go Far
+दूर तक जाएं
 
 
 ;Go anywhere, with more built-in privacy tools than any other browser.
-Go anywhere, with more built-in privacy tools than any other browser.
+किसी भी अन्य ब्राउज़र की तुलना में अधिक अंतर्निहित गोपनीयता टूल के साथ कहीं भी जाएं.
 
 
 ;Go Forward
-Go Forward
+आगे जाएं
 
 
 ;Use the only browser built for people, not profit.
@@ -71,7 +72,7 @@ Go Forward
 
 
 ;Keep up with<br> all things Firefox.
-<br>Firefox पर नजर रखें.
+सभी कुछ Firefox पर<br> रखें.
 
 
 ;Firefox for other platforms
@@ -80,17 +81,17 @@ Go Forward
 
 # Span is for visual formatting and line break
 ;Download Firefox <span>for Windows</span>
-<span>विंडो प्लेटफार्म के लिए </span> Firefox डाउनलोड करें
+<span>Windows के लिए</span> Firefox डाउनलोड करें
 
 
 # Span is for visual formatting and line break
 ;Download Firefox <span>for macOS</span>
-<span>मैक ओएस के लिए</span> Firefox डाउनलोड करें
+<span>macOS के लिए</span> Firefox डाउनलोड करें
 
 
 # Span is for visual formatting and line break
 ;Download Firefox <span>for Linux</span>
-<span>लिनक्स के लिए</span> Firefox डाउनलोड करें
+<span>Linux के लिए</span> Firefox डाउनलोड करें
 
 
 ;Welcome to Firefox
@@ -98,27 +99,27 @@ Go Forward
 
 
 ;Already using Firefox?
-Already using Firefox?
+पहले से ही Firefox का उपयोग कर रहे हैं?
 
 
 ;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
+अपने खाते में साइन इन करें और हम बुकमार्क, पासवर्ड और अन्य बड़ी चीज़ों को सिंक करेंगे जिन्हें आपने अन्य डिवाइसों के Firefox पर सहेज रखा है.
 
 
 ;Learn more about Firefox Accounts
-Learn more about Firefox Accounts
+Firefox खातों के बारे में अधिक जानें
 
 
 ;Skip this step
-Skip this step
+इस चरण को छोड़ दें
 
 
 ;Behold! The open web awaits.
-Behold! The open web awaits.
+देखो! ओपन वेब इंतजार कर रहा है.
 
 
 ;Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-Firefox चुनने के लिए धन्यवाद. आपका डाउनलोड अपने आप शुरू होना चाहिए. यदि नहीं, तो <a id="%(id)s" href="%(fallback_url)s">यहाँ क्लिक करें</a>.
+Firefox चुनने के लिए धन्यवाद. आपका डाउनलोड अपने आप शुरू होना चाहिए. यदि नहीं, तो <a id="%(id)s" href="%(fallback_url)s">यहाँ क्लिक करें.</a>
 
 
 ;Get Firefox for Android and iOS.

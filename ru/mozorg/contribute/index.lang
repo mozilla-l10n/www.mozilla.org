@@ -25,11 +25,11 @@
 
 # this br is for formatting, omit or reposition as needed
 ;Meet<br> Mozillians
-Встретьте<br> Мозилльцев
+Встретить<br> Мозилльян
 
 
 ;Get involved
-Примите участие
+Принять участие
 
 
 ;Your country
@@ -47,7 +47,7 @@
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians worldwide
-активных Мозилльцев по всему миру
+активных Мозилльян по всему миру
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
@@ -61,17 +61,17 @@
 
 
 ;Join a global community of game-changers.
-Присоединяйтесь к глобальному сообществу тех, кто меняет правила игры.
+Присоединяйтесь к нам и меняйте правила игры
 
 
 # this br is for formatting, omit or reposition as needed
 ;Volunteer as much as you like. Or as little.<br> It’s totally up to you.
-Помогайте в той мере, в какой вы этого хотите. <br> Это зависит только от вас.
+Помогайте в той мере, в какой хотите. <br> Это зависит только от вас.
 
 
 # this br is for formatting, omit or reposition as needed
 ;Share your skills and pick up<br> a few new ones along the way.
-Поделитесь своими навыками и по пути<br> приобретите несколько новых.
+Делитесь навыками и <br> приобретайте новые.
 
 
 ;Volunteering with Mozilla&hellip;
@@ -80,7 +80,7 @@
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 ;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
-это больше, чем протягивание руки. Это обучение, совместная работа и обмен навыками с глобальным сообществом Мозилльцев — кодерами, организаторами, активистами и многими другими — теми, кто каждый день помогает формировать Интернет.
+это больше, чем жест помощи. Это обучение, совместная работа и обмен навыками с глобальным сообществом Мозилльян — кодерами, организаторами и активистами — теми, кто каждый день помогает формировать Интернет.
 
 
 ;See our community in action
@@ -88,7 +88,7 @@
 
 
 ;How Mozillians help every day
-Как Мозилльцы помогают каждый день
+Как Мозилльяне помогают каждый день
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
@@ -120,7 +120,7 @@
 
 
 ;Want to get involved? Here’s how.
-Хотите принять участие? Вот как это сделать.
+Как я могу принять участие?
 
 
 ;Choose what interests you and tell us how you’d like to help
@@ -132,7 +132,7 @@
 
 
 ;Create your Mozillians account and share your contributions with the world
-Создайте учётную запись Мозилльца и поделитесь своим вкладом со всем миром
+Создайте учётную запись и сделайте свой вклад в этот мир
 
 
 ;Get started
@@ -140,27 +140,27 @@
 
 
 ;Not ready to dive in just yet?
-Не готовы пока нырять с головой?
+Пока не готовы нырять с головой?
 
 
 ;Here are a few other ways you can support Mozilla right now.
-Вот несколько способов, которыми вы можете сейчас поддержать Mozilla.
+Вот несколько способов, которыми вы можете поддержать Mozilla.
 
 
 ;Donate to Mozilla
-Сделать пожертвование для Mozilla
+Сделать пожертвование
 
 
 ;Read our Manifesto
-Прочтите наш манифест
+Прочитать наш Манифест
 
 
 ;Like us on Facebook
-Лайкнуть нас на Фейсбук
+Лайкнуть нас на Фейсбуке
 
 
 ;Follow us on Twitter
-Следовать за нами на Твиттер
+Подписаться на нас в Твиттере
 
 
 ;Upcoming event
@@ -213,7 +213,7 @@ IRC-каналы
 
 # Used as title of the /stories sub-page
 ;Mozillian Stories
-Истории Мозилльцев
+Истории Мозилльян
 
 
 # Used as a toggle to display more content.
@@ -227,11 +227,11 @@ IRC-каналы
 
 
 ;Read more Mozillian stories
-Прочесть больше историй Мозилльцев
+Прочитать больше историй Мозилльян
 
 
 ;Discover even more stories on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
-Откройте ещё больше историй на Твиттере с тегом <a href="%(link_hashtag)s">#IAmAMozillian</a>
+Прочитать ещё больше историй в Твиттере с тегом <a href="%(link_hashtag)s">#IAmAMozillian</a>
 
 
 ;More coming soon
@@ -240,7 +240,7 @@ IRC-каналы
 
 # Used as title of the /signup sub-page
 ;Get Involved: Volunteer Opportunities at Mozilla
-Примите участие: Возможности для добровольцев в Mozilla
+Принять участие: Возможности для волонтеров в Mozilla
 
 
 ;To get started, tell us what interests you.
@@ -248,7 +248,7 @@ IRC-каналы
 
 
 ;Choose one for now. You can always contribute to other areas later.
-Выберите пока одно. Вы всегда можете попозже помочь в других областях.
+Выберите пока что-то одно. Вы всегда можете попозже помочь в других областях.
 
 
 # This text is used for accessibility reasons, it's not visible
@@ -277,19 +277,19 @@ IRC-каналы
 
 
 ;Help make the Mozilla products you use — and love — even better.
-Помогите сделать продукты Mozilla, которые вы используете — и любите — ещё лучше.
+Помогите сделать ваши любимые продукты Mozilla ещё лучше.
 
 
 ;Writing
-Писательство
+Написание текстов
 
 
 ;More about writing
-Подробнее о писательстве
+Подробнее о написании текстов
 
 
 ;Lend your voice to Mozilla — from blogging and social media to providing technical documents for users and developers.
-Станьте ​​голосом Mozilla — от блогов и социальных медиа до написания технических документов для пользователей и разработчиков.
+Станьте голосом Mozilla — вы сможете писать в блог и социальные сети или составлять технические документы для пользователей и разработчиков.
 
 
 ;Teaching
@@ -301,7 +301,7 @@ IRC-каналы
 
 
 ;Share your skills with a community that’s eager to learn. Take advantage of our free tools, teaching resources and events.
-Поделитесь своими навыками с сообществом, которое хочет учиться. Воспользуйтесь нашими бесплатными инструментами, учебным материалом и мероприятиями.
+Поделитесь своими навыками с желающими учиться. Воспользуйтесь нашими бесплатными инструментами, учебными материалами и доступом на мероприятия.
 
 
 ;Helping
@@ -313,7 +313,7 @@ IRC-каналы
 
 
 ;Provide support to users who need it and help everyone get the most out of their Mozilla products.
-Предоставьте поддержку пользователям и помогите каждому из них получить максимальную отдачу от продуктов Mozilla.
+Помогите пользователям получить максимальную пользу от продуктов Mozilla.
 
 
 ;Translating
@@ -325,7 +325,7 @@ IRC-каналы
 
 
 ;Help make Mozilla stuff available in other languages. Translate everything from newsletters and websites to copy for Firefox and Firefox OS.
-Помогите обеспечить доступ к материалам Mozilla на других языках. Переводите всё, от бюллетеней и веб-сайтов до интерфейса Firefox и Firefox OS.
+Помогите перевести материалы Mozilla на другие языки. Переводите всё, от новостной рассылки и веб-сайтов до интерфейса Firefox и Firefox OS.
 
 
 ;Activism
@@ -337,7 +337,7 @@ IRC-каналы
 
 
 ;Get involved with our opportunities to support freedom, security and privacy on the open Web.
-Примите участие в наших сообществах, чтобы поддержать свободу, безопасность и приватность для открытого Интернета.
+Поддержите свободу, безопасность и приватность открытого Интернета.
 
 
 ;I don’t know
@@ -349,7 +349,7 @@ IRC-каналы
 
 
 ;Not sure how you want to help? No problem. We can find the appropriate contribution activity for you.
-Не уверены, как вы хотите помочь? Нет проблем. Мы можем найти для вас подходящую область деятельности.
+Не уверены, чем вы хотите помочь? Это не проблема. Мы найдем для вас подходящее дело.
 
 
 ;Now tell us a little about yourself:
@@ -385,11 +385,11 @@ IRC-каналы
 
 
 ;Start contributing
-Начать помогать
+Внести свой вклад
 
 
 ;Sign me up for community updates
-Подпишите меня на обновления сообщества
+Подписаться на обновления сообщества
 
 
 ;(English)
@@ -413,7 +413,7 @@ IRC-каналы
 
 
 ;What would you like to write?
-В какой области вы бы хотели писать?
+О чём бы вы хотели писать?
 
 
 ;What would you like to teach?
@@ -477,7 +477,7 @@ Firefox {ok}
 
 
 ;Technical docs for Firefox add-ons
-Техническая документация для дополнений Firefox
+Техническая документация по дополнениям Firefox
 
 
 ;Technical docs for HTML5 apps
@@ -489,7 +489,7 @@ Firefox {ok}
 
 
 ;Open News fellowships
-Содружества Открытых Новостей
+сообщества Open News
 
 
 ;Hive - Community networks of educators/mentors

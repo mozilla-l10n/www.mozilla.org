@@ -45,11 +45,11 @@ Einfach auf allen Geräten kurz mit Deinem Firefox Konto anmelden und schon hast
 # This expression was popular on ad billboard about real estate, suggesting if one bought the house here, he or she didn't have to fight the traffic further.
 # Here it emphasizes Sync's feature of seemless integration between desktop and mobile. Feel free to come up with a different text (we're waiting for an alternative headline from copywriters).
 ;If you lived here you’d be home by now
-So bequem wie ein Sofa. Und megaentspannt
+So bequem wie ein Sofa. Und auch so entspannt
 
 
 ;Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
-So einfach geht’s: Firefox auf Wunschgeräte installieren oder öffnen. Kurz bei Deinem Firefox Konto anmelden. Und so eine sichere Verbindung über alle Geräte hinweg aufbauen. Dann kannst Du von überall auf Deine geschützten Passwörter, offene Tabs und Lesezeichen zugreifen. Für Dein Web to go.
+So einfach geht’s: Firefox auf Deinen Wunschgeräten installieren oder dort öffnen. Dort kurz über Dein Firefox Konto anmelden. Und schon kannst Du von überall auf Deine geschützten Passwörter, offene Tabs und Lesezeichen zugreifen. Für Dein Web to go. Auf allen Geräten.
 
 
 # String is obsolete. Do NOT remove.
@@ -59,7 +59,7 @@ Das Web sei mit Dir
 
 # String is obsolete. Do NOT remove.
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-So muss das: Firefox synchronisiert sich mit Deinem Smartphone, Tablet oder Rechner. Damit Du dein persönliches Web immer bei Dir hast – mit allen Lesezeichen, Passwörtern und Tabs. 
+So muss das: Firefox synchronisiert sich mit Deinem Smartphone, Tablet oder Rechner. Damit Du dein persönliches Web immer bei Dir hast – mit allen Lesezeichen, Passwörtern und Tabs.
 
 
 ;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
@@ -67,11 +67,11 @@ Synchronisiere Passwörter, offenen Tabs und Lesezeichen – mit Deinem Firefox 
 
 
 ;It looks like you’re running an older version of Firefox.
-Anscheinend verwendest Du eine ältere Firefox-Version.
+Anscheinend verwendest Du eine ältere Version von Firefox.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-Die neue Version von Sync funktioniert nur mit der neuesten Firefox-Version
+Die neue Version von Sync funktioniert nur mit der neuesten Version von Firefox
 
 
 ;Soon you’ll be able to use Sync on your iOS device
@@ -79,15 +79,15 @@ Schon bald kannst Du Sync auch auf Deinem iOS-Gerät verwenden
 
 
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync ist nur eine der tollen Funktionen, die nur Firefox hat.
+Nur bei uns. Für Dich: Sync eines der coolen Features von Firefox.
 
 
 ;Now sync Firefox with your iOS and Android devices.
-Synchronisieren Sie Firefox jetzt mit Ihren iOS- und Android-Geräten.
+Synchronisiere Firefox jetzt mit Deinen iOS- und Android-Geräten.
 
 
 ;Download Firefox for Android
-Laden Sie Firefox für Android herunter
+Laden Dir Firefox für Android herunter
 
 
 ;Get started with Sync
@@ -95,7 +95,7 @@ Erste Schritte mit Sync
 
 
 ;Update your Firefox
-Aktualisieren Sie Ihren Firefox
+Aktualisiere bitte Firefox
 
 
 ;Download Firefox
@@ -109,34 +109,34 @@ Sync lässt sich in vier einfachen Schritten einrichten:
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Öffnen Sie das <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_ein-praktisches-neues-menak">Menü</a> rechts oben in Firefox und wählen Sie „<strong>Bei Sync anmelden</strong>“.
+Öffne das <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_ein-praktisches-neues-menak">Menü</a> rechts oben in Firefox und wähle „<strong>Bei Sync anmelden</strong>“.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Klicken Sie in dem sich öffnenden Tab auf „<strong>Einführung</strong>“.
+Klicke in dem sich öffnenden Tab auf „<strong>Einführung</strong>“.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Geben Sie eine E-Mail-Adresse und ein Passwort ein, um „<strong>Ein Firefox-Konto (zu) erstellen</strong>“.
+Gib eine E-Mail-Adresse und ein Passwort ein, um „<strong>Ein Firefox Konto (zu) erstellen</strong>“.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Klicken Sie auf „<strong>Weiter</strong>“, um eine Bestätigungs-E-Mail an Ihre Adresse zu erhalten.
+Klick auf „<strong>Weiter</strong>“, um eine Bestätigungs-E-Mail zu erhalten.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-Wenn Sie nach Ihren E-Mails gesehen und auf den Bestätigungs-Link geklickt haben, sind Sie fertig! Firefox synchronisiert ab dann automatisch im Hintergrund.
+Nach Klick auf den Link in unserer Bestätigungs-E-Mail hast Du es geschafft. Firefox synchronisiert ab dann automatisch im Hintergrund.
 
 
 ;Get more detailed instructions.
-Erhalten Sie genauere Anweisungen.
+Erhalte genauere Anweisungen.
 
 
 ;Using an older version of Sync?
-Verwenden Sie eine ältere Sync-Version?
+Verwendest Du eine ältere Sync-Version?
 
 
 # This string is displayed on Android devices
@@ -147,32 +147,32 @@ Fünf einfache Schritte zum Einrichten von Sync:
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tippen Sie auf die <strong>Menü</strong>-Schaltfläche (entweder unter dem Bildschirm oder rechts oben im Browser).
+Tippen bitte auf die <strong>Menü</strong>-Schaltfläche (entweder unter dem Bildschirm oder rechts oben im Browser).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Wählen Sie <strong>Einstellungen</strong> (möglicherweise müssen Sie erst auf <strong>Mehr</strong> tippen).
+Wähle <strong>Einstellungen</strong> (möglicherweise musst Du erst auf <strong>Mehr</strong> tippen).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tippen Sie auf <strong>Sync</strong> und dann auf <strong>Anmelden</strong>.
+Tippe auf <strong>Sync</strong> und dann auf <strong>Anmelden</strong>.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-Die <strong>Seite „Ein Firefox-Konto erstellen“</strong> öffnet sich in einem neuen Reiter.
+Die <strong>Seite „Ein Firefox Konto erstellen“</strong> öffnet sich in einem neuen Reiter.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Füllen Sie das Formular aus und klicken Sie auf <strong>Weiter</strong>.
+Fülle bitte das Formular aus und klicke dann auf <strong>Weiter</strong>.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-Wenn Sie nach Ihren E-Mails gesehen und auf den Bestätigungs-Link geklickt haben, sind Sie startklar! Vergessen Sie nicht, auch Ihre anderen Geräte zu verbinden, damit Sync den meisten Nutzen bringt.
+Sobald Du auf den Bestätigungs-Link in unserer E-Mail geklickt hast, bist Du startklar! Verbinde auch Deinen anderen Geräte über Firefox Sync. Für Dein optimales Surf-Erlebnis.
 
 
 ;Sync a little. Sync a lot.

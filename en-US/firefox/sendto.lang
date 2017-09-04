@@ -1,3 +1,4 @@
+## sendto_updates_bug1395342 ##
 ## NOTE: Demo page at https://www-dev.allizom.org/styleguide/docs/send-to-device/
 ## NOTE: Add ?geo=us to the URL (https://www-dev.allizom.org/styleguide/docs/send-to-device/) to display the SMS strings.
 ## URL: https://www-dev.allizom.org/%LOCALE%/styleguide/docs/send-to-device/
@@ -11,6 +12,12 @@ Send Firefox to your smartphone or tablet
 Your download link was sent.
 
 
+## TAG: sendto_updates_bug1395342
+;Sorry, we can’t send SMS messages to this phone number.
+Sorry, we can’t send SMS messages to this phone number.
+
+
+# Obsolete string, do not remove
 ;Sorry. This number isn’t valid. Please enter a U.S. phone number.
 Sorry. This number isn’t valid. Please enter a U.S. phone number.
 
@@ -35,6 +42,12 @@ Select iOS or Android
 Choose OS
 
 
+## TAG: sendto_updates_bug1395342
+;Enter your email or phone number
+Enter your email or phone number
+
+
+# Obsolete string, do not remove
 ;Enter your email or 10-digit phone number
 Enter your email or 10-digit phone number
 
@@ -47,6 +60,12 @@ Enter your email
 Send
 
 
+## TAG: sendto_updates_bug1395342
+;SMS service available in select countries only. SMS &amp; data rates may apply.
+SMS service available in select countries only. SMS &amp; data rates may apply.
+
+
+# Obsolete string, do not remove
 ;SMS service available to U.S. phone numbers only. SMS &amp; data rates may apply.
 SMS service available to U.S. phone numbers only. SMS &amp; data rates may apply.
 
@@ -77,5 +96,3 @@ Go to the App Store
 
 ;Go to Google Play
 Go to Google Play
-
-

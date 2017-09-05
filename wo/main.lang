@@ -301,12 +301,12 @@ Sutura
 
 # New footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
-Yenn ci gii ëmbéef yu ©1998–%(current_year)s yu ay cërukat yu mozilla.org lañu. Ëmbéef gaa ngi jàppandi ci <a rel="license" href="%(url)s">Sañal gu Creative Common</a>.
+Lenn ci gii ëmbéef lu ©1998–%(current_year)s lu ay cërukat yu mozilla.org lañu. Ëmbéef gaa ngi jàppandi ci <a rel="license" href="%(url)s">Sañal gu Creative Common</a>.
 
 
 # Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Yenn ci gii ëmbéef yu ©1998–%(current_year)s yu ay cërukat yu mozilla.org lañu. Ëmbéef gaa ngi jàppandi ci <a href="%(url)s">Sañal gu Creative Common</a>.
+Lenn ci gii ëmbéef lu ©1998–%(current_year)s lu ay cërukat yu mozilla.org lañu. Ëmbéef gaa ngi jàppandi ci <a href="%(url)s">Sañal gu Creative Common</a>.
 
 
 # Footer string (will replace "Contribute to this page")
@@ -404,7 +404,7 @@ Penc
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+Moomeel
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -579,7 +579,7 @@ HTML {ok}
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
-Oops! Na la wóor ne dugal nga màkkaanub email bu baax.
+Oops! Na la wóor ne dugal nga màkkaanub mbëjfeppal bu baax.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
@@ -632,11 +632,11 @@ If you haven’t previously confirmed a subscription to a Mozilla-related newsle
 
 
 ;Read all about it in our <span>newsletter</span>
-Jàngal lepp ci sunu<span>xibaarukaay</span>
+Jàngal lépp ci sunu<span>xibaarukaay</span>
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Takkool ak yeesal yi weer wu ne, te di am ay xibaari Mozilla, dem ba ci pexe yi lay may nga gëna mën jariñoo sa joowkat Firefox. Mooy yoon wi gën ci jokkoo!
+Bindul ci yeesali weer-wu-ne ngir wéy di joti xibaar ci Mozilla, bokk nañ ci sunuy pexe ak xelal yi mujj ngir gën a man a jariñoo sa joowukaay bu Firefox. Mooy yoon wi gën ngir jot nun!
 
 
 ;<span>Firefox</span> + You
@@ -656,67 +656,67 @@ Xarala yu yees
 # This string will be used as a navigation label in home page, pointing to /internet-health
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Internet Health
-Internet Health
+Wér-gi-yaramu Internet
 
 
 # Used as title in What's new page for 50
 ;Thanks for choosing Firefox!
-Thanks for choosing Firefox!
+Jërajëf ci sa tànnug Firefox!
 
 
 # Used in combination with other strings to create HTML page titles, e.g. in What's new pages
 ;Mozilla Firefox Web Browser
-Mozilla Firefox Web Browser
+Joowukaayu Web bu Mozilla Firefox
 
 
 # Link in the footer
 ;Android Browser
-Android Browser
+Joowukaay bu Android
 
 
 # Link in the footer
 ;iOS Browser
-iOS Browser
+Joowukaay bu iOS
 
 
 # Link in the footer
 ;Focus Browser
-Focus Browser
+Focus
 
 
 # Link in the footer
 ;Desktop Browser
-Desktop Browser
+Joowukaay bu nosukaay
 
 
 # Link in the footer
 ;Beta, Nightly, Developer Edition
-Beta, Nightly, Developer Edition
+Beta, Nightly, Developer Edition {ok}
 
 
 # Link in the footer
 ;Download Firefox Web Browser
-Download Firefox Web Browser
+Yebbil Joowukaayu Web bu Firefox
 
 
 # Link in the footer
 ;Desktop Browser for Mac, Windows, Linux
-Desktop Browser for Mac, Windows, Linux
+Joowukaay bu nosukaay bu Mac, Windows ak Linux
 
 
 # Link in the footer
 ;Mobile Browser for Android
-Mobile Browser for Android
+Joowukaay bu Android
 
 
 # Link in the footer
 ;Mobile Browser for iOS
-Mobile Browser for iOS
+Joowukaay bu iOS
 
 
 # Title in a banner displayed to users of old versions of Firefox
 ;Your Firefox is out-of-date.
-Your Firefox is out-of-date.
+Sa Firefox beesul.
 
 
 # Description in a banner displayed to users of old versions of Firefox

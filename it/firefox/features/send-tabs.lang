@@ -12,7 +12,7 @@ Porta le schede sempre con te
 Utilizza l’account Firefox per trasferire le schede aperte del computer su smartphone, tablet o altro dispositivo.
 
 
-# This means you take the tabs with you, wherever you go.
+# This means you take the tabs with you, wherever you go
 ;Take your tabs to go
 Prendi le tue schede e via…
 
@@ -21,46 +21,30 @@ Prendi le tue schede e via…
 Grazie a Firefox, condividi senza intoppi le schede aperte tra computer, smartphone o tablet.
 
 
-;Send tabs
-Invia schede
+;View your open tabs across mobile and tablet devices by signing in to your Firefox Account.
+View your open tabs across mobile and tablet devices by signing in to your Firefox Account.
 
 
-;It looks like you’re running an older version of Firefox.
-Sembra che tu stia utilizzando una vecchia versione di Firefox.
+;View your open tabs across desktop and tablet too. Just sign in or create a Firefox account.
+View your open tabs across desktop and tablet too. Just sign in or create a Firefox account.
 
 
-;Logged in and connected!
-Ora sei autenticato e connesso!
+# Button label displayed to users of Firefox 31 and later, not signed in to Firefox Accounts
+;Create account
+Create account
 
 
-;You’re all set to start sending tabs.
-Tutto è pronto per iniziare a inviare le schede.
+# Text displayed about download buttons for mobile apps (for Firefox 31 and later, signed in to Firefox Accounts)
+;Get the app
+Get the app
 
 
-;Log in to start sharing
-Effettua l’accesso per iniziare a condividere
-
-
-;Sign in to your Firefox account to send tabs between devices.
-Effettua l’accesso al tuo account Firefox per inviare le schede da un dispositivo all’altro.
-
-
-;Get Firefox on your devices to get started. Then, sign into your Firefox Account to share tabs.
-Primo passo: installa Firefox su tutti i tuoi dispositivi. Secondo passo: connettiti all’account Firefox per iniziare la condivisione delle schede.
-
-
+# Alternate text for the iTunes download button
 ;Download on the App Store
 Scaricalo da App Store
 
 
-;Need help?
-Serve aiuto?
-
-
-;Get started with Sync
-Introduzione a Sync
-
-
+# Button label displayed to users of Firefox 30 and older
 ;Update your Firefox
 Aggiorna la versione di Firefox in uso
 
@@ -91,5 +75,50 @@ Condividi senza pensieri
 
 ;Your data is secure with a Firefox Account.
 I dati personali sono al sicuro sull’account Firefox.
+
+
+# Obsolete string, do not remove
+;Send tabs
+Invia schede
+
+
+# Obsolete string, do not remove
+;It looks like you’re running an older version of Firefox.
+Sembra che tu stia utilizzando una vecchia versione di Firefox.
+
+
+# Obsolete string, do not remove
+;Logged in and connected!
+Ora sei autenticato e connesso!
+
+
+# Obsolete string, do not remove
+;You’re all set to start sending tabs.
+Tutto è pronto per iniziare a inviare le schede.
+
+
+# Obsolete string, do not remove
+;Log in to start sharing
+Effettua l’accesso per iniziare a condividere
+
+
+# Obsolete string, do not remove
+;Sign in to your Firefox account to send tabs between devices.
+Effettua l’accesso al tuo account Firefox per inviare le schede da un dispositivo all’altro.
+
+
+# Obsolete string, do not remove
+;Get Firefox on your devices to get started. Then, sign into your Firefox Account to share tabs.
+Primo passo: installa Firefox su tutti i tuoi dispositivi. Secondo passo: connettiti all’account Firefox per iniziare la condivisione delle schede.
+
+
+# Obsolete string, do not remove
+;Need help?
+Serve aiuto?
+
+
+# Obsolete string, do not remove
+;Get started with Sync
+Introduzione a Sync
 
 

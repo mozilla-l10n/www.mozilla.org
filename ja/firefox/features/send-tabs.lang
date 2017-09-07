@@ -12,7 +12,7 @@
 Firefox アカウントを使えば、デスクトップブラウザーのタブをスマートフォンやタブレットへ送れます。
 
 
-# This means you take the tabs with you, wherever you go.
+# This means you take the tabs with you, wherever you go
 ;Take your tabs to go
 タブを持ち歩こう
 
@@ -21,46 +21,30 @@ Firefox アカウントを使えば、デスクトップブラウザーのタブ
 Firefox なら、携帯、デスクトップ、タブレット間で開いているタブをシームレスに同期できます。
 
 
-;Send tabs
-タブを送る
+;View your open tabs across mobile and tablet devices by signing in to your Firefox Account.
+View your open tabs across mobile and tablet devices by signing in to your Firefox Account.
 
 
-;It looks like you’re running an older version of Firefox.
-あなたは古いバージョンの Firefox をお使いのようです。
+;View your open tabs across desktop and tablet too. Just sign in or create a Firefox account.
+View your open tabs across desktop and tablet too. Just sign in or create a Firefox account.
 
 
-;Logged in and connected!
-ログインと接続が完了しました！
+# Button label displayed to users of Firefox 31 and later, not signed in to Firefox Accounts
+;Create account
+Create account
 
 
-;You’re all set to start sending tabs.
-タブを送り始める準備ができました。
+# Text displayed about download buttons for mobile apps (for Firefox 31 and later, signed in to Firefox Accounts)
+;Get the app
+Get the app
 
 
-;Log in to start sharing
-ログインして同期を開始
-
-
-;Sign in to your Firefox account to send tabs between devices.
-Firefox アカウントへログインして、端末間でタブを送りましょう。
-
-
-;Get Firefox on your devices to get started. Then, sign into your Firefox Account to share tabs.
-まずはお使いの端末に Firefox をインストールしてください。次に、Firefox アカウントへログインして、タブの同期を開始します。
-
-
+# Alternate text for the iTunes download button
 ;Download on the App Store
 App Store からダウンロード
 
 
-;Need help?
-サポートが必要ですか？
-
-
-;Get started with Sync
-Sync を使ってみる
-
-
+# Button label displayed to users of Firefox 30 and older
 ;Update your Firefox
 お使いの Firefox を更新
 
@@ -91,5 +75,50 @@ Sync を使ってみる
 
 ;Your data is secure with a Firefox Account.
 Firefox アカウントではあなたのデータは安全に守られます。
+
+
+# Obsolete string, do not remove
+;Send tabs
+タブを送る
+
+
+# Obsolete string, do not remove
+;It looks like you’re running an older version of Firefox.
+あなたは古いバージョンの Firefox をお使いのようです。
+
+
+# Obsolete string, do not remove
+;Logged in and connected!
+ログインと接続が完了しました！
+
+
+# Obsolete string, do not remove
+;You’re all set to start sending tabs.
+タブを送り始める準備ができました。
+
+
+# Obsolete string, do not remove
+;Log in to start sharing
+ログインして同期を開始
+
+
+# Obsolete string, do not remove
+;Sign in to your Firefox account to send tabs between devices.
+Firefox アカウントへログインして、端末間でタブを送りましょう。
+
+
+# Obsolete string, do not remove
+;Get Firefox on your devices to get started. Then, sign into your Firefox Account to share tabs.
+まずはお使いの端末に Firefox をインストールしてください。次に、Firefox アカウントへログインして、タブの同期を開始します。
+
+
+# Obsolete string, do not remove
+;Need help?
+サポートが必要ですか？
+
+
+# Obsolete string, do not remove
+;Get started with Sync
+Sync を使ってみる
 
 

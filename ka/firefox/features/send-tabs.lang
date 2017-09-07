@@ -12,7 +12,7 @@
 გაგზავნეთ თქვენი კომპიუტერის ბრაუზერის გახსნილი ჩანართები ტელეფონზე, პლანშეტზე და ა.შ. Firefox ანგარიშის საშუალებით.
 
 
-# This means you take the tabs with you, wherever you go.
+# This means you take the tabs with you, wherever you go
 ;Take your tabs to go
 წაიყოლეთ ჩანართები
 
@@ -21,46 +21,30 @@
 გააზიარეთ გახსნილი ჩანართები ტელეფონზე, კომპიუტერსა და პლანშეტზე, Firefox-ის საშუალებით.
 
 
-;Send tabs
-ჩანართების გაგზავნა
+;View your open tabs across mobile and tablet devices by signing in to your Firefox Account.
+View your open tabs across mobile and tablet devices by signing in to your Firefox Account.
 
 
-;It looks like you’re running an older version of Firefox.
-როგორც ჩანს Firefox-ის ძველ ვერსიას იყენებთ.
+;View your open tabs across desktop and tablet too. Just sign in or create a Firefox account.
+View your open tabs across desktop and tablet too. Just sign in or create a Firefox account.
 
 
-;Logged in and connected!
-ანგარიშთან დაკავშირებულია!
+# Button label displayed to users of Firefox 31 and later, not signed in to Firefox Accounts
+;Create account
+Create account
 
 
-;You’re all set to start sending tabs.
-ყველაფერი დაყენებულია, შეგიძლიათ დაიწყოთ ჩანართების გაგზავნა.
+# Text displayed about download buttons for mobile apps (for Firefox 31 and later, signed in to Firefox Accounts)
+;Get the app
+Get the app
 
 
-;Log in to start sharing
-შედით ანგარიშზე, გაზიარების დასაწყებად
-
-
-;Sign in to your Firefox account to send tabs between devices.
-შედით Firefox ანგარიშზე ჩანართების გასაგზავნად მოწყობილობებს შორის.
-
-
-;Get Firefox on your devices to get started. Then, sign into your Firefox Account to share tabs.
-დასაწყისისთვის, გადმოწერეთ Firefox თქვენს მოწყობილობაზე. შემდეგ, შედით Firefox ანგარიშზე, ჩანართების გასაზიარებლად.
-
-
+# Alternate text for the iTunes download button
 ;Download on the App Store
 App Store-დან ჩამოტვირთვა
 
 
-;Need help?
-გესაჭიროებათ დახმარება?
-
-
-;Get started with Sync
-დაიწყეთ დასინქრონება
-
-
+# Button label displayed to users of Firefox 30 and older
 ;Update your Firefox
 განაახლეთ თქვენი Firefox
 
@@ -91,5 +75,50 @@ App Store-დან ჩამოტვირთვა
 
 ;Your data is secure with a Firefox Account.
 თქვენი მონაცემები დაცულია Firefox ანგარიშით
+
+
+# Obsolete string, do not remove
+;Send tabs
+ჩანართების გაგზავნა
+
+
+# Obsolete string, do not remove
+;It looks like you’re running an older version of Firefox.
+როგორც ჩანს Firefox-ის ძველ ვერსიას იყენებთ.
+
+
+# Obsolete string, do not remove
+;Logged in and connected!
+ანგარიშთან დაკავშირებულია!
+
+
+# Obsolete string, do not remove
+;You’re all set to start sending tabs.
+ყველაფერი დაყენებულია, შეგიძლიათ დაიწყოთ ჩანართების გაგზავნა.
+
+
+# Obsolete string, do not remove
+;Log in to start sharing
+შედით ანგარიშზე, გაზიარების დასაწყებად
+
+
+# Obsolete string, do not remove
+;Sign in to your Firefox account to send tabs between devices.
+შედით Firefox ანგარიშზე ჩანართების გასაგზავნად მოწყობილობებს შორის.
+
+
+# Obsolete string, do not remove
+;Get Firefox on your devices to get started. Then, sign into your Firefox Account to share tabs.
+დასაწყისისთვის, გადმოწერეთ Firefox თქვენს მოწყობილობაზე. შემდეგ, შედით Firefox ანგარიშზე, ჩანართების გასაზიარებლად.
+
+
+# Obsolete string, do not remove
+;Need help?
+გესაჭიროებათ დახმარება?
+
+
+# Obsolete string, do not remove
+;Get started with Sync
+დაიწყეთ დასინქრონება
 
 

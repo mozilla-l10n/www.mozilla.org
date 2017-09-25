@@ -83,7 +83,7 @@ Labs {ok}
 
 
 ;skip to Navigation
-dir a Restolar
+dir a Navegación
 
 
 ;switch language
@@ -208,15 +208,15 @@ Vídeos
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-Sacantes que <a href="%s">se conseñe</a> lo contrario, el conteníu d'esta páxina ta llicenciáu baxo <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> o cualesquier versión postrera.
+El conteníu d'esta páxina ta llicenciáu so la <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> o cualesquier versión postrera quitante se <a href="%s">diga</a>.
 
 
 ;Report Trademark Abuse
-Informar sobre abusu de Marca
+Informar abusu de marca
 
 
 ;Free Upgrade
-Anovamientu gratuitu
+Anovamientu de baldre
 
 
 # social networks such as Facebook and Twitter
@@ -239,7 +239,7 @@ Deprendi más
 
 # Link used to play again an animation or a video
 ;Replay
-Reproducir otra vegada
+Reproducir de nueves
 
 
 ;Watch the video
@@ -247,7 +247,7 @@ Mira'l videu
 
 
 ;Replay the video
-Reproducir el videu otra vegada
+Reproducir de nueves el videu
 
 
 ;Share the video
@@ -283,7 +283,7 @@ Firefox pa móviles
 
 
 ;Email
-Corréu-e
+Corréu
 
 
 ;Upgrade now
@@ -311,7 +311,7 @@ Delles partes d'esti conteníu son ©1998–%(current_year)s de los collaborador
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribúi a esti sitiu
+Collabora nesti sitiu
 
 
 # Footer string
@@ -326,7 +326,7 @@ Misión
 
 # Footer item on some pages to link to a tour of features
 ;Tour
-Visita virtual
+Percorríu
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -336,12 +336,12 @@ Sync {ok}
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-Complementos pa escritoriu
+Add-ons d'escritoriu
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Complementos Android
+Add-ons d'Android
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -351,12 +351,12 @@ Temes
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Asistencia pa escritoriu
+Sofitu pal escritoriu
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Ayuda p'Android
+Sofitu p'Android
 
 
 ;Releases
@@ -369,7 +369,7 @@ Blogue
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-Recibir anovamientos de Mozilla
+Consiguir anovamientos de Mozilla
 
 
 # share button for social networks
@@ -429,12 +429,12 @@ Los nuesos productos
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
-Software y otres innovaciones diseñaes pa llevar a cau la nuesa misión.
+Software y otres innovaciones diseñaes p'avanzar na nuesa misión.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Faite collaborador voluntariu en distintes arees.
+Faite collaborador voluntariu en distintes árees.
 
 
 # This is a non-visible string for blind people to indicate where the menu is
@@ -444,12 +444,12 @@ Menú
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Comprometíu contigo, la to privacidá y con una Web abierta
+Comprometíu contigo, la to privacidá y con una web abierta
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Activa JavaScript p'amosar correutamente esta páxina.
+Activa JavaScript p'amosar correutamente esta páxina, por favor.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -583,7 +583,7 @@ HTML {ok}
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Toi acordies con que Mozilla remane la mio información como se desplica <a href="%s">nesta Anuncia de Privacidá</a>
+Toi acordies con que Mozilla remane la mio información como se desplica <a href="%s">nesta noticia de privacidá</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -598,7 +598,7 @@ Consigui les anuncies de Firefox
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-EL TO CORRÉU-E EQUÍ
+EL TO CORRÉU EQUÍ
 
 
 # Newsletter subscription Button
@@ -612,7 +612,7 @@ Rexistrame
 
 
 ;Select country
-Seleiciona país
+Esbilla'l país
 
 
 ;Available Languages
@@ -620,7 +620,7 @@ Llingües disponibles
 
 
 ;We will only send you Mozilla-related information.
-Namái t'unviarémos información venceyada a Mozilla.
+Namái t'unviaremos información venceyada a Mozilla.
 
 
 ;Thanks!
@@ -628,7 +628,7 @@ Namái t'unviarémos información venceyada a Mozilla.
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-Previamente nun confirmesti una soscripción a los boletinos rellacionaos con Mozilla polo que deberíes facelo. Comprueba la to carpeta de spam pa ver el corréu.
+Si nun confirmesti previamente la soscripción a los boletinos venceyaos a Mozilla, deberíes facelo. Comprueba la to bandexa d'entrada o peñera de spam pa ver el corréu de nueso.
 
 
 ;Read all about it in our <span>newsletter</span>
@@ -666,22 +666,22 @@ Salú d'internet
 
 # Used in combination with other strings to create HTML page titles, e.g. in What's new pages
 ;Mozilla Firefox Web Browser
-Mozilla Firefox Web Browser
+Restolador web Mozilla Firefox
 
 
 # Link in the footer
 ;Android Browser
-Android Browser
+Restolador p'Android
 
 
 # Link in the footer
 ;iOS Browser
-iOS Browser
+Restolador pa iOS
 
 
 # Link in the footer
 ;Focus Browser
-Focus Browser
+Restolador Focus
 
 
 # Link in the footer
@@ -691,12 +691,12 @@ Restolador pa escritoriu
 
 # Link in the footer
 ;Beta, Nightly, Developer Edition
-Beta, Nightly, Developer Edition
+Beta, Nightly, Developer Edition {ok}
 
 
 # Link in the footer
 ;Download Firefox Web Browser
-Download Firefox Web Browser
+Baxa'l restolador web Firefox
 
 
 # Link in the footer
@@ -716,56 +716,56 @@ Restolador móvil pa iOS
 
 # Title in a banner displayed to users of old versions of Firefox
 ;Your Firefox is out-of-date.
-Your Firefox is out-of-date.
+El to Firefox ta anováu.
 
 
 # Description in a banner displayed to users of old versions of Firefox
 ;Get the most recent version to keep browsing securely.
-Get the most recent version to keep browsing securely.
+Consigui la versión más reciente pa siguir restolando de mou seguru.
 
 
 # Button label in a banner displayed to users of old versions of Firefox
 ;Update Firefox
-Update Firefox
+Anovar Firefox
 
 
 # Title for Open Graph sharing in new What's new pages
 ;See what’s new with Firefox
-See what’s new with Firefox
+Mira qu'hai nuevo en Firefox
 
 
 # Description for Open Graph sharing in new What's new pages
 ;Faster, more responsive and powerfully private. Check out the latest from the browser that has your back.
-Faster, more responsive and powerfully private. Check out the latest from the browser that has your back.
+Más rápidu, responsivu y priváu. Écha-y un güeyu a lo cabero del restolador que te guarda les costielles.
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show More
-Show More
+Amosar más
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show Less
-Show Less
+Amosar menos
 
 
 # Used on Firefox Privacy Notice landing page
 ;Choose how you want to share this data in Firefox.
-Choose how you want to share this data in Firefox.
+Escueyi cómo quies compartir estos datos en Firefox.
 
 
 # The button opens Firefox preferences, in the Data section, to select your option
 ;Choose…
-Choose…
+Escoyer...
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show All
-Show All
+Amosar too
 
 
 # Used on Firefox Privacy Notice landing page
 ;Hide All
-Hide All
+Anubrir too
 
 

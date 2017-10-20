@@ -40,6 +40,11 @@ A Firefoxok az alapoktól lett újjáépítve, hogy gyorsabb és hatékonyabb le
 Firefox fejlesztői eszközök
 
 
+# Link points to http://firefox-dev.tools/
+;Learn more about Firefox developer tools
+Learn more about Firefox developer tools
+
+
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
 A új Firefox fejlesztői eszközök hatékonyak, rugalmasak, és ami a legjobb, hackelhetőek. Ez tartalmazza a legjobb JavaScript hibakeresőt, amely több böngészőt képes célozni, valamint beépített React és Redux támogatással rendelkezik.
 
@@ -55,6 +60,11 @@ Innovatív funkciók
 
 ;Master CSS Grid
 Legyen a CSS rács mestere
+
+
+# Link points to https://mozilladevelopers.github.io/playground/
+;Learn more about CSS Grid
+Learn more about CSS Grid
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
@@ -78,12 +88,22 @@ Vizsgáló
 Vizsgálja meg és finomítsa a kódját, hogy pixelpontos elrendezéseket készítsen.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Page_Inspector
+;Learn more about Page Inspector
+Learn more about Page Inspector
+
+
 ;Console
 Konzol
 
 
 ;Track CSS, JavaScript, security and network issues.
 Kövessen nyomon a CSS, a JavaScript, a biztonsági és a hálózati problémákat.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Web_Console
+;Learn more about Web Console
+Learn more about Web Console
 
 
 ;Debugger
@@ -94,12 +114,22 @@ Hibakereső
 Hatékony JavaScript hibakereső, amely támogatja a keretrendszerét.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Debugger
+;Learn more about JavaScript Debugger
+Learn more about JavaScript Debugger
+
+
 ;Network
 Hálózat
 
 
 ;Monitor network requests that can slow or block your site.
 Kövesse figyelemmel a hálózati kéréseket, amelyek lassíthatják vagy blokkolhatják az oldalát.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
+;Learn more about Network Monitor
+Learn more about Network Monitor
 
 
 ;Storage panel
@@ -110,12 +140,22 @@ Tároló panel
 Gyorsítótárak, sütik, adatbázisok és munkamenet adatok hozzáadása, módosítása és törlése.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Storage_Inspector
+;Learn more about Storage Panel
+Learn more about Storage Panel
+
+
 ;Responsive Design Mode
 Alkalmazkodó megjelenés mód
 
 
 ;Test sites on emulated devices in your browser.
 Tesztelje az oldalait emulált eszközökön a böngészőjében.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
+;Learn more about Responsive Design View
+Learn more about Responsive Design View
 
 
 ;Visual Editing
@@ -126,12 +166,22 @@ Vizuális szerkesztés
 Finomhangolja az animációkat, igazítást és a térkitöltéseket.
 
 
+# Link points to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more
+;Learn more about Visual Editing
+Learn more about Visual Editing
+
+
 ;Performance
 Teljesítmény
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
 Oldja meg a szűk keresztmetszeteket, egyszerűsítse a folyamatokat, és optimalizálja az erőforrásokat.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Performance
+;Learn more about Performance Tools
+Learn more about Performance Tools
 
 
 ;Memory
@@ -142,12 +192,22 @@ Memória
 Találja meg a memóriaszivárgásokat, és tegye lendületessé az alkalmazását.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Memory
+;Learn more about Memory Tools
+Learn more about Memory Tools
+
+
 ;Web Audio
 Webes hang
 
 
 ;The only developer tool for inspecting the Web Audio API.
 Az egyetlen fejlesztőeszköz a Web Audio API vizsgálatához.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
+;Learn more about Web Audio Editor
+Learn more about Web Audio Editor
 
 
 ;Scratchpad
@@ -158,12 +218,22 @@ Scratchpad {ok}
 Szerkesszen, írjon, és futtasson JavaScriptet valós időben.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Scratchpad
+;Learn more about Scratchpad
+Learn more about Scratchpad
+
+
 ;Style Editor
 Stílusszerkesztő
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
 Szerkessze és kezelje a CSS stíluslapokat a böngészőjében.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Style_Editor
+;Learn more about Style Editor
+Learn more about Style Editor
 
 
 ;Speak up
@@ -196,7 +266,7 @@ Kezdjen hozzá most
 Töltse le a fejlesztőknek készült Firefox böngészőt
 
 
-# First run page at https://www.mozilla.org/en-US/firefox/57.0a2/firstrun/
+# First run page at https://www.mozilla.org/firefox/57.0a2/firstrun/
 ;Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
 A Firefox Developer Edition egy villámgyors böngésző, amely élenjáró fejlesztői eszközöket, és a legfrissebb funkciókat tartalmazza, mint a CSS rács támogatás, és a keretrendszert felismerő hibakeresés
 
@@ -230,7 +300,7 @@ Az új generációs CSS motor (tipp: gyors)
 A Firefox Quantum egy CSS motort tartalmaz, amely Rustban íródott, a legkorszerűbb innovációkat tartalmazza, és villámgyors.
 
 
-# What's new run page at https://www.mozilla.org/en-US/firefox/57.0a2/whatsnew/
+# What's new run page at https://www.mozilla.org/firefox/57.0a2/whatsnew/
 ;Want to be on the cutting-edge?
 Szeretné kipróbálni a legújabb dolgokat?
 

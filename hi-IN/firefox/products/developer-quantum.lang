@@ -40,6 +40,11 @@ Firefox को जमीनी स्तर से फिर से बनाय
 Firefox DevTools {ok}
 
 
+# Link points to http://firefox-dev.tools/
+;Learn more about Firefox developer tools
+Learn more about Firefox developer tools
+
+
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
 नया Firefox DevTools शक्तिशाली, स्थिति के अनुरूप ढलने वाला, तथा सबसे सर्वश्रेष्ठ, हैक करने योग्य है. इसमें एक सर्वश्रेष्ठ वर्ग का JavaScript डिबगर शामिल है, जो अनेक ब्राउज़रों को लक्ष्य कर सकता है तथा React और Redux में बना है.
 
@@ -55,6 +60,11 @@ Firefox DevTools {ok}
 
 ;Master CSS Grid
 मास्टर CSS ग्रिड
+
+
+# Link points to https://mozilladevelopers.github.io/playground/
+;Learn more about CSS Grid
+Learn more about CSS Grid
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
@@ -78,12 +88,22 @@ Firefox DevTools के साथ <br> निर्माण और अपनी
 पिक्सेल के स्तर तक सटीक लेआउट बनाने के लिए कोड का निरीक्षण और परिष्कृत करें.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Page_Inspector
+;Learn more about Page Inspector
+Learn more about Page Inspector
+
+
 ;Console
 कंसोल
 
 
 ;Track CSS, JavaScript, security and network issues.
 CSS, JavaScript, सुरक्षा और नेटवर्क समस्याओं पर नजर रखें.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Web_Console
+;Learn more about Web Console
+Learn more about Web Console
 
 
 ;Debugger
@@ -94,12 +114,22 @@ CSS, JavaScript, सुरक्षा और नेटवर्क समस्
 आपके फ्रेमवर्क का समर्थन करने वाला शक्तिशाली JavaScript डीबगर.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Debugger
+;Learn more about JavaScript Debugger
+Learn more about JavaScript Debugger
+
+
 ;Network
 नेटवर्क
 
 
 ;Monitor network requests that can slow or block your site.
 उन नेटवर्क अनुरोधों पर नजर रखें जो आपकी साइट को धीमा या ब्लॉक कर सकते हैं.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
+;Learn more about Network Monitor
+Learn more about Network Monitor
 
 
 ;Storage panel
@@ -110,12 +140,22 @@ CSS, JavaScript, सुरक्षा और नेटवर्क समस्
 कैश, कुकीज, डेटाबेस और सत्र डेटा को जोड़ें, संशोधित करें और निकालें.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Storage_Inspector
+;Learn more about Storage Panel
+Learn more about Storage Panel
+
+
 ;Responsive Design Mode
 उत्तरदायी डिजाइन दृष्टि
 
 
 ;Test sites on emulated devices in your browser.
 अपने ब्राउज़र में एमुलेटेड डिवाइसों पर साइटों का निरीक्षण करें.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
+;Learn more about Responsive Design View
+Learn more about Responsive Design View
 
 
 ;Visual Editing
@@ -126,12 +166,22 @@ CSS, JavaScript, सुरक्षा और नेटवर्क समस्
 फाईन-ट्यून एनिमेशन, संरेखण और पैडिंग.
 
 
+# Link points to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more
+;Learn more about Visual Editing
+Learn more about Visual Editing
+
+
 ;Performance
 प्रदर्शन
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
 अवरोध हटाएँ, प्रक्रियाओं को कारगर बनाएँ, संपत्तियों को इष्टतम बनाएँ.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Performance
+;Learn more about Performance Tools
+Learn more about Performance Tools
 
 
 ;Memory
@@ -142,12 +192,22 @@ CSS, JavaScript, सुरक्षा और नेटवर्क समस्
 मेमोरी लीक को ढूंढें और अपने अनुप्रयोग को तेज बनाएँ.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Memory
+;Learn more about Memory Tools
+Learn more about Memory Tools
+
+
 ;Web Audio
 वेब ऑडियो
 
 
 ;The only developer tool for inspecting the Web Audio API.
 वेब ऑडियो API का निरीक्षण करने के लिए एकमात्र डेवलपर उपकरण.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
+;Learn more about Web Audio Editor
+Learn more about Web Audio Editor
 
 
 ;Scratchpad
@@ -158,12 +218,22 @@ Scratchpad {ok}
 वास्तविक समय में JavaScript को संपादित करें, लिखें, चलाएँ और निष्पादित करें.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Scratchpad
+;Learn more about Scratchpad
+Learn more about Scratchpad
+
+
 ;Style Editor
 शैली संपादक
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
 अपने ब्राउज़र में अपने सभी CSS स्टाइलशीट को संपादित और प्रबंधित करें.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Style_Editor
+;Learn more about Style Editor
+Learn more about Style Editor
 
 
 ;Speak up
@@ -196,7 +266,7 @@ Scratchpad {ok}
 डेवलपर्स के लिए बनाया गया Firefox ब्राउज़र डाउनलोड करें
 
 
-# First run page at https://www.mozilla.org/en-US/firefox/57.0a2/firstrun/
+# First run page at https://www.mozilla.org/firefox/57.0a2/firstrun/
 ;Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
 Firefox डेवलपर संस्करण एक तीव्र ब्राउज़र है जो अत्याधुनिक डेवलपर साधनों और नवीनतम सुविधाओं जैसे CSS ग्रिड समर्थन और फ्रेमवर्क डीबगिंग को पेश करता है
 
@@ -230,7 +300,7 @@ Firefox DevTools
 Firefox क्वांटम में शामिल है Rust में लिखित एक नया CSS इंजन, जिसमें है अत्याधुनिक नवाचार और अतितीव्र गति है.
 
 
-# What's new run page at https://www.mozilla.org/en-US/firefox/57.0a2/whatsnew/
+# What's new run page at https://www.mozilla.org/firefox/57.0a2/whatsnew/
 ;Want to be on the cutting-edge?
 अत्याधुनिक होना चाहते हैं?
 

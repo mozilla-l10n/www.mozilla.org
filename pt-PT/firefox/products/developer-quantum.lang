@@ -40,6 +40,11 @@ Novas ferramentas
 Firefox DevTools {ok}
 
 
+# Link points to http://firefox-dev.tools/
+;Learn more about Firefox developer tools
+Learn more about Firefox developer tools
+
+
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
 As novas DevTools do Firefox são poderosas, flexíveis e, o melhor de tudo, personalizáveis. Isto inclui o melhor depurador JavaScript da categoria, que pode direcionar os testes para múltiplos navegadores e que é construído em React e Redux.
 
@@ -55,6 +60,11 @@ Funcionalidades inovadoras
 
 ;Master CSS Grid
 Domine a CSS Grid
+
+
+# Link points to https://mozilladevelopers.github.io/playground/
+;Learn more about CSS Grid
+Learn more about CSS Grid
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
@@ -78,12 +88,22 @@ Inspetor
 Inspecione e refine código para construir layouts perfeitamente definidos.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Page_Inspector
+;Learn more about Page Inspector
+Learn more about Page Inspector
+
+
 ;Console
 Consola
 
 
 ;Track CSS, JavaScript, security and network issues.
 Rastreie problemas de CSS, JavaScript, segurança e de rede.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Web_Console
+;Learn more about Web Console
+Learn more about Web Console
 
 
 ;Debugger
@@ -94,12 +114,22 @@ Depurador
 Um potente depurador de JavaScript com suporte para a sua framework.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Debugger
+;Learn more about JavaScript Debugger
+Learn more about JavaScript Debugger
+
+
 ;Network
 Rede
 
 
 ;Monitor network requests that can slow or block your site.
 Monitorize pedidos de rede que possam tornar lento ou bloquear o seu site.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
+;Learn more about Network Monitor
+Learn more about Network Monitor
 
 
 ;Storage panel
@@ -110,12 +140,22 @@ Painel de armazenamento
 Adicione, modifique e remova dados de cache, cookies, base de dados e de sessão.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Storage_Inspector
+;Learn more about Storage Panel
+Learn more about Storage Panel
+
+
 ;Responsive Design Mode
 Modo de design responsivo
 
 
 ;Test sites on emulated devices in your browser.
 Teste sites em dispositivos emulados no seu navegador.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
+;Learn more about Responsive Design View
+Learn more about Responsive Design View
 
 
 ;Visual Editing
@@ -126,12 +166,22 @@ Edição visual
 Afine animações, alinhamentos e espaçamentos.
 
 
+# Link points to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more
+;Learn more about Visual Editing
+Learn more about Visual Editing
+
+
 ;Performance
 Desempenho
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
 Desbloqueie atrasos, simplifique processos, otimize recursos.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Performance
+;Learn more about Performance Tools
+Learn more about Performance Tools
 
 
 ;Memory
@@ -142,12 +192,22 @@ Memória
 Encontre fugas de memória e torne a sua aplicação estanque.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Memory
+;Learn more about Memory Tools
+Learn more about Memory Tools
+
+
 ;Web Audio
 Áudio Web
 
 
 ;The only developer tool for inspecting the Web Audio API.
 A única ferramenta de programação para inspecionar a API de áudio Web.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
+;Learn more about Web Audio Editor
+Learn more about Web Audio Editor
 
 
 ;Scratchpad
@@ -158,12 +218,22 @@ Bloco de rascunho
 Edite, escreva e execute JavaScript em tempo real.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Scratchpad
+;Learn more about Scratchpad
+Learn more about Scratchpad
+
+
 ;Style Editor
 Editor de estilos
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
 Edite e faça a gestão de todas as folhas de estilo CSS no seu navegador.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Style_Editor
+;Learn more about Style Editor
+Learn more about Style Editor
 
 
 ;Speak up
@@ -196,7 +266,7 @@ Começar agora
 Descarregue o navegador Firefox feito para programadores
 
 
-# First run page at https://www.mozilla.org/en-US/firefox/57.0a2/firstrun/
+# First run page at https://www.mozilla.org/firefox/57.0a2/firstrun/
 ;Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
 O Firefox para programadores é um navegador super rápido que fornece ferramentas inovadoras e últimas funcionalidades como o suporte para a grelha CSS e depuração de frameworks
 
@@ -230,7 +300,7 @@ Um motor CSS de nova geração (dica: é rápido)
 O Firefox Quantum inclui um novo motor CSS, escrito em Rust, com inovações de ponta e super rápido.
 
 
-# What's new run page at https://www.mozilla.org/en-US/firefox/57.0a2/whatsnew/
+# What's new run page at https://www.mozilla.org/firefox/57.0a2/whatsnew/
 ;Want to be on the cutting-edge?
 Quer estar na ponta da inovação?
 

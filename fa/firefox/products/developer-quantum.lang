@@ -40,6 +40,11 @@
 DevTools فایرفاکس
 
 
+# Link points to http://firefox-dev.tools/
+;Learn more about Firefox developer tools
+Learn more about Firefox developer tools
+
+
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
 DevTools جدید فایرفاکس قدرتمند است،‌ منعطف است و از همه مهم تر قابل هک شدن و تغییر است. و شامل یکی از بهترین اشکال‌زداهای JavaScript است که می‌تواند چند مرورگر را هدف بگیرد و  توسط React و React ساخته شده است.
 
@@ -55,6 +60,11 @@ DevTools های جدید فایرفاکس قدرتمند، انعطاف پذیر
 
 ;Master CSS Grid
 استاد شبکه‌های CSS بشوید
+
+
+# Link points to https://mozilladevelopers.github.io/playground/
+;Learn more about CSS Grid
+Learn more about CSS Grid
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
@@ -78,12 +88,22 @@ DevTools های جدید فایرفاکس قدرتمند، انعطاف پذیر
 به راحتی کدهای خود را بررسی و تصحیح کنید تا طرح‌هایی بی‌عیب درست کنید.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Page_Inspector
+;Learn more about Page Inspector
+Learn more about Page Inspector
+
+
 ;Console
 پایانه
 
 
 ;Track CSS, JavaScript, security and network issues.
 مشکلات CSS، JavaScript، امنیت و شبکه را ردگیری کنید.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Web_Console
+;Learn more about Web Console
+Learn more about Web Console
 
 
 ;Debugger
@@ -94,12 +114,22 @@ DevTools های جدید فایرفاکس قدرتمند، انعطاف پذیر
 اشکال‌زدای قدرتمند JavaScript با پشتیبانی از چهارچوب شما.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Debugger
+;Learn more about JavaScript Debugger
+Learn more about JavaScript Debugger
+
+
 ;Network
 شبکه
 
 
 ;Monitor network requests that can slow or block your site.
 درخواست‌های شبکه‌ای که می‌توانند سایت شما را کند یا مسدود کنند را پایش کنید.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
+;Learn more about Network Monitor
+Learn more about Network Monitor
 
 
 ;Storage panel
@@ -110,12 +140,22 @@ DevTools های جدید فایرفاکس قدرتمند، انعطاف پذیر
 افزودن، تغییر و حذف حافظه‌ پنهان، کوکی‌ها، پایگاه‌های داده و اطلاعات نشست.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Storage_Inspector
+;Learn more about Storage Panel
+Learn more about Storage Panel
+
+
 ;Responsive Design Mode
 حالت طراحی واکنش‌گرا
 
 
 ;Test sites on emulated devices in your browser.
 سایت‌ها را روی دستگاه‌های شبیه سازی شده در مرورگر خود امتحان کنید.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
+;Learn more about Responsive Design View
+Learn more about Responsive Design View
 
 
 ;Visual Editing
@@ -126,12 +166,22 @@ DevTools های جدید فایرفاکس قدرتمند، انعطاف پذیر
 تنظیم دقیق پویانمایی‌ها، هم‌ترازی و حاشیه‌گذاری.
 
 
+# Link points to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more
+;Learn more about Visual Editing
+Learn more about Visual Editing
+
+
 ;Performance
 کارایی
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
 مشکلات را رفع، پروسه‌ها را مدیریت، و صفحات را بهینه کنید.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Performance
+;Learn more about Performance Tools
+Learn more about Performance Tools
 
 
 ;Memory
@@ -142,12 +192,22 @@ DevTools های جدید فایرفاکس قدرتمند، انعطاف پذیر
 نشت‌های حافظه را پیدا و برنامه‌تان را چابک کنید.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Memory
+;Learn more about Memory Tools
+Learn more about Memory Tools
+
+
 ;Web Audio
 صوت‌ها در وب
 
 
 ;The only developer tool for inspecting the Web Audio API.
 تنها ابزار توسعه‌دهندگان برای بازرسی از API صوت در وب.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
+;Learn more about Web Audio Editor
+Learn more about Web Audio Editor
 
 
 ;Scratchpad
@@ -158,12 +218,22 @@ DevTools های جدید فایرفاکس قدرتمند، انعطاف پذیر
 ویرایش، نوشتن، راه‌اندازی و اجرای JavaScript به صورت بلادرنگ.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Scratchpad
+;Learn more about Scratchpad
+Learn more about Scratchpad
+
+
 ;Style Editor
 ویرایشگر سبک
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
 همه صفحه‌های CSSتان را در مرورگر خود ویرایش و مدیریت کنید.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Style_Editor
+;Learn more about Style Editor
+Learn more about Style Editor
 
 
 ;Speak up
@@ -196,7 +266,7 @@ DevTools های جدید فایرفاکس قدرتمند، انعطاف پذیر
 مرورگر فایرفاکس برای توسعه‌دهندگان را بارگیری کنید
 
 
-# First run page at https://www.mozilla.org/en-US/firefox/57.0a2/firstrun/
+# First run page at https://www.mozilla.org/firefox/57.0a2/firstrun/
 ;Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
 فایرفاکس ویرایش توسعه‌دهندگان مرورگر بسیار سریعی است که پیشرفته‌ترین ابزار‌های توسعه و آخرین ویژگی‌هایی مانند پشتیبانی از CSS Grid و اشکال‌زدایی چهارچوب را ارائه می‌کند
 
@@ -230,7 +300,7 @@ DevTools فایرفاکس
 فایرفاکس کوانتوم شامل یک موتور CSS جدید که در Rust نوشته شده، نوآوری‌های پیشرفته‌ای دارد و بسیار سریع است.
 
 
-# What's new run page at https://www.mozilla.org/en-US/firefox/57.0a2/whatsnew/
+# What's new run page at https://www.mozilla.org/firefox/57.0a2/whatsnew/
 ;Want to be on the cutting-edge?
 می‌خواهید در لبه‌ی پیشرفت باشید؟
 

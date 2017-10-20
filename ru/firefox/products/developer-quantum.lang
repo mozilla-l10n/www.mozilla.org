@@ -40,6 +40,11 @@ Firefox был пересобран с нуля, и стал ещё быстре
 Инструменты разработчика Firefox
 
 
+# Link points to http://firefox-dev.tools/
+;Learn more about Firefox developer tools
+Learn more about Firefox developer tools
+
+
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
 Новые инструменты разработчика Firefox - мощны, гибки и хорошо настраиваемы. В них есть лучший в своём классе отладчик JavaScript, который может эмулировать поведение других браузеров, и построен на React и Redux.
 
@@ -55,6 +60,11 @@ Firefox был пересобран с нуля, и стал ещё быстре
 
 ;Master CSS Grid
 Управление CSS-сеткой
+
+
+# Link points to https://mozilladevelopers.github.io/playground/
+;Learn more about CSS Grid
+Learn more about CSS Grid
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
@@ -78,12 +88,22 @@ Firefox - единственный браузер с инструментами,
 Изучайте и совершенствуйте код, чтобы создавать попиксельно-идеальные макеты.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Page_Inspector
+;Learn more about Page Inspector
+Learn more about Page Inspector
+
+
 ;Console
 Консоль
 
 
 ;Track CSS, JavaScript, security and network issues.
 Отлаживайте CSS, JavaScript, а также проблемы с сетью и безопасностью.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Web_Console
+;Learn more about Web Console
+Learn more about Web Console
 
 
 ;Debugger
@@ -94,12 +114,22 @@ Firefox - единственный браузер с инструментами,
 Мощный отладчик JavaScript с поддержкой вашего любимого фреймворка.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Debugger
+;Learn more about JavaScript Debugger
+Learn more about JavaScript Debugger
+
+
 ;Network
 Сеть
 
 
 ;Monitor network requests that can slow or block your site.
 Контролируйте сетевые запросы, которые могут замедлить или заблокировать ваш сайт.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
+;Learn more about Network Monitor
+Learn more about Network Monitor
 
 
 ;Storage panel
@@ -110,12 +140,22 @@ Firefox - единственный браузер с инструментами,
 Добавляйте, редактируйте и удаляйте кэш, куки, базы данных и данные сессий.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Storage_Inspector
+;Learn more about Storage Panel
+Learn more about Storage Panel
+
+
 ;Responsive Design Mode
 Режим адаптивного дизайна
 
 
 ;Test sites on emulated devices in your browser.
 Тестируйте сайты на эмулируемых устройствах в вашем браузере.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
+;Learn more about Responsive Design View
+Learn more about Responsive Design View
 
 
 ;Visual Editing
@@ -126,12 +166,22 @@ Firefox - единственный браузер с инструментами,
 Точная настройка анимаций, выравнивания и отступов.
 
 
+# Link points to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more
+;Learn more about Visual Editing
+Learn more about Visual Editing
+
+
 ;Performance
 Производительность
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
 Разблокируйте узкие места, обеспечьте упрощение процессов и оптимизируйте производительность.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Performance
+;Learn more about Performance Tools
+Learn more about Performance Tools
 
 
 ;Memory
@@ -142,12 +192,22 @@ Firefox - единственный браузер с инструментами,
 Находите утечки памяти и уменьшите её потребление вашим приложением.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Memory
+;Learn more about Memory Tools
+Learn more about Memory Tools
+
+
 ;Web Audio
 Веб-аудио
 
 
 ;The only developer tool for inspecting the Web Audio API.
 Единственный инструмент разработчиков для изучения Web Audio API.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
+;Learn more about Web Audio Editor
+Learn more about Web Audio Editor
 
 
 ;Scratchpad
@@ -158,12 +218,22 @@ Firefox - единственный браузер с инструментами,
 Редактируйте, пишите, запускайте и исполняйте JavaScript в реальном времени.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Scratchpad
+;Learn more about Scratchpad
+Learn more about Scratchpad
+
+
 ;Style Editor
 Редактор стилей
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
 Редактируйте и управляйте всеми CSS-таблицами стилей в вашем браузере.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Style_Editor
+;Learn more about Style Editor
+Learn more about Style Editor
 
 
 ;Speak up
@@ -196,7 +266,7 @@ Firefox - единственный браузер с инструментами,
 Загрузите браузер Firefox, созданный для разработчиков
 
 
-# First run page at https://www.mozilla.org/en-US/firefox/57.0a2/firstrun/
+# First run page at https://www.mozilla.org/firefox/57.0a2/firstrun/
 ;Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
 Firefox Developer Edition - очень быстрый браузер, предоставляющий доступ к передовым технологиям и последним разработкам, например, он поддерживает CSS-сетки и отладку веб-приложений на основе фреймворков
 
@@ -230,7 +300,7 @@ CSS-движок нового поколения (он быстрый)
 Firefox Quantum включает в себя новейший CSS-движок, написанный на Rust, содержащий в себе передовые инновации и фантастическую скорость.
 
 
-# What's new run page at https://www.mozilla.org/en-US/firefox/57.0a2/whatsnew/
+# What's new run page at https://www.mozilla.org/firefox/57.0a2/whatsnew/
 ;Want to be on the cutting-edge?
 Хотите быть на волне передовых технологий?
 

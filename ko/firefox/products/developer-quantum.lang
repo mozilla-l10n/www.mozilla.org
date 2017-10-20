@@ -39,6 +39,11 @@ Firefox는 보다 빠르고 강력해졌습니다. 여기에는 최첨단 기술
 Firefox 개발  도구
 
 
+# Link points to http://firefox-dev.tools/
+;Learn more about Firefox developer tools
+Learn more about Firefox developer tools
+
+
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
 The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
 
@@ -54,6 +59,11 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ;Master CSS Grid
 마스터 CSS 그리드
+
+
+# Link points to https://mozilladevelopers.github.io/playground/
+;Learn more about CSS Grid
+Learn more about CSS Grid
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
@@ -77,12 +87,22 @@ Firefox 개발도구로<br>웹 사이트 구성하기
 코드를 검사하고 수정하여 완벽한 레이아웃을 만드십시오.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Page_Inspector
+;Learn more about Page Inspector
+Learn more about Page Inspector
+
+
 ;Console
 콘솔
 
 
 ;Track CSS, JavaScript, security and network issues.
 CSS, JavaScript, 보안 및 네트워크 이슈 등을 추적할 수 있습니다.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Web_Console
+;Learn more about Web Console
+Learn more about Web Console
 
 
 ;Debugger
@@ -93,12 +113,22 @@ CSS, JavaScript, 보안 및 네트워크 이슈 등을 추적할 수 있습니�
 프레임 워크를 지원하는 강력한 JavaScript 디버거입니다.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Debugger
+;Learn more about JavaScript Debugger
+Learn more about JavaScript Debugger
+
+
 ;Network
 네트워크
 
 
 ;Monitor network requests that can slow or block your site.
 웹 사이트를 느리게하거나 방해하는 네트워크 요청을 모니터링하십시오.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
+;Learn more about Network Monitor
+Learn more about Network Monitor
 
 
 ;Storage panel
@@ -109,12 +139,22 @@ CSS, JavaScript, 보안 및 네트워크 이슈 등을 추적할 수 있습니�
 캐시, 쿠키, 데이터베이스 및 세션 데이터를 추가, 수정 및 제거합니다.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Storage_Inspector
+;Learn more about Storage Panel
+Learn more about Storage Panel
+
+
 ;Responsive Design Mode
 반응형 디자인 모드
 
 
 ;Test sites on emulated devices in your browser.
 웹 브라우저로 각종 모바일 기기별로 테스트할 수 있습니다.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
+;Learn more about Responsive Design View
+Learn more about Responsive Design View
 
 
 ;Visual Editing
@@ -125,12 +165,22 @@ CSS, JavaScript, 보안 및 네트워크 이슈 등을 추적할 수 있습니�
 애니메이션, 정렬 및 패딩을 미세 조정합니다.
 
 
+# Link points to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more
+;Learn more about Visual Editing
+Learn more about Visual Editing
+
+
 ;Performance
 성능 향상
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
 병목 현상을 방지하고 프로세스를 간소화하며 자원을 최적화합니다.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Performance
+;Learn more about Performance Tools
+Learn more about Performance Tools
 
 
 ;Memory
@@ -141,12 +191,22 @@ CSS, JavaScript, 보안 및 네트워크 이슈 등을 추적할 수 있습니�
 메모리 누수를 찾아 응용 프로그램을 멋지게 만드십시오.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Memory
+;Learn more about Memory Tools
+Learn more about Memory Tools
+
+
 ;Web Audio
 웹 오디오
 
 
 ;The only developer tool for inspecting the Web Audio API.
 Web Audio API를 검사하는 유일한 개발자 도구입니다.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
+;Learn more about Web Audio Editor
+Learn more about Web Audio Editor
 
 
 ;Scratchpad
@@ -157,12 +217,22 @@ Web Audio API를 검사하는 유일한 개발자 도구입니다.
 실시간으로 JavaScript를 편집, 작성, 실행 및 실행하십시오.
 
 
+# Link points to https://developer.mozilla.org/docs/Tools/Scratchpad
+;Learn more about Scratchpad
+Learn more about Scratchpad
+
+
 ;Style Editor
 스타일 편집기
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
 웹 브라우저에서 모든 CSS 스타일 시트를 편집하고 관리하십시오.
+
+
+# Link points to https://developer.mozilla.org/docs/Tools/Style_Editor
+;Learn more about Style Editor
+Learn more about Style Editor
 
 
 ;Speak up
@@ -195,7 +265,7 @@ Web Audio API를 검사하는 유일한 개발자 도구입니다.
 개발자를 위한 Firefox 브라우저 다운로드
 
 
-# First run page at https://www.mozilla.org/en-US/firefox/57.0a2/firstrun/
+# First run page at https://www.mozilla.org/firefox/57.0a2/firstrun/
 ;Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
 Firefox 개발자 에디션은 최첨단 개발자 도구와 CSS 그리드 지원 및 프레임 워크 디버깅과 같은 최신 기능을 제공하는 강력한 브라우저입니다.
 
@@ -229,7 +299,7 @@ Firefox 개발 도구
 Firefox Quantum는 Rust로 재작성된 차세대 CSS 엔진으로 현재로서 최고의 속도를 보여 줍니다.
 
 
-# What's new run page at https://www.mozilla.org/en-US/firefox/57.0a2/whatsnew/
+# What's new run page at https://www.mozilla.org/firefox/57.0a2/whatsnew/
 ;Want to be on the cutting-edge?
 신규 기능
 

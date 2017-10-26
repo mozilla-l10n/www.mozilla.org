@@ -4,7 +4,7 @@
 
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
-Pre-release downloads
+പുറത്തിറക്കുന്നതിനു മുമ്പുള്ള ഡൌൺലോഡുകൾ
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -25,12 +25,12 @@ Pre-release downloads
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+താൽപ്പര്യത്തിനുള്ള ഡാഷ്ബോർഡ്
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+ഡവലപ്പർ പതിപ്പ്
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -45,17 +45,17 @@ Developer Edition
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+വാർത്തകൾ
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+സ്വതന്ത്രമായ ബ്രൗസർ തിരഞ്ഞെടുക്കുക
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+ഫയർഫോക്സ് ലാഭേച്ഛയില്ലാത്തതും കോർപറേറ്റ് അല്ലാത്തതും അപഹരിക്കപ്പെട്ടതുമായതാണ്. ഫയർഫോക്സ് തിരഞ്ഞെടുക്കുന്നത് ഒരു ബ്രൗസർ മാത്രം തിരഞ്ഞെടുക്കുന്നതല്ല. ഇത് വ്യക്തിപരമായ സ്വാതന്ത്ര്യത്തിനുള്ള വോട്ടുമാണ്.
 
 
 ;Donate
@@ -116,7 +116,7 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 
 # Used in new footer to switch the language of the page
 ;Language
-Language
+ഭാഷ
 
 
 ;Other languages:
@@ -125,7 +125,7 @@ Language
 
 # Will replace "Other languages" for the footer's language switcher
 ;Page language:
-Page language:
+താളിന്റെ ഭാഷ:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -251,7 +251,7 @@ Page language:
 
 
 ;Share the video
-Share the video
+വീഡിയോ പങ്കിടുക
 
 
 ;WebM format
@@ -341,7 +341,7 @@ MPEG-4 ഫോര്‍മാറ്റ്
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+ആൻഡ്രോയിഡ് ആഡ്-ഓണുകൾ
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -404,7 +404,7 @@ Android Add-ons
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+അവകാശപതങ്ങൾ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -559,7 +559,7 @@ Patents
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+അഭിനന്ദനങ്ങൾ. നിങ്ങൾ കാലികമാണ്!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -583,12 +583,12 @@ Congrats. You’re up to date!
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+<a href="%s"> ഈ സ്വകാര്യതാ അറിയിപ്പിൽ </a> വിശദീകരിച്ച പ്രകാരം മോസില്ല എന്റെ വിവരങ്ങൾ കൈകാര്യം ചെയ്യുന്നതിൽ എനിക്ക് സമ്മതമാണ്
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+തുടരുക <br> എല്ലാ കാര്യങ്ങളും ഫയർഫോക്സിലൂടെ.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -603,7 +603,7 @@ Keep up with<br> all things Firefox.
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+ഇപ്പോൾ പങ്കു് ചേരുക
 
 
 # Old newsletter subscription Button
@@ -624,11 +624,11 @@ Sign Up Now
 
 
 ;Thanks!
-Thanks!
+നന്ദി!
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+ഒരു മോസില്ലാ സംബന്ധിയായ വാർത്താക്കുറിപ്പിലേക്ക് നിങ്ങൾ മുമ്പ് ഒരു സബ്സ്ക്രിപ്ഷൻ ഉറപ്പാക്കിയിട്ടില്ലെങ്കിൽ നിങ്ങൾ അങ്ങനെ ചെയ്യേണ്ടതായി വരും. ഞങ്ങളിൽ നിന്നുള്ള ഒരു ഇമെയിലിനായി നിങ്ങളുടെ ഇൻബോക്സ് അല്ലെങ്കിൽ നിങ്ങളുടെ സ്പാം ഫിൽറ്റർ പരിശോധിക്കുക.
 
 
 ;Read all about it in our <span>newsletter</span>
@@ -640,23 +640,23 @@ If you haven’t previously confirmed a subscription to a Mozilla-related newsle
 
 
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+<span>ഫയർഫോക്സ്</span> + നിങ്ങൾ
 
 
 ;Get Firefox tips, tricks, news and more
-Get Firefox tips, tricks, news and more
+ഫയർഫോക്സ് നിര്‍ദ്ദേശങ്ങൾ, തന്ത്രങ്ങൾ, വാർത്തകൾ തുടങ്ങിയവ കിട്ടുക
 
 
 # This string will be used as a navigation label in home page, pointing to /technology
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Web Innovations
-Web Innovations
+വെബ്‌ നവീകരണങ്ങൾ
 
 
 # This string will be used as a navigation label in home page, pointing to /internet-health
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Internet Health
-Internet Health
+ഇന്റർനെറ്റിന്റെ ആരോഗ്യം
 
 
 # Used as title in What's new page for 50
@@ -666,72 +666,72 @@ Internet Health
 
 # Used in combination with other strings to create HTML page titles, e.g. in What's new pages
 ;Mozilla Firefox Web Browser
-Mozilla Firefox Web Browser
+മോസില്ല ഫയർഫോക്സ് വെബ് ബ്രൌസർ
 
 
 # Link in the footer
 ;Android Browser
-Android Browser
+ആൻഡ്രോയിഡ് ബ്രൌസർ
 
 
 # Link in the footer
 ;iOS Browser
-iOS Browser
+ഐഒഎസ് ബ്രൗസർ
 
 
 # Link in the footer
 ;Focus Browser
-Focus Browser
+ഫോക്കസ് ബ്രൗസർ
 
 
 # Link in the footer
 ;Desktop Browser
-Desktop Browser
+ഡെസ്ക്ടോപ്പ് ബ്രൌസർ
 
 
 # Link in the footer
 ;Beta, Nightly, Developer Edition
-Beta, Nightly, Developer Edition
+ബീറ്റ, രാത്രം, ഡെവലപ്പർ പതിപ്പ്
 
 
 # Link in the footer
 ;Download Firefox Web Browser
-Download Firefox Web Browser
+ഫയർഫോക്സ് വെബ് ബ്രൌസർ ഡൌൺലോഡ് ചെയ്യുക
 
 
 # Link in the footer
 ;Desktop Browser for Mac, Windows, Linux
-Desktop Browser for Mac, Windows, Linux
+മാക്, വിൻഡോസ്, ലിനക്സിനായി ഡെസ്ക്ടോപ്പ് ബ്രൌസർ
 
 
 # Link in the footer
 ;Mobile Browser for Android
-Mobile Browser for Android
+ആൻഡ്രോയിഡിനായുള്ള മൊബൈൽ ബ്രൗസർ
 
 
 # Link in the footer
 ;Mobile Browser for iOS
-Mobile Browser for iOS
+ഐഒഎസിനായുള്ള മൊബൈൽ ബ്രൗസർ
 
 
 # Title in a banner displayed to users of old versions of Firefox
 ;Your Firefox is out-of-date.
-Your Firefox is out-of-date.
+നിങ്ങളുടെ ഫയർഫോക്സ് കാലഹരണപ്പെട്ടിരിക്കുന്നു.
 
 
 # Description in a banner displayed to users of old versions of Firefox
 ;Get the most recent version to keep browsing securely.
-Get the most recent version to keep browsing securely.
+ബ്രൗസുചെയ്യുന്നത് സുരക്ഷിതമായി സൂക്ഷിക്കാൻ ഏറ്റവും പുതിയ പതിപ്പ് കൈപിടിക്കുക.
 
 
 # Button label in a banner displayed to users of old versions of Firefox
 ;Update Firefox
-Update Firefox
+ഫയർഫോക്സ് പുതുക്കുക
 
 
 # Title for Open Graph sharing in new What's new pages
 ;See what’s new with Firefox
-See what’s new with Firefox
+ഫയർഫോക്സിൽ പുതിയതെന്തെന്ന് കാണുക
 
 
 # Description for Open Graph sharing in new What's new pages
@@ -741,32 +741,32 @@ Faster, more responsive and powerfully private. Check out the latest from the br
 
 # Used on Firefox Privacy Notice landing page
 ;Show More
-Show More
+കൂടുതൽ കാണിക്കുക
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show Less
-Show Less
+കുറച്ച് കാണിക്കുക
 
 
 # Used on Firefox Privacy Notice landing page
 ;Choose how you want to share this data in Firefox.
-Choose how you want to share this data in Firefox.
+ഈ വിവരം ഫയർഫോക്സിൽ എങ്ങനെയാണ് നിങ്ങൾ പങ്കിടേണ്ടതെന്ന് തിരഞ്ഞെടുക്കുക.
 
 
 # The button opens Firefox preferences, in the Data section, to select your option
 ;Choose…
-Choose…
+തിരഞ്ഞെടുക്കുക…
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show All
-Show All
+എല്ലാം കാണിക്കുക
 
 
 # Used on Firefox Privacy Notice landing page
 ;Hide All
-Hide All
+എല്ലാം മറയ്ക്കുക
 
 
 # Navigation link points to /firefox/developer
@@ -776,7 +776,7 @@ Developer Hub
 
 # Naviation link points to https://research.mozilla.org
 ;Research
-Research
+ഗവേഷണം
 
 
 # Navigation link points to https://vr.mozilla.org

@@ -104,7 +104,7 @@ Firefox डाउनलोड करा
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Firefox च्या वरच्या उजव्या कोपऱ्यातील <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">मेनू</a> उघडा आणि “<strong>सिंक करण्यासाठी साइन इन करा</strong>” निवडा
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -157,7 +157,7 @@ Sync ची जुनी आवृत्ती वापरत आहात क�
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+<strong>Firefox खाते बनवा</strong> हे पृष्ठ नवीन टॅब मध्ये उघडेल.
 
 
 # This string is displayed on Android devices
@@ -167,7 +167,7 @@ The <strong>Create a Firefox Account page</strong> will open in a new tab.
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+आपण ई-मेल पाहून दुवा क्लिक केल्यावर आपण तयार असाल. Sync चा पुरेपूर फायदा घेण्यासाठी आपली इतर उपकरणे जोडायला विसरू नका.
 
 
 ;Sync a little. Sync a lot.

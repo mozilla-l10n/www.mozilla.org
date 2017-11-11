@@ -4,7 +4,7 @@
 
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
-Pre-release downloads
+प्रकाशनपुर्व डाउनलोड्स
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -14,7 +14,7 @@ Pre-release downloads
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+अॅप
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -25,17 +25,17 @@ Apps
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+आवड डॅशबोर्ड
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+डेव्हलपर आव्रूत्ती
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+खाजगी ब्राउझिंग
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -45,17 +45,17 @@ Private Browsing
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+बातम्या
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+स्वतंत्र ब्राउझर निवडा
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox विना-नफा, विना-व्यावसायीक आणि तडजोड विरहित आहे. Firefox निवडणे म्हणजे फ़क्त ब्राउझर निवडणे नाही. ते वैयक्तिक स्वातंत्र्याला एक अनुमती देणे आहे.
 
 
 ;Donate
@@ -73,7 +73,7 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 # A top menu navigation label that points to https://addons.mozilla.org/firefox/.
 # Will replace Add-ons once this string is localized.
 ;Extensions
-Extensions
+एक्सटेंशन्स्
 
 
 ;Add-ons
@@ -122,7 +122,7 @@ Mozilla विषयी
 
 # Used in new footer to switch the language of the page
 ;Language
-Language
+भाषा
 
 
 ;Other languages:
@@ -131,7 +131,7 @@ Language
 
 # Will replace "Other languages" for the footer's language switcher
 ;Page language:
-Page language:
+पानाची भाषा:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -253,11 +253,11 @@ FAQ {ok}
 
 
 ;Replay the video
-Replay the video
+व्हिडीओ पुऩ्हा पहा
 
 
 ;Share the video
-Share the video
+व्हिडीओ शेअर करा
 
 
 ;WebM format
@@ -317,12 +317,12 @@ MPEG-4 रुपण
 
 # Footer string
 ;Contribute to this site
-Contribute to this site
+ह्या स्थळाला सहकार्य करा
 
 
 # Used in footer, links to the source code of the page currently displayed.
 ;Source code for this page
-Source code for this page
+ह्या पृष्ठाचे स्त्रोत पहा
 
 
 # Top menu item
@@ -337,7 +337,7 @@ Source code for this page
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync
+ताळमेळ
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -347,7 +347,7 @@ Sync
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+Android अॅड-ऑन्स
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -410,12 +410,12 @@ Facebookवर Firefox
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+पेटंट्स
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+नेतृत्व
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -455,7 +455,7 @@ Leadership
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+हे पान व्यवस्थित दर्शवण्यासाठी क्रुपया JavaScript सुरु करा.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -565,7 +565,7 @@ Please turn on JavaScript to display this page correctly.
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+अभिनंदन. आपल्या सर्व प्रणाली अद्यायावत आहेत!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -580,7 +580,7 @@ Congrats. You’re up to date!
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -589,12 +589,12 @@ HTML
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+<a href="%s">ह्या गोपनियता सुचनेमध्ये</a> सांगितल्या प्रमाणे Mozilla ने माझी माहिती हाताळण्याबाबत माझी हरकत नाही
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+जागरुक रहा<br> FIrefox च्या सर्व गोष्टिंबाबत.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -609,7 +609,7 @@ Firefox समाचार मिळवा
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+आत्ताच नोंदणी करा
 
 
 # Old newsletter subscription Button
@@ -630,11 +630,11 @@ Sign Up Now
 
 
 ;Thanks!
-Thanks!
+धन्यवाद!
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+आपण जर याआधी Mozilla संबंधित बातमीपत्राचे सभासदत्व नक्की केले नसेल तर आपल्याला ते करावे लागेल. आपला इनबॉक्स किंवा स्पॅम वर्गिक्रूत मेल्स मध्ये क्रुपया आमचा ई-मेल तपासा.
 
 
 ;Read all about it in our <span>newsletter</span>
@@ -642,27 +642,27 @@ If you haven’t previously confirmed a subscription to a Mozilla-related newsle
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-मासिक सुधारणांसाठी सबस्क्राइब करा व Mozilla न्यूजसह अवगत रहा, फायरफॉक्स ब्राऊजरपासून सर्वाधिक प्राप्त करण्यासाठी नविन टिप्स् व युक्ती समाविष्टीत. आमच्याशी संपर्कात राहण्यासाठी उत्तम मार्ग!　
+मासिक सुधारणांसाठी सबस्क्राइब करा व Mozilla न्यूजसह अवगत रहा, फायरफॉक्स ब्राऊजरपासून सर्वाधिक प्राप्त करण्यासाठी नविन टिप्स् व युक्ती समाविष्टीत. आमच्याशी संपर्कात राहण्यासाठी उत्तम मार्ग!
 
 
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+<span>Firefox</span> + आपण
 
 
 ;Get Firefox tips, tricks, news and more
-Get Firefox tips, tricks, news and more
+Firefox विषयी सुचना, क्लुप्त्या, बातम्या आणि बरेच काही जाणून घ्या
 
 
 # This string will be used as a navigation label in home page, pointing to /technology
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Web Innovations
-Web Innovations
+वेब वरचे नाविन्य
 
 
 # This string will be used as a navigation label in home page, pointing to /internet-health
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Internet Health
-Internet Health
+इंटरनेटचे स्वास्थ्य
 
 
 # Used as title in What's new page for 50
@@ -672,72 +672,72 @@ Firefox निवडल्याबद्दल धन्यवाद!
 
 # Used in combination with other strings to create HTML page titles, e.g. in What's new pages
 ;Mozilla Firefox Web Browser
-Mozilla Firefox Web Browser
+Mozilla Firefox वेब ब्राऊझर
 
 
 # Link in the footer
 ;Android Browser
-Android Browser
+Android ब्राउझर
 
 
 # Link in the footer
 ;iOS Browser
-iOS Browser
+iOS ब्राउझर
 
 
 # Link in the footer
 ;Focus Browser
-Focus Browser
+Focus ब्राउझर
 
 
 # Link in the footer
 ;Desktop Browser
-Desktop Browser
+डेस्कटॉप ब्राउझर
 
 
 # Link in the footer
 ;Beta, Nightly, Developer Edition
-Beta, Nightly, Developer Edition
+Beta, Nightly, Developer आवृत्ती
 
 
 # Link in the footer
 ;Download Firefox Web Browser
-Download Firefox Web Browser
+Firefox वेब ब्राऊझर डाउनलोड करा
 
 
 # Link in the footer
 ;Desktop Browser for Mac, Windows, Linux
-Desktop Browser for Mac, Windows, Linux
+Mac, Windows, Linux साठी डेस्कटॉप ब्राउझर
 
 
 # Link in the footer
 ;Mobile Browser for Android
-Mobile Browser for Android
+Android साठी मोबाइल ब्राउझर
 
 
 # Link in the footer
 ;Mobile Browser for iOS
-Mobile Browser for iOS
+iOS साठी मोबाईल ब्राउझर
 
 
 # Title in a banner displayed to users of old versions of Firefox
 ;Your Firefox is out-of-date.
-Your Firefox is out-of-date.
+आपला FIrefox कालबाह्य झाला आहे.
 
 
 # Description in a banner displayed to users of old versions of Firefox
 ;Get the most recent version to keep browsing securely.
-Get the most recent version to keep browsing securely.
+सुरक्षित ब्राउझिंग सुरू ठेवण्यासाठी सर्वात अलीकडील आवृत्ती मिळवा.
 
 
 # Button label in a banner displayed to users of old versions of Firefox
 ;Update Firefox
-Update Firefox
+Firefox अद्ययावत करा
 
 
 # Title for Open Graph sharing in new What's new pages
 ;See what’s new with Firefox
-See what’s new with Firefox
+Firefox मध्ये नवीन काय आहे ते पहा
 
 
 # Description for Open Graph sharing in new What's new pages
@@ -747,61 +747,61 @@ Faster, more responsive and powerfully private. Check out the latest from the br
 
 # Used on Firefox Privacy Notice landing page
 ;Show More
-Show More
+आणखी पहा
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show Less
-Show Less
+कमी पहा
 
 
 # Used on Firefox Privacy Notice landing page
 ;Choose how you want to share this data in Firefox.
-Choose how you want to share this data in Firefox.
+आपण हा डेटा Firefox मध्ये कसा शेअर करू इच्छिता ते निवडा.
 
 
 # The button opens Firefox preferences, in the Data section, to select your option
 ;Choose…
-Choose…
+निवडा…
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show All
-Show All
+सर्व दाखवा
 
 
 # Used on Firefox Privacy Notice landing page
 ;Hide All
-Hide All
+सर्व अदृश्य करा
 
 
 # Navigation link points to /firefox/developer
 ;Developer Hub
-Developer Hub
+डेवलपर हब
 
 
 # Naviation link points to https://research.mozilla.org
 ;Research
-Research
+संशोधन
 
 
 # Navigation link points to https://vr.mozilla.org
 ;Virtual Reality
-Virtual Reality
+वर्चुअल रियलिटी
 
 
 # Navigation link points to https://games.mozilla.org/
 ;Games
-Games
+खेळ
 
 
 # Navigation link points to https://developer.mozilla.org
 ;Documentation
-Documentation
+दस्तऐवजीकरण
 
 
 # Navigation link points to https://hacks.mozilla.org
 ;Hacks blog
-Hacks blog
+हैक्स ब्लॉग
 
 

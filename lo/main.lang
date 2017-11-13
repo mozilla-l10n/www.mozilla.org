@@ -73,7 +73,7 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 # A top menu navigation label that points to https://addons.mozilla.org/firefox/.
 # Will replace Add-ons once this string is localized.
 ;Extensions
-Extensions
+ສ່ວນເສີມ
 
 
 ;Add-ons
@@ -157,7 +157,7 @@ Add-ons {ok}
 
 
 ;Release Notes
-Release Notes
+ບັນທຶກປະຈຳລຸ້ນ
 
 
 ;Other Systems and Languages
@@ -169,7 +169,7 @@ Release Notes
 
 
 ;(in English)
-(in ພາສາອັງກິດ)
+(ໃນ ພາສາອັງກິດ)
 
 
 ;Return to top
@@ -218,7 +218,7 @@ Except where otherwise <a href="%s">noted</a>, content on this site is licensed 
 
 
 ;Report Trademark Abuse
-Report Trademark Abuse
+ລາຍງານເຄື່ອງໝາຍການຄ້າທີ່ຜິດຈຸດປະສົງ
 
 
 ;Free Upgrade
@@ -277,7 +277,7 @@ Report Trademark Abuse
 
 
 ;View Full Site
-View Full Site
+ເບິ່ງເຕັມຈໍ
 
 
 ;Desktop
@@ -332,7 +332,7 @@ Source code ສຳລັບຫນ້ານີ້
 
 # Footer item on some pages to link to a tour of features
 ;Tour
-Tour
+ທ່ຽວຊົມ
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -357,16 +357,16 @@ Add-ons ສຳລັບ Android
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Desktop Support
+ການສະໜັບສະໜູນ Desktop
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+ການສະໜັບສະໜູນ Android
 
 
 ;Releases
-Releases
+ລຸ້ນທີ່ອອກ
 
 
 ;Blog
@@ -375,7 +375,7 @@ Releases
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-Get Mozilla updates
+ຮັບອັບເດດ Mozilla
 
 
 # share button for social networks
@@ -410,17 +410,17 @@ Firefox ໃນ Facebook
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+ສິດທິບັດ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+ຄວາມເປັນຜູ່ນຳ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
-Governance
+ການດູແລຄວບຄຸມ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -565,12 +565,12 @@ Firefox Help
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+ຍິນດີ. ເຈົ້າທັນສະໄໝແລ້ວ!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
 ;Format
-Format
+ຮູບແບບ
 
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
@@ -609,7 +609,7 @@ Whoops! Be sure to enter a valid email address.
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+ລົງທະບຽນດຽວນີ້
 
 
 # Old newsletter subscription Button
@@ -646,7 +646,7 @@ Subscribe to monthly updates and keep current with Mozilla news, including the l
 
 
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+<span>Firefox</span> + ເຈົ້າ 
 
 
 ;Get Firefox tips, tricks, news and more
@@ -662,7 +662,7 @@ Get Firefox tips, tricks, news and more
 # This string will be used as a navigation label in home page, pointing to /internet-health
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Internet Health
-Internet Health
+ສຸຂະພາບຂອງອິນເຕີເນັດ
 
 
 # Used as title in What's new page for 50
@@ -672,27 +672,27 @@ Internet Health
 
 # Used in combination with other strings to create HTML page titles, e.g. in What's new pages
 ;Mozilla Firefox Web Browser
-Mozilla Firefox Web Browser
+ເວັບບາວເຊີ Mozilla Firefox
 
 
 # Link in the footer
 ;Android Browser
-Android Browser
+Android ບາວເຊີ
 
 
 # Link in the footer
 ;iOS Browser
-iOS Browser
+iOS ບາວເຊີ
 
 
 # Link in the footer
 ;Focus Browser
-Focus Browser
+Focus ບາວເຊີ
 
 
 # Link in the footer
 ;Desktop Browser
-Desktop Browser
+Desktop ບາວເຊີ
 
 
 # Link in the footer
@@ -722,22 +722,22 @@ Browser ໂທລະສັບສຳລັບ iOS
 
 # Title in a banner displayed to users of old versions of Firefox
 ;Your Firefox is out-of-date.
-Your Firefox is out-of-date.
+Firefox ຂອງເຈົ້າໝົດອາຍຸ.
 
 
 # Description in a banner displayed to users of old versions of Firefox
 ;Get the most recent version to keep browsing securely.
-Get the most recent version to keep browsing securely.
+ຮັບເວີຊັ່ນຫຼ້າສຸດທີ່ສຸດເພື່ອເຮັດໃຫ້ການທ່ອງເວັບມີຄວາມປອດໄພ.
 
 
 # Button label in a banner displayed to users of old versions of Firefox
 ;Update Firefox
-Update Firefox
+ອັບເດດ Firefox
 
 
 # Title for Open Graph sharing in new What's new pages
 ;See what’s new with Firefox
-See what’s new with Firefox
+ມາເບິ່ງສິ່ງໃໝ່ໃນ Firefox
 
 
 # Description for Open Graph sharing in new What's new pages
@@ -747,61 +747,61 @@ Faster, more responsive and powerfully private. Check out the latest from the br
 
 # Used on Firefox Privacy Notice landing page
 ;Show More
-Show More
+ສະແດງຕື່ມ
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show Less
-Show Less
+ສະແດງໜ້ອຍ
 
 
 # Used on Firefox Privacy Notice landing page
 ;Choose how you want to share this data in Firefox.
-Choose how you want to share this data in Firefox.
+ເລືອກວ່າເຈົ້າຕ້ອງການຈະແບ່ງປັນຂໍ້ມູນນີ້ໃນ Firefox.
 
 
 # The button opens Firefox preferences, in the Data section, to select your option
 ;Choose…
-Choose…
+ເລືອກ…
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show All
-Show All
+ສະແດງທັງໝົດ
 
 
 # Used on Firefox Privacy Notice landing page
 ;Hide All
-Hide All
+ເຊື່ອງທັງໝົດ
 
 
 # Navigation link points to /firefox/developer
 ;Developer Hub
-Developer Hub
+ສູນລວມນັກພັດທະນາ
 
 
 # Naviation link points to https://research.mozilla.org
 ;Research
-Research
+ວິໄຈ
 
 
 # Navigation link points to https://vr.mozilla.org
 ;Virtual Reality
-Virtual Reality
+ມຸມມອງສະເໝືອນຈິງ
 
 
 # Navigation link points to https://games.mozilla.org/
 ;Games
-Games
+ເກມ
 
 
 # Navigation link points to https://developer.mozilla.org
 ;Documentation
-Documentation
+ເອກະສານ
 
 
 # Navigation link points to https://hacks.mozilla.org
 ;Hacks blog
-Hacks blog
+ບົດຄວາມ Hacks
 
 

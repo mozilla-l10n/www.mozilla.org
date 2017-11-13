@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/new/
 
 
@@ -71,7 +72,7 @@
 
 
 ;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-ການດາວໂຫຼດຂອງເຈົ້າຄວນເລີ່ມຢ່າງອັດຕະໂນມັດ. ຖ້າບໍ່, <a id="%(id)s" href="%(feedback_url)s">ຄິກບ່ອນນີ້</a>.
+ການດາວໂຫຼດຂອງເຈົ້າຄວນເລີ່ມຢ່າງອັດຕະໂນມັດ. ຖ້າບໍ່, <a id="%(id)s" href="%(fallback_url)s">ຄິກບ່ອນນີ້</a>.
 
 
 ;Sync up with Firefox on mobile:

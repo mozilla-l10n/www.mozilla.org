@@ -1,6 +1,4 @@
 ## active ##
-## mozorg-home-fundraising-2016 ##
-## mozorg-home-fxcopy-unleash ##
 ## mozorg-home-health-report ##
 ## mozorg-home-impact-health ##
 ## NOTE: demo server at https://www-dev.allizom.org/
@@ -16,6 +14,15 @@ Internet për njerëzit, jo për fitime
 E dinit? Mozilla - krijuesja e Firefox-it - lufton për ta mbajtur Internetin një burim global publik,të hapët dhe përdorshëm nga kushdo.
 
 
+;We all love the web. Join Mozilla in defending it.
+We all love the web. Join Mozilla in defending it.
+
+
+# "Cup of coffee" is meant to represent an inexpensive item that an average person would purchase daily/without hesitation. Feel free to substitute with something affordable locally.
+;Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+
+
 # Line break below for visual formatting only
 ;Internet for people, <br>not profit.
 Internet për njerëzit, <br>jo për fitime.
@@ -29,22 +36,51 @@ Tungjatjeta. Jemi Mozilla, kampionët krenarë jofitimprurës të Internetit, q�
 Ndikimi ynë
 
 
+;When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+
+
+# String is obsolete. Do not remove.
 ;Working at the grassroots and policy levels, we teach web literacy, provide tools and advocate on behalf of every individual who values an internet built on fairness, inclusion and respect.
 Përmes punës në shkallë kapilare dhe në nivel politikash, ne u mësojmë njerëzve web-in, ofrojmë mjete dhe përkrahim çdo individ që vlerëson një internet të ngritur mbi të qenët të hapur, përfshirjen dhe respektin.
 
 
+# Link points to https://blog.mozilla.org/blog/2017/08/08/mozilla-information-trust-initiative-building-movement-fight-misinformation-online/
+;Mozilla Information Trust Initiative
+Mozilla Information Trust Initiative
+
+
+# Link points to https://learning.mozilla.org/blog/new-partnership-with-un-women-to-teach-key-digital-skills-to-women
+;Empowering Women Online
+Empowering Women Online
+
+
+# Link points to https://blog.mozilla.org/blog/2017/09/06/mozilla-washington-post-reinventing-online-comments/
+;The Coral Project
+The Coral Project
+
+
+# Link points to https://internethealthreport.org
+;Internet Health Report
+Internet Health Report
+
+
+# String is obsolete. Do not remove.
 ;Stand Up For Encryption
 Ngrini Zërin Për Fshehtëzim
 
 
+# String is obsolete. Do not remove.
 ;Teach The Web
 U mësoni Web-in
 
 
+# String is obsolete. Do not remove.
 ;Try the Lean Data Toolkit
 Provoni Lean Data Toolkit
 
 
+# String is obsolete. Do not remove.
 ;Read our Internet Health Report
 Lexoni Raportin tonë mbi Shëndetin e Internetit
 
@@ -57,30 +93,17 @@ Risi tonat
 Duke përdorur web-in si platformë, ne krijojmë teknologji të hapura, risore që u lejojnë zhvilluesve të punojnë të çliruar nga ekosisteme të mbyllur korporatash dhe të krijojnë programe që na lejojnë të tërëve ne punim më të shpejtë dhe më të sigurt në Internet.
 
 
+;Common Voice
+Common Voice
+
+
+# String is obsolete. Do not remove.
 ;Gaming on the Web
 Lojëra në Web
 
 
 ;Virtual Reality Platform
 Platformë Realiteti Virtual
-
-
-;Unleash your Internet
-Hiqjani frerët Internetit tuaj
-
-
-;Set the Web free and your mind will follow.
-Lëreni Web-in të lirë dhe mendja juaj do ta ndjekë pas.
-
-
-# String obsolete. Do NOT remove.
-;Browse freely.
-Shfletoni lirisht.
-
-
-# String obsolete. Do NOT remove.
-;Discover unlimited potential, endless possibility and a wide open Web.
-Zbuloni potencial të pakufishëm, mundësi të pafundme dhe Internet të hapur pash më pash.
 
 
 ;Get Firefox today
@@ -111,14 +134,6 @@ Ju duhet ndihmë?
 Merrni prej ekipit tonë të asistencës përgjigje për pyetjet tuaja rreth Firefox-it dhe krejt produkteve të Mozilla-s.
 
 
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshots for reference while the page is implemented:
-# https://drive.google.com/file/d/0B8po55rC8WGXeFVuSWo5SDZlOG8/view?usp=sharing
-# https://drive.google.com/file/d/0B8po55rC8WGXY0JWakp0Z1dlYXc/view?usp=sharing
-;Proudly non-profit. <br>Donate before Dec 31.
-Krenarë që jemi jofitimprurës. <br>Dhuroni përpara 31 Dhjetorit.
-
-
 # This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
 # You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
@@ -141,23 +156,33 @@ Një herë
 
 
 # Take over form: button to submit the donation form
-;Donate Now
-Dhuroni Tani
-
-
-# This is used as a link to dismiss the fundraising take over and continue to mozilla.org website
-;Continue to mozilla.org
-Vazhdoni te mozilla.org
+;Donate
+Donate
 
 
 ;Working to keep the Internet healthy, open and accessible to all, we teach web literacy, provide tools and advocate on behalf of every individual who values the Internet as a global public resource.
 Duke punuar për ta mbajtur Internetin të shëndetshëm, të hapur dhe të përdorshëm nga kushdo, ne u mësojmë web-in të tjerëve, furnizojmë mjete dhe ngremë zërin në emër të cilitdo që e çmon Internet si një pasuri publike mbarëbotërore.
 
 
+# The <span> below is for visual formatting only - bolding the word 'Firefox'.
+;The new <span>Firefox</span>
+The new <span>Firefox</span>
+
+
+;Fast for good.
+Fast for good.
+
+
+# The string is obsolete. Do not remove.
 ;Browse faster. For good.
 Shfletoni më shpejt. Përgjithnjë.
 
 
+;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+
+
+# String is obsolete. Do not remove.
 ;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is fast for good.
 Me shpejtësi 2x më të madhe, mbrojtje të brendshme privatësie dhe Mozilla-n pas vetes, Firefox-i i ri është i shpejtë përgjithnjë.
 
@@ -166,6 +191,11 @@ Me shpejtësi 2x më të madhe, mbrojtje të brendshme privatësie dhe Mozilla-n
 Ne e bëjmë internetin më të sigurt, më të shëndetshëm dhe më të shpejtë përgjithnjë.
 
 
+;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+
+
+# String is obsolete. Do not remove.
 ;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profits.
 Mozilla është organizmi jofitimprurës pas Firefox-it, shfletuesit origjinal alternativ. Ne krijojmë produkte dhe politika për ta mbajtur internetin në shërbim të njerëzve, jo të përfitimeve.
 

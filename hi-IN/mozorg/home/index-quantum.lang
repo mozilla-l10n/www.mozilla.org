@@ -1,6 +1,4 @@
 ## active ##
-## mozorg-home-fundraising-2016 ##
-## mozorg-home-fxcopy-unleash ##
 ## mozorg-home-health-report ##
 ## mozorg-home-impact-health ##
 ## NOTE: demo server at https://www-dev.allizom.org/
@@ -16,6 +14,15 @@
 क्या आपको पता हैं? Mozilla — Firefox का निर्माता — इंटरनेट को एक वैश्विक सार्वजनिक संसाधन रखने के लिए संघर्ष करता है जो सभी के लिए खुला और उपलब्ध हैं.
 
 
+;We all love the web. Join Mozilla in defending it.
+We all love the web. Join Mozilla in defending it.
+
+
+# "Cup of coffee" is meant to represent an inexpensive item that an average person would purchase daily/without hesitation. Feel free to substitute with something affordable locally.
+;Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+
+
 # Line break below for visual formatting only
 ;Internet for people, <br>not profit.
 लोगों के लिए इंटरनेट, <br>लाभ के लिए नहीं.
@@ -29,22 +36,51 @@
 हमारा प्रभाव
 
 
+;When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+
+
+# String is obsolete. Do not remove.
 ;Working at the grassroots and policy levels, we teach web literacy, provide tools and advocate on behalf of every individual who values an internet built on fairness, inclusion and respect.
 जनसाधारण एवं नीति स्तरों पर काम करते हुए, हम वेब साक्षरता सिखाते हैं, साधन प्रदान करते हैं तथा प्रत्येक व्यक्ति की ओर से आवाज़ उठाते हैं जो एक ऐसा इंटरनेट चाहते हैं जिसकी बुनियाद निष्पक्षता, समावेश तथा सम्मान है.
 
 
+# Link points to https://blog.mozilla.org/blog/2017/08/08/mozilla-information-trust-initiative-building-movement-fight-misinformation-online/
+;Mozilla Information Trust Initiative
+Mozilla Information Trust Initiative
+
+
+# Link points to https://learning.mozilla.org/blog/new-partnership-with-un-women-to-teach-key-digital-skills-to-women
+;Empowering Women Online
+Empowering Women Online
+
+
+# Link points to https://blog.mozilla.org/blog/2017/09/06/mozilla-washington-post-reinventing-online-comments/
+;The Coral Project
+The Coral Project
+
+
+# Link points to https://internethealthreport.org
+;Internet Health Report
+Internet Health Report
+
+
+# String is obsolete. Do not remove.
 ;Stand Up For Encryption
 एन्‍क्रिप्‍शन के लिए डटे रहें
 
 
+# String is obsolete. Do not remove.
 ;Teach The Web
 वेब की शिक्षा दें
 
 
+# String is obsolete. Do not remove.
 ;Try the Lean Data Toolkit
 कम डेटा युक्त टूलकिट आजमाएँ
 
 
+# String is obsolete. Do not remove.
 ;Read our Internet Health Report
 हमारे इंटरनेट स्वास्थ्य रिपोर्ट को पढ़ें
 
@@ -57,30 +93,17 @@
 वेब को प्लैटफॉर्म की तरह उपयोग कर, बनाते हैं मुक्त, प्रगतिशील प्रौद्योगिकीयाँ जो डेवलपरों को बंद, कारपोरेट परितंत्रों से मुक्त रहकर मे काम करने, तथा हम सभी के लिए तीव्र, सुरक्षित वेब अनुभवों को बनाने के लिए सक्षम बनाते हैं.
 
 
+;Common Voice
+Common Voice
+
+
+# String is obsolete. Do not remove.
 ;Gaming on the Web
 वेब पर गैमिंग
 
 
 ;Virtual Reality Platform
 वर्चुअल रिएलिटी प्लेटफार्म
-
-
-;Unleash your Internet
-अपने इंटरनेट को उन्मुक्त करें
-
-
-;Set the Web free and your mind will follow.
-वेब को मुक्त बनाएँ और आपके विचार साथ-साथ उड़ान भरेंगे.
-
-
-# String obsolete. Do NOT remove.
-;Browse freely.
-निर्बाध रूप से ब्राउज करे.
-
-
-# String obsolete. Do NOT remove.
-;Discover unlimited potential, endless possibility and a wide open Web.
-असीम क्षमता, अनंत संभावनाएँ तथा विस्तृत मुक्त वेब का अनुभव पाएँ.
 
 
 ;Get Firefox today
@@ -111,14 +134,6 @@ Mozilla में काम करने के लाभों के बार
 Firefox और सभी Mozilla उत्पादों के बारे में अपने प्रश्नों के उत्तर हमारी सहायता टीम से प्राप्त करें.
 
 
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshots for reference while the page is implemented:
-# https://drive.google.com/file/d/0B8po55rC8WGXeFVuSWo5SDZlOG8/view?usp=sharing
-# https://drive.google.com/file/d/0B8po55rC8WGXY0JWakp0Z1dlYXc/view?usp=sharing
-;Proudly non-profit. <br>Donate before Dec 31.
-गर्व से गैरलाभकारी. <br>31 दिसम्बर से पहले अनुदान करे.
-
-
 # This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
 # You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
@@ -141,23 +156,33 @@ Firefox और सभी Mozilla उत्पादों के बारे �
 
 
 # Take over form: button to submit the donation form
-;Donate Now
-अभी दान करें
-
-
-# This is used as a link to dismiss the fundraising take over and continue to mozilla.org website
-;Continue to mozilla.org
-mozilla.org पर आगे बढ़ें
+;Donate
+Donate
 
 
 ;Working to keep the Internet healthy, open and accessible to all, we teach web literacy, provide tools and advocate on behalf of every individual who values the Internet as a global public resource.
 इंटरनेट को स्वस्थ, मुक्त एवं सभी के लिए सुगम रखने के लिए काम करते हुए, हम वेब साक्षरता सिखाते हैं, साधन प्रदान करते हैं तथा प्रत्येक व्यक्ति के लिए आवाज़ उठाते हैं जो इंटरनेट को एक वैश्विक सार्वजनिक संसाधन के रूप में देखना चाहते हैं.
 
 
+# The <span> below is for visual formatting only - bolding the word 'Firefox'.
+;The new <span>Firefox</span>
+The new <span>Firefox</span>
+
+
+;Fast for good.
+Fast for good.
+
+
+# The string is obsolete. Do not remove.
 ;Browse faster. For good.
 तीव्रतर ब्राउज़ करें. सदा के लिए.
 
 
+;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+
+
+# String is obsolete. Do not remove.
 ;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is fast for good.
 दुगुने गति, अंतर्निहित निजता सुरक्षा और Mozilla के समर्थन के साथ, नया Firefox सदा के लिए तेज़ है.
 
@@ -166,6 +191,11 @@ mozilla.org पर आगे बढ़ें
 हम इंटरनेट को अधिक सुरक्षित, स्वस्थ और तेज़ बनाते हैं, सदा के लिए.
 
 
+;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+
+
+# String is obsolete. Do not remove.
 ;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profits.
 Firefox, पहले वैकल्पिक ब्राउज़र, के पीछे है ग़ैर-लाभकारी Mozilla. हम उत्पाद और नीति बनाते हैं इंटरनेट को लोगों की सेवा में बनाए रखने के लिए, मुनाफ़े के लिए नहीं.
 

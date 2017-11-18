@@ -1,6 +1,4 @@
 ## active ##
-## mozorg-home-fundraising-2016 ##
-## mozorg-home-fxcopy-unleash ##
 ## mozorg-home-health-report ##
 ## mozorg-home-impact-health ##
 ## NOTE: demo server at https://www-dev.allizom.org/
@@ -16,6 +14,15 @@ Internet pentru oameni, nu profit
 Știai? Mozilla — creatorul Firefox — luptă pentru a menține internetul ca o resursă publică globală, deschisă și accesibilă tuturor.
 
 
+;We all love the web. Join Mozilla in defending it.
+We all love the web. Join Mozilla in defending it.
+
+
+# "Cup of coffee" is meant to represent an inexpensive item that an average person would purchase daily/without hesitation. Feel free to substitute with something affordable locally.
+;Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+
+
 # Line break below for visual formatting only
 ;Internet for people, <br>not profit.
 Internet pentru oameni, <br>nu profit.
@@ -29,22 +36,51 @@ Bună. Noi suntem Mozilla, campionii nonprofit mândri ai internetului și ajut�
 Impactul nostru
 
 
+;When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+
+
+# String is obsolete. Do not remove.
 ;Working at the grassroots and policy levels, we teach web literacy, provide tools and advocate on behalf of every individual who values an internet built on fairness, inclusion and respect.
 De la firul ierbii până la politica publică, învățăm oamenii despre educația privind webul, oferim unelte și ne luptăm ca toată lumea să aibă parte de un internet clădit pe corectitudine, incluziune și respect.
 
 
+# Link points to https://blog.mozilla.org/blog/2017/08/08/mozilla-information-trust-initiative-building-movement-fight-misinformation-online/
+;Mozilla Information Trust Initiative
+Mozilla Information Trust Initiative
+
+
+# Link points to https://learning.mozilla.org/blog/new-partnership-with-un-women-to-teach-key-digital-skills-to-women
+;Empowering Women Online
+Empowering Women Online
+
+
+# Link points to https://blog.mozilla.org/blog/2017/09/06/mozilla-washington-post-reinventing-online-comments/
+;The Coral Project
+The Coral Project
+
+
+# Link points to https://internethealthreport.org
+;Internet Health Report
+Internet Health Report
+
+
+# String is obsolete. Do not remove.
 ;Stand Up For Encryption
 Ia atitudine pentru criptografie
 
 
+# String is obsolete. Do not remove.
 ;Teach The Web
 Predă webul
 
 
+# String is obsolete. Do not remove.
 ;Try the Lean Data Toolkit
 Încearcă șablonul nostru despre date neintruzive
 
 
+# String is obsolete. Do not remove.
 ;Read our Internet Health Report
 Citește Raportul nostru despre sănătatea internetului
 
@@ -57,30 +93,17 @@ Inovațiile noastre
 Folosind webul drept platformă, construim tehnologii deschise, inotivative care permit dezvoltatorilor să lucreze în afara ecosistemelor închise, corporatiste și să creeze experiențe web mai rapide, mai sigure pentru noi toți.
 
 
+;Common Voice
+Common Voice
+
+
+# String is obsolete. Do not remove.
 ;Gaming on the Web
 Gamingul pe web
 
 
 ;Virtual Reality Platform
 Platforma de realitate virtuală
-
-
-;Unleash your Internet
-Descătușează internetul
-
-
-;Set the Web free and your mind will follow.
-Un internet liber înseamnă minți libere.
-
-
-# String obsolete. Do NOT remove.
-;Browse freely.
-Navighează liber.
-
-
-# String obsolete. Do NOT remove.
-;Discover unlimited potential, endless possibility and a wide open Web.
-Descoperă potențialul nelimitat și posibilitățile nesfârșite ale unui web larg deschis.
 
 
 ;Get Firefox today
@@ -111,14 +134,6 @@ Ai nevoie de ajutor?
 Primește răspunsuri la întrebările cu privire la Firefox și toate produsele Mozilla de la echipa noastră de suport.
 
 
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshots for reference while the page is implemented:
-# https://drive.google.com/file/d/0B8po55rC8WGXeFVuSWo5SDZlOG8/view?usp=sharing
-# https://drive.google.com/file/d/0B8po55rC8WGXY0JWakp0Z1dlYXc/view?usp=sharing
-;Proudly non-profit. <br>Donate before Dec 31.
-Mândri că suntem nonprofit. <br>Donează până pe 31 decembrie.
-
-
 # This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
 # You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
@@ -141,23 +156,33 @@ O singură dată
 
 
 # Take over form: button to submit the donation form
-;Donate Now
-Donează acum
-
-
-# This is used as a link to dismiss the fundraising take over and continue to mozilla.org website
-;Continue to mozilla.org
-Continuă pe mozilla.org
+;Donate
+Donate
 
 
 ;Working to keep the Internet healthy, open and accessible to all, we teach web literacy, provide tools and advocate on behalf of every individual who values the Internet as a global public resource.
 Noi muncim pentru a menține internetul sănătos, deschis și accesibil pentru toți. Susținem educația în domeniul internetului și pe toți cei care cred că internetul trebuie să rămână o resursă publică și accesibilă global.
 
 
+# The <span> below is for visual formatting only - bolding the word 'Firefox'.
+;The new <span>Firefox</span>
+The new <span>Firefox</span>
+
+
+;Fast for good.
+Fast for good.
+
+
+# The string is obsolete. Do not remove.
 ;Browse faster. For good.
 Navighează mai rapid. Pe bune.
 
 
+;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+
+
+# String is obsolete. Do not remove.
 ;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is fast for good.
 De 2x mai rapid, construit pentru confidențialitate și cu Mozilla ca susținător, noul Firefox este rapid pe bune.
 
@@ -166,6 +191,11 @@ De 2x mai rapid, construit pentru confidențialitate și cu Mozilla ca susțină
 Noi facem internetul mai sigur, mai sănătos și mai rapid.
 
 
+;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+
+
+# String is obsolete. Do not remove.
 ;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profits.
 Mozilla este organizația nonprofit din spatele Firefox, browserul alternativ original. Noi creăm produse și politici pentru a păstra internetul în slujba oamenilor, nu profiturilor.
 

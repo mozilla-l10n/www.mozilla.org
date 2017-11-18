@@ -1,6 +1,4 @@
 ## active ##
-## mozorg-home-fundraising-2016 ##
-## mozorg-home-fxcopy-unleash ##
 ## mozorg-home-health-report ##
 ## mozorg-home-impact-health ##
 ## NOTE: demo server at https://www-dev.allizom.org/
@@ -16,6 +14,15 @@ Internet pa la xente, non pal porgüeyu
 ¿Sabíes que Mozilla, la creadora de Firefox, llucha pa caltener la web como un recursu global, públicu, abiertu y accesible pa toos?
 
 
+;We all love the web. Join Mozilla in defending it.
+We all love the web. Join Mozilla in defending it.
+
+
+# "Cup of coffee" is meant to represent an inexpensive item that an average person would purchase daily/without hesitation. Feel free to substitute with something affordable locally.
+;Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+
+
 # Line break below for visual formatting only
 ;Internet for people, <br>not profit.
 Internet pa la xente, <br>non pal porgüeyu.
@@ -29,22 +36,51 @@ Hola. Somos Mozilla, la organización campeona ensin ánimu de llucru arguyosa d
 El nuesu impautu
 
 
+;When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+
+
+# String is obsolete. Do not remove.
 ;Working at the grassroots and policy levels, we teach web literacy, provide tools and advocate on behalf of every individual who values an internet built on fairness, inclusion and respect.
 Trabayamos dende la base y a nivel políticu, fornimos alfabetización web y ferramientes, y defendemos internet nel nome de cada persona que valore un internet xusto, inclusivo y respetuoso.
 
 
+# Link points to https://blog.mozilla.org/blog/2017/08/08/mozilla-information-trust-initiative-building-movement-fight-misinformation-online/
+;Mozilla Information Trust Initiative
+Mozilla Information Trust Initiative
+
+
+# Link points to https://learning.mozilla.org/blog/new-partnership-with-un-women-to-teach-key-digital-skills-to-women
+;Empowering Women Online
+Empowering Women Online
+
+
+# Link points to https://blog.mozilla.org/blog/2017/09/06/mozilla-washington-post-reinventing-online-comments/
+;The Coral Project
+The Coral Project
+
+
+# Link points to https://internethealthreport.org
+;Internet Health Report
+Internet Health Report
+
+
+# String is obsolete. Do not remove.
 ;Stand Up For Encryption
 Llucha pol cifráu
 
 
+# String is obsolete. Do not remove.
 ;Teach The Web
 Enseña la web
 
 
+# String is obsolete. Do not remove.
 ;Try the Lean Data Toolkit
 Prueba'l kit llixeru de ferramientes de datos
 
 
+# String is obsolete. Do not remove.
 ;Read our Internet Health Report
 Llei'l nuesu informe tocante a la salú d'internet
 
@@ -57,30 +93,17 @@ Les nueses innovaciones
 Usando la web como la plataforma construyimos teunoloxíes abiertes ya innovadores que permiten a los desendolcadores trabayar llibres d'ecosistemes zarraos y propietarios, y crear esperiencies web más rápides y segures pa toos.
 
 
+;Common Voice
+Common Voice
+
+
+# String is obsolete. Do not remove.
 ;Gaming on the Web
 Xuegu na web
 
 
 ;Virtual Reality Platform
 Plataforma de realidá virtual
-
-
-;Unleash your Internet
-Llibera'l to internet
-
-
-;Set the Web free and your mind will follow.
-Llibera la web y la to mente dirá darréu.
-
-
-# String obsolete. Do NOT remove.
-;Browse freely.
-Restola llibre.
-
-
-# String obsolete. Do NOT remove.
-;Discover unlimited potential, endless possibility and a wide open Web.
-Descubri'l potencial illimitáu, les posibilidaes infinites y una web perabierta.
 
 
 ;Get Firefox today
@@ -111,14 +134,6 @@ Deprendi tocante a les ventayes de trabayar en Mozilla y mira les places disponi
 Consigui rempuestes a les tos entrugues tocante a Firefox y tolos productos de Mozilla dende'l nuesu equipu de sofitu.
 
 
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshots for reference while the page is implemented:
-# https://drive.google.com/file/d/0B8po55rC8WGXeFVuSWo5SDZlOG8/view?usp=sharing
-# https://drive.google.com/file/d/0B8po55rC8WGXY0JWakp0Z1dlYXc/view?usp=sharing
-;Proudly non-profit. <br>Donate before Dec 31.
-Ensin ánimu de llucru y arguyosos d'ello. <br>Dona enantes del 31 d'avientu.
-
-
 # This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
 # You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
@@ -141,23 +156,33 @@ Una vegada
 
 
 # Take over form: button to submit the donation form
-;Donate Now
-Donar agora
-
-
-# This is used as a link to dismiss the fundraising take over and continue to mozilla.org website
-;Continue to mozilla.org
-Continuar a mozilla.org
+;Donate
+Donate
 
 
 ;Working to keep the Internet healthy, open and accessible to all, we teach web literacy, provide tools and advocate on behalf of every individual who values the Internet as a global public resource.
 Trabayamos pa caltener l'internet sano, abierto y accesible pa toos, fornimos alfabetización web y ferramientes, y defendemos internet nel nome de quien lo valore como un recursu públicu global.
 
 
+# The <span> below is for visual formatting only - bolding the word 'Firefox'.
+;The new <span>Firefox</span>
+The new <span>Firefox</span>
+
+
+;Fast for good.
+Fast for good.
+
+
+# The string is obsolete. Do not remove.
 ;Browse faster. For good.
 Resola más rápido. Pa bien.
 
 
+;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+
+
+# String is obsolete. Do not remove.
 ;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is fast for good.
 Con 2 vagaes más de velocidá, proteición integrada pa la privacidá y Mozilla darrera d'ello, el Firefox nuevu ye rápidu pa bien.
 
@@ -166,6 +191,11 @@ Con 2 vagaes más de velocidá, proteición integrada pa la privacidá y Mozilla
 Facemos internet más seguro, sano y rápido pa bien.
 
 
+;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+
+
+# String is obsolete. Do not remove.
 ;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profits.
 Mozilla ye la organización ensin ánimu de llucru que ta darrera Firefox, el restolador alternativu orixinal. Creamos productos y polítiques pa caltener internet al serviciu de la xente, non el porgüeyu.
 

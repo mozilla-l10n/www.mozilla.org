@@ -1,6 +1,4 @@
 ## active ##
-## mozorg-home-fundraising-2016 ##
-## mozorg-home-fxcopy-unleash ##
 ## mozorg-home-health-report ##
 ## mozorg-home-impact-health ##
 ## NOTE: demo server at https://www-dev.allizom.org/
@@ -16,6 +14,15 @@ Internet za ludźi, powšitkownosći wužitny
 Sće hižo wědźał? Mozilla - zhotowjer Firefox - wojuje, zo by internet globalna zjawna resursa wostał, wotewrjeny a přistupny za wšěch.
 
 
+;We all love the web. Join Mozilla in defending it.
+We all love the web. Join Mozilla in defending it.
+
+
+# "Cup of coffee" is meant to represent an inexpensive item that an average person would purchase daily/without hesitation. Feel free to substitute with something affordable locally.
+;Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+
+
 # Line break below for visual formatting only
 ;Internet for people, <br>not profit.
 Internet za ludźi, <br>powšitkownosći wužitny.
@@ -29,22 +36,51 @@ Witajće. Smy Mozilla, hordźe powšitkownosći wužitni mištrojo interneta a p
 Naš wliw
 
 
+;When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+
+
+# String is obsolete. Do not remove.
 ;Working at the grassroots and policy levels, we teach web literacy, provide tools and advocate on behalf of every individual who values an internet built on fairness, inclusion and respect.
 Dźěłamy na bazy a prawidłach, wučimy webkompetencu, stajamy nastroje k dispoziciji a jednamy w mjenje kóždeho jednotliwca, kiž sej internet waži, kotryž na fairnosći, integraciji a respektće bazuje.
 
 
+# Link points to https://blog.mozilla.org/blog/2017/08/08/mozilla-information-trust-initiative-building-movement-fight-misinformation-online/
+;Mozilla Information Trust Initiative
+Mozilla Information Trust Initiative
+
+
+# Link points to https://learning.mozilla.org/blog/new-partnership-with-un-women-to-teach-key-digital-skills-to-women
+;Empowering Women Online
+Empowering Women Online
+
+
+# Link points to https://blog.mozilla.org/blog/2017/09/06/mozilla-washington-post-reinventing-online-comments/
+;The Coral Project
+The Coral Project
+
+
+# Link points to https://internethealthreport.org
+;Internet Health Report
+Internet Health Report
+
+
+# String is obsolete. Do not remove.
 ;Stand Up For Encryption
 Zaškitajće zaklučowanje
 
 
+# String is obsolete. Do not remove.
 ;Teach The Web
 Wučće web
 
 
+# String is obsolete. Do not remove.
 ;Try the Lean Data Toolkit
 Wupruwujće nastroje Lean Data
 
 
+# String is obsolete. Do not remove.
 ;Read our Internet Health Report
 Čitajće našu statusowu rozprawu wo strowosći interneta
 
@@ -57,30 +93,17 @@ Naše inowacije
 Z pomocu weba jako platformu, wuwiwamy wotewrjene, inowatiwne technologije, kotrež wuwiwarjam zmóžnjeja, bjez wotzamknjenych, komercielnych ekosystemow dźěłać a spěšniše, wěsćiše webdožiwjenja za nas wšěch wutworić.
 
 
+;Common Voice
+Common Voice
+
+
+# String is obsolete. Do not remove.
 ;Gaming on the Web
 Hraće we webje
 
 
 ;Virtual Reality Platform
 Platforma wirtuelneje reality
-
-
-;Unleash your Internet
-Rozputajće swój internet
-
-
-;Set the Web free and your mind will follow.
-Wuswobodźće web a swoje mysle.
-
-
-# String obsolete. Do NOT remove.
-;Browse freely.
-Přehladujće swobodnje.
-
-
-# String obsolete. Do NOT remove.
-;Discover unlimited potential, endless possibility and a wide open Web.
-Wotkryjće njewobmjezowany potencial, njeskónčne móžnosće a šěroki wotewrjeny web.
 
 
 ;Get Firefox today
@@ -111,14 +134,6 @@ Trjebaće pomoc?
 Dóstańće wotmołwy na swoje prašenja wo Firefox a wšěch produktach Mozilla wot našeho teama pomocy.
 
 
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshots for reference while the page is implemented:
-# https://drive.google.com/file/d/0B8po55rC8WGXeFVuSWo5SDZlOG8/view?usp=sharing
-# https://drive.google.com/file/d/0B8po55rC8WGXY0JWakp0Z1dlYXc/view?usp=sharing
-;Proudly non-profit. <br>Donate before Dec 31.
-Z hordosću powšitkownosći wužitny.<br>Darće do 31. decembra.
-
-
 # This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
 # You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
@@ -141,23 +156,33 @@ Jónkróć
 
 
 # Take over form: button to submit the donation form
-;Donate Now
-Darće nětko
-
-
-# This is used as a link to dismiss the fundraising take over and continue to mozilla.org website
-;Continue to mozilla.org
-Dale k mozilla.org
+;Donate
+Donate
 
 
 ;Working to keep the Internet healthy, open and accessible to all, we teach web literacy, provide tools and advocate on behalf of every individual who values the Internet as a global public resource.
 Dźěłajo, zo bychmy internet strowy, wotewrjeny a za wšěch přistupny dźerželi, wučimy webkompetencu, stajamy nastroje k dispoziciji a jednamy w mjenje kóždeho jednotliwca, kiž sej internet jako globalnu zjawnu resursu waži.
 
 
+# The <span> below is for visual formatting only - bolding the word 'Firefox'.
+;The new <span>Firefox</span>
+The new <span>Firefox</span>
+
+
+;Fast for good.
+Fast for good.
+
+
+# The string is obsolete. Do not remove.
 ;Browse faster. For good.
 Přehladujće spěšnišo. Za dobre.
 
 
+;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+
+
+# String is obsolete. Do not remove.
 ;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is fast for good.
 Z dwójnej spěšnosću, zatwarjenym škitom priwatnosće a Mozilla, je nowy Firefox nimoměry spěšny.
 
@@ -166,6 +191,11 @@ Z dwójnej spěšnosću, zatwarjenym škitom priwatnosće a Mozilla, je nowy Fir
 Činimy internet wěsćiši, strowši a nimoměry spěšny.
 
 
+;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+
+
+# String is obsolete. Do not remove.
 ;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profits.
 Mozilla je powšitkownosći wužitna organizacija za Firefox, originalny alternatiwny wobhladowak. Wuwiwamy produkty a tworimy prawidła, zo by internet ludźom słužił, nic profitej.
 

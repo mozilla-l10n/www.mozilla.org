@@ -1,6 +1,4 @@
 ## active ##
-## mozorg-home-fundraising-2016 ##
-## mozorg-home-fxcopy-unleash ##
 ## mozorg-home-health-report ##
 ## mozorg-home-impact-health ##
 ## NOTE: demo server at https://www-dev.allizom.org/
@@ -16,6 +14,15 @@
 ご存知でしたか？ Firefox を作っている Mozilla は、世界的な公共資源であり、オープンで誰もが参加できる場であるインターネットを守るために闘っています。
 
 
+;We all love the web. Join Mozilla in defending it.
+We all love the web. Join Mozilla in defending it.
+
+
+# "Cup of coffee" is meant to represent an inexpensive item that an average person would purchase daily/without hesitation. Feel free to substitute with something affordable locally.
+;Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+
+
 # Line break below for visual formatting only
 ;Internet for people, <br>not profit.
 利益ではなく、<br>人々のためのインターネット。
@@ -29,22 +36,51 @@
 私たちの影響
 
 
+;When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+
+
+# String is obsolete. Do not remove.
 ;Working at the grassroots and policy levels, we teach web literacy, provide tools and advocate on behalf of every individual who values an internet built on fairness, inclusion and respect.
 草の根や政策レベルで活動している私たちは、ウェブリテラシーの教育やツールの提供を行い、また公平性、多様性、尊敬の上に成り立っているインターネットを大切にするすべての個人に代わって主張を展開しています。
 
 
+# Link points to https://blog.mozilla.org/blog/2017/08/08/mozilla-information-trust-initiative-building-movement-fight-misinformation-online/
+;Mozilla Information Trust Initiative
+Mozilla Information Trust Initiative
+
+
+# Link points to https://learning.mozilla.org/blog/new-partnership-with-un-women-to-teach-key-digital-skills-to-women
+;Empowering Women Online
+Empowering Women Online
+
+
+# Link points to https://blog.mozilla.org/blog/2017/09/06/mozilla-washington-post-reinventing-online-comments/
+;The Coral Project
+The Coral Project
+
+
+# Link points to https://internethealthreport.org
+;Internet Health Report
+Internet Health Report
+
+
+# String is obsolete. Do not remove.
 ;Stand Up For Encryption
 暗号化のために立ち上がる
 
 
+# String is obsolete. Do not remove.
 ;Teach The Web
 ウェブを教える
 
 
+# String is obsolete. Do not remove.
 ;Try the Lean Data Toolkit
 Lean Data Toolkit を試す
 
 
+# String is obsolete. Do not remove.
 ;Read our Internet Health Report
 インターネット・ヘルスレポートを読む
 
@@ -57,30 +93,17 @@ Lean Data Toolkit を試す
 ウェブをプラットフォームとして活用することで、私たちは、開発者が閉鎖的で企業的なエコシステムにとらわれず働けるよう、またすべての人により速く安全なウェブ体験を提供できるよう、オープンで革新的な技術を開発しています。
 
 
+;Common Voice
+Common Voice
+
+
+# String is obsolete. Do not remove.
 ;Gaming on the Web
 ウェブ上でのゲーム開発
 
 
 ;Virtual Reality Platform
 仮想現実プラットフォーム
-
-
-;Unleash your Internet
-あなたのインターネットを解き放とう
-
-
-;Set the Web free and your mind will follow.
-ウェブを自由にすれば、あなたの意識が付いてきます。
-
-
-# String obsolete. Do NOT remove.
-;Browse freely.
-自由にブラウジング。
-
-
-# String obsolete. Do NOT remove.
-;Discover unlimited potential, endless possibility and a wide open Web.
-無限の可能性、無数の機会、広く開かれたウェブを見い出そう。
 
 
 ;Get Firefox today
@@ -111,14 +134,6 @@ Mozilla で働くメリットを知って、全世界で募集中の職種を確
 Firefox やすべての Mozilla 製品に関する質問に、私たちのサポートチームがお答えします。
 
 
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshots for reference while the page is implemented:
-# https://drive.google.com/file/d/0B8po55rC8WGXeFVuSWo5SDZlOG8/view?usp=sharing
-# https://drive.google.com/file/d/0B8po55rC8WGXY0JWakp0Z1dlYXc/view?usp=sharing
-;Proudly non-profit. <br>Donate before Dec 31.
-私たちは非営利法人です。<br>12 月 31 日までに寄付を。
-
-
 # This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
 # You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
@@ -141,23 +156,33 @@ Firefox やすべての Mozilla 製品に関する質問に、私たちのサポ
 
 
 # Take over form: button to submit the donation form
-;Donate Now
-今すぐ寄付
-
-
-# This is used as a link to dismiss the fundraising take over and continue to mozilla.org website
-;Continue to mozilla.org
-mozilla.org へ移動
+;Donate
+Donate
 
 
 ;Working to keep the Internet healthy, open and accessible to all, we teach web literacy, provide tools and advocate on behalf of every individual who values the Internet as a global public resource.
 私たちは、健全で開かれた、誰もが参加可能な場としてインターネットを守るために活動しており、世界的な公共資源としてインターネットが重要だと考えるすべての個人を代表して、ウェブリテラシーの教育やツールの提供、提言などを行っています。
 
 
+# The <span> below is for visual formatting only - bolding the word 'Firefox'.
+;The new <span>Firefox</span>
+The new <span>Firefox</span>
+
+
+;Fast for good.
+Fast for good.
+
+
+# The string is obsolete. Do not remove.
 ;Browse faster. For good.
 ブラウジングを、<br>どこまでも速く。
 
 
+;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+
+
+# String is obsolete. Do not remove.
 ;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is fast for good.
 2 倍の高速化。組み込みのプライバシー保護。非営利法人の Mozilla が提供。新しい Firefox は高速で安心。
 
@@ -166,6 +191,11 @@ mozilla.org へ移動
 私たちは、インターネットをより安全に、健全に、そしてどこまでも高速にします。
 
 
+;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+
+
+# String is obsolete. Do not remove.
 ;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profits.
 Mozilla は、当初から代替ブラウザーだった Firefox を開発している非営利法人です。私たちは、インターネットが利益ではなく人々のために運営され続けるよう、製品や政策を生み出しています。
 

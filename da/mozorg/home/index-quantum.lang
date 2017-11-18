@@ -1,6 +1,4 @@
 ## active ##
-## mozorg-home-fundraising-2016 ##
-## mozorg-home-fxcopy-unleash ##
 ## mozorg-home-health-report ##
 ## mozorg-home-impact-health ##
 ## NOTE: demo server at https://www-dev.allizom.org/
@@ -16,6 +14,15 @@ Internet for folk, ikke profit
 Vidste du det? Mozilla — dem der laver Firefox — kæmper for at bevare internettet som en global, offentlig ressource, der er åben og tilgængelig for alle.
 
 
+;We all love the web. Join Mozilla in defending it.
+We all love the web. Join Mozilla in defending it.
+
+
+# "Cup of coffee" is meant to represent an inexpensive item that an average person would purchase daily/without hesitation. Feel free to substitute with something affordable locally.
+;Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+
+
 # Line break below for visual formatting only
 ;Internet for people, <br>not profit.
 Internet for folk, <br>ikke profit.
@@ -29,22 +36,51 @@ Hej, vi er Mozilla — internettets stolte non-profit-mestre, som hjælper med a
 Vores betydning
 
 
+;When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+
+
+# String is obsolete. Do not remove.
 ;Working at the grassroots and policy levels, we teach web literacy, provide tools and advocate on behalf of every individual who values an internet built on fairness, inclusion and respect.
 Vi arbejder på græsrodsniveau med at udbrede webfærdigheder, og vi tilbyder værktøjer og er fortalere for alle, som værdsætter et internet, der er bygget på retfærdighed for alle, inddragelse af alle og respekt for alle.
 
 
+# Link points to https://blog.mozilla.org/blog/2017/08/08/mozilla-information-trust-initiative-building-movement-fight-misinformation-online/
+;Mozilla Information Trust Initiative
+Mozilla Information Trust Initiative
+
+
+# Link points to https://learning.mozilla.org/blog/new-partnership-with-un-women-to-teach-key-digital-skills-to-women
+;Empowering Women Online
+Empowering Women Online
+
+
+# Link points to https://blog.mozilla.org/blog/2017/09/06/mozilla-washington-post-reinventing-online-comments/
+;The Coral Project
+The Coral Project
+
+
+# Link points to https://internethealthreport.org
+;Internet Health Report
+Internet Health Report
+
+
+# String is obsolete. Do not remove.
 ;Stand Up For Encryption
 Forsvar kryptering
 
 
+# String is obsolete. Do not remove.
 ;Teach The Web
 Undervis i nettet
 
 
+# String is obsolete. Do not remove.
 ;Try the Lean Data Toolkit
 Prøv værktøjet til indførelse af Lean Data-procedurer
 
 
+# String is obsolete. Do not remove.
 ;Read our Internet Health Report
 Læs vores rapport om internetsundhed
 
@@ -57,30 +93,17 @@ Vores innovationer
 Med internettet som platform bygger vi åbne, innovative teknologier, som giver udviklere mulighed for at arbejde fri for lukkede, corporate økosystemer og skabe hurtigere og mere sikre oplevelser på nettet for os alle.
 
 
+;Common Voice
+Common Voice
+
+
+# String is obsolete. Do not remove.
 ;Gaming on the Web
 Spil på nettet
 
 
 ;Virtual Reality Platform
 Virtuel reality-platform
-
-
-;Unleash your Internet
-Slip nettet løs
-
-
-;Set the Web free and your mind will follow.
-Slå dig løs og slip internettet løs.
-
-
-# String obsolete. Do NOT remove.
-;Browse freely.
-Surf frit.
-
-
-# String obsolete. Do NOT remove.
-;Discover unlimited potential, endless possibility and a wide open Web.
-Oplev ubegrænset potentiale, uendelige muligheder og et stort, åbent internet.
 
 
 ;Get Firefox today
@@ -111,14 +134,6 @@ Har du brug for hjælp?
 Få svar på dine spørgsmål om Firefox og alle Mozillas produkter fra vores supportteam.
 
 
-# This will be used on a home page takeover starting from Dec 1st.
-# Screenshots for reference while the page is implemented:
-# https://drive.google.com/file/d/0B8po55rC8WGXeFVuSWo5SDZlOG8/view?usp=sharing
-# https://drive.google.com/file/d/0B8po55rC8WGXY0JWakp0Z1dlYXc/view?usp=sharing
-;Proudly non-profit. <br>Donate before Dec 31.
-Non-profit og stolt af det. <br>Donér inden den 31. dec.
-
-
 # This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
 # You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
@@ -141,23 +156,33 @@ Månedligt
 
 
 # Take over form: button to submit the donation form
-;Donate Now
-Donér nu
-
-
-# This is used as a link to dismiss the fundraising take over and continue to mozilla.org website
-;Continue to mozilla.org
-Fortsæt til mozilla.org
+;Donate
+Donate
 
 
 ;Working to keep the Internet healthy, open and accessible to all, we teach web literacy, provide tools and advocate on behalf of every individual who values the Internet as a global public resource.
 For at bevare internettet sundt, åbent og tilgængeligt for alle, arbejder vi på at udbrede webfærdigheder. Vi tilbyder desuden værktøjer og er fortalere for alle, der værdsætter internettet som en global, offentlig ressource.
 
 
+# The <span> below is for visual formatting only - bolding the word 'Firefox'.
+;The new <span>Firefox</span>
+The new <span>Firefox</span>
+
+
+;Fast for good.
+Fast for good.
+
+
+# The string is obsolete. Do not remove.
 ;Browse faster. For good.
 Surf hurtigere.
 
 
+;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+
+
+# String is obsolete. Do not remove.
 ;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is fast for good.
 Dobbelt så hurtig og med indbygget beskyttelse af privatlivet.
 
@@ -166,6 +191,11 @@ Dobbelt så hurtig og med indbygget beskyttelse af privatlivet.
 Vi gør internettet sikrere, hurtigere og sundere.
 
 
+;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+
+
+# String is obsolete. Do not remove.
 ;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profits.
 Mozilla er nonprofit-organisationen bag Firefox, den originale alternative browser. Vi laver produkter og politikker, som skal bevare og udbygge internettet for brugerne - ikke for profit.
 

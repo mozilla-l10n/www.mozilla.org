@@ -20,225 +20,48 @@ Fonctionnalités de Firefox
 Explorez les fonctionnalités du tout nouveau Firefox
 
 
-;Modern
-Moderne
-
-
 ;Your favorite add-ons and extensions
 Vos modules et extensions favoris
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass et beaucoup d’autres.
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-Obtenez de puissants modules
 
 
 ;Customize your browser
 Un navigateur qui s’adapte à vos désirs
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-Tout est là, des thèmes aux outils pour protéger votre vie privée.
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Personnalisez Firefox
-
-
-;Browse faster
-Naviguez plus rapidement
-
-
-;Start faster, tab hop quicker, get more done.
-Démarrez plus vite, bondissez d’un onglet à l’autre, soyez plus efficace.
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Faites-en plus avec Firefox
-
-
 ;Sync between devices
 Synchronisez vos appareils
-
-
-;Get your tabs, logins and history on the go.
-Emportez vos onglets, vos identifiants et votre historique avec vous.
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Utilisez Firefox partout
-
-
-;Tabs that travel
-Faites voyager vos onglets
-
-
-;View open tabs on any device.
-Consultez vos onglets ouverts sur n’importe quel appareil.
-
-
-;Start sharing
-Lancez-vous
-
-
-;Firefox for Android
-Firefox pour Android
-
-
-;Our most customizable Firefox for Android yet.
-La version de Firefox pour Android la plus personnalisable à ce jour.
-
-
-# Link to /firefox/android
-;Take control of your browser
-Prenez le contrôle de votre navigateur
-
-
-;Firefox for iOS
-Firefox pour iOS
-
-
-;The speed you need. The privacy you trust.
-La vitesse dont vous avez besoin, la confidentialité en plus.
-
-
-# Link to /firefox/ios
-;Go beyond the default
-Voyez par vous-même
 
 
 ;Firefox Test Pilot
 Firefox Test Pilot {ok}
 
 
-;Experimental features that can simplify your life.
-Essayez des fonctionnalités expérimentales qui peuvent vous simplifier la vie.
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-Aidez à lancer de nouvelles fonctionnalités
-
-
-;Balanced memory usage
-Consommation mémoire équilibrée
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-Naviguez de manière fluide et laissez davantage de mémoire aux autres programmes de votre ordinateur.
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-Accélérez votre ordinateur
+;Tabs that travel
+Faites voyager vos onglets
 
 
 ;Better bookmarks
 De meilleurs marque-pages
 
 
-;Quickly save and organize your favorite sites.
-Marquez et classez vos meilleurs sites en un clin d’œil.
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-Personnalisez vos marque-pages
-
-
-;Privacy
-Vie privée
+;More powerful Private Browsing
+Navigation privée renforcée
 
 
 ;Ad tracker blocking
 Blocage des traqueurs publicitaires
 
 
-;Firefox Private Browsing blocks ads with trackers.
-La navigation privée de Firefox bloque les publicités qui peuvent vous pister.
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-Bloquez les traqueurs publicitaires
-
-
-;More powerful Private Browsing
-Navigation privée renforcée
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-Une protection supérieure aux modes incognito ou inPrivate.
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-Votre vie privée mieux protégée
-
-
-;More private
-Davantage de vie privée
-
-
-;We don’t sell access to your online data. Period.
-Nous ne vendons pas d’accès à vos données en ligne. Point final.
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-Adoptez Firefox pour la protection de votre vie privée
-
-
-;Limited data collection
-Collecte de données limitée
-
-
-;Opted-in to privacy, so you can browse freely.
-Votre confidentialité est assurée par défaut pour une navigation sans souci.
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-Consultez notre politique de confidentialité
-
-
 ;Password Manager
 Gestionnaire de mots de passe
 
 
-;Forget the reset. Save passwords and logins quickly.
-Inutile de redémarrer. Vos mots de passe et identifiants sont enregistrés en une seconde.
+;Balanced memory usage
+Consommation mémoire équilibrée
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-Gérez facilement vos identifiants
-
-
-;Independence
-Indépendance
-
-
-;By non-profit, Mozilla
-Résolument à but non lucratif
-
-
-;Protecting the health of the internet.
-Nous protégeons la bonne santé d’Internet.
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Découvrez la mission de Mozilla
+;Browse faster
+Naviguez plus rapidement
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ Nous sommes toujours transparents.
 Voyez en quoi nous sommes différents
 
 
+;By non-profit, Mozilla
+Résolument à but non lucratif
+
+
+;Protecting the health of the internet.
+Nous protégeons la bonne santé d’Internet.
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Découvrez la mission de Mozilla
+
+
 ;Protect your rights
 Nous protégeons vos droits
 
@@ -269,5 +105,31 @@ Nous aidons à contrecarrer les plans des grandes entreprises.
 # Link to /firefox/features/independent
 ;Choose independence
 Choisissez l’indépendance
+
+
+;Limited data collection
+Collecte de données limitée
+
+
+;Opted-in to privacy, so you can browse freely.
+Votre confidentialité est assurée par défaut pour une navigation sans souci.
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+Consultez notre politique de confidentialité
+
+
+;More private
+Davantage de vie privée
+
+
+;We don’t sell access to your online data. Period.
+Nous ne vendons pas d’accès à vos données en ligne. Point final.
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+Adoptez Firefox pour la protection de votre vie privée
 
 

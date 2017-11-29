@@ -17,225 +17,48 @@ Firefoxin ominaisuudet
 Koe uuden Firefox-selaimen ominaisuudet
 
 
-;Modern
-Nykyaikainen
-
-
 ;Your favorite add-ons and extensions
 Lempilisäosasi ja -laajennuksesi
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass ja tuhansia muita.
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-Lataa tehokkaita lisäosia
 
 
 ;Customize your browser
 Muokkaa selaintasi
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-Personalize Firefox with everything from themes to privacy tools.
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Tee Firefoxista omasi
-
-
-;Browse faster
-Selaa nopeammin
-
-
-;Start faster, tab hop quicker, get more done.
-Start faster, tab hop quicker, get more done.
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Tee enemmän Firefoxlilla
-
-
 ;Sync between devices
 Synkronoi laitteiden välillä
-
-
-;Get your tabs, logins and history on the go.
-Ota välilehdet, käyttäjätunnukset ja historia matkalle mukaan.
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Käytä Firefoxia kaikkialla
-
-
-;Tabs that travel
-Matkaavat välilehdet
-
-
-;View open tabs on any device.
-Katso avoimia välilehtiä kaikilla laitteilla.
-
-
-;Start sharing
-Aloita jakaminen
-
-
-;Firefox for Android
-Firefox Androidille
-
-
-;Our most customizable Firefox for Android yet.
-Our most customizable Firefox for Android yet.
-
-
-# Link to /firefox/android
-;Take control of your browser
-Take control of your browser
-
-
-;Firefox for iOS
-Firefox iOS:lle
-
-
-;The speed you need. The privacy you trust.
-The speed you need. The privacy you trust.
-
-
-# Link to /firefox/ios
-;Go beyond the default
-Go beyond the default
 
 
 ;Firefox Test Pilot
 Firefox Test Pilot {ok}
 
 
-;Experimental features that can simplify your life.
-Experimental features that can simplify your life.
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-Auta uusien ominaisuuksien lanseeraamisessa
-
-
-;Balanced memory usage
-Tasapainoinen muistinkulutus
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-Selaa sulavasti ja jätä paljon muistia muille tietokoneohjelmille.
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-Nopeuta tietokonettasi
+;Tabs that travel
+Matkaavat välilehdet
 
 
 ;Better bookmarks
 Paremmat kirjanmerkit
 
 
-;Quickly save and organize your favorite sites.
-Quickly save and organize your favorite sites.
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-Customize your bookmarks
-
-
-;Privacy
-Tietosuoja
+;More powerful Private Browsing
+More powerful Private Browsing
 
 
 ;Ad tracker blocking
 Ad tracker blocking
 
 
-;Firefox Private Browsing blocks ads with trackers.
-Firefox Private Browsing blocks ads with trackers.
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-Block ad trackers
-
-
-;More powerful Private Browsing
-More powerful Private Browsing
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-More protection than Incognito mode or InPrivate.
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-Get better privacy
-
-
-;More private
-Yksityisempi
-
-
-;We don’t sell access to your online data. Period.
-We don’t sell access to your online data. Period.
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-Get Firefox for privacy
-
-
-;Limited data collection
-Limited data collection
-
-
-;Opted-in to privacy, so you can browse freely.
-Opted-in to privacy, so you can browse freely.
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-Read our privacy policy
-
-
 ;Password Manager
 Password Manager
 
 
-;Forget the reset. Save passwords and logins quickly.
-Forget the reset. Save passwords and logins quickly.
+;Balanced memory usage
+Tasapainoinen muistinkulutus
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-Easily manage your logins
-
-
-;Independence
-Riippumattomuus
-
-
-;By non-profit, Mozilla
-Voittoa tavoittelemattolta Mozillalta
-
-
-;Protecting the health of the internet.
-Internetin terveyttä suojellen.
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Lue Mozillan missio
+;Browse faster
+Selaa nopeammin
 
 
 ;Firefox Product Benefits
@@ -255,6 +78,19 @@ Olemme aina läpinäkyviä.
 Katso, mikä tekee meistä erilaisen
 
 
+;By non-profit, Mozilla
+Voittoa tavoittelemattolta Mozillalta
+
+
+;Protecting the health of the internet.
+Internetin terveyttä suojellen.
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Lue Mozillan missio
+
+
 ;Protect your rights
 Suojele oikeuksiasi
 
@@ -266,5 +102,31 @@ Autamme pitämään yritysten vallan kurissa.
 # Link to /firefox/features/independent
 ;Choose independence
 Valitse riippumaton
+
+
+;Limited data collection
+Limited data collection
+
+
+;Opted-in to privacy, so you can browse freely.
+Opted-in to privacy, so you can browse freely.
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+Read our privacy policy
+
+
+;More private
+Yksityisempi
+
+
+;We don’t sell access to your online data. Period.
+We don’t sell access to your online data. Period.
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+Get Firefox for privacy
 
 

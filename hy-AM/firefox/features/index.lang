@@ -20,225 +20,48 @@ Firefox-ի յուրահատկություններ
 Բացահայտեք նոր Firefox-ի բոլոր նոր յուրահատկությունները
 
 
-;Modern
-Ժամանակակից
-
-
 ;Your favorite add-ons and extensions
 Ձեր ընտրյալ հավելումները և ընդլայնումները
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass և հազարավոր ուրիշներ:
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-Ստացեք հզոր հավելումներ
 
 
 ;Customize your browser
 Հարմարեցրեք ձեր դիտարկիչը
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-Անհատականացրեք Firefox-ը ամեն ինչով՝ ձևավորումից մինչև գաղտնիություն:
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Դարձրեք Firefox-ը ձերը
-
-
-;Browse faster
-Դիտարկեք արագ
-
-
-;Start faster, tab hop quicker, get more done.
-Մեկնարկեք արագ, բացեք ներդիրները արագ, արեք ավելին:
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Արեք ավելին Firefox-ի հետ
-
-
 ;Sync between devices
 Համաժամեցում սարքերի միջև
-
-
-;Get your tabs, logins and history on the go.
-Միշտ ձեռքի տակ պահեք ձեր ներդիրները, մուտքագրումները և պատմությունը:
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Օգտագործեք Firefox-ը ամեն տեղ
-
-
-;Tabs that travel
-Ներդիրներ, որոնք ճամփորդում են
-
-
-;View open tabs on any device.
-Դիտել բաց ներդիրները սարքում:
-
-
-;Start sharing
-Սկսեք համօգտագործել
-
-
-;Firefox for Android
-Firefox for Android {ok}
-
-
-;Our most customizable Firefox for Android yet.
-Մեր առավել հարմարեցվող Firefox for Android-ը, որ եղել է:
-
-
-# Link to /firefox/android
-;Take control of your browser
-Կառավարեք ձեր դիտարկիչը
-
-
-;Firefox for iOS
-Firefox for iOS {ok}
-
-
-;The speed you need. The privacy you trust.
-Արագություն, որը ձեզ պետք է: Գաղտնիություն, որին վստահում եք:
-
-
-# Link to /firefox/ios
-;Go beyond the default
-Դուրս եկեք բոլոր շրջանակներից
 
 
 ;Firefox Test Pilot
 Firefox Test Pilot {ok}
 
 
-;Experimental features that can simplify your life.
-Փորձարարական յուրահատկություններ, որոնք կարող են պարզեցնել ձեր կյանքը:
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-Օգնեք թողարկել նոր յուրահատկությունները
-
-
-;Balanced memory usage
-Հիշողության հավասարակշռված օգտագործում
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-Դիտարկեք հարթ ու ազատ թողեք հիշողությունը այլ ծրագրերի համար:
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-Արագացրեք ձեր համակարգիչը
+;Tabs that travel
+Ներդիրներ, որոնք ճամփորդում են
 
 
 ;Better bookmarks
 Ավելի լավ էջանիշեր
 
 
-;Quickly save and organize your favorite sites.
-Արագորեն պահպանեք ձեր ընտրած կայքերը:
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-Հարմարեցրեք ձեր էջանիշերը
-
-
-;Privacy
-Գաղտնիություն
+;More powerful Private Browsing
+Ավելի հզոր Գաղտնի դիտարկում
 
 
 ;Ad tracker blocking
 Գովազդի հետագծման արգելափակում
 
 
-;Firefox Private Browsing blocks ads with trackers.
-Firefox-ի Գաղտնի դիտարկումը արգելափակում է գովազդները իրենց հետագծումենրով:
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-Արգելափակեք գովազդի հետագծումները
-
-
-;More powerful Private Browsing
-Ավելի հզոր Գաղտնի դիտարկում
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-Ավելի ուժեղ պաշտպանություն, քան Incognito mode-ը կամ InPrivate-ը:
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-Ստացեք լավագույն գաղտնիությունը
-
-
-;More private
-Առավել գաղտնի
-
-
-;We don’t sell access to your online data. Period.
-Մենք չենք վաճառում մատչումը ձեր առցանց տվյալներին: Վե՛րջ:
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-Ներբեռնեք Firefox-ը գաղտնիության համար
-
-
-;Limited data collection
-Սահմանափակ տվյալների հավաքում
-
-
-;Opted-in to privacy, so you can browse freely.
-Հիմնված գաղտնիության վրա, ուստի կարող եք ազատորեն դիտարկել:
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-Կարդացեք մեր գաղտնիության դրույթները
-
-
 ;Password Manager
 Գաղտնաբառի կառավարում
 
 
-;Forget the reset. Save passwords and logins quickly.
-Մոռացեք վերակայելու մասին: Պահպանեք գաղտնաբառերը ու մուտքագրումները արագորեն:
+;Balanced memory usage
+Հիշողության հավասարակշռված օգտագործում
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-Հեշտությամն կառավարեք ձեր մուտքագրումները
-
-
-;Independence
-Անկախություն
-
-
-;By non-profit, Mozilla
-Ոչ առևտրային, Mozilla
-
-
-;Protecting the health of the internet.
-Պաշտպանում է համաանցի առողջությունը:
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Կարդացեք Mozilla-ի առաքելությունը
+;Browse faster
+Դիտարկեք արագ
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ Firefox-ի ծրագրերի առավելությունները
 Տեսեք, թե ինչն է մեզ դարձնում տարբերվող
 
 
+;By non-profit, Mozilla
+Ոչ առևտրային, Mozilla
+
+
+;Protecting the health of the internet.
+Պաշտպանում է համաանցի առողջությունը:
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Կարդացեք Mozilla-ի առաքելությունը
+
+
 ;Protect your rights
 Պաշտպանեք ձեր իրավունքները
 
@@ -269,5 +105,31 @@ Firefox-ի ծրագրերի առավելությունները
 # Link to /firefox/features/independent
 ;Choose independence
 Ընտրեք անկախություն
+
+
+;Limited data collection
+Սահմանափակ տվյալների հավաքում
+
+
+;Opted-in to privacy, so you can browse freely.
+Հիմնված գաղտնիության վրա, ուստի կարող եք ազատորեն դիտարկել:
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+Կարդացեք մեր գաղտնիության դրույթները
+
+
+;More private
+Առավել գաղտնի
+
+
+;We don’t sell access to your online data. Period.
+Մենք չենք վաճառում մատչումը ձեր առցանց տվյալներին: Վե՛րջ:
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+Ներբեռնեք Firefox-ը գաղտնիության համար
 
 

@@ -20,225 +20,48 @@ Firefox özellikleri
 Yepyeni Firefox tarayıcısının özelliklerini keşfet
 
 
-;Modern
-Modern {ok}
-
-
 ;Your favorite add-ons and extensions
 En sevdiğin eklentiler ve uzantılar
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass ve daha binlercesi.
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-Güçlü eklentileri kullan
 
 
 ;Customize your browser
 Tarayıcını özelleştir
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-Temalardan gizlilik araçlarına kadar her şeyle Firefox’u kişiselleştirebilirsin.
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Kendi Firefox’unu yap
-
-
-;Browse faster
-Daha hızlı dolaş
-
-
-;Start faster, tab hop quicker, get more done.
-Daha hızlı açılır, sekmeler arasında daha çabuk dolaşırsın, az zamanda çok iş yaparsın.
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Firefox’la daha çok iş yap
-
-
 ;Sync between devices
 Farklı cihazları eşitle
-
-
-;Get your tabs, logins and history on the go.
-Sekmelerini, hesaplarını ve geçmişini yanında taşı.
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Firefox’u her yerde kullan
-
-
-;Tabs that travel
-Gezgin sekmeler
-
-
-;View open tabs on any device.
-Açık sekmelerine istediğin cihazdan bakabilirsin.
-
-
-;Start sharing
-Paylaşmaya başla
-
-
-;Firefox for Android
-Android için Firefox
-
-
-;Our most customizable Firefox for Android yet.
-Android için şimdiye dek yaptığımız en özelleştirilebilir Firefox.
-
-
-# Link to /firefox/android
-;Take control of your browser
-Tarayıcının kontrolünü eline al
-
-
-;Firefox for iOS
-iOS için Firefox
-
-
-;The speed you need. The privacy you trust.
-Beklediğin hız, güvendiğin gizlilik.
-
-
-# Link to /firefox/ios
-;Go beyond the default
-Varsayılanın ötesine geç
 
 
 ;Firefox Test Pilot
 Firefox Test Pilotu
 
 
-;Experimental features that can simplify your life.
-Hayatını (belki) kolaylaştıracak deneysel özellikler.
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-Yeni özellikleri denememize yardım et
-
-
-;Balanced memory usage
-Dengeli bellek tüketimi
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-İnternette sorunsuzca dolaşırken diğer programlara da yetecek kadar bellek (RAM) bırakıyoruz.
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-Bilgisayarını hızlandır
+;Tabs that travel
+Gezgin sekmeler
 
 
 ;Better bookmarks
 Daha iyi yer imleri
 
 
-;Quickly save and organize your favorite sites.
-Sevdiğin siteleri hızlıca kaydet ve düzenle.
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-Yer imlerini kişiselleştir
-
-
-;Privacy
-Gizlilik
+;More powerful Private Browsing
+Daha güçlü Gizli Gezinti
 
 
 ;Ad tracker blocking
 Reklam takipçilerini engelle
 
 
-;Firefox Private Browsing blocks ads with trackers.
-Firefox’un Gizli Gezinti özelliği, seni takip eden reklamları engeller.
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-Reklam takipçilerini engelle
-
-
-;More powerful Private Browsing
-Daha güçlü Gizli Gezinti
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-Chrome’un gizli modundan, Edge’in InPrivate’ından daha fazla koruma.
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-Gizliliğini koru
-
-
-;More private
-Daha gizli
-
-
-;We don’t sell access to your online data. Period.
-Bize teslim ettiğin verileri asla satmıyoruz. Nokta.
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-Gizlilik için Firefox’u indir
-
-
-;Limited data collection
-Kısıtlı veri toplama
-
-
-;Opted-in to privacy, so you can browse freely.
-Özgürce dolaş diye sana sormadan veri toplamıyoruz.
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-Gizlilik ilkelerimizi oku
-
-
 ;Password Manager
 Parola Yöneticisi
 
 
-;Forget the reset. Save passwords and logins quickly.
-Parola sıfırlamayla uğraşma. Parolalarını ve hesaplarını hızlıca kaydet.
+;Balanced memory usage
+Dengeli bellek tüketimi
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-Hesap bilgilerini kolayca yönet
-
-
-;Independence
-Bağımsızlık
-
-
-;By non-profit, Mozilla
-Kâr amacı gütmeyen Mozilla’dan
-
-
-;Protecting the health of the internet.
-İnternetin sağlığını koruyoruz.
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Mozilla misyonunu oku
+;Browse faster
+Daha hızlı dolaş
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ Hep şeffafız.
 Bizi farklı yapan şeyleri gör
 
 
+;By non-profit, Mozilla
+Kâr amacı gütmeyen Mozilla’dan
+
+
+;Protecting the health of the internet.
+İnternetin sağlığını koruyoruz.
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Mozilla misyonunu oku
+
+
 ;Protect your rights
 Haklarını koruyoruz
 
@@ -269,5 +105,31 @@ Kurumsal güçleri kontrol altında tutuyoruz.
 # Link to /firefox/features/independent
 ;Choose independence
 Bağımsızlığı seç
+
+
+;Limited data collection
+Kısıtlı veri toplama
+
+
+;Opted-in to privacy, so you can browse freely.
+Özgürce dolaş diye sana sormadan veri toplamıyoruz.
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+Gizlilik ilkelerimizi oku
+
+
+;More private
+Daha gizli
+
+
+;We don’t sell access to your online data. Period.
+Bize teslim ettiğin verileri asla satmıyoruz. Nokta.
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+Gizlilik için Firefox’u indir
 
 

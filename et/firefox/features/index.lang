@@ -20,225 +20,48 @@ Firefoxi võimalused
 Avasta täiesti uue Firefoxi võimalused
 
 
-;Modern
-Kaasaegne
-
-
 ;Your favorite add-ons and extensions
 Sinu lemmikud lisad ja laiendused
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass ja tuhanded teised.
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-Hangi võimsaid lisasid
 
 
 ;Customize your browser
 Veebilehitseja kohandamine
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-Isikupärasta Firefoxi teemade, privaatsustööriistade ja muuga.
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Muuda Firefox enda omaks
-
-
-;Browse faster
-Kiirem veebilehitsemine
-
-
-;Start faster, tab hop quicker, get more done.
-Alusta kiiremini, vaheta kaarte nobedamalt ja tee rohkem ära.
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Tee Firefoxiga rohkem
-
-
 ;Sync between devices
 Seadmete vaheline sünkroonimine
-
-
-;Get your tabs, logins and history on the go.
-Võta kaardid, sisselogimisandmed ning ajalugu endaga kaasa.
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Kasuta Firefoxi igal pool
-
-
-;Tabs that travel
-Reisivad kaardid
-
-
-;View open tabs on any device.
-Vaata avatud kaarte mis tahes seadmes.
-
-
-;Start sharing
-Alusta jagamist
-
-
-;Firefox for Android
-Firefox Androidile
-
-
-;Our most customizable Firefox for Android yet.
-Meie kõige kohandatavaim Firefox Androidile üldse.
-
-
-# Link to /firefox/android
-;Take control of your browser
-Võta veebilehitseja juhtimine enda kätte
-
-
-;Firefox for iOS
-Firefox iOS-ile
-
-
-;The speed you need. The privacy you trust.
-Kiirus, mida vajad. Privaatsus, mida usaldad.
-
-
-# Link to /firefox/ios
-;Go beyond the default
-Ära piirdu vaikimisi valikuga
 
 
 ;Firefox Test Pilot
 Firefox Test Pilot {ok}
 
 
-;Experimental features that can simplify your life.
-Eksperimentaalsed võimalused, mis võivad su elu lihtsustada.
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-Aita uutel võimalustel käivituda
-
-
-;Balanced memory usage
-Tasakaalustatud mälukasutus
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-Lehitse veebi sujuvalt ning jäta piisavalt mälu ka teistele arvutis töötavatele programmidele.
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-Kiirenda enda arvutit
+;Tabs that travel
+Reisivad kaardid
 
 
 ;Better bookmarks
 Paremad järjehoidjad
 
 
-;Quickly save and organize your favorite sites.
-Lemmiksaitide salvestamine ning organiseerimine on kiire.
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-Kohanda järjehoidjaid
-
-
-;Privacy
-Privaatsus
+;More powerful Private Browsing
+Võimsam privaatne veebilehitsemine
 
 
 ;Ad tracker blocking
 Reklaamijälitajate blokkimine
 
 
-;Firefox Private Browsing blocks ads with trackers.
-Firefoxi privaatne veebilehitsemine blokeerib jälitajatega reklaamid.
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-Bloki reklaamijälitajad
-
-
-;More powerful Private Browsing
-Võimsam privaatne veebilehitsemine
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-Rohkem kaitset kui Incognito režiim või InPrivate pakuvad.
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-Hangi parem privaatsus
-
-
-;More private
-Privaatsem
-
-
-;We don’t sell access to your online data. Period.
-Me ei müü ligipääsu sinu veebikasutuse andmetele. Jutul lõpp.
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-Hangi privaatsuse nimel Firefox
-
-
-;Limited data collection
-Piiratud andmete kogumine
-
-
-;Opted-in to privacy, so you can browse freely.
-Vaikimisi privaatne, et saaksid veebi vabalt lehitseda.
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-Loe meie privaatsuspoliitikat
-
-
 ;Password Manager
 Paroolihaldur
 
 
-;Forget the reset. Save passwords and logins quickly.
-Unusta lähtestamine. Salasõnade ja kasutajakontode salvestamine on kiire.
+;Balanced memory usage
+Tasakaalustatud mälukasutus
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-Korralda sisselogimisandmeid kerge vaevaga
-
-
-;Independence
-Sõltumatus
-
-
-;By non-profit, Mozilla
-Mittetulunduslik Mozilla
-
-
-;Protecting the health of the internet.
-Kaitseme interneti tervist.
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Loe Mozilla missiooni
+;Browse faster
+Kiirem veebilehitsemine
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ Oleme alati läbipaistvad.
 Vaata, mis meid teistest eristab
 
 
+;By non-profit, Mozilla
+Mittetulunduslik Mozilla
+
+
+;Protecting the health of the internet.
+Kaitseme interneti tervist.
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Loe Mozilla missiooni
+
+
 ;Protect your rights
 Kaitseme sinu õigusi
 
@@ -269,5 +105,31 @@ Hoiame korporatiivsed huvid kontrolli all.
 # Link to /firefox/features/independent
 ;Choose independence
 Vali sõltumatus
+
+
+;Limited data collection
+Piiratud andmete kogumine
+
+
+;Opted-in to privacy, so you can browse freely.
+Vaikimisi privaatne, et saaksid veebi vabalt lehitseda.
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+Loe meie privaatsuspoliitikat
+
+
+;More private
+Privaatsem
+
+
+;We don’t sell access to your online data. Period.
+Me ei müü ligipääsu sinu veebikasutuse andmetele. Jutul lõpp.
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+Hangi privaatsuse nimel Firefox
 
 

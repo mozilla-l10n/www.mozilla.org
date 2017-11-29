@@ -20,225 +20,48 @@ Características de Firefox
 Explore las características del nuevo navegador Firefox
 
 
-;Modern
-Moderno
-
-
 ;Your favorite add-ons and extensions
 Tus complementos y extensiones favoritas
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass y miles más.
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-Conseguí complementos poderosos
 
 
 ;Customize your browser
 Personalizá tu navegador
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-Personalizá Firefox completamente, desde temas hasta herramientas de privacidad.
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Hacé Firefox tuyo
-
-
-;Browse faster
-Navegá más rápido
-
-
-;Start faster, tab hop quicker, get more done.
-Arranque más veloz, pasá a otra pestaña más rápido, ahorrá tiempo.
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Lográ más con Firefox
-
-
 ;Sync between devices
 Sincronizá dispositivos
-
-
-;Get your tabs, logins and history on the go.
-Tené tus pestañas, inicios de sesión. e historial siempre a mano.
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Usá Firefox en todos lados
-
-
-;Tabs that travel
-Pestañas que viajan
-
-
-;View open tabs on any device.
-Mirá las pestañas que tenés abiertas en cualquier dispositivo.
-
-
-;Start sharing
-Empezá a compartir
-
-
-;Firefox for Android
-Firefox para Android
-
-
-;Our most customizable Firefox for Android yet.
-La versión más personalizable de Firefox para Android.
-
-
-# Link to /firefox/android
-;Take control of your browser
-Tomá el control de tu navegador
-
-
-;Firefox for iOS
-Firefox para iOS
-
-
-;The speed you need. The privacy you trust.
-La velocidad que necesitás. La privacidad en la que confías.
-
-
-# Link to /firefox/ios
-;Go beyond the default
-Superá lo establecido
 
 
 ;Firefox Test Pilot
 Firefox Test Pilot {ok}
 
 
-;Experimental features that can simplify your life.
-Funciones experimentales que pueden simplificar tu vida.
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-Ayudá a lanzar nuevas funcionalidades
-
-
-;Balanced memory usage
-Uso balanceado de la memoria
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-Navegá con fluidez y liberá mucha memoria para los programas de tu computadora.
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-Aumentá la velocidad de tu computadora
+;Tabs that travel
+Pestañas que viajan
 
 
 ;Better bookmarks
 Mejores marcadores
 
 
-;Quickly save and organize your favorite sites.
-Guardá y organizá tus sitios favoritos.
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-Personalizá tus marcadores
-
-
-;Privacy
-Privacidad
+;More powerful Private Browsing
+Navegación privada mas poderosa
 
 
 ;Ad tracker blocking
 Bloqueo de publicidad con rastreadores
 
 
-;Firefox Private Browsing blocks ads with trackers.
-La Navegación privada de Firefox bloquea la publicidad con rastreadores.
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-Bloqueá los rastreadores publicitarios
-
-
-;More powerful Private Browsing
-Navegación privada mas poderosa
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-Más protección que el modo incógnito o InPrivate.
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-Conseguí mayor privacidad
-
-
-;More private
-Más privado
-
-
-;We don’t sell access to your online data. Period.
-No vendemos el acceso a tus datos en línea. Punto.
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-Descargá Firefox para tu privacidad
-
-
-;Limited data collection
-Limitada recolección de datos
-
-
-;Opted-in to privacy, so you can browse freely.
-Opciones de privacidad para que puedas navegar libremente.
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-Lea nuestra política de privacidad
-
-
 ;Password Manager
 Administrador de contraseñas
 
 
-;Forget the reset. Save passwords and logins quickly.
-Olvidá el reseteo. Guardá contraseñas e inicios de sesión rápidamente.
+;Balanced memory usage
+Uso balanceado de la memoria
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-Administrá fácilmente tus inicios de sesión
-
-
-;Independence
-Independencia
-
-
-;By non-profit, Mozilla
-De Mozilla, sin fines de lucro
-
-
-;Protecting the health of the internet.
-Proteger la salud de Internet.
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Leé sobre la misión de Mozilla
+;Browse faster
+Navegá más rápido
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ Somos siempre transparentes.
 Mirá qué nos hace diferentes
 
 
+;By non-profit, Mozilla
+De Mozilla, sin fines de lucro
+
+
+;Protecting the health of the internet.
+Proteger la salud de Internet.
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Leé sobre la misión de Mozilla
+
+
 ;Protect your rights
 Protegé tus derechos
 
@@ -269,5 +105,31 @@ Ayudamos a mantener las corporaciones bajo control.
 # Link to /firefox/features/independent
 ;Choose independence
 Elegí independencia
+
+
+;Limited data collection
+Limitada recolección de datos
+
+
+;Opted-in to privacy, so you can browse freely.
+Opciones de privacidad para que puedas navegar libremente.
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+Lea nuestra política de privacidad
+
+
+;More private
+Más privado
+
+
+;We don’t sell access to your online data. Period.
+No vendemos el acceso a tus datos en línea. Punto.
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+Descargá Firefox para tu privacidad
 
 

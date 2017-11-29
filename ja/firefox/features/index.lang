@@ -20,225 +20,48 @@ Firefox の機能
 まったく新しい Firefox ブラウザーの機能を探索
 
 
-;Modern
-最新
-
-
 ;Your favorite add-ons and extensions
 お気に入りのアドオンと拡張機能
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock、Ublock、LastPass など、数千種類のアドオンが揃っています。
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-パワフルなアドオンを入手
 
 
 ;Customize your browser
 ブラウザーをカスタマイズ
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-テーマからプライバシーツールに至るまで、あらゆるアドオンで Firefox を自分好みに。
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Firefox を自分のものに
-
-
-;Browse faster
-より高速にブラウジング
-
-
-;Start faster, tab hop quicker, get more done.
-素早い起動やタブの切り替えで、より多くのことをこなせます。
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Firefox でもっと多くのことを
-
-
 ;Sync between devices
 端末間で同期
-
-
-;Get your tabs, logins and history on the go.
-タブ、パスワード、履歴を持ち歩こう。
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Firefox をどこでも活用
-
-
-;Tabs that travel
-旅するタブ
-
-
-;View open tabs on any device.
-開いているタブをどの端末からでも見られます。
-
-
-;Start sharing
-共有開始
-
-
-;Firefox for Android
-Android 版 Firefox
-
-
-;Our most customizable Firefox for Android yet.
-かつてなくカスタマイズ自在な Android 版 Firefox をお届けします。
-
-
-# Link to /firefox/android
-;Take control of your browser
-自分自身でブラウザーを管理
-
-
-;Firefox for iOS
-iOS 版 Firefox
-
-
-;The speed you need. The privacy you trust.
-必要とされるスピード。信頼できるプライバシー。
-
-
-# Link to /firefox/ios
-;Go beyond the default
-初期設定から一歩進んで
 
 
 ;Firefox Test Pilot
 Firefox Test Pilot {ok}
 
 
-;Experimental features that can simplify your life.
-あなたの生活を楽にできる実験的な機能の数々。
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-新機能の開発に協力
-
-
-;Balanced memory usage
-バランスの取れたメモリー使用量
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-快適にブラウジングしつつ、他のコンピュータープログラムのためのメモリーも十分に残せます。
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-お使いのパソコンを高速化
+;Tabs that travel
+旅するタブ
 
 
 ;Better bookmarks
 より便利なブックマーク
 
 
-;Quickly save and organize your favorite sites.
-お気に入りのサイトを素早く保存して整理。
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-ブックマークをカスタマイズ
-
-
-;Privacy
-プライバシー
+;More powerful Private Browsing
+よりパワフルなプライベートブラウジング
 
 
 ;Ad tracker blocking
 広告による行動追跡のブロック
 
 
-;Firefox Private Browsing blocks ads with trackers.
-Firefox のプライベートブラウジングは行動追跡に使われている広告をブロックします。
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-広告による行動追跡をブロック
-
-
-;More powerful Private Browsing
-よりパワフルなプライベートブラウジング
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-シークレットモードや InPrivate よりも強力な保護を提供。
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-プライバシーをさらに守る
-
-
-;More private
-よりプライベートに
-
-
-;We don’t sell access to your online data. Period.
-大前提として、私たちは第三者にあなたのオンラインデータへのアクセスを売り渡したりしません。
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-プライバシーのために Firefox を使う
-
-
-;Limited data collection
-限られたデータ収集
-
-
-;Opted-in to privacy, so you can browse freely.
-最初からプライバシーが考慮されているので、安心してブラウジングできます。
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-プライバシーポリシーを読む
-
-
 ;Password Manager
 パスワードマネージャー
 
 
-;Forget the reset. Save passwords and logins quickly.
-各サイトのパスワードを素早く保存して、再設定を不要に。
+;Balanced memory usage
+バランスの取れたメモリー使用量
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-ログイン情報を簡単に管理
-
-
-;Independence
-独立性
-
-
-;By non-profit, Mozilla
-非営利法人の Mozilla が提供
-
-
-;Protecting the health of the internet.
-インターネットの健全性を守るために活動しています。
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Mozilla のミッションを読む
+;Browse faster
+より高速にブラウジング
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ Firefox 製品のメリット
 私たちが他とどう違うのかを見る
 
 
+;By non-profit, Mozilla
+非営利法人の Mozilla が提供
+
+
+;Protecting the health of the internet.
+インターネットの健全性を守るために活動しています。
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Mozilla のミッションを読む
+
+
 ;Protect your rights
 あなたの権利を守る
 
@@ -269,5 +105,31 @@ Firefox 製品のメリット
 # Link to /firefox/features/independent
 ;Choose independence
 独立性を選ぼう
+
+
+;Limited data collection
+限られたデータ収集
+
+
+;Opted-in to privacy, so you can browse freely.
+最初からプライバシーが考慮されているので、安心してブラウジングできます。
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+プライバシーポリシーを読む
+
+
+;More private
+よりプライベートに
+
+
+;We don’t sell access to your online data. Period.
+大前提として、私たちは第三者にあなたのオンラインデータへのアクセスを売り渡したりしません。
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+プライバシーのために Firefox を使う
 
 

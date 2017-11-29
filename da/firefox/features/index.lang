@@ -20,225 +20,48 @@ Funktioner i Firefox
 Udforsk funktionerne i den helt nye Firefox-browser
 
 
-;Modern
-Moderne
-
-
 ;Your favorite add-ons and extensions
 Dine foretrukne tilføjelser og udvidelser
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass og tusinde flere.
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-Få nyttige tilføjelser
 
 
 ;Customize your browser
 Tilpas din browser
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-Tilpas Firefox med alt fra temaer til privatlivsfunktioner.
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Gør Firefox til din
-
-
-;Browse faster
-Surf hurtigere
-
-
-;Start faster, tab hop quicker, get more done.
-Start hurtigere, skift faneblad hurtigere, få mere gjort.
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Gør mere med Firefox
-
-
 ;Sync between devices
 Synkroniser mellem enheder
-
-
-;Get your tabs, logins and history on the go.
-Tag dine faneblade, logins og historik med på farten.
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Brug Firefox overalt
-
-
-;Tabs that travel
-Faneblade på farten
-
-
-;View open tabs on any device.
-Se åbne faneblade på enhver enhed.
-
-
-;Start sharing
-Start deling
-
-
-;Firefox for Android
-Firefox til Android
-
-
-;Our most customizable Firefox for Android yet.
-Vores hidtil mest tilpasningsvenlige Firefox til Android.
-
-
-# Link to /firefox/android
-;Take control of your browser
-Tag kontrol over din browser
-
-
-;Firefox for iOS
-Firefox til iOS
-
-
-;The speed you need. The privacy you trust.
-Hurtigere og med beskyttelse af dit privatliv.
-
-
-# Link to /firefox/ios
-;Go beyond the default
-Bedre end standarden
 
 
 ;Firefox Test Pilot
 Firefox Test Pilot {ok}
 
 
-;Experimental features that can simplify your life.
-Eksperimentelle funktioner der kan gøre dit liv enklere.
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-Hjælp med at indføre nye funktioner
-
-
-;Balanced memory usage
-Tilpasset brug af hukommelse
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-Surf let, så du har masser af hukommelse til andre programmer.
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-Sæt fart på din computer
+;Tabs that travel
+Faneblade på farten
 
 
 ;Better bookmarks
 Bedre bogmærker
 
 
-;Quickly save and organize your favorite sites.
-Gem og organiser hurtigt dine foretrukne websteder.
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-Tilpas dine bogmærker
-
-
-;Privacy
-Privatliv
+;More powerful Private Browsing
+Mere effektiv privat browsing
 
 
 ;Ad tracker blocking
 Blokering af annoncesporing
 
 
-;Firefox Private Browsing blocks ads with trackers.
-Privat browsing blokerer reklamer, der sporer dig.
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-Blokér reklamer med sporing
-
-
-;More powerful Private Browsing
-Mere effektiv privat browsing
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-Bedre beskyttelse end med inkognitotilstand og InPrivate-browsing.
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-Beskyt privatlivet
-
-
-;More private
-Mere privat
-
-
-;We don’t sell access to your online data. Period.
-Vi sælger ikke adgang til dine online-data. Punktum.
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-Beskyt privatlivet
-
-
-;Limited data collection
-Begrænset dataindsamling
-
-
-;Opted-in to privacy, so you can browse freely.
-Vi beskytter dit privatliv, så du kan surfe frit.
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-Læs vores privatlivspolitik
-
-
 ;Password Manager
 Håndtering af adgangskoder
 
 
-;Forget the reset. Save passwords and logins quickly.
-Gem nemt adgangskoder og logins.
+;Balanced memory usage
+Tilpasset brug af hukommelse
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-Håndtér nemt dine logins
-
-
-;Independence
-Uafhængighed
-
-
-;By non-profit, Mozilla
-Lavet af nonprofit-organisationen Mozilla
-
-
-;Protecting the health of the internet.
-Beskytter internettets sundhed.
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Læs om Mozillas mission
+;Browse faster
+Surf hurtigere
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ Vi går ind for åbenhed.
 Se hvad der gør os anderledes
 
 
+;By non-profit, Mozilla
+Lavet af nonprofit-organisationen Mozilla
+
+
+;Protecting the health of the internet.
+Beskytter internettets sundhed.
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Læs om Mozillas mission
+
+
 ;Protect your rights
 Beskyt dine rettigheder
 
@@ -269,5 +105,31 @@ Vi hjælper med at holde styr på de kommercielle virksomheder.
 # Link to /firefox/features/independent
 ;Choose independence
 Vælg uafhængighed
+
+
+;Limited data collection
+Begrænset dataindsamling
+
+
+;Opted-in to privacy, so you can browse freely.
+Vi beskytter dit privatliv, så du kan surfe frit.
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+Læs vores privatlivspolitik
+
+
+;More private
+Mere privat
+
+
+;We don’t sell access to your online data. Period.
+Vi sælger ikke adgang til dine online-data. Punktum.
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+Beskyt privatlivet
 
 

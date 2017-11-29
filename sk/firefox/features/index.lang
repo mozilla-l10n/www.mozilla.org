@@ -20,225 +20,48 @@ Funkcie Firefoxu
 Preskúmajte funkcie nového Firefoxu
 
 
-;Modern
-Moderné
-
-
 ;Your favorite add-ons and extensions
 Vaše obľúbené doplnky a rozšírenia
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass a tisíce ďalších.
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-Získajte doplnky
 
 
 ;Customize your browser
 Prispôsobte si svoj prehliadač
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-Prispôsobte si Firefox presne podľa seba - či už ide o témy vzhľadu alebo nástroje na ochranu súkromia.
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Prispôsobte si Firefox
-
-
-;Browse faster
-Prehliadajte rýchlejšie
-
-
-;Start faster, tab hop quicker, get more done.
-Vďaka rýchlejšiemu štartu a prechodu medzi kartami toho stihnete omnoho viac.
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Stihnite toho viac s Firefoxom
-
-
 ;Sync between devices
 Synchronizácia medzi zariadeniami
-
-
-;Get your tabs, logins and history on the go.
-Majte svoje karty, prihlasovacie údaje a históriu prehliadania so sebou.
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Používajte Firefox všade
-
-
-;Tabs that travel
-Karty, ktoré cestujú
-
-
-;View open tabs on any device.
-Pozrite si otvorené karty na akomkoľvek zariadení.
-
-
-;Start sharing
-Začnite so zdieľaním
-
-
-;Firefox for Android
-Firefox pre Android
-
-
-;Our most customizable Firefox for Android yet.
-Náš doteraz najviac prispôsobiteľný Firefox pre Android.
-
-
-# Link to /firefox/android
-;Take control of your browser
-Prevezmite kontrolu nad svojim prehliadačom
-
-
-;Firefox for iOS
-Firefox pre iOS
-
-
-;The speed you need. The privacy you trust.
-Rýchlosť, ktorú potrebujete. Súkromie, ktorému dôverujete.
-
-
-# Link to /firefox/ios
-;Go beyond the default
-Nebojte sa zmeniť predvolené nastavenia
 
 
 ;Firefox Test Pilot
 Firefox Test Pilot {ok}
 
 
-;Experimental features that can simplify your life.
-Experimentálne funkcie, ktoré zjednodušia váš život.
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-Pomôžte dostať nové funkcie medzi ľudí
-
-
-;Balanced memory usage
-Vyvážená spotreba pamäte
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-Prehliadajte plynulo a pritom ponechajte dostatok pamäte aj ostatným aplikáciám.
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-Zrýchlite svoj počítač
+;Tabs that travel
+Karty, ktoré cestujú
 
 
 ;Better bookmarks
 Lepšie záložky
 
 
-;Quickly save and organize your favorite sites.
-Rýchle ukladanie a organizácia vašich obľúbených stránok.
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-Prispôsobte si svoje záložky
-
-
-;Privacy
-Súkromie
+;More powerful Private Browsing
+Silnejšie súkromné prehliadanie
 
 
 ;Ad tracker blocking
 Blokovanie reklám
 
 
-;Firefox Private Browsing blocks ads with trackers.
-Súkromné prehliadanie vo Firefoxe blokuje reklamy so sledovacími prvkami.
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-Blokujte reklamné sledovacie prvky
-
-
-;More powerful Private Browsing
-Silnejšie súkromné prehliadanie
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-Lepšia ochrana než ponúka režim inkognito alebo režim InPrivate.
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-Získajte viac súkromia
-
-
-;More private
-Viac súkromia
-
-
-;We don’t sell access to your online data. Period.
-Nepredávame prístup k vašim online údajom. Bodka.
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-Získajte Firefox kvôli súkromiu
-
-
-;Limited data collection
-Obmedzené zbieranie údajov
-
-
-;Opted-in to privacy, so you can browse freely.
-Previazané so súkromím, takže môžete prehliadať slobodne.
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-Prečítajte si naše zásady ochrany súkromia
-
-
 ;Password Manager
 Správca hesiel
 
 
-;Forget the reset. Save passwords and logins quickly.
-Zabudnite na obnovu. Uložte si svoje heslá a prihlasovacie mená.
+;Balanced memory usage
+Vyvážená spotreba pamäte
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-Spravujte svoje prihlasovacie údaje jednoducho
-
-
-;Independence
-Nezávislosť
-
-
-;By non-profit, Mozilla
-Od neziskovej organizácie Mozilla
-
-
-;Protecting the health of the internet.
-Chránime zdravie internetu.
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Prečítajte si o misii Mozilly
+;Browse faster
+Prehliadajte rýchlejšie
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ Sme vždy transparentní.
 Pozrite sa, čo nás odlišuje
 
 
+;By non-profit, Mozilla
+Od neziskovej organizácie Mozilla
+
+
+;Protecting the health of the internet.
+Chránime zdravie internetu.
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Prečítajte si o misii Mozilly
+
+
 ;Protect your rights
 Chráňte svoje práva
 
@@ -269,5 +105,31 @@ Pomáhame udržiavať korporácie pod kontrolou.
 # Link to /firefox/features/independent
 ;Choose independence
 Zvoľte nezávislosť
+
+
+;Limited data collection
+Obmedzené zbieranie údajov
+
+
+;Opted-in to privacy, so you can browse freely.
+Previazané so súkromím, takže môžete prehliadať slobodne.
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+Prečítajte si naše zásady ochrany súkromia
+
+
+;More private
+Viac súkromia
+
+
+;We don’t sell access to your online data. Period.
+Nepredávame prístup k vašim online údajom. Bodka.
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+Získajte Firefox kvôli súkromiu
 
 

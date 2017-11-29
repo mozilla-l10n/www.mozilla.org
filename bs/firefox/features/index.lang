@@ -20,225 +20,48 @@ Firefox mogućnosti
 Istražite mogućnosti od potpuno novog Firefox pretraživača
 
 
-;Modern
-Moderan
-
-
 ;Your favorite add-ons and extensions
 Vaši omiljeni dodaci i ekstenzije
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass i hiljade drugih.
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-Nabavite moguće dodatke
 
 
 ;Customize your browser
 Prilagodite vaš pretraživač
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-Uredite Firefox sa svim od tema do alata privatnosti.
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Učinite Firefox vašim
-
-
-;Browse faster
-Pretražujte brže
-
-
-;Start faster, tab hop quicker, get more done.
-Započnite brže, prebacujte tabove brže, uradite više.
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Uradite više sa Firefoxom
-
-
 ;Sync between devices
 Sinhronizujte između uređaja
-
-
-;Get your tabs, logins and history on the go.
-Uzmite vaše tabove, prijave i historiju u pokretu.
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Koristite Firefox svuda
-
-
-;Tabs that travel
-Tabovi koji putuju
-
-
-;View open tabs on any device.
-Pogledajte otvorene tabove na bilo kojem uređaju.
-
-
-;Start sharing
-Počnite dijeliti
-
-
-;Firefox for Android
-Firefox za Android
-
-
-;Our most customizable Firefox for Android yet.
-Naš najprilagodljiviji Firefox za Andorid do sad.
-
-
-# Link to /firefox/android
-;Take control of your browser
-Preuzmite kontrolu nad vašim pretraživačem
-
-
-;Firefox for iOS
-Firefox za iOS
-
-
-;The speed you need. The privacy you trust.
-Brzina koju trebate. Privatnost kojoj vjerujete.
-
-
-# Link to /firefox/ios
-;Go beyond the default
-Idite izvan zadanog
 
 
 ;Firefox Test Pilot
 Firefox Test Pilot {ok}
 
 
-;Experimental features that can simplify your life.
-Eksperimentalne mogućnosti koje vam mogu pojednostaviti život.
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-Pomozite nam izdati nove mogućnosti
-
-
-;Balanced memory usage
-Balansirano korištenje memorije
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-Pretražujte lakše i ostavite dosta memorije za druge programe.
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-Ubrzajte vaš računar
+;Tabs that travel
+Tabovi koji putuju
 
 
 ;Better bookmarks
 Bolje zabilješke
 
 
-;Quickly save and organize your favorite sites.
-Brzo sačuvajte i organizujte vaše omiljene stranice.
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-Prilagodite vaše zabilješke
-
-
-;Privacy
-Privatnost
+;More powerful Private Browsing
+Još moćnije privatno pretraživanje
 
 
 ;Ad tracker blocking
 Bloker reklama
 
 
-;Firefox Private Browsing blocks ads with trackers.
-Firefox privatno pretraživanje blokira reklame s trakerima.
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-Blokiraj reklame
-
-
-;More powerful Private Browsing
-Još moćnije privatno pretraživanje
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-Više zaštite nego u anonimnom modu ili InPrivate.
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-Dobijte bolju privatnost
-
-
-;More private
-Više privatan
-
-
-;We don’t sell access to your online data. Period.
-Ne prodajemo pristup vašim mrežnim podacima. Razdoblje.
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-Preuzmite Firefox za privatnost
-
-
-;Limited data collection
-Ograničeno prikupljanje podataka
-
-
-;Opted-in to privacy, so you can browse freely.
-Posvećeni privatnosti, tako da možete slobodno pretraživati.
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-Pročitajte našu policu privatnosti
-
-
 ;Password Manager
 Upravitelj lozinki
 
 
-;Forget the reset. Save passwords and logins quickly.
-Zaboravite reset. Sačuvajte lozinke i prijave brzo.
+;Balanced memory usage
+Balansirano korištenje memorije
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-Jednostavno upravljajte vašim prijavama
-
-
-;Independence
-Nezavisnost
-
-
-;By non-profit, Mozilla
-Pod Mozillom, neprofitnom organizacijom
-
-
-;Protecting the health of the internet.
-Mi štitimo zdravlje interneta.
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Pročitajte Mozillinu misiju
+;Browse faster
+Pretražujte brže
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ Mi smo uvijek transparentni.
 Pogledajte šta nas čini drugačijim
 
 
+;By non-profit, Mozilla
+Pod Mozillom, neprofitnom organizacijom
+
+
+;Protecting the health of the internet.
+Mi štitimo zdravlje interneta.
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Pročitajte Mozillinu misiju
+
+
 ;Protect your rights
 Zaštitite svoja prava
 
@@ -269,5 +105,31 @@ Mi pomažemo zadržati korporacijske moći u šahu.
 # Link to /firefox/features/independent
 ;Choose independence
 Odaberite nezavisnost
+
+
+;Limited data collection
+Ograničeno prikupljanje podataka
+
+
+;Opted-in to privacy, so you can browse freely.
+Posvećeni privatnosti, tako da možete slobodno pretraživati.
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+Pročitajte našu policu privatnosti
+
+
+;More private
+Više privatan
+
+
+;We don’t sell access to your online data. Period.
+Ne prodajemo pristup vašim mrežnim podacima. Razdoblje.
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+Preuzmite Firefox za privatnost
 
 

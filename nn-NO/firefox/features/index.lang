@@ -20,225 +20,48 @@ Firefox-funksjonar
 Utforsk funksjonane i den heilt nye nettlesaren Firefox
 
 
-;Modern
-Firefox tilbyr
-
-
 ;Your favorite add-ons and extensions
 Favorittutvidingane dine
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass og tusen fleire.
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-Hent kraftige utvidingar
 
 
 ;Customize your browser
 Tilpass nettlesaren din
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-Personleggjer Firefox med alt frå tema til personvernverktøy.
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Personleggjer Firefox
-
-
-;Browse faster
-Surf raskare
-
-
-;Start faster, tab hop quicker, get more done.
-Start raskare, hopp raskare mellom faner, få meir gjort.
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Gjer meir med Firefox
-
-
 ;Sync between devices
 Sync mellom einingar
-
-
-;Get your tabs, logins and history on the go.
-Ta med deg fanene dine, innlogginger og historikk på farten.
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Bruk Firefox overalt
-
-
-;Tabs that travel
-Faner som reiser
-
-
-;View open tabs on any device.
-Vis opne faner på alle einingar.
-
-
-;Start sharing
-Start å dele
-
-
-;Firefox for Android
-Firefox for Android {ok}
-
-
-;Our most customizable Firefox for Android yet.
-Vår mest tilpassbare Firefox for Android til no.
-
-
-# Link to /firefox/android
-;Take control of your browser
-Ta kontroll på nettlesaren din
-
-
-;Firefox for iOS
-Firefox for iOS {ok}
-
-
-;The speed you need. The privacy you trust.
-Farten du treng. Personvernet du stolar på.
-
-
-# Link to /firefox/ios
-;Go beyond the default
-Gå bortanfor den vanlege standarden
 
 
 ;Firefox Test Pilot
 Firefox Test Pilot {ok}
 
 
-;Experimental features that can simplify your life.
-Eksperimentelle funksjonar som kan forenkle livet ditt.
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-Hjelp til med å lansere nye funksjonar
-
-
-;Balanced memory usage
-Balansert minnebruk
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-Surf smidigare, slik at du har nok av minne til dei andre programma dine.
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-Få fart på datamaskina di
+;Tabs that travel
+Faner som reiser
 
 
 ;Better bookmarks
 Betre bokmerke
 
 
-;Quickly save and organize your favorite sites.
-Lagre og organiser kjapt favorittnettsidene dine.
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-Tilpass bokmerka dine
-
-
-;Privacy
-Personvern
+;More powerful Private Browsing
+Kraftigare Privat nettlesing
 
 
 ;Ad tracker blocking
 Blokkering av annonsesporfølgjarar
 
 
-;Firefox Private Browsing blocks ads with trackers.
-Firefox Privat nettlesing blokkerer annonsar med sporfølgjarar.
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-Blokker annonsesporfølgjarar
-
-
-;More powerful Private Browsing
-Kraftigare Privat nettlesing
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-Meir vern enn Inkognito-modus eller InPrivate.
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-Få betre personvern
-
-
-;More private
-Meir privat
-
-
-;We don’t sell access to your online data. Period.
-Vi sel ikkje tilgang til dine data. Punktum.
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-Last ned Firefox for personvern
-
-
-;Limited data collection
-Avgrensa datainnsamling
-
-
-;Opted-in to privacy, so you can browse freely.
-Vel personvern, slik at du kan surfe fritt.
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-Les personvernpraksisen vår
-
-
 ;Password Manager
 Passordhandsamar
 
 
-;Forget the reset. Save passwords and logins quickly.
-Gløym nullstilling av passord. Lagre passord og innloggingar enkelt.
+;Balanced memory usage
+Balansert minnebruk
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-Handsam enkelt innloggingane dine
-
-
-;Independence
-Sjølvstende
-
-
-;By non-profit, Mozilla
-Av den ideelle organisasjonen Mozilla
-
-
-;Protecting the health of the internet.
-Vern helsa til internett.
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Les Mozilla sitt oppdrag
+;Browse faster
+Surf raskare
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ Vi er alltid opne.
 Sjå kva som gjer oss annleis
 
 
+;By non-profit, Mozilla
+Av den ideelle organisasjonen Mozilla
+
+
+;Protecting the health of the internet.
+Vern helsa til internett.
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Les Mozilla sitt oppdrag
+
+
 ;Protect your rights
 Vern om rettane dine
 
@@ -269,5 +105,31 @@ Vi hjelper til med å halda styr på dei kommersielle verksemdene.
 # Link to /firefox/features/independent
 ;Choose independence
 Vel sjølvstende
+
+
+;Limited data collection
+Avgrensa datainnsamling
+
+
+;Opted-in to privacy, so you can browse freely.
+Vel personvern, slik at du kan surfe fritt.
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+Les personvernpraksisen vår
+
+
+;More private
+Meir privat
+
+
+;We don’t sell access to your online data. Period.
+Vi sel ikkje tilgang til dine data. Punktum.
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+Last ned Firefox for personvern
 
 

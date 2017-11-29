@@ -20,225 +20,48 @@ Características de Firefox
 Descubre las características del nuevo Firefox
 
 
-;Modern
-Moderno
-
-
 ;Your favorite add-ons and extensions
 Tus complementos y extensiones favoritos
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass y miles más.
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-Obtener complementos poderosos
 
 
 ;Customize your browser
 Personalizar tu navegador
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-Personaliza Firefox con todo, desde temas hasta herramientas de privacidad.
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Personaliza Firefox
-
-
-;Browse faster
-Navega más rápido
-
-
-;Start faster, tab hop quicker, get more done.
-Inicio más rápido, cambio de pestañas más eficiente, más cosas logradas.
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Haz más con Firefox
-
-
 ;Sync between devices
 Sincronización entre dispositivos
-
-
-;Get your tabs, logins and history on the go.
-Tus pestañas, inicios de sesión e historial siempre contigo.
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Usa Firefox en cualquier lugar
-
-
-;Tabs that travel
-Viaja con tus pestañas
-
-
-;View open tabs on any device.
-Ver pestañas abiertas en cualquier dispositivo.
-
-
-;Start sharing
-Comenzar a compartir
-
-
-;Firefox for Android
-Firefox para Android
-
-
-;Our most customizable Firefox for Android yet.
-La versión más personalizable de Firefox para Android.
-
-
-# Link to /firefox/android
-;Take control of your browser
-Tomar el control de tu navegador
-
-
-;Firefox for iOS
-Firefox para iOS
-
-
-;The speed you need. The privacy you trust.
-La velocidad que necesitas. La privacidad en la que confías.
-
-
-# Link to /firefox/ios
-;Go beyond the default
-Ve más allá de la opción predeterminada
 
 
 ;Firefox Test Pilot
 Firefox Test Pilot {ok}
 
 
-;Experimental features that can simplify your life.
-Características experimentales que simplifican tu vida.
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-Ayuda a lanzar nuevas características
-
-
-;Balanced memory usage
-Uso de memoria balanceado
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-Navega sin problemas y deja mucha memoria libre para los programas de tu computadora.
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-Acelera tu computadora
+;Tabs that travel
+Viaja con tus pestañas
 
 
 ;Better bookmarks
 Mejores marcadores
 
 
-;Quickly save and organize your favorite sites.
-Guarda y organiza rápidamente tus sitios favoritos.
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-Personaliza tus marcadores
-
-
-;Privacy
-Privacidad
+;More powerful Private Browsing
+Navegación privada más poderosa
 
 
 ;Ad tracker blocking
 Bloqueo de rastreador de publicidad
 
 
-;Firefox Private Browsing blocks ads with trackers.
-La navegación privada de Firefox bloquea la publicidad con rastreadores.
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-Bloquear rastreadores de publicidad
-
-
-;More powerful Private Browsing
-Navegación privada más poderosa
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-Más protección que el modo Incognito o InPrivate.
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-Obtener mejor privacidad
-
-
-;More private
-Más privado
-
-
-;We don’t sell access to your online data. Period.
-Nosotros no vendemos acceso a tus datos en línea. Punto y final.
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-Obtén Firefox para más privacidad
-
-
-;Limited data collection
-Recolección de datos limitada
-
-
-;Opted-in to privacy, so you can browse freely.
-Escoge la privacidad para que puedas navegar con más libertad.
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-Lee nuestra política de privacidad
-
-
 ;Password Manager
 Administrador de contraseñas
 
 
-;Forget the reset. Save passwords and logins quickly.
-Olvídate del reinicio. Guarda rápidamente contraseñas e inicios de sesión.
+;Balanced memory usage
+Uso de memoria balanceado
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-Gestiona fácilmente tus inicios de sesión
-
-
-;Independence
-Independencia
-
-
-;By non-profit, Mozilla
-Hecho por Mozilla, una organización sin fines de lucro
-
-
-;Protecting the health of the internet.
-Proteger la salud del Internet.
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Leer la misión de Mozilla
+;Browse faster
+Navega más rápido
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ Siempre somos transparentes.
 Mira lo que nos hace diferentes
 
 
+;By non-profit, Mozilla
+Hecho por Mozilla, una organización sin fines de lucro
+
+
+;Protecting the health of the internet.
+Proteger la salud del Internet.
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Leer la misión de Mozilla
+
+
 ;Protect your rights
 Protege tus derechos
 
@@ -269,5 +105,31 @@ Ayudamos a mantener bajo control el poder de los corporativos.
 # Link to /firefox/features/independent
 ;Choose independence
 Escoge l'independencia
+
+
+;Limited data collection
+Recolección de datos limitada
+
+
+;Opted-in to privacy, so you can browse freely.
+Escoge la privacidad para que puedas navegar con más libertad.
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+Lee nuestra política de privacidad
+
+
+;More private
+Más privado
+
+
+;We don’t sell access to your online data. Period.
+Nosotros no vendemos acceso a tus datos en línea. Punto y final.
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+Obtén Firefox para más privacidad
 
 

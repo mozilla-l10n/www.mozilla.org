@@ -20,225 +20,48 @@ Firefox funkciók
 Fedezze fel a teljesen megújult Firefox funkcióit
 
 
-;Modern
-Modern {ok}
-
-
 ;Your favorite add-ons and extensions
 A kedvenc kiegészítői és bővítményei
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass és ezernyi más.
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-Szerezzen be nagy tudású kiegészítőket
 
 
 ;Customize your browser
 Szabja testre a böngészőjét
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-Tegye személyessé a Firefoxot, a témáktól kezdve az adatvédelmi eszközökig.
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Tegye a Firefoxot a sajátjává
-
-
-;Browse faster
-Böngésszen gyorsabban
-
-
-;Start faster, tab hop quicker, get more done.
-Induljon gyorsabban, váltson fürgébben a lapok közt, végezzen el több mindent.
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Végezzen el több mindent a Firefoxszal
-
-
 ;Sync between devices
 Szinkronizáljon az eszközök közt
-
-
-;Get your tabs, logins and history on the go.
-Vigye magával a lapjait, bejelentkezéseit és előzményeit.
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Használjon Firefoxot mindenhol
-
-
-;Tabs that travel
-Utazó lapok
-
-
-;View open tabs on any device.
-A megnyitott lapok minden eszközön látszanak.
-
-
-;Start sharing
-Megosztás indítása
-
-
-;Firefox for Android
-Firefox for Android {ok}
-
-
-;Our most customizable Firefox for Android yet.
-Az eddigi legjobban testre szabható Firefox for Android.
-
-
-# Link to /firefox/android
-;Take control of your browser
-Vegye át a böngészője irányítását
-
-
-;Firefox for iOS
-Firefox for iOS {ok}
-
-
-;The speed you need. The privacy you trust.
-A sebesség, amire szüksége van. Az adatvédelem, amiben megbízik.
-
-
-# Link to /firefox/ios
-;Go beyond the default
-Túl az alapértelmezetteken
 
 
 ;Firefox Test Pilot
 Firefox Tesztpilóta
 
 
-;Experimental features that can simplify your life.
-Kísérleti funkciók, melyek egyszerűsíthetik az életét.
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-Segítsen az új funkciók beindításában
-
-
-;Balanced memory usage
-Kiegyensúlyozott memóriahasználat
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-Böngésszen simán, és hagyjon memóriát bőségesen a többi programjának.
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-Gyorsítsa fel számítógépét
+;Tabs that travel
+Utazó lapok
 
 
 ;Better bookmarks
 Jobb könyvjelzők
 
 
-;Quickly save and organize your favorite sites.
-Mentse gyorsan, és rendszerezze kedvenc oldalait.
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-Szabja testre a könyvjelzőit
-
-
-;Privacy
-Adatvédelem
+;More powerful Private Browsing
+Még hatékonyabb privát böngészés
 
 
 ;Ad tracker blocking
 Reklámkövető blokkolás
 
 
-;Firefox Private Browsing blocks ads with trackers.
-A Firefox privát böngészése blokkolja a követőkkel rendelkező reklámokat.
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-Reklámkövetők blokkolása
-
-
-;More powerful Private Browsing
-Még hatékonyabb privát böngészés
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-Több védelem, mint az Inkognitó módban, vagy az InPrivate-ban.
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-Kapjon jobb adatvédelmet
-
-
-;More private
-Még privátabb
-
-
-;We don’t sell access to your online data. Period.
-Nem adjuk el az online adatait. Pont.
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-Szerezz be a Firefoxot az adatvédelem érdekében
-
-
-;Limited data collection
-Korlátozott adatgyűjtés
-
-
-;Opted-in to privacy, so you can browse freely.
-Az adatvédelmet tiszteletben tartva, így szabadon böngészhet.
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-Olvassa el az adatvédelmi nyilatkozatunkat
-
-
 ;Password Manager
 Jelszókezelő
 
 
-;Forget the reset. Save passwords and logins quickly.
-Felejtse el a helyreállítást. Mentse el gyorsan a jelszavakat és a bejelentkezéseket.
+;Balanced memory usage
+Kiegyensúlyozott memóriahasználat
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-Kezelje könnyedén a bejelentkezéseit
-
-
-;Independence
-Függetlenség
-
-
-;By non-profit, Mozilla
-A nonprofit Mozillától
-
-
-;Protecting the health of the internet.
-Védve az internet egészségét.
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Olvassa el a Mozilla küldetését
+;Browse faster
+Böngésszen gyorsabban
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ Mindig átláthatóak vagyunk.
 Nézze meg mi tesz minket különbözővé
 
 
+;By non-profit, Mozilla
+A nonprofit Mozillától
+
+
+;Protecting the health of the internet.
+Védve az internet egészségét.
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Olvassa el a Mozilla küldetését
+
+
 ;Protect your rights
 Védje a jogait
 
@@ -269,5 +105,31 @@ Segítünk ellenőrzés alatt tartani a vállalatbirodalmakat.
 # Link to /firefox/features/independent
 ;Choose independence
 Válassza a függetlenséget
+
+
+;Limited data collection
+Korlátozott adatgyűjtés
+
+
+;Opted-in to privacy, so you can browse freely.
+Az adatvédelmet tiszteletben tartva, így szabadon böngészhet.
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+Olvassa el az adatvédelmi nyilatkozatunkat
+
+
+;More private
+Még privátabb
+
+
+;We don’t sell access to your online data. Period.
+Nem adjuk el az online adatait. Pont.
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+Szerezz be a Firefoxot az adatvédelem érdekében
 
 

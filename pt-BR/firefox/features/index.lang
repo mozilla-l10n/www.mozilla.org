@@ -20,225 +20,48 @@ Recursos do Firefox
 Explore os recursos do novo navegador Firefox
 
 
-;Modern
-Moderno
-
-
 ;Your favorite add-ons and extensions
 Suas extensões favoritas
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass e milhares de outros.
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-Baixe extensões poderosas
 
 
 ;Customize your browser
 Personalize seu navegador
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-Personalize o Firefox com tudo que há entre temas e ferramentas de privacidade.
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Torne o Firefox seu
-
-
-;Browse faster
-Navegue rápido
-
-
-;Start faster, tab hop quicker, get more done.
-Inicie mais rápido, troque de abas com mais velocidade, faça mais.
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Faça mais com o Firefox
-
-
 ;Sync between devices
 Sincronização entre dispositivos
-
-
-;Get your tabs, logins and history on the go.
-Tenha suas abas, contas de acesso e histórico onde quer que vá.
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Use o Firefox em todos os lugares
-
-
-;Tabs that travel
-Abas que viajam
-
-
-;View open tabs on any device.
-Veja as abas abertas em qualquer dispositivo.
-
-
-;Start sharing
-Comece a compartilhar
-
-
-;Firefox for Android
-Firefox para Android
-
-
-;Our most customizable Firefox for Android yet.
-O Firefox para Android mais personalizável de todos os tempos.
-
-
-# Link to /firefox/android
-;Take control of your browser
-Assuma o controle do seu navegador
-
-
-;Firefox for iOS
-Firefox para iOS
-
-
-;The speed you need. The privacy you trust.
-A velocidade que você precisa. A privacidade que você confia.
-
-
-# Link to /firefox/ios
-;Go beyond the default
-Vá além do padrão
 
 
 ;Firefox Test Pilot
 Firefox Test Pilot {ok}
 
 
-;Experimental features that can simplify your life.
-Recursos experimentais que podem simplificar a sua vida.
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-Ajude a lançar novos recursos
-
-
-;Balanced memory usage
-Uso de memória equilibrada
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-Navegue suavemente e deixe muita memória livre para os programas do seu computador.
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-Acelere seu computador
+;Tabs that travel
+Abas que viajam
 
 
 ;Better bookmarks
 Favoritos melhores
 
 
-;Quickly save and organize your favorite sites.
-Salve e organize rapidamente seus sites favoritos.
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-Personalize seus favoritos
-
-
-;Privacy
-Privacidade
+;More powerful Private Browsing
+Navegação privativa mais poderosa
 
 
 ;Ad tracker blocking
 Bloqueio de rastreadores
 
 
-;Firefox Private Browsing blocks ads with trackers.
-A Navegação Privativa do Firefox bloqueia propagandas com rastreadores.
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-Bloquear rastreadores de anúncio
-
-
-;More powerful Private Browsing
-Navegação privativa mais poderosa
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-Mais proteção do que o modo incógnito ou InPrivate.
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-Tenha mais privacidade
-
-
-;More private
-Mais privativo
-
-
-;We don’t sell access to your online data. Period.
-Nós não vendemos acesso aos seus dados on-line. Ponto final.
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-Baixe o Firefox para ter privacidade
-
-
-;Limited data collection
-Coleta de dados limitada
-
-
-;Opted-in to privacy, so you can browse freely.
-Optamos pela privacidade, para que você possa navegar livremente.
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-Leia nossa política de privacidade
-
-
 ;Password Manager
 Gerenciador de senhas
 
 
-;Forget the reset. Save passwords and logins quickly.
-Deixe o Esqueci para lá. Salve senhas e contas de acesso rapidamente.
+;Balanced memory usage
+Uso de memória equilibrada
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-Gerencie suas contas de acesso facilmente
-
-
-;Independence
-Independência
-
-
-;By non-profit, Mozilla
-Pela organização sem fins lucrativos, Mozilla
-
-
-;Protecting the health of the internet.
-Protegendo a saúde da internet.
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Leia a missão da Mozilla
+;Browse faster
+Navegue rápido
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ Nós somos sempre transparentes.
 Veja o que nos torna diferente
 
 
+;By non-profit, Mozilla
+Pela organização sem fins lucrativos, Mozilla
+
+
+;Protecting the health of the internet.
+Protegendo a saúde da internet.
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Leia a missão da Mozilla
+
+
 ;Protect your rights
 Proteja seus direitos
 
@@ -269,5 +105,31 @@ Nós ajudamos a manter os poderes corporativos sob controle.
 # Link to /firefox/features/independent
 ;Choose independence
 Escolha a independência
+
+
+;Limited data collection
+Coleta de dados limitada
+
+
+;Opted-in to privacy, so you can browse freely.
+Optamos pela privacidade, para que você possa navegar livremente.
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+Leia nossa política de privacidade
+
+
+;More private
+Mais privativo
+
+
+;We don’t sell access to your online data. Period.
+Nós não vendemos acesso aos seus dados on-line. Ponto final.
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+Baixe o Firefox para ter privacidade
 
 

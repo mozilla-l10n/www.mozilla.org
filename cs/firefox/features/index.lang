@@ -20,225 +20,48 @@ Funkce Firefoxu
 Prozkoumejte funkce úplně nového Firefoxu
 
 
-;Modern
-Moderní
-
-
 ;Your favorite add-ons and extensions
 Vaše oblíbené doplňky a rozšíření
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass a tisíce dalších.
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-Získejte doplňky
 
 
 ;Customize your browser
 Přizpůsobte si svůj prohlížeč
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-Přizpůsobte si Firefox podle sebe - od motivů až po ochranu soukromí.
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Přizpůsobte si Firefox
-
-
-;Browse faster
-Prohlížejte rychleji
-
-
-;Start faster, tab hop quicker, get more done.
-Díky rychlejšímu startu a přepínání mezi panely toho zvládnete mnohem víc.
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Udělejte více s Firefoxem
-
-
 ;Sync between devices
 Synchronizace mezi zařízeními
-
-
-;Get your tabs, logins and history on the go.
-Mějte své panely, přihlašovací údaje a historii stále u sebe.
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Používejte Firefox všude
-
-
-;Tabs that travel
-Panely, které cestují
-
-
-;View open tabs on any device.
-Zobrazte si otevřené panely na jakémkoli zařízení.
-
-
-;Start sharing
-Začněte sdílet
-
-
-;Firefox for Android
-Firefox pro Android
-
-
-;Our most customizable Firefox for Android yet.
-Náš zatím nejpřizpůsobitelnější Firefox pro Android.
-
-
-# Link to /firefox/android
-;Take control of your browser
-Převezměte kontrolu nad svým prohlížečem
-
-
-;Firefox for iOS
-Firefox pro iOS
-
-
-;The speed you need. The privacy you trust.
-Rychlost, kterou potřebujete. Ochrana soukromí, které můžete věřit.
-
-
-# Link to /firefox/ios
-;Go beyond the default
-Nebojte se změnit výchozí nastavení
 
 
 ;Firefox Test Pilot
 Firefox Test Pilot {ok}
 
 
-;Experimental features that can simplify your life.
-Experimentální funkce, které vám ulehčí život.
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-Pomozte uvádět nové funkcích
-
-
-;Balanced memory usage
-Vyvážené využití paměti
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-Prohlížejte svižně a nechte dostatek paměti pro ostatní aplikace.
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-Zrychlete svůj počítač
+;Tabs that travel
+Panely, které cestují
 
 
 ;Better bookmarks
 Lepší záložky
 
 
-;Quickly save and organize your favorite sites.
-Ukládejte a organizujte své oblíbené stránky snadno a rychle.
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-Přizpůsobte své záložky
-
-
-;Privacy
-Soukromí
+;More powerful Private Browsing
+Schopnější anonymní prohlížení
 
 
 ;Ad tracker blocking
 Blokování sledovacích reklam
 
 
-;Firefox Private Browsing blocks ads with trackers.
-Anonymní prohlížení ve Firefoxu blokuje reklamy se sledovacími prvky.
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-Blokujte sledovací reklamní prvky
-
-
-;More powerful Private Browsing
-Schopnější anonymní prohlížení
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-Lepší ochrana než nabízí režim inkognito nebo režim InPrivate.
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-Získejte lepší ochranu soukromí
-
-
-;More private
-Více soukromí
-
-
-;We don’t sell access to your online data. Period.
-Neprodáváme přístup k vašim online údajům. Tečka.
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-Získejte Firefox kvůli soukromí
-
-
-;Limited data collection
-Omezený sběr dat
-
-
-;Opted-in to privacy, so you can browse freely.
-V bezpečí a v soukromí můžete prohlížet svobodně.
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-Přečtěte si naše prohlášení o zásadách ochrany osobních údajů.
-
-
 ;Password Manager
 Správce hesel
 
 
-;Forget the reset. Save passwords and logins quickly.
-Zapomeňte na obnovu. Uložte si svá hesla a přihlašovací jména.
+;Balanced memory usage
+Vyvážené využití paměti
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-Spravujte snadno své přihlašovací údaje
-
-
-;Independence
-Nezávislost
-
-
-;By non-profit, Mozilla
-Od neziskové organizace Mozilla
-
-
-;Protecting the health of the internet.
-Chráníme zdraví internetu.
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Přečtěte si o misi Mozilly
+;Browse faster
+Prohlížejte rychleji
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ Jsme vždy transparentní.
 V čem jsme rozdílní
 
 
+;By non-profit, Mozilla
+Od neziskové organizace Mozilla
+
+
+;Protecting the health of the internet.
+Chráníme zdraví internetu.
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Přečtěte si o misi Mozilly
+
+
 ;Protect your rights
 Chraňte svá práva
 
@@ -269,5 +105,31 @@ Pomáháme udržovat velké společnosti pod kontrolou.
 # Link to /firefox/features/independent
 ;Choose independence
 Zvolte nezávislost
+
+
+;Limited data collection
+Omezený sběr dat
+
+
+;Opted-in to privacy, so you can browse freely.
+V bezpečí a v soukromí můžete prohlížet svobodně.
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+Přečtěte si naše prohlášení o zásadách ochrany osobních údajů.
+
+
+;More private
+Více soukromí
+
+
+;We don’t sell access to your online data. Period.
+Neprodáváme přístup k vašim online údajům. Tečka.
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+Získejte Firefox kvůli soukromí
 
 

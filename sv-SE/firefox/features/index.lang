@@ -20,225 +20,48 @@ Funktioner i Firefox
 Utforska funktionerna i den helt nya webbläsaren Firefox
 
 
-;Modern
-Firefox erbjuder
-
-
 ;Your favorite add-ons and extensions
 Dina favorittillägg
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass och tusen fler.
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-Hämta kraftfulla tillägg
 
 
 ;Customize your browser
 Anpassa din webbläsare
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-Anpassa Firefox med allt från teman till sekretessverktyg.
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Gör Firefox till din
-
-
-;Browse faster
-Surfa snabbare
-
-
-;Start faster, tab hop quicker, get more done.
-Starta snabbare, hoppa snabbt mellan flikar, få mer gjort.
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Gör mer med Firefox
-
-
 ;Sync between devices
 Synkronisera mellan enheter
-
-
-;Get your tabs, logins and history on the go.
-Ta med dina flikar, inloggningar och historik.
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Använd Firefox överallt
-
-
-;Tabs that travel
-Flikar som följer med
-
-
-;View open tabs on any device.
-Se öppna flikar på valfri enhet.
-
-
-;Start sharing
-Börja dela
-
-
-;Firefox for Android
-Firefox för Android
-
-
-;Our most customizable Firefox for Android yet.
-Vår mest anpassningsbara Firefox för Android hittills.
-
-
-# Link to /firefox/android
-;Take control of your browser
-Ta kontroll över din webbläsare
-
-
-;Firefox for iOS
-Firefox för iOS
-
-
-;The speed you need. The privacy you trust.
-Hastigheten du behöver. Den personliga integriteten du litar på.
-
-
-# Link to /firefox/ios
-;Go beyond the default
-Gå bortom standardinställningarna
 
 
 ;Firefox Test Pilot
 Firefox Test Pilot {ok}
 
 
-;Experimental features that can simplify your life.
-Experimentella funktioner som kan förenkla ditt liv.
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-Hjälp till att lansera nya funktioner
-
-
-;Balanced memory usage
-Balanserad minnesanvändning
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-Bläddra smidigt och lämna mycket minne til dina datorprogram.
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-Snabba upp din dator
+;Tabs that travel
+Flikar som följer med
 
 
 ;Better bookmarks
 Bättre bokmärken
 
 
-;Quickly save and organize your favorite sites.
-Spara och organisera dina favoritplatser snabbt.
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-Anpassa dina bokmärken
-
-
-;Privacy
-Integritet
+;More powerful Private Browsing
+Mer kraftfull privat surfning
 
 
 ;Ad tracker blocking
 Annons-tracker blockering
 
 
-;Firefox Private Browsing blocks ads with trackers.
-Firefox privat surfning blockerar annonser med trackers.
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-Blockera annons-trackers
-
-
-;More powerful Private Browsing
-Mer kraftfull privat surfning
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-Mer skydd än inkognitoläge eller InPrivate.
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-Få bättre integritet
-
-
-;More private
-Mer privat
-
-
-;We don’t sell access to your online data. Period.
-Vi säljer inte tillgång till användardata. Punkt.
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-Hämta Firefox för integritet
-
-
-;Limited data collection
-Begränsad datainsamling
-
-
-;Opted-in to privacy, so you can browse freely.
-Välj integritet, så du kan surfa fritt.
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-Läs vår sekretesspolicy
-
-
 ;Password Manager
 Lösenordshanterare
 
 
-;Forget the reset. Save passwords and logins quickly.
-Glöm återställning av lösenord. Spara lösenord och inloggningar snabbt.
+;Balanced memory usage
+Balanserad minnesanvändning
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-Hantera enkelt dina inloggningar
-
-
-;Independence
-Oberoende
-
-
-;By non-profit, Mozilla
-Av den ideella organisationen Mozilla
-
-
-;Protecting the health of the internet.
-Skydda Internets hälsa.
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Läs Mozillas uppdrag
+;Browse faster
+Surfa snabbare
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ Vi är alltid öppna.
 Se vad som gör oss annorlunda
 
 
+;By non-profit, Mozilla
+Av den ideella organisationen Mozilla
+
+
+;Protecting the health of the internet.
+Skydda Internets hälsa.
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Läs Mozillas uppdrag
+
+
 ;Protect your rights
 Skydda dina rättigheter
 
@@ -269,5 +105,31 @@ Vi hjälper till att hålla företagens makt under kontroll.
 # Link to /firefox/features/independent
 ;Choose independence
 Välj fritthet
+
+
+;Limited data collection
+Begränsad datainsamling
+
+
+;Opted-in to privacy, so you can browse freely.
+Välj integritet, så du kan surfa fritt.
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+Läs vår sekretesspolicy
+
+
+;More private
+Mer privat
+
+
+;We don’t sell access to your online data. Period.
+Vi säljer inte tillgång till användardata. Punkt.
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+Hämta Firefox för integritet
 
 

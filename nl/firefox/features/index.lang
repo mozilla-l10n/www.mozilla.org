@@ -20,225 +20,48 @@ Firefox-functies
 Ontdek de functies van de volledig nieuwe Firefox-browser
 
 
-;Modern
-Modern {ok}
-
-
 ;Your favorite add-ons and extensions
 Uw favoriete add-ons en extensies
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass en nog duizenden andere.
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-Download krachtige add-ons
 
 
 ;Customize your browser
 Pas uw browser aan
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-Personaliseer Firefox met alles van thema’s tot privacyhulpmiddelen.
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-Maak Firefox persoonlijk
-
-
-;Browse faster
-Surf sneller
-
-
-;Start faster, tab hop quicker, get more done.
-Start vlugger op, spring sneller tussen tabbladen, krijg meer gedaan.
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-Doe meer met Firefox
-
-
 ;Sync between devices
 Synchroniseer tussen apparaten
-
-
-;Get your tabs, logins and history on the go.
-Neem uw tabbladen, aanmeldingen en geschiedenis mee.
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-Gebruik Firefox overal
-
-
-;Tabs that travel
-Tabbladen die reizen
-
-
-;View open tabs on any device.
-Bekijk open tabbladen op andere apparaten.
-
-
-;Start sharing
-Begin met delen
-
-
-;Firefox for Android
-Firefox voor Android
-
-
-;Our most customizable Firefox for Android yet.
-Onze meest aanpasbare Firefox voor Android tot nu toe.
-
-
-# Link to /firefox/android
-;Take control of your browser
-Neem uw browser in eigen hand
-
-
-;Firefox for iOS
-Firefox voor iOS
-
-
-;The speed you need. The privacy you trust.
-De nodige snelheid. De vertrouwde privacy.
-
-
-# Link to /firefox/ios
-;Go beyond the default
-Ga verder dan de standaard
 
 
 ;Firefox Test Pilot
 Firefox Test Pilot {ok}
 
 
-;Experimental features that can simplify your life.
-Experimentele functies die uw leven kunnen vereenvoudigen.
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-Help nieuwe functies te introduceren
-
-
-;Balanced memory usage
-Gebalanceerd geheugengebruik
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-Surf soepel en houd voldoende geheugen over voor uw computerprogramma’s.
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-Versnel uw computer
+;Tabs that travel
+Tabbladen die reizen
 
 
 ;Better bookmarks
 Betere bladwijzers
 
 
-;Quickly save and organize your favorite sites.
-Bewaar en orden snel uw favoriete websites.
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-Pas uw bladwijzers aan
-
-
-;Privacy
-Privacy {ok}
+;More powerful Private Browsing
+Krachtigere Privénavigatie
 
 
 ;Ad tracker blocking
 Blokkeren van advertentietrackers
 
 
-;Firefox Private Browsing blocks ads with trackers.
-Privénavigatie van Firefox blokkeert advertenties met trackers.
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-Blokkeer advertentietrackers
-
-
-;More powerful Private Browsing
-Krachtigere Privénavigatie
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-Meer bescherming dan Incognitomodus of InPrivate.
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-Ervaar betere privacy
-
-
-;More private
-Meer privé
-
-
-;We don’t sell access to your online data. Period.
-We verkopen geen toegang tot uw onlinegegevens. Punt.
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-Download Firefox voor privacy
-
-
-;Limited data collection
-Beperkte gegevensverzameling
-
-
-;Opted-in to privacy, so you can browse freely.
-Gekozen voor privacy, zodat u vrij kunt browsen.
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-Lees ons privacybeleid
-
-
 ;Password Manager
 Wachtwoordenbeheerder
 
 
-;Forget the reset. Save passwords and logins quickly.
-Vergeet de rest. Sla wachtwoorden en aanmeldingen snel op.
+;Balanced memory usage
+Gebalanceerd geheugengebruik
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-Beheer eenvoudig uw aanmeldingen
-
-
-;Independence
-Onafhankelijkheid
-
-
-;By non-profit, Mozilla
-Van Mozilla, een non-profitorganisatie
-
-
-;Protecting the health of the internet.
-Die de gezondheid van het internet beschermt.
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-Lees Mozilla’s missie
+;Browse faster
+Surf sneller
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ We zijn altijd transparant.
 Bekijk wat ons anders maakt
 
 
+;By non-profit, Mozilla
+Van Mozilla, een non-profitorganisatie
+
+
+;Protecting the health of the internet.
+Die de gezondheid van het internet beschermt.
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+Lees Mozilla’s missie
+
+
 ;Protect your rights
 Bescherm uw rechten
 
@@ -269,5 +105,31 @@ We helpen zakelijke grootmachten in bedwang te houden.
 # Link to /firefox/features/independent
 ;Choose independence
 Kies onafhankelijkheid
+
+
+;Limited data collection
+Beperkte gegevensverzameling
+
+
+;Opted-in to privacy, so you can browse freely.
+Gekozen voor privacy, zodat u vrij kunt browsen.
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+Lees ons privacybeleid
+
+
+;More private
+Meer privé
+
+
+;We don’t sell access to your online data. Period.
+We verkopen geen toegang tot uw onlinegegevens. Punt.
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+Download Firefox voor privacy
 
 

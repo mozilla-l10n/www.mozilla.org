@@ -20,225 +20,48 @@ Firefox 功能
 探索全新 Firefox 網頁瀏覽器的各種功能
 
 
-;Modern
-現代
-
-
 ;Your favorite add-ons and extensions
 您最愛的附加元件與擴充套件
-
-
-# These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
-;Adblock, Ublock, LastPass and thousands more.
-Adblock、Ublock、LastPass，以及其他數千套。
-
-
-# Links to https://addons.mozilla.org/firefox
-;Get powerful add-ons
-安裝威力強大的附加元件
 
 
 ;Customize your browser
 自訂瀏覽器
 
 
-;Personalize Firefox with everything from themes to privacy tools.
-不論是佈景主題，還是隱私保護工具，皆可用來個人化您的 Firefox。
-
-
-# Link to https://addons.mozilla.org/firefox/themes
-;Make Firefox yours
-讓 Firefox 有您的風格
-
-
-;Browse faster
-上網更快
-
-
-;Start faster, tab hop quicker, get more done.
-更快啟動、更快切換分頁、做好更多事。
-
-
-# Link to /firefox/features/fast
-;Do more with Firefox
-用 Firefox 做更多事
-
-
 ;Sync between devices
 在不同裝置間同步
-
-
-;Get your tabs, logins and history on the go.
-隨身帶著您的分頁、登入資訊與瀏覽紀錄。
-
-
-# Link to https://www-demo5.allizom.org/firefox/sync/
-;Use Firefox everywhere
-隨處使用 Firefox
-
-
-;Tabs that travel
-分頁跟著一起走
-
-
-;View open tabs on any device.
-在任何裝置上檢視開啟的分頁。
-
-
-;Start sharing
-開始分享
-
-
-;Firefox for Android
-Firefox for Android {ok}
-
-
-;Our most customizable Firefox for Android yet.
-有史以來最能自訂的 Firefox for Android。
-
-
-# Link to /firefox/android
-;Take control of your browser
-自行控制您的瀏覽器
-
-
-;Firefox for iOS
-Firefox for iOS {ok}
-
-
-;The speed you need. The privacy you trust.
-您最想要的速度、最能信任的隱私保護。
-
-
-# Link to /firefox/ios
-;Go beyond the default
-不只是預設功能
 
 
 ;Firefox Test Pilot
 Firefox Test Pilot {ok}
 
 
-;Experimental features that can simplify your life.
-體驗能夠讓生活更方便的實驗性功能。
-
-
-# Link to https://testpilot.firefox.com
-;Help launch new features
-幫助推出新功能
-
-
-;Balanced memory usage
-平衡記憶體使用情況
-
-
-;Browse smoothly and leave plenty of memory for your computer programs.
-順暢上網的同時，又留下足夠的記憶體給其他程式使用。
-
-
-# Link to /firefox/features/memory
-;Speed up your computer
-加速您的電腦
+;Tabs that travel
+分頁跟著一起走
 
 
 ;Better bookmarks
 更好的書籤
 
 
-;Quickly save and organize your favorite sites.
-快速儲存並整理您最愛的網站。
-
-
-# Link to /firefox/features/bookmarks
-;Customize your bookmarks
-自訂您的書籤
-
-
-;Privacy
-隱私權
+;More powerful Private Browsing
+威力更強大的隱私保護功能
 
 
 ;Ad tracker blocking
 封鎖廣告追蹤器
 
 
-;Firefox Private Browsing blocks ads with trackers.
-Firefox 的隱私瀏覽功能會封鎖廣告追蹤器。
-
-
-# Link to /firefox/features/private-browsing
-;Block ad trackers
-封鎖廣告追蹤器
-
-
-;More powerful Private Browsing
-威力更強大的隱私保護功能
-
-
-# Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
-;More protection than Incognito mode or InPrivate.
-比無痕模式或 InPrivate 還有更多保護。
-
-
-# Link to /firefox/features/private-browsing
-;Get better privacy
-更有隱私
-
-
-;More private
-更加隱私
-
-
-;We don’t sell access to your online data. Period.
-我們不會販賣您的上網資料，沒有例外。
-
-
-# Link to /firefox/features/private-browsing
-;Get Firefox for privacy
-為了隱私權，下載 Firefox
-
-
-;Limited data collection
-受限的資料收集。
-
-
-;Opted-in to privacy, so you can browse freely.
-主動保護隱私，讓您可自由上網。
-
-
-# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
-;Read our privacy policy
-閱讀我們的隱私權保護政策
-
-
 ;Password Manager
 密碼管理員
 
 
-;Forget the reset. Save passwords and logins quickly.
-別再重設密碼，快速存下密碼與登入資訊。
+;Balanced memory usage
+平衡記憶體使用情況
 
 
-# Link to /firefox/features/password-manager
-;Easily manage your logins
-輕鬆管理您的登入資訊
-
-
-;Independence
-獨立
-
-
-;By non-profit, Mozilla
-由非營利組織 Mozilla 打造
-
-
-;Protecting the health of the internet.
-保護網路的生態。
-
-
-# https://www.mozilla.org/mission/
-;Read Mozilla’s mission
-了解 Mozilla 的使命
+;Browse faster
+上網更快
 
 
 ;Firefox Product Benefits
@@ -258,6 +81,19 @@ Firefox 產品優勢
 看看是什麼東西讓我們與眾不同
 
 
+;By non-profit, Mozilla
+由非營利組織 Mozilla 打造
+
+
+;Protecting the health of the internet.
+保護網路的生態。
+
+
+# https://www.mozilla.org/mission/
+;Read Mozilla’s mission
+了解 Mozilla 的使命
+
+
 ;Protect your rights
 保護您的權利
 
@@ -269,5 +105,31 @@ Firefox 產品優勢
 # Link to /firefox/features/independent
 ;Choose independence
 獨立的選擇
+
+
+;Limited data collection
+受限的資料收集。
+
+
+;Opted-in to privacy, so you can browse freely.
+主動保護隱私，讓您可自由上網。
+
+
+# Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
+;Read our privacy policy
+閱讀我們的隱私權保護政策
+
+
+;More private
+更加隱私
+
+
+;We don’t sell access to your online data. Period.
+我們不會販賣您的上網資料，沒有例外。
+
+
+# Link to /firefox/features/private-browsing
+;Get Firefox for privacy
+為了隱私權，下載 Firefox
 
 

@@ -1,3 +1,4 @@
+## disconnect_link ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/mobile/
 ## URL: https://www-dev.allizom.org/%LOCALE%/firefox/mobile/
 
@@ -109,6 +110,12 @@ Stops ads that track and follow you around the Internet.
 
 ;Won’t remember your browsing history or save cookies after you’re done.
 Won’t remember your browsing history or save cookies after you’re done.
+
+
+## TAG: disconnect_link
+# Links to https://disconnect.me/
+;Built-in tracking protection and block lists provided by <a href="%(url)s">Disconnect</a>.
+Built-in tracking protection and block lists provided by <a href="%(url)s">Disconnect</a>.
 
 
 ;Extensions & Customization

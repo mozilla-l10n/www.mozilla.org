@@ -25,7 +25,7 @@ Here are three areas where we can make a difference.
 
 # This is a navigation link
 ;User Control
-User Control
+Brukarkontroll
 
 
 # This is a navigation link
@@ -61,7 +61,7 @@ Source: <a href="%(pew)s" rel="external">Pew Research Center</a>, May 2015
 
 # This is used as a decorative element in a callout box.
 ;91%
-91%
+91% {ok}
 
 
 ;What you can do about user control
@@ -139,7 +139,7 @@ Source: Wikipedia, <a href="%(wiki)s" rel="external">List of data breaches</a>, 
 
 # This is an abbreviation for the number "1 billion" used as decoration in a callout box. Make it short.
 ;1B
-1B
+1B {ok}
 
 
 ;What you can do about cyber security
@@ -147,7 +147,7 @@ What you can do about cyber security
 
 
 ;Choose strong passwords
-Choose strong passwords
+Vel sterke passord
 
 
 ;<a href="%(strongpass)s" rel="external">Choose strong, unique pins and passwords</a>, and use a <a href="%(passmanager)s" rel="external">password manager</a>. (Note: we haven’t tried them all – see what works for you.)
@@ -167,7 +167,7 @@ What Mozilla is doing about cyber security
 
 
 ;Supporting encryption
-Supporting encryption
+Støttar kryptering
 
 
 ;Educating about the value of <a href="%(codemoji)s" rel="external">encryption</a>, and advocating for its <a href="%(letsencrypt)s" rel="external">universal adoption</a>.
@@ -196,12 +196,12 @@ Just four in 10 (38%) of internet users trust that their activities on the inter
 
 # Centre for International Governance Innovation is an organization.
 ;Source: <a href="%(cigi)s" rel="external"><abbr title="Centre for International Governance Innovation">CIGI</abbr>-Ipsos, 2016</a>
-Source: <a href="%(cigi)s" rel="external"><abbr title="Centre for International Governance Innovation">CIGI</abbr>-Ipsos, 2016</a>
+Kjelde: <a href="%(cigi)s" rel="external"><abbr title="Centre for International Governance Innovation">CIGI</abbr>-Ipsos, 2016</a>
 
 
 # This is used as a decorative element in a callout box.
 ;38%
-38%
+38% {ok}
 
 
 ;What you can do about government surveillance
@@ -209,7 +209,7 @@ What you can do about government surveillance
 
 
 ;Encrypt your data
-Encrypt your data
+Krypter dataa dine
 
 
 ;Choose apps that keep your conversations encrypted. <a href="%(encryptedapps)s" rel="external">Here’s a list</a>.

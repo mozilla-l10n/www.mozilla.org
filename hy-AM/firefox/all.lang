@@ -36,7 +36,13 @@
 Դուք փրձառու օգտագործո՞ղ եք՝ տեղադրելու համար նախա alpha ծրագիրը: ՏԵղադրեք Nightly-ին և օգնեք մեզ լավարկել Firefox-ի որակը, հայտնաբերել վթարներ և անկումներ ու թեստավորել նոր յուրահատկություններ, ինչպես որ դրանք գրվել են:
 
 
-# This is displayed on firefox/organizations/all/.
+# This is displayed on firefox/organizations/all/
+;Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+
+
+# The string is obsolete. Do not remove.
+# This is displayed on firefox/organizations/all/
 ;Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
 Firefox ESR-ը նախատեսված է խմբերի համար, որոնք գործադրում և աջակցում են աշխատասեղանի միջավայր՝ մեծ ընկերություններում: <a href="%s">Իմանալ ավելին:</a>
 

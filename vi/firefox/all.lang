@@ -36,7 +36,13 @@ Tải %s dùng ngôn ngữ của bạn để tìm hiểu những tính năng và
 Bạn có phải là người dùng chuyên nghiệp, sãn sàng cài các phần mềm phiên bản trước alpha? Cài đặt bản Nightly và giúp chúng tôi cải thiện chất lượng Firefox, tìm kiếm các lỗi gây ra sự đổ vỡ và các lỗi hồi quy, và kiểm tra các tính năng mới của phần mềm!
 
 
-# This is displayed on firefox/organizations/all/.
+# This is displayed on firefox/organizations/all/
+;Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+
+
+# The string is obsolete. Do not remove.
+# This is displayed on firefox/organizations/all/
 ;Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
 Firefox ESR dành cho nhóm người triển khai và duy trì môi trường làm việc trong các tổ chức lớn. <a href="%s">Tìm hiểu thêm.</a>
 

@@ -36,7 +36,13 @@
 آیا شما کاربر قدرت مندی هستید که با نصب نسخه قبل از آزمایشی نرم افزار راحت است؟ Nightly را نصب کنید و به ما در بهبود کیفیت فایرفاکس کمک کنید،‌ خرابی ها و پسرفت ها را شکار کنید و ویژیگی های جدید را به محض کد شدن تست کنید!
 
 
-# This is displayed on firefox/organizations/all/.
+# This is displayed on firefox/organizations/all/
+;Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+
+
+# The string is obsolete. Do not remove.
+# This is displayed on firefox/organizations/all/
 ;Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
 فایرفاکسESRبرای گروهی در نظر گرفته شده است که پیاده سازی و نگه داری محیط های دستکتاپ را در تشکیلات بزرگ انجام می دهند.<a href="%s"> بیشتر بدانید.</a>
 

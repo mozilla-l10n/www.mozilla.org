@@ -36,7 +36,13 @@ Firefox Beta 언어별 버전을 다운로드하여 최신 기능을 정식 출�
 최신 기능을 미리 테스트해 보는 고급 개발자들은 Firefox 나이틀리(Nightly)버전을 통해 코드 크래시 및 문제 발생 현상을 테스트하고 새로운 기능을 테스트 할 수 있습니다!
 
 
-# This is displayed on firefox/organizations/all/.
+# This is displayed on firefox/organizations/all/
+;Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+
+
+# The string is obsolete. Do not remove.
+# This is displayed on firefox/organizations/all/
 ;Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
 Firefox ESR 은 대형 조직에서 데스크톱 환경을 배포하고 유지 관리하는 그룹을 대상으로합니다. <a href="%s">자세히 알아보기</a>
 

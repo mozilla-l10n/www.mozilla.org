@@ -36,7 +36,13 @@
 هل أنت مستخدم متقدم تنصّب البرمجيات ما قبل مرحلة ألفا؟ نصّب النسخة الليلية و ساعدنا في تحسين جودة فَيَرفُكس، و اكتشاف الانهيارات و الترجعات، و اختيار الخصائص الجديدة بمجرد تطويرها.
 
 
-# This is displayed on firefox/organizations/all/.
+# This is displayed on firefox/organizations/all/
+;Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+
+
+# The string is obsolete. Do not remove.
+# This is displayed on firefox/organizations/all/
 ;Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
 إصدارة الدعم الطويل من فَيَرفُكس موجهة لمن يشرفون على بيئات سطح المكتب في المؤسسات الكبيرة. <a href="%s">اطّلع على المزيد.</a>
 

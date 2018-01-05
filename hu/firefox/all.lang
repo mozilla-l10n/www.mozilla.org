@@ -36,7 +36,13 @@ Töltse le a %sot a saját nyelvén, és tapasztalja meg a legfrissebb funkciók
 Gyakorlott felhasználó, aki nyugodtan telepít alfa változat előtti szoftvereket? Telepítse a Nightlyt, és segítsen a Firefox minőségének javításában, vadásszon összeomlásokat és regressziókat, valamint tesztelje az új funkciókat, amint azokat lekódolták!
 
 
-# This is displayed on firefox/organizations/all/.
+# This is displayed on firefox/organizations/all/
+;Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+
+
+# The string is obsolete. Do not remove.
+# This is displayed on firefox/organizations/all/
 ;Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
 A Firefox ESR-t olyan csoportoknak szánjuk, akik asztali környezeteket telepítenek és tartanak karban nagy szervezeteknél. <a href="%s">Tudjon meg többet.</a>
 

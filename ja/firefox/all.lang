@@ -36,7 +36,13 @@
 あなたがプレアルファ版ソフトウェアのインストールをいとわないパワーユーザーなら、Nightly をインストールして、Firefox の品質を高め、クラッシュやリグレッションを特定し、開発の最前線で新機能をテストする作業にご協力を。
 
 
-# This is displayed on firefox/organizations/all/.
+# This is displayed on firefox/organizations/all/
+;Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+
+
+# The string is obsolete. Do not remove.
+# This is displayed on firefox/organizations/all/
 ;Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
 Firefox ESR は、大規模な組織内でデスクトップ環境を集中管理している部署向けに提供されています。<a href="%s">ESR の詳細はこちら</a>
 

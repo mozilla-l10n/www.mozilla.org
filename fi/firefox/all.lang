@@ -36,7 +36,13 @@ Lataa %s omalla kielelläsi ja koe uusimmat ominaisuudet sekä innovaatiot epäv
 Oletko tehokäyttäjä, joka asentaa huoletta alfaversiotakin epävakaampia ohjelmia? Asenna Nightly ja auta meitä parantamaan Firefoxin laatua, jahtaamaan kaatumisia ja regressioita sekä testaamaan uusia ominaisuuksia sitä mukaa, kun niitä koodataan!
 
 
-# This is displayed on firefox/organizations/all/.
+# This is displayed on firefox/organizations/all/
+;Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+
+
+# The string is obsolete. Do not remove.
+# This is displayed on firefox/organizations/all/
 ;Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
 Firefox ESR on tarkoitettu ryhmille, jotka asentavat ja ylläpitävät isojen organisaatioiden työpöytäympäristöjä. <a href="%s">Lue lisää.</a>
 

@@ -36,7 +36,13 @@ Baixe o %s no seu idioma para experimentar os mais novos recursos e inovações 
 Você é um usuário avançado confortável em instalar software pré-alfa? Instale o Nightly e ajude-nos a melhorar a qualidade do Firefox, caçar falhas e regressões e testar novos recursos enquanto eles estão sendo programados!
 
 
-# This is displayed on firefox/organizations/all/.
+# This is displayed on firefox/organizations/all/
+;Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+
+
+# The string is obsolete. Do not remove.
+# This is displayed on firefox/organizations/all/
 ;Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
 O Firefox ESR destina-se a grupos que implantam e mantêm o ambiente de trabalho em grandes organizações. <a href="%s">Saiba mais.</a>
 

@@ -36,7 +36,13 @@
 您是愿意尝试比 alpha 还早期的测试版软件的极客吗？欢迎安装 Nightly（每夜）版，帮助我们改善 Firefox 的品质，寻猎各种错误，并且率先体验刚写好的新功能！
 
 
-# This is displayed on firefox/organizations/all/.
+# This is displayed on firefox/organizations/all/
+;Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+
+
+# The string is obsolete. Do not remove.
+# This is displayed on firefox/organizations/all/
 ;Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
 Firefox ESR 是适用于大型组织的桌面环境中部署和维护的版本。<a href="%s">详细了解</a>。
 

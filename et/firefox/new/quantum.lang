@@ -94,6 +94,11 @@ Teises keeles allalaadimine
 Teeme ära!
 
 
+;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+
+
+# Obsolete string, DO NOT REMOVE
 ;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
 Allalaadimine peaks algama automaatselt. Kui seda ei juhtu, <a id="%(id)s" href="%(fallback_url)s">klõpsa siia</a>.
 
@@ -154,10 +159,20 @@ Tõeliselt privaatne veebilehitsemine jälitamisvastase kaitsega
 Tere tulemast Firefoxi
 
 
+;Take Firefox with You
+Take Firefox with You
+
+
+;Get your bookmarks, history, passwords and other settings on all your devices.
+Get your bookmarks, history, passwords and other settings on all your devices.
+
+
+# Obsolete string, DO NOT REMOVE
 ;Already using Firefox?
 Kasutad juba Firefoxi?
 
 
+# Obsolete string, DO NOT REMOVE
 ;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
 Logi sisse ja me sünkroonime su järjehoidjad, paroolid ja muu suurepärase, mille oled Firefoxi teistel seadmetel salvestanud.
 

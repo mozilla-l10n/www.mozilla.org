@@ -94,6 +94,11 @@ Firefox สำหรับแพลตฟอร์มและภาษาอื
 เริ่มกันเลย
 
 
+;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+
+
+# Obsolete string, DO NOT REMOVE
 ;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
 จะเริ่มดาวน์โหลดอัตโนมัติ หากยังไม่เริ่ม<a id="%(id)s" href="%(fallback_url)s">คลิกที่นี่</a>
 
@@ -154,10 +159,20 @@ Firefox ที่ดีที่สุดเท่าที่เคยมีม
 ยินดีต้อนรับสู่ Firefox
 
 
+;Take Firefox with You
+Take Firefox with You
+
+
+;Get your bookmarks, history, passwords and other settings on all your devices.
+Get your bookmarks, history, passwords and other settings on all your devices.
+
+
+# Obsolete string, DO NOT REMOVE
 ;Already using Firefox?
 ใช้ Firefox อยู่แล้วหรือ ?
 
 
+# Obsolete string, DO NOT REMOVE
 ;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
 ลงชื่อเข้าใช้บัญชีของคุณและเราจะชิงค์ที่คั่นหน้า รหัสผ่านและสิ่งดี ๆ อื่น ๆ ที่คุณบันทึกไว้ใน Firefox บนอุปกรณ์อื่น ๆ
 

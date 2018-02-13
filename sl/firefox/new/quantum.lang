@@ -94,6 +94,11 @@ Prenesite v drugem jeziku
 Pa dajmo!
 
 
+;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+
+
+# Obsolete string, DO NOT REMOVE
 ;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
 Prenos bi se moral začeti samodejno. Če se ne, <a id="%(id)s" href="%(fallback_url)s">kliknite tukaj</a>.
 
@@ -154,10 +159,20 @@ Resnično zasebno brskanje z zaščito pred sledenjem
 Dobrodošli v Firefoxu
 
 
+;Take Firefox with You
+Take Firefox with You
+
+
+;Get your bookmarks, history, passwords and other settings on all your devices.
+Get your bookmarks, history, passwords and other settings on all your devices.
+
+
+# Obsolete string, DO NOT REMOVE
 ;Already using Firefox?
 Že uporabljate Firefox?
 
 
+# Obsolete string, DO NOT REMOVE
 ;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
 Prijavite se v svoj račun in sinhronizirali bomo zaznamke, gesla in druge stvari, ki ste jih shranili v Firefoxu na ostalih napravah.
 

@@ -94,6 +94,11 @@ Télécharger dans une autre langue
 C’est parti !
 
 
+;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+
+
+# Obsolete string, DO NOT REMOVE
 ;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
 Votre téléchargement devrait commencer automatiquement. Si ce n’est pas le cas, <a id="%(id)s" href="%(fallback_url)s">cliquez ici</a>.
 
@@ -154,10 +159,20 @@ Une navigation résolument privée avec la protection contre le pistage
 Bienvenue dans Firefox
 
 
+;Take Firefox with You
+Take Firefox with You
+
+
+;Get your bookmarks, history, passwords and other settings on all your devices.
+Get your bookmarks, history, passwords and other settings on all your devices.
+
+
+# Obsolete string, DO NOT REMOVE
 ;Already using Firefox?
 Vous utilisez déjà Firefox ?
 
 
+# Obsolete string, DO NOT REMOVE
 ;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
 Connectez-vous à votre compte et nous synchroniserons les marque-pages, mots de passe et les autres choses que vous conservez dans Firefox sur d’autres appareils.
 

@@ -93,6 +93,11 @@ Download for other platforms & languages
 지금 시작하세요!
 
 
+;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+
+
+# Obsolete string, DO NOT REMOVE
 ;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
 자동으로 다운로드가 시작됩니다. 그렇지 않으면, <a id="%(id)s" href="%(fallback_url)s">여기를</a> 클릭하세요.
 
@@ -153,10 +158,20 @@ Chrome보다 30% 더 적은 메모리 사용
 Firefox를 선택해 주셔서 감사합니다
 
 
+;Take Firefox with You
+Take Firefox with You
+
+
+;Get your bookmarks, history, passwords and other settings on all your devices.
+Get your bookmarks, history, passwords and other settings on all your devices.
+
+
+# Obsolete string, DO NOT REMOVE
 ;Already using Firefox?
 Firefox를 사용하고 계신가요?
 
 
+# Obsolete string, DO NOT REMOVE
 ;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
 계정에 로그인하셔서 북마크, 암호 및 다른 정보들을 Firefox가 설치된 모든 기기에서 동기화 하고,이를 손쉽게 활용 가능합니다.
 

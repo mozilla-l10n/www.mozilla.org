@@ -94,6 +94,11 @@ Stáhnout v jiném jazyce
 Pojďme na to!
 
 
+;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+
+
+# Obsolete string, DO NOT REMOVE
 ;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
 Stahování by mělo automaticky začít během několika sekund. Pokud ne, <a id="%(id)s" href="%(fallback_url)s">klepněte zde</a>.
 
@@ -154,10 +159,20 @@ Skutečně anonymní prohlížení s ochranou proti sledování
 Vítejte ve Firefoxu
 
 
+;Take Firefox with You
+Take Firefox with You
+
+
+;Get your bookmarks, history, passwords and other settings on all your devices.
+Get your bookmarks, history, passwords and other settings on all your devices.
+
+
+# Obsolete string, DO NOT REMOVE
 ;Already using Firefox?
 Už Firefox používáte?
 
 
+# Obsolete string, DO NOT REMOVE
 ;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
 Přihlaste se do svého účtu a my zařídíme, že se synchronizují záložky, hesla a další skvělé věci, které jste uložili do Firefoxu na jiných zařízeních.
 

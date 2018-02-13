@@ -94,6 +94,11 @@ Töltse le egy másik nyelven
 Csináljuk!
 
 
+;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+
+
+# Obsolete string, DO NOT REMOVE
 ;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
 A letöltése automatikusan el kell induljon. Ha nem, akkor <a id="%(id)s" href="%(fallback_url)s">kattintson ide</a>.
 
@@ -154,10 +159,20 @@ Valóban privát böngészés, követés elleni védelemmel
 Üdvözli a Firefox
 
 
+;Take Firefox with You
+Take Firefox with You
+
+
+;Get your bookmarks, history, passwords and other settings on all your devices.
+Get your bookmarks, history, passwords and other settings on all your devices.
+
+
+# Obsolete string, DO NOT REMOVE
 ;Already using Firefox?
 Már Firefoxot használ?
 
 
+# Obsolete string, DO NOT REMOVE
 ;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
 Jelentkezzen be a fiókjába, és szinkronizáljuk a könyvjelzőit, jelszavat és egyéb dolgait, amit más eszközein mentett a Firefoxba.
 

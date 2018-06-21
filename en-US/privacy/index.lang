@@ -1,5 +1,6 @@
+## updates-052018 ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/
-## URL: https://www-dev.allizom.org/%LOCALE%/privacy/tips
+## URL: https://www-dev.allizom.org/%LOCALE%/privacy/
 
 ;Mozilla Privacy
 Mozilla Privacy
@@ -17,6 +18,12 @@ If you want to make a correction to your information, or you have any questions 
 Data Privacy Principles
 
 
+## TAG: updates-052018
+# Links to https://www.mozilla.org/privacy/faq/
+;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="{{ faq }}">FAQ</a>.
+Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="{{ faq }}">FAQ</a>.
+
+# This string is obsolete. Do not remove.
 ;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
 Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
 
@@ -71,4 +78,3 @@ Show Less
 # Used in sub-pages to return to the main index https://www.mozilla.org/privacy
 ;Back to Mozilla Privacy Policy
 Back to Mozilla Privacy Policy
-

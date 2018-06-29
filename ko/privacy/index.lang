@@ -17,14 +17,30 @@ Mozilla 연락하기
 데이터 개인 정보 원칙
 
 
+# Links to https://www.mozilla.org/privacy/faq/
+;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+
+
+# This string is obsolete. Do not remove.
 ;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
 Mozilla는 인터넷 경험을 향상시키기 위한 사명을 가진 오픈 소스 프로젝트입니다. 우리으 데이터 개인 정보 원칙에 따라 수행되며 <a href=%(link)s">여기</a>에서 자세히 보실 수 있습니다.
 
 
+;Privacy Notices
+Privacy Notices
+
+
+# This string is obsolete. Do not remove.
 ;Our Privacy Notices
 개인 정보 고지
 
 
+;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+
+
+# This string is obsolete. Do not remove.
 ;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
 각 제품및 서비스가 어떻게 여러분의 선택에 따라 데이터를 받고 사용하는지 명쾌하고 짧은 개인 정보 고지를 통해 보실 수 있습니다.:
 
@@ -37,18 +53,32 @@ Mozilla 웹 사이트, 커뮤니케이셤 및 쿠키
 Firefox 브라우저
 
 
-;Firefox + Cliqz
-Firefox + Cliqz {ok}
+;Firefox for Fire TV
+Firefox for Fire TV
 
 
-;Firefox Cloud Services
-Firefox 클라우드 서비스
+;Transparency Report
+Transparency Report
 
 
+;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+
+
+;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+
+
+# This string is obsolete. Do not remove.
 ;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
 개인 정보 보호 정책 변화에 대한 고지나 변경 사항을 살펴보시거나 피드백을 주실려면 <a href="%(group)s">Mozilla 거버넌스 그룹</a>에 가입하십시오.
 
 
+;Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+
+
+# This string is obsolete. Do not remove.
 ;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
 개인 정보에 대한 다양한 활동들은 <a href="%(blog)s">개인 정보 및 보안 블로그</a>를 참고하시고 <a href="%(wiki)s">Mozilla 개인 정보 팀 위키</a>를 통해 진행 사항을 확인하십시오.
 

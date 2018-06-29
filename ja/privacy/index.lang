@@ -17,14 +17,30 @@ Mozilla とプライバシー
 データプライバシーの原則
 
 
+# Links to https://www.mozilla.org/privacy/faq/
+;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+
+
+# This string is obsolete. Do not remove.
 ;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
 Mozilla はユーザーのウェブ体験をより良いものにすることをミッションに活動しているオープンソースのプロジェクトです。このミッションは、私たちがユーザーのデータプライバシーを厳しく守る原動力となっています。<a href="%(link)s">詳しく見る</a>
 
 
+;Privacy Notices
+Privacy Notices
+
+
+# This string is obsolete. Do not remove.
 ;Our Privacy Notices
 プライバシーに関する通知
 
 
+;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+
+
+# This string is obsolete. Do not remove.
 ;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
 Mozilla が提供する製品やサービスのプライバシーに関する通知を用意しました。各通知には、それぞれの製品やサービスがどのようにデータを収取・共有・使用するかが簡潔にまとめられており、それに対してユーザーが取れる行動が記されています。詳しくは以下のページをご覧ください。
 
@@ -37,18 +53,32 @@ Mozilla が提供する製品やサービスのプライバシーに関する通
 Firefox ブラウザー
 
 
-;Firefox + Cliqz
-Firefox + Cliqz {ok}
+;Firefox for Fire TV
+Firefox for Fire TV
 
 
-;Firefox Cloud Services
-Firefox クラウドサービス
+;Transparency Report
+Transparency Report
 
 
+;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+
+
+;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+
+
+# This string is obsolete. Do not remove.
 ;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
 Mozilla の<a href="%(group)s">ガバナンスグループ</a>に参加して、プライバシポリシーの変更案のレビューをしませんか。
 
 
+;Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+
+
+# This string is obsolete. Do not remove.
 ;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
 Mozilla のプライバシーに関する継続的な活動は<a href="%(blog)s">こちらのブログ</a>でご覧になれます。また Mozilla の<a href="%(wiki)s">プライバシーチームの Wiki</a> にも詳しい情報があります。
 

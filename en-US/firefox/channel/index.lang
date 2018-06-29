@@ -3,6 +3,7 @@
 ## firefox_title_meta_bug1345338 ##
 ## firefox_title_meta_bug1357373 ##
 ## nightly_description_bug1375100 ##
+## privacy_201806 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 ## URL: https://www-demo1.allizom.org/%LOCALE%/firefox/channel/
 
@@ -98,6 +99,12 @@ Help determine what features will go into the next Firefox for Android.
 Firefox Aurora automatically sends feedback to Mozilla.
 
 
+## TAG: privacy_201806
+;Beta is an unstable testing and development platform. By default, Beta sends data to Mozilla — and sometimes our partners — to help us handle problems and try ideas. <a href="%(link)s">Learn what is shared</a>.
+Beta is an unstable testing and development platform. By default, Beta sends data to Mozilla — and sometimes our partners — to help us handle problems and try ideas. <a href="%(link)s">Learn what is shared</a>.
+
+
+# The string is obsolete. Do not remove.
 ;Firefox Beta automatically sends feedback to Mozilla.
 Firefox Beta automatically sends feedback to Mozilla.
 
@@ -142,6 +149,12 @@ All Languages and Builds (incl. Win 64)
 Build, test, scale and more with the only browser built just for developers.
 
 
+## TAG: privacy_201806
+;Developer Edition is an unstable testing and development platform. By default, Developer Edition sends data to Mozilla  — and sometimes our partners — to help us handle problems and try ideas. <a href="%(link)s">Learn what is shared</a>.
+Developer Edition is an unstable testing and development platform. By default, Developer Edition sends data to Mozilla  — and sometimes our partners — to help us handle problems and try ideas. <a href="%(link)s">Learn what is shared</a>.
+
+
+# The string is obsolete. Do not remove.
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
 Firefox Developer Edition automatically sends feedback to Mozilla.
 
@@ -161,6 +174,12 @@ Get a sneak peek at our next generation web browser, and help us make it the bes
 Test brand new features daily (or… nightly). Enjoy at your own risk.
 
 
+## TAG: privacy_201806
+;Nightly is an unstable testing and development platform. By default, Nightly sends data to Mozilla — and sometimes our partners — to help us handle problems and try ideas. <a href="{%(link)s">Learn what is shared</a>.
+Nightly is an unstable testing and development platform. By default, Nightly sends data to Mozilla — and sometimes our partners — to help us handle problems and try ideas. <a href="{%(link)s">Learn what is shared</a>.
+
+
+# The string is obsolete. Do not remove.
 ;Firefox Nightly automatically sends feedback to Mozilla.
 Firefox Nightly automatically sends feedback to Mozilla.
 

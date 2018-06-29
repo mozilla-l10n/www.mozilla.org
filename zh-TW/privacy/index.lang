@@ -17,14 +17,30 @@ Mozilla 隱私權
 隱私資料處理原則
 
 
+# Links to https://www.mozilla.org/privacy/faq/
+;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+
+
+# This string is obsolete. Do not remove.
 ;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
 Mozilla 是一個使命為要改善您的上網體驗的開放原始碼專案。這是我們的對於隱私資料處理方式的傳動力。<a href="%(link)s">了解更多</a>
 
 
+;Privacy Notices
+Privacy Notices
+
+
+# This string is obsolete. Do not remove.
 ;Our Privacy Notices
 我們的隱私權布告
 
 
+;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+
+
+# This string is obsolete. Do not remove.
 ;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
 我們撰寫了簡短的隱私權布告，讓您可了解各個產品與服務如何取得、分享、使用您的資料，您又有那些選擇。了解更多資訊:
 
@@ -37,18 +53,32 @@ Mozilla 網站、電子報與 Cookie
 Firefox 瀏覽器
 
 
-;Firefox + Cliqz
-Firefox + Cliqz {ok}
+;Firefox for Fire TV
+Firefox for Fire TV
 
 
-;Firefox Cloud Services
-Firefox 雲端服務
+;Transparency Report
+Transparency Report
 
 
+;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+
+
+;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+
+
+# This string is obsolete. Do not remove.
 ;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
 請 <a href="%(group)s">訂閱 Mozilla 的 Governance 討論群組</a> 以在提出修改時加入審查與留言。
 
 
+;Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+
+
+# This string is obsolete. Do not remove.
 ;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
 我們最新的工作進度會在 <a href="%(blog)s">Privacy &amp; Data Safety 部落格</a> 揭露，您也可以在 <a href="%(wiki)s">Mozilla 隱私權團隊的 wiki 頁面</a> 取得相關資訊。
 

@@ -17,14 +17,30 @@ Nëse doni të bëni ndonjë saktësim te të dhënat tuaja, ose keni ndonjë py
 Parime Privatësie të Dhënash
 
 
+# Links to https://www.mozilla.org/privacy/faq/
+;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+
+
+# This string is obsolete. Do not remove.
 ;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
 Mozilla është projekt me burim të hapur, me misionin e përmirësimit të punimit tuaj në Internet. Kjo është një nga shtysat për praktika privatësie të dhënash. <a href="%(link)s">Lexoni Më Tepër</a>
 
 
+;Privacy Notices
+Privacy Notices
+
+
+# This string is obsolete. Do not remove.
 ;Our Privacy Notices
 Shënimet Tona Mbi Privatësinë
 
 
+;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+
+
+# This string is obsolete. Do not remove.
 ;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
 Kemi krijuar Shënime Privatësie, të shkurtra dhe të qarta, për të përshkruar se si i grumbullojnë, shkëmbejnë dhe përdorin të dhënat secili prej produkteve dhe shërbimeve tona, dhe cilat janë zgjedhjet tuaja. Mësoni më tepër:
 
@@ -37,18 +53,32 @@ Sajte, Komunikime &amp; Cookies te Mozilla
 Shfletuesi Firefox
 
 
-;Firefox + Cliqz
-Firefox + Cliqz{ok}
+;Firefox for Fire TV
+Firefox for Fire TV
 
 
-;Firefox Cloud Services
-Shërbimet Re Firefox
+;Transparency Report
+Transparency Report
 
 
+;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+
+
+;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+
+
+# This string is obsolete. Do not remove.
 ;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
 Për shqyrtime dhe komente ndryshimesh të propozuara lidhur me rregullat tona të privatësisë <a href="%(group)s"> pajtohuni te Mozilla’s Governance Group</a>.
 
 
+;Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+
+
+# This string is obsolete. Do not remove.
 ;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
 Puna jonë e vazhdueshme mbi privatësinë mbulohet nga <a href="%(blog)s">Blogu mbi Privatësinë &amp; Sigurinë e të Dhënave</a>; informacion mbi punën tonë të vazhdueshme keni te faqja <a href="%(wiki)s"> wiki e ekipit të privatësisë te Mozilla </a>.
 

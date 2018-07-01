@@ -87,32 +87,32 @@ Baiklah, itu soalan mudah. Apakah data yang syarikat kumpulkan?
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+Mozilla ada mengambil satu set data terhad secara piawai dari Firefox, yang membantu kami memahami cara pengguna menggunakan pelayar. Data tersebut terikat dengan pengenalpasti rawak, dan bukan nama atau alamat e-mel anda. Anda boleh baca lebih lanjut mengenainya dalam <a href="%(privacy)s">Notis Privasi</a> dan <a href="%(data)s">dokumentasi penuh untuk pengumpulan data</a>.
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+Kami buka dokumentasi ini kepada umum supaya sesiapa sahaja boleh mengesahkan apa yang kami nyatakan itu adalah benar, memaklumkan kami jika ada keperluan untuk dipertingkatkan, dan yakin bahawa kami tidak menyembunyikan apa-apa.
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-That documentation is gobbledygook to me! Can you give it to me in plain English?
+Dokumentasi itu sukar untuk saya fahami! Boleh berikan saya dalam Bahasa Inggeris yang mudah?
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+Terdapat dua kategori data yang kami kumpulkan secara piawai dalam Firefox versi keluaran kami.
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+Pertama ialah apa yang kami panggil "data teknikal." Data ini tentang pelayar itu sendiri, seperti sistem operasi yang digunakan dan maklumat perihal kesilapan atau ranap.
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
-The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
+Kedua ialah apa yang ami panggil "data interaksi." Data mengenai penglibatan individu dengan Firefox, seperti bilangan tab yang dibuka, status keutamaan pengguna, atau kekerapan ciri pelayar tertentu yang digunakan, seperti skrinsyot atau penyimpan. Sebagai contoh, kami mengumpulkan data ini dalam bentuk butang ke belakang, iaitu anak panah di bahagian atas sudut kiri pelayar yang membolehkan anda menavigasi semula laman web terdahulu, dengan cara ini menunjukkan ada seseorang menggunakan butang tersebut, tetapi bukan laman web khusus yang diakses.
 
 
 ;Do you collect more data in pre-release versions of Firefox?
-Do you collect more data in pre-release versions of Firefox?
+Adakah lebih banyak data dikumpulkan dalam versi prakeluaran Firefox?
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.

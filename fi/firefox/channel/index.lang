@@ -13,12 +13,12 @@ Valitse villimpi selain.
 
 
 ;Be among the first to explore future releases of Firefox for desktop, Android and iOS.
-Ole ensimmäisten joukossa tutkimassa Firefoxin seuraavia tietokone-, Android- ja iOS-versioita.
+Tutki ensimmäisten joukossa Firefoxin seuraavia tietokone-, Android- ja iOS-versioita.
 
 
 # Used in the navigation menu
 ;Desktop
-Tietokone
+Työpöytä
 
 
 # Used in the navigation menu
@@ -32,15 +32,15 @@ iOS {ok}
 
 
 ;See something that isn’t working? Let us know.
-Eikö jokin toimi? Kerro meille.
+Löysitkö jotain, mikä ei toimi? Kerro siitä meille.
 
 
 ;File a bug now
-Ilmoita viasta nyt
+Ilmoita ongelmasta nyt
 
 
 ;Tips for filing a bug
-Vinkkejä viasta ilmoittamiseen
+Vinkkejä ongelmasta ilmoittamiseen
 
 
 ;Take our latest experimental features for a spin and shape the future of Firefox.
@@ -59,7 +59,7 @@ Kokeile uusia ominaisuuksia Android-selaimen ennakkoversiolla | Firefox
 # String is obsolete. Do not remove.
 # HTML page title
 ;Download and test future releases of Firefox for desktop, Android and iOS.
-Lataa ja testaa Firefoxin seuraavia tietokone-, Android- ja iOS-versioita.
+Lataa ja testaa Firefoxin tulevia työpöytä-, Android- ja iOS-versioita.
 
 
 # HTML Description, on the Android page only.
@@ -96,7 +96,7 @@ Firefox Aurora lähettää palautetta Mozillalle automaattisesti.
 
 
 ;Beta is an unstable testing and development platform. By default, Beta sends data to Mozilla — and sometimes our partners — to help us handle problems and try ideas. <a href="%(link)s">Learn what is shared</a>.
-Beta is an unstable testing and development platform. By default, Beta sends data to Mozilla — and sometimes our partners — to help us handle problems and try ideas. <a href="%(link)s">Learn what is shared</a>.
+Beta on epävakaa testi- ja kehitysversio. Oletusarvoisesti Beta lähettää tietoja Mozillalle — ja toisinaan kumppaneillemme — auttaakseen meitä käsittelemään ongelmia ja kokeilemaan ideoita. <a href="%(link)s">Lue, mitä kaikkea jaetaan</a>.
 
 
 # The string is obsolete. Do not remove.
@@ -105,7 +105,7 @@ Firefox Beta lähettää palautetta Mozillalle automaattisesti.
 
 
 ;<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
-<a rel="external" href="%(feedback)s">Antamalla palautetta</a> autat meitä hiomaan vakaan version suorituskyvyn ja ominaisuudet.
+<a rel="external" href="%(feedback)s">Palautetta antamalla</a> autat meitä hiomaan vakaan version suorituskykyä ja ominaisuuksia.
 
 
 # HTML page title, on the desktop page only.
@@ -121,7 +121,7 @@ Koe uusimmat selainominaisuudet käyttämällä ennakkoversioita: Firefox Develo
 # String is obsolete. Do not remove.
 # HTML page description
 ;Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
-Lataa ja testaa Firefoxin tietokoneversion uusimpia ominaisuuksia Developer Edition-, Beta- ja Nightly-versioilla.
+Lataa ja testaa Firefoxin työpöytäversion uusimpia ominaisuuksia Developer Edition-, Beta- ja Nightly-versioilla.
 
 
 ;Test about-to-be-released features in the most stable pre-release build.

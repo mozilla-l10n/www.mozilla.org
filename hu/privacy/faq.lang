@@ -87,16 +87,16 @@ Rendben, ezek voltak a könnyű esetek. Milyen adatokat gyűjtötök?
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+A Mozilla alapértelmezés szerint nagyon korlátozott adatkészletet gyűjt a Firefoxból, melyek segítenek minket megérteni, hogyan használják az emberek a böngészőt. Ezek az adatok egy véletlenszerű azonosítóhoz rendeltek, nem névhez vagy e-mail címhez. Többet olvashat erről az <a href="%(privacy)s">adatvédelmi nyilatkozatban</a>, és olvashatja az <a href="%(data)s">adatgyűjtés teljes dokumentációját is</a>.
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+A dokumentációnkat nyilvánossá tesszük, így bárki ellenőrizheti, hogy igaz amit mondunk; mondja el ha fejlesztenünk kell, és győződjön meg róla, hogy nem rejtegetünk semmit.
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-A dokumentáció számomra halandzsa. El tudják mondani egyszerűen?
+A dokumentáció számomra halandzsa. El tudjátok mondani egyszerűen?
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
@@ -112,7 +112,7 @@ A második kategória az „interakciós adatok”. Ez egy személy Firefoxszal 
 
 
 ;Do you collect more data in pre-release versions of Firefox?
-Több adatot gyűjtenek a Firefox előzetes kiadású verzióiban?
+Több adatot gyűjtötök a Firefox előzetes kiadású verzióiban?
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
@@ -121,15 +121,15 @@ Mondhatni igen. A fent leírt adatok mellett az összeomlási és hibajelentése
 
 # Links to https://support.mozilla.org/kb/shield
 ;We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
-We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
+További kiadási előtti információkat is gyűjthetünk a <a href="%(link)s">tanulmányainkhoz</a>. Például, néhány tanulmányhoz „webes tevékenységadatokra” van szükségünk, amelyek URL-eket és más információkat tartalmazhatnak bizonyos weboldalakról. Ez segít nekünk a Firefox fejlesztését érintő konkrét kérdések megválaszolásában, például abban, hogyan intergrálhatunk jobban népszerű weboldalakat bizonyos területi beállítások esetén.
 
 
 ;Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
-Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
+A Mozilla Firefox előzetes kiadású verziói fejlesztői platformok, gyakran frissülnek kísérleti funkciókkal. Több adatot gyűjtünk a kiadás előtti verziókban, mint a kiadás utániakban, hogy jobban megértsük hogy működnek ezek a kísérleti funkciók. Ezt az adatgyűjtést kikapcsolhatja a beállításokban.
 
 
 ;But why do you collect any data at all?
-De egyáltalán miért gyűjtenek adatokat?
+De egyáltalán miért gyűjtötök adatokat?
 
 
 ;If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.

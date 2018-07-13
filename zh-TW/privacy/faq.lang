@@ -17,7 +17,7 @@ Mozilla 的資料隱私常見問題
 
 # "Under the hood" is an expression in automobile industry. Here it is a metaphor about something that exists but out of sight, behind the scenes.
 ;It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
-It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
+使用者很難能預期現今的軟體與服務都如何運作。構築我們的生活所需的技術相當複雜，人們沒有時間深入了解細節。Firefox 也是如此，我們發現人們對瀏覽器看不見的部份，有許多不同想法。
 
 
 ;At Mozilla, we respect and protect your personal information:
@@ -26,7 +26,7 @@ It can be tricky for people to know what to expect of any software or services t
 
 # Links to https://www.mozilla.org/privacy/principles/
 ;We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
-We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
+我們遵循<a href="%(link)s">隱私資料處理原則</a>處理 Firefox 桌面及行動瀏覽器的相關隱私事項。
 
 
 ;We only collect the data we need to make the best products.
@@ -34,23 +34,23 @@ We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our
 
 
 ;We put people in control of their data and online experiences.
-We put people in control of their data and online experiences.
+我們讓人們自行控制他們的資料和上網體驗。
 
 
 ;We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
-We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
+我們堅守「不出乎意料」原則，致力讓使用者所瞭解的 Firefox 與實際行為相同。
 
 
 ;The following questions and answers should help you understand what to expect from Mozilla and Firefox:
-The following questions and answers should help you understand what to expect from Mozilla and Firefox:
+下面的常見問題可協助您了解對 Mozilla 和 Firefox 能有什麼期待:
 
 
 ;I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
-I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
+我的主力瀏覽器是 Firefox，幾乎用它上網做任何事。你們這群 Mozilla 的人一定都知道我在做什麼了，對吧？
 
 
 ;Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
-Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
+您的手機或電腦上的 Firefox 網頁瀏覽器，是您上網的入口。您的瀏覽器會管理您造訪過網站的許多資訊，但該資訊會保留在您的裝置上。至於打造 Firefox 的公司 － Mozilla，並不會主動收集您的資料（除非您要求我們這樣做）。
 
 
 ;Really, you don’t collect my browsing history?
@@ -63,11 +63,11 @@ Mozilla doesn’t know as much as you’d expect about how people browse the web
 
 
 ;It seems like every company on the web is buying and selling my data. You’re probably no different.
-It seems like every company on the web is buying and selling my data. You’re probably no different.
+好像網路上的每個公司都在買賣我的資料，你們跟他們又有何不同？
 
 
 ;Mozilla doesn’t sell data about you, and we don’t buy data about you.
-Mozilla doesn’t sell data about you, and we don’t buy data about you.
+Mozilla 不賣你的資料，同樣地我們也不買您的資料。
 
 
 ;Wait, so how do you make money?
@@ -81,7 +81,7 @@ Mozilla is not your average organization. Founded as a community open source pro
 
 # "Softballs" here means questions requiring only easy or simple answers.
 ;Okay, those first few were softballs. What data do you collect?
-Okay, those first few were softballs. What data do you collect?
+好，這幾個是比較簡單的問題。你們收集哪些資料？
 
 
 # First URL links to https://www.mozilla.org/privacy/firefox/
@@ -91,7 +91,7 @@ Mozilla does collect a limited set of data by default from Firefox that helps us
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+我們將文件都公開，讓任何人都可以檢查所宣稱的是否真實，也可以對我們提出改進建議，並可相信我們並不隱藏任何事情。
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
@@ -104,11 +104,11 @@ We make our documentation public so that anyone can verify what we say is true, 
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+第一部分是所謂的「技術資料」。這是有關於瀏覽器本身的資料，例如作業系統版本，以及當機或錯誤發生時的相關資訊。
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
-The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
+第二部分是所謂的「互動資料」。這是關於每位使用者如何使用 Firefox 的資料，諸如開啟了多少分頁、使用者偏好設定的狀態、瀏覽器特定功能（例如 Screenshots 或容器等功能）被使用的次數。舉例來說，若您點擊了視窗左上角「回到上一頁」的按鈕，我們會知道有人點擊過該按鈕，但不會知道您開啟了哪些網頁。
 
 
 ;Do you collect more data in pre-release versions of Firefox?
@@ -116,7 +116,7 @@ The second is what we call "interaction data." This is data about an individual'
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
-Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
+有多了一點。除了上述資料外，我們預設還會在 Firefox 的預先發行版本收集當機與錯誤報告。
 
 
 # Links to https://support.mozilla.org/kb/shield
@@ -155,31 +155,31 @@ Yes. User control is one of our data privacy principles. We put that into practi
 
 
 ;You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+您不需要註冊帳號就可以使用 Firefox。只有在您要在不同裝置間同步資料時，才需要註冊帳號。我們會向您取得的也只有您的電子郵件信箱，我們不想知道您其他的資料，例如姓名、住址、生日、手機號碼等等。
 
 
 ;You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
-You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
+你們在做行銷的時候也會投放數位廣告，那會買其他人的資料來改善定向廣告的效果嗎？
 
 
 ;No, we do not buy people's data to target advertising.
-不，我們不會購買其他人的資料，來進行目標廣告。
+不，我們不會購買其他人的資料，來進行定向廣告。
 
 
 ;We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
-We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
+我們要求合作夥伴只使用網站和廣告商知道的第一手資料，例如您正在使用的瀏覽器和您使用中的裝置類型。
 
 
 ;Well, it seems like you really have my back on this privacy stuff.
-Well, it seems like you really have my back on this privacy stuff.
+看來你們真的很保護我的隱私。
 
 
 ;Yes, we do.
-Yes, we do.
+是的，沒錯。
 
 
 # Links to https://internethealthreport.org/
 ;Find out more about how Mozilla protects the internet.
-Find out more about how Mozilla protects the internet.
+了解更多 Mozilla 如何保護網際網路的相關資訊。
 
 

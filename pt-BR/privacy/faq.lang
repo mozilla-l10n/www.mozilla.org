@@ -87,7 +87,7 @@ Certo, as primeiras perguntas foram fáceis. Que dados são coletados?
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+Por padrão, a Mozilla coleta um conjunto limitado de dados do Firefox que nos ajuda a entender como as pessoas usam o navegador. Estes dados estão veiculados a um identificador aleatório, em vez de seu nome ou e-mail. Leia mais sobre isto em nosso <a href="%(privacy)s">aviso de privacidade</a> e também na <a href="%(data)s">documentação completa para a coleta de dados</a>.
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
@@ -96,7 +96,7 @@ We make our documentation public so that anyone can verify what we say is true, 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-That documentation is gobbledygook to me! Can you give it to me in plain English?
+Esta documentação é incompreensível para mim! Será que poderiam traduzi-la em português claro e simples?
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.

@@ -91,7 +91,7 @@ Por padrão, a Mozilla coleta um conjunto limitado de dados do Firefox que nos a
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+Deixamos a nossa documentação pública com o propósito de permitir que qualquer pessoa possa comprovar a veracidade do que dizemos, comentar o que podemos melhorar e confiar que não escondemos nada.
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
@@ -100,86 +100,86 @@ Esta documentação é incompreensível para mim! Será que poderiam traduzi-la 
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+Por padrão, existem duas categorias de dados que coletamos em nossa versão de lançamento do Firefox.
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+A primeira é denominada "dados técnicos". São dados sobre o navegador, tais como o sistema operacional que está sendo executado e informações sobre erros e travamentos.
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
-The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
+A segunda é denominada "dados de interação". São dados sobre a interação do indivíduo com o Firefox, tais como o número de abas que foram abertas, as preferências do usuário, ou número de vezes que certos recursos do navegador foram usados, como capturas de tela e contêineres. Por exemplo, referente ao botão de retorno (aquela seta no canto superior esquerdo do navegador que permite retornar para a página anterior), coletamos dados que nos permitem visualizar que o botão foi usado, contudo, sem informar quais páginas foram acessadas.
 
 
 ;Do you collect more data in pre-release versions of Firefox?
-Do you collect more data in pre-release versions of Firefox?
+Vocês coletam mais dados nas versões de pré-lançamento do Firefox?
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
-Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
+De certa maneira, sim. Além dos dados mencionados acima, por padrão, recebemos relatórios de erros e travamentos na versão de pré-lançamento do Firefox.
 
 
 # Links to https://support.mozilla.org/kb/shield
 ;We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
-We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
+Também podemos coletar dados adicionais na versão de pré-lançamento para um de nossos <a href="%(link)s">estudos</a>. Por exemplo, alguns estudos requerem o que chamamos de “dados de atividade na web”, que podem incluir URLs e outras informações sobre determinados sites. Isto nos ajuda a responder perguntas concretas para aprimorar o Firefox, por exemplo, como integrar melhor sites populares em idiomas específicos.
 
 
 ;Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
-Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
+As versões de pré-lançamento do Firefox da Mozilla são plataformas de desenvolvimento frequentemente atualizadas com recursos experimentais. Coletamos mais dados na versão de pré-lançamento do que após o lançamento da versão oficial para entender se estes recursos experimentais estão funcionando corretamente. Você pode optar por não participar desta coleta de dados nas Preferências.
 
 
 ;But why do you collect any data at all?
-But why do you collect any data at all?
+Qual é o motivo da coleta dados?
 
 
 ;If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
-If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
+Sem conhecer como o navegador está se comportando ou quais recursos as pessoas estão usando, não podemos aprimora-lo e oferecer o melhor produto. Investimos na criação de ferramentas para a coleta e análise de dados que nos permite tomar decisões inteligentes sobre nossos produtos, mas sempre respeitando a privacidade das pessoas.
 
 
 ;Data collection still bugs me. Can I turn it off?
-Data collection still bugs me. Can I turn it off?
+A coleta de dados é algo que ainda me incomoda, posso desativar esta função?
 
 
 # First URL links to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 # Second URL links to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
 ;Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
-Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
+Sim, o controle de dados por parte do usuário é um dos nossos princípios de privacidade de dados. Colocamos este princípio em ação na nossa página de <a href="%(settings)s">configurações de privacidade</a>, que serve como ponto único para todos os que querem ter o controle de sua privacidade no Firefox. Daqui você pode <a href="%(data)s">desativar a coleta de dados</a>.
 
 
 ;What about my account data?
-What about my account data?
+E quanto aos dados da minha conta?
 
 
 ;We are big believers of data minimization and not asking for things we don't need.
-We are big believers of data minimization and not asking for things we don't need.
+Realmente acreditamos na minimização de dados e em não fazer perguntas desnecessárias.
 
 
 ;You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+Você não precisa de uma conta para usar o Firefox, contudo, precisará de uma se quiser sincronizar seus dados entre dispositivos. Para tanto, pediremos somente seu e-mail, pois não precisamos saber seu nome, endereço, data de aniversário ou número de telefone.
 
 
 ;You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
-You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
+Vocês usam publicidade digital como parte de sua combinação de atividades de marketing. Vocês compram os dados das pessoas para melhor direcionar seus anúncios on-line?
 
 
 ;No, we do not buy people's data to target advertising.
-No, we do not buy people's data to target advertising.
+Não compramos os dados das pessoas visando a propaganda.
 
 
 ;We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
-We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
+Pedimos aos nossos parceiros de publicidade para usarem somente dados próprios que sites e anunciantes coletam de todos os usuários, como o navegador e dispositivo que você usa.
 
 
 ;Well, it seems like you really have my back on this privacy stuff.
-Well, it seems like you really have my back on this privacy stuff.
+Parece que realmente protegem minha privacidade.
 
 
 ;Yes, we do.
-Yes, we do.
+Sim, nós fazemos.
 
 
 # Links to https://internethealthreport.org/
 ;Find out more about how Mozilla protects the internet.
-Find out more about how Mozilla protects the internet.
+Descubra mais sobre como a Mozilla protege a Internet.
 
 

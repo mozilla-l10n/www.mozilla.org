@@ -63,15 +63,15 @@ Mozilla doesn’t know as much as you’d expect about how people browse the web
 
 
 ;It seems like every company on the web is buying and selling my data. You’re probably no different.
-It seems like every company on the web is buying and selling my data. You’re probably no different.
+Det lader til, at ethvert firma på internettet køber og sælger mine data. Det gælder vel også jer?
 
 
 ;Mozilla doesn’t sell data about you, and we don’t buy data about you.
-Mozilla doesn’t sell data about you, and we don’t buy data about you.
+Mozilla hverken køber eller sælger data om dig.
 
 
 ;Wait, so how do you make money?
-Wait, so how do you make money?
+Vent lige, hvordan tjener I så jeres penge?
 
 
 # Links to https://www.mozilla.org/foundation/annualreport/
@@ -81,7 +81,7 @@ Mozilla is not your average organization. Founded as a community open source pro
 
 # "Softballs" here means questions requiring only easy or simple answers.
 ;Okay, those first few were softballs. What data do you collect?
-Okay, those first few were softballs. What data do you collect?
+Ok, det var de nemme spørgsmål. Hvilke data indsamler I?
 
 
 # First URL links to https://www.mozilla.org/privacy/firefox/
@@ -96,15 +96,15 @@ We make our documentation public so that anyone can verify what we say is true, 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-That documentation is gobbledygook to me! Can you give it to me in plain English?
+Den dokumentation er rent volapyk for mig! Kan jeg få det på almindeligt dansk?
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+Der er to kategorier af data, vi som udgangspunkt indsamler i den færdige version af Firefox.
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+Den første kalder vi "tekniske data". Det er data om browseren som sådan, såsom hvilket operativsystem den kører på og information om fejl og nedbrud.
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
@@ -112,24 +112,24 @@ The second is what we call "interaction data." This is data about an individual'
 
 
 ;Do you collect more data in pre-release versions of Firefox?
-Do you collect more data in pre-release versions of Firefox?
+Indsamler I flere data i de tidlige test-udgaver af Firefox?
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
-Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
+På en måde. Udover de data, der er beskrevet herover, indsamler vi som standard rapporter om nedbrud og fejl i test-udgaverne af Firefox.
 
 
 # Links to https://support.mozilla.org/kb/shield
 ;We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
-We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
+Vi kan også indsamle ekstra data i tidlige udgaver til en af vores <a href="%(link)s">undersøgelser</a>. Nogle undersøgelser kræver for eksempel, hvad vi kalder "web-aktivitets-data", som kan omfatte URL'er og andre informationer om visse websider. Det hjælper os med at besvare specifikke spørgsmål til forbedring af Firefox, for eksempel hvordan vi bedre integrerer populære websider i specifikke sprogversioner.
 
 
 ;Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
-Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
+Mozillas tidlige versioner af Firefox er udviklingsversioner, der jævnligt opdateres med eksperimentelle funktioner. Vi indsamler flere data i de tidlige versioner, end vi gør i de færdige udgaver, for bedre at forstå, hvordan de nye funktioner virker. Du kan slå indsamling af disse data fra i indstillingerne.
 
 
 ;But why do you collect any data at all?
-But why do you collect any data at all?
+Men hvorfor indsamler I overhovet nogen data?
 
 
 ;If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
@@ -143,15 +143,15 @@ Data collection still bugs me. Can I turn it off?
 # First URL links to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 # Second URL links to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
 ;Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
-Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
+Ja. Brugerkontrol med data er et af vores principper for databeskyttelse. Vi praktiserer det i Firefox på vores <a href="%(settings)s">side med privatlivs-indstillinger</a>, der er stedet for alle, der selv vil kontrollere deres privatliv i Firefox. Der kan du <a href="%(data)s">slå indsamling af data fra</a>.
 
 
 ;What about my account data?
-What about my account data?
+Hvad med mine konto-data?
 
 
 ;We are big believers of data minimization and not asking for things we don't need.
-We are big believers of data minimization and not asking for things we don't need.
+Vi tror på minimering af data, og spørger ikke efter noget vi ikke behøver.
 
 
 ;You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
@@ -159,11 +159,11 @@ You don't need an account to use Firefox. Accounts are required to sync data acr
 
 
 ;You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
-You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
+I bruger digital annoncering som led i jeres marketing. Køber I folks data for bedre at målrette jeres online-annoncer?
 
 
 ;No, we do not buy people's data to target advertising.
-No, we do not buy people's data to target advertising.
+Nej, vi køber ikke folks data for at målrette annoncer.
 
 
 ;We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.

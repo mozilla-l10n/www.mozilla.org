@@ -108,7 +108,7 @@ Firefox のリリース版において初期設定で私たちが収集するデ
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
-The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
+2 つ目は「インタラクションデータ」と呼ばれるものです。これは、開かれているタブの数、ユーザー設定の状態、スクリーンショットやコンテナーといった特定のブラウザー機能の使用回数など、個人の Firefox との関わりについてのデータを指します。例えば、直前に見たウェブページへ戻れすようにする、ブラウザーの左上にある矢印アイコンの「戻る」ボタンに関して言えば、誰かがそのボタンを使ったことを示すようなデータを収集することはありますが、具体的にどのページが見られたかという情報はこれに含まれません。
 
 
 ;Do you collect more data in pre-release versions of Firefox?
@@ -116,16 +116,16 @@ The second is what we call "interaction data." This is data about an individual'
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
-Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
+はい。プレリリース版 Firefox では、上で説明したデータに加えて、初期設定でクラッシュやエラー報告を送信するようになっています。
 
 
 # Links to https://support.mozilla.org/kb/shield
 ;We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
-We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
+プレリリース版では、<a href="%(link)s">研究目的</a> で追加のデータを収集することもあります。例えば、一部の研究は「ウェブアクティビティデータ」と呼ばれるデータを必要とし、これには一部のサイトに関する URL その他の情報が含まれる可能性があります。これは、あるロケールで人気のサイトをどのように統合強化できるかといった、私たちが Firefox を改善するため特定の質問への答えを得るのに役立ちます。
 
 
 ;Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
-Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
+Mozilla が提供するプレリリース版 Firefox は、開発プラットフォームで、実験的機能を含めて頻繁に更新されます。プレリリース版では、そうした実験的機能の動作状況を理解するため、通常版よりも多くのデータを収集します。このデータ収集は設定画面で無効化できます。
 
 
 ;But why do you collect any data at all?

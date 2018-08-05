@@ -17,7 +17,7 @@ Mozilla では、あなたの個人情報を尊重し保護します。
 
 # "Under the hood" is an expression in automobile industry. Here it is a metaphor about something that exists but out of sight, behind the scenes.
 ;It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
-人々が今使っているソフトウェアやサービスに対して何を期待できるか知るのは簡単なことではないでしょう。私たちの生活を支えているテクノロジーは複雑で、ユーザーはその詳細について調べる時間もありません。これは Firefox についても当てはまることで、ブラウザーの中で何が起きているのか皆さんが様々な考えを持っていることを私たちは認識しています。
+皆さんが今使っているソフトウェアやサービスに対して何を期待できるか知るのは簡単なことではないでしょう。私たちの生活を支えているテクノロジーは複雑で、ユーザーはその詳細について調べる時間もありません。これは Firefox についても当てはまることで、ブラウザーの中で何が起きているのか皆さんが様々な考えを持っていることを私たちは認識しています。
 
 
 ;At Mozilla, we respect and protect your personal information:
@@ -26,7 +26,7 @@ Mozilla では、あなたの個人情報を尊重し保護します。
 
 # Links to https://www.mozilla.org/privacy/principles/
 ;We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
-私たちは、デスクトップやモバイル向け Firefox ブラウザーにおける私たちのプライバシーへの取り組みを具体化する、一連の <a href="%(link)s">データプライバシー原則</a> に従います。
+私たちは、デスクトップやモバイル向け Firefox ブラウザーにおける私たちのプライバシーへの取り組みを具体化する、一連の <a href="%(link)s">データプライバシー指針</a> に従います。
 
 
 ;We only collect the data we need to make the best products.
@@ -34,11 +34,11 @@ Mozilla では、あなたの個人情報を尊重し保護します。
 
 
 ;We put people in control of their data and online experiences.
-私たちは人々が自分のデータとオンライン体験を自らコントロールできるようにします。
+私たちは皆さんが自分のデータとオンライン体験を自らコントロールできるようにします。
 
 
 ;We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
-私たちは「意外なことはしない」原則に従って、Firefox への人々の理解が現実に沿うよう努力しています。
+私たちは「意外なことはしない」原則に従って、Firefox への皆さんの理解が現実に沿うよう努力しています。
 
 
 ;The following questions and answers should help you understand what to expect from Mozilla and Firefox:
@@ -81,13 +81,13 @@ Mozilla は一般的な企業ではありません。1998 年にコミュニテ�
 
 # "Softballs" here means questions requiring only easy or simple answers.
 ;Okay, those first few were softballs. What data do you collect?
-なるほど、ここまでいくつかの質問は平凡なものでした。具体的にどんなデータを収集しているのですか？
+分かりました。ここまでいくつかの質問は平凡なものでしたが、具体的にどんなデータを収集しているのでしょう？
 
 
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla は、人々がどのようにブラウザーを使っているか理解を深めるため、Firefox から初期設定で若干のデータを収集しています。このデータは、あなたの名前やメールアドレスなどではなく、無作為な識別子に紐付けられます。詳しくは <a href="%(privacy)s">プライバシー通知</a> をご覧ください。<a href="%(data)s">データ収集に関する詳細な説明</a> も公開しています。
+Mozilla は、皆さんがどのようにブラウザーを使っているか理解を深めるため、Firefox から初期設定で若干のデータを収集しています。このデータは、あなたの名前やメールアドレスなどではなく、無作為な識別子に紐付けられます。詳しくは <a href="%(privacy)s">プライバシー通知</a> をご覧ください。<a href="%(data)s">データ収集に関する詳細な説明</a> も公開しています。
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
@@ -133,7 +133,7 @@ Mozilla が提供するプレリリース版 Firefox は、開発プラットフ
 
 
 ;If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
-ブラウザーのパフォーマンス状況や人々が使っている機能について知らなければ、それを改善して皆さんが求めるような優れた製品を提供することはできません。私たちは、皆さんのプライバシーを尊重しつつ製品に関する賢明な判断を行えるようなデータ収集解析ツールの開発に投資してきました。
+ブラウザーのパフォーマンス状況や皆さんに使われている機能について知らなければ、それを改善して皆さんが求めるような優れた製品を提供することはできません。私たちは、皆さんのプライバシーを尊重しつつ製品に関する賢明な判断を行えるようなデータ収集解析ツールの開発に投資してきました。
 
 
 ;Data collection still bugs me. Can I turn it off?
@@ -143,7 +143,7 @@ Mozilla が提供するプレリリース版 Firefox は、開発プラットフ
 # First URL links to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 # Second URL links to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
 ;Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
-はい。ユーザーコントロールは私たちのデータプライバシー原則に含まれています。私たちはこれを <a href="%(settings)s">プライバシー設定ページ</a> 上で Firefox における実践に組み入れています。ここでは、Firefox における自身のプライバシーを管理したいユーザーが 1 か所ですべての設定を変更し、<a href="%(data)s">データ収集を無効化</a> することも可能になっています。
+はい。ユーザーコントロールは私たちのデータプライバシー指針に含まれています。私たちはこれを <a href="%(settings)s">プライバシー設定ページ</a> 上で Firefox における実践に組み入れています。ここでは、Firefox における自身のプライバシーを管理したいユーザーが 1 か所ですべての設定を変更し、<a href="%(data)s">データ収集を無効化</a> することも可能になっています。
 
 
 ;What about my account data?
@@ -171,7 +171,7 @@ Firefox を使うのにアカウントは必要ありません。アカウント
 
 
 ;Well, it seems like you really have my back on this privacy stuff.
-なるほど、Mozilla はプライバシーに関して私の味方になってくれるようですね。
+なるほど、Mozilla はプライバシーに関して本当に私の味方になってくれるようですね。
 
 
 ;Yes, we do.

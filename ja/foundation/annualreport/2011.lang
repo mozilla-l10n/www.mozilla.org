@@ -31,7 +31,7 @@ Android 版 Firefox
 
 
 ;Mozilla‘s vision of the Internet is a place where anyone can access information, a place where everyone can hack and tinker; one that has openness, freedom and transparency; where users have control over their personal data and where all minds have the freedom to create and to consume without walls or tight restrictions.
-Mozilla は、インターネットとは誰もが情報にアクセスでき、皆がハックしたり、手を加えたりできる場所であるべきだと考えています。オープンで自由で透明性があり、ユーザーが自分の個人情報を自分でコントロールできなければなりません。すべての人が、障害や厳しい制約を受けることなく自由に何かを作ったり利用したりできる場所であるべきです。
+Mozilla は、インターネットとは誰もが情報にアクセスでき、皆がハックしたり、手を加えたりできる場所であるべきだと考えています。オープンで自由で透明性があり、ユーザーが自分の個人情報を自分で管理できなければなりません。すべての人が、障害や厳しい制約を受けることなく自由に何かを作ったり利用したりできる場所であるべきです。
 
 
 ;In less than 20 years the Internet has changed our lives. It is a powerful platform with unprecedented opportunity and connectedness. But even with great growth and innovation there are significant challenges to this vision of a healthy Internet.
@@ -164,7 +164,7 @@ Do Not Track {ok}
 
 
 ;In an effort to give users more control over their Web experiences, we developed the <a href="%(dnt_url)s" rel="external">Do Not Track</a> feature in Firefox. We also became the first browser manufacturer to offer it on multiple platforms, including Windows, Mac, Linux and Android. <a href="%(dntfxos_url)s" rel="external">Do Not Track is even available for Firefox OS</a> so that user privacy settings can be controlled on a system-wide level to ensure that every third-party application on a user's device respects their choice.
-ユーザーが自分のウェブ体験を自分でコントロールする権限を強化するため、Mozilla は Firefox に <a href="%(dnt_url)s" rel="external">Do Not Track</a> (行動追跡の拒否) 機能を搭載しました。また、Mozilla はこの機能を Windows、Mac、Linux、Android といった複数のプラットフォーム向けに提供した初のブラウザーベンダーとなりました。<a href="%(dntfxos_url)s" rel="external">Do Not Track は Firefox OS にも搭載されているため</a>、ユーザーはシステム全体でプライバシー設定をコントロールでき、自分が選択したプライバシー保護の設定が自分の端末上にあるすべてのアプリケーションで尊重されるようになります。
+ユーザーが自分のウェブ体験を自分で管理する権限を強化するため、Mozilla は Firefox に <a href="%(dnt_url)s" rel="external">Do Not Track</a> (行動追跡の拒否) 機能を搭載しました。また、Mozilla はこの機能を Windows、Mac、Linux、Android といった複数のプラットフォーム向けに提供した初のブラウザーベンダーとなりました。<a href="%(dntfxos_url)s" rel="external">Do Not Track は Firefox OS にも搭載されているため</a>、ユーザーはシステム全体でプライバシー設定を管理でき、自分が選択したプライバシー保護の設定が自分の端末上にあるすべてのアプリケーションで尊重されるようになります。
 
 
 ;Do Not Track is important because it gives users a voice online to express their preference for privacy and personalization. It captures the user’s intent and allows them to put their hand up and ask for privacy online.

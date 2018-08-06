@@ -67,11 +67,11 @@ It seems like every company on the web is buying and selling my data. You’re p
 
 
 ;Mozilla doesn’t sell data about you, and we don’t buy data about you.
-Mozilla doesn’t sell data about you, and we don’t buy data about you.
+Mozilla n’achète ni ne vend de données qui vous concernent.
 
 
 ;Wait, so how do you make money?
-Wait, so how do you make money?
+Mais alors comment faites-vous pour être rentable ?
 
 
 # Links to https://www.mozilla.org/foundation/annualreport/
@@ -81,17 +81,17 @@ Mozilla is not your average organization. Founded as a community open source pro
 
 # "Softballs" here means questions requiring only easy or simple answers.
 ;Okay, those first few were softballs. What data do you collect?
-Okay, those first few were softballs. What data do you collect?
+D’accord, jusque-là c’était facile. Quelles sont les données que vous collectez ?
 
 
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+Via Firefox, Mozilla collecte un ensemble limité de données qui nous permettent de comprendre comment vous utilisez le navigateur. Ces données sont rattachées à un identifiant aléatoire plutôt qu’à un nom ou à une adresse électronique. Pour en savoir plus, vous pouvez consulter notre <a href="%(privacy)s">politique de confidentialité</a> ainsi que la <a href="%(data)s">documentation complète relative à la collecte des données</a>.
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+Notre documentation est publique afin que n’importe qui puisse vérifier que ce que nous disons est vrai. Dites-nous ce qu’il faut améliorer et assurez-vous que nous ne cachons rien.
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
@@ -100,15 +100,15 @@ That documentation is gobbledygook to me! Can you give it to me in plain English
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+Il existe deux catégories pour les données que nous collectons par défaut avec les versions finales de Firefox.
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+La première correspond aux « données techniques ». Ce sont les données relatives au navigateur telles que le système d’exploitation utilisé ainsi que les informations quant aux erreurs et aux plantages.
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
-The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
+La seconde correspond aux « données d’interaction ». Ce sont les données relatives à la façon d’utiliser Firefox comme le nombre d’onglets ouverts, l’état des préférences utilisateurs ou le nombre de fois qu’une fonctionnalité donnée a été utilisée (la capture d’écran ou les onglets contextuels par exemple). Pour prendre un exemple concret, vous cliquez sur le bouton « Page précédente », l’icône en forme de flèche dans le coin supérieur gauche. Nous enregistrons le fait que quelqu’un a utilisé cette fonctionnalité mais cela ne nous permet en aucun cas de savoir quelles pages ont été consultées.
 
 
 ;Do you collect more data in pre-release versions of Firefox?
@@ -129,7 +129,7 @@ Mozilla’s pre-release versions of Firefox are development platforms, frequentl
 
 
 ;But why do you collect any data at all?
-But why do you collect any data at all?
+Mais finalement, pourquoi collectez-vous des données ?
 
 
 ;If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
@@ -137,7 +137,7 @@ If we don’t know how the browser is performing or which features people use, w
 
 
 ;Data collection still bugs me. Can I turn it off?
-Data collection still bugs me. Can I turn it off?
+La collecte de données me dérange, puis-je la désactiver ?
 
 
 # First URL links to https://support.mozilla.org/kb/firefox-options-preferences-and-settings

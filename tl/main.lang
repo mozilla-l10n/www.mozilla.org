@@ -19,13 +19,13 @@ Apps {ok}
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+Huwag Sundan
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+Interest Dashboard {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -73,7 +73,7 @@ Mga Produkto
 # A top menu navigation label that points to https://addons.mozilla.org/firefox/.
 # Will replace Add-ons once this string is localized.
 ;Extensions
-Extensions
+Mga Extension
 
 
 ;Add-ons
@@ -173,15 +173,15 @@ Isara
 
 
 ;Return to top
-Return to top
+Bumalik sa itaas
 
 
 ;Features
-Features
+Mga Katangian
 
 
 ;Customize
-Customize
+I-customize
 
 
 ;Download
@@ -189,7 +189,7 @@ Download {ok}
 
 
 ;Previous
-Previous
+Nakaraan
 
 
 ;Next
@@ -235,7 +235,7 @@ Customize with Add-ons
 
 
 ;Learn More
-Learn More
+Alamin
 
 
 # Same as previous above but with no capitalization on More
@@ -257,7 +257,7 @@ Replay the video
 
 
 ;Share the video
-Share the video
+Ibahagi ang video
 
 
 ;WebM format
@@ -293,11 +293,11 @@ Email {ok}
 
 
 ;Upgrade now
-Upgrade now
+Mag-upgrade ngayon
 
 
 ;Update now
-Update now
+Mag-update ngayon
 
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
@@ -342,12 +342,12 @@ Sync {ok}
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-Desktop Add-ons
+Desktop Add-ons {ok}
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+Android Add-ons {ok}
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -357,16 +357,16 @@ Mga tema
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Desktop Support
+Tulong sa Desktop
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+Tuliong sa Android
 
 
 ;Releases
-Releases
+Mga Release
 
 
 ;Blog
@@ -375,7 +375,7 @@ Blog {ok}
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-Get Mozilla updates
+Tumanggap ng balita mula sa Mozilla
 
 
 # share button for social networks
@@ -420,12 +420,12 @@ Pamunuan
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
-Governance
+Governance {ok}
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
-History
+History {ok}
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -575,7 +575,7 @@ Format
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;Text
-Text
+Teksto
 
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
@@ -599,7 +599,7 @@ Keep up with<br> all things Firefox.
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Get Firefox news
+Tumanggap ng balita mula sa Firefox
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
@@ -609,7 +609,7 @@ YOUR EMAIL HERE {ok}
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+Mag-sign up Ngayon
 
 
 # Old newsletter subscription Button

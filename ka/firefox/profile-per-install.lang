@@ -4,23 +4,23 @@
 
 
 ;An Important Change in Firefox: Dedicated Profiles
-An Important Change in Firefox: Dedicated Profiles
+მნიშვნელოვანი ცვლილება Firefox-ში: განცალკევებული პროფილები
 
 
 ;What’s Changed
-What’s Changed
+რა შეიცვალა
 
 
 ;Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
-Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
+აქამდე, ერთ სისტემაზე დაყენებული Firefox-ის ყველა ვერსია, ნაგულისხმევად იზიარებდა ერთსა და იმავე პროფილს. ახლა უკვე, Firefox-ის თითოეული ვერსიის დაყენებისას (მათ შორის Firefox Nightly, Firefox Beta ან Firefox ESR), შემოთავაზებული იქნება ცალკე პროფილი. შედეგად, მეტად მოსახერხებელი გახდება ერთ კომპიუტერზე დაყენებული Firefox-ის, სხვადასხვა ვერსიებზე გადართვა.
 
 
 ;How Dedicated Profiles Work
-How Dedicated Profiles Work
+როგორ მუშაობს განცალკევებული პროფილები
 
 
 ;Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
-Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
+Firefox ინახავს მონაცემებს, მათ შორის სანიშნებს, პაროლებსა და მომხმარებლის პარამეტრებს, ფაილების კრებულის სახით, რომელსაც ეწოდება პროფილი. ეს პროფილი ინახება Firefox-პროგრამის ძირითადი  ფაილებისგან გამოყოფილ ადგილას.
 
 
 ;The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
@@ -32,15 +32,15 @@ You have not lost any personal data or customizations. Any previous profile data
 
 
 ;All of your Firefox installations will now have separate profiles.
-All of your Firefox installations will now have separate profiles.
+Firefox-ის თითოეულ დაყენებულ ვერსიას, ახლა უკვე ცალკე პროფილი ექნება.
 
 
 ;What You Need to Do
-What You Need to Do
+რისი გაკეთება მოგიწევთ
 
 
 ;If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
-If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
+თუ არაფერს შეცვლით, ყოველ ახლადაყენებულ ვერსიას ექნება განცალკევებული პროფილი. ეს ნიშნავს, რომ Firefox-ის თითოეული ვერსიის პროფილის მონაცემები, იქნება განსხვავებული.
 
 
 ;You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.

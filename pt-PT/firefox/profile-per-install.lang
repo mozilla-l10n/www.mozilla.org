@@ -12,7 +12,7 @@ O que foi alterado
 
 
 ;Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
-Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
+Antes, todas as instalações do Firefox partilhavam um único perfil por predefinição. Agora, o Firefox providencia perfis dedicados para cada instalação do Firefox (isto inclui instalações do Firefox Nightly, Firefox Beta, ou Firefox ESR). Isto irá fazer o Firefox mais estável ao alternar entre instalações do Firefox no mesmo computador.
 
 
 ;How Dedicated Profiles Work
@@ -20,19 +20,19 @@ Como é que os perfis dedicados funcionam
 
 
 ;Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
-Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
+O Firefox guarda informação como marcadores, palavras-passe e preferências de utilizador num conjunto de arquivos chamado o seu perfil. Este perfil é armazenado numa localização separada dos ficheiros de programa do Firefox.
 
 
 ;The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
-The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
+A instalação que escolhe como a sua instalação do Firefox primária irá manter os seus dados de perfil anteriormente partilhados como marcadores, histórico e palavras-passe.
 
 
 ;You have not lost any personal data or customizations. Any previous profile data is safe and attached to the first Firefox installation that was opened after this change.
-You have not lost any personal data or customizations. Any previous profile data is safe and attached to the first Firefox installation that was opened after this change.
+Não perdeu quaisquer dados pessoais ou personalizações. Quaisquer dados de perfil anteriores estão seguros e anexados à primeira instalação do Firefox que foi aberta após esta alteração.
 
 
 ;All of your Firefox installations will now have separate profiles.
-All of your Firefox installations will now have separate profiles.
+Todas as suas instalações do Firefox têm agora perfis separados.
 
 
 ;What You Need to Do
@@ -40,11 +40,11 @@ O que precisa de fazer
 
 
 ;If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
-If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
+Se não fizer nada, cada instalação irá ter um perfil separado. Isto significa que os seus dados de perfil irão ser diferentes a cada instalação do Firefox.
 
 
 ;You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
-You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
+Pode alterar que instalação utiliza que perfil utilizando o gestor de perfis. Direções de como utilizar o gestor de perfis estão disponíveis <a href="%(support)s">nesta página de apoio</a>.
 
 
 ;While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.

@@ -4,66 +4,66 @@
 
 
 ;An Important Change in Firefox: Dedicated Profiles
-An Important Change in Firefox: Dedicated Profiles
+Eine wichtige Neuerung in Firefox: Getrennte Profile
 
 
 ;What’s Changed
-What’s Changed
+Was sich geändert hat
 
 
 ;Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
-Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
+Bisher hatten alle Firefox-Installationen standardmäßig ein gemeinsames Profil. Jetzt bietet Firefox getrennte Profile für jede Firefox-Installation (dazu gehören auch Installationen von Firefox Nightly, Firefox Beta oder Firefox ESR). Dadurch wird Firefox stabiler, wenn zwischen verschiedenen Firefox-Installationen auf dem selben Computer gewechselt wird.
 
 
 ;How Dedicated Profiles Work
-How Dedicated Profiles Work
+Wie getrennte Profile funktionieren
 
 
 ;Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
-Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
+Firefox speichert Daten wie Lesezeichen, Passwörter und Benutzereinstellungen in einer Reihe von Dateien, die Profil genannt werden. Dieses Profil wird getrennt von den Firefox-Programmdateien gespeichert.
 
 
 ;The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
-The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
+Die Installation, die Du als primäre Firefox-Installation wählst, behält Dein bisher geteiltes Profil mit Daten wie Lesezeichen, Chronik und Passwörtern.
 
 
 ;You have not lost any personal data or customizations. Any previous profile data is safe and attached to the first Firefox installation that was opened after this change.
-You have not lost any personal data or customizations. Any previous profile data is safe and attached to the first Firefox installation that was opened after this change.
+Du verlierst keine persönlichen Daten oder Anpassungen. Alle bisherigen Profildaten sind sicher und mit der Firefox-Installation verknüpft, die nach dieser Änderung als erstes geöffnet wurde.
 
 
 ;All of your Firefox installations will now have separate profiles.
-All of your Firefox installations will now have separate profiles.
+Alle Deine Firefox-Installationen haben ab sofort getrennte Profile.
 
 
 ;What You Need to Do
-What You Need to Do
+Was Du tun musst
 
 
 ;If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
-If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
+Wenn Du nichts tust, hat jede Installation ein eigenes Profil. Das bedeutet, dass Deine Profildaten in jeder Installation von Firefox unterschiedlich sind.
 
 
 ;You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
-You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
+Mit dem Profilmanager kannst Du auswählen, welche Installation welches Profil verwendet. Auf <a href="%(support)s">dieser Hilfeseite</a> findest Du Anleitungen dazu, wie Du den Profilmanager nutzen kannst.
 
 
 ;While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.
-While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.
+Die Profile sind jetzt zwar mit getrennten Firefox-Installationen verknüpft, aber Du kannst Sie mit Deinem Firefox-Konto synchronisieren. Wenn Du möchtest, dass alle Firefox-Installationen die gleichen Daten nutzen, empfehlen wir, alle Profile mit einem Firefox-Konto zu synchronisieren.
 
 
 ;A Firefox Account is the easiest way to make your profiles consistent on all of your versions of Firefox. You also get additional benefits like sending tabs and secure password storage.
-A Firefox Account is the easiest way to make your profiles consistent on all of your versions of Firefox. You also get additional benefits like sending tabs and secure password storage.
+Mit einem Firefox-Konto ist es am einfachsten, deine Profile zwischen allen Firefox-Versionen abzugleichen. Außerdem hast Du den zusätzlichen Vorteil, dass Du Tabs versenden und Passwörter sicher speichern kannst.
 
 
 ;You’re signed in and ready to start using Sync.
-You’re signed in and ready to start using Sync.
+Du bist angemeldet und bereit, Sync zu nutzen.
 
 
 ;We detected that you have installed and opened an older version of Firefox on your computer. You may need to take action.
-We detected that you have installed and opened an older version of Firefox on your computer. You may need to take action.
+Wir haben festgestellt, dass Du auf Deinem Computer eine ältere Firefox-Version installiert und geöffnet hast. Hier muss möglicherweise gehandelt werden.
 
 
 ;We detected more than one version of Firefox on your computer. You may need to take action.
-We detected more than one version of Firefox on your computer. You may need to take action.
+Wir haben festgestellt, dass Du mehr als eine Firefox-Version auf deinem Computer verwendest. Hier muss möglicherweise gehandelt werden.
 
 

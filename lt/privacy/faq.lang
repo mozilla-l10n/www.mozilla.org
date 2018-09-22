@@ -87,24 +87,24 @@ Gerai, o dabar papasakokite, kokius duomenis kaupiate.
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+„Mozilla“ numatytuoju atveju iš „Firefox“ gauna labai nedidelį kiekį duomenų, padedančių mums geriau suvokti, kaip žmonės naudojasi šia naršykle. Šie duomenys susiejami su atsitiktiniu identifikatoriumi, o ne su jūsų vardu ar el. pašto adresu. Daugiau apie tai galite sužinoti iš mūsų <a href="%(privacy)s">pastabos apie privatumą</a>, o taip pat galite susipažinti su <a href="%(data)s">išsamia dokumentacija apie taip kaupiamus duomenis</a>.
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+Savo dokumentus viešiname, kad kiekvienas galėtų įsitikinti, jog nemeluojame ir nieko neslepiame, ar patarti, kaip galėtume pasitempti dar labiau.
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-That documentation is gobbledygook to me! Can you give it to me in plain English?
+Tas dokumentas – kažkokia abrakadabra. Ar galite jį pateikti suprantama kalba?
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+Iš galutinių „Firefox“ laidų numatytuoju atveju mūsų gaunamus duomenis galima išskirti į dvi kategorijas.
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+Pirmoji kategorija – tai, ką vadiname „techniniais duomenimis“. Tai informacija apie pačią naršyklę, operacinę sistemą, kurioje ji veikia, bei pasitaikiusias klaidas ir strigtis.
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.

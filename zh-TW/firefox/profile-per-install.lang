@@ -12,7 +12,7 @@ Firefox 中的重要變更: 獨立設定檔
 
 
 ;Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
-Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
+在此之前，同一台裝置上安裝的所有 Firefox 預設都共享同一組設定檔。現在 Firefox 會為不同的安裝（包含 Firefox Nightly、Beta、ESR）建立不同的設定檔。如此一來，在同一台電腦上切換不同版本時，運作可更為穩定。
 
 
 ;How Dedicated Profiles Work
@@ -20,7 +20,7 @@ Before, all Firefox installations were sharing a single profile by default. Now,
 
 
 ;Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
-Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
+Firefox 會將書籤、密碼、偏好設定等資訊儲存在叫做「設定檔」的一系列檔案中。設定檔會與 Firefox 程式檔案儲存於不同地方。
 
 
 ;The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.

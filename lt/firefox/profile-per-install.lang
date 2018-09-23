@@ -12,7 +12,7 @@ Kas pasikeitė
 
 
 ;Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
-Anksčiau visos įdiegtos „Firefox“ naršyklės atmainos numatytai naudodavo tą patį profilį. Nuo šiol kiekvienai įdiegtai „Firefox“ atmainai (atmainomis vadiname „Firefox Nightly“, „Firefox Beta“ ar „Firefox ESR“) bus sukuriamas atskiras profilis. Šis pokytis padės išlaikyti „Firefox“ stabilumą, naudojant kelias naršyklės atmainas viename kompiuteryje.
+Anksčiau visos įdiegtos „Firefox“ naršyklės atmainos numatytai naudodavo tą patį profilį. Nuo šiol kiekvienai įdiegtai „Firefox“ atmainai (pavyzdžiui, „Firefox Nightly“, „Firefox Beta“ ar „Firefox ESR“) bus sukuriamas atskiras profilis. Šis pokytis padės išlaikyti „Firefox“ stabilumą, naudojant kelias naršyklės atmainas viename kompiuteryje.
 
 
 ;How Dedicated Profiles Work
@@ -20,7 +20,7 @@ Kaip dedikuoti profiliai veikia
 
 
 ;Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
-„Firefox“ įrašo duomenis – tokius, kaip jūsų adresynas, slaptažodžiai ar nuostatos – į grupę failų, vadinamų jūsų profiliu. Šie profilio failai laikomi atskirai nuo „Firefox“ programos failų.
+„Firefox“ įrašo duomenis – tokius, kaip jūsų adresynas, slaptažodžiai ir nuostatos – į grupę failų, vadinamų jūsų profiliu. Šie profilio failai laikomi atskirai nuo „Firefox“ programos failų.
 
 
 ;The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
@@ -40,7 +40,7 @@ Ką reikia atlikti jums
 
 
 ;If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
-Jeigu nedarysite nieko, kiekviena įdiegta „Firefox“ atmaina naudos atskirą profilį. Tai reiškia, jog jūsų profilio duomenys skirsis tarp jūsų naudojamų „Firefox“ atmainų.
+Jeigu papildomų veiksmų nesiimsite, kiekviena įdiegta „Firefox“ atmaina naudos atskirą profilį. Tai reiškia, jog jūsų profilio duomenys skirsis tarp jūsų naudojamų „Firefox“ atmainų.
 
 
 ;You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.

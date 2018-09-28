@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo pages at https://www-dev.allizom.org/firefox/profile-downgrade/ and https://www-dev.allizom.org/firefox/profile-migrate/
 ## NOTE: Pages to explain new changes in profile management to users with multiple installs
 ## NOTE: See details https://bugzilla.mozilla.org/show_bug.cgi?id=1474285
@@ -44,7 +45,7 @@ Dacă nu faci nimic, fiecare instalare va avea un profil separat. Înseamnă că
 
 
 ;You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
-Poți modifica ce profil utilizează fiecare instalare folosind managerul de profiluri. Instrucțiunile privind modul de utilizare a managerului de profiluri sunt disponibile pe pagina de suport <a href="%(support)s"> </a>. 
+Poți modifica ce profil utilizează fiecare instalare folosind managerul de profiluri. Instrucțiunile privind modul de utilizare a managerului de profiluri sunt disponibile pe pagina de suport <a href="%(support)s"> </a>.
 
 
 ;While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.

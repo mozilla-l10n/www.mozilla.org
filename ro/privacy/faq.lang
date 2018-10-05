@@ -4,7 +4,7 @@
 
 # HTML page title
 ;Mozilla’s Data Privacy FAQ
-Întrebări frecvente adresate Mozilla despre confidențialitatea datelor
+Întrebări frecvente adresate către Mozilla despre confidențialitatea datelor
 
 
 # HTML page description
@@ -39,7 +39,7 @@ Redăm oamenilor controlul asupra datelor personale și a experienței online.
 
 
 ;We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
-Aderăm la principiul „fără surprize”, adică muncim pentru ca oamenii înțeleg corect modul în care funcționează Firefox.
+Aderăm la principiul „fără surprize”, adică muncim din greu pentru a ne asigura că oamenii înțeleg corect cum funcționează Firefox în realitate.
 
 
 ;The following questions and answers should help you understand what to expect from Mozilla and Firefox:
@@ -47,52 +47,52 @@ Următoarele întrebări și răspunsuri ar trebui să te ajute să înțelegi l
 
 
 ;I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
-Folosesc Firefox pentru tot ceea ce fac pe Web. Cred că voi de la Mozilla știți o grămadă de lucruri despre mine, da?
+Folosesc Firefox aproape pentru tot ce fac pe web. Cred că voi, cei de la Mozilla, știți o grămadă de lucruri despre mine, nu?
 
 
 ;Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
-Firefox, browserul web care rulează pe dispozitivele tale sau pe calculator, este calea ta către internet. Browserul gestionează multe informații despre site-urile pe care le vizitezi, dar aceste informații rămân pe dispozitivul tău. Mozilla, compania care face Firefox, nu colectează aceste date (decât dacă ne spui nouă să facem asta).
+Firefox, browserul web care rulează pe dispozitivele tale sau pe calculator, este poarta de ieșire către internet. Browserul gestionează multe informații despre site-urile pe care le vizitezi, dar ele rămân pe dispozitivul tău. Mozilla, compania care face Firefox, nu le colectează (decât dacă ne spui tu să o facem).
 
 
 ;Really, you don’t collect my browsing history?
-Sigur nu-mi colectați istoricul meu de navigare?
+Sigur nu-mi colectați istoricul de navigare?
 
 
 # Links to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 ;Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
-Mozilla nu știe atât de multe pe cât ar fi de așteptat despre cum navighează oamenii pe web. Ca producător de browser aceasta este o mare provocare pentru noi. De aceea am construit unelte care necesită consimțământ, cum ar fi <a href="%(link)s">Firefox Pioneer</a>, care permite utilizatorilor interesați să ne ofere informații despre modul în care navighează pe web. Dacă sincronizezi istoricul de navigare între dispozitive, noi nu știm conținutul istoricului pentru că acesta este criptat de dispozitivul tău.
+Mozilla nu știe chiar atât de multe pe cât ar fi de așteptat despre cum navighează oamenii pe web. Ca producător de browser, este de fapt o mare provocare pentru noi. De aceea am construit unelte pentru care avem nevoie de consimțământul tău, cum ar fi <a href="%(link)s">Firefox Pioneer</a>, care permite utilizatorilor interesați să ne ofere informații despre modul în care navighează pe web. Dacă sincronizezi istoricul de navigare între dispozitive, noi nu știm ce conține pentru că este criptat de dispozitive.
 
 
 ;It seems like every company on the web is buying and selling my data. You’re probably no different.
-Se pare că toate companiile de pe web cumpără și vând datele mele. Probabil nu procedați diferit.
+Se pare că toate companiile de pe web cumpără și vând datele mele. Probabil că și voi faceți la fel.
 
 
 ;Mozilla doesn’t sell data about you, and we don’t buy data about you.
-Mozilla nu vinde date despre tine și noi nu cumpărăm date despre tine.
+Mozilla nu vinde date despre tine și nici nu cumpără.
 
 
 ;Wait, so how do you make money?
-Atunci cum vă câștigați banii?
+Atunci cum faceți bani?
 
 
 # Links to https://www.mozilla.org/foundation/annualreport/
 ;Mozilla is not your average organization. Founded as a community open source project in 1998, Mozilla is a mission-driven organization working towards a more healthy internet. The majority of Mozilla Corporation’s revenue is from royalties earned through Firefox web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="%(link)s">annual financial report</a>.
-Mozilla nu este o organizație obișnuită. Fondată ca un proiect cu sursă deschisă în 1998, Mozilla este o organizație cu misiunea de a crea un internet mai sănătos. Majoritatea veniturilor Mozilla Corporation provin din parteneriate cu motoarele de căutare și contracte de distribuție în lumea întreagă. Poți afla mai multe despre cum ne facem banii în <a href="%(link)s">raportul financiar anual</a>.
+Mozilla nu este o organizație obișnuită. Fondată ca proiect comunitar cu sursă deschisă, în anul 1998, Mozilla este o organizație cu misiunea de a crea un internet mai sănătos. Cea mai mare parte a veniturilor Corporației Mozilla provine din redevențe câștigate prin parteneriate cu motoarele de căutare și contracte de distribuție în lumea întreagă. Poți afla mai multe despre cum facem bani în <a href="%(link)s">raportul financiar anual</a>.
 
 
 # "Softballs" here means questions requiring only easy or simple answers.
 ;Okay, those first few were softballs. What data do you collect?
-Iată câteva întrebări ușoare. Ce fel de date colectați?
+OK, primele au fost întrebări ușoare. Ce fel de date colectați?
 
 
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla colectează o serie limitată de date în mod implicit din Firefox, fapt ce ne ajută să înțelegem oamenii care folosesc browserul nostru. Datele sunt asociate unui număr de identificare aleatoriu și nu unui nume sau adresă de e-mail. Poți citi mai multe despre asta în <a href="%(privacy)s">nota privind confidențialitatea</a> sau poți citi <a href="%(data)s">întreaga documentație privind această colectare de date</a>.
+Mozilla colectează implicit un set limitat de date din Firefox, fapt ce ne ajută să înțelegem cum este folosit browserul. Datele sunt asociate unui număr de identificare aleatoriu și nu unui nume sau unei adrese de e-mail. Poți citi mai multe pe acest subiect în <a href="%(privacy)s">notificare privind confidențialitatea</a> sau poți citi <a href="%(data)s">toată documentația privind colectarea de date</a>.
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-Noi facem documentația noastră publică pentru a fi verificată de oricine pentru veridicitate, pentru a-i aduce îmbunătățiri și pentru a asigura încrederea că noi nu ascundem nimic.
+Documentația noastră este publică astfel încât oricine poate verifica veridicitatea celor afirmate, ne poate propune îmbunătățiri și poate avea încrederea că nu ascundem nimic.
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
@@ -105,36 +105,36 @@ Sunt două categorii de date pe care le colectăm implicit în versiunea stabil�
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-Prima sunt „date tehnice”. Acestea sunt date despre browser, cum ar fi sistemul de operare și informații despre erori sau opriri neașteptate.
+Prima constă din „date tehnice”. Sunt date despre browserul în sine, cum ar fi sistemul de operare pe care rulează și informații despre erori sau opriri neașteptate.
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
-A doua sunt „date de interacțiune”. Acestea sunt date despre modul în care interacționează oamenii cu Firefox, cum ar fi numărul de file deschise, starea preferințelor utilizator sau numărul de folosiri ale unor funcții ale browserului, cum ar fi capturi de ecran sau containere. De exemplu, noi colectăm date despre butonul „înapoi” (acel buton cu formă de săgeată din colțul din stânga sus cu care navighezi la pagina anterioară) care ne spun că a fost apăsat acel buton, dar nu ne spun paginile web accesate în urma interacțiunii.
+A doua constă din „date de interacțiune”. Sunt date despre interacțiunea utilizatorului cu Firefox, cum ar fi numărul de file deschise, starea preferințelor sau de câte ori sunt folosite anumite funcționalități ale browserului, cum ar fi capturile de ecran sau containerele. De exemplu, colectăm date despre butonul „înapoi” (săgeata din colțul din stânga sus cu care navighezi la pagina anterioară) care ne arată că butonul a fost apăsat, dar nu și ce pagini web au fost accesate.
 
 
 ;Do you collect more data in pre-release versions of Firefox?
-Colectați mai multe date în versiunile pre-lansare ale Firefox?
+Colectați mai multe date în versiunile pre-lansare Firefox?
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
-Oarecum. Pe lângă datele de mai sus, mai primim rapoarte de opriri și eroare în mod implicit în variantele pre-lansare ale Firefox.
+Oarecum. Pe lângă datele de mai sus, primim implicit rapoarte de opriri și de erori în versiunile pre-lansare Firefox.
 
 
 # Links to https://support.mozilla.org/kb/shield
 ;We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
-Noi mai colectăm date din versiunile pre-lansare pentru a face <a href="%(link)s">studii</a>. De exemplu, pentru unele studii ar putea fi necesară accesarea unor date de „activitate web” care pot include adrese sau alte informații despre unele site-uri. Aceasta ne ajută să îmbunătățim Firefox în cazuri precum integrarea unor site-uri populare cu variante locale de Firefox.
+Este posibil să mai colectăm date suplimentare din versiunile pre-lansare pentru unul dintre <a href="%(link)s">studiile</a> noastre. De exemplu, unele studii implică accesarea unor „date de activitate web”, care pot include adrese sau alte informații despre anumite site-uri. Ne ajută să găsim soluții specifice pentru îmbunătățirea Firefox, de exemplu la integrarea unor site-uri populare în variante locale de Firefox.
 
 
 ;Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
-Versiunile pre-lansare ale Firefox sunt platforme de dezvoltare și actualizate frecvent cu funcții experimentale. Noi colectăm mai multe date în aceste versiuni față de versiunea stabilă pentru a înțelege modul de funcționare al acestor funcții experimentale. Poți opta să nu fie trimise aceste date prin intermediul preferințelor.
+Versiunile Firefox pre-lansare sunt platforme de dezvoltare, actualizate frecvent cu funcționalități experimentale. Colectăm mai multe date în versiunile pre-lansare decât în cea stabilă ca să înțelegem cum funcționează aceste elemente experimentale. Poți opta în preferințe să nu fie colectate.
 
 
 ;But why do you collect any data at all?
-Dar de ce colectați date?
+Dar de ce colectați date oricum?
 
 
 ;If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
-Dacă nu știm cum se comportă browserului sau funcțiile folosite de utilizatori, nu îl putem îmbunătăți și nu putem oferi produsul pe care îl merită utilizatorii noștri. Am investit în construirea de unelte de colectare și analiză de date care ne ajută să luăm decizii inteligente despre produs, dar care respectă confidențialitatea oamenilor.
+Dacă nu știm cum se comportă browserul sau ce funcționalități accesează utilizatori, nu îl putem îmbunătăți și nu putem oferi produsul pe care îl merită utilizatorii noștri. Am investit în construirea de unelte de colectare și analiză a datelor, care ne permit să luăm decizii inteligente despre produs, dar care respectă confidențialitatea oamenilor.
 
 
 ;Data collection still bugs me. Can I turn it off?
@@ -144,7 +144,7 @@ Colectarea de date mă deranjează. Pot să o dezactivez?
 # First URL links to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 # Second URL links to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
 ;Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
-Da. Controlul acordat utilizatorilor este unul din principiile noastre de confidențialitate a datelor. Aplicăm asta la Firefox prin <a href="%(settings)s">pagina de setări de confidențialitate</a>, care este locul central din care îți poți controla confidențialitatea în Firefox. Din acel loc poți <a href="%(data)s">dezactiva colectarea de date</a>.
+Da. Controlul pus în mâinile utilizatorilor este unul dintre principiile noastre de confidențialitate a datelor. Îl aplicăm în Firefox prin <a href="%(settings)s">pagina cu setări de confidențialitate</a>, care servește drept punct unic din care poți controla confidențialitatea în Firefox. Acolo poți <a href="%(data)s">dezactiva colectarea datelor</a>.
 
 
 ;What about my account data?
@@ -152,27 +152,27 @@ Ce se întâmplă cu datele contului meu?
 
 
 ;We are big believers of data minimization and not asking for things we don't need.
-Credem în minimizarea colectării de date și nu cerem date de care nu avem nevoie.
+Credem în colectarea minimă de date și nu cerem ceva de care nu avem nevoie.
 
 
 ;You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-Nu ai nevoie de un cont pentru a folosi Firefox. Conturile sunt necesare pentru a sincroniza date pe mai multe dispozitive, dar pentru aceasta noi cerem doar o adresă de e-mail. Nu dorim să aflăm lucruri precum numele tău, adresa, data nașterii sau numărul de telefon.
+Nu ai nevoie de un cont ca să folosești Firefox. Conturile sunt necesare pentru sincronizarea datelor pe mai multe dispozitive, iar pentru aceasta îți trebuie numai o adresă de e-mail. Nu vrem să aflăm lucruri precum numele, adresa, data nașterii sau numărul tău de telefon.
 
 
 ;You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
-Folosiți publicitatea digitală ca parte a politicii de marketing. Cumpărați datele altor persoane pentru a ținti mai bine publicitatea online?
+Folosiți publicitatea digitală ca parte a politicii de marketing. Cumpărați date personale pentru reclame online mai bine țintite?
 
 
 ;No, we do not buy people's data to target advertising.
-Nu, nu cumpărăm date personale pentru a ținti publicitatea.
+Nu, nu cumpărăm date personale pentru publicitate țintită.
 
 
 ;We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
-Noi cerem partenerilor publicitari să folosească doar date direct colectate pe care site-urile și distribuitorii de conținut le știu despre toți utilizatorii, precum browserul folosit și dispozitivul pe care îl folosesc.
+Cerem partenerilor noștri de publicitate să folosească doar date colectate direct, pe care site-urile și distribuitorii de conținut le știu despre toți utilizatorii, precum browserul folosit și dispozitivul folosit.
 
 
 ;Well, it seems like you really have my back on this privacy stuff.
-Se pare că sunteți de partea mea în materie de confidențialitate.
+Se pare că voi chiar sunteți de partea mea în materie de confidențialitate.
 
 
 ;Yes, we do.

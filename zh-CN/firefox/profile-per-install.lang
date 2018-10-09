@@ -12,7 +12,7 @@ Firefox 中的重要变化：专用配置文件
 
 
 ;Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
-Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
+在此之前，同一台设备上安装的所有 Firefox 默认都共享同一套配置文件。现在 Firefox 会为不同的安装（包含 Firefox Nightly、Beta、ESR）创建不同的配置文件。如此一来，在同一台电脑上切换不同版本时，运行可更为稳定。
 
 
 ;How Dedicated Profiles Work
@@ -20,19 +20,19 @@ Before, all Firefox installations were sharing a single profile by default. Now,
 
 
 ;Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
-Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
+Firefox 会将书签、密码、用户首选项等信息存储在叫做“您的配置文件”的一系列文件中。配置文件会与 Firefox 程序文件存储于不同位置。
 
 
 ;The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
-The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
+您选择作为默认的 Firefox 安装版本，将保留您先前的书签、历史记录、密码等配置文件数据。
 
 
 ;You have not lost any personal data or customizations. Any previous profile data is safe and attached to the first Firefox installation that was opened after this change.
-You have not lost any personal data or customizations. Any previous profile data is safe and attached to the first Firefox installation that was opened after this change.
+您没有丢失任何个人数据或定制项。先前的配置文件依然存在，并附加到此变更生效后，第一次打开的 Firefox 安装版本。
 
 
 ;All of your Firefox installations will now have separate profiles.
-All of your Firefox installations will now have separate profiles.
+现在起，您安装所有的 Firefox 将使用独立配置文件。
 
 
 ;What You Need to Do
@@ -40,19 +40,19 @@ All of your Firefox installations will now have separate profiles.
 
 
 ;If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
-If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
+如果不执行任何操作，则每个安装版本都将会有单独的配置文件。这意味着每次安装 Firefox 时您的配置文件数据都会不同。
 
 
 ;You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
-You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
+您可以使用配置文件管理器，来调整某个安装版本要使用某一套配置文件。请参考<a href="%(support)s">这篇用户支持页面</a>了解如何使用配置文件管理器。
 
 
 ;While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.
-While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.
+虽然 Firefox 的每个安装版本现均已与各自的配置文件连接，但您可以通过 Firefox 账户使他们保持同步。若您想要将所有安装的 Firefox 都有相同的配置文件数据，我们建议您使用 Firefox 账户来同步所有数据。
 
 
 ;A Firefox Account is the easiest way to make your profiles consistent on all of your versions of Firefox. You also get additional benefits like sending tabs and secure password storage.
-A Firefox Account is the easiest way to make your profiles consistent on all of your versions of Firefox. You also get additional benefits like sending tabs and secure password storage.
+Firefox 账户是保持所有配置文件一致的最简单的方式。您还可以获得其他好处，例如发送标签页和安全的密码存储功能。
 
 
 ;You’re signed in and ready to start using Sync.
@@ -60,10 +60,10 @@ A Firefox Account is the easiest way to make your profiles consistent on all of 
 
 
 ;We detected that you have installed and opened an older version of Firefox on your computer. You may need to take action.
-We detected that you have installed and opened an older version of Firefox on your computer. You may need to take action.
+我们检测到您已在计算机上安装并打开旧版的 Firefox。 您可能需采取行动解决此问题。
 
 
 ;We detected more than one version of Firefox on your computer. You may need to take action.
-We detected more than one version of Firefox on your computer. You may need to take action.
+我们在您的计算机上检测到多个版本的 Firefox。 您可能需采取行动解决此问题。
 
 

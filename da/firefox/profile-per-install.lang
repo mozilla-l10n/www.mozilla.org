@@ -4,27 +4,27 @@
 
 
 ;An Important Change in Firefox: Dedicated Profiles
-An Important Change in Firefox: Dedicated Profiles
+En vigtig ændring i Firefox: Særskilte profiler
 
 
 ;What’s Changed
-What’s Changed
+Dét har ændret sig
 
 
 ;Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
-Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
+Tidligere delte alle Firefox-installationer som standard en enkelt profil. Nu tildeler Firefox særskilte profiler til hver Firefox-installation (dette inkluderer installationer af Firefox Nightly, Firefox Beta og Firefox ESR). Dette vil gøre Firefox mere stabil, når man skifter mellem Firefox-installationer på den samme computer.
 
 
 ;How Dedicated Profiles Work
-How Dedicated Profiles Work
+Sådan virker særskilte profiler
 
 
 ;Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
-Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
+Firefox gemmer information, som fx bogmærker, adgangskoder og brugerindstillinger i et sæt filer, som kaldes en profil. Denne profil gemmes et andet sted end dine Firefox' programfiler.
 
 
 ;The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
-The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
+Den installation, du vælger som din primære Firefox-installation, vil gemme dine tidligere delte profildata som fx bogmærker, historik og adgangskoder.
 
 
 ;You have not lost any personal data or customizations. Any previous profile data is safe and attached to the first Firefox installation that was opened after this change.
@@ -32,19 +32,19 @@ Du har ikke mistet nogen personlige data eller tilpasninger. Alle tidligere prof
 
 
 ;All of your Firefox installations will now have separate profiles.
-All of your Firefox installations will now have separate profiles.
+Alle dine Firefox-installationer vil nu have særskilte profiler.
 
 
 ;What You Need to Do
-What You Need to Do
+Hvad du skal gøre
 
 
 ;If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
-If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
+Hvis du ikke gør noget, vil hver installation have en særskilt profil. Det betyder, at dine profildata vil være forskellig på hver Firefox-installation.
 
 
 ;You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
-You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
+Du kan ændre hvilken installation, der bruger hvilken profil ved hjælp af profilmanageren. Vejledning i, hvordan du bruger profilmanageren, finder du i <a href="%(support)s">denne support-artikel</a>.
 
 
 ;While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.
@@ -64,6 +64,6 @@ Vi har registreret, at du har installeret og åbnet en ældre version af Firefox
 
 
 ;We detected more than one version of Firefox on your computer. You may need to take action.
-We detected more than one version of Firefox on your computer. You may need to take action.
+Vi har registreret mere end én version af Firefox på din computer. Du skal muligvis træffe foranstaltninger.
 
 

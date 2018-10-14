@@ -134,12 +134,12 @@ Obteña respostas do noso equipo de asistencia a todas as súas cuestións sobre
 # This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
 # You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
-%(sum)s $
+%(sum)s €
 
 
 # Take over form
 ;Enter your own amount
-Escolla o importa da súa doazón
+Escolla o importe da súa doazón
 
 
 # Take over form: radio button for monthly contributions

@@ -12,11 +12,11 @@ Mikä on muuttunut
 
 
 ;Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
-Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
+Aiemmin kaikki Firefox-asennukset jakoivat oletusarvoisesti yhden ainoan profiilin. Nyt Firefox tarjoaa erilliset profiilit jokaiselle Firefox-asennukselle (mukaan lukien Firefox Nightly, Firefox Beta, ja Firefox ESR). Tämän ansiosta Firefox on aiempaa vakaampi, kun vaihdat samalla koneella olevien eri Firefox-asennusten välillä.
 
 
 ;How Dedicated Profiles Work
-How Dedicated Profiles Work
+Näin erillisprofiilit toimivat
 
 
 ;Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
@@ -32,7 +32,7 @@ Mitään henkilökohtaisia tietojasi tai mukautuksia ei ole kadonnut. Kaikki aie
 
 
 ;All of your Firefox installations will now have separate profiles.
-Kaikissa Firefox-asennuksissasi on nyt erilliset profiilit.
+Kaikilla Firefox-asennuksillasi on nyt erilliset profiilit.
 
 
 ;What You Need to Do
@@ -40,15 +40,15 @@ Mitä sinun tulee tehdä
 
 
 ;If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
-If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
+Jos et tee mitään, kaikissa Firefox-asennuksissa on erillinen profiili. Tämä tarkoittaa sitä, että jokaisen Firefox-asennuksen profiilitiedot ovat erilaiset.
 
 
 ;You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
-You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
+Voit vaihtaa kunkin asennuksen käyttämää profiilia profiilien hallinnan avulla. Ohjeet profiilien hallinnan käyttöön löydät <a href="%(support)s">tästä tukiartikkelista</a>.
 
 
 ;While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.
-While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.
+Vaikka profiilit on nyt yhdistetty yksittäisiin Firefox-asennuksiin, voit pitää profiilitiedot synkronoituinta Firefox-tilin avulla. Jos haluat kaikkien Firefox-asennustesi profiilitietojen olevan yhtenäisiä, suosittelemme synkronointia Firefox-tilin avulla.
 
 
 ;A Firefox Account is the easiest way to make your profiles consistent on all of your versions of Firefox. You also get additional benefits like sending tabs and secure password storage.
@@ -56,14 +56,14 @@ Firefox-tili on helpoin tapa pitää profiilit yhtenäisinä kaikkien käyttämi
 
 
 ;You’re signed in and ready to start using Sync.
-You’re signed in and ready to start using Sync.
+Olet kirjautunut sisään ja valmis Syncin käyttöön.
 
 
 ;We detected that you have installed and opened an older version of Firefox on your computer. You may need to take action.
-We detected that you have installed and opened an older version of Firefox on your computer. You may need to take action.
+Havaitsimme, että olet asentanut ja avannut Firefoxin vanhemman version. Tämä saattaa vaatia toimenpiteitä.
 
 
 ;We detected more than one version of Firefox on your computer. You may need to take action.
-We detected more than one version of Firefox on your computer. You may need to take action.
+Havaitsimme, että tietokoneellasi on useampi versio Firefoxista. Tämä saattaa vaatia toimenpiteitä.
 
 

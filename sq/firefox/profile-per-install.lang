@@ -8,39 +8,39 @@ An Important Change in Firefox: Dedicated Profiles
 
 
 ;What’s Changed
-What’s Changed
+Ç’ka Ndryshuar
 
 
 ;Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
-Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
+Dikur, krejt instalimet e Firefox-it, si parazgjedhje kishin të përbashkët një profil të vetëm. Tani e tutje, Firefox-i furnizon profile më vete për çdo instalim Firefox (kjo përfshin instalime të varianteve Firefox Nightly, Firefox Beta, ose Firefox ESR). Kjo do ta bëjë Firefox-in më të qëndrueshëm, kur kalohet nga një instalim në tjetrin te i njëjti kompjuter.
 
 
 ;How Dedicated Profiles Work
-How Dedicated Profiles Work
+Si Funksionojnë Profilet Më Vete
 
 
 ;Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
-Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
+Firefox-i i ruan të dhëna të tilla, si ato për faqerojtës, fjalëkalime dhe parapëlqime përdoruesi në një grup kartelash të quajtur profili juaj. Ky profil depozitohet në një vend të veçantë nga kartelat e programit Firefox.
 
 
 ;The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
-The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
+Instalimi që zgjidhni si instalimin tuaj parësor të Firefox-it do të mbajë të dhënat e përbashkëta të dikurshme të profilit, të tilla si faqerojtës, historik dhe fjalëkalime.
 
 
 ;You have not lost any personal data or customizations. Any previous profile data is safe and attached to the first Firefox installation that was opened after this change.
-You have not lost any personal data or customizations. Any previous profile data is safe and attached to the first Firefox installation that was opened after this change.
+S’keni humbur ndonjë të dhënë personale apo përshtatje. Çfarëdo të dhënash të dikurshme profili janë të parrezikuara dhe bashkëngjitur instalimit të parë të Firefox-it që u hap pas këtij ndryshimi.
 
 
 ;All of your Firefox installations will now have separate profiles.
-All of your Firefox installations will now have separate profiles.
+Krejt instalimet tuaja Firefox tani do të kenë profile ndaras.
 
 
 ;What You Need to Do
-What You Need to Do
+Ç’lypset t Bëni
 
 
 ;If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
-If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
+Nëse s’bëni gjë, çdo instalim do të ketë një profil më vete. Kjo do të thotë se të dhënat tuaja të profilit do të jenë të ndryshme në çdo instalim të Firefox-it.
 
 
 ;You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.

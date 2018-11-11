@@ -4,7 +4,7 @@ Navigare
 
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
-Descărcări de versiuni preliminare
+Descărcări pentru versiune preliminară
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -25,7 +25,7 @@ Nu mă urmări
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Tablou de bord cu subiecte de interes
+Tabloul intereselor mele
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -55,7 +55,7 @@ Alege browserul independent
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox este nonprofit, necorporatist și fără compromisuri. Cu Firefox nu alegi doar un browser. Este un vot pentru libertate personală.
+Firefox este nonprofit, fără legături corporative și lipsit de compromisuri. Alegând Firefox nu alegi doar un browser. Este un vot pentru libertatea personală.
 
 
 ;Donate
@@ -93,7 +93,7 @@ sari direct la navigare
 
 
 ;switch language
-schimbă limba
+comută limba
 
 
 ;Back to home page
@@ -113,7 +113,7 @@ Cariere
 
 
 ;Press Center
-Centrul de presă
+Centru de presă
 
 
 ;Contact Us
@@ -149,7 +149,7 @@ Cookie-uri
 
 
 ;Legal Notices
-Mențiuni juridice
+Avize juridice
 
 
 ;Privacy Policy
@@ -181,7 +181,7 @@ Funcționalități
 
 
 ;Customize
-Personalizează
+Personalizare
 
 
 ;Download
@@ -214,15 +214,15 @@ Videoclipuri
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-Cu excepția cazurilor în care <a href="%s">este specificat altminteri</a>, conținutul de pe acest site se află sub licența <br /><a href="%s">Creative Commons Attribution Share-Alike v3.0</a> sau orice versiune ulterioară.
+Cu excepția cazurilor când <a href="%s">se specifică altfel</a>, conținutul de pe acest site este licențiat sub licența <br /><a href="%s">Creative Commons Attribution Share-Alike v3.0</a> sau orice versiune ulterioară.
 
 
 ;Report Trademark Abuse
-Raportează abuzurile asupra mărcilor comerciale
+Raportează abuzul mărcilor înregistrate
 
 
 ;Free Upgrade
-Trecere gratuită la o versiune superioară
+Actualizare gratuită
 
 
 # social networks such as Facebook and Twitter
@@ -231,7 +231,7 @@ Urmărește-ne pe:
 
 
 ;Customize with Add-ons
-Personalizează cu suplimente
+Personalizare cu suplimente
 
 
 ;Learn More
@@ -245,15 +245,15 @@ Află mai multe
 
 # Link used to play again an animation or a video
 ;Replay
-Vezi din nou
+Revizionează
 
 
 ;Watch the video
-Vezi videoclipul
+Vizionează videoclipul
 
 
 ;Replay the video
-Vezi din nou videoclipul
+Revizionează din nou
 
 
 ;Share the video
@@ -307,22 +307,22 @@ Confidențialitate
 
 # New footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
-Porțiuni din acest conținut sunt scrise între ©1998–%(current_year)s de colaboratori individuali mozilla.org. Conținut disponibil sub o <a rel="license" href="%(url)s">licență Creative Commons</a>.
+Porțiuni din acest conținut sunt scrise între ©1998–%(current_year)s de contribuitori individuali mozilla.org. Conținut disponibil sub <a rel="license" href="%(url)s">licența Creative Commons</a>.
 
 
 # Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Porțiuni din acest conținut sunt scrise între ©1998–%(current_year)s de colaboratori individuali mozilla.org. Conținut disponibil sub o <a href="%(url)s">licență Creative Commons</a>.
+Porțiuni din acest conținut sunt scrise între ©1998–%(current_year)s de contribuitori individuali mozilla.org. Conținut disponibil sub <a href="%(url)s">licența Creative Commons</a>.
 
 
 # Footer string
 ;Contribute to this site
-Contribuie la acest site
+Contribuie la această pagină
 
 
 # Used in footer, links to the source code of the page currently displayed.
 ;Source code for this page
-Cod-sursă pentru această pagină
+Codul sursă pentru această pagină
 
 
 # Top menu item
@@ -357,16 +357,16 @@ Teme
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Suport pentru desktop
+Suport desktop
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Suport pentru Android
+Suport Android
 
 
 ;Releases
-Versiuni
+Lansări
 
 
 ;Blog
@@ -375,12 +375,12 @@ Blog {ok}
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-Obține actualizări de la Mozilla
+Obține noutăți de la Mozilla
 
 
 # share button for social networks
 ;Share
-Partajează
+Împărtășește
 
 
 # footer link
@@ -415,7 +415,7 @@ Brevete
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Conducere
+Conducerea
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -425,7 +425,7 @@ Administrație
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
-Istorie
+Istoric
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -440,7 +440,7 @@ Programe și alte inovații concepute pentru a avansa în misiunea noastră.
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Devino colaborator voluntar în mai multe domenii.
+Devino un contribuitor voluntar în mai multe domenii.
 
 
 # This is a non-visible string for blind people to indicate where the menu is
@@ -450,12 +450,12 @@ Meniu
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Dedicat ție, confidențialității datelor tale personale și unui web deschis
+Creat pentru tine, pentru confidențialitatea ta și pentru un web deschis
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Te rugăm să activezi JavaScript pentru a afișa pagina corect.
+Te rugăm să activezi JavaScript pentru a afișa această pagină corect.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -557,7 +557,7 @@ decembrie
 
 
 ;<abbr>Nov</abbr>
-<abbr>nov</abbr>
+<abbr>noi</abbr>
 
 
 ;<abbr>Dec</abbr>
@@ -565,7 +565,7 @@ decembrie
 
 
 ;Congrats. You’re up to date!
-Felicitări! Ești la zi!
+Felicitări. Deții cea mai nouă versiune!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -585,36 +585,36 @@ HTML {ok}
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
-Ups! Asigură-te că ai introdus o adresă de e-mail validă.
+Ups! Asigură-te că introduci o adresă de e-mail validă.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Sunt de acord ca Mozilla să îmi prelucreze informațiile, conform explicațiilor din <a href="%s">această Politică de confidențialitate</a>
+Sunt de acord ca Mozilla să îmi prelucreze informațiile așa cum este explicat în <a href="%s">această Politică de confidențialitatea</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Fii la curent<br> cu noutățile din Firefox.
+Fii la curent<br> cu ce-i nou prin Firefox.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Abonează-te la știri despre Firefox
+Primește noutăți despre Firefox
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-ADRESA DE E-MAIL AICI
+ADRESA DE E-MAIL
 
 
 # Newsletter subscription Button
 ;Sign Up Now
-Înscrie-te acum
+Autentifică-te acum
 
 
 # Old newsletter subscription Button
 ;Sign me up
-Abonează-mă
+Înregistrează-mă
 
 
 ;Select country
@@ -634,15 +634,15 @@ Limbi disponibile
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-Dacă nu ai confirmat anterior o abonare la un buletin de știri despre Mozilla, este posibil să fie nevoie să o faci. Te rugăm să verifici mesajele primite sau dosarul spam pentru a găsi e-mailul de la noi.
+Dacă nu ai confirmat anterior o abonare la un buletin de știri care are legătură cu Mozilla, este posibil să fie nevoie să o faci. Te rugăm să verifici mesajele primite sau dosarul spam pentru a găsi e-mailul de la noi.
 
 
 ;Read all about it in our <span>newsletter</span>
-Citește informații pe larg în <span>buletinul de știri</span>
+Citește totul despre asta în <span>buletinele de știri</span>
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Abonează-te la știri lunare și fii la curent cu noutățile Mozilla, inclusiv ultimele ponturi și trucuri pentru a valorifica la maxim capacitățile browserului Firefox. Este modul perfect de a ține legătura cu noi!
+Abonează-te pentru a primi noutăți lunare și pentru a fi la curent cu știrile Mozilla, ce includ ultimele ponturi și trucuri pentru a obține maximul din browserul Firefox. Este modalitatea perfectă pentru a ține legătura!
 
 
 ;<span>Firefox</span> + You
@@ -650,7 +650,7 @@ Abonează-te la știri lunare și fii la curent cu noutățile Mozilla, inclusiv
 
 
 ;Get Firefox tips, tricks, news and more
-Obține ponturi, trucuri, știri și multe altele
+Obține ponturi, trucuri, știri și mai multe
 
 
 # This string will be used as a navigation label in home page, pointing to /technology
@@ -667,7 +667,7 @@ Sănătatea internetului
 
 # Used as title in What's new page for 50
 ;Thanks for choosing Firefox!
-Îți mulțumim că ai ales Firefox!
+Îți mulțumim pentru că ai ales Firefox!
 
 
 # Used in combination with other strings to create HTML page titles, e.g. in What's new pages
@@ -707,27 +707,27 @@ Descarcă browserul web Firefox
 
 # Link in the footer
 ;Desktop Browser for Mac, Windows, Linux
-Browserul de desktop pentru Mac, Windows, Linux
+Browserul desktop pentru Mac, Windows, Linux
 
 
 # Link in the footer
 ;Mobile Browser for Android
-Browserul de dispozitive mobile pentru Android
+Browserul mobil pentru Android
 
 
 # Link in the footer
 ;Mobile Browser for iOS
-Browserul de dispozitive mobile pentru iOS
+Browserul mobil pentru iOS
 
 
 # Title in a banner displayed to users of old versions of Firefox
 ;Your Firefox is out-of-date.
-Versiunea de Firefox este veche.
+Firefoxul tău este învechit.
 
 
 # Description in a banner displayed to users of old versions of Firefox
 ;Get the most recent version to keep browsing securely.
-Instalează cea mai nouă versiune pentru a naviga în siguranță.
+Obține cea mai nouă versiune pentru a naviga în mod sigur.
 
 
 # Button label in a banner displayed to users of old versions of Firefox
@@ -737,12 +737,12 @@ Actualizează Firefox
 
 # Title for Open Graph sharing in new What's new pages
 ;See what’s new with Firefox
-Descoperă noutățile din Firefox
+Vezi ce este nou cu Firefox
 
 
 # Description for Open Graph sharing in new What's new pages
 ;Faster, more responsive and powerfully private. Check out the latest from the browser that has your back.
-Mai rapid, mai sensibil și cu o confidențialitate puternică. Vezi ce e nou în browserul care te apără.
+Răspunde mai rapid și cu confidențialitate crescută. Obține cel mai recent browser care e de partea ta.
 
 
 # Used on Firefox Privacy Notice landing page
@@ -757,7 +757,7 @@ Afișează mai puține
 
 # Used on Firefox Privacy Notice landing page
 ;Choose how you want to share this data in Firefox.
-Alege cum vrei să partajezi aceste date în Firefox.
+Alege cum vrei să împărtășești aceste date în Firefox.
 
 
 # The button opens Firefox preferences, in the Data section, to select your option
@@ -767,17 +767,17 @@ Alege…
 
 # Used on Firefox Privacy Notice landing page
 ;Show All
-Arată-le pe toate
+Arată toate
 
 
 # Used on Firefox Privacy Notice landing page
 ;Hide All
-Ascunde-le pe toate
+Ascunde totul
 
 
 # Navigation link points to /firefox/developer
 ;Developer Hub
-Centrul de dezvoltatori
+Hub dezvoltatori
 
 
 # Naviation link points to https://research.mozilla.org
@@ -797,16 +797,16 @@ Jocuri
 
 # Navigation link points to https://developer.mozilla.org
 ;Documentation
-Documentație
+Documentare
 
 
 # Navigation link points to https://hacks.mozilla.org
 ;Hacks blog
-Blogul de hackuri
+Blogul Hacks
 
 
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
-Descarcă Mozilla Firefox, un browser web gratuit. Firefox este creat de o organizație globală nonprofit dedicată să dea oamenilor controlul online. Obține Firefox pentru Windows, macOS, Linux, Android și iOS astăzi!
+Descarcă Mozilla Firefox, un browser web gratuit. Firefox este creat de o organizație globală nonprofit cu misiunea de a oferi oamenilor controlul online. Obține Firefox pentru Windows, macOS, Linux, Android și iOS astăzi!
 
 
 # Used in a Firefox Account widget, button label to create an account
@@ -816,19 +816,19 @@ Creează un cont
 
 # Used in a Firefox Account widget, button label to download a mobile app
 ;Get the app
-Instalează aplicația
+Obține aplicația
 
 
 ;<strong>Enter your email</strong> to access Firefox Accounts.
-<strong>Introdu e-mailul</strong> pentru a intra în conturile Firefox.
+<strong>Introdu e-mailul</strong> pentru a accesa contul tău Firefox.
 
 
 ;Email address
-Adresă de e-mail
+Adresă e-mail
 
 
 ;By proceeding, you agree to the <a href="%(url1)s">Terms of Service</a> and <a href="%(url2)s">Privacy Notice</a>.
-Prin continuare, agreezi <a href="%(url1)s">Termenii de utilizare a serviciilor</a> și cu <a href="%(url2)s">Notificarea privind confidențialitatea</a>.
+Prin continuare, ești de acord cu <a href="%(url1)s">Termenii de utilizare a serviciului</a> și cu <a href="%(url2)s">Politica de confidențialitate</a>.
 
 
 ;Continue

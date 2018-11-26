@@ -155,6 +155,11 @@ Peki ya hesap verilerim?
 Mümkün olduğunca az veri toplamamız gerektiğine inanıyor, ihtiyacımız olmayan hiçbir bilgiyi sormuyoruz.
 
 
+;You don't need an account to use Firefox. <a href="%(accounts)s">Accounts</a> are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+You don't need an account to use Firefox. <a href="%(accounts)s">Accounts</a> are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+
+
+# String is obsolete. Do not remove.
 ;You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
 Firefox’u kullanmak için hesap açmanız gerekmiyor. Cihazlarınız arasında veri eşitlemek isterseniz hesap açmanız gerekli ama o zaman da yalnızca e-posta adresinizi soruyoruz. Adınız, adresiniz, doğum tarihiniz ve telefon numaranız gibi şeyleri merak etmiyoruz.
 

@@ -139,7 +139,7 @@ Get answers to your questions about Firefox and all Mozilla products from our su
 # This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
 # You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 ;$%(sum)s
-£%(sum)s
+$%(sum)s {ok}
 
 
 # Take over form

@@ -10,6 +10,11 @@
 Mozilla コミュニティ参加ガイドライン
 
 
+;Version 3.0 – Updated November 28, 2018
+Version 3.0 – Updated November 28, 2018
+
+
+# String is obsolete. Do not remove.
 ;Version 2.3 – Updated May 16, 2017
 バージョン 2.3 – 2017 年 5 月 16 日更新
 
@@ -126,6 +131,11 @@ Mozilla 関連の掲示板、メーリングリスト、wiki、ウェブサイ�
 このガイドラインは、Mozilla 従業員を保護し、その義務を規定する「反ハラスメント・反差別ポリシー」<a href="%(note1)s">[1]</a> と並んで実行されます。「反ハラスメント・反差別ポリシー」は特定の法的定義と必須要件を念頭に作成されました。
 
 
+;While these guidelines / code of conduct are specifically aimed at Mozilla’s work and community, we recognize that it is possible for actions taken outside of Mozilla’s online or inperson spaces to have a deep impact on community health. (For example, in the past, we publicly identified an anonymous posting aimed at a Mozilla employee in a non-Mozilla forum as clear grounds for removal from the Mozilla community.) This is an active topic in the diversity and inclusion realm. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
+While these guidelines / code of conduct are specifically aimed at Mozilla’s work and community, we recognize that it is possible for actions taken outside of Mozilla’s online or inperson spaces to have a deep impact on community health. (For example, in the past, we publicly identified an anonymous posting aimed at a Mozilla employee in a non-Mozilla forum as clear grounds for removal from the Mozilla community.) This is an active topic in the diversity and inclusion realm. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
+
+
+# String is obsolete. Do not remove.
 ;If you experience behavior outside of Mozilla communities, in person or online, that makes participation in Mozilla not a safe and positive community experience for all, please contact us at <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>. While these guidelines / code of conduct are specifically aimed at Mozilla’s work and community, we recognize that it is possible for actions taken outside of Mozilla’s online or inperson spaces to have a deep impact on community health. (For example, in the past, we publicly identified an anonymous posting aimed at a Mozilla employee in a non-Mozilla forum as clear grounds for removal from the Mozilla community.) This is an active topic in the diversity and inclusion realm. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
 Mozilla コミュニティ外で、実際に、あるいはオンライン上で、Mozilla への参加を安全かつポジティブなコミュニティ体験としなくなる行為を目にした場合は、<a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> までご連絡ください。本ガイドラインと行動規範は特に Mozilla の活動やコミュニティを指したものですが、Mozilla のオンラインおよび本体スペース外で行われたことがコミュニティの健全性に大きなインパクトを与えることもあるからです (例えば過去には、Mozilla 関連でない掲示板で Mozilla 従業員を晒す投稿を行った匿名者を特定し、Mozilla コミュニティから追放する理由としたことがありました)。こちらは多様性と許容範囲を巡る現在進行形のトピックです。適切な線引きに関しては、コミュニティにおいて幅広い議論が行われることを期待しています。
 
@@ -326,6 +336,23 @@ Mozilla のスタッフは、このようなガイドラインに加えて、Moz
 報告
 
 
+;If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, <a href="%(hotline)s">please use our hotline to report</a>. Reports go directly to Mozilla’s Employment Counsel and HR People Partners and are triaged by the Community Participation Guidelines Response Lead.
+If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, <a href="%(hotline)s">please use our hotline to report</a>. Reports go directly to Mozilla’s Employment Counsel and HR People Partners and are triaged by the Community Participation Guidelines Response Lead.
+
+
+;After receiving a concise description of your situation, they will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues or outside specialists (such as legal counsel), as needed to appropriately address each situation.
+After receiving a concise description of your situation, they will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues or outside specialists (such as legal counsel), as needed to appropriately address each situation.
+
+
+;Additional Resources: <a href="%s">How to Report</a>
+Additional Resources: <a href="%s">How to Report</a>
+
+
+;Questions: <a href="%s">inclusion@mozilla.com</a>
+Questions: <a href="%s">inclusion@mozilla.com</a>
+
+
+# String is obsolete. Do not remove.
 ;If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, please contact <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> and the designated person for your event, activity or Mozilla space. Inclusion@ reaches our Diversity &amp; Inclusion Leader, %(di_leader)s, and our Director of Organizational Development, %(dir_orgdev)s. After receiving a concise description of your situation, they will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues, including legal counsel, only as needed to appropriately address each situation.
 上記で容認されない行為として概説した許容されない行為を経験していると確信する場合は、<a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> およびイベント、活動または Mozilla スペースの担当者に連絡してください。Inclusion@ 宛のメールは、多様性および包括性リーダーの %(di_leader)s と組織開発責任者 %(dir_orgdev)s に届きます。当該状況の簡潔な説明を受け取った後で、見直しと次の手順の決定が行われます。すべての調査に加えて、個別相談からその他のコミュニティリソースまで様々なリソースを提供することもできます。各状況に対応するために、必要な場合にのみ弁護士など他の同業者が関与することもあります。
 
@@ -336,14 +363,6 @@ Mozilla のスタッフは、このようなガイドラインに加えて、Moz
 
 ;If you feel you have been unfairly accused of violating these guidelines, please follow the same reporting process.
 これらのガイドラインに違反したと不当に責められていると感じる場合は、同じ報告過程に従ってください。
-
-
-;Who to Contact
-連絡先
-
-
-;<a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>
-<a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> {ok}
 
 
 ;Mozilla Spaces

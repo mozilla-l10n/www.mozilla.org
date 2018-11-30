@@ -10,6 +10,11 @@
 Mozilla 社群參與準則
 
 
+;Version 3.0 – Updated November 28, 2018
+Version 3.0 – Updated November 28, 2018
+
+
+# String is obsolete. Do not remove.
 ;Version 2.3 – Updated May 16, 2017
 2.3 版– 2017 年 5 月 16 日更新
 
@@ -126,6 +131,11 @@ Mozilla 以人為本。我們將人擺在第一位，盡最大的努力去認識
 這些準則以及我們的反騷擾/歧視政策<a href="%(note1)s">[1]</a>，共同保護 Mozilla 員工，而且 Mozilla 員工也有義務身體力行這些準則和政策。反騷擾/歧視政策是根據明確的法律條文與規定所訂定的。
 
 
+;While these guidelines / code of conduct are specifically aimed at Mozilla’s work and community, we recognize that it is possible for actions taken outside of Mozilla’s online or inperson spaces to have a deep impact on community health. (For example, in the past, we publicly identified an anonymous posting aimed at a Mozilla employee in a non-Mozilla forum as clear grounds for removal from the Mozilla community.) This is an active topic in the diversity and inclusion realm. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
+While these guidelines / code of conduct are specifically aimed at Mozilla’s work and community, we recognize that it is possible for actions taken outside of Mozilla’s online or inperson spaces to have a deep impact on community health. (For example, in the past, we publicly identified an anonymous posting aimed at a Mozilla employee in a non-Mozilla forum as clear grounds for removal from the Mozilla community.) This is an active topic in the diversity and inclusion realm. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
+
+
+# String is obsolete. Do not remove.
 ;If you experience behavior outside of Mozilla communities, in person or online, that makes participation in Mozilla not a safe and positive community experience for all, please contact us at <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>. While these guidelines / code of conduct are specifically aimed at Mozilla’s work and community, we recognize that it is possible for actions taken outside of Mozilla’s online or inperson spaces to have a deep impact on community health. (For example, in the past, we publicly identified an anonymous posting aimed at a Mozilla employee in a non-Mozilla forum as clear grounds for removal from the Mozilla community.) This is an active topic in the diversity and inclusion realm. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
 如果您親身或在網上遇到超出 Mozilla 社群規範的行為，導致參與 Mozilla 對所有人來說不是安全且正面的社群體驗時，請寄送電子郵件到 <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> 與我們聯絡。雖然這些準則/行為守則是專門針對 Mozilla 的工作和社群，不過我們也承認在 Mozilla 的網上或個人空間以外所採取的行動，也可能會對社群的健康產生深遠影響。（例如：我們過去曾經將某個非 Mozilla 論壇上針對 Mozilla 員工的匿名公開貼文，作為要求其退出 Mozilla 社群的明確理由。）這是多樣性和包容性領域的重要課題。我們預期社群也將會廣泛地討論出一個適當的界限。
 
@@ -326,6 +336,23 @@ Mozilla 員工除了必須遵循這些準則之外，也必須遵循 Mozilla 的
 檢舉
 
 
+;If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, <a href="%(hotline)s">please use our hotline to report</a>. Reports go directly to Mozilla’s Employment Counsel and HR People Partners and are triaged by the Community Participation Guidelines Response Lead.
+If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, <a href="%(hotline)s">please use our hotline to report</a>. Reports go directly to Mozilla’s Employment Counsel and HR People Partners and are triaged by the Community Participation Guidelines Response Lead.
+
+
+;After receiving a concise description of your situation, they will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues or outside specialists (such as legal counsel), as needed to appropriately address each situation.
+After receiving a concise description of your situation, they will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues or outside specialists (such as legal counsel), as needed to appropriately address each situation.
+
+
+;Additional Resources: <a href="%s">How to Report</a>
+Additional Resources: <a href="%s">How to Report</a>
+
+
+;Questions: <a href="%s">inclusion@mozilla.com</a>
+Questions: <a href="%s">inclusion@mozilla.com</a>
+
+
+# String is obsolete. Do not remove.
 ;If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, please contact <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> and the designated person for your event, activity or Mozilla space. Inclusion@ reaches our Diversity &amp; Inclusion Leader, %(di_leader)s, and our Director of Organizational Development, %(dir_orgdev)s. After receiving a concise description of your situation, they will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues, including legal counsel, only as needed to appropriately address each situation.
 如果您認為您遭遇上述不被接受的行為，請聯絡 <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> 和負責該事件、活動或 Mozilla Space 的人員。Inclusion@ 將可聯絡到多元化及包容性主管 %(di_leader)s 和組織發展總監 %(dir_orgdev)s。在接獲您對有關情況提供的簡要說明之後，這些人員將進行審查並確定後續步驟。除了進行任何調查之外，這些人也將提供私人諮詢或其他社群資源等各種資源。這些人將視情況請其他同事（包括法律顧問）提供協助，以便妥善地解決各種情況。
 
@@ -336,14 +363,6 @@ Mozilla 員工除了必須遵循這些準則之外，也必須遵循 Mozilla 的
 
 ;If you feel you have been unfairly accused of violating these guidelines, please follow the same reporting process.
 如果您認為您受到違反這些準則的不公平指控，請依照相同的檢舉流程提出訴願。
-
-
-;Who to Contact
-聯絡人
-
-
-;<a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>
-<a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> {ok}
 
 
 ;Mozilla Spaces

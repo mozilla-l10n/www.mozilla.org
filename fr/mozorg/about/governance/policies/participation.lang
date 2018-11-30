@@ -10,6 +10,11 @@ Directives relatives à la participation communautaire
 Directives relatives à la participation communautaire de Mozilla
 
 
+;Version 3.0 – Updated November 28, 2018
+Version 3.0 – Updated November 28, 2018
+
+
+# String is obsolete. Do not remove.
 ;Version 2.3 – Updated May 16, 2017
 Version 2.3 — Mises à jour le 16 mai 2017
 
@@ -126,6 +131,11 @@ la participation à des forums, des listes de diffusion, des wikis, des sites we
 Les présentes directives vont de pair avec nos Politiques de lutte contre le harcèlement et les discriminations<a href="%(note1)s">[1]</a>, qui établissent une protection pour les employés de Mozilla aussi bien que leurs obligations. La Politique de lutte contre le harcèlement et les discriminations repose sur des définitions et des exigences juridiques spécifiques.
 
 
+;While these guidelines / code of conduct are specifically aimed at Mozilla’s work and community, we recognize that it is possible for actions taken outside of Mozilla’s online or inperson spaces to have a deep impact on community health. (For example, in the past, we publicly identified an anonymous posting aimed at a Mozilla employee in a non-Mozilla forum as clear grounds for removal from the Mozilla community.) This is an active topic in the diversity and inclusion realm. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
+While these guidelines / code of conduct are specifically aimed at Mozilla’s work and community, we recognize that it is possible for actions taken outside of Mozilla’s online or inperson spaces to have a deep impact on community health. (For example, in the past, we publicly identified an anonymous posting aimed at a Mozilla employee in a non-Mozilla forum as clear grounds for removal from the Mozilla community.) This is an active topic in the diversity and inclusion realm. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
+
+
+# String is obsolete. Do not remove.
 ;If you experience behavior outside of Mozilla communities, in person or online, that makes participation in Mozilla not a safe and positive community experience for all, please contact us at <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>. While these guidelines / code of conduct are specifically aimed at Mozilla’s work and community, we recognize that it is possible for actions taken outside of Mozilla’s online or inperson spaces to have a deep impact on community health. (For example, in the past, we publicly identified an anonymous posting aimed at a Mozilla employee in a non-Mozilla forum as clear grounds for removal from the Mozilla community.) This is an active topic in the diversity and inclusion realm. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
 Si, en dehors des communautés Mozilla, physiquement ou en ligne, vous subissez un comportement nuisible à la création d’une expérience communautaire sûre et positive pour tous sur Mozilla, veuillez nous contacter à l’adresse <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>. Bien que les présentes directives/le présent code de conduite visent en particulier le travail et la communauté de Mozilla, nous reconnaissons que les actions entreprises en dehors des espaces en ligne ou en personne de Mozilla peuvent avoir des conséquences importantes sur l’état de notre communauté. Par exemple, il nous est arrivé d’identifier publiquement une publication anonyme visant un employé de Mozilla dans un forum sans rapport avec Mozilla, qui constituait un motif sans équivoque d’exclusion de la communauté Mozilla. Il s’agit d’un sujet toujours d’actualité dans le domaine de la diversité et de l’ouverture. Nous prévoyons de vastes discussions dans nos communautés à propos des limites à respecter.
 
@@ -326,6 +336,23 @@ En outre, il sera considéré que les participants qui abusent de la procédure 
 Les rapports
 
 
+;If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, <a href="%(hotline)s">please use our hotline to report</a>. Reports go directly to Mozilla’s Employment Counsel and HR People Partners and are triaged by the Community Participation Guidelines Response Lead.
+If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, <a href="%(hotline)s">please use our hotline to report</a>. Reports go directly to Mozilla’s Employment Counsel and HR People Partners and are triaged by the Community Participation Guidelines Response Lead.
+
+
+;After receiving a concise description of your situation, they will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues or outside specialists (such as legal counsel), as needed to appropriately address each situation.
+After receiving a concise description of your situation, they will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues or outside specialists (such as legal counsel), as needed to appropriately address each situation.
+
+
+;Additional Resources: <a href="%s">How to Report</a>
+Additional Resources: <a href="%s">How to Report</a>
+
+
+;Questions: <a href="%s">inclusion@mozilla.com</a>
+Questions: <a href="%s">inclusion@mozilla.com</a>
+
+
+# String is obsolete. Do not remove.
 ;If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, please contact <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> and the designated person for your event, activity or Mozilla space. Inclusion@ reaches our Diversity &amp; Inclusion Leader, %(di_leader)s, and our Director of Organizational Development, %(dir_orgdev)s. After receiving a concise description of your situation, they will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues, including legal counsel, only as needed to appropriately address each situation.
 Si vous pensez subir un comportement inacceptable qui, en vertu des dispositions ci-dessus, ne sera pas toléré, veuillez nous contacter à l’adresse <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> et contacter également la personne habilitée pour votre évènement, activité ou espace Mozilla. Inclusion@ permet de contacter notre leader de l’ouverture et de la diversité %(di_leader)s, ainsi que notre Directeur du développement organisationnel %(dir_orgdev)s. Après réception de la description précise de votre situation, ils en feront l’examen et détermineront les étapes suivantes. Outre l’ouverture d’enquêtes, ils peuvent fournir toute une gamme de ressources, telles que la consultation privée ou d’autres ressources communautaires. Ils feront appel à d’autres collègues, notamment un conseiller juridique, au besoin seulement afin de remédier de façon appropriée à chaque situation.
 
@@ -336,14 +363,6 @@ Veuillez également nous informer si vous êtes témoin d’une situation potent
 
 ;If you feel you have been unfairly accused of violating these guidelines, please follow the same reporting process.
 Si vous avez l’impression d’avoir été injustement accusé de la violation des présentes directives, veuillez suivre la même procédure de rapport.
-
-
-;Who to Contact
-Qui contacter
-
-
-;<a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>
-<a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> {ok}
 
 
 ;Mozilla Spaces

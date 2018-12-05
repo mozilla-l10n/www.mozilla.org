@@ -76,7 +76,7 @@ Jadi bagaimana Mozilla menghasilkan uang?
 
 # Links to https://www.mozilla.org/foundation/annualreport/
 ;Mozilla is not your average organization. Founded as a community open source project in 1998, Mozilla is a mission-driven organization working towards a more healthy internet. The majority of Mozilla Corporation’s revenue is from royalties earned through Firefox web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="%(link)s">annual financial report</a>.
-Mozilla is not your average organization. Founded as a community open source project in 1998, Mozilla is a mission-driven organization working towards a more healthy internet. The majority of Mozilla Corporation’s revenue is from royalties earned through Firefox web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="%(link)s">annual financial report</a>.
+Mozilla bukan organisasi biasa. Didirikan sebagai proyek komunitas sumber terbuka pada 1998, Mozilla adalah sebuah organisasi yang didorong oleh misi, bekerja menuju internet yang lebih sehat. Mayoritas pendapatan Mozilla Corporation berasal dari royalti yang dihasilkan melalui kemitraan pencarian di peramban web Firefox dan kesepakatan distribusi di seluruh dunia. Anda dapat mengetahui lebih lanjut tentang bagaimana kami menghasilkan uang dalam <a href="%(link)s">laporan keuangan tahunan</a> kami.
 
 
 # "Softballs" here means questions requiring only easy or simple answers.
@@ -87,11 +87,11 @@ Oke, pertanyaan tadi terlalu mudah. Data apa yang Mozilla kumpulkan?
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+Mozilla mengumpulkan data dalam jumlah terbatas secara otomatis melalui Firefox, yang dapat membantu kami memahami bagaimana pengguna memakai peramban ini. Data tersebut terkait pada pengenal acak, dan bukan nama atau alamat surel Anda. Anda bisa membaca lebih lanjut mengenai hal ini dalam <a href="%(privacy)s">pemberitahuan privasi</a> dan Anda dapat membaca <a href="%(data)s">dokumentasi utuh pengumpulan data tersebut</a>.
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+Kami menyediakan dokumentasi data secara publik agar siapa pun dapat mengecek bahwa kami menyatakan yang sebenarnya; sampaikan pada kami jika kami perlu meningkatkan hal ini, dan yakinlah bahwa kami tidak menyembunyikan apapun.
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
@@ -104,7 +104,7 @@ Ada dua kategori data yang kami kumpulkan secara baku di dalam versi rilis Firef
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+Yang pertama adalah apa yang kami sebut "data teknis." Ini merupakan data tentang peramban itu sendiri, misalnya sistem operasi yang digunakannya dan informasi mengenai galat atau masalah.
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.

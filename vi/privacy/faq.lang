@@ -96,54 +96,54 @@ Chúng tôi công khai tài liệu của mình để bất kỳ ai cũng có th�
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-That documentation is gobbledygook to me! Can you give it to me in plain English?
+Tài liệu đó khá khó hiểu đối với tôi. Liệu có thể đưa tài liệu bằng Tiếng Việt cho tôi không?
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+Có hai loại dữ liệu mà chúng tôi thu thập theo mặc định trong phiên bản Firefox chính thức của chúng tôi.
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+Đầu tiên là những gì chúng ta gọi là "dữ liệu kỹ thuật." Đây là dữ liệu về chính trình duyệt, chẳng hạn như hệ điều hành mà nó đang chạy và thông tin về lỗi hoặc sự cố.
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
-The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
+Thứ hai là cái mà chúng ta gọi là "dữ liệu tương tác." Đây là dữ liệu về sự tương tác của một cá nhân với Firefox, chẳng hạn như số lượng thẻ được mở, trạng thái tùy chọn của người dùng hoặc số lần một số tính năng trình duyệt được sử dụng, như ảnh chụp màn hình hoặc ngăn chứa. Ví dụ: chúng tôi thu thập dữ liệu này theo nút quay lại, mũi tên đó ở góc trên bên trái của trình duyệt cho phép bạn điều hướng quay lại trang web trước đó theo cách cho chúng tôi thấy ai đó đã sử dụng nút quay lại, nhưng không cho biết những trang web cụ thể được truy cập.
 
 
 ;Do you collect more data in pre-release versions of Firefox?
-Do you collect more data in pre-release versions of Firefox?
+Bạn có thu thập thêm dữ liệu trong các phiên bản tiền phát hành của Firefox không?
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
-Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
+Có. Trong phiên bản tiền phát hành Firefox, ngoài các dữ liệu được mô tả ở trên, báo cáo sự cố và lỗi được gửi theo mặc định.
 
 
 # Links to https://support.mozilla.org/kb/shield
 ;We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
-We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
+Chúng tôi cũng có thể thu thập dữ liệu bổ sung trong bản phát hành trước cho một trong những nghiên cứu <a href="%(link)s">của chúng tôi</a>. Ví dụ: một số nghiên cứu yêu cầu dữ liệu chúng tôi gọi là dữ liệu hoạt động web của dữ liệu, dữ liệu có thể bao gồm URL và thông tin khác về các trang web nhất định. Điều này giúp chúng tôi trả lời các câu hỏi cụ thể để cải thiện Firefox. Về một ví dụ, đó là cách tích hợp tốt hơn các trang web phổ biến ở các địa phương cụ thể.
 
 
 ;Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
-Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
+Các phiên bản tiền phát hành của Firefox là các nền tảng phát triển, được cập nhật thường xuyên với các tính năng thử nghiệm. Chúng tôi thu thập nhiều dữ liệu trước khi phát hành hơn những gì chúng tôi làm sau khi phát hành để hiểu cách các tính năng thử nghiệm này hoạt động. Bạn có thể từ chối nhận dữ liệu này trong các tùy chọn.
 
 
 ;But why do you collect any data at all?
-But why do you collect any data at all?
+Nhưng tại sao bạn phải thu thập dữ liệu?
 
 
 ;If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
-If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
+Nếu chúng tôi không biết cách trình duyệt hoạt động hoặc tính năng mọi người sử dụng, chúng tôi không thể làm cho nó tốt hơn và cung cấp sản phẩm tuyệt vời mà bạn muốn. Chúng tôi đã đầu tư vào việc xây dựng các công cụ thu thập và phân tích dữ liệu cho phép chúng tôi đưa ra quyết định thông minh về sản phẩm của mình trong khi tôn trọng quyền riêng tư của mọi người.
 
 
 ;Data collection still bugs me. Can I turn it off?
-Data collection still bugs me. Can I turn it off?
+Tuy nhiên, chúng tôi vẫn lo ngại về việc thu thập dữ liệu. Tôi có thể vô hiệu hóa nó không?
 
 
 # First URL links to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 # Second URL links to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
 ;Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
-Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
+Có. Kiểm soát người dùng là một trong những nguyên tắc bảo mật dữ liệu của chúng tôi. Chúng tôi áp dụng điều đó vào thực tế trên Firefox trên <a href="%(settings)s">trang cài đặt quyền riêng tư</a> của chúng tôi, hoạt động như một cửa hàng duy nhất cho bất kỳ ai muốn kiểm soát quyền riêng tư của họ trong Firefox. Bạn có thể <a href="%(data)s">tắt thu thập dữ liệu</a> ở đó.
 
 
 ;What about my account data?
@@ -151,7 +151,7 @@ Còn dữ liệu tài khoản của tôi thì sao?
 
 
 ;We are big believers of data minimization and not asking for things we don't need.
-We are big believers of data minimization and not asking for things we don't need.
+Chúng tôi là những người tin tưởng lớn vào việc giảm thiểu dữ liệu và không yêu cầu những thứ chúng tôi không cần.
 
 
 ;You don't need an account to use Firefox. <a href="%(accounts)s">Accounts</a> are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
@@ -164,27 +164,27 @@ Bạn không cần tài khoản để sử dụng Firefox. Tài khoản chỉ b�
 
 
 ;You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
-You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
+Bạn sử dụng quảng cáo kỹ thuật số như là một phần của hỗn hợp tiếp thị của bạn. Bạn có mua dữ liệu của mọi người để nhắm mục tiêu quảng cáo trực tuyến tốt hơn không?
 
 
 ;No, we do not buy people's data to target advertising.
-No, we do not buy people's data to target advertising.
+Không, chúng tôi không mua dữ liệu của mọi người để nhắm mục tiêu quảng cáo.
 
 
 ;We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
-We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
+Chúng tôi yêu cầu các đối tác quảng cáo của chúng tôi chỉ sử dụng dữ liệu của bên thứ nhất mà các trang web và nhà xuất bản biết về tất cả người dùng, chẳng hạn như trình duyệt bạn đang sử dụng và thiết bị bạn đang sử dụng.
 
 
 ;Well, it seems like you really have my back on this privacy stuff.
-Well, it seems like you really have my back on this privacy stuff.
+Chà, có vẻ như bạn thực sự có sự ủng hộ của tôi đối với những thứ riêng tư này.
 
 
 ;Yes, we do.
-Yes, we do.
+Vâng, chúng tôi đang làm điều đó.
 
 
 # Links to https://internethealthreport.org/
 ;Find out more about how Mozilla protects the internet.
-Find out more about how Mozilla protects the internet.
+Tìm hiểu thêm về cách Mozilla bảo vệ internet.
 
 

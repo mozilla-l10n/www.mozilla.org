@@ -4,7 +4,7 @@
 
 
 ;An Important Change in Firefox: Dedicated Profiles
-An Important Change in Firefox: Dedicated Profiles
+Một thay đổi quan trọng trong Firefox: Hồ sơ chuyên dụng
 
 
 ;What’s Changed
@@ -12,7 +12,7 @@ Những thay đổi
 
 
 ;Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
-Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
+Trước đây, tất cả các cài đặt Firefox đều chia sẻ một cấu hình theo mặc định. Bây giờ, Firefox cung cấp các cấu hình chuyên dụng cho mỗi cài đặt Firefox (bao gồm các cài đặt Firefox Nightly, Firefox Beta hoặc Firefox ESR). Điều này sẽ giúp Firefox ổn định hơn khi chuyển đổi giữa các cài đặt Firefox trên cùng một máy tính.
 
 
 ;How Dedicated Profiles Work
@@ -20,7 +20,7 @@ How Dedicated Profiles Work
 
 
 ;Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
-Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
+Firefox lưu thông tin như dấu trang, mật khẩu và tùy chọn người dùng trong một tập hợp các tệp được gọi là hồ sơ của bạn. Cấu hình này được lưu trữ ở một vị trí riêng biệt với các tệp chương trình Firefox.
 
 
 ;The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
@@ -28,11 +28,11 @@ The installation you choose as your primary Firefox installation will keep your 
 
 
 ;You have not lost any personal data or customizations. Any previous profile data is safe and attached to the first Firefox installation that was opened after this change.
-You have not lost any personal data or customizations. Any previous profile data is safe and attached to the first Firefox installation that was opened after this change.
+Bạn không mất bất kỳ dữ liệu cá nhân hoặc tùy chỉnh. Mọi dữ liệu hồ sơ trước đó đều an toàn và được đính kèm với bản cài đặt Firefox đầu tiên được mở sau khi thay đổi này.
 
 
 ;All of your Firefox installations will now have separate profiles.
-All of your Firefox installations will now have separate profiles.
+Tất cả các cài đặt Firefox của bạn bây giờ sẽ có các hồ sơ riêng biệt.
 
 
 ;What You Need to Do
@@ -40,19 +40,19 @@ What You Need to Do
 
 
 ;If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
-If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
+Nếu bạn không làm gì, mỗi cài đặt sẽ có một hồ sơ riêng. Điều này có nghĩa là dữ liệu hồ sơ của bạn sẽ khác nhau trên mỗi lần cài đặt Firefox.
 
 
 ;You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
-You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
+Bạn có thể thay đổi cài đặt nào sử dụng hồ sơ nào bằng trình quản lý hồ sơ. Hướng dẫn về cách sử dụng trình quản lý hồ sơ có sẵn trên <a href="%(support)s"> trang hỗ trợ này</a>.
 
 
 ;While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.
-While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.
+Mặc dù các cấu hình hiện được kết nối với mỗi lần cài đặt Firefox, bạn có thể sử dụng Tài khoản Firefox của mình để giữ chúng đồng bộ. Nếu bạn muốn tất cả dữ liệu hồ sơ của mình giống nhau trên tất cả các cài đặt của Firefox, chúng tôi khuyên bạn nên đồng bộ hóa tất cả các cấu hình của mình với Tài khoản Firefox.
 
 
 ;A Firefox Account is the easiest way to make your profiles consistent on all of your versions of Firefox. You also get additional benefits like sending tabs and secure password storage.
-A Firefox Account is the easiest way to make your profiles consistent on all of your versions of Firefox. You also get additional benefits like sending tabs and secure password storage.
+Tài khoản Firefox là cách dễ nhất để làm cho hồ sơ của bạn nhất quán trên tất cả các phiên bản Firefox của bạn. Bạn cũng nhận được các lợi ích bổ sung như gửi các thẻ và lưu trữ mật khẩu an toàn.
 
 
 ;You’re signed in and ready to start using Sync.

@@ -14,7 +14,7 @@ Your system doesn't meet the <a href="%(url)s">requirements</a> to run Firefox. 
 
 
 ;<a href="%(url)s">Mozilla no longer provides security updates for Firefox on Windows XP or Vista</a>, but you can still download the final Windows 32-bit version below.
-<a href="%(url)s">Mozilla no longer provides security updates for Firefox on Windows XP or Vista</a>, but you can still download the final Windows 32-bit version below.
+<a href="%(url)s">Mozilla no longer provides security updates for Firefox on Windows XP or Vista</a>, but you can still download the final Windows 32-bit version below. {ok}
 
 
 ;Your system may not meet the requirements for Firefox, but you can try one of these versions:
@@ -113,6 +113,6 @@ Please follow <a href="%(url)s">these instructions</a> to install Firefox. {ok}
 
 # Used as a column group header in firefox/all downloads list, displayed above recommended versions (win64, macOS, linux64)
 ;Recommended
-Recommended
+Recommended {ok}
 
 

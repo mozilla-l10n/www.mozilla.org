@@ -1,10 +1,18 @@
-## tp_tour_firefox_201601 ##
-## tp_tour_firefox_201602 ##
-## tp_tour_firefox_201809 ##
+## content_blocking_65_1511420 ##
 ## remove_fastblock_1499589 ##
-## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
-## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
-## URL: https://www-dev.allizom.org/%LOCALE%/firefox/42.0/tracking-protection/start/
+## NOTE: demo server available at https://www-dev.allizom.org/firefox/65.0/content-blocking/start/
+## NOTE: see testing instructions here https://bugzilla.mozilla.org/show_bug.cgi?id=1511420#c7
+## URL: https://www-dev.allizom.org/%LOCALE%/firefox/42.0/65.0/content-blocking/start/
+
+
+# HTML page title
+;Choose the independent browser
+Choose the independent browser
+
+
+# HTML page description
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 
 
 ## TAG: remove_fastblock_1499589
@@ -17,31 +25,24 @@ When you see the shield, Firefox is blocking parts of the page that can track yo
 When you see the shield, Firefox is blocking parts of the page that can slow your browsing or track you online.
 
 
+## TAG: content_blocking_65_1511420
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
 If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
 
 
+## TAG: content_blocking_65_1511420
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
 If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
-
-
-;How Tracking Protection works
-How Tracking Protection works
-
-
-;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
-When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
-
-;It’s easy to turn off Tracking Protection for the website you’re on. Just select “Disable Blocking Temporarily.”
-It’s easy to turn off Tracking Protection for the website you’re on. Just select “Disable Blocking Temporarily.”
-
-
-;It’s easy to turn off Tracking Protection for the website you’re on. Just select “Disable Blocking For This Site.”
-It’s easy to turn off Tracking Protection for the website you’re on. Just select “Disable Blocking For This Site.”
-
-
-;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable Blocking For This Site.”
-It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable Blocking For This Site.”
 
 
 ;1 of 3
@@ -56,40 +57,12 @@ Next
 Differences to expect
 
 
-;Some page areas may be missing, because they could allow third parties to track you across different websites.
-Some page areas may be missing, because they could allow third parties to track you across different websites.
-
-
 ;2 of 3
 2 of 3
 
 
 ;Want to make changes?
 Want to make changes?
-
-
-## TAG: tp_tour_firefox_201809
-;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Session.”
-It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Session.”
-
-
-## TAG: tp_tour_firefox_201809
-;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Site.”
-It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Site.”
-
-
-## TAG: tp_tour_firefox_201602
-;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
-It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
-
-
-# Obsolete string (do not remove)
-;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
-It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
-
-
-;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
 
 
 ;3 of 3
@@ -100,36 +73,13 @@ It’s easy to turn on Tracking Protection for the website you’re on by clicki
 Got it!
 
 
-;Firefox Tracking Protection
-Firefox Tracking Protection
-
-
-## TAG: tp_tour_firefox_201601
-;Tracking Protection
-Tracking Protection
-
-
-;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
-
-
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 
 
-## TAG: tp_tour_firefox_201601
-;Thanks for learning about Tracking Protection.
-Thanks for learning about Tracking Protection.
-
-
-;Thanks for learning about the new Private Browsing with Tracking Protection.
-Thanks for learning about the new Private Browsing with Tracking Protection.
-
-
-# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
-;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
-Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
+;Please turn on JavaScript to display this page correctly.
+Please turn on JavaScript to display this page correctly.
 
 
 ;Firefox Content Blocking
@@ -144,6 +94,12 @@ New in Firefox: Content Blocking
 Turn off blocking for trusted sites
 
 
+## TAG: content_blocking_65_1511420
+;To restore content blocking for a site, select “Turn on Blocking for This Site.“
+To restore content blocking for a site, select “Turn on Blocking for This Site.“
+
+
+# String is obsolete. Do not remove.
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
 To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
 
@@ -166,8 +122,15 @@ Content blocking can help pages load faster, but it can also keep parts of pages
 Thanks for learning about Content Blocking.
 
 
-;Restart tour
-Restart tour
+## TAG: content_blocking_65_1511420
+;<a rel="external" href="%s">Learn more</a> about how it works.
+<a rel="external" href="%s">Learn more</a> about how it works.
+
+
+# String is obsolete. Do not remove.
+# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
+;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
+Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 
 
 ;Restart Tour
@@ -184,11 +147,3 @@ If content blocking prevents you from using a site you trust, you can select “
 
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site“ in this panel.
 If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site“ in this panel.
-
-
-;Choose the independent browser
-Choose the independent browser
-
-
-;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.

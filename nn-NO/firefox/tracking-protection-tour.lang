@@ -2,8 +2,9 @@
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
 ## tp_tour_firefox_201809 ##
-## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
-## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
+## NOTE: demo server available at https://www-dev.allizom.org/firefox/65.0/content-blocking/start/
+## NOTE: demo server variable 2: https://www-dev.allizom.org/firefox/65.0/content-blocking/start/?variation=2
+## NOTE: see testing instructions here https://bugzilla.mozilla.org/show_bug.cgi?id=1511420#c7
 
 
 ;When you see the shield, Firefox is blocking parts of the page that can track you online.
@@ -15,10 +16,20 @@ Når du ser dette skjoldet, blokkerer Firefox delar av sida som kan spore deg p�
 Når du ser skjoldet blokkerer Firefox delar av sida som kan senke farten på surfinga di eller spore deg på nette.
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
 If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
 If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
 
@@ -121,7 +132,12 @@ Takk for at du tek deg tid til å lese om sporingsvern.
 Takk for at du tek deg tid til å lese om «Privat nettlesing» og «Sporingsvern».
 
 
-# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
+# Link points to https://support.mozilla.org/en-US/kb/content-blocking/
+;<a rel="external" href="%s">Learn more</a> about how it works.
+<a rel="external" href="%s">Learn more</a> about how it works.
+
+
+# String is obsolete. Do not remove.
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Les meir om korleis det fungerer ved å gå til <a rel="external" href="%s">spørsmål og svar (FAQ)</a>.
 
@@ -138,6 +154,11 @@ Nytt i Firefox: innhaldsblokkering
 Slå av blokkering for nettsider du stolar på
 
 
+;To restore content blocking for a site, select “Turn on Blocking for This Site.“
+To restore content blocking for a site, select “Turn on Blocking for This Site.“
+
+
+# String is obsolete. Do not remove.
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
 To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
 
@@ -179,10 +200,12 @@ If content blocking prevents you from using a site you trust, you can select “
 If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site“ in this panel.
 
 
+# HTML page title
 ;Choose the independent browser
 Vel den uavhengige nettlesaren
 
 
+# HTML page description
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 

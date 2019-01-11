@@ -3,8 +3,9 @@
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
 ## tp_tour_firefox_201809 ##
-## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
-## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
+## NOTE: demo server available at https://www-dev.allizom.org/firefox/65.0/content-blocking/start/
+## NOTE: demo server variable 2: https://www-dev.allizom.org/firefox/65.0/content-blocking/start/?variation=2
+## NOTE: see testing instructions here https://bugzilla.mozilla.org/show_bug.cgi?id=1511420#c7
 
 
 ;When you see the shield, Firefox is blocking parts of the page that can track you online.
@@ -16,10 +17,20 @@ Cuando ves el escudo, Firefox está bloqueando algunas partes de la página que 
 Cuando ves el escudo, Firefox está bloqueando algunas partes de la página que pueden enlentecer tu navegación o rastrearte en línea.
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
 Si el bloqueo de contenido evita que utilices un sitio en el que confías, puedes seleccionar “Desactivar el bloqueo temporalmente” en este panel.
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
 Si el bloqueo de contenido evita que utilices un sitio en el que confías, puedes seleccionar “Desactivar el bloqueo para este sitio” en este panel.
 
@@ -122,7 +133,12 @@ Graciar por aprender sobre la protección de seguimiento.
 Gracias por aprender sobre la nueva navegación privada con protección de seguimiento.
 
 
-# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
+# Link points to https://support.mozilla.org/en-US/kb/content-blocking/
+;<a rel="external" href="%s">Learn more</a> about how it works.
+<a rel="external" href="%s">Learn more</a> about how it works.
+
+
+# String is obsolete. Do not remove.
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Aprende más sobre cómo funciona visitando la <a rel="external" href="%s">página de preguntas frecuentes</a>.
 
@@ -139,6 +155,11 @@ Nuevo en Firefox: Bloqueo de contenido
 Desactivar el bloqueo para los sitios de confianza
 
 
+;To restore content blocking for a site, select “Turn on Blocking for This Site.“
+To restore content blocking for a site, select “Turn on Blocking for This Site.“
+
+
+# String is obsolete. Do not remove.
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
 Para restaurar el bloqueo de contenido para un sitio, selecciona “Activar el bloqueo para este sitio“ en el panel del centro de control.
 
@@ -180,10 +201,12 @@ Si el bloqueo de contenido evita que utilices un sitio en el que confías, puede
 Si el bloqueo de contenido evita que utilices un sitio en el que confías, puedes seleccionar “Desactivar el bloqueo para este sitio“ en este panel.
 
 
+# HTML page title
 ;Choose the independent browser
 Elige el navegador independiente
 
 
+# HTML page description
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 Firefox no tiene fines de lucros, no es corporativo ni se encuentra comprometido. Elegir Firefox no es solo elegir un navegador. Es un voto para la libertad personal.
 

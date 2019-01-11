@@ -3,8 +3,9 @@
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
 ## tp_tour_firefox_201809 ##
-## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
-## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
+## NOTE: demo server available at https://www-dev.allizom.org/firefox/65.0/content-blocking/start/
+## NOTE: demo server variable 2: https://www-dev.allizom.org/firefox/65.0/content-blocking/start/?variation=2
+## NOTE: see testing instructions here https://bugzilla.mozilla.org/show_bug.cgi?id=1511420#c7
 
 
 ;When you see the shield, Firefox is blocking parts of the page that can track you online.
@@ -16,10 +17,20 @@ Khi bạn nhìn thấy tấm khiên, Firefox đang chặn các phần của tran
 Khi bạn nhìn thấy tấm khiên, Firefox đang chặn các phần của trang có thể làm chậm quá trình duyệt của bạn hoặc theo dõi bạn trực tuyến.
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
 Nếu chặn nội dung ngăn bạn sử dụng một trang web mà bạn tin tưởng, bạn có thể chọn “Tạm thời tắt chặn” trong bảng điều khiển.
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
 Nếu việc chặn nội dung ngăn bạn sử dụng một trang web mà bạn tin tưởng, bạn có thể chọn “Vô hiệu hóa chặn cho trang này” trong bảng điều khiển.
 
@@ -122,7 +133,12 @@ Cám ơn vì đã tìm hiểu về chế độ bảo vệ theo dõi.
 Cám ơn vì đã tìm hiểu về chế dộ duyệt web riêng tư và bảo vệ theo dõi.
 
 
-# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
+# Link points to https://support.mozilla.org/en-US/kb/content-blocking/
+;<a rel="external" href="%s">Learn more</a> about how it works.
+<a rel="external" href="%s">Learn more</a> about how it works.
+
+
+# String is obsolete. Do not remove.
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Tìm hiểu thêm về cách làm việc bằng cách truy cập vào <a rel="external" href="%s">trang FAQ</a>.
 
@@ -139,6 +155,11 @@ Tính năng mới trong Firefox: Chặn nội dung
 Tắt chặn cho các trang web đáng tin cậy
 
 
+;To restore content blocking for a site, select “Turn on Blocking for This Site.“
+To restore content blocking for a site, select “Turn on Blocking for This Site.“
+
+
+# String is obsolete. Do not remove.
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
 Để khôi phục chặn nội dung cho một trang web, hãy chọn “Kích hoạt Chặn cho trang này“ trong bảng trung tâm điều khiển.
 
@@ -180,10 +201,12 @@ Nếu chặn nội dung ngăn bạn sử dụng một trang web mà bạn tin t�
 Nếu việc chặn nội dung ngăn bạn sử dụng một trang web mà bạn tin tưởng, bạn có thể chọn “Vô hiệu hóa chặn cho trang này” trong bảng điều khiển.
 
 
+# HTML page title
 ;Choose the independent browser
 Chọn trình duyệt độc lập
 
 
+# HTML page description
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 Firefox là trình duyệt phi lợi nhuận, phi tập đoàn, không nhượng bộ. Lựa chọn Firefox không chỉ là lựa chọn một trình duyệt web. Đó là một lá phiếu cho sự tự do cá nhân của bạn.
 

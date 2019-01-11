@@ -3,8 +3,9 @@
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
 ## tp_tour_firefox_201809 ##
-## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
-## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
+## NOTE: demo server available at https://www-dev.allizom.org/firefox/65.0/content-blocking/start/
+## NOTE: demo server variable 2: https://www-dev.allizom.org/firefox/65.0/content-blocking/start/?variation=2
+## NOTE: see testing instructions here https://bugzilla.mozilla.org/show_bug.cgi?id=1511420#c7
 
 
 ;When you see the shield, Firefox is blocking parts of the page that can track you online.
@@ -16,10 +17,20 @@ Saat Anda melihat gambar perisai, Firefox sedang memblokir bagian laman yang dap
 Saat Anda melihat perisai, Firefox sedang memblokir bagian laman yang dapat memperlambat penjelajahan atau melacak Anda secara daring.
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
 Jika pemblokiran konten mencegah Anda menggunakan situs yang Anda percayai, Anda dapat memilih "Hentikan Pemblokiran Secara Temporer" pada panel ini.
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
 Jika pemblokiran konten mencegah Anda menggunakan situs yang Anda percayai, Anda bisa memilih "Hentikan Pemblokiran di Situs Ini" pada panel ini.
 
@@ -122,7 +133,12 @@ Terima kasih telah mempelajari Perlindungan Pelacakan.
 Terima kasih telah mempelajari Penjelajahan Pribadi baru dengan Perlindungan Pelacakan.
 
 
-# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
+# Link points to https://support.mozilla.org/en-US/kb/content-blocking/
+;<a rel="external" href="%s">Learn more</a> about how it works.
+<a rel="external" href="%s">Learn more</a> about how it works.
+
+
+# String is obsolete. Do not remove.
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Pelajari lebih lanjut tentang cara kerja dengan mengunjungi <a rel="external" href="%s">halaman FAQ</a>.
 
@@ -139,6 +155,11 @@ Yang baru di Firefox: Pemblokiran Konten
 Nonaktifkan pemblokiran untuk situs yang tepercaya
 
 
+;To restore content blocking for a site, select “Turn on Blocking for This Site.“
+To restore content blocking for a site, select “Turn on Blocking for This Site.“
+
+
+# String is obsolete. Do not remove.
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
 Untuk memulihkan pemblokiran konten pada satu situs, pilih "Nyalakan Pemblokiran Untuk Situs Ini" pada panel Pusat Kendali.
 
@@ -180,10 +201,12 @@ Jika pemblokiran konten mencegah Anda menggunakan situs yang Anda percayai, Anda
 Jika pemblokiran konten mencegah Anda menggunakan situs yang Anda percayai, Anda dapat memilih "Hentikan Pemblokiran Untuk Situs Ini" pada panel ini.
 
 
+# HTML page title
 ;Choose the independent browser
 Pilih peramban independan
 
 
+# HTML page description
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 Firefox bersifat nirlaba, non-korporasi, tanpa kompromi. Memilih Firefox tak hanya memilih peramban. Ini adalah pilihan kebebasan pribadi.
 

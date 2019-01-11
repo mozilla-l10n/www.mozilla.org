@@ -1,8 +1,9 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
-## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
-## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
+## NOTE: demo server available at https://www-dev.allizom.org/firefox/65.0/content-blocking/start/
+## NOTE: demo server variable 2: https://www-dev.allizom.org/firefox/65.0/content-blocking/start/?variation=2
+## NOTE: see testing instructions here https://bugzilla.mozilla.org/show_bug.cgi?id=1511420#c7
 
 
 ;When you see the shield, Firefox is blocking parts of the page that can track you online.
@@ -14,10 +15,20 @@ When you see the shield, Firefox is blocking parts of the page that can track yo
 When you see the shield, Firefox is blocking parts of the page that can slow your browsing or track you online.
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
 If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
 If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
 
@@ -120,7 +131,12 @@ Firefox Tracking Protection
 ขอบคุณสำหรับการเรียนรู้เกี่ยวกับการท่องเว็บแบบส่วนตัวพร้อมการป้องกันการติดตาม
 
 
-# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
+# Link points to https://support.mozilla.org/en-US/kb/content-blocking/
+;<a rel="external" href="%s">Learn more</a> about how it works.
+<a rel="external" href="%s">Learn more</a> about how it works.
+
+
+# String is obsolete. Do not remove.
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 เรียนรู้เพิ่มเติมว่ามันทำงานอย่างไรโดยเยี่ยมชม<a rel="external" href="%s">หน้า FAQ</a>
 
@@ -137,6 +153,11 @@ New in Firefox: Content Blocking
 Turn off blocking for trusted sites
 
 
+;To restore content blocking for a site, select “Turn on Blocking for This Site.“
+To restore content blocking for a site, select “Turn on Blocking for This Site.“
+
+
+# String is obsolete. Do not remove.
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
 To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
 
@@ -178,10 +199,12 @@ If content blocking prevents you from using a site you trust, you can select “
 If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site“ in this panel.
 
 
+# HTML page title
 ;Choose the independent browser
 Choose the independent browser
 
 
+# HTML page description
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 

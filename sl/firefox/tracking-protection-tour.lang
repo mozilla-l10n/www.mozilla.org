@@ -3,8 +3,9 @@
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
 ## tp_tour_firefox_201809 ##
-## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
-## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
+## NOTE: demo server available at https://www-dev.allizom.org/firefox/65.0/content-blocking/start/
+## NOTE: demo server variable 2: https://www-dev.allizom.org/firefox/65.0/content-blocking/start/?variation=2
+## NOTE: see testing instructions here https://bugzilla.mozilla.org/show_bug.cgi?id=1511420#c7
 
 
 ;When you see the shield, Firefox is blocking parts of the page that can track you online.
@@ -16,10 +17,20 @@ Ko vidite ščit, Firefox zavrača dele strani, ki vam sledijo po spletu.
 Ko vidite ščit, Firefox zavrača dele strani, ki lahko upočasnjujejo brskanje ali vam sledijo po spletu.
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
 Če vam zavračanje vsebine onemogoča uporabo spletnega mesta, ki mu zaupate, lahko na tej plošči izberete “Začasno onemogoči zavračanje”.
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
 Če vam zavračanje vsebine onemogoča uporabo spletnega mesta, ki mu zaupate, lahko na tej plošči izberete “Onemogoči zavračanje za to stran”.
 
@@ -122,7 +133,12 @@ Hvala za spoznavanje zaščite pred sledenjem.
 Hvala za spoznavanje novega zasebnega brskanja z zaščito pred sledenjem.
 
 
-# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
+# Link points to https://support.mozilla.org/en-US/kb/content-blocking/
+;<a rel="external" href="%s">Learn more</a> about how it works.
+<a rel="external" href="%s">Learn more</a> about how it works.
+
+
+# String is obsolete. Do not remove.
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Podrobnosti o delovanju najdete med <a rel="external" href="%s">pogostimi vprašanji</a>.
 
@@ -139,6 +155,11 @@ Novo v Firefoxu: zavračanje vsebine
 Izključite zavračanje za zaupanja vredne strani
 
 
+;To restore content blocking for a site, select “Turn on Blocking for This Site.“
+To restore content blocking for a site, select “Turn on Blocking for This Site.“
+
+
+# String is obsolete. Do not remove.
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
 Da obnovite zavračanje vsebine za spletno mesto, na plošči nadzornega središča izberite “Omogoči zavračanje za to stran“.
 
@@ -180,10 +201,12 @@ Izboljšana zasebnost z zaščito pred sledenjem je sedaj le ena od prednosti za
 Če vam zavračanje vsebine onemogoča uporabo spletnega mesta, ki mu zaupate, lahko na tej plošči izberete “Onemogoči zavračanje za to stran“.
 
 
+# HTML page title
 ;Choose the independent browser
 Izberite neodvisen brskalnik
 
 
+# HTML page description
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 Firefox je neprofiten, nekorporacijski in nepokvarjen. Izbira Firefoxa ni samo izbira brskalnika. Je tudi glas za osebno svobodo.
 

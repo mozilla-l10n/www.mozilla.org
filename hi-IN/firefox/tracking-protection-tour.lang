@@ -3,8 +3,9 @@
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
 ## tp_tour_firefox_201809 ##
-## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
-## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
+## NOTE: demo server available at https://www-dev.allizom.org/firefox/65.0/content-blocking/start/
+## NOTE: demo server variable 2: https://www-dev.allizom.org/firefox/65.0/content-blocking/start/?variation=2
+## NOTE: see testing instructions here https://bugzilla.mozilla.org/show_bug.cgi?id=1511420#c7
 
 
 ;When you see the shield, Firefox is blocking parts of the page that can track you online.
@@ -16,10 +17,20 @@
 जब आप शील्ड देखते हैं, तो Firefox पृष्ठ के हिस्से जो आपके ब्राउज़िंग को धीमा या आपको ऑनलाइन ट्रैक कर सकते हैं उन्हें ब्लॉक कर रहा होता है।
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
 कोई साइट जिस पर आप भरोसा करते हैं यदि सामग्री ब्लॉकिंग उसे इस्तेमाल करने से रोक रहा है, तो आप इस पैनल में “अस्थाई रूप से ब्लॉक करना अक्षम करें” चुन सकते हैं।
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
 कोई साइट जिस पर आप भरोसा करते हैं यदि सामग्री ब्लॉकिंग उसे इस्तेमाल करने से रोक रहा है, तो आप इस पैनल में “इस साइट हेतु ब्लॉक करना अक्षम करें” चुन सकते हैं।
 
@@ -122,7 +133,12 @@ Firefox ट्रैकिंग सुरक्षा
 ट्रैकिंग सुरक्षा के साथ नया निजी ब्राउज़िंग के बारे में जानने के लिए धन्यवाद.
 
 
-# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
+# Link points to https://support.mozilla.org/en-US/kb/content-blocking/
+;<a rel="external" href="%s">Learn more</a> about how it works.
+<a rel="external" href="%s">Learn more</a> about how it works.
+
+
+# String is obsolete. Do not remove.
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 <a rel="external" href="%s">FAQ पृष्ट</a> पर जाके ओर अधिक जाने की कैसे यह काम करता हैं.
 
@@ -139,6 +155,11 @@ Firefox में नया: सामग्री ब्लॉकिंग
 भरोसेमंद साइटों के लिए ब्लॉकिंग बंद करें
 
 
+;To restore content blocking for a site, select “Turn on Blocking for This Site.“
+To restore content blocking for a site, select “Turn on Blocking for This Site.“
+
+
+# String is obsolete. Do not remove.
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
 किसी साइट के लिए सामग्री ब्लॉकिंग पुनःप्राप्त करने के लिए, कण्ट्रोल सेंटर पैनल में “इस साइट हेतु ब्लॉकिंग सक्षम करें“ को चुनें।
 
@@ -180,10 +201,12 @@ Firefox में नया: सामग्री ब्लॉकिंग
 कोई साइट जिस पर आप भरोसा करते हैं यदि सामग्री ब्लॉकिंग उसे इस्तेमाल करने से रोक रहा है, तो आप इस पैनल में “इस साइट हेतु ब्लॉक करना अक्षम करें“ चुन सकते हैं।
 
 
+# HTML page title
 ;Choose the independent browser
 स्वतंत्र ब्राउज़र चुनें
 
 
+# HTML page description
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 Firefox गैर-लाभकारी, गैर-कॉर्पोरेट, गैर-समझौतावादी है। Firefox को चुनने का मतलब केवल एक ब्राउज़र को चुनना नहीं है। यह व्यक्तिगत स्वतंत्रता के लिए एक वोट है।
 

@@ -3,8 +3,9 @@
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
 ## tp_tour_firefox_201809 ##
-## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
-## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
+## NOTE: demo server available at https://www-dev.allizom.org/firefox/65.0/content-blocking/start/
+## NOTE: demo server variable 2: https://www-dev.allizom.org/firefox/65.0/content-blocking/start/?variation=2
+## NOTE: see testing instructions here https://bugzilla.mozilla.org/show_bug.cgi?id=1511420#c7
 
 
 ;When you see the shield, Firefox is blocking parts of the page that can track you online.
@@ -16,10 +17,20 @@
 જ્યારે તમે કવચ જુઓ છો, ત્યારે Firefox એ પૃષ્ઠનાં ભાગોને અવરોધિત કરી રહ્યું છે જે તમારી બ્રાઉઝિંગને ધીમું કરી શકે છે અથવા તમને ઑનલાઇન ટ્રૅક કરી શકે છે.
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
 જો સામગ્રી અવરોધિત કરવાનું તમને વિશ્વાસ કરતી સાઇટનો ઉપયોગ કરવાથી અટકાવે છે, તો તમે આ પેનલમાં “અસ્થાયી રૂપે અવરોધિત કરવાનું નિષ્ક્રિય કરો” પસંદ કરી શકો છો.
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
 જો સામગ્રી અવરોધિત કરવાનું તમને વિશ્વાસ કરતી સાઇટનો ઉપયોગ કરવાથી અટકાવે છે, તો તમે આ પેનલમાં “આ સાઇટ માટે અવરોધિત કરવાનું નિષ્ક્રિય કરો” પસંદ કરી શકો છો.
 
@@ -122,7 +133,12 @@ Firefox ટ્રેકિંગ સુરક્ષા
 ટ્રેકિંગ પ્રોટેક્શન સાથે નવી ખાનગી બ્રાઉઝિંગ વિશે શીખવા માટે આભાર.
 
 
-# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
+# Link points to https://support.mozilla.org/en-US/kb/content-blocking/
+;<a rel="external" href="%s">Learn more</a> about how it works.
+<a rel="external" href="%s">Learn more</a> about how it works.
+
+
+# String is obsolete. Do not remove.
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 તે કેવી રીતે મુલાકાત દ્વારા કામ કરે છે તે વિશે વધુ જાણો <a rel="external" href="%s">FAQ પાનું</a>.
 
@@ -139,6 +155,11 @@ Firefox માં નવું: સામગ્રી અવરોધિત
 વિશ્વસનીય સાઇટ્સ માટે અવરોધિત કરવાનું બંધ કરો
 
 
+;To restore content blocking for a site, select “Turn on Blocking for This Site.“
+To restore content blocking for a site, select “Turn on Blocking for This Site.“
+
+
+# String is obsolete. Do not remove.
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
 કોઈ સાઇટ માટે સામગ્રીને અવરોધિત કરવા માટે, નિયંત્રણ કેન્દ્ર પેનલમાં “આ સાઇટ માટે અવરોધિત કરવાનું સક્ષમ કરો“ પસંદ કરો.
 
@@ -180,10 +201,12 @@ Firefox માં નવું: સામગ્રી અવરોધિત
 જો સામગ્રી અવરોધિત કરવાનું તમને વિશ્વાસ કરતી સાઇટનો ઉપયોગ કરવાથી અટકાવે છે, તો તમે આ પેનલમાં “આ સાઇટ માટે અવરોધિત કરવાનું નિષ્ક્રિય કરો“ પસંદ કરી શકો છો.
 
 
+# HTML page title
 ;Choose the independent browser
 સ્વતન્ત્ર બ્રાઉઝર પસંદ કરો
 
 
+# HTML page description
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 Forefox બિન-નફાકારક, બિન-કોર્પોરેટ, બિન-સમાધાન છે. પસંદ Firefox માત્ર એક બ્રાઉઝર પસંદ નથી. તે વ્યક્તિગત સ્વતંત્રતા માટે મત છે.
 

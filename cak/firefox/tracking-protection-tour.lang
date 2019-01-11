@@ -3,8 +3,9 @@
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
 ## tp_tour_firefox_201809 ##
-## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
-## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
+## NOTE: demo server available at https://www-dev.allizom.org/firefox/65.0/content-blocking/start/
+## NOTE: demo server variable 2: https://www-dev.allizom.org/firefox/65.0/content-blocking/start/?variation=2
+## NOTE: see testing instructions here https://bugzilla.mozilla.org/show_bug.cgi?id=1511420#c7
 
 
 ;When you see the shield, Firefox is blocking parts of the page that can track you online.
@@ -16,10 +17,20 @@ Toq natz'ët ri pokob', Firefox nuq'ät jujun taq ruperaj ri ruxaq, ri yetikïr 
 Toq natz'ët ri pokob', Firefox nuq'ät jujun taq ruperaj ri ruxaq, ri yetikïr nikib'än eqal o nikïl ri asamaj pa k'amaya'l.
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
 We ri ruq'atik rupam nuchajij chi nawokisaj jun ruxaq akuqub'an ak'u'x chi rij, yatikïr nacha' “Tichup Q'atoj Jumej” pa re pas re'.
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
 We ri ruq'atik rupam nuchajij chi nawokisaj jun ruxaq akuqub'an ak'u'x chi rij, yatikïr nacha' “Tichup Q'atoj pa re Ruxaq re'” pa re pas re'.
 
@@ -122,7 +133,12 @@ Niqak'awomaj chawe ruma nawetamaj pa ruwi' Chajinïk chuwäch Ojqanïk.
 Niqak'awomaj chawe ruma nawetamaj pa ruwi' ri k'ak'a' Ichinanem Okem pa K'amaya'l rik'in Chajinïk chuwäch Ojqanïk.
 
 
-# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
+# Link points to https://support.mozilla.org/en-US/kb/content-blocking/
+;<a rel="external" href="%s">Learn more</a> about how it works.
+<a rel="external" href="%s">Learn more</a> about how it works.
+
+
+# String is obsolete. Do not remove.
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Tawetamaj ch'aqa' chik pa ruwi' rub'eyal nisamäj rik'in rutz'etik ri <a rel="external" href="%s">Ruxaq Junelïk taq K'utunïk</a>.
 
@@ -139,6 +155,11 @@ K'ak'a' pa Firefox: Q'atoj Rupam
 Tichup q'atoj pa taq ruxaq kuqub'an k'u'x chi kij
 
 
+;To restore content blocking for a site, select “Turn on Blocking for This Site.“
+To restore content blocking for a site, select “Turn on Blocking for This Site.“
+
+
+# String is obsolete. Do not remove.
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
 Richin nitzolïx ri q'atoj pa jun ruxaq, tacha' “Titzij Q'atoj Pa Re Ruxaq Re'“ pa ri Rupas Ruk'u'x Chajinïk.
 
@@ -180,10 +201,12 @@ We ri ruq'atik rupam nuchajij chi nawokisaj jun ruxaq akuqub'an ak'u'x chi rij, 
 We ri ruq'atik rupam nuchajij chi nawokisaj jun ruxaq akuqub'an ak'u'x chi rij, yatikïr nacha' “Tichup Q'atoj pa re Ruxaq re'“ pa re pas re'.
 
 
+# HTML page title
 ;Choose the independent browser
 Tacha' ri mama' okik'amaya'l
 
 
+# HTML page description
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 Man rojqan ta ch'akoj ri Firefox, man jun ajk'ayij nimamoloj ta, man rusujun ta ri'. Nacha' ri Firefox man xa xe ta ok nacha' jun okik'amaya'l. Jun k'aqwäch chi rij ri kijamalil winäq.
 

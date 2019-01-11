@@ -3,8 +3,9 @@
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
 ## tp_tour_firefox_201809 ##
-## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
-## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
+## NOTE: demo server available at https://www-dev.allizom.org/firefox/65.0/content-blocking/start/
+## NOTE: demo server variable 2: https://www-dev.allizom.org/firefox/65.0/content-blocking/start/?variation=2
+## NOTE: see testing instructions here https://bugzilla.mozilla.org/show_bug.cgi?id=1511420#c7
 
 
 ;When you see the shield, Firefox is blocking parts of the page that can track you online.
@@ -16,10 +17,20 @@
 当您看到这个盾牌时，意味着 Firefox 已拦截该页面中可能跟踪您的浏览行为或降低访问速度的内容。
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
 若内容拦截功能造成您无法正常打开某个您信任的网站，您可在此面板中选择“暂时禁用拦截”。
 
 
+;If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+
+
+# String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
 若内容拦截功能造成您无法正常打开某个您信任的网站，您可在此面板中选择“对此网站禁用拦截”。
 
@@ -122,7 +133,12 @@ Firefox 跟踪保护
 感谢您了解全新带有跟踪保护功能的隐私浏览模式。
 
 
-# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
+# Link points to https://support.mozilla.org/en-US/kb/content-blocking/
+;<a rel="external" href="%s">Learn more</a> about how it works.
+<a rel="external" href="%s">Learn more</a> about how it works.
+
+
+# String is obsolete. Do not remove.
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 还想深入了解它的工作原理？访问 <a rel="external" href="%s">常见问题页面</a> 进一步了解。
 
@@ -139,6 +155,11 @@ Firefox 新功能：内容拦截
 对受信任的网站关闭拦截
 
 
+;To restore content blocking for a site, select “Turn on Blocking for This Site.“
+To restore content blocking for a site, select “Turn on Blocking for This Site.“
+
+
+# String is obsolete. Do not remove.
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
 若要重新开启对一个网站的内容拦截，请在控制中心的面板中选择“启用对此网站的拦截”。
 
@@ -180,10 +201,12 @@ Firefox 新功能：内容拦截
 若内容拦截功能造成您无法正常打开某个您信任的网站，您可在此面板中选择“对此网站禁用拦截”。
 
 
+# HTML page title
 ;Choose the independent browser
 选择独立自主的浏览器
 
 
+# HTML page description
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 Firefox 非营利、非公司化、不妥协。选择 Firefox 不仅是选择了一款浏览器，也是选择支持个人自由。
 

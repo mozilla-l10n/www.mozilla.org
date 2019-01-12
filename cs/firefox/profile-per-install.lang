@@ -4,7 +4,7 @@
 
 
 ;An Important Change in Firefox: Dedicated Profiles
-An Important Change in Firefox: Dedicated Profiles
+Důležitá změna ve Firefoxu: samostatné profily pro jednotlivé verze
 
 
 ;What’s Changed
@@ -12,58 +12,58 @@ Co se změnilo
 
 
 ;Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
-Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
+Dříve všechny instalace Firefoxu sdíleli svá uložená data. Nově Firefox používá samostatné profily (místo, kam si ukládá data) pro každou instalaci (finální vydání, betaverze, Nightly i ESR). Tato změna zajistí stabilní a bezpečné používání Firefoxu i pokud používáte více verzí na jednom počítači.
 
 
 ;How Dedicated Profiles Work
-How Dedicated Profiles Work
+Jak to funguje
 
 
 ;Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
-Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
+Firefox ukládá vaše záložky, hesla a nastavení do složky se soubory, které říkáme profil. Tato složka je na jiném místě než samostatná instalace.
 
 
 ;The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
-The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
+Instalace, kterou si vyberete, bude používat váš původní profil sdílený pro všechna v něm uložené záložky, historii a hesla.
 
 
 ;You have not lost any personal data or customizations. Any previous profile data is safe and attached to the first Firefox installation that was opened after this change.
-You have not lost any personal data or customizations. Any previous profile data is safe and attached to the first Firefox installation that was opened after this change.
+O žádná svá data a nastavení nepřijdete. Všechna data jsou bezpečně uložená v profilu a dále používaná první instalací, kterou spustíte.
 
 
 ;All of your Firefox installations will now have separate profiles.
-All of your Firefox installations will now have separate profiles.
+Všechny instalace Firefoxu budou nyní používat oddělené profily.
 
 
 ;What You Need to Do
-What You Need to Do
+Co můžete udělat
 
 
 ;If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
-If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
+Pokud nebudete dělat nic, každá instalace začne používat samostatný profil. To znamená, že každá instalace bude mít jiná data.
 
 
 ;You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
-You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
+Používaný profil můžete pro každou instalaci změnit pomocí správce profilů. Nastavení je popsané v naší <a href="%(support)s">nápovědě</a>.
 
 
 ;While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.
-While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.
+I když jsou profily propojené s konkrétní instalací Firefoxu, pro sdílení dat mezi nimi můžete použít svůj účet Firefoxu. Pro co největší podobnost s původním chováním Firefoxu doporučujeme nastavit si synchronizaci všech dat ve všech profilech Firefoxu.
 
 
 ;A Firefox Account is the easiest way to make your profiles consistent on all of your versions of Firefox. You also get additional benefits like sending tabs and secure password storage.
-A Firefox Account is the easiest way to make your profiles consistent on all of your versions of Firefox. You also get additional benefits like sending tabs and secure password storage.
+Účet Firefoxu je nejjednodušší způsob jak si zajistit přístup ke svým datům ze všech vašich instalacích Firefoxu. Získáte také další funkce jako posílání panelů a bezpečné úložiště hesel.
 
 
 ;You’re signed in and ready to start using Sync.
-You’re signed in and ready to start using Sync.
+Jste přihlášeni a můžete začít používat Sync.
 
 
 ;We detected that you have installed and opened an older version of Firefox on your computer. You may need to take action.
-We detected that you have installed and opened an older version of Firefox on your computer. You may need to take action.
+Firefox zjistil, že jste si do počítače nainstalovali a spustili jeho starší verzi. Může být potřeba provést nějaké kroky.
 
 
 ;We detected more than one version of Firefox on your computer. You may need to take action.
-We detected more than one version of Firefox on your computer. You may need to take action.
+Na vašem Firefox zjistil více než jednu nainstalovanou verzi. Může být potřeba provést nějaké kroky.
 
 

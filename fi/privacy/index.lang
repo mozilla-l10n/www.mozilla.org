@@ -14,7 +14,7 @@ Jos haluat tehdä muutoksia tietoihisi, tai jos sinulla on mitä tahansa kysytt�
 
 
 ;<a href="%(dsar)s">See here for Data Subject Access Requests.</a>
-<a href="%(dsar)s">See here for Data Subject Access Requests.</a>
+<a href="%(dsar)s">Katso tästä Rekisteröidyn oikeus saada pääsy tietoihin -tietopyynnöt.</a>
 
 
 ;Data Privacy Principles
@@ -24,13 +24,13 @@ Tietosuojan periaatteet
 # Links to https://www.mozilla.org/privacy/principles/
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Mozillan <a href="%(principles)s">tietosuojaperiaatteet</a> ohjaavat käytäntöjämme kunnioittamaan ja suojaamaan Internetiä käyttäviä henkilöitä. Lue, miten nämä periaatteet muovaavat Firefoxia ja kaikkia tuotteitamme <a href="%(faq)s">usein kysytyissä kysymyksissä</a>.
 
 
 # This string is obsolete. Do not remove.
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Mozillan tietosuojaperiaatteet ohjaavat käytäntöjämme kunnioittamaan ja suojaamaan Internetiä käyttäviä henkilöitä. Lue <a href="%(faq)s">usein kysytyistä kysymyksistä</a>, miten nämä periaatteet muovaavat Firefoxia ja kaikkia tuotteitamme.
 
 
 # This string is obsolete. Do not remove.
@@ -100,7 +100,7 @@ Vanhentuneet käytännöt
 
 # Used at the top of the page for navigation (breadcrumbs)
 ;Home
-Home
+Etusivu
 
 
 # Used in legal docs to collapse (hide) a paragraph

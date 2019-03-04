@@ -87,57 +87,57 @@ Mozilla는 평범한 조직이 아닙니다. 1998년에 커뮤니티 오픈 소�
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+Mozilla는 기본적으로 Firefox에서 제한된 데이터 집합을 수집하여 사람들이 브라우저를 사용하는 방식을 이해합니다. 이 데이터는 사용자의 이름이나 전자 메일 주소가 아닌 임의의 식별자에 연결되어 있습니다. 자세한 내용은 <a href="%(privacy)s">개인정보 취급방침</a>에서 볼 수 있고 해당 <a href="%(data)s">데이터 수집에 관한 전체 설명서</a>도 살펴볼 수 있습니다.
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+우리는 문서를 공개하여 말한 내용이 사실인지 누구나 검증하고 개선이 필요한지 이야기 해 주며 어느 것도 숨기지 않을 것이라는 확신을 가질 수 있도록 합니다.
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-That documentation is gobbledygook to me! Can you give it to me in plain English?
+그 문서가 제게는 이해하기 힘든데요! 평범한 말로 해 줄 수 있나요?
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+Firefox의 출시 버전은 기본적으로 두 가지 범주의 데이터를 수집합니다.
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+첫 번째는 우리가 "기술적 데이터"라고 지칭하는 것입니다. 이것은 실행중인 운영체제나 오류 또는 충돌에 대한 정보와 같은 브라우저 자체에 대한 데이터입니다.
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
-The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
+두 번째는 "상호 작용 데이터"라 지칭하는 것입니다. 이 정보는 열린 탭의 개수, 사용자 환경 설정의 상태 또는 스크린 샷이나 컨테이너와 같이 특정 브라우저 기능이 사용된 횟수와 같은 개인의 Firefox 사용에 대한 데이터입니다. 예를 들어 우리는 뒤로가기 버튼에 관한 데이터를 수집하는데, 브라우저의 왼쪽 상단에있는 화살표를 사용하면 이전 웹 페이지로 돌아가는 방식으로 누군가가 뒤로가기 버튼을 사용했음을 알 수 있지만 어느 특정 웹 페이지를 접근하는지 알려주지 않습니다.
 
 
 ;Do you collect more data in pre-release versions of Firefox?
-Do you collect more data in pre-release versions of Firefox?
+시험판 버전의 Firefox에서 더 많은 데이터를 수집합니까?
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
-Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
+어느정도요. 위에 설명한 데이터 외에도 우리는 Firefox 시험판 버전에서 기본적으로 충돌 및 오류 보고서를 수집합니다.
 
 
 # Links to https://support.mozilla.org/kb/shield
 ;We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
-We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
+우리는 또한 <a href="%(link)s">연구</a>를 위해 사전 릴리즈에서 추가 데이터를 수집할 수 있습니다. 예를 들어 일부 연구에서는 특정 웹 사이트에 대한 URL 및 기타 정보가 포함될 수 있는 “웹 활동 데이터”를 필요로합니다. 예를 들어 특정 지역의 인기있는 웹 사이트를 보다 잘 통합하는 방법 같이 Firefox 개선을 위한 특정 질문에 대한 답을 얻도록 도움을 줍니다.
 
 
 ;Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
-Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
+Mozilla 시험판 버전은 개발 플랫폼이어서 실험용 기능이 자주 업데이트됩니다. 실험적 기능이 작동하는 방식을 이해하기 위해 출시 전보다 더 많은 데이터를 수집합니다. 환경 설정에서 이 데이터를 수집하지 않도록 선택할 수 있습니다.
 
 
 ;But why do you collect any data at all?
-But why do you collect any data at all?
+그런데 모든 데이터를 왜 수집합니까?
 
 
 ;If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
-If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
+브라우저의 작동 방식이나 사람들이 사용하는 기능을 알 수 없다면 더 나은 제품을 제공하고 원하는 제품을 제공 할 수 없습니다. 우리는 사람들의 프라이버시를 존중하면서 제품에 대한 현명한 결정을 내릴 수 있도록 데이터 수집 및 분석 도구를 구축하는 데 투자해왔습니다.
 
 
 ;Data collection still bugs me. Can I turn it off?
-Data collection still bugs me. Can I turn it off?
+제게 데이터 수집은 여전히 버그입니다. 내가 끌 수 있을까요?
 
 
 # First URL links to https://support.mozilla.org/kb/firefox-options-preferences-and-settings

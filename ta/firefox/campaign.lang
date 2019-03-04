@@ -1,0 +1,242 @@
+## active ##
+## firefox_new_platform_link_text ##
+## firefox_new_try_again_link_020818 ##
+## firefox_quantum_new_headline ##
+## firstrun_email_only_form ##
+## NOTE: Demo page at https://www-dev.allizom.org/firefox/campaign/
+
+
+;Congrats! You’re using the latest version of Firefox.
+வாழ்த்துக்கள்! நீங்கள் பயர்பாக்ஸின் புதிய பதிப்பை பயன்படுத்துகிறீர்கள்.
+
+
+;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
+சமீபத்திய வேகம் மற்றும் தனியுரிமைக்காக உங்கள் Firefoxஐப் <a href="%(url)s">புதுப்பிக்கவும்</a>.
+
+
+;You’re using a pre-release version of Firefox.
+நீங்கள் பயர்பாஃசின் தற்போதைய வெளியீட்டுக்கு முந்தைய பதிப்பினைப் பயன்படுத்துகிறீர்கள்.
+
+
+;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
+You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
+
+
+;The new <strong>Firefox</strong>
+புதிய <strong>Firefox</strong>
+
+
+;Fast for good.
+அதி வேகம் மிக நன்று.
+
+
+# String is obsolete. Do note remove.
+;Meet Firefox Quantum
+பயர்பாக்சு குவாண்டம் சந்தியுங்கள்
+
+
+# String is obsolete. Do note remove.
+;New. Fast. For good.
+புதிது. அதி வேகம். மிக நன்று.
+
+
+# Link points to /firefox/new/?scene=2
+;Download Now
+இப்பொழுதே பதிவிறக்கு
+
+
+# Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
+;Refresh Firefox
+பயர்பாக்க்ப் புதுப்பியுங்கள்
+
+
+# Link points to https://support.mozilla.org/kb/install-firefox-linux
+;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
+பயர்பாக்சை நிறுவுவதற்கு தயவுசெய்து <a href="%(url)s">இந்த வழிமுறைகளைப்</a> பின்பற்றவும்.
+
+
+# Title displayed in the modal window for advanced options.
+# The different case is to let localizers use a different translation (or case) from the link, if needed
+;Advanced Install Options & Other Platforms
+மேம்பட்ட நிறுவல் தேர்வுகள் & பிற தளங்கள்
+
+
+# Link to display the advanced install panel
+;Advanced install options & other platforms
+மேம்பட்ட நிறுவல் தேர்வுகள் & பிற தளங்கள்
+
+
+;Keep up with<br> all things Firefox.
+பயர்பாக்சின் அனைத்து நிகழ்வுகளிலும்<br> இணைந்திருங்கள்.
+
+
+# Link Span is for visual formatting and line break.
+;Download Firefox <span>for Windows</span>
+<span>விண்டோசு இயங்குதளத்திற்கான</span> பயர்பாக்சை பதிவிறக்கவும்
+
+
+# Span is for visual formatting and line break.
+;Download Firefox <span>for macOS</span>
+<span> மேக் இயங்குதளத்திற்கான</span> பயர்பாக்சைப் பதிவிறக்கவும்
+
+
+# Span is for visual formatting and line break.
+;Download Firefox <span>for Linux</span>
+<span>இலினக்சு இயங்குதளத்திற்கான</span> பயர்பாக்சைப் பதிவிறக்கவும்
+
+
+# Link points to /firefox/all/
+;Download for other platforms & languages
+பிற இயக்குதளங்கள் & மொழிகளுக்கு பதிவிறக்குங்கள்
+
+
+# The string is obsolete. Do not remove.
+# Link points to /firefox/all/
+;Download in another language
+மற்றொரு மொழியில் பதிவிறக்குங்கள்
+
+
+;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+உங்கள் பதிவிறக்கம் தானாகவே தொடங்க வேண்டும். வேலை செய்யவில்லையா? <a id="%(id)s" href="%(fallback_url)s">மீண்டும் பதிவிறக்க முயற்சியுங்கள்</a>.
+
+
+# Obsolete string, DO NOT REMOVE
+;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
+உங்கள் பதிவிறக்கம் தானாகவே தொடங்க வேண்டும். இல்லையெனில், <a id="%(id)s" href="%(fallback_url)s">இங்கே சொடுக்குங்கள்</a>.
+
+
+;Learn how to make Firefox even smarter, faster and more secure.
+Learn how to make Firefox even smarter, faster and more secure.
+
+
+;Get informative tips, tricks and product announcements delivered to your inbox.
+Get informative tips, tricks and product announcements delivered to your inbox.
+
+
+;Enter your email address
+Enter your email address
+
+
+;How will Mozilla use my email?
+How will Mozilla use my email?
+
+
+;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
+Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
+
+
+;What we want you to know:
+What we want you to know:
+
+
+;You don’t need to give us your email to download and use Firefox.
+You don’t need to give us your email to download and use Firefox.
+
+
+;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
+We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
+
+
+;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
+You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
+
+
+;You can unsubscribe anytime, for any reason.
+You can unsubscribe anytime, for any reason.
+
+
+;We will not share, sell or use your email for any other purposes.
+We will not share, sell or use your email for any other purposes.
+
+
+;Let’s do this!
+இதைச் செய்வோம்!
+
+
+;Sync up with Firefox on mobile:
+கைபேசியில் பயர்பாக்சுடன் ஒத்திசையுங்கள்:
+
+
+# HTML page title prefix
+;Download Firefox
+பயர்பாக்சைப் பதிவிறக்கு
+
+
+# HTML page title
+;Free Web Browser
+இலவச இணைய உலாவி
+
+
+# HTML page description
+;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
+இலவசமான இணைய உலாவி, மொசில்லா பயர்பாக்சை பதிவிறக்கு. பயர்பாக்சு தனிநபர் கட்டுப்பாடுகளை இணையத்தில் வைத்திருக்க அர்பணிக்கப்பட்ட ஒரு சர்வதேச இலாப நோக்கமற்ற நிறுவனத்தால் உருவாக்கப்பட்டது. விண்டோஸ், macOS, இலினக்சு, ஆண்ட்ராய்டு மற்றும் iOS இயங்குதளங்களுக்கான பயர்பாக்சை இன்றே பெறுங்கள்!
+
+
+;Download the fastest Firefox ever
+எப்போதும் வேகமான பயர்பாக்சைப் பதிவிறக்கவும்
+
+
+;Faster page loading, less memory usage and packed with features, the new Firefox is here.
+வேகமான பக்க ஏற்றம், குறைந்த நினைவகப் பயன்பாடு போன்ற அம்சங்கள் நிறைந்த, புதிய பயர்பாக்சு இதோ.
+
+
+;2x Faster
+2x வேகமானது
+
+
+;The best Firefox ever
+எப்போதும் மிகச் சிறந்த பயர்பாக்சு
+
+
+;Lightweight
+இலகுவானது
+
+
+;Uses 30% less memory than Chrome
+குரோமை உலாவியைவிட 30% குறைவான நினைவகத்தைப் பயன்படுத்துகிறது
+
+
+;Powerfully private
+வலிமையான தனிமை
+
+
+;Truly Private Browsing with Tracking Protection
+உண்மையான தடமறியல் பாதுகாப்புடன் கூடிய அந்தரங்க உலாவல்
+
+
+# These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/
+;Welcome to Firefox
+பயர்பாக்சுக்கு வருக
+
+
+;Take Firefox with You
+பயர்பாக்சை உங்களுடன் எடுத்துச் செல்லுங்கள்
+
+
+;Get your bookmarks, history, passwords and other settings on all your devices.
+உங்கள் எல்லா கருவிகளிலும் உங்களின் புத்தகக்குறிகள், வரலாறு, கடவுச்சொற்கள் மற்றும் பிற அமைப்புகளைப் பெறுங்கள்.
+
+
+# Obsolete string, DO NOT REMOVE
+;Already using Firefox?
+ஏற்கனவே பயர்பாக்சு பயன்படுத்துகிறீர்களா?
+
+
+# Obsolete string, DO NOT REMOVE
+;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
+உங்கள் கணக்கில் புகுபதியவும் நாங்கள் பிற கருவிகளின் பயர்பாக்சில் நீங்கள் சேமித்த புத்தக்குறிகள், கடவுச்சொற்கள் மற்ற பிற சிறந்த விசயங்களை ஒத்திசைப்போம்.
+
+
+;Learn more about Firefox Accounts
+பயர்பாக்சு பற்றி மேலும் தெரிந்துகொள்ளவும்
+
+
+;Skip this step
+இந்த படியைத் தாவவும்
+
+
+# Old firstrun page
+;Chart your own course
+உங்கள் பாதையை நீங்களே வரையவும்
+
+

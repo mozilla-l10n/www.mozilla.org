@@ -1,155 +1,12 @@
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/campaign/
 
 
-;Congrats! You’re using the latest version of Firefox.
-অভিনন্দন! আপনি Firefox এর সর্বশেষ সংস্করণ ব্যবহার করছেন।
-
-
-;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-নতুন গতি এবং গোপনীয়তায় আপনার Firefox <a href="%(url)s">হালনাগাদ</a> করুন।
-
-
-;You’re using a pre-release version of Firefox.
-আপনি Firefox এর প্রি-রিলিজ সংস্করণ ব্যবহার করছেন।
-
-
-;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-
-
 ;The new <strong>Firefox</strong>
 নতুন <strong> Firefox </strong>
 
 
 ;Fast for good.
 মঙ্গলের জন্য দ্রুততা।
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-দেখুন Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-নতুন। দ্রুত। চিরতরে।
-
-
-# Link points to /firefox/new/?scene=2
-;Download Now
-এখন ডাউনলোড করুন
-
-
-# Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
-;Refresh Firefox
-Firefox রিফ্রেশ করুন
-
-
-# Link points to https://support.mozilla.org/kb/install-firefox-linux
-;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
-অনুগ্রহ করে Firefox ইন্সটল করতে <a href="%(url)s">এই নির্দেশনাগুলো</a> অনুসরণ করুন।
-
-
-# Title displayed in the modal window for advanced options.
-# The different case is to let localizers use a different translation (or case) from the link, if needed
-;Advanced Install Options & Other Platforms
-উন্নত ইনস্টল অপশন ও অন্যান্য প্ল্যাটফর্ম
-
-
-# Link to display the advanced install panel
-;Advanced install options & other platforms
-উন্নত ইনস্টল অপশন ও অন্যান্য প্ল্যাটফর্ম
-
-
-;Keep up with<br> all things Firefox.
-Firefox এর সবকিছুর<br> সাথেই থাকুন।
-
-
-# Link Span is for visual formatting and line break.
-;Download Firefox <span>for Windows</span>
-<span>Windows এর জন্য</span> Firefox ডাউনলোড করুন
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for macOS</span>
-<span>macOS এর জন্য</span> Firefox ডাউনলোড করুন
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for Linux</span>
-<span>Linux এর জন্য</span> Firefox ডাউনলোড করুন
-
-
-# Link points to /firefox/all/
-;Download for other platforms & languages
-অন্যান্য প্ল্যাটফর্ম ও ভাষার জন্য ডাউনলোড করুন
-
-
-# The string is obsolete. Do not remove.
-# Link points to /firefox/all/
-;Download in another language
-অন্য ভাষাতে ডাউনলোড করুন
-
-
-;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-স্বয়ংক্রিয়ভাবে ডাউনলোড শুরু হওয়া উচিত। কাজ করছে না? <a id="%(id)s" href="%(fallback_url)s">পুনরায় ডাউনলোড করুন</a>।
-
-
-# Obsolete string, DO NOT REMOVE
-;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-আপনার ডাউনলোড এখনি শুরু হবে। যদি না হয় তবে <a id="%(id)s" href="%(fallback_url)s">এখানে ক্লিক করুন</a>।
-
-
-;Learn how to make Firefox even smarter, faster and more secure.
-কীভাবে Firefox কে স্মার্ট, গতিময় এবং আরও বেশি নিরাপদ করা যায় তা জানুন।
-
-
-;Get informative tips, tricks and product announcements delivered to your inbox.
-আপনার ইনবক্সে তথ্যবহুল টিপস, কৌশল এবং পণ্যের ঘোষণা পান।
-
-
-;Enter your email address
-আপনার ইমেইল ঠিকানা দিন
-
-
-;How will Mozilla use my email?
-কিভাবে Mozilla আমার ইমেইল ব্যবহার করবে?
-
-
-;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-
-
-;What we want you to know:
-যা আমরা আপনাকে জানাতে চাই:
-
-
-;You don’t need to give us your email to download and use Firefox.
-Firefox ডাউনলোড এবং ব্যবহার করতে আমাদের ইমেইল করার প্রয়োজন নেই।
-
-
-;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-
-
-;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-
-
-;You can unsubscribe anytime, for any reason.
-আপনি যে কোন কারণে, যে কোন সময় আনসাবস্ক্রাইব করতে পারেন।
-
-
-;We will not share, sell or use your email for any other purposes.
-আপনার ইমেইল আমরা শেয়ার, বিক্রি বা অন্য কোন উদ্দেশ্যে ব্যবহার করি না।
-
-
-;Let’s do this!
-চলুন করা যাক!
-
-
-;Sync up with Firefox on mobile:
-মোবাইলে Firefox এর সাথে সিঙ্ক আপ করুন:
 
 
 # HTML page title prefix
@@ -165,14 +22,6 @@ Firefox ডাউনলোড করুন
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
-
-
-;Download the fastest Firefox ever
-দ্রুততম Firefox ডাউনলোড করুন
-
-
-;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-দ্রুততর পাতা লোডিং, কম মেমরির ব্যবহার এবং নতুন নতুন বৈশিষ্ট্যে ভরপুর, নতুন Firefox এখানে।
 
 
 ;2x Faster
@@ -197,41 +46,5 @@ Chrome এর চেয়ে 30% কম মেমরি ব্যবহার �
 
 ;Truly Private Browsing with Tracking Protection
 সত্যিই ট্র্যাকিং সুরক্ষার সাথে ব্যক্তিগত ব্রাউজিং
-
-
-# These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/
-;Welcome to Firefox
-Firefox এ আপনাকে স্বাগতম
-
-
-;Take Firefox with You
-Firefox আপনার সাথেই রাখুন
-
-
-;Get your bookmarks, history, passwords and other settings on all your devices.
-Get your bookmarks, history, passwords and other settings on all your devices.
-
-
-# Obsolete string, DO NOT REMOVE
-;Already using Firefox?
-ইতোমধ্যেই Firefox ব্যবহার করছেন?
-
-
-# Obsolete string, DO NOT REMOVE
-;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-আপনার অ্যাকাউন্টে সাইন ইন করুন এবং আমরা আপনার বুকমার্ক, পাসওয়ার্ড এবং অন্য সব দারুন দারুন জিনিসগুলো Firefox এর অন্য ডিভাইসগুলোতে সংরক্ষণ করেছেন তা সিঙ্ক করব।
-
-
-;Learn more about Firefox Accounts
-Firefox Accounts সম্পর্কে আরও জানুন
-
-
-;Skip this step
-এই ধাপটি বাদ দিন
-
-
-# Old firstrun page
-;Chart your own course
-আপনার নিজের কোর্সটি চার্ট করুন
 
 

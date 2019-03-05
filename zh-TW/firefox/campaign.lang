@@ -1,26 +1,5 @@
 ## active ##
-## download_thanks_newsletter_092018 ##
-## firefox_new_platform_link_text ##
-## firefox_new_try_again_link_020818 ##
-## firefox_quantum_new_headline ##
-## firstrun_email_only_form ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/campaign/
-
-
-;Congrats! You’re using the latest version of Firefox.
-恭喜您！您使用的是最新版的 Firefox。
-
-
-;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-<a href="%(url)s">更新</a> 您的 Firefox 取得最新的效能改善與隱私保護功能。
-
-
-;You’re using a pre-release version of Firefox.
-您使用的是尚未正式發行的 Firefox。
-
-
-;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-您正在使用的是 <a href="%(url)s">Firefox 已停止支援</a>，也不安全的過時作業系統。
 
 
 ;The new <strong>Firefox</strong>
@@ -29,133 +8,6 @@
 
 ;Fast for good.
 更快、更多好事。
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-認識 Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-全新、速度更快、作好事。
-
-
-# Link points to /firefox/new/?scene=2
-;Download Now
-立刻下載
-
-
-# Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
-;Refresh Firefox
-重新整理 Firefox
-
-
-# Link points to https://support.mozilla.org/kb/install-firefox-linux
-;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
-請依照 <a href="%(url)s">下列步驟</a> 安裝 Firefox。
-
-
-# Title displayed in the modal window for advanced options.
-# The different case is to let localizers use a different translation (or case) from the link, if needed
-;Advanced Install Options & Other Platforms
-進階安裝選項及其他平台
-
-
-# Link to display the advanced install panel
-;Advanced install options & other platforms
-進階安裝選項及其他平台
-
-
-;Keep up with<br> all things Firefox.
-了解 Firefox<br>有哪些不同。
-
-
-# Link Span is for visual formatting and line break.
-;Download Firefox <span>for Windows</span>
-下載 Firefox <span>for Windows</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for macOS</span>
-下載 Firefox <span>for macOS</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for Linux</span>
-下載 Firefox <span>for Linux</span>
-
-
-# Link points to /firefox/all/
-;Download for other platforms & languages
-下載其他平台與語言版本
-
-
-# The string is obsolete. Do not remove.
-# Link points to /firefox/all/
-;Download in another language
-下載其他語言版本
-
-
-;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-將自動開始下載，若沒有的話請<a id="%(id)s" href="%(fallback_url)s">點擊此處再試一次</a>。
-
-
-# Obsolete string, DO NOT REMOVE
-;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-將自動開始下載，若沒有的話請<a id="%(id)s" href="%(fallback_url)s">點擊此處</a>。
-
-
-;Learn how to make Firefox even smarter, faster and more secure.
-了解如何讓 Firefox 變得更聰明、更快、更安全。
-
-
-;Get informative tips, tricks and product announcements delivered to your inbox.
-訂閱電子報，讓使用小祕訣、產品公告直達您的收件匣。
-
-
-;Enter your email address
-輸入您的電子郵件地址
-
-
-;How will Mozilla use my email?
-Mozilla 會如何使用我的信箱資料？
-
-
-;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Mozilla 不僅重視您的 E-Mail 隱私與安全性，更是已經銘記於我們的<a href="%(manifesto)s">宣言</a>當中:「使用者的網路安全及隱私為基本要求，不能妥協。」<a href="%(principles)s">您可在此瞭解我們的隱私資料處理原則</a>。
-
-
-;What we want you to know:
-我們想告訴您:
-
-
-;You don’t need to give us your email to download and use Firefox.
-不需要提供您的 E-Mail 信箱，也能下載使用 Firefox。
-
-
-;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-我們會向您請求 E-Mail 信箱，是因為根據研究發現，若人們可以收到關於 Firefox 的簡介，可以用得更好。
-
-
-;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-您會收到設計來幫助您有 Firefox 最佳使用體驗的郵件，並可更加了解隱私權、安全性，以及能如何在網路上更加善用時間。
-
-
-;You can unsubscribe anytime, for any reason.
-您可以因為任何原因，隨時退訂。
-
-
-;We will not share, sell or use your email for any other purposes.
-我們不會因電子報以外的理由，透露、賣掉或使用您的 E-Mail 信箱。
-
-
-;Let’s do this!
-一起出發吧！
-
-
-;Sync up with Firefox on mobile:
-在行動裝置上也同步使用 Firefox:
 
 
 # HTML page title prefix
@@ -171,14 +23,6 @@ Mozilla 不僅重視您的 E-Mail 隱私與安全性，更是已經銘記於我�
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 下載免費的網頁瀏覽器 Mozilla Firefox。Firefox 是由致力於讓每個人都能自行控制線上生活的全球性非營利社群所打造的。立刻下載 Firefox for Windows、macOS、Linux、Android 或 iOS！
-
-
-;Download the fastest Firefox ever
-下載有史以來最快的 Firefox
-
-
-;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-全新的 Firefox 來了！頁面載入更快、記憶體用量更少，還有更多不同功能。
 
 
 ;2x Faster
@@ -203,41 +47,5 @@ Mozilla 不僅重視您的 E-Mail 隱私與安全性，更是已經銘記於我�
 
 ;Truly Private Browsing with Tracking Protection
 包含追蹤保護功能的隱私瀏覽
-
-
-# These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/
-;Welcome to Firefox
-歡迎使用 Firefox
-
-
-;Take Firefox with You
-Firefox 隨身帶著走
-
-
-;Get your bookmarks, history, passwords and other settings on all your devices.
-在您的任何裝置上取得書籤、瀏覽紀錄、密碼及其他設定。
-
-
-# Obsolete string, DO NOT REMOVE
-;Already using Firefox?
-已經在使用 Firefox 了嗎？
-
-
-# Obsolete string, DO NOT REMOVE
-;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-登入帳號後，我們就會同步書籤、密碼，以及您在其他裝置上的 Firefox 存下來的好東西。
-
-
-;Learn more about Firefox Accounts
-了解 Firefox Accounts 的更多資訊
-
-
-;Skip this step
-跳過這步
-
-
-# Old firstrun page
-;Chart your own course
-以您的方式使用
 
 

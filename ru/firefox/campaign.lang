@@ -1,26 +1,5 @@
 ## active ##
-## download_thanks_newsletter_092018 ##
-## firefox_new_platform_link_text ##
-## firefox_new_try_again_link_020818 ##
-## firefox_quantum_new_headline ##
-## firstrun_email_only_form ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/campaign/
-
-
-;Congrats! You’re using the latest version of Firefox.
-Поздравляем! Вы используете последнюю версию Firefox.
-
-
-;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-<a href="%(url)s">Обновите</a> свой Firefox до последней версии, чтобы увеличить скорость работы и повысить приватность.
-
-
-;You’re using a pre-release version of Firefox.
-Вы используете предрелизную версию Firefox.
-
-
-;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-Вы используете небезопасную, устаревшую операционную систему, <a href="%(url)s">более не поддерживаемую Firefox</a>.
 
 
 ;The new <strong>Firefox</strong>
@@ -29,133 +8,6 @@
 
 ;Fast for good.
 Быстрый и Ответственный.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Встречайте Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-Новый. Быстрый. Ответственный.
-
-
-# Link points to /firefox/new/?scene=2
-;Download Now
-Загрузить сейчас
-
-
-# Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
-;Refresh Firefox
-Очистить Firefox
-
-
-# Link points to https://support.mozilla.org/kb/install-firefox-linux
-;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
-Пожалуйста, следуйте <a href="%(url)s">этим инструкциям</a>, чтобы установить Firefox.
-
-
-# Title displayed in the modal window for advanced options.
-# The different case is to let localizers use a different translation (or case) from the link, if needed
-;Advanced Install Options & Other Platforms
-Расширенные возможности установки и другие платформы
-
-
-# Link to display the advanced install panel
-;Advanced install options & other platforms
-Расширенные возможности установки и другие платформы
-
-
-;Keep up with<br> all things Firefox.
-Будьте в курсе всего,<br> что связано с Firefox.
-
-
-# Link Span is for visual formatting and line break.
-;Download Firefox <span>for Windows</span>
-Загрузить Firefox <span>для Windows</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for macOS</span>
-Загрузить Firefox <span>для macOS</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for Linux</span>
-Загрузить Firefox <span>для Linux</span>
-
-
-# Link points to /firefox/all/
-;Download for other platforms & languages
-Загрузить для других платформ и языков
-
-
-# The string is obsolete. Do not remove.
-# Link points to /firefox/all/
-;Download in another language
-Загрузить на другом языке
-
-
-;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Загрузка начнётся автоматически. Она не началась? <a id="%(id)s" href="%(fallback_url)s">Щёлкните здесь</a>.
-
-
-# Obsolete string, DO NOT REMOVE
-;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-Загрузка начнётся автоматически. Если она не началась, <a id="%(id)s" href="%(fallback_url)s">щёлкните здесь</a>.
-
-
-;Learn how to make Firefox even smarter, faster and more secure.
-Узнайте, как сделать Firefox ещё умнее, быстрее и защищённее.
-
-
-;Get informative tips, tricks and product announcements delivered to your inbox.
-Получайте полезные советы, информацию об интересных особенностях, а также объявления о новинках на свой ящик.
-
-
-;Enter your email address
-Введите свой адрес эл. почты
-
-
-;How will Mozilla use my email?
-Как Mozilla будет использовать мой адрес электронной почты?
-
-
-;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Mozilla не только ценит приватность вашего адреса электронной почты и безопасность - это часть нашего <a href="%(manifesto)s">манифеста</a>: «Безопасность и приватность пользователей Интернета имеют основополагающее значение и не могут рассматриваться как второстепенные моменты.» <a href="%(principles)s">Вы можете узнать больше о наших принципах конфиденциальности данных здесь</a>.
-
-
-;What we want you to know:
-Мы хотим, чтобы вы знали:
-
-
-;You don’t need to give us your email to download and use Firefox.
-Вам не нужно указывать свой адрес электронной почты, чтобы загрузить и пользоваться Firefox.
-
-
-;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-Мы просим вас сообщить ваш адрес электронной почты, так как наши исследования показывают, что люди, получившие вводный курс в Firefox, делают с ним больше и работают лучше.
-
-
-;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-Вы будете получать письма, написанные с целью помочь вам оптимизировать Firefox под ваши нужды, узнать больше о конфиденциальности и безопасности, и узнать, как лучше всего использовать ваше время в сети.
-
-
-;You can unsubscribe anytime, for any reason.
-Вы можете отписаться в любое время, по любой причине.
-
-
-;We will not share, sell or use your email for any other purposes.
-Мы не будет делиться, продавать или использовать ваш адрес эл. почты для каких-либо других целей.
-
-
-;Let’s do this!
-Давайте это сделаем!
-
-
-;Sync up with Firefox on mobile:
-Синхронизируйтесь с Firefox на мобильном:
 
 
 # HTML page title prefix
@@ -171,14 +23,6 @@ Mozilla не только ценит приватность вашего адр�
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Загрузите бесплатный веб-браузер Mozilla Firefox. Firefox создан глобальной некоммерческой организацией, которая хочет дать людям возможность контролировать свою жизнь в Интернете. Загрузите Firefox для Windows, macOS, Linux, Android и iOS прямо сейчас!
-
-
-;Download the fastest Firefox ever
-Загрузите самый быстрый в истории Firefox
-
-
-;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-Более быстрая загрузка страниц, меньшее использование памяти и множество функций, новый Firefox уже здесь.
 
 
 ;2x Faster
@@ -203,41 +47,5 @@ Mozilla не только ценит приватность вашего адр�
 
 ;Truly Private Browsing with Tracking Protection
 Настоящий приватный просмотр с защитой от отслеживания
-
-
-# These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/
-;Welcome to Firefox
-Добро пожаловать в Firefox
-
-
-;Take Firefox with You
-Возьмите Firefox с собой
-
-
-;Get your bookmarks, history, passwords and other settings on all your devices.
-Получите доступ к вашим закладкам, истории, паролям и другим параметрам на всех ваших устройствах.
-
-
-# Obsolete string, DO NOT REMOVE
-;Already using Firefox?
-Уже используете Firefox?
-
-
-# Obsolete string, DO NOT REMOVE
-;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-Войдите в свой аккаунт и мы синхронизируем все ваши закладки, пароли и другие нужные вещи, которые вы сохранили в Firefox на других устройствах.
-
-
-;Learn more about Firefox Accounts
-Узнайте больше об Аккаунтах Firefox
-
-
-;Skip this step
-Пропустить этот шаг
-
-
-# Old firstrun page
-;Chart your own course
-Сами определите свой курс
 
 

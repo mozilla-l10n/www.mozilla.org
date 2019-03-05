@@ -1,25 +1,5 @@
 ## active ##
-## firefox_new_platform_link_text ##
-## firefox_new_try_again_link_020818 ##
-## firefox_quantum_new_headline ##
-## firstrun_email_only_form ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/campaign/
-
-
-;Congrats! You’re using the latest version of Firefox.
-تبریک! شما از آخرین نسخه فایرفاکس استفاده می‌کنید.
-
-
-;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-فایرفاکس خود را برای داشتن آخرین سرعت و امنیت <a href="%(url)s">بروزرسانی</a> کنید.
-
-
-;You’re using a pre-release version of Firefox.
-شما در حال استفاده از یک نسخه پیش از انتشارِ فایرفاکس هستید.
-
-
-;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-شما از یک سیستم عامل تاریخ گذشته و غیر امن استفاده می‌کنید<a href="%(url)s"> که دیگر توسط فایرفاکس پشتیبانی نمی شود</a>.
 
 
 ;The new <strong>Firefox</strong>
@@ -28,133 +8,6 @@
 
 ;Fast for good.
 سریع برای همیشه.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-با فایرفاکس کوآنتوم ملاقات کنید
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-جدید. سریع. برای بهترین‌ها.
-
-
-# Link points to /firefox/new/?scene=2
-;Download Now
-هم‌اکنون دریافت کنید
-
-
-# Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
-;Refresh Firefox
-نوسازی فایرفاکس
-
-
-# Link points to https://support.mozilla.org/kb/install-firefox-linux
-;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
-لطفا <a href="%(url)s">این دستور العمل‌ها</a> را برای نصب فایرفاکس دنبال کنید.
-
-
-# Title displayed in the modal window for advanced options.
-# The different case is to let localizers use a different translation (or case) from the link, if needed
-;Advanced Install Options & Other Platforms
-گزینه‌های نصبِ پیشرفته و سایر سکوها
-
-
-# Link to display the advanced install panel
-;Advanced install options & other platforms
-گزینه‌های نصبِ پیشرفته و سایر سکوها
-
-
-;Keep up with<br> all things Firefox.
-با آخرین اخبار فایرفاکس<br> به‌روز باشید.
-
-
-# Link Span is for visual formatting and line break.
-;Download Firefox <span>for Windows</span>
-دریافت فایرفاکس <span>برای ویندوز</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for macOS</span>
-دریافت فایرفاکس <span>برای macOS</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for Linux</span>
-دریافت فایرفاکس <span>برای لینوکس</span>
-
-
-# Link points to /firefox/all/
-;Download for other platforms & languages
-بارگیری برای سایر پلتفرم‌ها و زبان‌ها
-
-
-# The string is obsolete. Do not remove.
-# Link points to /firefox/all/
-;Download in another language
-دریافت به زبان‌های دیگر
-
-
-;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-بارگیری شما باید به زودی شروع شود. شروع نشد؟ <a id="%(id)s" href="%(fallback_url)s">دوباره تلاش کنید</a>.
-
-
-# Obsolete string, DO NOT REMOVE
-;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-بارگیری شما باید تا لحظاتی دیگر بطور خودکار شروع شود. اگر شروع نشد، اینجا <a id="%(id)s" href="%(fallback_url)s">کلیک کنید</a>.
-
-
-;Learn how to make Firefox even smarter, faster and more secure.
-یاد بگیرید چگونه فایرفاکس را حتی دقیق‌تر، سریع‌تر و امن‌تر بسازید.
-
-
-;Get informative tips, tricks and product announcements delivered to your inbox.
-راهنمایی‌های مفید، ترفندها و اعلان‌های محصولات را در رایانامه خود دریافت کنید.
-
-
-;Enter your email address
-نشانی رایانامه خود را وارد کنید
-
-
-;How will Mozilla use my email?
-موزیلا چگونه از رایانامه من استفاده می‌کند؟
-
-
-;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-
-
-;What we want you to know:
-آنچه می‌خواهیم شما بدانید:
-
-
-;You don’t need to give us your email to download and use Firefox.
-نیازی نیست رایانامه خود را برای دریافت و استفاده از فایرفاکس به ما بدهید.
-
-
-;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-رایانامه شما را خواسته‌ایم زیرا تحقیقات ما نشان می‌دهد افرادی که تجربه مقدماتی را دریافت می‌کنند با فایرفاکس بیشتر و بهتر عمل می‌کنند.
-
-
-;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-
-
-;You can unsubscribe anytime, for any reason.
-شما می توانید در هر زمان، به هر دلیلی، اشتراک خود را لغو کنید.
-
-
-;We will not share, sell or use your email for any other purposes.
-ما برای هیچ هدف دیگری، رایانامه شما را به اشتراک نخواهیم گداشت، نخواهیم فروحت یا از آن استفاده دیگری نخواهیم کرد.
-
-
-;Let’s do this!
-بیایید شروع کنیم!
-
-
-;Sync up with Firefox on mobile:
-همگام‌سازی با فایرفاکس موبایل:
 
 
 # HTML page title prefix
@@ -170,14 +23,6 @@ You can expect emails designed to help you optimize Firefox to work best for you
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 موزیلا فایرفاکس، یک مرورگر آزاد را دریافت کنید. فایرفاکس توسط یک موسسه غیرانتفاعی جهانی که افراد را در کنترل زندگی برخط خود قرار می‌دهند، ساخته شده است. امروز فایرفاکس را برای ویندوز، macOS، لینوکس، اندروید و iOS دریافت کنید!
-
-
-;Download the fastest Firefox ever
-سریع‌ترین فایرفاکس را دریافت کنید
-
-
-;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-بارگیری سریع‌تر صفحات، استفاده کمتر از مموری و مملو از امکانات جدید، فایرفاکس جدید اینجاست.
 
 
 ;2x Faster
@@ -202,41 +47,5 @@ You can expect emails designed to help you optimize Firefox to work best for you
 
 ;Truly Private Browsing with Tracking Protection
 مرور ناشناسِ واقعی با امکان محافظت در برابر ردگیری
-
-
-# These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/
-;Welcome to Firefox
-به فایرفاکس خوش آمدید
-
-
-;Take Firefox with You
-فایرفاکس را همراه خود داشته باشید
-
-
-;Get your bookmarks, history, passwords and other settings on all your devices.
-نشانک‌ها، تاریخچه، گذرواژه‌ها و تنظیماتِ دیگر خود را بر روی دستگاه‌های دیگر خود همراه داشته باشید.
-
-
-# Obsolete string, DO NOT REMOVE
-;Already using Firefox?
-در حال حاضر از فایرفاکس استفاده می‌کنید؟
-
-
-# Obsolete string, DO NOT REMOVE
-;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-به حساب کاربری خود وارد شوید و ما همه چیز را هم گام سازی می‌کنیم. نشانک‌ها،‌کلمه‌های عبور و چیزهای ارزشمندی که شما بر روی فایرفاکس دستگاه‌های خود ذخیره کرده‌اید.
-
-
-;Learn more about Firefox Accounts
-درباره حساب‌های کاربری فایرفاکس بیشتر بدانید
-
-
-;Skip this step
-از این مرحله بگذر
-
-
-# Old firstrun page
-;Chart your own course
-برای خود مستقل تصمیم بگیرید
 
 

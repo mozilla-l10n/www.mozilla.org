@@ -1,26 +1,5 @@
 ## active ##
-## download_thanks_newsletter_092018 ##
-## firefox_new_platform_link_text ##
-## firefox_new_try_again_link_020818 ##
-## firefox_quantum_new_headline ##
-## firstrun_email_only_form ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/campaign/
-
-
-;Congrats! You’re using the latest version of Firefox.
-Përgëzime! Po përdorni versionin më të ri të Firefox-it.
-
-
-;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-<a href="%(url)s">Përditësoni</a> Firefox-in tuaj me zhvillimet më të reja në shpejtësi dhe privatësi.
-
-
-;You’re using a pre-release version of Firefox.
-Po përdorni një version paraqarkullim të Firefox-it.
-
-
-;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-Keni në përdorim një sistem operativ të pasigurt, të vjetruar, <a href="%(url)s">që nuk mbulohet më nga Firefox-i</a>.
 
 
 ;The new <strong>Firefox</strong>
@@ -29,133 +8,6 @@ Keni në përdorim një sistem operativ të pasigurt, të vjetruar, <a href="%(u
 
 ;Fast for good.
 I shpejtë përgjithnjë.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Njihuni me Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-I ri. I shpejtë. Përgjithnjë.
-
-
-# Link points to /firefox/new/?scene=2
-;Download Now
-Shkarkojeni Tani
-
-
-# Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
-;Refresh Firefox
-Rifreskoni Firefox-in
-
-
-# Link points to https://support.mozilla.org/kb/install-firefox-linux
-;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
-Që të instaloni Firefox-in, ju lutemi, ndiqni <a href="%(url)s">këto udhëzime</a>.
-
-
-# Title displayed in the modal window for advanced options.
-# The different case is to let localizers use a different translation (or case) from the link, if needed
-;Advanced Install Options & Other Platforms
-Mundësi të Thelluara Instalimi & Platforma të Tjera
-
-
-# Link to display the advanced install panel
-;Advanced install options & other platforms
-Mundësi të thelluara instalimi & platforma të tjera
-
-
-;Keep up with<br> all things Firefox.
-Ndiqni<br> gjithçka mbi Firefox-in.
-
-
-# Link Span is for visual formatting and line break.
-;Download Firefox <span>for Windows</span>
-Shkarkoni Firefox-in <span>për Windows</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for macOS</span>
-Shkarkoni Firefox-in <span>për macOS</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for Linux</span>
-Shkarkoni Firefox-in <span>për Linux</span>
-
-
-# Link points to /firefox/all/
-;Download for other platforms & languages
-Shkarkime për platforma & gjuhë të tjera
-
-
-# The string is obsolete. Do not remove.
-# Link points to /firefox/all/
-;Download in another language
-Shkarkojeni në një gjuhë tjetër
-
-
-;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Shkarkimi juaj do të duhej të fillonte vetvetiu. S’ndodhi? <a id="%(id)s" href="%(fallback_url)s">Provoni sërish ta shkarkoni</a>.
-
-
-# Obsolete string, DO NOT REMOVE
-;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-Shkarkimi juaj do të duhej të fillonte vetvetiu. Nëse s’fillon, <a id="%(id)s" href="%(fallback_url)s">klikoni këtu</a>.
-
-
-;Learn how to make Firefox even smarter, faster and more secure.
-Mësoni si ta bëni Firefox-in edhe më të mençur, më të shpejtë dhe më të sigurt.
-
-
-;Get informative tips, tricks and product announcements delivered to your inbox.
-Merrni ndihmëza informative, marifete dhe njoftime mbi produktesh drejt e te email-i juaj.
-
-
-;Enter your email address
-Jepni adresën tuaj email
-
-
-;How will Mozilla use my email?
-Përse do ta përdorë Mozilla email-in tim?
-
-
-;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Mozilla jo thjesht vlerëson privatësinë dhe sigurinë e email-it tuaj – këto janë pjesë të <a href="%(manifesto)s">Manifestit tonë</a>: “Siguria dhe privatësia e individit në internet janë themelore dhe nuk duhen trajtuar si opsionale.” <a href="%(principles)s">Këtu mund të mësoni rreth Parimeve tona mbi Privatësinë e të Dhënave</a>.
-
-
-;What we want you to know:
-Ç’duam të dini:
-
-
-;You don’t need to give us your email to download and use Firefox.
-S’ju duhet të na jepni email-in tuaj për të shkarkuar dhe përdorur Firefox-in.
-
-
-;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-Ua kërkuam email-in ngaqë kërkimet tona tregojnë se personat që marrin pak ndihmë sa për fillim, arrijnë me Firefox-in më shumë gjëra dhe më mirë.
-
-
-;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-Mund të prisni prej nesh email-e të konceptuar për t’ju ndihmuar të optimizoni Firefox-in për të punuar në mënyrën më të mirë për ju, të mësoni më tepër rreth privatësisë & sigurisë dhe të shihni se si përfitoni maksimumin nga interneti.
-
-
-;You can unsubscribe anytime, for any reason.
-Mund të shpajtoheni kurdo, për çfarëdo arsyeje.
-
-
-;We will not share, sell or use your email for any other purposes.
-Email-n tuaj nuk do t’ua japim të tjerëve, shesim apo përdorim për çfarëdo qëllimi tjetër.
-
-
-;Let’s do this!
-Le ta bëjmë!
-
-
-;Sync up with Firefox on mobile:
-Njëkohësojeni me Firefox-in në celular:
 
 
 # HTML page title prefix
@@ -171,14 +23,6 @@ Shfletues Web i Lirë
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Shkarkoni Mozilla Firefox-in, një shfletues Web i lirë. Firefox-i është krijuar nga një organizëm jofitimprurës, mbarëbotëror, i përkushtuar vënies së individit në kontroll të jetës së tij <em>online</em>. Merreni që sot Firefox-in për Windows, macOS, Linux, Android dhe iOS!
-
-
-;Download the fastest Firefox ever
-Shkarkoni Firefox-in më të shpejtë deri më sot
-
-
-;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-Ngarkim më i shpejtë faqesh, përdorim më i pakët i kujtesës dhe plot me veçori, Firefox-i i ri erdhi.
 
 
 ;2x Faster
@@ -203,41 +47,5 @@ Fuqimisht privat
 
 ;Truly Private Browsing with Tracking Protection
 Shfletim Përnjëmend Privat me Mbrojtje Nga Gjurmimi
-
-
-# These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/
-;Welcome to Firefox
-Mirë se vini në Firefox
-
-
-;Take Firefox with You
-Merreni Firefox-in me Vete
-
-
-;Get your bookmarks, history, passwords and other settings on all your devices.
-Merrni në krejt pajisjet tuaja faqerojtësit, historikun, fjalëkalimet dhe të tjera rregullime tuajat.
-
-
-# Obsolete string, DO NOT REMOVE
-;Already using Firefox?
-E përdorni tashmë Firefox-in?
-
-
-# Obsolete string, DO NOT REMOVE
-;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-Hyni te llogaria juaj dhe do të njëkohësojmë faqerojtësit, fjalëkalimet dhe të tjera gjëra të dobishme që keni ruajtur te Firefox-i në pajisje të tjera.
-
-
-;Learn more about Firefox Accounts
-Mësoni më tepër rreth Llogarive Firefox
-
-
-;Skip this step
-Anashkalojeni këtë hap
-
-
-# Old firstrun page
-;Chart your own course
-Hartojeni vetë kursin tuaj
 
 

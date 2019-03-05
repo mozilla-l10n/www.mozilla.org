@@ -1,25 +1,5 @@
 ## active ##
-## firefox_new_platform_link_text ##
-## firefox_new_try_again_link_020818 ##
-## firefox_quantum_new_headline ##
-## firstrun_email_only_form ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/campaign/
-
-
-;Congrats! You’re using the latest version of Firefox.
-Gratulon! Vi nun uzas la lastan version de Firefox.
-
-
-;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-<a href="%(url)s">Ĝisdatigi</a> vian Firefox kun la lastaj rapidecaj kaj privatecaj plibonigoj.
-
-
-;You’re using a pre-release version of Firefox.
-Vi nun uzas provan version de Firefox.
-
-
-;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-Vi uzas nesekuran kaj malnovan mastruman sistemon, kiu <a href="%(url)s">ne estas plu subtenata de Firefox</a>.
 
 
 ;The new <strong>Firefox</strong>
@@ -28,133 +8,6 @@ La nova <strong>Firefox</strong>
 
 ;Fast for good.
 Bonfare rapida.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Konatiĝu kun Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-Nova. Rapida. Por ĉiam.
-
-
-# Link points to /firefox/new/?scene=2
-;Download Now
-Elŝuti nun
-
-
-# Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
-;Refresh Firefox
-Refreŝigi Firefox
-
-
-# Link points to https://support.mozilla.org/kb/install-firefox-linux
-;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
-Bonvolu sekvi <a href="%(url)s">tiujn ĉi instrukciojn</a> por instali Firefox.
-
-
-# Title displayed in the modal window for advanced options.
-# The different case is to let localizers use a different translation (or case) from the link, if needed
-;Advanced Install Options & Other Platforms
-Spertulaj instalaj elektebloj kaj aliaj platformoj
-
-
-# Link to display the advanced install panel
-;Advanced install options & other platforms
-Spertulaj instalaj elektebloj kaj aliaj platformoj
-
-
-;Keep up with<br> all things Firefox.
-Ĉiam la lastaj<br> novaĵoj pri Firefox.
-
-
-# Link Span is for visual formatting and line break.
-;Download Firefox <span>for Windows</span>
-Elŝuti Firefox <span>por Windows</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for macOS</span>
-Elŝuti Firefox <span>por macOS</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for Linux</span>
-Elŝuti Firefox <span>por Linux</span>
-
-
-# Link points to /firefox/all/
-;Download for other platforms & languages
-Elŝuti por aliaj sistemoj kaj lingvoj
-
-
-# The string is obsolete. Do not remove.
-# Link points to /firefox/all/
-;Download in another language
-Elŝuti en alia lingvo
-
-
-;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Via elŝuto devus aŭtomate komenciĝi. Ĉu tio ne funkciis? <a id="%(id)s" href="%(fallback_url)s">Klopodu elŝuti denove</a>.
-
-
-# Obsolete string, DO NOT REMOVE
-;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-Viŝ elŝuto devus aŭtomate komenciĝi. Se tio ne okazas <a id="%(id)s" href="%(fallback_url)s">alklaku ĉi tie</a>.
-
-
-;Learn how to make Firefox even smarter, faster and more secure.
-Pliaj informoj pri kiel igi Firefox pli inteligenta, rapida kaj sekura.
-
-
-;Get informative tips, tricks and product announcements delivered to your inbox.
-Get informative tips, tricks and product announcements delivered to your inbox.
-
-
-;Enter your email address
-Tajpu vian retpoŝtan adreson
-
-
-;How will Mozilla use my email?
-How will Mozilla use my email?
-
-
-;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-
-
-;What we want you to know:
-What we want you to know:
-
-
-;You don’t need to give us your email to download and use Firefox.
-You don’t need to give us your email to download and use Firefox.
-
-
-;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-
-
-;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-
-
-;You can unsubscribe anytime, for any reason.
-You can unsubscribe anytime, for any reason.
-
-
-;We will not share, sell or use your email for any other purposes.
-We will not share, sell or use your email for any other purposes.
-
-
-;Let’s do this!
-Ek!
-
-
-;Sync up with Firefox on mobile:
-Speguli kun Firefox en poŝaparatoj:
 
 
 # HTML page title prefix
@@ -170,14 +23,6 @@ Senpaga retumilo
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Elŝuti Mozilla Firefox, kiu estas libera retumilo. Firefox estas kreata de tutmonda neprofitcela organizo, kiu sin dediĉas al la transdono de regado al la individuoj en la reto. Ricevi Firefox por Windows, macOS, Linux, Android kaj iOS nun!
-
-
-;Download the fastest Firefox ever
-Elŝuti la ĝisnune plej rapidan Firefox
-
-
-;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-Pli rapida ŝargado de paĝoj, malpli da memoruzo kaj amaso da trajtoj, jen la nova Firefox.
 
 
 ;2x Faster
@@ -202,41 +47,5 @@ Pove privata
 
 ;Truly Private Browsing with Tracking Protection
 Vere privata retumo kun protekto kontraŭ spurado
-
-
-# These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/
-;Welcome to Firefox
-Bonvenon al Firefox
-
-
-;Take Firefox with You
-Portu Firefox kun vi
-
-
-;Get your bookmarks, history, passwords and other settings on all your devices.
-Ricevu viajn legosignojn, historion, pasvortojn kaj aliajn agordojn en ĉiuj viaj aparatoj.
-
-
-# Obsolete string, DO NOT REMOVE
-;Already using Firefox?
-Ĉu vi jam uzas Firefox?
-
-
-# Obsolete string, DO NOT REMOVE
-;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-Komencu vian seancon per via konto kaj ni spegulos la legosignojn, pasvortojn kaj aliajn bonegajn aferojn, kiujn vi konservis en Firefox en aliaj aparatoj.
-
-
-;Learn more about Firefox Accounts
-Pli da informo pri la Kontoj de Firefox
-
-
-;Skip this step
-Pretersalti tiun ĉi paŝon
-
-
-# Old firstrun page
-;Chart your own course
-Faru vian propran vojon
 
 

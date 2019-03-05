@@ -1,25 +1,4 @@
-## active ##
-## firefox_new_platform_link_text ##
-## firefox_new_try_again_link_020818 ##
-## firefox_quantum_new_headline ##
-## firstrun_email_only_form ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/campaign/
-
-
-;Congrats! You’re using the latest version of Firefox.
-Ayyuz, aqla-k tesseqdaceḍ lqem aneggaru n Firefox.
-
-
-;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-<a href="%(url)s">Leqqem</a> Firefox inek ɣer umaynut n urured akked tudert tabaḍnit.
-
-
-;You’re using a pre-release version of Firefox.
-Aqlak tesseqdaceḍ lqem uzwir n Firefox.
-
-
-;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-Tseqdaceḍ anagraw n wammud d araɣelsan u d aqbuṛ <a href="%(url)s">ur yettusefrak ara di Firefox</a>.
 
 
 ;The new <strong>Firefox</strong>
@@ -28,133 +7,6 @@ Firefox<strong>amaynut</strong>
 
 ;Fast for good.
 Arurad i lebda.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Wali Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-Amaynut, arurad. I lebda.
-
-
-# Link points to /firefox/new/?scene=2
-;Download Now
-Sider tura
-
-
-# Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
-;Refresh Firefox
-Seggem Firefox
-
-
-# Link points to https://support.mozilla.org/kb/install-firefox-linux
-;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
-Ma ulac aɣilif ḍfeṛ <a href="%(url)s"> tinaḍin agi</a> akken ad tesbeddeḍ Firefox.
-
-
-# Title displayed in the modal window for advanced options.
-# The different case is to let localizers use a different translation (or case) from the link, if needed
-;Advanced Install Options & Other Platforms
-Iγewwaṛen n telqayt n usebded & inagrawen nniḍen
-
-
-# Link to display the advanced install panel
-;Advanced install options & other platforms
-Iγewwaṛen n telqayt n usebded & inagrawen nniḍen
-
-
-;Keep up with<br> all things Firefox.
-Qqin deg isallen<br>imaynuten n Firefox.
-
-
-# Link Span is for visual formatting and line break.
-;Download Firefox <span>for Windows</span>
-Sider Firefox <span>i Windows</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for macOS</span>
-Sider Firefox <span>i masOS</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for Linux</span>
-Sider Firefox <span>i Linux </span>
-
-
-# Link points to /firefox/all/
-;Download for other platforms & languages
-Sider i yinagrawen & tutlayin-nniḍen
-
-
-# The string is obsolete. Do not remove.
-# Link points to /firefox/all/
-;Download in another language
-Sider s tutlayt-ik
-
-
-;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Asider-ik ad yekker s wudem awurman. Ur yeddi ara? <a id="%(id)s" href="%(fallback_url)s">Ɛreḍ asider tikkelt nniḍen</a>.
-
-
-# Obsolete string, DO NOT REMOVE
-;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-Asider-ik ad yekker s wudem awurman. Ma ulac, <a id="%(id)s" href="%(fallback_url)s">Sit dagi</a>.
-
-
-;Learn how to make Firefox even smarter, faster and more secure.
-Issin amek ara terreḍ Firefow d uḥric, d arurad u aɣelsan ugar.
-
-
-;Get informative tips, tricks and product announcements delivered to your inbox.
-Get informative tips, tricks and product announcements delivered to your inbox.
-
-
-;Enter your email address
-Sekcem tansa-inek imayl
-
-
-;How will Mozilla use my email?
-Amek ara tseqdec Mozilla imayl-iw?
-
-
-;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-
-
-;What we want you to know:
-Dacu nebɣa ad tisinem:
-
-
-;You don’t need to give us your email to download and use Firefox.
-Ur tesriḍ ara ad aɣ-d-muddeḍ imayl-ik/im akken ad tsidreḍ u ad tesqedceḍ Firefox.
-
-
-;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-
-
-;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-
-
-;You can unsubscribe anytime, for any reason.
-Tzemreḍ ad tefɣeḍ seg ujerred melmi ik/im-yehwa, akken tebɣu tili sebba.
-
-
-;We will not share, sell or use your email for any other purposes.
-Ur nbeṭṭu ara, ur neznuzu ara u ur nseqdac ara imayl-ik/im i yeswi nniḍen.
-
-
-;Let’s do this!
-Aya ihi!
-
-
-;Sync up with Firefox on mobile:
-Mtawi d Firefox ɣef uziraz:
 
 
 # HTML page title prefix
@@ -170,14 +22,6 @@ Iminig web n baṭel
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Sider Mozilla Firefox, iminig Web ilellli. Firefox tesnulfat-id tmezdagnut tamadlant ur yettnadin ara idrimen, i yesseḥbibiren akken iseqdacen ad ẓren ayen iḍerrun s srid. Awi Firefox i windows, macOS, Linux, Android akked iOS seg ass-a!
-
-
-;Download the fastest Firefox ever
-Sider lqem arurad Firefox
-
-
-;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-Asali n isebtar arurad ugar, asuder n tkatut yenɣes, d ddeqs n timahilin, Firefox amaynut yewweḍ-d.
 
 
 ;2x Faster
@@ -202,41 +46,5 @@ Tabaḍnit iǧehden
 
 ;Truly Private Browsing with Tracking Protection
 Tunigin tusligt s ummesten mgal asfuɣel
-
-
-# These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/
-;Welcome to Firefox
-Anṣuf ar Firefox
-
-
-;Take Firefox with You
-Awi Firefox yid-k
-
-
-;Get your bookmarks, history, passwords and other settings on all your devices.
-Awi ticraḍ-ik n yisebtar, amazray-ik, awalen-ik uffiren d yiɣewwaṛen-nniḍen ɣef ibenkan-ik meṛṛa.
-
-
-# Obsolete string, DO NOT REMOVE
-;Already using Firefox?
-Tseqdaceḍ yakan Firefox?
-
-
-# Obsolete string, DO NOT REMOVE
-;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-Kcem ar umiḍan-ik sakin ad nemtawi akk ticraḍ-ik, awalen-ik uffiren akked ddeqs-nniḍen n tɣawsiwin i teskelseḍ di Firefox neɣ ibenkan-nniḍen.
-
-
-;Learn more about Firefox Accounts
-Issin ugar ɣef Firefox Accounts
-
-
-;Skip this step
-Zgel amecwaṛ-agi
-
-
-# Old firstrun page
-;Chart your own course
-Sunneɣ abrid-ik
 
 

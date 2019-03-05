@@ -1,26 +1,4 @@
-## active ##
-## download_thanks_newsletter_092018 ##
-## firefox_new_platform_link_text ##
-## firefox_new_try_again_link_020818 ##
-## firefox_quantum_new_headline ##
-## firstrun_email_only_form ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/campaign/
-
-
-;Congrats! You’re using the latest version of Firefox.
-અભિનંદન! તમે Firefox ની તાજેતરની આવૃત્તિ વાપરી રહ્યા છો.
-
-
-;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-<a href="%(url)s">સુધારા</a> ઝડપ અને ગોપનીયતા માટે તમારા તાજેતર Firefox.
-
-
-;You’re using a pre-release version of Firefox.
-તમે Firefoxના પ્રિ-પ્રકાશન આવૃત્તિનો ઉપયોગ કરી રહ્યા છો.
-
-
-;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-તમે અસુરક્ષિત, જૂની ઓપરેટિંગ સિસ્ટમનો ઉપયોગ કરી રહ્યાં છો <a href="%(url)s">જે હવે Firefox દ્વારા સપોર્ટેડ નથી </a>.
 
 
 ;The new <strong>Firefox</strong>
@@ -29,133 +7,6 @@
 
 ;Fast for good.
 સારા કાર્યો માટે ઝડપી.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Firefox Quantum ને જાણો
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-નવું. ઝડપી. સારા કાર્યો માટે.
-
-
-# Link points to /firefox/new/?scene=2
-;Download Now
-હમણાં ડાઉનલોડ કરો
-
-
-# Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
-;Refresh Firefox
-તાજું Firefox
-
-
-# Link points to https://support.mozilla.org/kb/install-firefox-linux
-;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
-કૃપા કરીને Firefox ને ઇન્સ્ટોલ કરવા માટે <a href="%(url)s">આ સૂચનો</a> ને અનુસરો.
-
-
-# Title displayed in the modal window for advanced options.
-# The different case is to let localizers use a different translation (or case) from the link, if needed
-;Advanced Install Options & Other Platforms
-અદ્યતન ઇન્સ્ટોલ વિકલ્પો અને અન્ય પ્લેટફોર્મ્સ
-
-
-# Link to display the advanced install panel
-;Advanced install options & other platforms
-અદ્યતન ઇન્સ્ટોલ વિકલ્પો અને અન્ય પ્લેટફોર્મ્સ
-
-
-;Keep up with<br> all things Firefox.
-સાથે રાખવા <br> બધી વસ્તુઓ Firefox.
-
-
-# Link Span is for visual formatting and line break.
-;Download Firefox <span>for Windows</span>
-<span>Windows માટે</span> Firefox ડાઉનલોડ કરો
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for macOS</span>
-<span>macOS માટે</span> Firefox ડાઉનલોડ કરો
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for Linux</span>
-<span>Linux માટે</span> Firefox ડાઉનલોડ કરો
-
-
-# Link points to /firefox/all/
-;Download for other platforms & languages
-અન્ય પ્લેટફોર્મ અને ભાષાઓ માટે ડાઉનલોડ કરો
-
-
-# The string is obsolete. Do not remove.
-# Link points to /firefox/all/
-;Download in another language
-બીજી ભાષામાં ડાઉનલોડ કરો
-
-
-;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-તમારું ડાઉનલોડ આપમેળે શરૂ થવું જોઈએ. નથી થતુ? <a id="%(id)s" href="%(fallback_url)s">ફરીથી ડાઉનલોડ કરવાનો પ્રયાસ કરો</a>.
-
-
-# Obsolete string, DO NOT REMOVE
-;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-તમારું ડાઉનલોડ આપમેળે શરૂ થવું જોઈએ. જો તે નથી, તો <a id="%(id)s" href="%(fallback_url)s">અહીં ક્લિક કરો</a>.
-
-
-;Learn how to make Firefox even smarter, faster and more secure.
-કેવી રીતે Firefoxને વધુ સ્માર્ટ, ઝડપી અને વધુ સુરક્ષિત બનાવવું તે જાણો.
-
-
-;Get informative tips, tricks and product announcements delivered to your inbox.
-તમારા ઇનબોક્સમાં વિતરિત માહિતીપ્રદ ટિપ્સ, યુક્તિઓ અને ઉત્પાદનની જાહેરાતઓ મેળવો.
-
-
-;Enter your email address
-તમારું ઇ-મેઇલ સરનામું દાખલ કરો
-
-
-;How will Mozilla use my email?
-Mozilla મારું ઇ-મેઇલ કેવી રીતે વાપરશે?
-
-
-;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Mozilla ફક્ત તમારી ઇમેઇલ ગોપનીયતા અને સલામતીનું મૂલ્ય લેતું નથી – તે અમારા <a href="%(manifesto)s">Mainfesto</a>નો ભાગ છે: ઇન્ટરનેટ પર “વ્યક્તિગત સુરક્ષા અને ગોપનીયતા મૂળભૂત છે અને તેની સારવાર થવી જોઈએ નહીં વૈકલ્પિક રૂપે.” <a href="%(principles)s">તમે અહીં અમારા ડેટા ગોપનીયતા સિદ્ધાંતો વિશે જાણી શકો છો</a>.
-
-
-;What we want you to know:
-અમે તમને શું જણાવવાં માંગીએ છીએ:
-
-
-;You don’t need to give us your email to download and use Firefox.
-તમારે Firefox ડાઉનલોડ કરવા કે વાપરવાં અમને તમારું ઇ-મેઇલ સરનામું આપવાની જરુર નથી.
-
-
-;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-અમે તમારા ઇમેઇલ માટે પૂછ્યું છે કારણ કે અમારા સંશોધન બતાવે છે કે લોકો જે પ્રારંભિક અનુભવ મેળવે છે તે Firefox સાથે વધુ સારી રીતે કાર્ય કરે છે.
-
-
-;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-તમે Firefoxને તમારા માટે શ્રેષ્ઠ કામ કરવા માટે ઑપ્ટિમાઇઝ કરવામાં મદદ માટે રચાયેલ ઇમેઇલ્સની અપેક્ષા રાખી શકો છો, ગોપનીયતા અને સુરક્ષા વિશે વધુ જાણો અને વેબ પર તમારા શ્રેષ્ઠ સમયને કેવી રીતે બનાવવો તે જાણો.
-
-
-;You can unsubscribe anytime, for any reason.
-કોઈપણ કારણોસર, તમે કોઈપણ સમયે અનસબ્સ્ક્રાઇબ કરી શકો છો.
-
-
-;We will not share, sell or use your email for any other purposes.
-અમે કોઈપણ અન્ય હેતુઓ માટે તમારા ઇમેઇલને શેર, વેચાણ અથવા ઉપયોગ કરીશું નહીં.
-
-
-;Let’s do this!
-ચાલો આ કરીએ!
-
-
-;Sync up with Firefox on mobile:
-મોબાઇલ પર Firefox સાથે સમન્વયન કરો:
 
 
 # HTML page title prefix
@@ -171,14 +22,6 @@ Firefox ડાઉનલોડ કરો
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Mozilla Firefox ડાઉનલોડ કરો, એક મફત વેબ બ્રાઉઝર. Firefox વ્યક્તિઓને ઑનલાઇન નિયંત્રણમાં મૂકવા માટે સમર્પિત વૈશ્વિક બિન નફાકારક દ્વારા બનાવવામાં આવે છે. આજે Windows, macOS, Linux, Android અને iOS માટે Firefox મેળવો!
-
-
-;Download the fastest Firefox ever
-અત્યાર સુધીનુ સૌથી ઝડપી Firefox ડાઉનલોડ કરો
-
-
-;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-ઝડપી પૃષ્ઠ લોડ કરવું, ઓછું મેમરી વપરાશ અને સુવિધાઓ સાથે પેક, નવુ Firefox અહીં છે.
 
 
 ;2x Faster
@@ -203,41 +46,5 @@ Chrome કરતાં 30% અોછી મેમરીનો ઉપયોગ �
 
 ;Truly Private Browsing with Tracking Protection
 વિશેષ ટ્રેકિંગ સુરક્ષા સાથે ખાનગી બ્રાઉઝર
-
-
-# These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/
-;Welcome to Firefox
-Firefox માં તમારું સ્વાગત છે
-
-
-;Take Firefox with You
-તમારી સાથે Firefox લો
-
-
-;Get your bookmarks, history, passwords and other settings on all your devices.
-તમારા બધા ઉપકરણો પર તમારા બુકમાર્ક્સ, ઇતિહાસ, પાસવર્ડ્સ અને અન્ય સેટિંગ્સ મેળવો.
-
-
-# Obsolete string, DO NOT REMOVE
-;Already using Firefox?
-પહેલેથી જ Firefox નો ઉપયોગ કરી રહ્યાં છો?
-
-
-# Obsolete string, DO NOT REMOVE
-;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-તમારા ખાતામાં સાઇન ઇન કરો અને અમે બુકમાર્ક્સ, પાસવર્ડ્સ અને તમે અન્ય ઉપકરણો પર Firefox માં સચવાયેલી અન્ય મહાન વસ્તુઓનો સમન્વય કરીશું.
-
-
-;Learn more about Firefox Accounts
-Fireofox ખાતા વિશે વધુ જાણો
-
-
-;Skip this step
-આ પગલું છોડી દો
-
-
-# Old firstrun page
-;Chart your own course
-તમારા પોતાના કોર્સ નકશો
 
 

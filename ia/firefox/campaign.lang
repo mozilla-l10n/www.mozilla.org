@@ -1,26 +1,4 @@
-## active ##
-## download_thanks_newsletter_092018 ##
-## firefox_new_platform_link_text ##
-## firefox_new_try_again_link_020818 ##
-## firefox_quantum_new_headline ##
-## firstrun_email_only_form ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/campaign/
-
-
-;Congrats! You’re using the latest version of Firefox.
-Felicitationes! Tu usa le ultime version de Firefox.
-
-
-;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-<a href="%(url)s">Actualisa</a> tu Firefox pro le maxime velocitate e confidentialitate disponibile.
-
-
-;You’re using a pre-release version of Firefox.
-Tu usa le version de pre-edition de Firefox.
-
-
-;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-Tu usa un systema operative non secur, obsolete <a href="%(url)s">non plus supportate per Firefox</a>.
 
 
 ;The new <strong>Firefox</strong>
@@ -29,133 +7,6 @@ Le nove <strong>Firefox</strong>
 
 ;Fast for good.
 Veloce per sempre.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Discoperi Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-Nove. Veloce. Per sempre.
-
-
-# Link points to /firefox/new/?scene=2
-;Download Now
-Discargar ora
-
-
-# Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
-;Refresh Firefox
-Restabili Firefox
-
-
-# Link points to https://support.mozilla.org/kb/install-firefox-linux
-;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
-Per favor seque <a href="%(url)s">iste instructiones</a> pro installar Firefox.
-
-
-# Title displayed in the modal window for advanced options.
-# The different case is to let localizers use a different translation (or case) from the link, if needed
-;Advanced Install Options & Other Platforms
-Optiones de installation avantiate & altere platteformas
-
-
-# Link to display the advanced install panel
-;Advanced install options & other platforms
-Optiones de installation avantiate & altere platteformas
-
-
-;Keep up with<br> all things Firefox.
-Mantene te informate con<br> tote le novas de Firefox.
-
-
-# Link Span is for visual formatting and line break.
-;Download Firefox <span>for Windows</span>
-Discarga Firefox <span>pro Windows</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for macOS</span>
-Discarga Firefox <span>pro macOS</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for Linux</span>
-Discarga Firefox <span>pro Linux</span>
-
-
-# Link points to /firefox/all/
-;Download for other platforms & languages
-Discarga pro altere platteformas & linguas
-
-
-# The string is obsolete. Do not remove.
-# Link points to /firefox/all/
-;Download in another language
-Discarga lo in un altere lingua
-
-
-;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Tu discarga deberea initiar automaticamente. Non functiona? <a id="%(id)s" href="%(fallback_url)s">Prova a lo discargar de novo</a>.
-
-
-# Obsolete string, DO NOT REMOVE
-;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-Tu discargamento comenciara automaticamente. Si non, <a id="%(id)s" href="%(fallback_url)s">clicca ci</a>.
-
-
-;Learn how to make Firefox even smarter, faster and more secure.
-Apprende como render Firefox mesmo plus intelligente, plus veloce e ancora plus secur.
-
-
-;Get informative tips, tricks and product announcements delivered to your inbox.
-Obtene suggestiones informative, astutias e annuncios de productos, livrate a tu cassa de ingresso.
-
-
-;Enter your email address
-Insere tu adresse email
-
-
-;How will Mozilla use my email?
-Como usara Mozilla mi email?
-
-
-;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Mozilla non solo valorisa confidentialitate de tu email e securitate – illo es parte de nostre <a href="%(manifesto)s">Manifesto</a>: “Le securitate e le confidentialitate del personas sur internet es fundamental e non debe esser tractate como optional.” <a href="%(principles)s">Tu pote apprender circa nostre Principios de confidentialitate del datos ci</a>.
-
-
-;What we want you to know:
-Lo que nos vole que tu sape:
-
-
-;You don’t need to give us your email to download and use Firefox.
-Tu non debe dar nos tu email pro discargar e usar Firefox.
-
-
-;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-Nos demandava tu email pois que nostre recerca monstras que personas qui recipe un experientia introductive face plus e melio con Firefox.
-
-
-;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-Tu pote expectar emails designate pro te adjutar a optimisar Firefox pro laborar al melio pro te, saper plus circa confidentialitate & securitate e discoperir como render melior tu tempore sur le web.
-
-
-;You can unsubscribe anytime, for any reason.
-Tu pote remover tu inrolamento quando tu lo vole, pro ulle ration.
-
-
-;We will not share, sell or use your email for any other purposes.
-Nos non compartira, vendera o usara tu email pro ulle altere propositos.
-
-
-;Let’s do this!
-Que nos lo face!
-
-
-;Sync up with Firefox on mobile:
-Synchronisa te per Firefox sur telephonos e tablettas:
 
 
 # HTML page title prefix
@@ -171,14 +22,6 @@ Navigator web libere e gratuite
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Discarga Mozilla Firefox, un navigator web libere e gratuite. Firefox es create per un organisation mundial sin fin de lucro dedicate a poner le individuos in controlo del rete. Discarga hodie Firefox pro Windows, macOS, Linux, Android e iOS!
-
-
-;Download the fastest Firefox ever
-Discarga le plus rapide Firefox de sempre
-
-
-;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-Cargamento paginas plus rapide, minor uso de memoria e functionalitates incorporate, ecce le nove Firefox.
 
 
 ;2x Faster
@@ -203,41 +46,5 @@ Potentemente confidential
 
 ;Truly Private Browsing with Tracking Protection
 Navigation vermente private con protection contra le traciamento
-
-
-# These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/
-;Welcome to Firefox
-Benvenite in Firefox
-
-
-;Take Firefox with You
-Porta Firefox con te
-
-
-;Get your bookmarks, history, passwords and other settings on all your devices.
-Tene tu marcapaginas, chronologia, contrasignos e alie configurationes sur tote tu apparatos.
-
-
-# Obsolete string, DO NOT REMOVE
-;Already using Firefox?
-Usa tu jam Firefox?
-
-
-# Obsolete string, DO NOT REMOVE
-;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-Accede a tu conto e tu synchronisa tu marcapaginas, contrasignos e altere grande cosas tu salvava per Firefox sur altere apparatos.
-
-
-;Learn more about Firefox Accounts
-Saper plus super le contos Firefox
-
-
-;Skip this step
-Salta iste grado
-
-
-# Old firstrun page
-;Chart your own course
-Decide tu via
 
 

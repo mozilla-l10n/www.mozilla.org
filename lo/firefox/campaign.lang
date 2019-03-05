@@ -1,25 +1,4 @@
-## active ##
-## firefox_new_platform_link_text ##
-## firefox_new_try_again_link_020818 ##
-## firefox_quantum_new_headline ##
-## firstrun_email_only_form ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/campaign/
-
-
-;Congrats! You’re using the latest version of Firefox.
-ຍິນດີນຳ! ທ່ານກຳລັງໃຊ້ Firefox ເວີຊັ່ນໃຫມ່ຫລ້າສຸດຢູ່.
-
-
-;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-<a href="%(url)s">ອັບເດດ</a> Firefox ຂອງທ່ານໄປເປັນລຸ້ນຫລ້າສຸດເພື່ອເຮັດໃຫ້ມັນໄວ ແລະ ມີຄວາມເປັນສ່ວນຕົວຫລາຍຂື້ນ.
-
-
-;You’re using a pre-release version of Firefox.
-ທ່ານກຳລັງໃຊ້ Firefox ເວີຊັ່ນກ່ອນເປີດຕົວ.
-
-
-;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-ທ່ານກໍາລັງໃຊ້ລະບົບປະຕິບັດການທີ່ບໍ່ປອດໄພ, ລະບົບປະຕິບັດການທີ່ໝົດອາຍຸ <a href="%(url)s"> ບໍ່ສະຫນັບສະຫນູນໂດຍ Firefox </a>.
 
 
 ;The new <strong>Firefox</strong>
@@ -28,133 +7,6 @@
 
 ;Fast for good.
 ວ່ອງໄວທັນໃຈ.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-ພົບກັບ Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-ໃໝ່. ໄວ. ສຳລັບສິ່ງທີ່ດີ.
-
-
-# Link points to /firefox/new/?scene=2
-;Download Now
-ດາວໂຫລດດຽວນີ້
-
-
-# Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
-;Refresh Firefox
-ລ້າງ Firefox ໃຫມ່
-
-
-# Link points to https://support.mozilla.org/kb/install-firefox-linux
-;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
-ກະລຸນາເຮັດຕາມ <a href="%(url)s">ຄຳແນະນຳນີ້</a>ເພື່ອຕິດຕັ້ງ Firefox.
-
-
-# Title displayed in the modal window for advanced options.
-# The different case is to let localizers use a different translation (or case) from the link, if needed
-;Advanced Install Options & Other Platforms
-ຕົວເລືອກການຕິດຕັ້ງຂັ້ນສູງ ແລະ ແພັດຟອມອື່ນໆ
-
-
-# Link to display the advanced install panel
-;Advanced install options & other platforms
-ຕົວເລືອກການຕິດຕັ້ງຂັ້ນສູງ ແລະ ແພັດຟອມອື່ນໆ
-
-
-;Keep up with<br> all things Firefox.
-ຕາມທັນ<br>ເລື່ອງລາວທຸກຢ່າງຂອງ Firefox.
-
-
-# Link Span is for visual formatting and line break.
-;Download Firefox <span>for Windows</span>
-ດາວໂຫລດ Firefox <span>ສຳລັບ Windows</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for macOS</span>
-ດາວໂຫລດ Firefox <span>ສຳລັບ macOS</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for Linux</span>
-ດາວໂຫລດ Firefox <span>ສຳລັບ Linux</span>
-
-
-# Link points to /firefox/all/
-;Download for other platforms & languages
-ດາວໂຫລດສຳລັບແພັດຟອມ & ພາສາອື່ນໆ
-
-
-# The string is obsolete. Do not remove.
-# Link points to /firefox/all/
-;Download in another language
-ດາວໂຫຼດໃນພາສາອື່ນ
-
-
-;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-ການດາວໂຫຼດຂອງທ່ານຄວນເລີ່ມຢ່າງອັດຕະໂນມັດ. ການດາວໂຫລດບໍ່ເລີ່ມຕົ້ນຫຼືບໍ່? <a id="%(id)s" href="%(fallback_url)s">ລອງດາວໂຫລດໃຫມ່ອີກຄັ້ງ</a>.
-
-
-# Obsolete string, DO NOT REMOVE
-;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-ການດາວໂຫຼດຂອງທ່ານຄວນເລີ່ມຢ່າງອັດຕະໂນມັດ. ຖ້າບໍ່, <a id="%(id)s" href="%(fallback_url)s">ຄິກບ່ອນນີ້</a>.
-
-
-;Learn how to make Firefox even smarter, faster and more secure.
-Learn how to make Firefox even smarter, faster and more secure.
-
-
-;Get informative tips, tricks and product announcements delivered to your inbox.
-Get informative tips, tricks and product announcements delivered to your inbox.
-
-
-;Enter your email address
-Enter your email address
-
-
-;How will Mozilla use my email?
-How will Mozilla use my email?
-
-
-;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-
-
-;What we want you to know:
-What we want you to know:
-
-
-;You don’t need to give us your email to download and use Firefox.
-You don’t need to give us your email to download and use Firefox.
-
-
-;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-
-
-;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-
-
-;You can unsubscribe anytime, for any reason.
-You can unsubscribe anytime, for any reason.
-
-
-;We will not share, sell or use your email for any other purposes.
-We will not share, sell or use your email for any other purposes.
-
-
-;Let’s do this!
-ມາເຮັດອັນນີ້ກັນ!
-
-
-;Sync up with Firefox on mobile:
-ຊິງຂໍ້ມູນກັບ Firefox ເທິງມືຖື:
 
 
 # HTML page title prefix
@@ -170,14 +22,6 @@ We will not share, sell or use your email for any other purposes.
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 ດາວໂຫຼດ Mozilla Firefox, ເວັບບາວເຊີຟຣີ. Firefox ຖືກສ້າງຂຶ້ນໂດຍອົງກອນລະດັບໂລກທີ່ບໍ່ສະແຫວງຫາຜົນກຳໄລ ຊື່ງອຸທິດຕົນເພື່ອພັກດັນການຄວບຄຸມໃນໂລກອອນລາຍໃຫ້ແຕ່ລະຕຄົນ. ລົງ Firefox ສຳລັບ Windows, macOS, Linux, Android ແລະ iOS ໄດ້ແລ້ວມື້ນີ້!
-
-
-;Download the fastest Firefox ever
-ດາວໂຫຼດ Firefox ທີ່ໄວທີ່ສຸດເທົ່າທີ່ເຄີຍມີມາ
-
-
-;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-ການໂຫຼດຫນ້າເວັບທີ່ໄວ, ໃຊ້ຫນ່ວຍຄວາມຈໍາຫນ້ອຍ ແລະ ບັນຈຸຄຸນນະສົມບັດທີ່ຄັບແໜ້ນ, Firefox ໃຫມ່ແມ່ນຢູ່ທີ່ນີ້ແລ້ວ.
 
 
 ;2x Faster
@@ -202,41 +46,5 @@ Firefox ທີ່ດີທີ່ສຸດເທົ່າທີ່ເຄີຍມ
 
 ;Truly Private Browsing with Tracking Protection
 ການທ່ອງເວັບສ່ວນຕົວຢ່າງແທ້ຈິງດ້ວຍການປ້ອງກັນການຕິດຕາມ
-
-
-# These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/
-;Welcome to Firefox
-ຍິນດີຕ້ອນຮັບສູ່ Firefox
-
-
-;Take Firefox with You
-ເອົາ Firefox ໄປກັບທ່ານ
-
-
-;Get your bookmarks, history, passwords and other settings on all your devices.
-ເອົາບັນທຶກ, ປະຫວັດ, ລະຫັດຜ່ານແລະການຕັ້ງຄ່າອື່ນໆຂອງທ່ານໃນອຸປະກອນຕ່າງໆຂອງທ່ານ.
-
-
-# Obsolete string, DO NOT REMOVE
-;Already using Firefox?
-ໃຊ້ Firefox ຢູ່ແລ້ວບໍ່?
-
-
-# Obsolete string, DO NOT REMOVE
-;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-ເຂົ້າສູ່ລະບົບເຂົ້າໃນບັນຊີຂອງທ່ານ ແລະ ພວກເຮົາຈະຊິງ ບຸກມາກ, ລະຫັດຜ່ານ ແລະ ສິ່ງທີ່ດີທີ່ທ່ານໄດ້ບັນທຶກໄວ້ໃນ Firefox ກັບອຸປະກອນອື່ນໆ.
-
-
-;Learn more about Firefox Accounts
-ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບບັນຊີ Firefox
-
-
-;Skip this step
-ຂ້າມຂັ້ນຕອນນິ້
-
-
-# Old firstrun page
-;Chart your own course
-ຈັດເຮັດຫຼັກສູດຂອງທ່ານເອງ
 
 

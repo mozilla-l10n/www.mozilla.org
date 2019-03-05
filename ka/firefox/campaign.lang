@@ -1,26 +1,4 @@
-## active ##
-## download_thanks_newsletter_092018 ##
-## firefox_new_platform_link_text ##
-## firefox_new_try_again_link_020818 ##
-## firefox_quantum_new_headline ##
-## firstrun_email_only_form ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/campaign/
-
-
-;Congrats! You’re using the latest version of Firefox.
-გილოცავთ! თქვენ Firefox უახლესი ვერსიით სარგებლობთ.
-
-
-;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-<a href="%(url)s">განაახლეთ</a> თქვენი Firefox უახლეს ვერსიამდე, გაუმჯობესებული სიჩქარისა და უსაფრთხოების მისაღებად.
-
-
-;You’re using a pre-release version of Firefox.
-თქვენ სარგებლობთ Firefox-ის წინასწარი გამოშვებით.
-
-
-;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-თქვენ გიყენიათ დაუცველი, მოძველებული საოპერაციო სისტემა, რომელიც <a href="%(url)s">აღარაა მხარდაჭერილი Firefox-ის მიერ</a>.
 
 
 ;The new <strong>Firefox</strong>
@@ -29,133 +7,6 @@
 
 ;Fast for good.
 სწრაფი და მეტად შედეგიანი.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-იხილეთ Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-ახალი. სწრაფი. შედეგიანი.
-
-
-# Link points to /firefox/new/?scene=2
-;Download Now
-ჩამოტვირთეთ ახლავე
-
-
-# Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
-;Refresh Firefox
-გაასუფთავეთ Firefox
-
-
-# Link points to https://support.mozilla.org/kb/install-firefox-linux
-;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
-გთხოვთ, Firefox-ის დასაყენებლად მიჰყვეთ <a href="%(url)s">ამ მითითებებს</a>.
-
-
-# Title displayed in the modal window for advanced options.
-# The different case is to let localizers use a different translation (or case) from the link, if needed
-;Advanced Install Options & Other Platforms
-სხვა ვერსიები და სისტემები
-
-
-# Link to display the advanced install panel
-;Advanced install options & other platforms
-სხვა ვერსიები და სისტემები
-
-
-;Keep up with<br> all things Firefox.
-არ ჩამორჩეთ Firefox-სთან<br> დაკავშირებულ სიახლეებს.
-
-
-# Link Span is for visual formatting and line break.
-;Download Firefox <span>for Windows</span>
-ჩამოტვირთეთ Firefox <span>Windows</span> სისტემისთვის
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for macOS</span>
-ჩამოტვირთეთ Firefox <span>macOS</span> სისტემისთვის
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for Linux</span>
-ჩამოტვირთეთ Firefox <span>Linux</span> სისტემისთვის
-
-
-# Link points to /firefox/all/
-;Download for other platforms & languages
-გადმოწერა სხვა სისტემებსა და ენებზე
-
-
-# The string is obsolete. Do not remove.
-# Link points to /firefox/all/
-;Download in another language
-ჩამოტვირთვები სხვა ენებზე
-
-
-;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-თქვენი ჩამოტვირთვა თავისით დაიწყება. არ იმუშავა? <a id="%(id)s" href="%(fallback_url)s">სცადეთ ჩამოტვირთვა ხელახლა</a>.
-
-
-# Obsolete string, DO NOT REMOVE
-;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-თქვენი ჩამოტვირთვა თავისით დაიწყება. თუ ასე არ მოხდა, <a id="%(id)s" href="%(fallback_url)s">დააწკაპეთ აქ</a>.
-
-
-;Learn how to make Firefox even smarter, faster and more secure.
-იხილეთ თუ როგორ უნდა გახადოთ Firefox კიდევ უფრო მოსახერხებელი, სწრაფი და მეტად დაცული.
-
-
-;Get informative tips, tricks and product announcements delivered to your inbox.
-მიიღეთ გამოსადეგი რჩევები, ხრიკები და სიახლეების შესახებ ინფორმაცია, პირდაპირ თქვენს საფოსტო ყუთში.
-
-
-;Enter your email address
-მიუთითეთ თქვენი ელფოსტა
-
-
-;How will Mozilla use my email?
-როგორ გამოიყენებს Mozilla ჩემს ელფოსტას?
-
-
-;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Mozilla არა მხოლოდ დიდ მნიშვნელობას ანიჭებს თქვენი ელფოსტის პირადულობასა და უსაფრთხოებას – არამედ მის ძირითად <a href="%(manifesto)s">დებულებებშიც</a> აქვს გაწერილი: „ინტერნეტში უსაფრთხოება და პირადი ინფორმაციის ხელშეუხებლობა წარმოადგენს ადამიანის ძირითად უფლებებს და ვერ ჩაითვლება მეორეხარისხოვნად“. <a href="%(principles)s">ვრცლად, პირადი მონაცემების დაცვის საფუძვლებს შეგიძლიათ გაეცნოთ აქ</a>.
-
-
-;What we want you to know:
-რა უნდა იცოდეთ:
-
-
-;You don’t need to give us your email to download and use Firefox.
-არაა საჭირო ელფოსტის მითითება, Firefox-ის ჩამოტვირთვის ან გამოყენებისთვის.
-
-
-;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-ელფოსტის მითითებას ვითხოვთ იმიტომ, რომ ჩვენ მიერ ჩატარებული კვლევების მიხედვით, ხალხი რომელიც საწყის ინფორმაციას იღებს ჩვენგან, უფრო უკეთ და შედეგიანად იყენებს Firefox-ს.
-
-
-;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-მიღებულ წერილებში იქნება გამოსადეგი ინფორმაცია, რომელიც დაგეხმარებათ Firefox-ის საკუთარ მოთხოვნილებებზე უკეთ მორგებაში, პირადულობისა და უსაფრთხოების დაცვასა და ინტერნეტის მეტად ნაყოფიერად გამოყენებაში.
-
-
-;You can unsubscribe anytime, for any reason.
-ნებისმიერ დროს შეგიძლიათ გამოწერის გაუქმება, ნებისმიერი მიზეზით.
-
-
-;We will not share, sell or use your email for any other purposes.
-ჩვენ არ გავაზიარებთ, არ გავყიდით და არ გამოვიყენებთ თქვენს ელფოსტას, რამე სხვა დანიშნულებით.
-
-
-;Let’s do this!
-დაიწყეთ!
-
-
-;Sync up with Firefox on mobile:
-Firefox დასინქრონება მობილურზე:
 
 
 # HTML page title prefix
@@ -171,14 +22,6 @@ Firefox დასინქრონება მობილურზე:
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 ჩამოტვირთეთ Mozilla Firefox, უფასო ბრაუზერი. Firefox შექმნილია საერთაშორისო არამომგებიანი დაწესებულების მიერ, რომელსაც სურს ხალხს დაუბრუნოს, თავიანთი ინტერნეტცხოვრების სრულად განკარგვის უფლება. გადმოწერეთ Firefox Windows-ზე, macOS-ზე, Linux-ზე, Android-სა და iOS-ზე ახლავე!
-
-
-;Download the fastest Firefox ever
-ჩამოტვირთეთ უსწრაფესი Firefox
-
-
-;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-გვერდების მეტად სწრაფი გახსნა, მეხსიერების ნაკლები მოხმარება, უამრავ დამატებით შესაძლებლობებთან ერთად, ახალი Firefox გელოდებათ.
 
 
 ;2x Faster
@@ -203,41 +46,5 @@ Firefox დასინქრონება მობილურზე:
 
 ;Truly Private Browsing with Tracking Protection
 სრულყოფილი დაცვა პირადი მონაცემების აღრიცხვისა და თვალთვალისგან
-
-
-# These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/
-;Welcome to Firefox
-მოგესალმებათ Firefox
-
-
-;Take Firefox with You
-თან წაიყოლეთ Firefox
-
-
-;Get your bookmarks, history, passwords and other settings on all your devices.
-მიიღეთ წვდომა თქვენს სანიშნებთან, ისტორიასთან, პაროლებსა და სხვა პარამეტრებთან, ყველა თქვენს მოწყობილობაზე.
-
-
-# Obsolete string, DO NOT REMOVE
-;Already using Firefox?
-აქამდეც გამოგიყენებიათ Firefox?
-
-
-# Obsolete string, DO NOT REMOVE
-;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-შედით თქვენს ანგარიშზე, დანარჩენ მოწყობილობებზე არსებული სანიშნების, პაროლებისა და თქვენ მიერ შენახული სხვა საჭირო მონაცემების დასინქრონებისთვის.
-
-
-;Learn more about Firefox Accounts
-იხილეთ ვრცლად, Firefox-ის ანგარიშების შესახებ
-
-
-;Skip this step
-გამოტოვება
-
-
-# Old firstrun page
-;Chart your own course
-იყავით დამოუკიდებლები
 
 

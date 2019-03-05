@@ -1,26 +1,4 @@
-## active ##
-## download_thanks_newsletter_092018 ##
-## firefox_new_platform_link_text ##
-## firefox_new_try_again_link_020818 ##
-## firefox_quantum_new_headline ##
-## firstrun_email_only_form ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/campaign/
-
-
-;Congrats! You’re using the latest version of Firefox.
-Tillykke! Du benytter den seneste version af Firefox.
-
-
-;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-<a href="%(url)s">Opdatér</a> Firefox og få det nyeste inden for hastighed og privatliv.
-
-
-;You’re using a pre-release version of Firefox.
-Du bruger en tidlig udgivelse af Firefox.
-
-
-;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-Du bruger et usikkert og forældet styresystem, <a href="%(url)s">der ikke længere understøttes af Firefox</a>.
 
 
 ;The new <strong>Firefox</strong>
@@ -29,133 +7,6 @@ Den nye <strong>Firefox</strong>
 
 ;Fast for good.
 Den hurtigste browser.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Mød Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-Ny. Hurtig. For altid.
-
-
-# Link points to /firefox/new/?scene=2
-;Download Now
-Hent nu
-
-
-# Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
-;Refresh Firefox
-Nulstil Firefox
-
-
-# Link points to https://support.mozilla.org/kb/install-firefox-linux
-;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
-Følg <a href="%(url)s">vejledningen</a> for at installere Firefox.
-
-
-# Title displayed in the modal window for advanced options.
-# The different case is to let localizers use a different translation (or case) from the link, if needed
-;Advanced Install Options & Other Platforms
-Andre installationsmuligheder og platforme
-
-
-# Link to display the advanced install panel
-;Advanced install options & other platforms
-Andre installationsmuligheder og platforme
-
-
-;Keep up with<br> all things Firefox.
-Få nyheder<br> om Firefox.
-
-
-# Link Span is for visual formatting and line break.
-;Download Firefox <span>for Windows</span>
-Hent Firefox <span>til Windows</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for macOS</span>
-Hent Firefox <span>til macOS</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for Linux</span>
-Hent Firefox <span>til Linux</span>
-
-
-# Link points to /firefox/all/
-;Download for other platforms & languages
-Firefox til andre platforme og sprog
-
-
-# The string is obsolete. Do not remove.
-# Link points to /firefox/all/
-;Download in another language
-Hent på et andet sprog
-
-
-;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Din download skulle gerne begynde automatisk. Virker det ikke? <a id="%(id)s" href="%(fallback_url)s">Prøv at hente igen</a>.
-
-
-# Obsolete string, DO NOT REMOVE
-;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-Din download skulle gerne begynde automatisk. Hvis det ikke sker, så <a id="%(id)s" href="%(fallback_url)s">klik her</a>.
-
-
-;Learn how to make Firefox even smarter, faster and more secure.
-Lær at gøre Firefox endnu smartere, hurtigere og sikrere.
-
-
-;Get informative tips, tricks and product announcements delivered to your inbox.
-Få nyttige tips, tricks og nyheder om vores produkter direkte i din indbakke.
-
-
-;Enter your email address
-Indtast din mailadresse
-
-
-;How will Mozilla use my email?
-Hvordan bruger Mozilla min mailadresse?
-
-
-;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Beskyttelse af dit privatliv og sikkerhed omkring din mailadresse er så vigtigt for Mozilla, at det er en del af <a href="%(manifesto)s"> vores manifest</a>: "Individets sikkerhed og ret til privatliv på internettet er grundlæggende og må ikke betragtes som noget, der kan vælges fra." <a href="%(principles)s">Læs mere om vores principper for beskyttelse af private data her</a>.
-
-
-;What we want you to know:
-Hvad du skal vide:
-
-
-;You don’t need to give us your email to download and use Firefox.
-Du er ikke nødt til at give os din mailadresse for at hente og anvende Firefox.
-
-
-;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-Vi spørger efter din mailadresse, fordi vores undersøgelser viser, at folk får mere ud af Firefox, hvis de får en introduktion.
-
-
-;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-Du kan forvente at modtage mails, der skal gøre dig bedre til at få Firefox til at fungere bedst muligt for dig. Vi lærer dig også at beskytte dit privatliv bedre, om sikkerhed, og hvordan du får den bedste oplevelse på nettet.
-
-
-;You can unsubscribe anytime, for any reason.
-Du kan altid vælge ikke at modtage flere mails.
-
-
-;We will not share, sell or use your email for any other purposes.
-Vi hverken deler, sælger eller anvender din mailadresse til andre formål end dem beskrevet på siden.
-
-
-;Let’s do this!
-Lad os gøre det!
-
-
-;Sync up with Firefox on mobile:
-Synkronisér med Firefox på mobilen:
 
 
 # HTML page title prefix
@@ -171,14 +22,6 @@ Gratis browser
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Hent Mozilla Firefox, en gratis browser. Firefox er skabt af en global nonprofit-organisation, der arbejder ihærdigt på at give den enkelte bruger kontrol på nettet. Hent Firefox til Windows, macOS, Linux, Android og iOS i dag!
-
-
-;Download the fastest Firefox ever
-Hent den hurtigste Firefox nogensinde
-
-
-;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-Hurtigere indlæsning af sider, mindre brug af hukommelse og proppet med nye funktioner - Den nye Firefox er her.
 
 
 ;2x Faster
@@ -203,41 +46,5 @@ Bedre beskyttelse af dit privatliv
 
 ;Truly Private Browsing with Tracking Protection
 Ægte beskyttelse af privatlivet med beskyttelse mod sporing
-
-
-# These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/
-;Welcome to Firefox
-Velkommen til Firefox
-
-
-;Take Firefox with You
-Tag Firefox med dig
-
-
-;Get your bookmarks, history, passwords and other settings on all your devices.
-Få dine bogmærker, historik, adgangskoder og andre indstillinger på alle dine enheder.
-
-
-# Obsolete string, DO NOT REMOVE
-;Already using Firefox?
-Bruger du allerede Firefox?
-
-
-# Obsolete string, DO NOT REMOVE
-;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-Log ind på din konto, så vil vi synkronisere bogmærkerne, adgangskoderne og andre ting, du har gemt i Firefox på andre enheder.
-
-
-;Learn more about Firefox Accounts
-Læs mere om Firefox-konti
-
-
-;Skip this step
-Spring dette trin over
-
-
-# Old firstrun page
-;Chart your own course
-Læg din egen kurs
 
 

@@ -1,26 +1,4 @@
-## active ##
-## download_thanks_newsletter_092018 ##
-## firefox_new_platform_link_text ##
-## firefox_new_try_again_link_020818 ##
-## firefox_quantum_new_headline ##
-## firstrun_email_only_form ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/campaign/
-
-
-;Congrats! You’re using the latest version of Firefox.
-Chúc mừng! Bạn đang sử dụng phiên bản Firefox mới nhất.
-
-
-;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-<a href="%(url)s">Cập nhật</a> Firefox để có tốc độ nhanh nhất và sự riêng tư nhất.
-
-
-;You’re using a pre-release version of Firefox.
-Bạn đang sử dụng một phiên bản tiền phát hành của Firefox.
-
-
-;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-Bạn đang sử dụng một hệ điều hành lỗi thời, không an toàn và <a href="%(url)s">không còn được Firefox hỗ trợ nữa</a>.
 
 
 ;The new <strong>Firefox</strong>
@@ -29,133 +7,6 @@ Bạn đang sử dụng một hệ điều hành lỗi thời, không an toàn v
 
 ;Fast for good.
 Nhanh và tốt hơn.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Gặp gỡ Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-Mới. Nhanh. Tốt hơn.
-
-
-# Link points to /firefox/new/?scene=2
-;Download Now
-Tải xuống ngay
-
-
-# Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
-;Refresh Firefox
-Làm mới Firefox
-
-
-# Link points to https://support.mozilla.org/kb/install-firefox-linux
-;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
-Xin làm theo <a href="%(url)s">những hướng dẫn sau</a> để cài đặt Firefox.
-
-
-# Title displayed in the modal window for advanced options.
-# The different case is to let localizers use a different translation (or case) from the link, if needed
-;Advanced Install Options & Other Platforms
-Tùy chọn cài đặt nâng cao & các nền tảng khác
-
-
-# Link to display the advanced install panel
-;Advanced install options & other platforms
-Tùy chọn cài đặt nâng cao & các nền tảng khác
-
-
-;Keep up with<br> all things Firefox.
-Theo kịp mọi thứ<br> với Firefox.
-
-
-# Link Span is for visual formatting and line break.
-;Download Firefox <span>for Windows</span>
-Tải xuống Firefox <span>cho Windows</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for macOS</span>
-Tải xuống Firefox <span>cho macOS</span>
-
-
-# Span is for visual formatting and line break.
-;Download Firefox <span>for Linux</span>
-Tải xuống Firefox <span>cho Linux</span>
-
-
-# Link points to /firefox/all/
-;Download for other platforms & languages
-Tải xuống cho các nền tảng và ngôn ngữ khác
-
-
-# The string is obsolete. Do not remove.
-# Link points to /firefox/all/
-;Download in another language
-Tải xuống với ngôn ngữ khác
-
-
-;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Việc tải xuống sẽ diễn ra tự động. Nếu không, hãy <a id="%(id)s" href="%(fallback_url)s">nhấp vào đây</a>.
-
-
-# Obsolete string, DO NOT REMOVE
-;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-Việc tải xuống sẽ diễn ra tự động. Nếu không, hãy <a id="%(id)s" href="%(fallback_url)s">nhấp vào đây</a>.
-
-
-;Learn how to make Firefox even smarter, faster and more secure.
-Tìm hiểu cách làm cho Firefox thông minh hơn, nhanh hơn và an toàn hơn.
-
-
-;Get informative tips, tricks and product announcements delivered to your inbox.
-Nhận các mẹo thông tin, thủ thuật và thông báo sản phẩm được gửi đến hộp thư đến của bạn.
-
-
-;Enter your email address
-Nhập địa chỉ email của bạn
-
-
-;How will Mozilla use my email?
-Mozilla sẽ sử dụng email của tôi như thế nào?
-
-
-;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Mozilla không chỉ coi trọng quyền riêng tư và bảo mật email của bạn – đó là một phần của<a href="%(manifesto)s">tuyên ngôn</a>: “Bảo mật và quyền riêng tư của cá nhân trên internet là cơ bản và không được xử lý dưới dạng tùy chọn.” <a href="%(principles)s">Bạn có thể tìm hiểu về Nguyên tắc bảo mật dữ liệu của chúng tôi tại đây</a>.
-
-
-;What we want you to know:
-Những gì chúng tôi muốn bạn biết:
-
-
-;You don’t need to give us your email to download and use Firefox.
-Bạn không cần phải cung cấp cho chúng tôi email của bạn để tải xuống và sử dụng Firefox.
-
-
-;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-Chúng tôi đã yêu cầu email của bạn vì nghiên cứu của chúng tôi cho thấy rằng những người nhận được trải nghiệm giới thiệu sẽ làm nhiều hơn và tốt hơn với Firefox.
-
-
-;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-Bạn có thể chờ đợi các email được thiết kế để giúp bạn tối ưu hóa Firefox để hoạt động tốt nhất cho bạn, tìm hiểu thêm về quyền riêng tư & bảo mật và tìm hiểu cách tận dụng thời gian tốt nhất trên web.
-
-
-;You can unsubscribe anytime, for any reason.
-Bạn có thể hủy đăng ký bất cứ lúc nào, vì bất kỳ lý do nào.
-
-
-;We will not share, sell or use your email for any other purposes.
-Chúng tôi sẽ không chia sẻ, bán hoặc sử dụng email của bạn cho bất kỳ mục đích nào khác.
-
-
-;Let’s do this!
-Làm thôi!
-
-
-;Sync up with Firefox on mobile:
-Đồng bộ với Firefox trên di động:
 
 
 # HTML page title prefix
@@ -171,14 +22,6 @@ Trình duyệt web miễn phí
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Tải xuống Mozilla Firefox, một trình duyệt web miễn phí. Firefox được tạo ra bởi một tổ chức phi lợi nhuận toàn cầu giúp mỗi cá nhân có quyền kiểm soát trực tuyến. Tải xuống Firefox cho Windows, macOS, Linux, Android và iOS hôm nay!
-
-
-;Download the fastest Firefox ever
-Tải ngay Firefox nhanh hơn bao giờ hết
-
-
-;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-Tải trang nhanh hơn, sử dụng ít bộ nhớ hơn và có nhiều tính năng, Firefox mới có ở đây.
 
 
 ;2x Faster
@@ -203,41 +46,5 @@ Riêng tư mạnh mẽ
 
 ;Truly Private Browsing with Tracking Protection
 Duyệt web riêng tư thực sự với Trình chống theo dõi
-
-
-# These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/
-;Welcome to Firefox
-Chào mừng đến với Firefox
-
-
-;Take Firefox with You
-Mang Firefox theo bên bạn
-
-
-;Get your bookmarks, history, passwords and other settings on all your devices.
-Đồng bộ các dấu trang, lịch sử, mật khẩu và các cài đặt khác lên tất cả các thiết bị của bạn.
-
-
-# Obsolete string, DO NOT REMOVE
-;Already using Firefox?
-Đã từng sử dụng Firefox?
-
-
-# Obsolete string, DO NOT REMOVE
-;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-Đăng nhập vào tài khoản của bạn và chúng tôi sẽ đồng bộ trang đánh dấu, mật khẩu và những thứ tuyệt vời khác bạn đã lưu vào Firefox trên các thiết bị khác nhau.
-
-
-;Learn more about Firefox Accounts
-Tìm hiểu thêm về các tài khoản Firefox
-
-
-;Skip this step
-Bỏ qua bước này
-
-
-# Old firstrun page
-;Chart your own course
-Lập biểu đồ khóa học của riêng bạn
 
 

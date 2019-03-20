@@ -1,3 +1,4 @@
+## wnp66_log_in ##
 ## NOTE: https://bedrock-demo-achurchwell.oregon-b.moz.works/firefox/66.0/whatsnew/
 ## URL: https://bedrock-demo-achurchwell.oregon-b.moz.works/%LOCALE%/firefox/66.0/whatsnew/
 
@@ -10,6 +11,10 @@ Get a Firefox Account – Keep your data private, safe and synced
 # HTML page description
 ;Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One log-in – Power and privacy everywhere.
 Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One log-in – Power and privacy everywhere.
+
+
+;Congrats! You’re using the latest version of Firefox.
+Congrats! You’re using the latest version of Firefox.
 
 
 ;Get a Firefox Account and all the benefits it unlocks.
@@ -81,12 +86,14 @@ Try Firefox Send
 Create a Firefox Account
 
 
+## TAG: wnp66_log_in
+;Have an account? <a %s >Log in</a>
+Have an account? <a %s >Log in</a>
+
+
+# This string is obsolete. Do not remove.
 ;Already have an account?
 Already have an account?
-
-
-;Sign In
-Sign In
 
 
 ;It shouldn’t be hard to own your life online.

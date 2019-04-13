@@ -59,7 +59,7 @@ Naprawdę nie zbieracie mojej historii przeglądania?
 
 # Links to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 ;Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
-Mozilla nie wie tyle, ile możesz się spodziewać o tym, jak ludzie przeglądają Internet. Tak naprawdę to dla nas duże wyzwanie, jako producenta przeglądarki. Dlatego stworzyliśmy opcjonalne narzędzia, takie jak <a href="%(link)s">Firefox Pioneer</a>, umożliwiające zainteresowanym użytkownikom przekazanie nam wglądu w ich sposób przeglądania Internetu. Jeśli synchronizujesz swoją historię przeglądania między instalacjami Firefoksa, to my jej nie znamy, ponieważ jest zaszyfrowana przez Twoje urządzenie.
+Mozilla nie wie tyle, ile możesz się spodziewać o tym, jak ludzie przeglądają Internet. Tak naprawdę jako producenta przeglądarki to dla nas duże wyzwanie. Dlatego stworzyliśmy opcjonalne narzędzia, takie jak <a href="%(link)s">Firefox Pioneer</a>, umożliwiające zainteresowanym użytkownikom przekazanie nam wglądu w ich sposób przeglądania Internetu. Jeśli synchronizujesz swoją historię przeglądania między instalacjami Firefoksa, to my jej nie znamy, ponieważ jest zaszyfrowana przez Twoje urządzenie.
 
 
 ;It seems like every company on the web is buying and selling my data. You’re probably no different.
@@ -87,36 +87,36 @@ No dobra, pierwsze pytania były łatwizną. Jakie dane zbieracie?
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+Mozilla domyślnie zbiera ograniczony zbiór danych z Firefoksa, który pomaga nam zrozumieć, jak ludzie używają przeglądarki. Te dane są powiązane z losowym identyfikatorem, a nie z Twoim nazwiskiem lub adresem e-mail. Możesz przeczytać o tym więcej w naszych <a href="%(privacy)s">zasadach ochrony prywatności</a>. Dostępna jest także <a href="%(data)s">pełna dokumentacja tego zbioru danych</a>.
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+Upubliczniamy naszą dokumentację, aby każdy mógł sprawdzić, że mówimy prawdę, powiedzieć nam, czy musimy coś poprawić i mieć pewność, że niczego nie ukrywamy.
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-That documentation is gobbledygook to me! Can you give it to me in plain English?
+Ta dokumentacja to jakiś bełkot! Nie możecie mi tego powiedzieć po polsku?
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+Są dwie kategorie danych, które domyślnie zbieramy w ostatecznym wydaniu Firefoksa.
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+Pierwszą nazywamy „danymi technicznymi”. To dane o samej przeglądarce, takie jak używany system operacyjny oraz informacje o błędach i awariach.
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
-The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
+Drugą nazywamy „danymi o interakcjach z programem”. Są to dane o korzystaniu danej osoby z Firefoksa, takie jak liczba otwartych kart, stan preferencji użytkownika czy ile razy użyto pewnych funkcji przeglądarki, takich jak zrzuty ekranu lub kontenery. Na przykład zbieramy te dane w kontekście przycisku wstecz, tej strzałki w lewym górnym rogu przeglądarki umożliwiającej powrót do poprzedniej strony w sposób, który mówi nam, że ktoś jej użył, ale nie mówi nam, jakie strony odwiedzał.
 
 
 ;Do you collect more data in pre-release versions of Firefox?
-Do you collect more data in pre-release versions of Firefox?
+Czy zbieracie więcej danych w testowych wydaniach Firefoksa?
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
-Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
+Tak jakby. Poza danymi opisanymi powyżej w testowych wydaniach Firefoksa otrzymujemy także zgłoszenia awarii i błędów.
 
 
 # Links to https://support.mozilla.org/kb/shield

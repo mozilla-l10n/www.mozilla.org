@@ -4,66 +4,66 @@
 
 
 ;An Important Change in Firefox: Dedicated Profiles
-An Important Change in Firefox: Dedicated Profiles
+Firefox의 중대한 변화: 독립 프로필
 
 
 ;What’s Changed
-What’s Changed
+변경된 사항
 
 
 ;Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
-Before, all Firefox installations were sharing a single profile by default. Now, Firefox provides dedicated profiles for each Firefox installation (this includes installations of Firefox Nightly, Firefox Beta, or Firefox ESR). This will make Firefox more stable when switching between Firefox installations on the same computer.
+이전에는, 모든 Firefox 설치본이 하나의 프로필을 기본으로 공유했습니다. 이제, Firefox는 각 Firefox 설치본에 대해 분리된 프로필을 제공합니다(이는 Firefox Nightly, Firefox Beta, 혹은 Firefox ESR의 설치에도 해당됩니다). 이제 같은 컴퓨터에서 Firefox 설치본을 전환할 때 Firefox가 더욱 안정적으로 작동합니다.
 
 
 ;How Dedicated Profiles Work
-How Dedicated Profiles Work
+독립 프로필 작동 원리
 
 
 ;Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
-Firefox saves information such as bookmarks, passwords and user preferences in a set of files called your profile. This profile is stored in a separate location from the Firefox program files.
+Firefox는 프로필이라고 불리는 파일 모음에 북마크, 비밀번호, 사용자 설정과 같은 정보를 저장합니다. 이 프로필은 Firefox 프로그램 파일과는 분리된 장소에 저장됩니다.
 
 
 ;The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
-The installation you choose as your primary Firefox installation will keep your previously shared profile data like bookmarks, history and passwords.
+주 Firefox 설치본으로 선택된 설치본은 이전에 공유되었던 북마크, 방문 기록, 비밀번호와 같은 프로필 데이터를 유지할 것입니다.
 
 
 ;You have not lost any personal data or customizations. Any previous profile data is safe and attached to the first Firefox installation that was opened after this change.
-You have not lost any personal data or customizations. Any previous profile data is safe and attached to the first Firefox installation that was opened after this change.
+어떠한 개인 데이터나 사용자 설정도 사라지지 않습니다. 모든 이전 프로필 데이터는 안전하며 이 변화 이후에 열린 첫번째 Firefox 설치본에 적용됩니다.
 
 
 ;All of your Firefox installations will now have separate profiles.
-All of your Firefox installations will now have separate profiles.
+모든 Firefox 설치본은 이제 분리된 프로필을 갖습니다.
 
 
 ;What You Need to Do
-What You Need to Do
+무엇을 해야 합니까
 
 
 ;If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
-If you do nothing, each installation will have a separate profile. This means your profile data will be different on each installation of Firefox.
+아무것도 하지 않으면, 각 설치본의 프로필은 분리됩니다. 이는 Firefox의 각 설치본마다 프로필 데이터가 달라진다는 의미 입니다.
 
 
 ;You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
-You can change which installation uses which profile using the profile manager. Directions on how to use the profile manager are available on <a href="%(support)s">this support page</a>.
+프로필 매니저를 통해 설치본의 프로필을 변경할 수 있습니다. 프로필 매니저를 사용하는 방법은 <a href="%(support)s">이 지원 페이지</a>에서 찾을 수 있습니다.
 
 
 ;While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.
-While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.
+프로필이 Firefox의 각 설치본에 연결되어있는 상태라면, Firefox 계정으로 프로필 간의 동기화를 사용할 수 있습니다. 모든 Firefox 설치본의 프로필 데이터를 동일하게 만들고 싶다면, Firefox 계정으로 모든 프로필을 동기화하길 추천합니다.
 
 
 ;A Firefox Account is the easiest way to make your profiles consistent on all of your versions of Firefox. You also get additional benefits like sending tabs and secure password storage.
-A Firefox Account is the easiest way to make your profiles consistent on all of your versions of Firefox. You also get additional benefits like sending tabs and secure password storage.
+Firefox 계정은 모든 버전의 Firefox에서 프로필을 동일하게 유지할 가장 쉬운 방법입니다. 탭 보내기와 안전한 비밀번호 저장소같은 추가적인 기능도 사용할 수 있습니다.
 
 
 ;You’re signed in and ready to start using Sync.
-You’re signed in and ready to start using Sync.
+로그인이 완료되어, 동기화가 시작됩니다.
 
 
 ;We detected that you have installed and opened an older version of Firefox on your computer. You may need to take action.
-We detected that you have installed and opened an older version of Firefox on your computer. You may need to take action.
+컴퓨터에 오래된 버전의 Firefox가 설치되어 있고 이를 실행한 것이 감지되었습니다. 조치를 취해야 할 수 있습니다.
 
 
 ;We detected more than one version of Firefox on your computer. You may need to take action.
-We detected more than one version of Firefox on your computer. You may need to take action.
+컴퓨터에 한 개 이상의 Firefox가 설치되었음을 감지하였습니다. 조치가 필요할 수 있습니다.
 
 

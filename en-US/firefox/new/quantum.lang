@@ -4,6 +4,7 @@
 ## firefox_quantum_new_headline ##
 ## firstrun_email_only_form ##
 ## fxnew_account_032019 ##
+## platform_strings_04232019 ##
 ## truly_removal_2019 ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/new/
 ## URL: https://www-demo3.allizom.org/%LOCALE%/firefox/new/
@@ -25,24 +26,37 @@ You’re using a pre-release version of Firefox.
 You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
 
 
+## TAG: platform_strings_04232019
+# /firefox/windows/ main page title. Span is for visually formatting.
+;Firefox fights for you <span>on Windows.</span>
+Firefox fights for you <span>on Windows.</span>
+
+
+## TAG: platform_strings_04232019
+# /firefox/mac/ main page title. Span is for visually formatting.
+;Firefox respects <span>your privacy on Mac.</span>
+Firefox respects <span>your privacy on Mac.</span>
+
+
+## TAG: platform_strings_04232019
+# /firefox/linux/ main page title.
+;Firefox for Linux
+Firefox for Linux
+
+
 ## TAG: firefox_quantum_new_headline
 ;The new <strong>Firefox</strong>
 The new <strong>Firefox</strong>
 
 
+## TAG: platform_strings_04232019
+;Own your online life.
+Own your online life.
+
+
 ## TAG: firefox_quantum_new_headline
 ;Fast for good.
 Fast for good.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Meet Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-New. Fast. For good.
 
 
 # Link points to /firefox/new/?scene=2
@@ -212,6 +226,24 @@ Let’s do this!
 Sync up with Firefox on mobile:
 
 
+## TAG: platform_strings_04232019
+# /firefox/windows/ HTML page title
+;Download Mozilla Firefox for Windows
+Download Mozilla Firefox for Windows
+
+
+## TAG: platform_strings_04232019
+# /firefox/mac/ HTML page title
+;Download Mozilla Firefox for Mac
+Download Mozilla Firefox for Mac
+
+
+## TAG: platform_strings_04232019
+# /firefox/linux/ HTML page title
+;Download Mozilla Firefox for Linux
+Download Mozilla Firefox for Linux
+
+
 # HTML page title prefix
 ;Download Firefox
 Download Firefox
@@ -222,37 +254,166 @@ Download Firefox
 Free Web Browser
 
 
+## TAG: platform_strings_04232019
+# /firefox/windows/ HTML page description
+;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+
+
+## TAG: platform_strings_04232019
+# /firefox/mac/ HTML page description
+;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+
+
+## TAG: platform_strings_04232019
+# /firefox/linux/ HTML page description
+;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+
+
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
+
+
+## TAG: platform_strings_04232019
+# /firefox/windows/ social sharing title
+;Download the fastest Firefox for Windows ever
+Download the fastest Firefox for Windows ever
+
+
+## TAG: platform_strings_04232019
+# /firefox/mac/ social sharing title
+;Download the fastest Firefox for Mac ever
+Download the fastest Firefox for Mac ever
+
+
+## TAG: platform_strings_04232019
+# /firefox/linux/ social sharing title
+;Download the fastest Firefox for Linux ever
+Download the fastest Firefox for Linux ever
 
 
 ;Download the fastest Firefox ever
 Download the fastest Firefox ever
 
 
+## TAG: platform_strings_04232019
+# /firefox/windows/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+
+
+## TAG: platform_strings_04232019
+# /firefox/mac/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+
+
+## TAG: platform_strings_04232019
+# /firefox/linux/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+
+
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
 Faster page loading, less memory usage and packed with features, the new Firefox is here.
+
+
+## TAG: platform_strings_04232019
+;Privacy comes first
+Privacy comes first
+
+
+## TAG: platform_strings_04232019
+;Privacy - more than a policy
+Privacy - more than a policy
 
 
 ;2x Faster
 2x Faster
 
 
+## TAG: platform_strings_04232019
+;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+
+
+## TAG: platform_strings_04232019
+;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+
+
+## TAG: platform_strings_04232019
+;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+
+
 ;The best Firefox ever
 The best Firefox ever
+
+
+## TAG: platform_strings_04232019
+;Common sense privacy
+Common sense privacy
 
 
 ;Lightweight
 Lightweight
 
 
+## TAG: platform_strings_04232019
+;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+
+
+## TAG: platform_strings_04232019
+;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+
+
+## TAG: platform_strings_04232019
+;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+
+
 ;Uses 30% less memory than Chrome
 Uses 30% less memory than Chrome
 
 
+## TAG: platform_strings_04232019
+;Block trackers
+Block trackers
+
+
+## TAG: platform_strings_04232019
+;Open source
+Open source
+
+
+## TAG: platform_strings_04232019
+;Seamless setup
+Seamless setup
+
+
 ;Powerfully private
 Powerfully private
+
+
+## TAG: platform_strings_04232019
+;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+
+
+## TAG: platform_strings_04232019
+;Look under the hood. Like Linux, Firefox features are open source.
+Look under the hood. Like Linux, Firefox features are open source.
+
+
+## TAG: platform_strings_04232019
+;Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Easy migration of preferences and bookmarks when you download Firefox for Windows.
 
 
 ## TAG: truly_removal_2019

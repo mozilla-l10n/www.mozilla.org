@@ -22,22 +22,31 @@
 You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
 
 
+# /firefox/windows/ main page title. Span is for visually formatting.
+;Firefox fights for you <span>on Windows.</span>
+Firefox fights for you <span>on Windows.</span>
+
+
+# /firefox/mac/ main page title. Span is for visually formatting.
+;Firefox respects <span>your privacy on Mac.</span>
+Firefox respects <span>your privacy on Mac.</span>
+
+
+# /firefox/linux/ main page title.
+;Firefox for Linux
+Firefox for Linux
+
+
 ;The new <strong>Firefox</strong>
 புதிய <strong>Firefox</strong>
 
 
+;Own your online life.
+Own your online life.
+
+
 ;Fast for good.
 அதி வேகம் மிக நன்று.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-பயர்பாக்சு குவாண்டம் சந்தியுங்கள்
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-புதிது. அதி வேகம். மிக நன்று.
 
 
 # Link points to /firefox/new/?scene=2
@@ -187,6 +196,21 @@ We will not share, sell or use your email for any other purposes.
 கைபேசியில் பயர்பாக்சுடன் ஒத்திசையுங்கள்:
 
 
+# /firefox/windows/ HTML page title
+;Download Mozilla Firefox for Windows
+Download Mozilla Firefox for Windows
+
+
+# /firefox/mac/ HTML page title
+;Download Mozilla Firefox for Mac
+Download Mozilla Firefox for Mac
+
+
+# /firefox/linux/ HTML page title
+;Download Mozilla Firefox for Linux
+Download Mozilla Firefox for Linux
+
+
 # HTML page title prefix
 ;Download Firefox
 பயர்பாக்சைப் பதிவிறக்கு
@@ -197,37 +221,142 @@ We will not share, sell or use your email for any other purposes.
 இலவச இணைய உலாவி
 
 
+# /firefox/windows/ HTML page description
+;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+
+
+# /firefox/mac/ HTML page description
+;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+
+
+# /firefox/linux/ HTML page description
+;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+
+
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 இலவசமான இணைய உலாவி, மொசில்லா பயர்பாக்சை பதிவிறக்கு. பயர்பாக்சு தனிநபர் கட்டுப்பாடுகளை இணையத்தில் வைத்திருக்க அர்பணிக்கப்பட்ட ஒரு சர்வதேச இலாப நோக்கமற்ற நிறுவனத்தால் உருவாக்கப்பட்டது. விண்டோஸ், macOS, இலினக்சு, ஆண்ட்ராய்டு மற்றும் iOS இயங்குதளங்களுக்கான பயர்பாக்சை இன்றே பெறுங்கள்!
+
+
+# /firefox/windows/ social sharing title
+;Download the fastest Firefox for Windows ever
+Download the fastest Firefox for Windows ever
+
+
+# /firefox/mac/ social sharing title
+;Download the fastest Firefox for Mac ever
+Download the fastest Firefox for Mac ever
+
+
+# /firefox/linux/ social sharing title
+;Download the fastest Firefox for Linux ever
+Download the fastest Firefox for Linux ever
 
 
 ;Download the fastest Firefox ever
 எப்போதும் வேகமான பயர்பாக்சைப் பதிவிறக்கவும்
 
 
+# /firefox/windows/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+
+
+# /firefox/mac/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+
+
+# /firefox/linux/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+
+
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
 வேகமான பக்க ஏற்றம், குறைந்த நினைவகப் பயன்பாடு போன்ற அம்சங்கள் நிறைந்த, புதிய பயர்பாக்சு இதோ.
+
+
+;Privacy comes first
+Privacy comes first
+
+
+;Privacy - more than a policy
+Privacy - more than a policy
 
 
 ;2x Faster
 2x வேகமானது
 
 
+;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+
+
+;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+
+
+;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+
+
 ;The best Firefox ever
 எப்போதும் மிகச் சிறந்த பயர்பாக்சு
+
+
+;Common sense privacy
+Common sense privacy
 
 
 ;Lightweight
 இலகுவானது
 
 
+;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+
+
+;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+
+
+;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+
+
 ;Uses 30% less memory than Chrome
 குரோமை உலாவியைவிட 30% குறைவான நினைவகத்தைப் பயன்படுத்துகிறது
 
 
+;Block trackers
+Block trackers
+
+
+;Open source
+Open source
+
+
+;Seamless setup
+Seamless setup
+
+
 ;Powerfully private
 வலிமையான தனிமை
+
+
+;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+
+
+;Look under the hood. Like Linux, Firefox features are open source.
+Look under the hood. Like Linux, Firefox features are open source.
+
+
+;Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Easy migration of preferences and bookmarks when you download Firefox for Windows.
 
 
 ;Private Browsing with Tracking Protection

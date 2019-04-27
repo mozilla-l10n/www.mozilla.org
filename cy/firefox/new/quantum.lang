@@ -27,7 +27,7 @@ Rydych yn defnyddio system weithredu hen ac anniogel <a href="%(url)s">sydd ddim
 
 # /firefox/windows/ main page title. Span is for visually formatting.
 ;Firefox fights for you <span>on Windows.</span>
-Mae Firefox yn ymladd drosoch chi ar Windows. </span>
+Mae Firefox yn ymladd drosoch chi <span>ar Windows.</span>
 
 
 # /firefox/mac/ main page title. Span is for visually formatting.
@@ -45,7 +45,7 @@ Y <strong>Firefox</strong> newydd
 
 
 ;Own your online life.
-Eich bywyd ar-lein.
+Perchnogwch eich bywyd ar-lein.
 
 
 ;Fast for good.
@@ -201,17 +201,17 @@ Cydweddwch gyda Firefox symudol:
 
 # /firefox/windows/ HTML page title
 ;Download Mozilla Firefox for Windows
-Llwytho i Lawr Firefox ar Windows
+Llwytho i Lawr Firefox ar gyfer Windows
 
 
 # /firefox/mac/ HTML page title
 ;Download Mozilla Firefox for Mac
-Llwytho i Lawr Firefox ar y Mac
+Llwytho i Lawr Firefox ar gyfer y Mac
 
 
 # /firefox/linux/ HTML page title
 ;Download Mozilla Firefox for Linux
-Llwytho i Lawr Firefox ar Linux
+Llwytho i Lawr Firefox ar gyfer Linux
 
 
 # HTML page title prefix
@@ -226,17 +226,17 @@ Porwr Gwe am Ddim
 
 # /firefox/windows/ HTML page description
 ;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
-Llwythwch Mozilla Firefox ar gyfer Windows i lawr, mae'n borwr gwe rhydd a rhad. Mae Firefox wedi ei greu gan gorff byd-eang, dim-er-elw sydd a'i fryd ar osod unigolion mewn rheolaeth ar-lein. Defnyddiwch Firefox heddiw!
+Llwythwch Mozilla Firefox Windows i lawr, mae'n borwr gwe rhydd a rhad. Mae Firefox wedi ei greu gan gorff byd-eang, dim-er-elw sydd a'i fryd ar osod unigolion mewn rheolaeth ar-lein. Defnyddiwch Firefox heddiw!
 
 
 # /firefox/mac/ HTML page description
 ;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
-Llwythwch Mozilla Firefox ar gyfer y Mac i lawr, mae'n borwr gwe rhydd a rhad. Mae Firefox wedi ei greu gan gorff byd-eang, dim-er-elw sydd a'i fryd ar ddiogelu rheolaeth yr unigolyn ar-lein. Defnyddiwch Firefox Mac heddiw!
+Llwythwch Mozilla Firefox y Mac i lawr, mae'n borwr gwe rhydd a rhad. Mae Firefox wedi ei greu gan gorff byd-eang, dim-er-elw sydd a'i fryd ar ddiogelu rheolaeth yr unigolyn ar-lein. Defnyddiwch Firefox Mac heddiw!
 
 
 # /firefox/linux/ HTML page description
 ;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
-Llwythwch Mozilla Firefox ar gyfer Linux i lawr, mae'n borwr gwe rhydd a rhad. Mae Firefox wedi ei greu gan gorff byd-eang, dim-er-elw sydd a'i fryd ar ddiogelu rheolaeth yr unigolyn ar-lein. Defnyddiwch Firefox ar Linux heddiw!
+Llwythwch Mozilla Firefox Linux i lawr, mae'n borwr gwe rhydd a rhad. Mae Firefox wedi ei greu gan gorff byd-eang, dim-er-elw sydd a'i fryd ar ddiogelu rheolaeth yr unigolyn ar-lein. Defnyddiwch Firefox ar Linux heddiw!
 
 
 # HTML page description
@@ -295,15 +295,15 @@ Preifatrwydd - mwy na pholisi
 
 
 ;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
-Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Nid yw Firefox yn ysbio ar chwiliadau. Rydym yn atal cwcis tracio trydydd parti ac yn rhoi rheolaeth lawn i chi.
 
 
 ;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
-Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Mae Firefox yn symud yn gyflym ac yn trin eich data â gofal - dim tracio hysbysebion a dim arafu.
 
 
 ;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
-Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Eich bywyd, eich busnes. Mae Firefox yn rhwystro cwcis tracio trydydd parti ar Linux.
 
 
 ;The best Firefox ever
@@ -311,7 +311,7 @@ Y Firefox gorau erioed
 
 
 ;Common sense privacy
-Common sense privacy
+Preifatrwydd synnwyr cyffredin
 
 
 ;Lightweight
@@ -319,15 +319,15 @@ Ysgafn
 
 
 ;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
-Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Cyflymder a diogelwch. Mae Firefox yn gyflym ar y Mac oherwydd nad ydym yn tracio'ch symudiadau.
 
 
 ;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
-Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Byw eich bywyd, nid yw Firefox yn gwylio. Dewiswch beth i'w rannu a phryd i'w rannu.
 
 
 ;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
-Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Cyflymder, dyma diogelwch. Mae Firefox ddwywaith yn gyflymach gyda 30% yn llai o gof na Chrome.
 
 
 ;Uses 30% less memory than Chrome
@@ -335,15 +335,15 @@ Yn defnyddio 30% yn llai o gof na Chrome
 
 
 ;Block trackers
-Block trackers
+Rhwystro tracwyr
 
 
 ;Open source
-Open source
+Cod agored
 
 
 ;Seamless setup
-Seamless setup
+Gosod di-dor
 
 
 ;Powerfully private
@@ -351,15 +351,15 @@ Preifatrwydd pwerus
 
 
 ;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
-Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Byddwch yn feistr ar eich parth gyda rhwystro cynnwys llym. Tociwch bob cwci a thracwyr.
 
 
 ;Look under the hood. Like Linux, Firefox features are open source.
-Look under the hood. Like Linux, Firefox features are open source.
+Edrychwch o dan y cwfl. Fel Linux, mae nodweddion Firefox yn god agored.
 
 
 ;Easy migration of preferences and bookmarks when you download Firefox for Windows.
-Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Trosglwyddo dewisiadau a nodau tudalen yn hawdd pan fyddwch yn llwytho Firefox Windows i lawr.
 
 
 ;Private Browsing with Tracking Protection

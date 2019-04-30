@@ -3,80 +3,80 @@
 
 # HTML page title
 ;What is a web browser?
-What is a web browser?
+Was ist ein Web-Browser?
 
 
 # HTML page description
 ;A web browser takes you anywhere on the internet, letting you see text, images and video from anywhere in the world.
-A web browser takes you anywhere on the internet, letting you see text, images and video from anywhere in the world.
+Über einen Web-Browser gelangen Sie im Internet überall hin, sodass Sie Text, Bilder und Videos von überall auf der Welt sehen können.
 
 
 ;The web is a vast and powerful tool. Over the course of a few decades the internet has changed the way we work, the way we play and the way we interact with one another. Depending on how it’s used, it bridges nations, drives commerce, nurtures relationships, drives the innovation engine of the future and is responsible for more memes than we know what to do with.
-The web is a vast and powerful tool. Over the course of a few decades the internet has changed the way we work, the way we play and the way we interact with one another. Depending on how it’s used, it bridges nations, drives commerce, nurtures relationships, drives the innovation engine of the future and is responsible for more memes than we know what to do with.
+Das Web ist ein umfangreiches und leistungsfähiges Werkzeug. Im Laufe einiger Jahrzehnte hat das Internet unsere Arbeitsweise, unsere Spielweise und die Art und Weise, wie wir miteinander interagieren, verändert. Je nachdem, wie es verwendet wird, überbrückt es Nationen, treibt den Handel voran, pflegt Beziehungen, treibt den Innovationsmotor der Zukunft an und ist für mehr Memes verantwortlich als wir zu nutzen wissen.
 
 
 ;It’s important that everyone has access to the web, but it’s also vital that we all <a href="%(tools)s">understand the tools</a> we use to access it. We use web browsers like Mozilla Firefox, Google Chrome, Microsoft Edge and Apple Safari every day, but do we understand what they are and how they work?
-It’s important that everyone has access to the web, but it’s also vital that we all <a href="%(tools)s">understand the tools</a> we use to access it. We use web browsers like Mozilla Firefox, Google Chrome, Microsoft Edge and Apple Safari every day, but do we understand what they are and how they work?
+Es ist wichtig, dass jeder Zugriff auf das Internet hat, aber es ist auch wichtig, dass wir alle <a href="%(tools)s">die Werkzeuge</a> verstehen, mit denen wir darauf zugreifen. Wir verwenden täglich Web-Browser wie Mozilla Firefox, Google Chrome, Microsoft Edge und Apple Safari. Aber verstehen wir, was sie sind und wie sie funktionieren?
 
 
 ;In a short period of time we’ve gone from being amazed by the ability to send an email to someone around the world, to a change in how we think of information. It’s not a question of how much you know anymore, but simply a question of what browser or app can get you to that information fastest.
-In a short period of time we’ve gone from being amazed by the ability to send an email to someone around the world, to a change in how we think of information. It’s not a question of how much you know anymore, but simply a question of what browser or app can get you to that information fastest.
+Innerhalb kurzer Zeit waren wir nicht mehr einfach erstaunt über die Möglichkeit, eine E-Mail an jemanden auf der ganzen Welt zu senden, sondern wir denken jetzt ganz anders von Informationen. Es geht nicht mehr darum, wie viel Sie wissen, sondern lediglich darum, mit welchem Browser oder mit welcher App Sie diese Informationen am schnellsten erhalten.
 
 
 ;In a short period of time we’ve gone from being amazed by the ability to send an email to someone around the world, to a change in how we think about information.
-In a short period of time we’ve gone from being amazed by the ability to send an email to someone around the world, to a change in how we think about information.
+Innerhalb kurzer Zeit waren wir nicht mehr einfach erstaunt über die Möglichkeit, eine E-Mail an jemanden auf der ganzen Welt zu senden, sondern wir denken jetzt ganz anders von Informationen.
 
 
 ;How does a web browser work?
-How does a web browser work?
+Wie funktioniert ein Web-Browser?
 
 
 ;A web browser takes you anywhere on the internet. It retrieves information from other parts of the web and displays it on your desktop or mobile device. The information is transferred using the Hypertext Transfer Protocol, which defines how text, images and video are transmitted on the web. This information needs to be shared and displayed in a consistent format so that people using any browser, anywhere in the world can see the information.
-A web browser takes you anywhere on the internet. It retrieves information from other parts of the web and displays it on your desktop or mobile device. The information is transferred using the Hypertext Transfer Protocol, which defines how text, images and video are transmitted on the web. This information needs to be shared and displayed in a consistent format so that people using any browser, anywhere in the world can see the information.
+Ein Web-Browser bringt Sie im Internet überall hin. Er ruft Informationen aus anderen Teilen des Webs ab und zeigt sie auf Ihrem Desktop-Computer oder Mobilgerät an. Die Informationen werden mit dem Hypertext Transfer Protocol übertragen, das definiert, wie Text, Bilder und Videos im Web übertragen werden. Diese Informationen müssen geteilt und in einem einheitlichen Format angezeigt werden, damit Benutzer, die einen beliebigen Browser verwenden, die Informationen überall auf der Welt sehen können.
 
 
 ;Sadly, not all browser makers choose to interpret the format in the same way. For users, this means that a website can look and function differently. Creating consistency between browsers, so that any user can enjoy the internet, regardless of the browser they choose, is called <a href="%(standards)s">web standards</a>.
-Sadly, not all browser makers choose to interpret the format in the same way. For users, this means that a website can look and function differently. Creating consistency between browsers, so that any user can enjoy the internet, regardless of the browser they choose, is called <a href="%(standards)s">web standards</a>.
+Leider entscheiden sich nicht alle Browser-Hersteller dafür, das Format auf dieselbe Weise zu interpretieren. Für Benutzer bedeutet dies, dass eine Website unterschiedlich aussehen und funktionieren kann. Für Konsistenz zwischen Browsern zu sorgen, sodass jeder Benutzer das Internet unabhängig vom ausgewählten Browser genießen kann, wird <a href="%(standards)s">Webstandards</a> genannt.
 
 
 ;When the web browser fetches data from an internet connected server and it then uses a piece of software called a rendering engine to translate that data into text and images. This data is written in <a href="%(html)s">Hypertext Markup Language</a> (HTML) and web browsers read this code to create what we see, hear and experience on the internet.
-When the web browser fetches data from an internet connected server and it then uses a piece of software called a rendering engine to translate that data into text and images. This data is written in <a href="%(html)s">Hypertext Markup Language</a> (HTML) and web browsers read this code to create what we see, hear and experience on the internet.
+Wenn der Web-Browser Daten von einem mit dem Internet verbundenen Server abruft, verwendet er eine als Rendering Engine bezeichnete Software, um diese Daten in Text und Bilder zu übersetzen. Diese Daten sind in <a href="%(html)s">Hypertext Markup Language</a> (HTML) geschrieben. Web-Browser lesen diesen Code, um das zu erstellen, was wir im Internet sehen, hören und erleben.
 
 
 ;<a href="%(hyperlink)s">Hyperlinks</a> allow users to follow a path to other pages or sites on the web. Every webpage, image and video has its own unique <a href="%(url)s">Uniform Resource Locator</a> (URL), which is also known as a web address. When a browser visits a server for data, the web address tells the browser where to look for each item that is described in the html, which then tells the browser where it goes on the web page.
-<a href="%(hyperlink)s">Hyperlinks</a> allow users to follow a path to other pages or sites on the web. Every webpage, image and video has its own unique <a href="%(url)s">Uniform Resource Locator</a> (URL), which is also known as a web address. When a browser visits a server for data, the web address tells the browser where to look for each item that is described in the html, which then tells the browser where it goes on the web page.
+Mit <a href="%(hyperlink)s">Hyperlinks</a> können Benutzer einem Pfad zu anderen Seiten oder Websites im Web folgen. Jede Webseite, jedes Bild und jedes Video hat einen eigenen <a href="%(url)s">Uniform Resource Locator</a> (URL), der auch als Internetadresse bezeichnet wird. Wenn ein Browser einen Server nach Daten fragt, teilt die Webadresse dem Browser mit, wo er nach jedem in der HTML-Datei beschriebenen Element suchen muss, was dem Browser dann mitteilt, wohin er sich auf der Webseite bewegt.
 
 
 ;Cookies (not the yummy kind)
-Cookies (not the yummy kind)
+Cookies (nicht die leckere Art)
 
 
 ;Websites save information about you in files called <a href="%(cookies)s">cookies</a>. They are saved on your computer for the next time you visit that site. Upon your return, the website code will read that file to see that it’s you. For example, when you go to a website and the page remembers your username and password – that’s made possible by a cookie.
-Websites save information about you in files called <a href="%(cookies)s">cookies</a>. They are saved on your computer for the next time you visit that site. Upon your return, the website code will read that file to see that it’s you. For example, when you go to a website and the page remembers your username and password – that’s made possible by a cookie.
+Websites speichern Informationen über Sie in Dateien namens <a href="%(cookies)s">Cookies</a>. Sie werden für den nächsten Besuch der Website auf Ihrem Computer gespeichert. Bei Ihrer Rückkehr liest der Website-Code diese Datei, um zu sehen, dass Sie es sind. Wenn Sie beispielsweise eine Website besuchen und die Seite Ihren Benutzernamen und Ihr Kennwort noch weiß, wird dies durch ein Cookie möglich.
 
 
 ;There are also cookies that remember more detailed information about you. Perhaps your interests, your web browsing patterns, etc. This means that a site can provide you more targeted content – often in the form of ads. There are types of cookies, called <em>third-party</em> cookies, that come from sites you’re not even visiting at the time and can track you from site to site to gather information about you, which is sometimes sold to other companies. Sometimes you can block these kinds of cookies, though not all browsers allow you to.
-There are also cookies that remember more detailed information about you. Perhaps your interests, your web browsing patterns, etc. This means that a site can provide you more targeted content – often in the form of ads. There are types of cookies, called <em>third-party</em> cookies, that come from sites you’re not even visiting at the time and can track you from site to site to gather information about you, which is sometimes sold to other companies. Sometimes you can block these kinds of cookies, though not all browsers allow you to.
+Es gibt auch Cookies, die detailliertere Informationen über Sie speichern. Vielleicht Ihre Interessen, Ihre Surf-Muster usw. Dies bedeutet, dass eine Website Ihnen gezieltere Inhalte anbieten kann – häufig in Form von Anzeigen. Es gibt bestimmte Arten von Cookies, sogenannte <em>Drittanbieter-Cookies</em>. Diese Cookies stammen von Websites, die Sie gerade nicht besuchen, und können Sie von Website zu Website verfolgen, um Informationen über Sie zu sammeln, die manchmal an andere Unternehmen verkauft werden. Manchmal können Sie diese Art von Cookies blockieren, obwohl dies nicht bei allen Browsern möglich ist.
 
 
 ;When you go to a website and the page remembers your username and password – that’s made possible by a cookie.
-When you go to a website and the page remembers your username and password – that’s made possible by a cookie.
+Wenn Sie eine Website besuchen und die Seite Ihren Benutzernamen und Ihr Kennwort noch weiß, wird dies durch ein Cookie möglich.
 
 
 ;Understanding privacy
-Understanding privacy
+Datenschutz verstehen
 
 
 ;Nearly all major browsers have a private browsing setting. These exist to hide the browsing history from other users on the same computer. Many people think that private browsing or incognito mode will hide both their identity and browsing history from internet service providers, governments and advertisers. They don’t. These settings just clear the history on your system, which is helpful if you’re dealing with sensitive personal information on a shared or public computer. Firefox goes beyond that.
-Nearly all major browsers have a private browsing setting. These exist to hide the browsing history from other users on the same computer. Many people think that private browsing or incognito mode will hide both their identity and browsing history from internet service providers, governments and advertisers. They don’t. These settings just clear the history on your system, which is helpful if you’re dealing with sensitive personal information on a shared or public computer. Firefox goes beyond that.
+Nahezu alle gängigen Browser verfügen über einen privaten Modus. Dieser ist vorhanden, um den Browserverlauf vor anderen Benutzern auf demselben Computer zu verbergen. Viele Leute glauben, dass das private Surfen oder der Inkognito-Modus sowohl ihre Identität als auch den Browserverlauf vor Internet Service Providern, Regierungen und Werbetreibenden verbergen wird. Dies ist nicht der Fall. Diese Einstellungen löschen lediglich den Verlauf auf Ihrem System. Dies ist hilfreich, wenn Sie vertrauliche persönliche Informationen auf einem gemeinsamen oder öffentlichen Computer verwenden. Firefox geht darüber hinaus.
 
 
 ;Firefox helps you be more private online by letting you block trackers from following you around the web.
-Firefox helps you be more private online by letting you block trackers from following you around the web.
+Firefox hilft Ihnen, mehr Privatsphäre im Internet zu genießen, indem Sie Tracker daran hindern können, Sie im Internet zu verfolgen.
 
 
 ;Making your web browser work for you
-Making your web browser work for you
+Damit Ihr Web-Browser Ihre Interessen vertritt
 
 
 ;Most major web browsers let users modify their experience through extensions or add-ons. Extensions are bits of software that you can add to your browser to customize it or add functionality. Extensions can do all kinds of fun and practical things like enabling new features, foreign language dictionaries, or visual appearances and themes.

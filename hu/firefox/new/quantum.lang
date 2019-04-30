@@ -25,22 +25,31 @@ A Firefox egy előzetes kiadási verzióját használja.
 Egy nem biztonságos, elavult operációs rendszert használ, amit <a href="%(url)s">már nem támogat a Firefox</a>.
 
 
+# /firefox/windows/ main page title. Span is for visually formatting.
+;Firefox fights for you <span>on Windows.</span>
+A Firefox Önért harcol <span>Windowson.</span>
+
+
+# /firefox/mac/ main page title. Span is for visually formatting.
+;Firefox respects <span>your privacy on Mac.</span>
+A Firefox tiszteletben tartja a <span>magánszféráját Macen.</span>
+
+
+# /firefox/linux/ main page title.
+;Firefox for Linux
+Firefox Linuxra
+
+
 ;The new <strong>Firefox</strong>
 Az új <strong>Firefox</strong>
 
 
+;Own your online life.
+Rendelkezzen az online élete felett.
+
+
 ;Fast for good.
 Gyors, a jó célért.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Ismerje meg a Firefox Quantumot
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-Új. Gyors. A jó célért.
 
 
 # Link points to /firefox/new/?scene=2
@@ -190,6 +199,21 @@ Csináljuk!
 Szinkronizáljon a mobilos Firefoxával:
 
 
+# /firefox/windows/ HTML page title
+;Download Mozilla Firefox for Windows
+A Mozilla Firefox letöltése Windowsra
+
+
+# /firefox/mac/ HTML page title
+;Download Mozilla Firefox for Mac
+A Mozilla Firefox letöltése Macre
+
+
+# /firefox/linux/ HTML page title
+;Download Mozilla Firefox for Linux
+A Mozilla Firefox letöltése Linuxra
+
+
 # HTML page title prefix
 ;Download Firefox
 Firefox letöltése
@@ -200,37 +224,142 @@ Firefox letöltése
 Ingyenes böngésző
 
 
+# /firefox/windows/ HTML page description
+;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Töltse le Windowsra a Mozilla Firefoxot, a szabad webböngészőt. A Firefoxot egy nemzetközi non-profit közösség készíti, hogy a felhasználók kezébe adja az online jelenlétük feletti irányítást. Töltse le a Firefoxot Windowsra még ma!
+
+
+# /firefox/mac/ HTML page description
+;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Töltse le Macre a Mozilla Firefoxot, a szabad webböngészőt. A Firefoxot egy nemzetközi non-profit közösség készíti, hogy a felhasználók kezébe adja az online jelenlétük feletti irányítást. Töltse le a Firefoxot Macre még ma!
+
+
+# /firefox/linux/ HTML page description
+;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Töltse le Linuxra a Mozilla Firefoxot, a szabad webböngészőt. A Firefoxot egy nemzetközi non-profit közösség készíti, hogy a felhasználók kezébe adja az online jelenlétük feletti irányítást. Töltse le a Firefoxot Linuxra még ma!
+
+
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Töltse le a Mozilla Firefoxot, a szabad webböngészőt. A Firefoxot egy globális nonprofit szervezet készíti, amely elkötelezett abban, hogy az egyének kezében adja az irányítást. Szerezze be a Firefoxot Windows, macOS, Linux, Android és iOS rendszerekre még ma!
+
+
+# /firefox/windows/ social sharing title
+;Download the fastest Firefox for Windows ever
+A valaha volt leggyorsabb Firefox letöltése Windowsra
+
+
+# /firefox/mac/ social sharing title
+;Download the fastest Firefox for Mac ever
+A valaha volt leggyorsabb Firefox letöltése Macre
+
+
+# /firefox/linux/ social sharing title
+;Download the fastest Firefox for Linux ever
+A valaha volt leggyorsabb Firefox letöltése Linuxra
 
 
 ;Download the fastest Firefox ever
 A valaha volt leggyorsabb Firefox letöltése
 
 
+# /firefox/windows/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, megérkezett az új windowsos Firefox.
+
+
+# /firefox/mac/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, megérkezett az új maces Firefox.
+
+
+# /firefox/linux/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, megérkezett az új linuxos Firefox.
+
+
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
 Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, az új Firefox megérkezett.
+
+
+;Privacy comes first
+Adatvédelem mindenek előtt
+
+
+;Privacy - more than a policy
+Adatvédelem – több mint egy irányelv
 
 
 ;2x Faster
 2× gyorsabb
 
 
+;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+A Firefox nem kémkedik a keresései után. Megállítjuk a harmadik féltől származó követősütiket és teljes irányítást adunk Önnek.
+
+
+;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+A Firefox gyors, és gondosan kezeli az adatait – nincs hirdetéskövetés, nincs lassulás.
+
+
+;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Az Ön élete, az Ön dolga. A Firefox blokkolja a harmadik féltől származó követősütiket Linuxon.
+
+
 ;The best Firefox ever
 Az eddigi legjobb Firefox
+
+
+;Common sense privacy
+Józan eszű adatvédelem
 
 
 ;Lightweight
 Könnyűsúlyú
 
 
+;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Sebesség és biztonság. A Firefox gyors Macen, mert nem követjük a lépéseit.
+
+
+;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Élje életét, a Firefox nem figyeli. Válassza ki, hogy mit és mikor akar megosztani.
+
+
+;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Sebesség és biztonság. A Firefox kétszer gyorsabb, és 30%-kal kevesebb memóriát használ, mint a Chrome.
+
+
 ;Uses 30% less memory than Chrome
 30%-kal kevesebb memóriát fogyaszt, mint a Chrome
 
 
+;Block trackers
+Követők blokkolása
+
+
+;Open source
+Nyílt forráskód
+
+
+;Seamless setup
+Zökkenőmentes telepítés
+
+
 ;Powerfully private
 Hatékony adatvédelem
+
+
+;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Legyen a domainje mester a szigorú tartalomblokkolással. Vágja le az összes sütit és követőt.
+
+
+;Look under the hood. Like Linux, Firefox features are open source.
+Nézzen a motorháztető alá. A Linuxhoz hasonlóan, a Firefox funkciói is nyílt forráskódúak.
+
+
+;Easy migration of preferences and bookmarks when you download Firefox for Windows.
+A beállítások és könyvjelzők könnyen migrálhatóak ha letölti a windowsos Firefoxot.
 
 
 ;Private Browsing with Tracking Protection

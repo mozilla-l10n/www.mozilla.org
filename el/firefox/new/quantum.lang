@@ -25,22 +25,31 @@
 Χρησιμοποιείτε ένα επισφαλές, παρωχημένο λειτουργικό σύστημα, <a href="%(url)s">που δεν υποστηρίζεται πλέον από το Firefox</a>.
 
 
+# /firefox/windows/ main page title. Span is for visually formatting.
+;Firefox fights for you <span>on Windows.</span>
+Το Firefox μάχεται για εσάς <span>στα Windows.</span>
+
+
+# /firefox/mac/ main page title. Span is for visually formatting.
+;Firefox respects <span>your privacy on Mac.</span>
+Το Firefox σέβεται <span>το απόρρητό σας σε Mac.</span>
+
+
+# /firefox/linux/ main page title.
+;Firefox for Linux
+Firefox για Linux
+
+
 ;The new <strong>Firefox</strong>
 Το νέο <strong>Firefox</strong>
 
 
+;Own your online life.
+Κατακτήστε τη ζωή σας στο διαδίκτυο.
+
+
 ;Fast for good.
 Ακόμη πιο γρήγορο.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Γνωρίστε το Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-Νέο. Γρήγορο. Για πάντα.
 
 
 # Link points to /firefox/new/?scene=2
@@ -190,6 +199,21 @@
 Συγχρονίστε με το Firefox στις κινητές σας συσκευές:
 
 
+# /firefox/windows/ HTML page title
+;Download Mozilla Firefox for Windows
+Λήψη του Mozilla Firefox για Windows
+
+
+# /firefox/mac/ HTML page title
+;Download Mozilla Firefox for Mac
+Λήψη του Mozilla Firefox για Mac
+
+
+# /firefox/linux/ HTML page title
+;Download Mozilla Firefox for Linux
+Λήψη του Mozilla Firefox για Linux
+
+
 # HTML page title prefix
 ;Download Firefox
 Λήψη του Firefox
@@ -200,37 +224,142 @@
 Δωρεάν πρόγραμμα περιήγησης ιστού
 
 
+# /firefox/windows/ HTML page description
+;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Κάντε λήψη του Mozilla Firefox για Windows, ενός δωρεάν προγράμματος περιήγησης ιστού. Το Firefox αναπτύσσεται από μια μη κερδοσκοπική, παγκόσμια οργάνωση με στόχο να έχουν οι χρήστες τον έλεγχο της ψηφιακής τους ζωής. Αποκτήστε το Firefox για Windows σήμερα!
+
+
+# /firefox/mac/ HTML page description
+;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Κάντε λήψη του Mozilla Firefox για Mac, ενός δωρεάν προγράμματος περιήγησης ιστού. Το Firefox αναπτύσσεται από μια μη κερδοσκοπική, παγκόσμια οργάνωση με στόχο να έχουν οι χρήστες τον έλεγχο της ψηφιακής τους ζωής. Αποκτήστε το Firefox για Mac σήμερα!
+
+
+# /firefox/linux/ HTML page description
+;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Κάντε λήψη του Mozilla Firefox για Linux, ενός δωρεάν προγράμματος περιήγησης ιστού. Το Firefox αναπτύσσεται από μια μη κερδοσκοπική, παγκόσμια οργάνωση με στόχο να έχουν οι χρήστες τον έλεγχο της ψηφιακής τους ζωής. Αποκτήστε το Firefox για Linux σήμερα!
+
+
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Κάντε λήψη του Mozilla Firefox, ένα δωρεάν πρόγραμμα περιήγησης του Ιστού. Το Firefox δημιουργήθηκε από ένα παγκόσμιο, μη κερδοσκοπικό ίδρυμα με σκοπό να έχει ο χρήστης τον έλεγχο της ψηφιακής ζωής του. Αποκτήστε σήμερα το Firefox για Windows, macOS, Linux, Android και iOS!
+
+
+# /firefox/windows/ social sharing title
+;Download the fastest Firefox for Windows ever
+Λήψη του πιο γρήγορου Firefox για Windows
+
+
+# /firefox/mac/ social sharing title
+;Download the fastest Firefox for Mac ever
+Λήψη του πιο γρήγορου Firefox για Mac
+
+
+# /firefox/linux/ social sharing title
+;Download the fastest Firefox for Linux ever
+Λήψη του πιο γρήγορου Firefox για Linux
 
 
 ;Download the fastest Firefox ever
 Λήψη του πιο γρήγορου Firefox
 
 
+# /firefox/windows/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και γεμάτο με λειτουργίες, το νέο Firefox για Windows έφτασε.
+
+
+# /firefox/mac/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και γεμάτο με λειτουργίες, το νέο Firefox για Mac έφτασε.
+
+
+# /firefox/linux/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και γεμάτο με λειτουργίες, το νέο Firefox για Linux έφτασε.
+
+
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
 Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και γεμάτο με λειτουργίες, το νέο Firefox έφτασε.
+
+
+;Privacy comes first
+Το απόρρητο πάντα σε πρώτη μοίρα
+
+
+;Privacy - more than a policy
+Απόρρητο - κάτι παραπάνω από πολιτική
 
 
 ;2x Faster
 2x ταχύτερο
 
 
+;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Το Firefox δεν κατασκοπεύει τις αναζητήσεις. Σταματάμε τα cookies καταγραφής τρίτων και σάς δίνουμε τον πλήρη έλεγχο.
+
+
+;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Το Firefox κινείται γρήγορα και χειρίζεται προσεκτικά τα δεδομένα σας - χωρίς παρακολούθηση διαφημίσεων και χωρίς επιβράδυνση.
+
+
+;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Η ζωή σας αφορά μόνο εσάς. Το Firefox αποκλείει τα cookies παρακολούθησης τρίτων στο Linux.
+
+
 ;The best Firefox ever
 Το καλύτερο Firefox που υπήρξε ποτέ
+
+
+;Common sense privacy
+Απόρρητο κοινής λογικής
 
 
 ;Lightweight
 "Ελαφρύ"
 
 
+;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Αποκτήστε ταχύτητα και ασφάλεια. Το Firefox είναι γρήγορο σε Mac, επειδή δεν παρακολουθεί τις κινήσεις σας.
+
+
+;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Ζήστε τη ζωή σας, το Firefox δεν σάς παρακολουθεί. Επιλέξτε τι και πότε κοινοποιείτε κάτι.
+
+
+;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Ταχύτητα, μαζί με ασφάλεια. Το Firefox είναι δύο φορές ταχύτερο με 30%% λιγότερη μνήμη από το Chrome.
+
+
 ;Uses 30% less memory than Chrome
 Χρησιμοποιεί 30% λιγότερη μνήμη από το Chrome
 
 
+;Block trackers
+Φραγή ιχνηλατών
+
+
+;Open source
+Ανοικτού κώδικα
+
+
+;Seamless setup
+Απροβλημάτιστη εγκατάσταση
+
+
 ;Powerfully private
 Εξαιρετικά ιδιωτικό
+
+
+;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Γίνετε ο άρχοντας του τομέα σας με αυστηρή φραγή περιεχομένου. Αποκλείστε όλα τα cookies και τους ιχνηλάτες.
+
+
+;Look under the hood. Like Linux, Firefox features are open source.
+Κοιτάξτε εσωτερικά. Όπως το Linux, οι λειτουργίες του Firefox είναι ανοικτού κώδικα.
+
+
+;Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Εύκολη μεταφορά προτιμήσεων και σελιδοδεικτών όταν κάνετε λήψη του Firefox για Windows.
 
 
 ;Private Browsing with Tracking Protection

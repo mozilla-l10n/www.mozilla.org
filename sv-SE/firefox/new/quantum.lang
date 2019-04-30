@@ -25,22 +25,31 @@ Du använder en förhandsversion av Firefox.
 Du använder ett osäkert, föråldrat operativsystem <a href="%(url)s">som inte längre stöds av Firefox</a>.
 
 
+# /firefox/windows/ main page title. Span is for visually formatting.
+;Firefox fights for you <span>on Windows.</span>
+Firefox kämpar för dig <span>på Windows.</span>
+
+
+# /firefox/mac/ main page title. Span is for visually formatting.
+;Firefox respects <span>your privacy on Mac.</span>
+Firefox respekterar <span>din integritet på Mac.</span>
+
+
+# /firefox/linux/ main page title.
+;Firefox for Linux
+Firefox för Linux
+
+
 ;The new <strong>Firefox</strong>
 Nya <strong>Firefox</strong>
 
 
+;Own your online life.
+Äg ditt liv online.
+
+
 ;Fast for good.
 Snabbast hittills.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Möt Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-Ny. Snabb. Häftig.
 
 
 # Link points to /firefox/new/?scene=2
@@ -190,6 +199,21 @@ Låt oss göra det!
 Synkronisering med Firefox för mobila enheter:
 
 
+# /firefox/windows/ HTML page title
+;Download Mozilla Firefox for Windows
+Hämta Mozilla Firefox för Windows
+
+
+# /firefox/mac/ HTML page title
+;Download Mozilla Firefox for Mac
+Hämta Mozilla Firefox för Mac
+
+
+# /firefox/linux/ HTML page title
+;Download Mozilla Firefox for Linux
+Hämta Mozilla Firefox för Linux
+
+
 # HTML page title prefix
 ;Download Firefox
 Hämta Firefox
@@ -200,37 +224,142 @@ Hämta Firefox
 Gratis webbläsare
 
 
+# /firefox/windows/ HTML page description
+;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Ladda ner Mozilla Firefox för Windows, en gratis webbläsare. Firefox är skapad av en global ideell grupp som vill ge individer kontroll på nätet. Hämta Firefox till Windows idag!
+
+
+# /firefox/mac/ HTML page description
+;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Ladda ner Mozilla Firefox för Mac, en gratis webbläsare. Firefox är skapad av en global ideell grupp som vill ge individer kontroll på nätet. Hämta Firefox till Mac idag!
+
+
+# /firefox/linux/ HTML page description
+;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Ladda ner Mozilla Firefox för Linux, en gratis webbläsare. Firefox är skapad av en global ideell grupp som vill ge individer kontroll på nätet. Hämta Firefox till Linux idag!
+
+
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Ladda ner Mozilla Firefox, en gratis webbläsare. Firefox är skapad av en global ideell grupp som vill ge individer kontroll på nätet. Hämta Firefox för Windows, macOS, Linux, Android och iOS idag!
+
+
+# /firefox/windows/ social sharing title
+;Download the fastest Firefox for Windows ever
+Ladda ner den snabbaste Firefox till Windows någonsin
+
+
+# /firefox/mac/ social sharing title
+;Download the fastest Firefox for Mac ever
+Ladda ner den snabbaste Firefox till Mac någonsin
+
+
+# /firefox/linux/ social sharing title
+;Download the fastest Firefox for Linux ever
+Ladda ner den snabbaste Firefox för Linux någonsin
 
 
 ;Download the fastest Firefox ever
 Ladda ner den snabbaste Firefox någonsin
 
 
+# /firefox/windows/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+Snabbare sidladdning, mindre minnesanvändning och fulländad med funktioner, den nya Firefox för Windows är här.
+
+
+# /firefox/mac/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+Snabbare sidladdning, mindre minnesanvändning och fulländad med funktioner, den nya Firefox för Mac är här.
+
+
+# /firefox/linux/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+Snabbare sidladdning, mindre minnesanvändning och fulländad med funktioner, den nya Firefox för Linux är här.
+
+
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
 Snabbare sidladdning, mindre minnesanvändning och fulländad med funktioner, den nya Firefox är här.
+
+
+;Privacy comes first
+Integritet kommer först
+
+
+;Privacy - more than a policy
+Integritet - mer än en policy
 
 
 ;2x Faster
 2x snabbare
 
 
+;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox spionerar inte på sökningar. Vi stoppar kakor från tredje part och ger dig fullständig kontroll.
+
+
+;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox fungerar snabbt och behandlar dina data med omsorg - ingen annonsspårning och ingen avmattning.
+
+
+;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Ditt liv, din angelägenhet. Firefox blockerar spårningskakor från tredje part på Linux.
+
+
 ;The best Firefox ever
 Den bästa Firefox hittills
+
+
+;Common sense privacy
+Integritet med sunt förnuft
 
 
 ;Lightweight
 Lätt
 
 
+;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Få snabbhet och säkerhet. Firefox är snabb på Mac eftersom vi inte spårar dig.
+
+
+;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Lev ditt liv, Firefox tittar inte. Välj vad du ska dela och när du ska dela det.
+
+
+;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Hastighet, möter säkerhet. Firefox är två gånger snabbare och använder 30% mindre minne än Chrome.
+
+
 ;Uses 30% less memory than Chrome
 Använder 30% mindre minne än Chrome
 
 
+;Block trackers
+Blockera trackers
+
+
+;Open source
+Öppen källkod
+
+
+;Seamless setup
+Enkel konfiguration
+
+
 ;Powerfully private
 Skyddar din integritet
+
+
+;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Var befälhavaren på din domän med strikt innehållsblockering. Stäng ute alla kakor och trackers.
+
+
+;Look under the hood. Like Linux, Firefox features are open source.
+Titta under huven. Liksom Linux är Firefox:s funktioner öppen källkod.
+
+
+;Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Enkel migrering av inställningar och bokmärken när du laddar ner Firefox för Windows.
 
 
 ;Private Browsing with Tracking Protection

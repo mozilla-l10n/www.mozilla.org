@@ -23,22 +23,31 @@
 ਤੁਸੀਂ ਇੱਕ ਅਸੁਰੱਖਿਅਤ, ਪੁਰਾਣਾ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਵਰਤ ਰਹੇ ਹੋ <a href="%(url)s"> ਹੁਣ ਫਾਇਰਫਾਕਸ </a> ਦੁਆਰਾ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ।
 
 
+# /firefox/windows/ main page title. Span is for visually formatting.
+;Firefox fights for you <span>on Windows.</span>
+Firefox fights for you <span>on Windows.</span>
+
+
+# /firefox/mac/ main page title. Span is for visually formatting.
+;Firefox respects <span>your privacy on Mac.</span>
+Firefox respects <span>your privacy on Mac.</span>
+
+
+# /firefox/linux/ main page title.
+;Firefox for Linux
+ਲੀਨਕਸ ਉੱਤੇ ਫਾਇਰਫਾਕਸ
+
+
 ;The new <strong>Firefox</strong>
 ਨਵਾਂ <strong>ਫਾਇਰਫਾਕਸ</strong>
 
 
+;Own your online life.
+ਤੁਹਾਡੀ ਆਪਣੀ ਆਨਲਾਈਨ ਜ਼ਿੰਦਗੀ।
+
+
 ;Fast for good.
 ਚੰਗੇ ਲਈ ਤੇਜ਼ ਹੈ।
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-ਫਾਇਰਫਾਕ ਕੁਆਂਟਮ ਨੂੰ ਮਿਲੋ
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-ਨਵਾਂ। ਤੇਜ਼। ਭਲੇ ਲਈ।
 
 
 # Link points to /firefox/new/?scene=2
@@ -69,7 +78,7 @@ Firefox ਤਾਜ਼ਾ ਕਰੋ
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings?
 ;Fix a problem
-Fix a problem
+ਸਮੱਸਿਆ ਹੱਲ਼ ਕਰੋ
 
 
 ;Keep up with<br> all things Firefox.
@@ -93,27 +102,27 @@ Fix a problem
 
 # The phrase “Now get everything else Firefox” is in specific reference to a Firefox account, which unlocks access to all our new products and services.
 ;You’ve already got the Firefox browser. Now get everything else Firefox.
-You’ve already got the Firefox browser. Now get everything else Firefox.
+ਤੁਹਾਨੂੰ ਪਹਿਲਾਂ ਹੀ ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ ਮਿਲ ਗਿਆ ਹੈ। ਹੁਣ ਫਾਇਰਫਾਕਸ ਤੋਂ ਬਿਨਾਂ ਸਭ ਕੁਝ ਲਵੋ।
 
 
 ;Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
-Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
+ਫਾਇਰਫਾਕਸ ਖਾਤੇ ਨਾਲ ਬੁੱਕਮਾਰਕ ਸਿੰਕ ਕਰੋ, ਟੈਬਾਂ ਭੇਜੋ, ਪਾਕੇਟ ਵਿੱਚ ਸੰਭਾਲੋ ਤੇ ਹੋਰ ਕਈ ਕੁਝ ਕਰੋ।
 
 
 ;Get a Firefox Account
-Get a Firefox Account
+ਫਾਇਰਫਾਕਸ ਖਾਤਾ ਲਵੋ
 
 
 ;Already have an account?
-Already have an account?
+ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ?
 
 
 ;Sign In
-Sign In
+ਸਾਈਨ ਇਨ
 
 
 ;Download Anyway
-Download Anyway
+ਕਿਵੇਂ ਵੀ ਡਾਊਨਲੋਡ ਕਰੋ
 
 
 # Link points to /firefox/all/
@@ -188,6 +197,21 @@ Download Anyway
 ਮੋਬਾਈਲ 'ਤੇ ਫਾਇਰਫਾਕਸ ਨਾਲ ਸਿੰਕ ਕਰੋ:
 
 
+# /firefox/windows/ HTML page title
+;Download Mozilla Firefox for Windows
+ਵਿੰਡੋਜ਼ ਲਈ ਮੋਜ਼ੀਲਾ ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰੋ
+
+
+# /firefox/mac/ HTML page title
+;Download Mozilla Firefox for Mac
+ਮੈਕ ਲਈ ਮੋਜ਼ੀਲਾ ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰੋ
+
+
+# /firefox/linux/ HTML page title
+;Download Mozilla Firefox for Linux
+ਲੀਨਕਸ ਲਈ ਮੋਜ਼ੀਲਾ ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰੋ
+
+
 # HTML page title prefix
 ;Download Firefox
 ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰੋ
@@ -198,37 +222,142 @@ Download Anyway
 ਮੁਫ਼ਤ ਵੈੱਬ ਬਰਾਊਜ਼ਰ
 
 
+# /firefox/windows/ HTML page description
+;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+
+
+# /firefox/mac/ HTML page description
+;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+
+
+# /firefox/linux/ HTML page description
+;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+
+
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 ਮੌਜ਼ੀਲਾ ਫਾਇਰਫਾਕਸ, ਮੁਫ਼ਤ/ਮੁਕਤ ਵੈੱਬ ਬਰਾਊਜ਼ਰ, ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ। ਫਾਇਰਫਾਕਸ ਨੂੰ ਆਨਲਾਈਨ ਲੋਕਾਂ ਨੂੰ ਕੰਟਰੋਲ ਦੇਣ ਵਾਸਤੇ ਸਮਰਪਿਤ ਸੰਸਾਰ ਭਰ ਵਿੱਚ ਮੌਜੂਦ ਗ਼ੈਰ-ਫਾਇਦਾ ਪ੍ਰਾਪਤ ਲੋਕਾਂ ਵਲੋਂ ਬਣਾਇਆ ਗਿਆ ਹੈ। ਵਿੰਡੋਜ਼, macOS, ਲੀਨਕਸ, ਐਂਡਰਾਈਡ ਅਤੇ iOS ਲਈ ਅੱਜੇ ਹੀ ਫਾਇਰਫਾਕਸ ਲਵੋ!
+
+
+# /firefox/windows/ social sharing title
+;Download the fastest Firefox for Windows ever
+ਵਿੰਡੋਜ਼ ਲਈ ਸਭ ਤੋਂ ਤੇਜ਼ ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰੋ
+
+
+# /firefox/mac/ social sharing title
+;Download the fastest Firefox for Mac ever
+ਮੈਕ ਲਈ ਸਭ ਤੋਂ ਤੇਜ਼ ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰੋ
+
+
+# /firefox/linux/ social sharing title
+;Download the fastest Firefox for Linux ever
+ਲੀਨਕਸ ਲਈ ਸਭ ਤੋਂ ਤੇਜ਼ ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰੋ
 
 
 ;Download the fastest Firefox ever
 ਹੁਣ ਤੱਕ ਦੇ ਸਭ ਤੋਂ ਤੇਜ਼ ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰੋ
 
 
+# /firefox/windows/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+ਵੱਧ ਤੇਜ਼ ਸਫ਼ੇ ਲੋਡ ਕਰਨ ਵਾਲਾ, ਘੱਟ ਮੈਮੋਰੀ ਵਰਤਣ ਵਾਲਾ ਅਤੇ ਫੀਚਰਾਂ ਨਾਲ ਭਰਪੂਰ, ਵਿੰਡੋਜ਼ ਲਈ ਨਵਾਂ ਫਾਇਰਫਾਕਸ ਆ ਗਿਆ।
+
+
+# /firefox/mac/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+ਵੱਧ ਤੇਜ਼ ਸਫ਼ੇ ਲੋਡ ਕਰਨ ਵਾਲਾ, ਘੱਟ ਮੈਮੋਰੀ ਵਰਤਣ ਵਾਲਾ ਅਤੇ ਫੀਚਰਾਂ ਨਾਲ ਭਰਪੂਰ, ਮੈਕ ਲਈ ਨਵਾਂ ਫਾਇਰਫਾਕਸ ਆ ਗਿਆ।
+
+
+# /firefox/linux/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+ਵੱਧ ਤੇਜ਼ ਸਫ਼ੇ ਲੋਡ ਕਰਨ ਵਾਲਾ, ਘੱਟ ਮੈਮੋਰੀ ਵਰਤਣ ਵਾਲਾ ਅਤੇ ਫੀਚਰਾਂ ਨਾਲ ਭਰਪੂਰ, ਲੀਨਕਸ ਲਈ ਨਵਾਂ ਫਾਇਰਫਾਕਸ ਆ ਗਿਆ।
+
+
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
 ਹੋਰ ਵੱਧ ਤੇਜ਼ ਸਫ਼ੇ ਲੋਡ ਕਰਨਾ, ਘੱਟ ਮੈਮੋਰੀ ਦੀ ਵਰਤੋਂ ਕਰਨਾ ਅਤੇ ਫੀਚਰਾਂ ਨਾਲ ਭਰਪੂਰ, ਨਵਾਂ ਫਾਇਰਫਾਕਸ ਆ ਗਿਆ ਹੈ।
+
+
+;Privacy comes first
+ਪਰਦੇਦਾਰੀ ਪਹਿਲਾਂ ਆਉਂਦੀ ਹੈ
+
+
+;Privacy - more than a policy
+ਪਰਦੇਦਾਰੀ - ਨੀਤੀ ਤੋਂ ਵੱਧ ਵੀ
 
 
 ;2x Faster
 2x ਵੱਧ ਤੇਜ਼
 
 
+;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+ਫਾਇਰਫਾਕਸ ਖੋਜਾਂ ਦੀ ਜਾਸੂਸੀ ਨਹੀਂ ਕਰਦਾ ਹੈ। ਅਸੀਂ ਤੀਜੀ-ਧਿਰ ਟਰੈਕਿੰਗ ਕੂਕੀਜ਼ ਨੂੰ ਰੋਕਦੇ ਹਾਂ ਅਤੇ ਤੁਹਾਨੂੰ ਪੂਰਾ ਕੰਟਰੋਲ ਦਿੰਦੇ ਹਾਂ।
+
+
+;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+
+
+;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+
+
 ;The best Firefox ever
 ਹੁਣ ਤੱਕ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਫਾਇਰਫਾਕਸ
+
+
+;Common sense privacy
+ਆਮ ਸੂਝਬੂਝ ਪਰਦੇਦਾਰੀ
 
 
 ;Lightweight
 ਹਲਕਾ
 
 
+;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+
+
+;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+
+
+;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+
+
 ;Uses 30% less memory than Chrome
 ਕਰੋਮ ਤੋਂ 30% ਘੱਟ ਮੈਮੋਰੀ ਵਰਤਦਾ ਹੈ
 
 
+;Block trackers
+ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
+
+
+;Open source
+ਆਜ਼ਾਦ ਸਰੋਤ
+
+
+;Seamless setup
+ਜੋੜ ਰਹਿਤ ਸੈਟਅੱਪ
+
+
 ;Powerfully private
 ਮਜ਼ਬੂਤੀ ਨਾਲ ਪ੍ਰਾਈਵੇਟ
+
+
+;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+
+
+;Look under the hood. Like Linux, Firefox features are open source.
+Look under the hood. Like Linux, Firefox features are open source.
+
+
+;Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Easy migration of preferences and bookmarks when you download Firefox for Windows.
 
 
 ;Private Browsing with Tracking Protection

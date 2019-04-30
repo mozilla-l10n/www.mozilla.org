@@ -25,22 +25,31 @@ Používate nefinálnu verziu Firefoxu.
 Používate nezabezpečený, zastaraný operačný systém, ktorý <a href="%(url)s">Firefox nepodporuje</a>.
 
 
+# /firefox/windows/ main page title. Span is for visually formatting.
+;Firefox fights for you <span>on Windows.</span>
+Firefox pre Windows <span>za vás bojuje.</span>
+
+
+# /firefox/mac/ main page title. Span is for visually formatting.
+;Firefox respects <span>your privacy on Mac.</span>
+Firefox pre Mac <span>rešpektuje vaše súkromie.</span>
+
+
+# /firefox/linux/ main page title.
+;Firefox for Linux
+Firefox pre Linux
+
+
 ;The new <strong>Firefox</strong>
 Nový <strong>Firefox</strong>
 
 
+;Own your online life.
+Vy kontrolujete svoj život na internete.
+
+
 ;Fast for good.
 Neuveriteľne rýchly.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Spoznajte Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-Nový. Rýchly. Skvelý.
 
 
 # Link points to /firefox/new/?scene=2
@@ -190,6 +199,21 @@ Poďme na to!
 Synchronizácia s mobilným Firefoxom:
 
 
+# /firefox/windows/ HTML page title
+;Download Mozilla Firefox for Windows
+Prevziať Mozilla Firefox pre Windows
+
+
+# /firefox/mac/ HTML page title
+;Download Mozilla Firefox for Mac
+Prevziať Mozilla Firefox pre Mac
+
+
+# /firefox/linux/ HTML page title
+;Download Mozilla Firefox for Linux
+Prevziať Mozilla Firefox pre Linux
+
+
 # HTML page title prefix
 ;Download Firefox
 Prevziať Firefox
@@ -200,37 +224,142 @@ Prevziať Firefox
 Voľne dostupný webový prehliadač
 
 
+# /firefox/windows/ HTML page description
+;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Nainštalujte si Mozilla Firefox pre Windows, slobodný webový prehliadač. Firefox je vytváraný ako neziskový, kde vy ste na prvom mieste, pričom cieľom je udržať kontrolu vo vašich rukách. Získajte Firefox pre Windows ešte dnes!
+
+
+# /firefox/mac/ HTML page description
+;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Nainštalujte si Mozilla Firefox pre Mac, slobodný webový prehliadač. Firefox je vytváraný ako neziskový, kde vy ste na prvom mieste, pričom cieľom je udržať kontrolu vo vašich rukách. Získajte Firefox pre Mac ešte dnes!
+
+
+# /firefox/linux/ HTML page description
+;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Nainštalujte si Mozilla Firefox pre Linux, slobodný webový prehliadač. Firefox je vytváraný ako neziskový, kde vy ste na prvom mieste, pričom cieľom je udržať kontrolu vo vašich rukách. Získajte Firefox pre Linux ešte dnes!
+
+
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Prevezmite si Mozillu Firefox, voľne dostupný webový prehliadač. Firefox je vyvíjaný neziskovou organizáciou, ktorej cieľom je dať ľudom kontrolu nad internetom. Prevezmite si Firefox pre Windows, macOS, Linux, Android a iOS!
+
+
+# /firefox/windows/ social sharing title
+;Download the fastest Firefox for Windows ever
+Prevezmite si ten najrýchlejší Firefox pre Windows vôbec
+
+
+# /firefox/mac/ social sharing title
+;Download the fastest Firefox for Mac ever
+Prevezmite si ten najrýchlejší Firefox pre Mac vôbec
+
+
+# /firefox/linux/ social sharing title
+;Download the fastest Firefox for Linux ever
+Prevezmite si ten najrýchlejší Firefox pre Linux vôbec
 
 
 ;Download the fastest Firefox ever
 Prevezmite si ten najrýchlejší Firefox vôbec
 
 
+# /firefox/windows/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+Rýchlejšie načítavanie stránok, menšia spotreba pamäte a množstvo funkcií. Nový Firefox pre Windows je tu.
+
+
+# /firefox/mac/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+Rýchlejšie načítavanie stránok, menšia spotreba pamäte a množstvo funkcií. Nový Firefox pre Mac je tu.
+
+
+# /firefox/linux/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+Rýchlejšie načítavanie stránok, menšia spotreba pamäte a množstvo funkcií. Nový Firefox pre Linux je tu.
+
+
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
 Rýchlejšie načítavanie stránok, menšia spotreba pamäte a množstvo funkcií. Nový Firefox je tu.
+
+
+;Privacy comes first
+Súkromie je na prvom mieste
+
+
+;Privacy - more than a policy
+Súkromie - najdôležitejší prvok
 
 
 ;2x Faster
 2x rýchlejší
 
 
+;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox nesleduje vaše vyhľadávanie. Blokujeme sledovacie cookies tretích strán a dávame vám úplnú kontrolu.
+
+
+;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox je rýchly a s vašimi údajmi je opatrný - žiadne sledovanie a spomaľovanie.
+
+
+;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Váš život, vaša vec. Firefox blokuje sledovacie cookies tretích strán na Linuxe.
+
+
 ;The best Firefox ever
 Najlepší Firefox vôbec
+
+
+;Common sense privacy
+Súkromie ruka v ruke so zdravým rozumom
 
 
 ;Lightweight
 Odľahčený
 
 
+;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Rýchlosť aj bezpečnosť. Firefox je na Macu rýchly, pretože vás nesleduje.
+
+
+;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Žite si svoj život. Firefox vás nesleduje. Je len na vás, čo budete zdieľať a kedy.
+
+
+;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Rýchlosť aj bezpečnosť. Firefox je dvakrát rýchlejší ako Chrome, pričom používa o 30 % menej pamäte.
+
+
 ;Uses 30% less memory than Chrome
 Používa o 30 % menej pamäte než Chrome
 
 
+;Block trackers
+Blokuje sledovacie prvky
+
+
+;Open source
+Otvorený zdrojový kód
+
+
+;Seamless setup
+Jednoduché nastavenie
+
+
 ;Powerfully private
 Zameraný na súkromie
+
+
+;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Pomocou prísneho blokovania obsahu môžete odstrihnúť všetky cookies a sledovacie prvky.
+
+
+;Look under the hood. Like Linux, Firefox features are open source.
+Pozrite sa pod kapotu. Firefox je postavený na otvorenom zdrojovom kóde - tak, ako Linux.
+
+
+;Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Jednoduchý prenos nastavení a záložiek vo Firefoxe pre Windows.
 
 
 ;Private Browsing with Tracking Protection

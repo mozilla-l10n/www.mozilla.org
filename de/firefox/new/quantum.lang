@@ -10,7 +10,7 @@
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Perfekt! Du hast die neueste Version von Firefox am Start.
+Perfekt! Du hast die neueste Version von Firefox.
 
 
 ;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
@@ -22,30 +22,39 @@ Du verwendest eine Vorabversion von Firefox.
 
 
 ;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-Sie verwenden ein unsicheres, veraltetes Betriebssystem, <a href="%(url)s">das von Firefox nicht mehr unterstützt wird</a>.
+Du verwendest ein unsicheres, veraltetes Betriebssystem, <a href="%(url)s">das von Firefox nicht mehr unterstützt wird</a>.
+
+
+# /firefox/windows/ main page title. Span is for visually formatting.
+;Firefox fights for you <span>on Windows.</span>
+Firefox fights for you – <span>auf Windows.</span>
+
+
+# /firefox/mac/ main page title. Span is for visually formatting.
+;Firefox respects <span>your privacy on Mac.</span>
+Firefox für Mac. Der Browser, der <span>deine Privatsphäre respektiert.</span>
+
+
+# /firefox/linux/ main page title.
+;Firefox for Linux
+Firefox für Linux
 
 
 ;The new <strong>Firefox</strong>
 Der neue <strong>Firefox</strong>
 
 
+;Own your online life.
+Dein Leben. Deine Daten.
+
+
 ;Fast for good.
 Schnell. Und richtig gut.
 
 
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Firefox Quantum ist da
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-Neu. Schnell. Und richtig gut.
-
-
 # Link points to /firefox/new/?scene=2
 ;Download Now
-Jetzt herunterladen
+Jetzt downloaden
 
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
@@ -95,11 +104,11 @@ Jetzt Firefox <span>für Linux</span> herunterladen
 
 # The phrase “Now get everything else Firefox” is in specific reference to a Firefox account, which unlocks access to all our new products and services.
 ;You’ve already got the Firefox browser. Now get everything else Firefox.
-Sie haben schon den Firefox-Browser. Holen Sie sich jetzt alles andere von Firefox.
+Den Firefox Browser hast du schon. Hol dir noch mehr von Firefox.
 
 
 ;Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
-Mit einem Firefox-Konto können Sie Lesezeichen synchronisieren, Tabs versenden und Inhalte bei speichern.
+Mit einem Firefox-Konto kannst du Lesezeichen synchronisieren, Tabs versenden und Inhalte bei speichern.
 
 
 ;Get a Firefox Account
@@ -107,11 +116,11 @@ Firefox-Konto erstellen
 
 
 ;Already have an account?
-Haben Sie schon ein Konto?
+Du hast schon ein Konto?
 
 
 ;Sign In
-Anmelden
+Einloggen
 
 
 ;Download Anyway
@@ -130,7 +139,7 @@ In anderer Sprachversion herunterladen
 
 
 ;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Der Download startet automatisch. Klappt nicht? <a id="%(id)s" href="%(fallback_url)s">Starten Sie den Download erneut</a>.
+Der Download startet automatisch. Klappt nicht? <a id="%(id)s" href="%(fallback_url)s">Starte den Download erneut</a>.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -139,11 +148,11 @@ Dein Download startet automatisch. Falls nicht <a id="%(id)s" href="%(fallback_u
 
 
 ;Learn how to make Firefox even smarter, faster and more secure.
-Erfahren Sie, wie Sie Firefox noch intelligenter, schneller und sicher machen.
+Finde heraus, wie du Firefox noch intelligenter, schneller und sicherer machen kannst.
 
 
 ;Get informative tips, tricks and product announcements delivered to your inbox.
-Erhalten Sie informative Tipps, Tricks und Produktankündigungen direkt in Ihren Posteingang.
+Hol dir Tipps, Tricks und Produktankündigungen direkt in deinen Posteingang.
 
 
 ;Enter your email address
@@ -155,31 +164,31 @@ Wie verwendet Mozilla meine E-Mail-Adresse?
 
 
 ;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Mozilla ist der Schutz Ihrer E-Mail-Privatsphäre und -Sicherheit nicht nur wichtig – sie sind Teil unseres <a href="%(manifesto)s">Manifests</a>:„ Individuelle Sicherheit und Datenschutz im Internet sind von grundlegender Bedeutung und dürfen nicht als optional betrachtet werden.“ <a href="%(principles)s">Hier können Sie mehr über unsere Prinzipien zur Datensicherheit erfahren</a>.
+Mozilla ist der Schutz deiner E-Mail-Privatsphäre und -Sicherheit nicht nur wichtig – sie sind Teil unseres <a href="%(manifesto)s">Manifests</a>:„ Individuelle Sicherheit und Datenschutz im Internet sind von grundlegender Bedeutung und dürfen nicht als optional betrachtet werden.“ <a href="%(principles)s">Hier erfährst du mehr über unsere Prinzipien zur Datensicherheit</a>.
 
 
 ;What we want you to know:
-Was Sie wissen sollten:
+Was du wissen solltest:
 
 
 ;You don’t need to give us your email to download and use Firefox.
-Sie müssen Ihre E-Mail-Adresse nicht angeben, um Firefox herunterzuladen und zu verwenden.
+Du musst deine E-Mail-Adresse nicht angeben, um Firefox herunterzuladen und zu verwenden.
 
 
 ;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-Wir fragen nach Ihrer E-Mail-Adresse, weil unsere Forschung zeigt, dass Menschen, die eine Einführung erhalten, mehr und besser mit Firefox arbeiten.
+Wir fragen nach deiner E-Mail-Adresse, weil unsere Studien zeigen, dass Menschen, die eine kleine Einführung erhalten, besser mit Firefox arbeiten können.
 
 
 ;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-Sie können E-Mails erwarten, mit deren Hilfe Sie besser mit Firefox arbeiten können, mehr über Datenschutz und Sicherheit erfahren und herausfinden, wie Sie Ihre Zeit im Internet am besten nutzen können.
+Die E-Mails, die du bekommst helfen dir, besser mit Firefox zu arbeiten. Außerdem erfährst du mehr über Datenschutz und Sicherheit und darüber, wie du deine Zeit im Internet am besten nutzen kannst.
 
 
 ;You can unsubscribe anytime, for any reason.
-Sie können den Newsletter jederzeit aus beliebigen Gründen abbestellen.
+Du kannst den Newsletter jederzeit und aus beliebigen Gründen abbestellen.
 
 
 ;We will not share, sell or use your email for any other purposes.
-Wir werden Ihre E-Mail-Adresse nicht weitergeben, verkaufen oder zu anderen Zwecken nutzen.
+Wir werden deine E-Mail-Adresse nicht weitergeben, verkaufen oder zu anderen Zwecken nutzen.
 
 
 ;Let’s do this!
@@ -187,7 +196,22 @@ Los geht’s!
 
 
 ;Sync up with Firefox on mobile:
-Synchronisation mit Firefox für Mobilgeräte:
+Synchronisiere Firefox auf Mobilgeräten:
+
+
+# /firefox/windows/ HTML page title
+;Download Mozilla Firefox for Windows
+Download Mozilla Firefox für Windows – 
+
+
+# /firefox/mac/ HTML page title
+;Download Mozilla Firefox for Mac
+Download Mozilla Firefox für Mac – 
+
+
+# /firefox/linux/ HTML page title
+;Download Mozilla Firefox for Linux
+Download Mozilla Firefox für Linux – 
 
 
 # HTML page title prefix
@@ -197,44 +221,149 @@ Download Firefox {ok}
 
 # HTML page title
 ;Free Web Browser
-Der kostenlose Webbrowser
+kostenloser Browser
+
+
+# /firefox/windows/ HTML page description
+;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Download Mozilla Firefox, den kostenlosen Browser. Firefox wird vom Non-Profit Mozilla entwickelt. Hol dir Firefox für Windows.
+
+
+# /firefox/mac/ HTML page description
+;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Download Firefox für Mac – den Browser, der deine Privatsphäre respektiert und auch noch richtig schnell ist.
+
+
+# /firefox/linux/ HTML page description
+;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Download Mozilla Firefox, den kostenlosen Browser. Firefox wird vom Non-Profit Mozilla entwickelt. Hol dir Firefox für Linux.
 
 
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
-Download Mozilla Firefox, den kostenlosen Browser für Windows, macOS, Linux, Android oder iOS. Firefox ist Teil von Mozilla – der Non-Profit-Organisation, die sich für Deine Online-Rechte stark macht.
+Download Mozilla Firefox, den kostenlosen Browser für Windows, macOS, Linux, Android oder iOS. Firefox wird Mozilla entwickelt – der Non-Profit-Organisation, die sich für deine Online-Rechte stark macht.
+
+
+# /firefox/windows/ social sharing title
+;Download the fastest Firefox for Windows ever
+Jetzt den schnellsten Firefox aller Zeiten für Windows herunterladen
+
+
+# /firefox/mac/ social sharing title
+;Download the fastest Firefox for Mac ever
+Jetzt den schnellsten Firefox aller Zeiten für Mac herunterladen
+
+
+# /firefox/linux/ social sharing title
+;Download the fastest Firefox for Linux ever
+Jetzt den schnellsten Firefox aller Zeiten für Linux herunterladen
 
 
 ;Download the fastest Firefox ever
 Jetzt den schnellsten Firefox aller Zeiten herunterladen
 
 
+# /firefox/windows/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+Der neue Firefox für Windows: schnellere Seitenladezeiten, weniger Speicherverbrauch und vollgepackt mit neuen Funktionen.
+
+
+# /firefox/mac/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+Der neue Firefox für Mac: schnellere Seitenladezeiten, weniger Speicherverbrauch und vollgepackt mit neuen Funktionen.
+
+
+# /firefox/linux/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+Der neue Firefox für Linux: schnellere Seitenladezeiten, weniger Speicherverbrauch und vollgepackt mit neuen Funktionen.
+
+
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-Der neue Firefox: Schnellere Seitenladezeiten, weniger Speicherverbrauch und vollgepackt mit neuen Funktionen.
+Der neue Firefox: schnellere Seitenladezeiten, weniger Speicherverbrauch und vollgepackt mit neuen Funktionen.
+
+
+;Privacy comes first
+Privatsphäre geht vor
+
+
+;Privacy - more than a policy
+Privatsphäre ist unsere Einstellung
 
 
 ;2x Faster
-2x mehr Tempo
+2x schneller als vorher
+
+
+;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox blockiert Tracking-Cookies von Drittanbietern und liefert dir Tools, mit denen du mehr Kontrolle über deine Daten hast.
+
+
+;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox ist schnell und behandelt deine persönlichen Daten mit Respekt. Wir sind schneller, weil wir dich nicht zu Werbezwecken tracken.
+
+
+;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Was du online machst, geht nur dich etwas an. Firefox blockiert in Linux Cookies von Drittanbietern.
 
 
 ;The best Firefox ever
 Der beste Firefox aller Zeiten
 
 
+;Common sense privacy
+Privatsphäre, weil es richtig ist
+
+
 ;Lightweight
 Speicherschonend
 
 
+;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Speed und Sicherheit – alles drin. Firefox ist schneller, weil wir deine Online-Aktivitäten nicht tracken.
+
+
+;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Mach, was du willst. So wie du willst. Firefox verfolgt nicht jeden deiner Schritte. Du entscheidest, was du teilst und wann.
+
+
+;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Geschwindigkeit trifft auf Sicherheit. Firefox ist 2x schneller als vorher und verbraucht 30% weniger Arbeitsspeicher als Chrome.
+
+
 ;Uses 30% less memory than Chrome
-Bis zu 30% weniger Arbeitsspeicher als Chrome
+Benötigt 30% weniger Arbeitsspeicher als Chrome
+
+
+;Block trackers
+Tracking blockieren
+
+
+;Open source
+Open Source
+
+
+;Seamless setup
+Nahtlose Installation
 
 
 ;Powerfully private
 Liebt Deine Privatsphäre
 
 
+;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Dank strengem Adblocking bleibst du der Boss in deinen Browser. Tracker und Cookies von Drittanbietern kommen hier nicht rein.
+
+
+;Look under the hood. Like Linux, Firefox features are open source.
+Wirf ruhig einen Blick unter die Haube. Genau wie Linux ist auch Firefox Open Source.
+
+
+;Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Nimm Einstellungen und Lesezeichen von anderen Browsern einfach mit zu Firefox für Windows.
+
+
 ;Private Browsing with Tracking Protection
-Privates Surfen mit Schutz vor Verfolgung
+Privater Modus mit Schutz vor Tracking
 
 
 # String is obsolete. Do not remove.
@@ -252,21 +381,21 @@ Firefox für unterwegs
 
 
 ;Get your bookmarks, history, passwords and other settings on all your devices.
-Nehmen Sie Ihre Lesezeichen, Chronik, Passwörter und andere Einstellungen auf allen Geräten mit.
+Nimm deine Lesezeichen, Chronik, Passwörter und Einstellungen mit auf alle deine Geräten.
 
 
 # Obsolete string, DO NOT REMOVE
 ;Already using Firefox?
-Nutzt Du bereits Firefox?
+Du nutzt Firefox bereits?
 
 
 # Obsolete string, DO NOT REMOVE
 ;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-Melde Dich bei Deinem Konto an und schon synchronisieren wir Lesezeichen, Passwörter und was Du sonst noch mit Firefox auf anderen Geräten gespeichert hast.
+Melde dich mit deinem Konto an und schon synchronisieren wir Lesezeichen, Passwörter und alles, was du sonst noch mit Firefox auf anderen Geräten gespeichert hast.
 
 
 ;Learn more about Firefox Accounts
-Jetzt mehr über Firefox Konten erfahren
+Jetzt mehr über Firefox-Konten erfahren
 
 
 ;Skip this step

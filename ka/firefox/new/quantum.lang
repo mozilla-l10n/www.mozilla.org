@@ -25,22 +25,31 @@
 თქვენ გიყენიათ დაუცველი, მოძველებული საოპერაციო სისტემა, რომელიც <a href="%(url)s">აღარაა მხარდაჭერილი Firefox-ის მიერ</a>.
 
 
+# /firefox/windows/ main page title. Span is for visually formatting.
+;Firefox fights for you <span>on Windows.</span>
+Firefox იბრძვის თქვენთვის <span>Windows-ზე</span>
+
+
+# /firefox/mac/ main page title. Span is for visually formatting.
+;Firefox respects <span>your privacy on Mac.</span>
+Firefox პატივს სცემს <span>თქვენს პირადულობას Mac-ზე.</span>
+
+
+# /firefox/linux/ main page title.
+;Firefox for Linux
+Firefox Linux-ისთვის
+
+
 ;The new <strong>Firefox</strong>
 ახალი <strong>Firefox</strong>
 
 
+;Own your online life.
+თავად განკარგეთ საკუთარი ინტერნეტცხოვრება.
+
+
 ;Fast for good.
 სწრაფი და მეტად შედეგიანი.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-იხილეთ Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-ახალი. სწრაფი. შედეგიანი.
 
 
 # Link points to /firefox/new/?scene=2
@@ -190,6 +199,21 @@ Mozilla არა მხოლოდ დიდ მნიშვნელობა
 Firefox დასინქრონება მობილურზე:
 
 
+# /firefox/windows/ HTML page title
+;Download Mozilla Firefox for Windows
+ჩამოტვირთეთ Firefox Windows-ზე
+
+
+# /firefox/mac/ HTML page title
+;Download Mozilla Firefox for Mac
+ჩამოტვირთეთ Firefox Mac-ზე
+
+
+# /firefox/linux/ HTML page title
+;Download Mozilla Firefox for Linux
+ჩამოტვირთეთ Firefox Linux-ზე
+
+
 # HTML page title prefix
 ;Download Firefox
 ჩამოტვირთეთ Firefox
@@ -200,37 +224,142 @@ Firefox დასინქრონება მობილურზე:
 უფასო ბრაუზერი
 
 
+# /firefox/windows/ HTML page description
+;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+ჩამოტვირთეთ Mozilla Firefox Windows-ზე, უფასო ბრაუზერი. Firefox შექმნილია საერთაშორისო არამომგებიანი დაწესებულების მიერ, რომელსაც სურს ხალხს დაუბრუნოს, თავიანთი ინტერნეტცხოვრების სრულად განკარგვის უფლება. გადმოწერეთ Firefox Windows-ზე ახლავე!
+
+
+# /firefox/mac/ HTML page description
+;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+ჩამოტვირთეთ Mozilla Firefox Mac-ზე, უფასო ბრაუზერი. Firefox შექმნილია საერთაშორისო არამომგებიანი დაწესებულების მიერ, რომელსაც სურს ხალხს დაუბრუნოს, თავიანთი ინტერნეტცხოვრების სრულად განკარგვის უფლება. გადმოწერეთ Firefox Mac-ზე ახლავე!
+
+
+# /firefox/linux/ HTML page description
+;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+ჩამოტვირთეთ Mozilla Firefox Linux-ზე, უფასო ბრაუზერი. Firefox შექმნილია საერთაშორისო არამომგებიანი დაწესებულების მიერ, რომელსაც სურს ხალხს დაუბრუნოს, თავიანთი ინტერნეტცხოვრების სრულად განკარგვის უფლება. გადმოწერეთ Firefox Linux-ზე ახლავე!
+
+
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 ჩამოტვირთეთ Mozilla Firefox, უფასო ბრაუზერი. Firefox შექმნილია საერთაშორისო არამომგებიანი დაწესებულების მიერ, რომელსაც სურს ხალხს დაუბრუნოს, თავიანთი ინტერნეტცხოვრების სრულად განკარგვის უფლება. გადმოწერეთ Firefox Windows-ზე, macOS-ზე, Linux-ზე, Android-სა და iOS-ზე ახლავე!
+
+
+# /firefox/windows/ social sharing title
+;Download the fastest Firefox for Windows ever
+ჩამოტვირთეთ უსწრაფესი Firefox Windows-ზე
+
+
+# /firefox/mac/ social sharing title
+;Download the fastest Firefox for Mac ever
+ჩამოტვირთეთ უსწრაფესი Firefox Mac-ზე
+
+
+# /firefox/linux/ social sharing title
+;Download the fastest Firefox for Linux ever
+ჩამოტვირთეთ უსწრაფესი Firefox Linux-ზე
 
 
 ;Download the fastest Firefox ever
 ჩამოტვირთეთ უსწრაფესი Firefox
 
 
+# /firefox/windows/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+გვერდების მეტად სწრაფი გახსნა, მეხსიერების ნაკლები მოხმარება, უამრავ დამატებით შესაძლებლობებთან ერთად, ახალი Firefox Windows-ისთვის გელით.
+
+
+# /firefox/mac/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+გვერდების მეტად სწრაფი გახსნა, მეხსიერების ნაკლები მოხმარება, უამრავ დამატებით შესაძლებლობებთან ერთად, ახალი Firefox Mac-ისთვის გელით.
+
+
+# /firefox/linux/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+გვერდების მეტად სწრაფი გახსნა, მეხსიერების ნაკლები მოხმარება, უამრავ დამატებით შესაძლებლობებთან ერთად, ახალი Firefox Linux-ისთვის გელით.
+
+
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
 გვერდების მეტად სწრაფი გახსნა, მეხსიერების ნაკლები მოხმარება, უამრავ დამატებით შესაძლებლობებთან ერთად, ახალი Firefox გელოდებათ.
+
+
+;Privacy comes first
+პირადულობა უპირველეს ყოვლისა
+
+
+;Privacy - more than a policy
+პირადულობა – მეტი, ვიდრე უბრალო დებულება
 
 
 ;2x Faster
 2-ჯერ მეტად სწრაფი
 
 
+;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox არ გადევნებთ თვალს ძიებისას. ჩვენ ვზღუდავთ თვალთვალს ფუნთუშების მეშვეობით და სრულად გიბრუნებთ მართვის სადავეებს.
+
+
+;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox მოქმედებს სწრაფად და ზრუნავს თქვენი მონაცემების უსაფრთხოებაზე – არავითარი თვალყურისმდევნელი რეკლამები და შენელებები.
+
+
+;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+თქვენი ცხოვრება, თქვენი საქმეა. Firefox ზღუდავს მესამე მხარის მეთვალყურე ფუნთუშებს Linux-ზე.
+
+
 ;The best Firefox ever
 ყველა დროის საუკეთესო Firefox
+
+
+;Common sense privacy
+ჯანსაღი პირადულობა
 
 
 ;Lightweight
 მსუბუქი
 
 
+;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+მიიღეთ სისწრაფე და უსაფრთხოება. Firefox სწრაფად მუშაობს Mac-ზე, ვინაიდან ჩვენ არ ვადევნებთ თვალს თქვენს მოქმედებებს.
+
+
+;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+იცხოვრეთ თქვენი ცხოვრებით, Firefox არ გადევნებთ თვალს. თავად აირჩიეთ რისი გაზიარება გსურთ და როდის.
+
+
+;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+სიჩქარე, უსაფრთხოებასთან ერთად. Firefox ორჯერ უფრო მეტად სწრაფია და 30%-ით ნაკლებ მეხსიერებას იყენებს, ვიდრე Chrome.
+
+
 ;Uses 30% less memory than Chrome
 იყენებს 30%-ით ნაკლებ მეხსიერებას, ვიდრე Chrome
 
 
+;Block trackers
+მეთვალყურეების შეზღუდვა
+
+
+;Open source
+ღია წყაროს მქონე
+
+
+;Seamless setup
+ადვილი გასამართი
+
+
 ;Powerfully private
 მეტად დაცული
+
+
+;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+განაგეთ საკუთარი პირადი სივრცე, შიგთავსის მკაცრი შეზღუდვით. შეაჩერეთ თვალყურისმდევნებლები.
+
+
+;Look under the hood. Like Linux, Firefox features are open source.
+გაეცანით სიღრმისეულად. მსგავსად Linux-ისა, Firefox-ის შესაძლებლობებიც ღია წყაროსია.
+
+
+;Easy migration of preferences and bookmarks when you download Firefox for Windows.
+პარამეტრებისა და სანიშნების მარტივი გადმოტანა, როცა ჩამოტვირთავთ Firefox-ს Windows-ზე.
 
 
 ;Private Browsing with Tracking Protection

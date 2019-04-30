@@ -25,22 +25,31 @@ Bạn đang sử dụng một phiên bản tiền phát hành của Firefox.
 Bạn đang sử dụng một hệ điều hành lỗi thời, không an toàn và <a href="%(url)s">không còn được Firefox hỗ trợ nữa</a>.
 
 
+# /firefox/windows/ main page title. Span is for visually formatting.
+;Firefox fights for you <span>on Windows.</span>
+Firefox chiến đấu cho bạn <span>trên Windows.</span>
+
+
+# /firefox/mac/ main page title. Span is for visually formatting.
+;Firefox respects <span>your privacy on Mac.</span>
+Firefox tôn trọng <span>quyền riêng tư của bạn trên Mac.</span>
+
+
+# /firefox/linux/ main page title.
+;Firefox for Linux
+Firefox dành cho Linux
+
+
 ;The new <strong>Firefox</strong>
 <strong>Firefox</strong> mới
 
 
+;Own your online life.
+Sở hữu cuộc sống trực tuyến của bạn.
+
+
 ;Fast for good.
 Nhanh và tốt hơn.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Gặp gỡ Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-Mới. Nhanh. Tốt hơn.
 
 
 # Link points to /firefox/new/?scene=2
@@ -190,6 +199,21 @@ Làm thôi!
 Đồng bộ với Firefox trên di động:
 
 
+# /firefox/windows/ HTML page title
+;Download Mozilla Firefox for Windows
+Tải xuống Mozilla Firefox dành cho Windows
+
+
+# /firefox/mac/ HTML page title
+;Download Mozilla Firefox for Mac
+Tải xuống Mozilla Firefox dành cho Mac
+
+
+# /firefox/linux/ HTML page title
+;Download Mozilla Firefox for Linux
+Tải xuống Mozilla Firefox dành cho Linux
+
+
 # HTML page title prefix
 ;Download Firefox
 Tải xuống Firefox
@@ -200,37 +224,142 @@ Tải xuống Firefox
 Trình duyệt web miễn phí
 
 
+# /firefox/windows/ HTML page description
+;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Tải xuống Mozilla Firefox cho Windows, một trình duyệt Web miễn phí. Firefox được tạo ra bởi một tổ chức phi lợi nhuận toàn cầu dành riêng cho việc kiểm soát các cá nhân trực tuyến. Tải Firefox cho Windows ngay hôm nay!
+
+
+# /firefox/mac/ HTML page description
+;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Tải xuống Mozilla Firefox cho Mac, một trình duyệt Web miễn phí. Firefox được tạo ra bởi một tổ chức phi lợi nhuận toàn cầu dành riêng cho việc kiểm soát các cá nhân trực tuyến. Tải Firefox cho Mac ngay hôm nay!
+
+
+# /firefox/linux/ HTML page description
+;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Tải xuống Mozilla Firefox cho Linux, một trình duyệt Web miễn phí. Firefox được tạo ra bởi một tổ chức phi lợi nhuận toàn cầu dành riêng cho việc kiểm soát các cá nhân trực tuyến. Tải Firefox cho Linux ngay hôm nay!
+
+
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Tải xuống Mozilla Firefox, một trình duyệt web miễn phí. Firefox được tạo ra bởi một tổ chức phi lợi nhuận toàn cầu giúp mỗi cá nhân có quyền kiểm soát trực tuyến. Tải xuống Firefox cho Windows, macOS, Linux, Android và iOS hôm nay!
+
+
+# /firefox/windows/ social sharing title
+;Download the fastest Firefox for Windows ever
+Tải xuống Firefox nhanh nhất cho Windows từ trước đến nay
+
+
+# /firefox/mac/ social sharing title
+;Download the fastest Firefox for Mac ever
+Tải xuống Firefox nhanh nhất cho Mac từ trước đến nay
+
+
+# /firefox/linux/ social sharing title
+;Download the fastest Firefox for Linux ever
+Tải xuống Firefox nhanh nhất cho Linux từ trước đến nay
 
 
 ;Download the fastest Firefox ever
 Tải ngay Firefox nhanh hơn bao giờ hết
 
 
+# /firefox/windows/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+Tải trang nhanh hơn, sử dụng ít bộ nhớ hơn và có nhiều tính năng, Firefox mới cho Windows có ở đây.
+
+
+# /firefox/mac/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+Tải trang nhanh hơn, sử dụng ít bộ nhớ hơn và có nhiều tính năng, Firefox mới cho Mac có ở đây.
+
+
+# /firefox/linux/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+Tải trang nhanh hơn, sử dụng ít bộ nhớ hơn và được tích hợp nhiều tính năng, Firefox mới cho Linux có ở đây.
+
+
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
 Tải trang nhanh hơn, sử dụng ít bộ nhớ hơn và có nhiều tính năng, Firefox mới có ở đây.
+
+
+;Privacy comes first
+Quyền riêng tư là trên hết
+
+
+;Privacy - more than a policy
+Quyền riêng tư - hơn cả một chính sách
 
 
 ;2x Faster
 Nhanh hơn 2 lần
 
 
+;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox không gián điệp trên các tìm kiếm. Chúng tôi dừng cookie theo dõi của bên thứ ba và cung cấp cho bạn toàn quyền kiểm soát.
+
+
+;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox di chuyển nhanh và xử lý dữ liệu của bạn một cách cẩn thận - không có trình theo dõi quảng cáo và không làm chậm lại.
+
+
+;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Cuộc sống của bạn, doanh nghiệp của bạn. Firefox chặn cookie theo dõi của bên thứ ba trên Linux.
+
+
 ;The best Firefox ever
 Firefox tốt nhất bao giờ hết
+
+
+;Common sense privacy
+Quyền riêng tư thông thường
 
 
 ;Lightweight
 Nhẹ
 
 
+;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Nhận tốc độ và bảo mật. Firefox chạy nhanh trên Mac vì chúng tôi không theo dõi bước đi của bạn.
+
+
+;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Sống theo cuộc sống của bạn, Firefox không theo dõi điều này. Chọn những gì để chia sẻ và khi chia sẻ nó.
+
+
+;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Tốc độ, đáp ứng an ninh. Firefox nhanh gấp hai lần với bộ nhớ ít hơn 30% so với Chrome.
+
+
 ;Uses 30% less memory than Chrome
 Sử dụng bộ nhớ ít hơn 30% so với Chrome
 
 
+;Block trackers
+Chặn theo dõi
+
+
+;Open source
+Mã nguồn mở
+
+
+;Seamless setup
+Thiết lập liền mạch
+
+
 ;Powerfully private
 Riêng tư mạnh mẽ
+
+
+;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Hãy là chủ nhân của tên miền của bạn với việc chặn nội dung nghiêm ngặt. Loại bỏ tất cả các cookie và trình theo dõi.
+
+
+;Look under the hood. Like Linux, Firefox features are open source.
+Giống như Linux, các tính năng của Firefox là mã nguồn mở.
+
+
+;Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Dễ dàng di chuyển các tùy chọn và dấu trang khi bạn tải xuống Firefox dành cho Windows.
 
 
 ;Private Browsing with Tracking Protection

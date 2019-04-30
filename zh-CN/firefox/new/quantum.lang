@@ -25,22 +25,31 @@
 您正在使用一个不安全、已过时的操作系统。<a href="%(url)s">Firefox 已停止支持 </a>。
 
 
+# /firefox/windows/ main page title. Span is for visually formatting.
+;Firefox fights for you <span>on Windows.</span>
+Firefox <span>在 Windows</span> 为您而战。
+
+
+# /firefox/mac/ main page title. Span is for visually formatting.
+;Firefox respects <span>your privacy on Mac.</span>
+Firefox <span>在 Mac 尊重您的隐私。</span>
+
+
+# /firefox/linux/ main page title.
+;Firefox for Linux
+适用于 Linux 的 Firefox
+
+
 ;The new <strong>Firefox</strong>
 崭新 <strong>Firefox</strong>
 
 
+;Own your online life.
+掌控您的线上生活。
+
+
 ;Fast for good.
 快，只为更好。
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-遇见 Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-更新、更快、更好
 
 
 # Link points to /firefox/new/?scene=2
@@ -190,6 +199,21 @@ Mozilla 不仅重视您的电子邮件隐私与安全性，更是已经铭记于
 与手机版 Firefox 同步：
 
 
+# /firefox/windows/ HTML page title
+;Download Mozilla Firefox for Windows
+下载适用于 Windows 的 Mozilla Firefox
+
+
+# /firefox/mac/ HTML page title
+;Download Mozilla Firefox for Mac
+下载适用于 Mac 的 Mozilla Firefox
+
+
+# /firefox/linux/ HTML page title
+;Download Mozilla Firefox for Linux
+下载适用于 Linux 的 Mozilla Firefox
+
+
 # HTML page title prefix
 ;Download Firefox
 下载 Firefox
@@ -200,37 +224,142 @@ Mozilla 不仅重视您的电子邮件隐私与安全性，更是已经铭记于
 免费网络浏览器
 
 
+# /firefox/windows/ HTML page description
+;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+下载适用于 Windows 的自由网络浏览器 Mozilla Firefox。Firefox 由致力于让每个人都能自行控制网络生活的全球性非营利社区打造。快来下载吧！
+
+
+# /firefox/mac/ HTML page description
+;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+下载适用于 Mac 的自由网络浏览器 Mozilla Firefox。Firefox 由致力于让每个人都能自行控制网络生活的全球性非营利社区打造。快来下载吧！
+
+
+# /firefox/linux/ HTML page description
+;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+下载适用于 Linux 的自由网络浏览器 Mozilla Firefox。Firefox 由致力于让每个人都能自行控制网络生活的全球性非营利社区打造。快来下载吧！
+
+
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 下载自由的网络浏览器 Mozilla Firefox。Firefox 由致力于让每个人都能自行控制网络生活的全球性非营利社区打造。立即下载用于 Windows、macOS、Linux、Android 以及 iOS 的 Firefox 吧！
+
+
+# /firefox/windows/ social sharing title
+;Download the fastest Firefox for Windows ever
+下载适用于 Windows 的有史以来最快的 Firefox
+
+
+# /firefox/mac/ social sharing title
+;Download the fastest Firefox for Mac ever
+下载适用于 Mac 的有史以来最快的 Firefox
+
+
+# /firefox/linux/ social sharing title
+;Download the fastest Firefox for Linux ever
+下载适用于 Linux 的有史以来最快的 Firefox
 
 
 ;Download the fastest Firefox ever
 下载有史以来最快的 Firefox
 
 
+# /firefox/windows/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+加载更快、内存占用更低、包含更多功能。适用于 Windows 的全新 Firefox 闪耀登场！
+
+
+# /firefox/mac/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+加载更快、内存占用更低、包含更多功能。适用于 Mac 的全新 Firefox 闪耀登场！
+
+
+# /firefox/linux/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+加载更快、内存占用更低、包含更多功能。适用于 Linux 的全新 Firefox 闪耀登场！
+
+
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
 加载更快、内存占用更低、包含更多功能。全新的 Firefox 闪耀登场！
+
+
+;Privacy comes first
+将您的隐私放在首位
+
+
+;Privacy - more than a policy
+隐私 - 不只是一项政策
 
 
 ;2x Faster
 速度翻倍
 
 
+;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox 不会窥探您在网络搜索哪些内容，还会拦截来自第三方的追踪 Cookie，让您自行控制线上生活。
+
+
+;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox 速度超快，同时也谨慎处理您的数据: 不做广告跟踪也不拖慢上网速度。
+
+
+;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+您的生活您做主。Firefox 会在 Linux 拦截来自第三方的跟踪 Cookie。
+
+
 ;The best Firefox ever
 有史以来最棒的 Firefox
+
+
+;Common sense privacy
+让隐私保护成为标配
 
 
 ;Lightweight
 轻量
 
 
+;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+速度与安全，我全都要。Firefox 在 Mac 上速度超快，因为我们不跟踪您的网上活动。
+
+
+;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Firefox 不会监视你的生活。自由选择分享内容以及何时共享。
+
+
+;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+快速、安全，相得益彰。Firefox 速度翻倍，占用内存比 Chrome 低 30%。
+
+
 ;Uses 30% less memory than Chrome
 占用内存比 Chrome 低 30%
 
 
+;Block trackers
+拦截跟踪器
+
+
+;Open source
+开源
+
+
+;Seamless setup
+无缝安装
+
+
 ;Powerfully private
 强大的隐私保护
+
+
+;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+通过严格的内容拦截，切断所有 Cookie 和跟踪器的窥探。
+
+
+;Look under the hood. Like Linux, Firefox features are open source.
+深入了解就会发现。与 Linux 一样，Firefox 的各种功能也是开源的。
+
+
+;Easy migration of preferences and bookmarks when you download Firefox for Windows.
+下载适用于 Windows 的 Firefox 后即可轻松迁移首选项和书签。
 
 
 ;Private Browsing with Tracking Protection

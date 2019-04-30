@@ -25,22 +25,31 @@ Tu usa le version de pre-edition de Firefox.
 Tu usa un systema operative non secur, obsolete <a href="%(url)s">non plus supportate per Firefox</a>.
 
 
+# /firefox/windows/ main page title. Span is for visually formatting.
+;Firefox fights for you <span>on Windows.</span>
+Firefox lucta pro te <span>sur Windows.</span>
+
+
+# /firefox/mac/ main page title. Span is for visually formatting.
+;Firefox respects <span>your privacy on Mac.</span>
+Firefox respecta <span>tu discretion sur Mac.</span>
+
+
+# /firefox/linux/ main page title.
+;Firefox for Linux
+Firefox pro Linux
+
+
 ;The new <strong>Firefox</strong>
 Le nove <strong>Firefox</strong>
 
 
+;Own your online life.
+Que es tu le proprietari de tu vita online.
+
+
 ;Fast for good.
 Veloce pro bono.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Discoperi Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-Nove. Veloce. Pro bono.
 
 
 # Link points to /firefox/new/?scene=2
@@ -190,6 +199,21 @@ Que nos lo face!
 Synchronisa te per Firefox sur telephonos e tablettas:
 
 
+# /firefox/windows/ HTML page title
+;Download Mozilla Firefox for Windows
+Discarga Mozilla Firefox pro Windows
+
+
+# /firefox/mac/ HTML page title
+;Download Mozilla Firefox for Mac
+Discarga Mozilla Firefox pro Mac
+
+
+# /firefox/linux/ HTML page title
+;Download Mozilla Firefox for Linux
+Discarga Mozilla Firefox pro Linux
+
+
 # HTML page title prefix
 ;Download Firefox
 Discarga Firefox
@@ -200,37 +224,142 @@ Discarga Firefox
 Navigator web libere e gratuite
 
 
+# /firefox/windows/ HTML page description
+;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Discarga Mozilla Firefox pro Windows, un libere navigator del Web. Firefox es create per un organisation non-lucrative global dedicate a poner le personas in grado de pensar e ager calme e in maniera sensibile online. Procura te Firefox pro Windows hodie!
+
+
+# /firefox/mac/ HTML page description
+;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Discarga Mozilla Firefox pro Mac, un libere Navigator del Web. Firefox es create per un organisation non-lucrative global dedicate a poner le personas in grado de pensar e ager calme e in maniera sensibile online. Procura te Firefox pro Mac hodie!
+
+
+# /firefox/linux/ HTML page description
+;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Discarga Mozilla Firefox pro Linux, un libere Navigator del Web. Firefox es create per un organisation non-lucrative global dedicate a poner le personas in grado de pensar e ager calme e in maniera sensibile online. Procura te Firefox pro Linux hodie!
+
+
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Discarga Mozilla Firefox, un navigator web libere e gratuite. Firefox es create per un organisation mundial sin fin de lucro dedicate a poner le individuos in controlo del rete. Discarga hodie Firefox pro Windows, macOS, Linux, Android e iOS!
+
+
+# /firefox/windows/ social sharing title
+;Download the fastest Firefox for Windows ever
+Discarga Firefox pro Windows, le plus veloce de sempre
+
+
+# /firefox/mac/ social sharing title
+;Download the fastest Firefox for Mac ever
+Discarga Firefox pro Mac, le plus veloce de sempre
+
+
+# /firefox/linux/ social sharing title
+;Download the fastest Firefox for Linux ever
+Discarga Firefox pro Linux, le plus veloce de sempre
 
 
 ;Download the fastest Firefox ever
 Discarga le plus rapide Firefox de sempre
 
 
+# /firefox/windows/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+Cargamentos del paginas plus rapide, minor uso de memoria e functionalitates integrate, ecce le nove Firefox pro Windows.
+
+
+# /firefox/mac/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+Cargamentos del paginas plus rapide, minor uso de memoria e functionalitates integrate, ecce le nove Firefox pro Mac.
+
+
+# /firefox/linux/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+Cargamentos del paginas plus rapide, minor uso de memoria e functionalitates integrate, ecce le nove Firefox pro Linux.
+
+
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
 Cargamento paginas plus rapide, minor uso de memoria e functionalitates incorporate, ecce le nove Firefox.
+
+
+;Privacy comes first
+Primo le discretion
+
+
+;Privacy - more than a policy
+Discretion: plus que un regula
 
 
 ;2x Faster
 2 vices plus rapide
 
 
+;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox non spia tu recercas. Nos cessa le cookies de traciamento de tertie-partes e te rende le controlo plen.
+
+
+;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox move rapide e tracta tu datos con cura: nulle avisos publicitari traciante e nulle relentamentos.
+
+
+;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Tu vita, tu negotios. Firefox bloca le cookies de traciamento de tertie-partes sur Linux.
+
+
 ;The best Firefox ever
 Le melior Firefox de sempre
+
+
+;Common sense privacy
+Le discretion del senso commun
 
 
 ;Lightweight
 Super legier
 
 
+;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Procura te velocitate e securitate. Firefox es rapide sur Mac perque nos non tracia tu movimentos.
+
+
+;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Vive tu vita, Firefox non te specta. Elige lo que compartir e quando lo compartir.
+
+
+;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Velocitate con securitate. Firefox es duo vices plus veloce con 30% minus consumo de memoria que Chrome.
+
+
 ;Uses 30% less memory than Chrome
 Usa 30% minus memoria qua Chrome
 
 
+;Block trackers
+Bloca le traciatores
+
+
+;Open source
+Open source {ok}
+
+
+;Seamless setup
+Facile installation
+
+
 ;Powerfully private
 Potentemente confidential
+
+
+;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Que tu es le domino de tu dominio con le blocada de contentos stricte. Disactiva tote le cookies e le traciatores.
+
+
+;Look under the hood. Like Linux, Firefox features are open source.
+Reguarda sub le copertura. Como Linux, le functionalitates de Firefox es open-source.
+
+
+;Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Facile migration de preferentias e marcapaginas quando tu discarga Firefox pro Windows.
 
 
 ;Private Browsing with Tracking Protection

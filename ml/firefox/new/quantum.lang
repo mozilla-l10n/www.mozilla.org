@@ -16,25 +16,34 @@
 
 
 ;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
+നിങ്ങൾ ഉപയോഗിക്കുന്ന സുരക്ഷിതമല്ലാത്ത, കാലഹരണപ്പെട്ട ഓപ്പറേറ്റിംഗ് സിസ്റ്റം <a href="%(url)s">ഫയർഫോക്സ് പിന്തുണയ്ക്കുന്നില്ല</a>.
+
+
+# /firefox/windows/ main page title. Span is for visually formatting.
+;Firefox fights for you <span>on Windows.</span>
+ഫയർഫോക്സ് <span>വിന്‍ഡോസിൽ</span> നിങ്ങൾക്കുവേണ്ടി പോരാടുന്നു
+
+
+# /firefox/mac/ main page title. Span is for visually formatting.
+;Firefox respects <span>your privacy on Mac.</span>
+ഫയര്‍ഫോക്സ് <span>മാക്കിലെ നിങ്ങളുടെ സ്വകാര്യത </span> ബഹുമാനിക്കുന്നു
+
+
+# /firefox/linux/ main page title.
+;Firefox for Linux
+ലിനക്സിനായുള്ള ഫയർഫോക്സ്
 
 
 ;The new <strong>Firefox</strong>
 പുതിയ <strong>ഫയര്‍ഫോക്സ്</strong>
 
 
+;Own your online life.
+നിങ്ങളുടെ ഓൺലൈൻ ജീവിതം സ്വന്തമാക്കുക.
+
+
 ;Fast for good.
 ഇനിയെന്നും വേഗതയോടെ.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-ഫയർഫോക്സ് ക്വാണ്ടം കാണുക
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-പുതിയത്. വേഗമേറിയത്. നല്ലതിന്.
 
 
 # Link points to /firefox/new/?scene=2
@@ -65,7 +74,7 @@ You’re using an insecure, outdated operating system <a href="%(url)s">no longe
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings?
 ;Fix a problem
-Fix a problem
+ഒരു പ്രശ്നം പരിഹരിക്കുക
 
 
 ;Keep up with<br> all things Firefox.
@@ -97,24 +106,24 @@ Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
 
 
 ;Get a Firefox Account
-Get a Firefox Account
+ഒരു ഫയർഫോക്സ് അക്കൗണ്ട് സ്വന്തമാക്കുക
 
 
 ;Already have an account?
-Already have an account?
+നേരത്തെ അക്കൗണ്ട് ഉണ്ടോ?
 
 
 ;Sign In
-Sign In
+പ്രവേശിക്കുക
 
 
 ;Download Anyway
-Download Anyway
+എന്തായാലും ഡൗൺലോഡ് ചെയ്യുക
 
 
 # Link points to /firefox/all/
 ;Download for other platforms & languages
-Download for other platforms & languages
+മറ്റു പ്ലാറ്റ്ഫോമുകളിലും ഭാഷകളിലുമുള്ള ഫയർഫോക്സ്
 
 
 # The string is obsolete. Do not remove.
@@ -124,7 +133,7 @@ Download for other platforms & languages
 
 
 ;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+നിങ്ങളുടെ ഡൌണ്‍ലോഡ് തനിയെ തുടങ്ങും. ഇല്ലെങ്കില്‍, <a id="%(id)s" href="%(fallback_url)s">ഇവിടെ ക്ലിക്ക് ചെയ്യു</a>.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -137,15 +146,15 @@ Learn how to make Firefox even smarter, faster and more secure.
 
 
 ;Get informative tips, tricks and product announcements delivered to your inbox.
-Get informative tips, tricks and product announcements delivered to your inbox.
+നിങ്ങളുടെ ഇൻബോക്സിലേക്ക് വിദഗ്ദ്ധരുടെ നുറുങ്ങുകളും തന്ത്രങ്ങളും ഉൽപ്പന്ന പ്രഖ്യാപനങ്ങളും നേടുക.
 
 
 ;Enter your email address
-Enter your email address
+നിങ്ങളുടെ ഇമെയിൽ വിലാസം നൽകുക
 
 
 ;How will Mozilla use my email?
-How will Mozilla use my email?
+മോസില്ല എങ്ങിനെ എന്റെ മെയിൽ ഉപയോഗിക്കും?
 
 
 ;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
@@ -153,11 +162,11 @@ Mozilla doesn’t just value your email privacy and security – it’s part of 
 
 
 ;What we want you to know:
-What we want you to know:
+ഞങ്ങൾ, നിങ്ങളിതെല്ലാം അറിയാൻ ആഗ്രഹിക്കുന്നു:
 
 
 ;You don’t need to give us your email to download and use Firefox.
-You don’t need to give us your email to download and use Firefox.
+ഫയർഫോക്സ് ഡൌൺലോഡ് ചെയ്യുന്നതിനും ഉപയോഗിക്കുന്നതിനും ഞങ്ങൾക്ക് നിങ്ങളുടെ ഇമെയിൽ നൽകേണ്ട ആവശ്യമില്ല.
 
 
 ;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
@@ -169,11 +178,11 @@ You can expect emails designed to help you optimize Firefox to work best for you
 
 
 ;You can unsubscribe anytime, for any reason.
-You can unsubscribe anytime, for any reason.
+ഏത് കാരണത്താലും എപ്പോൾ വേണമെങ്കിലും നിങ്ങൾക്ക് അൺസബ്സ്ക്രൈബുചെയ്യാൻ കഴിയും.
 
 
 ;We will not share, sell or use your email for any other purposes.
-We will not share, sell or use your email for any other purposes.
+നിങ്ങളുടെ ഇമെയിൽ വിലാസം ഞങ്ങൾ മറ്റേതെങ്കിലും ഉദ്ദേശ്യങ്ങൾക്കായി പങ്കിടില്ല, വിൽക്കുകയോ ഉപയോഗിക്കുകയോ ചെയ്യില്ല.
 
 
 ;Let’s do this!
@@ -182,6 +191,21 @@ We will not share, sell or use your email for any other purposes.
 
 ;Sync up with Firefox on mobile:
 മൊബൈലുമായി ഫയര്‍ഫോക്സ് സമന്വയിപ്പിക്കുക:
+
+
+# /firefox/windows/ HTML page title
+;Download Mozilla Firefox for Windows
+വിൻഡോസിനുള്ള മോസില്ല ഫയർഫോക്സ് ഡൌൺലോഡ് ചെയ്യുക
+
+
+# /firefox/mac/ HTML page title
+;Download Mozilla Firefox for Mac
+മാക്കിനായുള്ള മോസില്ല ഫയർഫോക്സ് ഡൌൺലോഡ് ചെയ്യുക
+
+
+# /firefox/linux/ HTML page title
+;Download Mozilla Firefox for Linux
+ലിനക്സിനായുള്ള മോസില്ല ഫയർഫോക്സ് ഡൌൺലോഡ് ചെയ്യുക
 
 
 # HTML page title prefix
@@ -194,41 +218,146 @@ We will not share, sell or use your email for any other purposes.
 സ്വതന്ത്ര വെബ് ബ്രൗസര്‍
 
 
+# /firefox/windows/ HTML page description
+;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+സ്വതന്ത്ര വൈബ് ബ്രൌസറായ വിൻഡോസിനു വേണ്ടിയുള്ള മോസില്ല ഫയര്‍ഫോക്സ് ഡൌണ്‍ലോഡ് ചെയ്യു. ഓണ്‍ലൈനിലെ നിയന്ത്രണം വ്യക്തികള്‍ക്ക് തിരിച്ച് നല്‍കുക എന്ന ഉദ്ദേശത്തോടെ പ്രവര്‍ത്തിക്കുന്ന ലാഭേച്ഛയില്ലാത്ത സംഘടന ഉണ്ടാക്കിയതാണ് ഫയര്‍ഫോക്സ്. വിന്‍ഡോസിനായുള്ള ഫയര്‍ഫോക്സ് ഇന്നു തന്നെ നേടു!
+
+
+# /firefox/mac/ HTML page description
+;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+സ്വതന്ത്ര വൈബ് ബ്രൌസറായ മാക്കിനു വേണ്ടിയുള്ള മോസില്ല ഫയര്‍ഫോക്സ് ഡൌണ്‍ലോഡ് ചെയ്യു. ഓണ്‍ലൈനിലെ നിയന്ത്രണം വ്യക്തികള്‍ക്ക് തിരിച്ച് നല്‍കുക എന്ന ഉദ്ദേശത്തോടെ പ്രവര്‍ത്തിക്കുന്ന ലാഭേച്ഛയില്ലാത്ത സംഘടന ഉണ്ടാക്കിയതാണ് ഫയര്‍ഫോക്സ്. മാക്കിനു വേണ്ടിയുള്ള ഫയര്‍ഫോക്സ് ഇന്നു തന്നെ നേടു!
+
+
+# /firefox/linux/ HTML page description
+;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+സ്വതന്ത്ര വൈബ് ബ്രൌസറായ ലിനക്സിനു വേണ്ടിയുള്ള മോസില്ല ഫയര്‍ഫോക്സ് ഡൌണ്‍ലോഡ് ചെയ്യു. ഓണ്‍ലൈനിലെ നിയന്ത്രണം വ്യക്തികള്‍ക്ക് തിരിച്ച് നല്‍കുക എന്ന ഉദ്ദേശത്തോടെ പ്രവര്‍ത്തിക്കുന്ന ലാഭേച്ഛയില്ലാത്ത സംഘടന ഉണ്ടാക്കിയതാണ് ഫയര്‍ഫോക്സ്. ലിനക്സിനു വേണ്ടിയുള്ള ഫയര്‍ഫോക്സ് ഇന്നു തന്നെ നേടു!
+
+
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 സ്വതന്ത്ര വൈബ് ബ്രൌസറായ മോസില്ല ഫയര്‍ഫോക്സ് ഡൌണ്‍ലോഡ് ചെയ്യു. ഓണ്‍ലൈനിലെ നിയന്ത്രണം വ്യക്തികള്‍ക്ക് തിരിച്ച് നല്‍കുക എന്ന ഉദ്ദേശത്തോടെ പ്രവര്‍ത്തിക്കുന്ന ലാഭേച്ഛയില്ലാത്ത സംഘടന ഉണ്ടാക്കിയതാണ് ഫയര്‍ഫോക്സ്. വിന്റോസ്, മാക്ക്, ലിനക്സ്, ആന്‍ഡ്രോയിഡ്, ഐഒഎസ് തുടങ്ങിയവയ്ക്കുള്ള ഫയര്‍ഫോക്സ് ഇന്നു തന്നെ നേടു!
+
+
+# /firefox/windows/ social sharing title
+;Download the fastest Firefox for Windows ever
+വിൻഡോസിനായുള്ള, ഏറ്റവും വേഗതയേറിയ ഫയർഫോക്സ് ഡൌൺലോഡ് ചെയ്യുക
+
+
+# /firefox/mac/ social sharing title
+;Download the fastest Firefox for Mac ever
+മാക്കിനു വേണ്ടിയുള്ള, ഏറ്റവും വേഗതയേറിയ ഫയർഫോക്സ് ഡൌൺലോഡ് ചെയ്യുക
+
+
+# /firefox/linux/ social sharing title
+;Download the fastest Firefox for Linux ever
+ലിനക്സിനു വേണ്ടിയുള്ള, ഏറ്റവും വേഗതയേറിയ ഫയർഫോക്സ് ഡൌൺലോഡ് ചെയ്യുക
 
 
 ;Download the fastest Firefox ever
 ഫയര്‍ഫോക്സിന്റെ ഏറ്റവും വേഗതയേറിയ പരിപ്പ് ഡൌണ്‍ലോഡ് ചെയ്യു
 
 
+# /firefox/windows/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+വേഗതയേറിയ പേജ് ലോഡിങ്ങ്, കുറഞ്ഞ മെമ്മറി ഉപയോഗം, കൂടുതല്‍ സവിശേഷതകളുമായ് പുതിയ വിന്‍ഡോസിനായുള്ള ഫയര്‍ഫോക്സ് ഇതാ എത്തി.
+
+
+# /firefox/mac/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+വേഗതയേറിയ പേജ് ലോഡിങ്ങ്, കുറഞ്ഞ മെമ്മറി ഉപയോഗം, കൂടുതല്‍ സവിശേഷതകളുമായ് പുതിയ മാക്കിനായുള്ള ഫയര്‍ഫോക്സ് ഇതാ എത്തി.
+
+
+# /firefox/linux/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+വേഗതയേറിയ പേജ് ലോഡിങ്ങ്, കുറഞ്ഞ മെമ്മറി ഉപയോഗം, കൂടുതല്‍ സവിശേഷതകളുമായ് പുതിയ ലിനക്സിനായുള്ള ഫയര്‍ഫോക്സ് ഇതാ എത്തി.
+
+
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
 വേഗതയേറിയ പേജ് ലോഡിങ്ങ്, കുറഞ്ഞ മെമ്മറി ഉപയോഗം, കൂടുതല്‍ സവിശേഷതകളുമായ് പുതിയ ഫയര്‍ഫോക്സ് ഇതാ എത്തി.
+
+
+;Privacy comes first
+സ്വകാര്യതയ്ക്ക് പ്രഥമ പരിഗണന
+
+
+;Privacy - more than a policy
+സ്വകാര്യത - നയത്തിലുമപ്പുറം
 
 
 ;2x Faster
 രണ്ടിരട്ടി വേഗത
 
 
+;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+
+
+;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+
+
+;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+
+
 ;The best Firefox ever
 ഫയർഫോക്സിന്റെ ഏറ്റവും മികച്ചത്
+
+
+;Common sense privacy
+സാമാന്യബുദ്ധിയുള്ള സ്വകാര്യത
 
 
 ;Lightweight
 ലഘു ഭാരം
 
 
+;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+
+
+;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+
+
+;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+
+
 ;Uses 30% less memory than Chrome
 ക്രോമിനെക്കാള്‍ 30% മെമ്മറി ഉപയോഗം കുറവ്
+
+
+;Block trackers
+ട്രാക്കറുകൾ തടയുക
+
+
+;Open source
+ഓപ്പൺ സോഴ്സ്
+
+
+;Seamless setup
+തടസ്സമില്ലാത്ത ക്രമീകരണം
 
 
 ;Powerfully private
 ശക്തിയേറിയ സ്വകാര്യത
 
 
+;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+
+
+;Look under the hood. Like Linux, Firefox features are open source.
+Look under the hood. Like Linux, Firefox features are open source.
+
+
+;Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Easy migration of preferences and bookmarks when you download Firefox for Windows.
+
+
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+ട്രാക്കിംഗ് സംരക്ഷണമുള്ള സ്വകാര്യ ബ്രൗസിംഗ്
 
 
 # String is obsolete. Do not remove.
@@ -242,11 +371,11 @@ Private Browsing with Tracking Protection
 
 
 ;Take Firefox with You
-Take Firefox with You
+ഫയര്‍ഫോക്സിനെ നിങ്ങളുടെ കൂടെക്കൂട്ടൂ
 
 
 ;Get your bookmarks, history, passwords and other settings on all your devices.
-Get your bookmarks, history, passwords and other settings on all your devices.
+നിങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളിലെയും അടയാളക്കുറിപ്പുകളും ചരിത്രവും രഹസ്യവാക്കുകളും മറ്റു ക്രമീകരണങ്ങളും നേടുക.
 
 
 # Obsolete string, DO NOT REMOVE

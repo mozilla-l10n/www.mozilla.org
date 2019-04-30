@@ -25,22 +25,31 @@ U gebruikt een pre-releaseversie van Firefox.
 U gebruikt een onveilig, verouderd besturingssysteem dat <a href="%(url)s">niet meer door Firefox wordt ondersteund</a>.
 
 
+# /firefox/windows/ main page title. Span is for visually formatting.
+;Firefox fights for you <span>on Windows.</span>
+Firefox vecht voor u <span>op Windows.</span>
+
+
+# /firefox/mac/ main page title. Span is for visually formatting.
+;Firefox respects <span>your privacy on Mac.</span>
+Firefox respecteert <span>uw privacy op Mac.</span>
+
+
+# /firefox/linux/ main page title.
+;Firefox for Linux
+Firefox voor Linux
+
+
 ;The new <strong>Firefox</strong>
 De nieuwe <strong>Firefox</strong>
 
 
+;Own your online life.
+Sta aan het roer van uw onlineleven.
+
+
 ;Fast for good.
 Snel voor het goede.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Maak kennis met Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-Nieuw. Snel. Voor het goede.
 
 
 # Link points to /firefox/new/?scene=2
@@ -190,6 +199,21 @@ Daar gaan we!
 Synchroniseer met Firefox op mobiel:
 
 
+# /firefox/windows/ HTML page title
+;Download Mozilla Firefox for Windows
+Download Mozilla Firefox voor Windows
+
+
+# /firefox/mac/ HTML page title
+;Download Mozilla Firefox for Mac
+Download Mozilla Firefox voor Mac
+
+
+# /firefox/linux/ HTML page title
+;Download Mozilla Firefox for Linux
+Download Mozilla Firefox voor Linux
+
+
 # HTML page title prefix
 ;Download Firefox
 Firefox downloaden
@@ -200,37 +224,142 @@ Firefox downloaden
 Gratis webbrowser
 
 
+# /firefox/windows/ HTML page description
+;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Download Mozilla Firefox voor Windows, een gratis webbrowser. Firefox wordt gemaakt door een wereldwijde non-profitorganisatie die zich inzet om gebruikers online de controle te laten houden. Download nu Firefox voor Windows!
+
+
+# /firefox/mac/ HTML page description
+;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Download Mozilla Firefox voor Mac, een gratis webbrowser. Firefox wordt gemaakt door een wereldwijde non-profitorganisatie die zich inzet om gebruikers online de controle te laten houden. Download nu Firefox voor Mac!
+
+
+# /firefox/linux/ HTML page description
+;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Download Mozilla Firefox voor Linux, een gratis webbrowser. Firefox wordt gemaakt door een wereldwijde non-profitorganisatie die zich inzet om gebruikers online de controle te laten houden. Download nu Firefox voor Linux!
+
+
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Download Mozilla Firefox, een gratis webbrowser. Firefox wordt gemaakt door een wereldwijde non-profitorganisatie die zich inzet om gebruikers online de controle te laten houden. Download Firefox nu voor Windows, macOS, Linux, Android en iOS!
+
+
+# /firefox/windows/ social sharing title
+;Download the fastest Firefox for Windows ever
+Download de snelste Firefox voor Windows ooit
+
+
+# /firefox/mac/ social sharing title
+;Download the fastest Firefox for Mac ever
+Download de snelste Firefox voor Mac ooit
+
+
+# /firefox/linux/ social sharing title
+;Download the fastest Firefox for Linux ever
+Download de snelste Firefox voor Linux ooit
 
 
 ;Download the fastest Firefox ever
 Download de snelste Firefox ooit
 
 
+# /firefox/windows/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+Sneller pagina’s laden, minder geheugengebruik en boordevol functies: de nieuwe Firefox voor Windows is er.
+
+
+# /firefox/mac/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+Sneller pagina’s laden, minder geheugengebruik en boordevol functies: de nieuwe Firefox voor Mac is er.
+
+
+# /firefox/linux/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+Sneller pagina’s laden, minder geheugengebruik en boordevol functies: de nieuwe Firefox voor Linux is er.
+
+
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
 Sneller pagina’s laden, minder geheugengebruik en boordevol functies: de nieuwe Firefox is er.
+
+
+;Privacy comes first
+Privacy staat voorop
+
+
+;Privacy - more than a policy
+Privacy – meer dan een beleid
 
 
 ;2x Faster
 2 x sneller
 
 
+;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox bespioneert geen zoekopdrachten. We stoppen trackingcookies van derden en geven u volledige controle.
+
+
+;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox handelt snel en gaat zorgvuldig om met uw gegevens – geen volgen via advertenties en geen vertraging.
+
+
+;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Uw leven, uw zaken. Firefox blokkeert trackingcookies van derden op Linux.
+
+
 ;The best Firefox ever
 De beste Firefox ooit
+
+
+;Common sense privacy
+Privacy met gezond verstand
 
 
 ;Lightweight
 Lichtgewicht
 
 
+;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Verkrijg snelheid en beveiliging. Firefox is snel op Mac, omdat we uw surfgedrag niet volgen.
+
+
+;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Leef uw leven, Firefox kijkt niet mee. Kies wat u wilt delen en wanneer.
+
+
+;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Snelheid, maak kennis met beveiliging. Firefox is twee keer zo snel met 30% minder geheugengebruik dan Chrome.
+
+
 ;Uses 30% less memory than Chrome
 Gebruikt 30% minder geheugen dan Chrome
 
 
+;Block trackers
+Trackers blokkeren
+
+
+;Open source
+Open source {ok}
+
+
+;Seamless setup
+Probleemloos instellen
+
+
 ;Powerfully private
 Krachtig privé
+
+
+;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Wees de baas over uw terrein met strikte inhoudsblokkering. Snijd alle cookies en trackers de pas af.
+
+
+;Look under the hood. Like Linux, Firefox features are open source.
+Kijk onder de motorkap. Net als Linux zijn Firefox-functies open source.
+
+
+;Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Eenvoudige migratie van voorkeursinstellingen en bladwijzers wanneer u Firefox voor Windows downloadt.
 
 
 ;Private Browsing with Tracking Protection

@@ -25,22 +25,31 @@ Anda sedang menggunakan versi prarilis Firefox.
 Anda menggunakan sistem operasi usang dan tidak aman yang <a href="%(url)s">tidak didukung lagi oleh Firefox</a>.
 
 
+# /firefox/windows/ main page title. Span is for visually formatting.
+;Firefox fights for you <span>on Windows.</span>
+Firefox berjuang untuk Anda <span>di Windows.</span>
+
+
+# /firefox/mac/ main page title. Span is for visually formatting.
+;Firefox respects <span>your privacy on Mac.</span>
+Firefox menghargai <span>privasi Anda di Mac.</span>
+
+
+# /firefox/linux/ main page title.
+;Firefox for Linux
+Firefox untuk Linux
+
+
 ;The new <strong>Firefox</strong>
 <strong>Firefox</strong> baru
 
 
+;Own your online life.
+Miliki kehidupan daring Anda.
+
+
 ;Fast for good.
 Cepat untuk kebaikan.
-
-
-# String is obsolete. Do note remove.
-;Meet Firefox Quantum
-Mari Berjumpa dengan Firefox Quantum
-
-
-# String is obsolete. Do note remove.
-;New. Fast. For good.
-Baru. Cepat. Untuk kebaikan.
 
 
 # Link points to /firefox/new/?scene=2
@@ -190,6 +199,21 @@ Mari lakukan!
 Sinkronkan dengan Firefox di ponsel:
 
 
+# /firefox/windows/ HTML page title
+;Download Mozilla Firefox for Windows
+Unduh Mozilla Firefox untuk Windows
+
+
+# /firefox/mac/ HTML page title
+;Download Mozilla Firefox for Mac
+Unduh Mozilla Firefox untuk Mac
+
+
+# /firefox/linux/ HTML page title
+;Download Mozilla Firefox for Linux
+Unduh Mozilla Firefox untuk Linux
+
+
 # HTML page title prefix
 ;Download Firefox
 Unduh Firefox
@@ -200,37 +224,142 @@ Unduh Firefox
 Peramban Web Gratis
 
 
+# /firefox/windows/ HTML page description
+;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Unduh Mozilla Firefox untuk Windows, peramban Web gratis. Firefox dibuat oleh nirlaba global yang didedikasikan untuk menempatkan individu dalam kendali daring. Dapatkan Firefox untuk Windows hari ini!
+
+
+# /firefox/mac/ HTML page description
+;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Unduh Mozilla Firefox untuk Mac, peramban Web gratis. Firefox dibuat oleh nirlaba global yang didedikasikan untuk menempatkan individu dalam kendali daring. Dapatkan Firefox untuk Mac hari ini!
+
+
+# /firefox/linux/ HTML page description
+;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Unduh Mozilla Firefox untuk Linux, peramban Web gratis. Firefox dibuat oleh nirlaba global yang didedikasikan untuk menempatkan individu dalam kendali daring. Dapatkan Firefox untuk Linux hari ini!
+
+
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
 Unduh Mozilla Firefox, peramban Web gratis. Firefox dibuat oleh nirlaba global yang berdedikasi menempatkan individu dalam mengontrol daring. Dapatkan Firefox untuk Windows, macOS, Linux, Android, dan iOS sekarang juga!
+
+
+# /firefox/windows/ social sharing title
+;Download the fastest Firefox for Windows ever
+Unduh Firefox tercepat yang pernah ada untuk Windows
+
+
+# /firefox/mac/ social sharing title
+;Download the fastest Firefox for Mac ever
+Unduh Firefox tercepat yang pernah ada untuk Mac
+
+
+# /firefox/linux/ social sharing title
+;Download the fastest Firefox for Linux ever
+Unduh Firefox tercepat yang pernah ada untuk Linux
 
 
 ;Download the fastest Firefox ever
 Unduh Firefox tercepat yang pernah ada
 
 
+# /firefox/windows/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+Memuat laman lebih cepat, lebih sedikit penggunaan memori dan dikemas dengan banyak fitur, Firefox baru untuk Windows ada di sini.
+
+
+# /firefox/mac/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+Memuat laman lebih cepat, lebih sedikit penggunaan memori dan dikemas dengan banyak fitur, Firefox baru untuk Mac ada di sini.
+
+
+# /firefox/linux/ social sharing description
+;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+Memuat laman lebih cepat, lebih sedikit penggunaan memori dan dikemas dengan banyak fitur, Firefox baru untuk Linux ada di sini.
+
+
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
 Memuat laman lebih cepat, menggunakan lebih sedikit memori, dan disertai dengan berbagai fitur. Ya, Firefox baru ada di sini.
+
+
+;Privacy comes first
+Privasi adalah yang utama
+
+
+;Privacy - more than a policy
+Privasi - lebih dari sekadar kebijakan
 
 
 ;2x Faster
 2x Lebih Cepat
 
 
+;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox tidak memata-matai pencarian. Kami menghentikan kuki pelacakan pihak ketiga dan memberi Anda kendali penuh.
+
+
+;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox bergerak cepat dan memperlakukan data Anda dengan hati-hati - tanpa pelacakan iklan dan tanpa pelambatan.
+
+
+;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Hidup Anda, bisnis Anda. Firefox memblokir kuki pelacakan pihak ketiga di Linux.
+
+
 ;The best Firefox ever
 Firefox terbaik yang pernah ada
+
+
+;Common sense privacy
+Privasi akal sehat
 
 
 ;Lightweight
 Ringan
 
 
+;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Dapatkan kecepatan dan keamanan. Firefox cepat di Mac karena kami tidak melacak pergerakan Anda.
+
+
+;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Jalani hidup Anda, Firefox tidak mengintip. Pilih apa yang akan dibagikan dan kapan akan dibagikan.
+
+
+;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Kecepatan, bertemu keamanan. Firefox dua kali lebih cepat dengan 30% lebih sedikit memori daripada Chrome.
+
+
 ;Uses 30% less memory than Chrome
 Menggunakan 30% lebih sedikit memori dibandingkan dengan Chrome
 
 
+;Block trackers
+Blokir pelacak
+
+
+;Open source
+Sumber terbuka
+
+
+;Seamless setup
+Pengaturan mulus
+
+
 ;Powerfully private
 Sangat pribadi
+
+
+;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Jadilah penguasa domain Anda dengan pemblokiran konten yang ketat. Potong semua kuki dan pelacak.
+
+
+;Look under the hood. Like Linux, Firefox features are open source.
+Lihat di bawah tenda. Seperti Linux, fitur Firefox adalah open source.
+
+
+;Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Mudahnya migrasi preferensi dan markah ketika Anda mengunduh Firefox untuk Windows.
 
 
 ;Private Browsing with Tracking Protection

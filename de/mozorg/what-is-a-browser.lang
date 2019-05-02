@@ -13,11 +13,11 @@ Ein Internet-Browser bringt dich im Internet überall hin und ermöglicht es dir
 
 
 ;The web is a vast and powerful tool. Over the course of a few decades the internet has changed the way we work, the way we play and the way we interact with one another. Depending on how it’s used, it bridges nations, drives commerce, nurtures relationships, drives the innovation engine of the future and is responsible for more memes than we know what to do with.
-Das Internet ist ein riesiges und machtvolles Tool. Im Lauf von ein paar Jahrzehnten hat das Netz die Art und Weise verändert, wie wir arbeiten, spielen und miteinander interagieren. Abhängig von seiner jeweiligen Nutzung bildet es eine Brücke zwischen Nationen, treibt den Handel voran, fördert Beziehungen und sorgt für künftige Innovationen. Außerdem hat es uns mehr Meme gebracht, als wir bearbeiten können.
+Das Internet ist ein riesiges und machtvolles Tool. Im Laufe von ein paar Jahrzehnten hat das Netz die Art und Weise verändert, wie wir arbeiten, spielen und miteinander interagieren. Abhängig von seiner jeweiligen Nutzung bildet es eine Brücke zwischen Nationen, treibt den Handel voran, fördert Beziehungen und sorgt für künftige Innovationen. Außerdem hat es uns wohl mehr Memes gebracht, als wir jemals nutzen können.
 
 
 ;It’s important that everyone has access to the web, but it’s also vital that we all <a href="%(tools)s">understand the tools</a> we use to access it. We use web browsers like Mozilla Firefox, Google Chrome, Microsoft Edge and Apple Safari every day, but do we understand what they are and how they work?
-Es ist wichtig, dass jeder Zugang zum Web hat. Aber es ist auch entscheidend, dass wir alle <a href="%(tools)s">die Tools</a> verstehen, mit denen wir darauf zugreifen. Jeden Tag verwenden wir Web Browser wie etwa Mozilla Firefox, Google Chrome, Microsoft Edge und Apple Safari. Verstehen wir dabei jedoch, worum es sich handelt und wie diese Browser funktionieren?
+Es ist wichtig, dass jeder Zugang zum Web hat. Aber es ist auch entscheidend, dass wir alle <a href="%(tools)s">die Tools</a> verstehen, mit denen wir darauf zugreifen. Jeden Tag verwenden wir Web Browser wie etwa Mozilla Firefox, Google Chrome, Microsoft Edge und Apple Safari. Verstehen wir dabei aber, was Browser eigentlich sind und wie sie funktionieren?
 
 
 ;In a short period of time we’ve gone from being amazed by the ability to send an email to someone around the world, to a change in how we think of information. It’s not a question of how much you know anymore, but simply a question of what browser or app can get you to that information fastest.
@@ -33,35 +33,35 @@ Wie funktioniert ein Internet-Browser?
 
 
 ;A web browser takes you anywhere on the internet. It retrieves information from other parts of the web and displays it on your desktop or mobile device. The information is transferred using the Hypertext Transfer Protocol, which defines how text, images and video are transmitted on the web. This information needs to be shared and displayed in a consistent format so that people using any browser, anywhere in the world can see the information.
-Ein Internet-Browser bringt dich im Netz überallhin. Er ruft Informationen aus anderen Teilen des Internets ab und zeigt diese auf deinem Desktop oder Mobilgerät an. Diese Informationen werden mittels Hypertext Transfer Protocol übertragen. Dieses definiert, wie Text, Bilder und Videos im Netz übertragen werden. Solche Informationen müssen in einem einheitlichen Format geteilt und angezeigt werden, so dass die Leute, egal welchen Browser sie nutzen, diese Informationen weltweit sehen können.
+Ein Internet-Browser bringt dich im Netz überall hin. Er ruft Informationen aus anderen Teilen des Internets ab und zeigt dir diese auf deinem Desktop oder Mobilgerät an. Diese Informationen werden mittels Hypertext Transfer Protocol übertragen. Dieses definiert, wie Text, Bilder und Videos im Netz übertragen werden. Solche Informationen müssen in einem einheitlichen Format geteilt und angezeigt werden, so dass die Leute, egal welchen Browser sie nutzen, diese Informationen weltweit sehen können.
 
 
 ;Sadly, not all browser makers choose to interpret the format in the same way. For users, this means that a website can look and function differently. Creating consistency between browsers, so that any user can enjoy the internet, regardless of the browser they choose, is called <a href="%(standards)s">web standards</a>.
-Leider entscheiden sich nicht alle Browser-Hersteller dafür, das Format auf dieselbe Weise zu interpretieren. Für Benutzer bedeutet dies, dass eine Website unterschiedlich aussehen und funktionieren kann. Für Konsistenz zwischen Browsern zu sorgen, sodass jeder Benutzer das Internet unabhängig vom ausgewählten Browser genießen kann, wird <a href="%(standards)s">Webstandards</a> genannt.
+Leider interpretieren nicht alle Browser-Hersteller das Format auf die gleiche Art und Weise. Für die User bedeutet das, dass eine Webseite jeweils unterschiedlich aussehen und funktionieren kann. Die Schaffung einer Einheitlichkeit mit dem Ziel, dass jeder User unabhängig vom Browser, den er verwendet, gleichermaßen im Internet surfen kann, wird unter <a href="%(standards)s">Webstandards</a> zusammengefasst.
 
 
 ;When the web browser fetches data from an internet connected server and it then uses a piece of software called a rendering engine to translate that data into text and images. This data is written in <a href="%(html)s">Hypertext Markup Language</a> (HTML) and web browsers read this code to create what we see, hear and experience on the internet.
-Wenn der Web-Browser Daten von einem mit dem Internet verbundenen Server abruft, verwendet er eine als Rendering Engine bezeichnete Software, um diese Daten in Text und Bilder zu übersetzen. Diese Daten sind in <a href="%(html)s">Hypertext Markup Language</a> (HTML) geschrieben. Web-Browser lesen diesen Code, um das zu erstellen, was wir im Internet sehen, hören und erleben.
+Wenn der Internet-Browser Daten von einem Server abruft, der mit dem Internet verbunden ist, verwendet er eine Software, die als Rendering Engine bezeichnet wird. Diese übersetzt die Daten in Text und Bilder. Diese Daten werden in <a href="%(html)s">Hypertext Markup Language</a> (HTML) geschrieben. Internet-Browser lesen diesen Code, um das zu generieren, was wir im Internet sehen, hören und erleben.
 
 
 ;<a href="%(hyperlink)s">Hyperlinks</a> allow users to follow a path to other pages or sites on the web. Every webpage, image and video has its own unique <a href="%(url)s">Uniform Resource Locator</a> (URL), which is also known as a web address. When a browser visits a server for data, the web address tells the browser where to look for each item that is described in the html, which then tells the browser where it goes on the web page.
-Mit <a href="%(hyperlink)s">Hyperlinks</a> können Benutzer einem Pfad zu anderen Seiten oder Websites im Web folgen. Jede Webseite, jedes Bild und jedes Video hat einen eigenen <a href="%(url)s">Uniform Resource Locator</a> (URL), der auch als Internetadresse bezeichnet wird. Wenn ein Browser einen Server nach Daten fragt, teilt die Webadresse dem Browser mit, wo er nach jedem in der HTML-Datei beschriebenen Element suchen muss, was dem Browser dann mitteilt, wohin er sich auf der Webseite bewegt.
+<a href="%(hyperlink)s">Hyperlinks</a> ermöglichen es Usern, einem Pfad zu anderen Webseiten zu folgen. Jede Webseite, jedes Bild und jedes Video hat einen eigenen einmaligen <a href="%(url)s">Uniform Resource Locator</a> (URL). Dieser wird auch als Internet-Adresse bezeichnet. Wenn ein Browser von einem Server Daten abruft, informiert die Internet-Adresse den Browser darüber, wo er jedes Element, das im HTML beschrieben ist, finden kann. Dem Browser wird daraufhin mitgeteilt, wo sich dieses auf der Webseite befindet.
 
 
 ;Cookies (not the yummy kind)
-Cookies (nicht die leckere Art)
+Cookies (nicht die Leckeren zum Essen)
 
 
 ;Websites save information about you in files called <a href="%(cookies)s">cookies</a>. They are saved on your computer for the next time you visit that site. Upon your return, the website code will read that file to see that it’s you. For example, when you go to a website and the page remembers your username and password – that’s made possible by a cookie.
-Websites speichern Informationen über Sie in Dateien namens <a href="%(cookies)s">Cookies</a>. Sie werden für den nächsten Besuch der Website auf Ihrem Computer gespeichert. Bei Ihrer Rückkehr liest der Website-Code diese Datei, um zu sehen, dass Sie es sind. Wenn Sie beispielsweise eine Website besuchen und die Seite Ihren Benutzernamen und Ihr Kennwort noch weiß, wird dies durch ein Cookie möglich.
+Webseiten speichern Informationen über dich in Dateien, die als <a href="%(cookies)s">Cookies</a> bezeichnet werden. Cookies werden auf deinem Rechner für deine zukünftigen Besuche derselben Website gespeichert. Bei deiner Rückkehr liest der Webseiten-Code diese Datei und sieht so, dass du es bist. Wenn du zum Beispiel eine Webseite besuchst und sich diese an deinen Benutzernamen und dein Passwort erinnert, wird ihr das durch ein Cookie ermöglicht.
 
 
 ;There are also cookies that remember more detailed information about you. Perhaps your interests, your web browsing patterns, etc. This means that a site can provide you more targeted content – often in the form of ads. There are types of cookies, called <em>third-party</em> cookies, that come from sites you’re not even visiting at the time and can track you from site to site to gather information about you, which is sometimes sold to other companies. Sometimes you can block these kinds of cookies, though not all browsers allow you to.
-Es gibt auch Cookies, die detailliertere Informationen über Sie speichern. Vielleicht Ihre Interessen, Ihre Surf-Muster usw. Dies bedeutet, dass eine Website Ihnen gezieltere Inhalte anbieten kann – häufig in Form von Anzeigen. Es gibt bestimmte Arten von Cookies, sogenannte <em>Drittanbieter-Cookies</em>. Diese Cookies stammen von Websites, die Sie gerade nicht besuchen, und können Sie von Website zu Website verfolgen, um Informationen über Sie zu sammeln, die manchmal an andere Unternehmen verkauft werden. Manchmal können Sie diese Art von Cookies blockieren, obwohl dies nicht bei allen Browsern möglich ist.
+Es gibt auch Cookies, die sich an detaillierte Informationen über dich erinnern können, wie etwa deine Interessen, deine Verhaltensmuster beim Surfen im Web usw. Das hat zur Folge, dass eine Seite dir gezielter Inhalte zur Verfügung stellen kann – oft in Form von Werbung. Es gibt Arten von Cookies, die als <em>Cookies von Drittanbietern</em> bezeichnet werden und die von Seiten ausgehen, welche du zurzeit noch nicht einmal besuchst, und die deine Aktivitäten von Seite zu Seite nachverfolgen können, um Informationen über dich zu sammeln. Diese Information oder Daten werden manchmal an andere Firmen verkauft. Bisweilen kannst du diese Arten von Cookies sperren. Doch das ermöglichen dir nicht alle Browser.
 
 
 ;When you go to a website and the page remembers your username and password – that’s made possible by a cookie.
-Wenn Sie eine Website besuchen und die Seite Ihren Benutzernamen und Ihr Kennwort noch weiß, wird dies durch ein Cookie möglich.
+Wenn du zum Beispiel eine Webseite besuchst und sich diese an deinen Benutzernamen und dein Passwort erinnert, wird das durch ein Cookie ermöglicht.
 
 
 ;Understanding privacy
@@ -69,22 +69,22 @@ Datenschutz verstehen
 
 
 ;Nearly all major browsers have a private browsing setting. These exist to hide the browsing history from other users on the same computer. Many people think that private browsing or incognito mode will hide both their identity and browsing history from internet service providers, governments and advertisers. They don’t. These settings just clear the history on your system, which is helpful if you’re dealing with sensitive personal information on a shared or public computer. Firefox goes beyond that.
-Nahezu alle gängigen Browser verfügen über einen privaten Modus. Dieser ist vorhanden, um den Browserverlauf vor anderen Benutzern auf demselben Computer zu verbergen. Viele Leute glauben, dass das private Surfen oder der Inkognito-Modus sowohl ihre Identität als auch den Browserverlauf vor Internet Service Providern, Regierungen und Werbetreibenden verbergen wird. Dies ist nicht der Fall. Diese Einstellungen löschen lediglich den Verlauf auf Ihrem System. Dies ist hilfreich, wenn Sie vertrauliche persönliche Informationen auf einem gemeinsamen oder öffentlichen Computer verwenden. Firefox geht darüber hinaus.
+Fast alle größeren Browser haben eine Funktion zum privaten Surfen, welche die Chronik vor anderen Usern am gleichen Computer verbergen kann. Viele Leute denken, dass der private Surf-Modus oder Inkognito-Modus sowohl ihre Identität als auch ihre Chronik vor Internet-Service-Providern, Regierungen und Werbetreibenden verbergen würde. Das ist nicht der Fall. Diese Einstellungen löschen lediglich die Chronik auf deinem PC-System. Das ist nützlich, wenn du auf einem von mehreren Personen genutzten oder öffentlich zugänglichen Computer mit sensiblen persönlichen Daten zu tun hast. Firefox geht darüber hinaus.
 
 
 ;Firefox helps you be more private online by letting you block trackers from following you around the web.
-Firefox hilft Ihnen, mehr Privatsphäre im Internet zu genießen, indem Sie Tracker daran hindern können, Sie im Internet zu verfolgen.
+Firefox hilft dir dabei, deine Privatsphäre online besser zu schützen. Hier hast du die Möglichkeit, Tracker, die dir durchs Netz folgen wollen, einfach zu blockieren.
 
 
 ;Making your web browser work for you
-Damit Ihr Web-Browser Ihre Interessen vertritt
+Passe deinen Internet-Browser an deine Bedürfnisse an
 
 
 ;Most major web browsers let users modify their experience through extensions or add-ons. Extensions are bits of software that you can add to your browser to customize it or add functionality. Extensions can do all kinds of fun and practical things like enabling new features, foreign language dictionaries, or visual appearances and themes.
-Bei den meisten gängigen Webbrowsern können Benutzer ihre Erfahrungen durch Erweiterungen oder Add-ons ändern. Erweiterungen sind Softwarekomponenten, die Sie Ihrem Browser hinzufügen können, um ihn anzupassen oder Funktionen hinzuzufügen. Erweiterungen können alle Arten von Spaß und praktischen Dingen leisten, z.&thinsp;B. neue Funktionen, fremdsprachige Wörterbücher oder Änderungen am Erscheinungsbild und Themes.
+Die meisten größeren Internet-Browser ermöglichen es Usern, Einstellungen über Erweiterungen oder Add-ons zu ändern. Unter Erweiterungen versteht man eine Software, die du zu deinem Browser hinzufügen kannst, um ihn individuell anzupassen oder um für mehr Funktionalität zu sorgen. Erweiterungen ermöglichen zum Beispiel die Aktivierung neuer Features oder fremdsprachlicher Wörterbücher. Du kannst damit aber auch den Look deines Browsers ändern und anpassen.
 
 
 ;All browser makers develop their products to display images and video as quickly and smoothly as possible making it easy for you to make the most of the web. They all work hard to make sure users have a browser that is fast, powerful and easy to use. Where they differ is why. It’s important to choose the right browser for you. Mozilla builds Firefox to ensure that users have control over their online lives and to ensure that the internet is a global, public resource, accessible to all.
-Alle Browser-Hersteller entwickeln ihre Produkte so, dass Bilder und Videos so schnell und reibungslos wie möglich angezeigt werden, sodass Sie das Internet optimal nutzen können. Alle arbeiten hart daran, sicherzustellen, dass Benutzer über einen Browser verfügen, der schnell, leistungsstark und einfach zu bedienen ist. Der Grund ist aber unterschiedlich. Es ist wichtig, den richtigen Browser für Sie auszuwählen. Mozilla entwickelt Firefox, um dafür zu sorgen, dass Benutzer die Kontrolle über ihr Online-Leben haben, und um sicherzustellen, dass das Internet eine globale, öffentliche Ressource ist, die für alle zugänglich ist.
+Alle Browser-Hersteller legen bei der Entwicklung ihrer Produkte Wert darauf, dass Bilder und Videos so schnell und reibungslos wie möglich angezeigt werden, damit du möglichst viel aus dem Internet herausholen kannst. Sie alle leisten harte Arbeit, um dafür zu sorgen, dass User einen Browser nutzen können, der schnell, leistungsstark und einfach zu handhaben ist. Die Gründe aus denen sie das tun unterscheiden sich jedoch. Es ist wichtig, dass du den richtigen Browser für dich auswählst. Mozilla hat Firefox entwickelt, um sicherzugehen, dass die User die Kontrolle über ihr Online-Leben behalten und um dazu beizutragen, dass das Internet als globale öffentliche Ressource allen Menschen zugänglich ist.
 
 

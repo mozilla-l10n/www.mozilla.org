@@ -88,13 +88,13 @@ Vaše přihlášení k odběru zpravodaje bylo potvrzeno.
 
 
 # Name for the newsletter in Newsletter subscription page
-;Firefox + You
-Firefox a vy
+;Firefox News
+Firefox News
 
 
-# Description for the newsletter in Newsletter subscription page (Firefox + You)
-;A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
-Měsíčník o tom obsahující tipy pro zlepšení vašeho prožitku s Firefoxem na vašem počítači i zařízení s Androidem.
+# Description for the newsletter in Newsletter subscription page (Firefox News)
+;Get how-tos, advice and news to make your Firefox experience work best for you.
+Get how-tos, advice and news to make your Firefox experience work best for you.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -148,8 +148,8 @@ Měsíčník o novinkách v Partnerském programu Firefoxu.
 
 
 # Name for the newsletter in Newsletter subscription page
-;Mozilla Developer Newsletter
-Zpravodaj Mozilly pro vývojáře
+;Developer Newsletter
+Developer Newsletter
 
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Developer Newsletter)
@@ -232,13 +232,13 @@ Novinky o betaverzích
 
 
 # Name for the newsletter in Newsletter subscription page
-;Mozilla Foundation
-Mozilla Foundation {ok}
+;Mozilla News
+Mozilla News
 
 
-# Description for the newsletter in Newsletter subscription page (Mozilla Foundation)
-;News and special updates about our work to promote openness, innovation and participation on the Internet, including ways for you to get involved.
-Novinky a zprávy o naší práci, podpoře otevřenosti, inovacích a spolupráci na internetu, včetně způsobů, jak se můžete zapojit.
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+;Regular updates to keep you informed and active in our fight for a better internet.
+Regular updates to keep you informed and active in our fight for a better internet.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -251,8 +251,64 @@ Stav webu
 Novinky a informace týkající se zdravého internetu.
 
 
-;About Addons
-O doplňcích
+# Name for the newsletter in Newsletter subscription page
+;Mozilla Community
+Mozilla Community
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla Community)
+;Join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.
+Join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Internet Health Report
+Internet Health Report
+
+
+# Description for the newsletter in Newsletter subscription page (Internet Health Report)
+;Keep up with our annual compilation of research and stories on the issues of privacy &amp; security, openness, digital inclusion, decentralization, and web literacy.
+Keep up with our annual compilation of research and stories on the issues of privacy &amp; security, openness, digital inclusion, decentralization, and web literacy.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Knowledge is Power
+Knowledge is Power
+
+
+# Description for the newsletter in Newsletter subscription page (Knowledge is Power)
+;Get all the knowledge you need to stay safer and smarter online.
+Get all the knowledge you need to stay safer and smarter online.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Mozilla Labs
+Mozilla Labs
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+;We're building the technology of the future. Come explore with us.
+We're building the technology of the future. Come explore with us.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Take Action for the Internet
+Take Action for the Internet
+
+
+# Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
+;Add your voice to petitions, events and initiatives that fight for the future of the web.
+Add your voice to petitions, events and initiatives that fight for the future of the web.
+
+
+# Name for the newsletter in Newsletter subscription page
+;New Product Testing
+New Product Testing
+
+
+# Description for the newsletter in Newsletter subscription page (New Product Testing)
+;Help us make a better Firefox for you by test-driving our latest products and features.
+Help us make a better Firefox for you by test-driving our latest products and features.
 
 
 ;Firefox OS
@@ -347,6 +403,10 @@ Váš požadavek na zasílání informací je nejprve potřeba potvrdit. Nezapom
 Firefox {ok}
 
 
+;Desktop
+Desktop
+
+
 ;We’re sorry to see you go.
 Je nám líto, že odcházíte.
 
@@ -419,8 +479,8 @@ Jsem místo toho v kontaktu s Mozillou na Facebooku a Twitteru.
 Poslali jsme vám e-mail s odkazem na nastavení našeho zpravodaje. Děkujeme!
 
 
-;Remove me from all Mozilla emails
-Zrušit odběr všech e-mailů od Mozilly
+;Remove me from all the subscriptions on this page
+Remove me from all the subscriptions on this page
 
 
 ;Thanks for telling us why you’re leaving.
@@ -441,10 +501,6 @@ Přidané doplňky
 
 ;%s is not a valid newsletter
 %s není platný zpravodaj
-
-
-;English&nbsp;only
-Pouze&nbsp;anglicky
 
 
 ;This is not a valid email address. Please check the spelling.
@@ -683,5 +739,25 @@ Vaše e-mailová adresa
 # Only localize "yourname". Do not touch @example.com.
 ;yourname@example.com
 vase-adresa@example.com
+
+
+;Not all subscriptions are supported in all the languages listed. Almost all are offered in English, German and French.
+Not all subscriptions are supported in all the languages listed. Almost all are offered in English, German and French.
+
+
+;Text subscribers will receive an email twice a year to confirm continuation of the subscription. Those emails may include HTML.
+Text subscribers will receive an email twice a year to confirm continuation of the subscription. Those emails may include HTML.
+
+
+;Many of our communications are related to an account you’ve signed up for, such as Firefox Accounts, MDN Web Docs, or Add-on Developer. To manage one of your accounts or see a list of all the accounts visit our <a href="%s">account management support page</a>.
+Many of our communications are related to an account you’ve signed up for, such as Firefox Accounts, MDN Web Docs, or Add-on Developer. To manage one of your accounts or see a list of all the accounts visit our <a href="%s">account management support page</a>.
+
+
+;To get access to the whole world of Firefox products, knowledge and services in one account, join us! Learn more about the benefits <a href="%s">here</a>.
+To get access to the whole world of Firefox products, knowledge and services in one account, join us! Learn more about the benefits <a href="%s">here</a>.
+
+
+;There are many ways to engage with Mozilla and Firefox. If you didn’t find what you were looking for here, check out our <a href="%s">community pages</a>.
+There are many ways to engage with Mozilla and Firefox. If you didn’t find what you were looking for here, check out our <a href="%s">community pages</a>.
 
 

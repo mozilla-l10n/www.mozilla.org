@@ -1,5 +1,5 @@
 ## active ##
-## NOTE: https://bedrock-demo-craigcook.oregon-b.moz.works/firefox/accounts/
+## NOTE: https://www-dev.allizom.org/firefox/accounts/
 
 
 # HTML page title
@@ -38,6 +38,24 @@ Already have an account? {ok}
 Sign In {ok}
 
 
+# the span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
+;You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
+You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
+
+
+;See if you’ve been involved in an online data breach.
+See if you’ve been involved in an online data breach.
+
+
+;Sign In to Monitor
+Sign In to Monitor
+
+
+;Firefox is technology that fights for you.
+Firefox is technology that fights for you.
+
+
+# String is obsolete. Do not remove.
 ;Get technology that fights for you.
 Get technology that fights for you. {ok}
 
@@ -63,6 +81,11 @@ Get a lookout for data breaches. {ok}
 Share large files without prying eyes. {ok}
 
 
+;Get it all on every device, without feeling trapped in a single operating system.
+Get it all on every device, without feeling trapped in a single operating system.
+
+
+# String is obsolete. Do not remove.
 ;And get it all on every device, without feeling trapped in a single operating system.
 And get it all on every device, without feeling trapped in a single operating system. {ok}
 

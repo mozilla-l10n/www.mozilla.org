@@ -89,7 +89,7 @@ Muy bien, las primeras fueron fáciles. ¿Qué datos recolectan?
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla sí recolecta una cantidad limitada de datos de manera predeterminada de Firefox que nos ayuda a comprender la manera en que la gente usa el navegador. Estos datos tienen un identificador al azar en lugar de tu nombre o dirección de correo electrónico. Podés leer más acerca de eso en nuestro aviso de privacidad <a href="%(privacy)s"> y podés leer la documentación completa relacionada con esa recolección de datos aquí <a href="%(data)s"></a>.
+Mozilla sí recolecta una cantidad limitada de datos de manera predeterminada de Firefox que nos ayuda a comprender la manera en que la gente usa el navegador. Estos datos tienen un identificador al azar en lugar de tu nombre o dirección de correo electrónico. Podés leer más acerca de eso en nuestro aviso de <a href="%(privacy)s"> privacidad</a> y podés leer la <a href="%(data)s">documentación completa relacionada con esa recolección de datos aquí</a>.
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.

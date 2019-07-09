@@ -28,19 +28,19 @@ Firefox 每隔 6 至 8 周迈入一个新版本，Nightly 的版本号也随之�
 
 
 ;Want to know which platform features you could test on Nightly and can’t see yet on other Firefox channels? Then have a look at the <a href="%(mdn)s">Experimental Features</a> page on <abbr title="Mozilla Developer Network">MDN</abbr>.
-想要了解 Nightly 在测试哪些尚未登录其他 Firefox 版本的功能？那么去看看 <abbr title="Mozilla Developer Network">MDN</abbr> 上的 <a href="%(mdn)s">实验性功能</a> 页面吧。
+想要了解 Nightly 在测试哪些尚未登陆其他 Firefox 版本的功能？去看看 <abbr title="Mozilla Developer Network">MDN</abbr> 上的 <a href="%(mdn)s">实验性功能</a> 页面吧。
 
 
 ;Do you experience crashes? Unexpected behavior? Web compatibility regressions? We’d love to get them filed in <a href="%(bugzilla)s">Bugzilla</a> to make sure they don’t make it to the final release (extra karma if you add the <em>nightly-community</em> keyword to your bug reports)!
-您遇到了崩溃吗？或者意外的行为？Web 兼容性异常？我们欢迎您将其提交到 <a href="%(bugzilla)s">Bugzilla</a> 以确保它们不会出现在最终的正式发布版本！（将 <em>nightly-community</em> 添加到 bug 报告的 keyword 栏则更好）
+您有遇到崩溃吗？或者意外的行为？Web 兼容性异常？我们欢迎您将其提交到 <a href="%(bugzilla)s">Bugzilla</a> 以确保这些问题不会出现在最终的正式发布版本！（将 <em>nightly-community</em> 添加到 bug 报告的 keyword 栏则更好）
 
 
 ;Would you be willing to help us triage unconfirmed bugs in Bugzilla? Then maybe <a href="%(triagebot)s">TriageBot</a> could be of interest to you.
-也许您愿意来帮我们分流 Bugzilla 中尚未确认的缺陷报告？访问 <a href="%(triagebot)s">TriageBot</a> 找到您感兴趣的领域。
+您是否愿意来 Bugzilla 帮我们归类尚未确认的缺陷报告？访问 <a href="%(triagebot)s">TriageBot</a> 找到您感兴趣的领域。
 
 
 ;You can also interact with the Nightly community on IRC in the <a href="%(irc)s">#nightly</a> channel. Feel free to ask questions and talk about features, regressions or crashes you may be experiencing.
-您还可以在 IRC 频道 <a href="%(irc)s">#nightly</a> 中与 Nightly 社区交流。欢迎提出问题和讨论您遇到的任何情况，无论是功能、异常还是崩溃。
+您还可以在 IRC 频道 <a href="%(irc)s">#nightly</a> 中与这个 Nightly 社区交流。欢迎提出问题以及讨论您遇到的情况，无论它是有关功能设计、功能异常还是崩溃。
 
 
 ;Go community!

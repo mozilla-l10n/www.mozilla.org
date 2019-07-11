@@ -32,43 +32,43 @@ Sut mae porwr gwe yn gweithio?
 
 
 ;A web browser takes you anywhere on the internet. It retrieves information from other parts of the web and displays it on your desktop or mobile device. The information is transferred using the Hypertext Transfer Protocol, which defines how text, images and video are transmitted on the web. This information needs to be shared and displayed in a consistent format so that people using any browser, anywhere in the world can see the information.
-A web browser takes you anywhere on the internet. It retrieves information from other parts of the web and displays it on your desktop or mobile device. The information is transferred using the Hypertext Transfer Protocol, which defines how text, images and video are transmitted on the web. This information needs to be shared and displayed in a consistent format so that people using any browser, anywhere in the world can see the information.
+Mae porwr gwe yn mynd â chi i unrhyw le ar y rhyngrwyd. Mae'n estyn gwybodaeth o rannau eraill o'r we a'i arddangos ar eich bwrdd gwaith neu'ch dyfais symudol. Mae'r wybodaeth yn cael ei drosglwyddo gan ddefnyddio'r Protocol Trosglwyddo Hypertestun (Hypertext Transfer Protocol), sy'n diffinio sut mae testun, delweddau a fideo yn cael eu trosglwyddo ar y we. Mae angen i'r wybodaeth hon gael ei rhannu a'i harddangos mewn fformat cyson fel bod pobl sy'n defnyddio unrhyw borwr, unrhyw le yn y byd yn gallu gweld y wybodaeth.
 
 
 ;Sadly, not all browser makers choose to interpret the format in the same way. For users, this means that a website can look and function differently. Creating consistency between browsers, so that any user can enjoy the internet, regardless of the browser they choose, is called <a href="%(standards)s">web standards</a>.
-Sadly, not all browser makers choose to interpret the format in the same way. For users, this means that a website can look and function differently. Creating consistency between browsers, so that any user can enjoy the internet, regardless of the browser they choose, is called <a href="%(standards)s">web standards</a>.
+Yn anffodus, nid yw pob gwneuthurwr porwr yn dewis dehongli'r fformat yn yr un modd. I ddefnyddwyr, mae hyn yn golygu y gall gwefan edrych a gweithredu'n wahanol. Mae creu cysondeb rhwng porwyr, fel y gall unrhyw ddefnyddiwr fwynhau'r rhyngrwyd, waeth beth fo'r porwr y maent yn ei ddewis, yn cael ei alw'n <a href="%(standards)s">safonau gwe</a>.
 
 
 ;When the web browser fetches data from an internet connected server and it then uses a piece of software called a rendering engine to translate that data into text and images. This data is written in <a href="%(html)s">Hypertext Markup Language</a> (HTML) and web browsers read this code to create what we see, hear and experience on the internet.
-When the web browser fetches data from an internet connected server and it then uses a piece of software called a rendering engine to translate that data into text and images. This data is written in <a href="%(html)s">Hypertext Markup Language</a> (HTML) and web browsers read this code to create what we see, hear and experience on the internet.
+Pan fydd y porwr gwe yn nôl data o weinydd sydd wedi'i gysylltu â'r rhyngrwyd, mae'n defnyddio darn o feddalwedd o'r enw peiriant rendro i gyfieithu'r data hwnnw yn destun a delweddau. Ysgrifennwyd y data hwn yn <a href="%(html)s">Iaith Markup Hypertestun</a> (HTML) ac mae porwyr gwe yn darllen y cod hwn i greu'r hyn rydym yn ei weld, ei glywed a'i brofi ar y rhyngrwyd.
 
 
 ;<a href="%(hyperlink)s">Hyperlinks</a> allow users to follow a path to other pages or sites on the web. Every webpage, image and video has its own unique <a href="%(url)s">Uniform Resource Locator</a> (URL), which is also known as a web address. When a browser visits a server for data, the web address tells the browser where to look for each item that is described in the html, which then tells the browser where it goes on the web page.
-<a href="%(hyperlink)s">Hyperlinks</a> allow users to follow a path to other pages or sites on the web. Every webpage, image and video has its own unique <a href="%(url)s">Uniform Resource Locator</a> (URL), which is also known as a web address. When a browser visits a server for data, the web address tells the browser where to look for each item that is described in the html, which then tells the browser where it goes on the web page.
+Mae <a href="%(hyperlink)s">>hyperddolennau</a> yn galluogi defnyddwyr i ddilyn llwybr i dudalennau neu wefannau eraill ar y we. Mae gan bob tudalen we, delwedd a fideo ei <a href="%(url)s">Lleolwr Adnoddau Unffurf (Uniform Resource Locator)</a> (URL), sydd hefyd yn cael ei adnabod fel cyfeiriad gwe. Pan fydd porwr yn ymweld â gweinydd am ddata, mae'r cyfeiriad gwe yn dweud wrth y porwr ble i edrych am bob eitem sy'n cael ei ddisgrifio yn yr html, sydd wedyn yn dweud wrth y porwr lle mae'n mynd ar y dudalen we.
 
 
 ;Cookies (not the yummy kind)
-Cookies (not the yummy kind)
+Cwcis (nid y math blasus)
 
 
 ;Websites save information about you in files called <a href="%(cookies)s">cookies</a>. They are saved on your computer for the next time you visit that site. Upon your return, the website code will read that file to see that it’s you. For example, when you go to a website and the page remembers your username and password – that’s made possible by a cookie.
-Websites save information about you in files called <a href="%(cookies)s">cookies</a>. They are saved on your computer for the next time you visit that site. Upon your return, the website code will read that file to see that it’s you. For example, when you go to a website and the page remembers your username and password – that’s made possible by a cookie.
+Mae gwefannau'n cadw gwybodaeth amdanoch chi mewn ffeiliau o'r enw <a href="%(cookies)s">cwcis</a>. Maen nhw'n cael eu cadw ar eich cyfrifiadur tan y tro nesaf y byddwch yn ymweld â'r wefan honno. Ar ôl ichi ddychwelyd, bydd cod y wefan yn darllen y ffeil honno i weld mai chi sydd yna. Er enghraifft, pan fyddwch chi'n mynd i wefan ac mae'r dudalen yn cofio'ch enw defnyddiwr a'ch cyfrinair - mae hynny'n bosibl trwy gwci.
 
 
 ;There are also cookies that remember more detailed information about you. Perhaps your interests, your web browsing patterns, etc. This means that a site can provide you more targeted content – often in the form of ads. There are types of cookies, called <em>third-party</em> cookies, that come from sites you’re not even visiting at the time and can track you from site to site to gather information about you, which is sometimes sold to other companies. Sometimes you can block these kinds of cookies, though not all browsers allow you to.
-There are also cookies that remember more detailed information about you. Perhaps your interests, your web browsing patterns, etc. This means that a site can provide you more targeted content – often in the form of ads. There are types of cookies, called <em>third-party</em> cookies, that come from sites you’re not even visiting at the time and can track you from site to site to gather information about you, which is sometimes sold to other companies. Sometimes you can block these kinds of cookies, though not all browsers allow you to.
+Mae yna hefyd gwcis sy'n cofio gwybodaeth fwy manwl amdanoch chi. Efallai eich diddordebau, eich patrymau pori ar y we, ac ati. Mae hyn yn golygu y gall gwefan roi mwy o gynnwys wedi'i dargedu i chi - yn aml ar ffurf hysbysebion. Mae yna fathau o gwcis, o'r enw <em>cwcis trydydd parti</em>, sy'n dod o wefannau nad ydych chi hyd yn oed yn ymweld â nhw ar y pryd a gallan nhw eich olrhain o wefan i wefan i gasglu gwybodaeth amdanoch chi, sydd weithiau'n cael ei gwerthu i gwmnïau eraill. Weithiau gallwch rwystro'r mathau hyn o gwcis, er nad yw pob porwr yn caniatáu i chi wneud hynny.
 
 
 ;When you go to a website and the page remembers your username and password – that’s made possible by a cookie.
-When you go to a website and the page remembers your username and password – that’s made possible by a cookie.
+Pan fyddwch chi'n mynd i wefan ac mae'r dudalen yn cofio eich enw defnyddiwr a'ch cyfrinair - mae hynny'n bosibl trwy gwci.
 
 
 ;Understanding privacy
-Understanding privacy
+Deall preifatrwydd
 
 
 ;Nearly all major browsers have a private browsing setting. These exist to hide the browsing history from other users on the same computer. Many people think that private browsing or incognito mode will hide both their identity and browsing history from internet service providers, governments and advertisers. They don’t. These settings just clear the history on your system, which is helpful if you’re dealing with sensitive personal information on a shared or public computer. Firefox goes beyond that.
-Nearly all major browsers have a private browsing setting. These exist to hide the browsing history from other users on the same computer. Many people think that private browsing or incognito mode will hide both their identity and browsing history from internet service providers, governments and advertisers. They don’t. These settings just clear the history on your system, which is helpful if you’re dealing with sensitive personal information on a shared or public computer. Firefox goes beyond that.
+Mae gan bron pob porwr mawr osodiad pori preifat. Mae'r rhain yn bodoli i guddio hanes pori gan ddefnyddwyr eraill ar yr un cyfrifiadur. Mae llawer o bobl yn credu y bydd modd pori preifat neu incognito yn cuddio eu hunaniaeth a'u hanes pori gan ddarparwyr gwasanaethau rhyngrwyd, llywodraethau a hysbysebwyr. Dydyn nhw ddim. Mae'r gosodiadau hyn yn clirio hanes eich system yn unig, sy'n ddefnyddiol os ydych chi'n delio â gwybodaeth bersonol sensitif ar gyfrifiadur sy'n cael ei rannu neu ar gyfrifiadur cyhoeddus. Mae Firefox yn mynd y tu hwnt i hynny.
 
 
 ;Firefox helps you be more private online by letting you block trackers from following you around the web.

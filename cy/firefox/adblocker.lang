@@ -61,69 +61,69 @@ Dewiswch eich lefel o ddiogelwch
 
 
 ;To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
-To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
+I gychwyn, cliciwch ar y ddewislen Firefox yng nghornel dde uchaf eich sgrin. Mae'n edrych fel tair llinell wedi'u pentyrru ar ben ei gilydd. Yn y gwymplen, cliciwch ar Rhwystro Cynnwys. Dylech weld llamlen las gyda gwahanol ddewisiadau.
 
 
 ;Go easy with Standard mode
-Go easy with Standard mode
+Cymryd hi'n hawdd gyda'r modd Safonol
 
 
 ;If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
-If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
+Os nad yw hysbysebion yn eich poeni ac nad ydych chi'n meddwl eich bod yn cael eich dilyn gan dracwyr a chwcis trydydd parti, yna dylai'r gosodiad Safon weithio i chi. I gael offer tracio oddi ar eich cefn yn y modd Safonol, defnyddiwch y ffenestr <a href="%(url)s">>Pori Preifat</a>.
 
 
 ;Get tough with Strict mode
-Get tough with Strict mode
+Mynd yn galed gyda'r modd Llym
 
 
 ;If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
-If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
+Os yw gweld gormod o hysbysebion yn difa eich diwrnod, yna mae'r modd Llym yn well. Bydd y modd hwn yn rhwystro hysbyswyr a chwcis trydydd parti hysbys ym mhob ffenestr Firefox.
 
 
 ;Do-it-yourself Custom mode
-Do-it-yourself Custom mode
+Modd Cyfaddasu
 
 
 ;The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
-The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
+Mae'r gosodiadau Cyfaddas yn cynnig y dewis gorau i chi. Gallwch benderfynu beth rydych chi'n eu rhywstro, gan gynnwys tracwyr, cwcis a mwy. Os ydych chi'n caniatáu cwcis o wefan, byddwch yn awtomatig yn y modd Cyfaddas.
 
 
 # ’Cover your trail’ means cover your browsing history.
 ;Cover your trail, block trackers
-Cover your trail, block trackers
+Cuddio'ch llwybrau, rhwystro tracwyr
 
 
 ;Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
-Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
+Cliciwch ar y blwch Tracwyr a byddwch yn gallu rhwystro tracwyr mewn dwy ffordd. Un ffordd o rwystro tracwyr yw ei wneud pan fyddwch chi'n gweithio mewn Ffenestr Breifat. Ffordd arall o wneud hyn yw rhwystro'r tracwyr ym mhob ffenestr. Cofiwch, os ydych chi'n dewis rhwystro tracwyr bob tro, efallai na fydd rhai tudalennau'n llwytho'n gywir.
 
 
 ;Take a bite out of cookies
-Take a bite out of cookies
+Cnoi'r cwcis
 
 
 ;<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
-<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
+Mae gwefannau rydych chi'n ymweld â nhw yn anfon <a href="%(url)s">cwcis</a>. Maen nhw'n byw ar eich cyfrifiadur ac yn monitro'r hyn rydych chi wedi bod yn ei wneud ar wefan. Pan fydd cwmni hedfan yn codi eich cyfraddau oherwydd eich bod wedi edrych ar docynnau awyren unwaith yn barod y diwrnod hwnnw, dyna waith llaw cwci.
 
 
 ;In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
-In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
+Yn Firefox, gallwch rwystro pob cwcis trydydd parti neu dim ond y rhai sy'n cael eu gan dracwyr. Byddwch yn ymwybodol y gall atal pob cwci dorri rhai gwefannau.
 
 
 ;Send a Do Not Track signal
-Send a Do Not Track signal
+Anfon signal Peidiwch â Thracio
 
 
 # ’Thanks but no thanks’ here means to reject ads.
 ;If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
-If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
+Os nad ydych chi am i'ch ymddygiad ar-lein gael ei ddefnyddio ar gyfer hysbysebion, gallwch anfon llythyr cwrtais at wefannau “diolch ond dim diolch” drwy dicio'r dewis <a href="%(url)s">Peidiwch â Thracio</a> yn Firefox. Mae cyfranogiad yn wirfoddol, ond bydd y gwefannau sy'n cymryd rhan yn rhoi'r gorau i'ch tracio ar unwaith.
 
 
 ;Speed up thanks to ad blockers
-Speed up thanks to ad blockers
+Cyflymu diolch i rwystryddion hysbysebion
 
 
 ;In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
-In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
+Mewn rhai achosion, gall rhwystrydd hysbysebion helpu'ch porwr i fynd yn gyflymach. Pan fydd hysbyseb yn llwytho, gall arafu gwefan. Ar yr un pryd, mae'n cymryd mwy o amser i ddod o hyd i'r hyn rydych chi'n chwilio amdano os ydych chi'n rhy brysur yn cau hysbysebion.
 
 
 ;If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.

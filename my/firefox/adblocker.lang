@@ -28,7 +28,7 @@
 
 
 ;These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
-These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
+ဤကြော်ငြာများသည် အသံကျယ်ဗီဒီယိုပါရှိနိုင်သည့်အပြင် သင့်အားဝဘ်ပေါ်တွင် ခြေရာခံမှုများများ၊ကွတ်ကီးများနှင့်အခြားအရာများပါနိုင်သည်။ ကြော်ငြာဖျောက်ဖျက်မှုအားသုံးလိုလျှင် ဘရောက်ဇာတွင်ရနိုင်သောအက်အွန်များကိုရှာဖွေ၍သုံးပါ။ <a href="%(firefox)s">Firefox</a>ဥပမာအားဖြင့်<a href="%(addons)s">ကြော်ငြာဖျောက်ဖျက်မှုစာရင်းများ</a> ဤစာရင်းများကို သင့်လိုအပ်သလိုရွေးချယ်၍နှိပ်ပါ။
 
 
 ;Find the right ad blocker for you
@@ -102,11 +102,11 @@ Click on the Trackers box and you’ll be able to block trackers in two ways. On
 
 
 ;<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
-<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
+<a href="%(url)s">ကွတ်ကီးများ</a>ထားရှိခြင်းသည် သင်လည်ပတ်သောဆိုက်များနှင့်သင့်လှုပ်ရှားမှုများကိုစောင့်ကြည့်ပြီးသင့်လှုပ်ရှားမှုများနှင့်ပတ်သက်သောကြော်ငြာများဝင်ရောက်စေသည်။
 
 
 ;In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
-In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
+Firefoxတွင် ပြင်ပကြော်ငြာများခြေရာခံမှုများကို သင့်တားမြစ်နိုင်သည်။ အချို့ကွတ်ကီးများတားမြစ်ခြင်းသည် အချို့ဆိုက်များကိုဖျောက်ဖျက်နိုင်သည်ကို သတိပြုပါ။
 
 
 ;Send a Do Not Track signal
@@ -115,7 +115,7 @@ In Firefox, you can block all third-party cookies or just those set by trackers.
 
 # ’Thanks but no thanks’ here means to reject ads.
 ;If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
-If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
+သင်အွန်လိုင်းပေါ်ကြော်ငြာများကို မကြည့်လိုလျှင် “ကျေးဇူးတင်ပါတယ်မပြပါနှင့်” ဟု ယဉ်ကျေးစွာဝက်ဆိုက်သို့ Firefoxရဲ့<a href="%(url)s">ခြေရာခံခြင်းပိတ်ပါ</a>ရွေးချယ်မှုကိုရွေး၍ပို့နိုင်ပါသည်။ ဤသို့လုပ်ခြင်းသည် သင့်ကိုခြေရာခံမှုမှ ချက်ချင်းပင်ရပ်တန့်နိုင်သည်။
 
 
 ;Speed up thanks to ad blockers
@@ -123,7 +123,7 @@ If you don’t want your online behavior used for ads, you can send websites a p
 
 
 ;In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
-In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
+အချို့ကိစ္စများတွင် ကြော်ငြာဖျောက်ဖျက်မှုခြင်းဖြင့် သင့်ဘရောက်ဇာကို လျင်မြန်စေနိုင်သည်။ ကြော်ငြာများတက်လာလျှင် သင်ကြည့်နေသောဆိုက်ကိုနှေးကွေးစေသည်။တစ်ချိန်တည်းမှာပဲ အခြားကြော်ငြာများကို မပိတ်မိလျှင် သင်၏ရှာဖွေမှုကို ကြန့်ကြာစေသည်။
 
 
 ;If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.

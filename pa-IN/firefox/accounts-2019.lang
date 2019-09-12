@@ -1,3 +1,5 @@
+
+Warning: Cannot modify header information - headers already sent by (output started at /Users/ccook/Sites/langchecker/vendor/mozillal10n/json/src/Json/Json.php:36) in /Users/ccook/Sites/langchecker/app/classes/Langchecker/LangManager.php on line 240
 ## NOTE: https://www-dev.allizom.org/firefox/accounts/
 
 
@@ -60,6 +62,11 @@ Firefox ਨਾਲ ਜੁੜੋ
 ਨਿਗਰਾਨ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ
 
 
+;Meet our family of privacy-first products.
+Meet our family of privacy-first products.
+
+
+# String is obsolete. Do not remove.
 ;Firefox is technology that fights for you.
 ਤੁਹਾਡੇ ਲਈ ਲੜਨ ਵਾਲੀ ਤਕਨੀਕ ਹੈ ਫਾਇਰਫਾਕਸ।
 

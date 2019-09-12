@@ -1,3 +1,5 @@
+
+Warning: Cannot modify header information - headers already sent by (output started at /Users/ccook/Sites/langchecker/vendor/mozillal10n/json/src/Json/Json.php:36) in /Users/ccook/Sites/langchecker/app/classes/Langchecker/LangManager.php on line 240
 ## active ##
 ## accounts-metadata-072019 ##
 ## accounts-signed-in-06132019 ##
@@ -63,6 +65,11 @@
 შედით Monitor-ის ანგარიშზე
 
 
+;Meet our family of privacy-first products.
+Meet our family of privacy-first products.
+
+
+# String is obsolete. Do not remove.
 ;Firefox is technology that fights for you.
 Firefox არის ტექნოლოგია, რომელიც თქვენთვის იბრძვის.
 

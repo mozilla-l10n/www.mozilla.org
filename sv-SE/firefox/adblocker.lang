@@ -29,7 +29,7 @@ En annonsblockerare är en mjukvara som kan användas för att blockera annonser
 
 
 ;These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
-Dessa annonser kan vara höga videoannonser, annonser som följer dig på nätet, trackers, kakor från tredje part och mer. Om du vill använda en annonsblockerare kan du söka efter tillägg för annonsblockerare som är tillgängliga i din webbläsare. <a href="%(firefox)s">Firefox</a> har till exempel <a href="%(addons)s">den här listan över godkända tillägg för annonsblockering</a>. Klicka på den här listan (eller annonsblockerare som är godkända för din webbläsare) och se vilka som passar dina behov.
+Dessa annonser kan vara höga videoannonser, annonser som följer dig på nätet, spårare, kakor från tredje part och mer. Om du vill använda en annonsblockerare kan du söka efter tillägg för annonsblockerare som är tillgängliga i din webbläsare. <a href="%(firefox)s">Firefox</a> har till exempel <a href="%(addons)s">den här listan över godkända tillägg för annonsblockering</a>. Klicka på den här listan (eller annonsblockerare som är godkända för din webbläsare) och se vilka som passar dina behov.
 
 
 ;Find the right ad blocker for you
@@ -50,7 +50,7 @@ En av de mest populära annonsblockerarna för Chrome, Safari och Firefox är <a
 
 # A tracker-free zone means a no tracker zone.
 ;Create a tracker-free zone with Content Blocking
-Skapa en tracker-fri zon med innehållsblockering
+Skapa en spårningsfri zon med innehållsblockering
 
 
 ;On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
@@ -70,7 +70,7 @@ Ta det lumgt med standardläget
 
 
 ;If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
-Om annonser inte stör dig och du inte bryr dig om att följas av trackers och tredjepartskakor, bör standardinställningen fungera för dig. För att slippa trackers i standardläget, använd fönstret <a href="%(url)s">Privat surfning</a>.
+Om annonser inte stör dig och du inte bryr dig om att följas av spårare och tredjepartskakor, bör standardinställningen fungera för dig. För att slippa spårare i standardläget, använd fönstret <a href="%(url)s">Privat surfning</a>.
 
 
 ;Get tough with Strict mode
@@ -86,16 +86,16 @@ Anpassat läge med egna inställningar
 
 
 ;The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
-Den anpassade inställningen ger dig det ultimata valet. Du kan bestämma vad du blockerar, inklusive trackers, kakor och mer. Om du tillåter kakor från en webbplats hamnar du automatiskt i anpassat läge.
+Den anpassade inställningen ger dig det ultimata valet. Du kan bestämma vad du blockerar, inklusive spårare, kakor och mer. Om du tillåter kakor från en webbplats hamnar du automatiskt i anpassat läge.
 
 
 # ’Cover your trail’ means cover your browsing history.
 ;Cover your trail, block trackers
-Täck ditt spår, blockera trackers
+Täck ditt spår, blockera spårare
 
 
 ;Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
-Klicka på rutan Trackers så kan du blockera trackers på två sätt. Ett sätt att blockera trackers är att göra det när du arbetar i ett privat fönster. Ett annat sätt att göra det är att blockera trackers i alla fönster. Tänk på att om du väljer att alltid blockera trackers kanske vissa sidor inte laddas korrekt.
+Klicka på rutan Spårare så kan du blockera spårare på två sätt. Ett sätt att blockera spårare är att göra det när du arbetar i ett privat fönster. Ett annat sätt att göra det är att blockera spårare i alla fönster. Tänk på att om du väljer att alltid blockera spårare kanske vissa sidor inte laddas korrekt.
 
 
 ;Take a bite out of cookies
@@ -107,7 +107,7 @@ Ta en bit av kakor
 
 
 ;In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
-I Firefox kan du blockera alla kakor från tredje part eller bara de som ställs in av trackers. Var medveten om att blockering av alla kakor kan störa vissa webbplatser.
+I Firefox kan du blockera alla kakor från tredje part eller bara de som ställs in av spårare. Var medveten om att blockering av alla kakor kan störa vissa webbplatser.
 
 
 ;Send a Do Not Track signal

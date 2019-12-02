@@ -43,6 +43,14 @@ Nuevas herramientas
 Herramientas de desarrollo de Firefox
 
 
+;Inactive CSS
+Inactive CSS
+
+
+;Firefox DevTools now grays out CSS declarations that don’t have an effect on the page. When you hover over the info icon, you’ll see a useful message about why the CSS is not being applied, including a hint about how to fix the problem.
+Firefox DevTools now grays out CSS declarations that don’t have an effect on the page. When you hover over the info icon, you’ll see a useful message about why the CSS is not being applied, including a hint about how to fix the problem.
+
+
 # Link points to http://firefox-dev.tools/
 ;Learn more about Firefox developer tools
 Aprende más sobre las herramientas de desarrollador de Firefox
@@ -74,14 +82,17 @@ Aprende más sobre las cuadrículas CSS
 Firefox es el único navegador con herramientas integradas específicamente para construir y diseñar con cuadrículas CSS. Estas herramientas te permiten visualizar la cuadrícula, mostrar nombres de áreas asociadas, previsualizar transformaciones en la cuadrícula y mucho más.
 
 
+# String is obsolete. Do not remove.
 ;Convenient Features
 Funciones convenientes
 
 
+# String is obsolete. Do not remove.
 ;Shapes Editor
 Editor de formas
 
 
+# String is obsolete. Do not remove.
 ;Firefox DevTools has a brand new shape path editor that takes the guesswork out of fine-tuning your shape-outside and clip-path shapes by allowing you to very easily fine-tune your adjustments with a visual editor.
 Firefox DevTools tiene un renovado editor de formas que te quita las incógnitas del trabajo permitiéndote hacer ajustes finos a las formas y trayectorias permitiéndote trabajar de mejor manera con el editor visual.
 

@@ -43,6 +43,14 @@ Nové nástroje
 Nástroje pre vývojárov vo Firefoxe
 
 
+;Inactive CSS
+Inactive CSS
+
+
+;Firefox DevTools now grays out CSS declarations that don’t have an effect on the page. When you hover over the info icon, you’ll see a useful message about why the CSS is not being applied, including a hint about how to fix the problem.
+Firefox DevTools now grays out CSS declarations that don’t have an effect on the page. When you hover over the info icon, you’ll see a useful message about why the CSS is not being applied, including a hint about how to fix the problem.
+
+
 # Link points to http://firefox-dev.tools/
 ;Learn more about Firefox developer tools
 Ďalšie informácie o nástrojoch pre vývojárov vo Firefoxe
@@ -74,14 +82,17 @@ Ovládnite CSS Grid
 Firefox je jediný prehliadač, ktorý obsahuje nástroje špeciálne vyvinuté pre tvorbu a dizajn CSS Gridu. Tieto nástroje vám umožňujú vizualizovať grid, zobrazovať priradené názvy oblastí, zobrazovať transformácie gridu a mnohé ďalšie.
 
 
+# String is obsolete. Do not remove.
 ;Convenient Features
 Užitočné funkcie
 
 
+# String is obsolete. Do not remove.
 ;Shapes Editor
 Editor tvarov
 
 
+# String is obsolete. Do not remove.
 ;Firefox DevTools has a brand new shape path editor that takes the guesswork out of fine-tuning your shape-outside and clip-path shapes by allowing you to very easily fine-tune your adjustments with a visual editor.
 Vývojárske nástroje vo Firefoxe obsahujú nový editor tvarov. Toto je ďalší krok v snahe Firefoxu o zjednodušenie života vývojárov.
 

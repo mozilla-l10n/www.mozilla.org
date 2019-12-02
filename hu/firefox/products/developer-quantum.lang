@@ -43,6 +43,14 @@ A Firefox az alapoktól lett újjáépítve, hogy gyorsabb és hatékonyabb legy
 Firefox fejlesztői eszközök
 
 
+;Inactive CSS
+Inactive CSS
+
+
+;Firefox DevTools now grays out CSS declarations that don’t have an effect on the page. When you hover over the info icon, you’ll see a useful message about why the CSS is not being applied, including a hint about how to fix the problem.
+Firefox DevTools now grays out CSS declarations that don’t have an effect on the page. When you hover over the info icon, you’ll see a useful message about why the CSS is not being applied, including a hint about how to fix the problem.
+
+
 # Link points to http://firefox-dev.tools/
 ;Learn more about Firefox developer tools
 Tudjon meg többet a Firefox fejlesztőeszközökről
@@ -74,14 +82,17 @@ Tudjon meg többet a CSS Gridről
 A Firefox az egyetlen böngésző, amely olyan eszközökkel érkezik, amelyek kifejezetten CSS rácsok tervezésére és összeállítására lettek készítve. Ezekkel az eszközökkel vizualizálhatja a rácsot, megjelenítheti a hozzájuk tartozó területneveket, megtekintheti a transzformációk előnézetét a rácson, és ez még nem minden.
 
 
+# String is obsolete. Do not remove.
 ;Convenient Features
 Kényelmes funkciók
 
 
+# String is obsolete. Do not remove.
 ;Shapes Editor
 Alakzatszerkesztő
 
 
+# String is obsolete. Do not remove.
 ;Firefox DevTools has a brand new shape path editor that takes the guesswork out of fine-tuning your shape-outside and clip-path shapes by allowing you to very easily fine-tune your adjustments with a visual editor.
 A Firefox DevTools egy vadonatúj alakzatútvonal-szerkesztővel rendelkezik, amely megszünteti a találgatást a shape-outside és a clip-path alakzatok finomhangolása közben, lehetővé téve a beállítások egy vizuális szerkesztővel történő finomhangolását.
 

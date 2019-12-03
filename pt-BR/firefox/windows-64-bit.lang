@@ -26,7 +26,7 @@ Qual a diferença entre 32-bit e 64-bit?
 
 # The term "fret not" can be translated as "not to worry", or "don’t worry".
 ;Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
-Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
+A principal coisa a saber: aplicações de 64 bits podem acessar mais memória e têm menos probabilidade de travar do que aplicações de 32 bits. Além disso, com o salto de 32 para 64 bits, um recurso de segurança chamado <a href=%(ASLR)s>Randomização de layout de espaço de endereço (ASLR)</a> funciona melhor para proteger você de invasores. Se for usuário de Linux ou macOS, não se preocupe, você já desfruta de um Firefox otimizado para 64 bits.
 
 
 ;How do you get 64-bit Firefox?
@@ -34,19 +34,19 @@ Como obter o Firefox 64-bit?
 
 
 ;If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
-If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
+Se você estiver executando um Windows de 64 bits (<a href="%(version)s">veja como verificar</a>), seu Firefox já pode ser de 64 bits. <a href="%(check)s">Verifique a versão do seu Firefox</a> (na janela "Sobre o Firefox") e procure "(32 bits)" ou "(64 bits)" após o número da versão:
 
 
 ;If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
-If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
+Se você ver “(32 bits)” e estiver executando o Firefox 56.0 ou mais antigo, atualizar para a versão mais recente do Firefox deve mudar automaticamente para 64 bits.
 
 
 ;If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
-If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
+Se você ver "(32 bits)" e estiver executando o Firefox 56.0.1 ou mais recente, seu computador pode não atender o requisito mínimo de memória para 64 bits (3 GB ou mais de RAM). Se quiser, ainda pode instalar manualmente o Firefox de 64 bits.
 
 
 ;If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>
-If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>
+Se precisar executar o Firefox de 32 bits ou instalar manualmente o Firefox de 64 bits, basta baixar e executar novamente o instalador do Firefox de Windows (32 ou 64 bits) a partir da <a href="%(all)s">página de download de plataformas e idiomas do Firefox</a>.
 
 
 ;Take control of your browser.

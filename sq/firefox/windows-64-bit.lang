@@ -26,30 +26,30 @@ Cili është dallimi me 32-bitëshit dhe 64-bitëshit?
 
 # The term "fret not" can be translated as "not to worry", or "don’t worry".
 ;Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
-Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
+Ja pika kyçe që duhet ditur: aplikacionet 64-bitëshe mund të përdorin më tepër kujtesë dhe kanë më pak gjasa të vithisen, se sa ato 32-bitëshe. Gjithashtu, me kalimin prej 32 te 64 bite, një veçori sigurie, e quajtur <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> funksionon më mirë, për t’ju mbrojtur nga agresorë. Përdorues të Linux-it dhe macOS-it, mos u merakosni, shijoni tashmë një Firefox që është optimizuar për 64-bit.
 
 
 ;How do you get 64-bit Firefox?
-How do you get 64-bit Firefox?
+Si mund të merrni Firefox 64-bitësh?
 
 
 ;If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
-If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
+Nëse xhironi Windows 64-bit (<a href="%(version)s">ja se si të shihni versionin</a>), Firefox-i juaj mund të jetë tashmë 64-bit. <a href="%(check)s">Shihni versionin tuaj të Firefox-it</a> (te dritarja “Mbi Firefox-in”) dhe shihni për “(32-bit)” ose “(64-bit)” pas numri të versionit:
 
 
 ;If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
-If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
+Nëse shihni “(32-bit)” dhe xhironi Firefox 56.0 ose më të vjetër, përditësimi me versionin më të ri të Firefox-it do të duhej ta përmirësonte automatikisht në 64-bit.
 
 
 ;If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
-If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
+Nëse shihni “(32-bit)” dhe xhironi Firefox 56.0.1 ose më të ri, atëherë kompjuteri juaj mund të mos plotësojë domosdoshmëritë minimum mbi kujtesën për 64-bit (3 GB RAM ose më tepër). Mundeni ta instaloni Firefox-in 64-bitësh edhe dorazi, nëse doni.
 
 
 ;If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>
-If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>
+Nëse ju duhet të punoni me Firefox 32-bitësh ose të instaloni dorazi Firefox-in 64-bitësh, mundeni thjesht të shkarkoni dhe rixhironi instaluesin e Firefox-it për Windows (32-bit ose 64-bit) që nga <a href="%(all)s">faqja e shkarkimeve të Firefox-it sipas platformash dhe gjuhësh.</a>
 
 
 ;Take control of your browser.
-Take control of your browser.
+Merrni në dorë kontrollin e shfletuesit tuaj.
 
 

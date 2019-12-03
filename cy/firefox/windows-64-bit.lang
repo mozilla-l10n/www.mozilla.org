@@ -1,55 +1,55 @@
 # HTML page title.
 ;Firefox for Windows 64-bit
-Firefox for Windows 64-bit
+Firefox ar gyfer Windows 64-did
 
 
 # HTML page description.
 ;Users on 64-bit Windows who download Firefox can get our 64-bit version by default. That means you get a more secure version of Firefox.
-Users on 64-bit Windows who download Firefox can get our 64-bit version by default. That means you get a more secure version of Firefox.
+Gall defnyddwyr ar Windows 64-bit sy'n llwytho Firefox i lawr gael ein fersiwn 64-did yn ragosodedig. Mae hynny'n golygu eich bod chi'n cael fersiwn mwy diogel o Firefox.
 
 
 ;64-bit
-64-bit
+64-did
 
 
 ;A more secure Firefox.
-A more secure Firefox.
+Firefox mwy diogel.
 
 
 ;Users on 64-bit Windows who download Firefox can get our 64-bit version by default. That means you get a more secure version of Firefox, one that also <a href="%(crashes)s">crashes a whole lot less</a>. How much less? In our tests so far, 64-bit Firefox reduced crashes by 39%% on machines with 4GB of RAM or more.
-Users on 64-bit Windows who download Firefox can get our 64-bit version by default. That means you get a more secure version of Firefox, one that also <a href="%(crashes)s">crashes a whole lot less</a>. How much less? In our tests so far, 64-bit Firefox reduced crashes by 39%% on machines with 4GB of RAM or more.
+Gall defnyddwyr ar Windows 64-bit sy'n llwytho Firefox i lawr gael ein fersiwn 64-did yn ragosodedig. Mae hynny'n golygu eich bod chi'n cael fersiwn mwy diogel o Firefox, un sydd hefyd <a href="%(crashes)s">yn chwalu llawer iawn llai</a>. Faint yn llai? Yn ein profion hyd yn hyn, lleihaodd Firefox 64-bit chwaliadau o 39 %% ar beiriannau gyda 4GB o RAM neu fwy.
 
 
 ;What’s the difference between 32-bit and 64-bit?
-What’s the difference between 32-bit and 64-bit?
+Beth yw'r gwahaniaeth rhwng 32-did a 64-did?
 
 
 # The term "fret not" can be translated as "not to worry", or "don’t worry".
 ;Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
-Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
+Dyma’r peth allweddol i wybod amdano: gall rhaglenni 64-did gael mynediad at fwy o gof ac maen nhw'n llai tebygol o chwalu na rhaglenni 32-did. Hefyd, gyda'r naid o 32 i 64 did, mae nodwedd ddiogelwch o'r enw <a href=%(ASLR)s>Hap Gynllun Gofod Cyfeiriad(ASLR) </a> yn gweithio'n well i'ch diogelu rhag ymosodwyr. Defnyddwyr Linux a macOS, peidiwch â phoeni, rydych chi eisoes yn mwynhau Firefox sydd wedi'i optimeiddio ar gyfer 64-did.
 
 
 ;How do you get 64-bit Firefox?
-How do you get 64-bit Firefox?
+Sut wnaethoch chi gael Firefox 64-did?
 
 
 ;If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
-If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
+Os ydych chi'n rhedeg Windows 64-did (<a href="%(version)s">dyma sut i wirio</a>), efallai bod eich Firefox eisoes yn 64-did. <a href="%(check)s">Gwiriwch eich fersiwn Firefox</a> (yn y ffenestr “Ynghylch Firefox”) a chwiliwch am “(32-did)” neu “(64-did)” ar ôl y fersiwn rhif:
 
 
 ;If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
-If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
+Os ydych chi'n gweld “(32-did)” a'ch bod chi'n rhedeg Firefox 56.0 neu'n hŷn, bydd diweddaru i'r fersiwn Firefox ddiweddaraf eich uwchraddio i 64-did yn awtomatig.
 
 
 ;If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
-If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
+Os ydych chi'n gweld “(32-did)” ac yn rhedeg Firefox 56.0.1 neu'n ddiweddarach, yna efallai na fydd eich cyfrifiadur yn cwrdd â'r gofyniad cof lleiaf ar gyfer 64-did (3 GB RAM neu fwy). Gallwch barhau i osod Firefox 64-did â llaw, os hoffech chi.
 
 
 ;If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>
-If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>
+Os oes angen i chi redeg Firefox 32-did neu osod Firefox 64-did â llaw, gallwch lwytho i lawr ac ail-redeg gosodwr Firefox Windows (32-did neu 64-did) o'r <a href="%(all)s">Dudalen llwytho i lawr llwyfannau ac ieithoedd Firefox.</a>
 
 
 ;Take control of your browser.
-Take control of your browser.
+Cymerwch reolaeth o'ch porwr.
 
 

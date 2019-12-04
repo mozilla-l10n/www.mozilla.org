@@ -49,7 +49,7 @@ Inaktiv CSS
 
 
 ;Firefox DevTools now grays out CSS declarations that don’t have an effect on the page. When you hover over the info icon, you’ll see a useful message about why the CSS is not being applied, including a hint about how to fix the problem.
-Firefox DevTools gråer nå ut CSS-deklarasjoner som ikke har noen innvirkning på siden. Når du holder musepekeren over informasjonsikonet, ser du en nyttig melding om hvorfor CSS ikke blir brukt, inkludert et hint om hvordan du løser problemet.
+Firefox DevTools bruker ikke CSS-deklarasjoner som ikke har noen innvirkning på siden. Når du holder musepekeren over informasjonsikonet, ser du en nyttig melding om hvorfor CSS ikke blir brukt, inkludert et hint om hvordan du løser problemet.
 
 
 # Link points to http://firefox-dev.tools/

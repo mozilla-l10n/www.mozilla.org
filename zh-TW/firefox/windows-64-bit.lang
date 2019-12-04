@@ -17,7 +17,7 @@ Windows 64 位元版的使用者，預設會在我們的網站下載到 64 位�
 
 
 ;Users on 64-bit Windows who download Firefox can get our 64-bit version by default. That means you get a more secure version of Firefox, one that also <a href="%(crashes)s">crashes a whole lot less</a>. How much less? In our tests so far, 64-bit Firefox reduced crashes by 39%% on machines with 4GB of RAM or more.
-預設情況下，使用 64 位元 Windows 的使用者會下載到 64 位元版本的 Firefox。這代表您可以獲得更安全，也<a href="%(crashes)s">更不容易發生錯誤</a>的 Firefox。錯誤減少多少呢？在我們的測試中，於擁有超過 4GB RAM 的電腦，64 位元的版本的錯誤發生率減少了 39%%。
+預設情況下，使用 64 位元 Windows 的使用者會下載到 64 位元版本的 Firefox。這代表您會獲得更安全，也<a href="%(crashes)s">更不容易發生錯誤</a>的 Firefox。錯誤減少多少呢？在我們的測試中，於擁有超過 4GB RAM 的電腦，64 位元的版本的錯誤發生率減少了 39%%。
 
 
 ;What’s the difference between 32-bit and 64-bit?
@@ -26,7 +26,7 @@ Windows 64 位元版的使用者，預設會在我們的網站下載到 64 位�
 
 # The term "fret not" can be translated as "not to worry", or "don’t worry".
 ;Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
-重點來了: 64 位元的應用程式比起 32 位元可以使用更多記憶體，更不容易發生錯誤。另外，進化到 64 位元版本後，有個叫做<a href=%(ASLR)s>記憶體位置空間隨機配置（ASLR）</a>的功能，更能保護您不受攻擊。Linux 與 macOS 使用者也別擔心，您已經擁有針對 64 位元環境最佳化的 Firefox 了。
+重點來了: 64 位元的應用程式比起 32 位元可以使用更多記憶體，也更不容易發生錯誤。另外，進化到 64 位元版本後，有個叫做<a href=%(ASLR)s>記憶體位置空間隨機配置（ASLR）</a>的功能，更能保護您不受攻擊。Linux 與 macOS 使用者也別擔心，您已經擁有針對 64 位元環境最佳化的 Firefox 了。
 
 
 ;How do you get 64-bit Firefox?
@@ -34,19 +34,19 @@ Windows 64 位元版的使用者，預設會在我們的網站下載到 64 位�
 
 
 ;If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
-If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
+若您使用的是 64 位元的 Windows（<a href="%(version)s">確認方式</a>），您的 Firefox 可能已經是 64 位元版本了。可以到「關於 Firefox」視窗<a href="%(check)s">確認您的 Firefox 版本</a>，看版本號後面是否有「（32 位元）」或「（64 位元）」的字樣:
 
 
 ;If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
-If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
+若您使用的是 Firefox 56.0 或更舊版本且看到「（32 位元）」，更新到最新版的 Firefox 就會自動升級為 64 位元版本。
 
 
 ;If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
-If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
+若您使用的是 Firefox 56.0.1 或更新版本且看到「（32 位元）」，代表電腦可能不符合 64 位元版本的最低記憶體需求（至少 3GB）。您想要的話還是可以手動安裝 64 位元版本 Firefox。
 
 
 ;If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>
-If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>
+若您需要使用 32 位元版本或手動安裝 64 位元版本 Firefox，可以直接到<a href="%(all)s">Firefox 所有平台與語言版本下載頁面</a>下載對應的 Firefox 安裝程式進行安裝。
 
 
 ;Take control of your browser.

@@ -26,30 +26,30 @@ Wat is het verschil tussen 32-bits en 64-bits?
 
 # The term "fret not" can be translated as "not to worry", or "don’t worry".
 ;Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
-Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
+Dit is het belangrijkste om te weten: 64-bits toepassingen hebben toegang tot meer geheugen en crashen minder snel dan 32-bits toepassingen. Met de sprong van 32- naar 64-bits werkt ook een beveiligingsfunctie genaamd <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> beter om u te beschermen tegen aanvallers. Linux- en macOS-gebruikers, maak u geen zorgen, u geniet al van een Firefox die is geoptimaliseerd voor 64-bit.
 
 
 ;How do you get 64-bit Firefox?
-How do you get 64-bit Firefox?
+Hoe downloadt u 64-bits Firefox?
 
 
 ;If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
-If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
+Als u 64-bits Windows gebruikt (<a href="%(version)s">hier kunt u dit controleren</a>), is uw Firefox mogelijk al 64-bits. <a href="%(check)s">Controleer uw Firefox-versie</a> (in het venster ‘Over Firefox’) en zoek naar ‘(32-bits)’ of ‘(64-bits)’ na het versienummer:
 
 
 ;If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
-If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
+Als u ‘(32-bits)’ ziet en u gebruikt Firefox 56.0 of ouder, dan zou bijwerken naar de nieuwste versie van Firefox u automatisch moeten upgraden naar 64-bits.
 
 
 ;If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
-If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
+Als u ‘(32-bits)’ ziet en Firefox 56.0.1 of nieuwer gebruikt, dan voldoet uw computer mogelijk niet aan de minimale geheugenvereiste voor 64-bits (3 GB RAM of meer). U kunt 64-bits Firefox desgewenst nog steeds handmatig installeren.
 
 
 ;If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>
-If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>
+Als u 32-bits Firefox moet uitvoeren of 64-bits Firefox handmatig moet installeren, dan kunt u eenvoudig het Windows (32-bits of 64-bits) Firefox-installatieprogramma downloaden en opnieuw uitvoeren vanuit de <a href="%(all)s">Firefox-downloadpagina voor platforms en talen.</a>
 
 
 ;Take control of your browser.
-Take control of your browser.
+Neem de controle over uw browser.
 
 

@@ -26,7 +26,7 @@ Apa perbedaan antara 32-bit dan 64-bit?
 
 # The term "fret not" can be translated as "not to worry", or "don’t worry".
 ;Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
-Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
+Hal utama yang perlu diketahui: aplikasi 64-bit dapat mengakses lebih banyak memori dan cenderung lebih jarang mogok daripada aplikasi 32-bit. Juga, dengan lompatan dari 32 menjadi 64 bit, fitur keamanan yang disebut <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> dapat berfungsi lebih baik dalam melindungi Anda dari para penyerang. Pengguna Linux dan macOS, jangan khawatir, Anda telah menikmati Firefox yang dioptimalkan untuk 64-bit.
 
 
 ;How do you get 64-bit Firefox?
@@ -34,19 +34,19 @@ Bagaimana Anda mendapatkan Firefox 64-bit?
 
 
 ;If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
-If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
+Jika Anda menjalankan Windows 64-bit (<a href="%(version)s">begini cara memeriksanya</a>), Firefox Anda mungkin sudah 64-bit. <a href="%(check)s">Periksa versi Firefox Anda</a> (di jendela "Tentang Firefox") dan cari "(32-bit)" atau "(64-bit)" setelah nomor versi:
 
 
 ;If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
-If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
+Jika Anda melihat “(32-bit)” dan Anda menjalankan Firefox 56.0 atau versi sebelumnya, memperbarui ke versi Firefox terbaru akan secara otomatis meningkatkan Anda ke 64-bit.
 
 
 ;If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
-If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
+Jika Anda melihat “(32-bit)” dan menjalankan Firefox 56.0.1 atau versi setelahnya, maka komputer Anda mungkin tidak memenuhi persyaratan memori minimum untuk 64-bit (RAM 3 GB atau lebih). Anda masih dapat menginstal Firefox 64-bit secara manual, jika Anda mau.
 
 
 ;If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>
-If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>
+Jika Anda perlu menjalankan Firefox 32-bit atau menginstal Firefox 64-bit secara manual, Anda dapat mengunduh dan menjalankan kembali penginstal Firefox Windows (32-bit atau 64-bit) dari <a href="%(all)s">laman unduhan platform dan bahasa Firefox.</a>
 
 
 ;Take control of your browser.

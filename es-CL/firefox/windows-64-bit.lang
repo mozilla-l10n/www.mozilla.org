@@ -17,7 +17,7 @@ Un Firefox más seguro.
 
 
 ;Users on 64-bit Windows who download Firefox can get our 64-bit version by default. That means you get a more secure version of Firefox, one that also <a href="%(crashes)s">crashes a whole lot less</a>. How much less? In our tests so far, 64-bit Firefox reduced crashes by 39%% on machines with 4GB of RAM or more.
-Users on 64-bit Windows who download Firefox can get our 64-bit version by default. That means you get a more secure version of Firefox, one that also <a href="%(crashes)s">crashes a whole lot less</a>. How much less? In our tests so far, 64-bit Firefox reduced crashes by 39%% on machines with 4GB of RAM or more.
+Los usuarios de Windows de 64 bits que descarguen Firefox pueden obtener nuestra versión de 64 bits de forma predeterminada. Eso significa que obtienes una versión más segura de Firefox, una que también <a href="%(crashes)s">falla mucho menos</a>. ¿Cuanto menos? En nuestras pruebas hasta el momento, Firefox de 64 bits redujo los fallos en un 39 %% en máquinas con 4 GB de RAM o más.
 
 
 ;What’s the difference between 32-bit and 64-bit?
@@ -26,7 +26,7 @@ Users on 64-bit Windows who download Firefox can get our 64-bit version by defau
 
 # The term "fret not" can be translated as "not to worry", or "don’t worry".
 ;Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
-Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
+Aquí está lo más importante: las aplicaciones de 64-bit pueden acceder a más memoria y tienen menos probabilidades de fallar que las aplicaciones de 32-bit. Además, con el salto de 32 a 64-bit, una característica de seguridad llamada <a href=%(ASLR)s>Aleatorización del diseño del espacio de direcciones (ASLR)</a> funciona mejor para protegerte de los atacantes. Usuarios de Linux y macOS, no se preocupen, ya disfrutan de un Firefox que está optimizado para 64 bits.
 
 
 ;How do you get 64-bit Firefox?
@@ -34,19 +34,19 @@ Here’s the key thing to know: 64-bit applications can access more memory and a
 
 
 ;If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
-If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
+Si estás ejecutando Windows de 64-bit (<a href="%(version)s">aquí te mostramos cómo comprobarlo</a>), puede que tu Firefox ya sea de 64-bit. <a href="%(check)s">Verifica tu versión de Firefox</a> (en la ventana "Acerca de Firefox") y busca por "(32-bit)" o "(64-bit)" después del número de la versión:
 
 
 ;If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
-If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
+Si ves "(32-bit)" y estás ejecutando Firefox 56.0 o anterior, la actualización a la última versión de Firefox debería actualizarte automáticamente a 64-bit.
 
 
 ;If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
-If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
+Si ves "(32-bit)" y estás ejecutando Firefox 56.0.1 o posterior, es posible que tu computadora no cumpla con los requisitos mínimos de memoria para 64-bit (3 GB de RAM o más). Todavía puedes instalar manualmente Firefox de 64-bit, si es que lo deseas.
 
 
 ;If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>
-If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>
+Si necesitas ejecutar Firefox de 32-bit o instalar manualmente Firefox de 64-bit, puedes simplemente descargar y volver a ejecutar el instalador de Firefox para Windows (32-bit o 64-bit) desde <a href="%(all)s">la página de descarga de Firefox para las diversas plataformas e idiomas.</a>
 
 
 ;Take control of your browser.

@@ -34,15 +34,15 @@ Hogyan szerezheti be a 64 bites Firefoxot?
 
 
 ;If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
-If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
+Ha 64 bites Windowst futtat (<a href="%(version)s">így ellenőrizheti</a>), akkor már lehet hogy 64 bites Firefoxot használt. <a href="%(check)s">Ellenőrizze a Firefox verzióját</a> (az „A Firefox névjegye” ablakban) és keresse a (32 bites) vagy (64 bites) címkét a verziószám után: 
 
 
 ;If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
-If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
+Ha a „(32 bites)” címkét látja, és a Firefox 56.0-s vagy régebbi verzióját futtatja, akkor a legfrissebb Firefox verzióra frissítés automatikusan 64 bites verzióra váltást eredményez.
 
 
 ;If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
-If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
+Ha a „(32 bites)” címkét látja, és a Firefox 56.0.1-es vagy újabb verzióját futtatja, akkor lehet, hogy a számítógépe nem felel meg a 64 bites verzió minimális memóriakövetelményének (3 GB vagy több memória). Természetesen ha úgy dönt, kézzel is telepítheti a 64 bites Firefoxot.
 
 
 ;If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>

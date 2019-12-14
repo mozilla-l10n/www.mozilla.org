@@ -24,32 +24,32 @@ Keskimääräinen henkilö näkee noin 4000 mainosta päivässä. Jos arvelet se
 
 
 ;An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
-An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
+Mainosten estolla voidaan estää mainoksia, ja se toimii kahdella tavalla. Ensiksi mainosten esto estää signaalin mainostajan palvelimelta, jolloin mainos ei koskaan näy sivulla. Toiseksi mainosten esto piilottaa sellaisia verkkosivuston osia, joita se arvelee mainoksiksi.
 
 
 ;These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
-These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
+Nämä mainokset voivat olla äänekäitä videomainoksia, mainoksia, jotka seuraavat sinua verkossa, seuraimia, kolmansien osapuolten evästeitä tai muita vastaavia. Voit käyttää mainosten estäjää etsimällä selaimessa käytettävissä olevia mainosten eston lisäosia. Esimerkiksi <a href="%(firefox)s">Firefoxilla</a> on <a href="%(addons)s">tämä hyväksi katsottujen lisäosien luettelo</a>. Napsauta tätä luetteloa (tai selaimesi suosittelemia mainosten estäjiä) ja harkitse, mikä sopii tarpeisiisi.
 
 
 ;Find the right ad blocker for you
-Find the right ad blocker for you
+Löydä sinulle sopivin mainosten estäjä
 
 
 ;There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
-There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
+<a href="%(url)s">AdBlocker Ultimate</a> estää kaikki mainokset, mutta ole varovainen. Jotkin suosikkilehtesi ja aikakausilehtesi ovat riippuvaisia mainostuloista. Liian monen ihmisen estäessä niiden mainokset ne voivat joutua taloudellisiin vaikeuksiin.
 
 
 ;Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
-Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
+Ponnahdusikkunamainokset ovat pahimpia. Estä ne <a href="%(url)s">Popup Blockerilla</a>, etkä enää koskaan näe ponnahdusikkunamainoksia.
 
 
 ;One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
-One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
+Yksi suosituimmista Chromen, Safarin ja Firefoxin mainosten estäjistä on<a href="%(url)s">AdBlock</a>. Estä sillä mainokset Facebookissa, YouTubessa ja Hulussa.
 
 
 # A tracker-free zone means a no tracker zone.
 ;Create a tracker-free zone with Content Blocking
-Create a tracker-free zone with Content Blocking
+Luo jäljitinvapaa-alue Sisällönestämisellä
 
 
 ;On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
@@ -65,11 +65,11 @@ To start, click on the Firefox menu in the top right-hand corner of your screen.
 
 
 ;Go easy with Standard mode
-Go easy with Standard mode
+Tyydy Tavalliseen
 
 
 ;If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
-If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
+Jos mainokset eivät häiritse sinua ja et ajattele, että seuraimet ja kolmansien osapuolien evästeet seuraavat sinua liikaa, normaaliasetusten pitäisi riittää. Voit karistaa seuraimet kannoiltasi <a href="%(url)s">Yksityisessä ikkunassa</a>.
 
 
 ;Get tough with Strict mode

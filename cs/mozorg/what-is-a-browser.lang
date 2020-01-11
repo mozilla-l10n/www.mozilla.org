@@ -3,64 +3,64 @@
 
 # HTML page title
 ;What is a web browser?
-What is a web browser?
+Co je webový prohlížeč?
 
 
 # HTML page description
 ;A web browser takes you anywhere on the internet, letting you see text, images and video from anywhere in the world.
-A web browser takes you anywhere on the internet, letting you see text, images and video from anywhere in the world.
+Webový prohlížeč vás provádí po internetu, zobrazuje texty webových stránek, obrázky a videa.
 
 
 ;The web is a vast and powerful tool. Over the course of a few decades the internet has changed the way we work, the way we play and the way we interact with one another. Depending on how it’s used, it bridges nations, drives commerce, nurtures relationships, drives the innovation engine of the future and is responsible for more memes than we know what to do with.
-The web is a vast and powerful tool. Over the course of a few decades the internet has changed the way we work, the way we play and the way we interact with one another. Depending on how it’s used, it bridges nations, drives commerce, nurtures relationships, drives the innovation engine of the future and is responsible for more memes than we know what to do with.
+Web je obrovsky mocný nástroj. Během několika desítek let změnil způsob naší práce, jak si hrajeme i jak spolu komunikujeme. V závislosti na jeho použití propojuje národy, řídí obchod, spojuje lidi a utužuje vztahy, pomáhá inovacím do budoucna a najdete na něm víc obrázků a memů, než dokážete použít.
 
 
 ;It’s important that everyone has access to the web, but it’s also vital that we all <a href="%(tools)s">understand the tools</a> we use to access it. We use web browsers like Mozilla Firefox, Google Chrome, Microsoft Edge and Apple Safari every day, but do we understand what they are and how they work?
-It’s important that everyone has access to the web, but it’s also vital that we all <a href="%(tools)s">understand the tools</a> we use to access it. We use web browsers like Mozilla Firefox, Google Chrome, Microsoft Edge and Apple Safari every day, but do we understand what they are and how they work?
+Je důležité, abychom měli každý k internetu přístup, ale také abychom <a href="%(tools)s">rozuměli nástrojům</a>, které na něm používáme. Každý den používáme prohlížeče jako Mozilla Firefox, Google Chrome, Microsoft Edge nebo Apple Safari, ale rozumíme dobře tomu, co dělají?
 
 
 ;In a short period of time we’ve gone from being amazed by the ability to send an email to someone around the world, to a change in how we think of information. It’s not a question of how much you know anymore, but simply a question of what browser or app can get you to that information fastest.
-In a short period of time we’ve gone from being amazed by the ability to send an email to someone around the world, to a change in how we think of information. It’s not a question of how much you know anymore, but simply a question of what browser or app can get you to that information fastest.
+Během krátké chvíle jsme ušli cestu od posílání e-mailů přes půlku světa až po kompletní změnu vnímání informací. Už není otázkou, kolik se toho na internetu dozvíte, ale s kterým prohlížečem nebo aplikací se k nim nejrychleji dostanete.
 
 
 ;In a short period of time we’ve gone from being amazed by the ability to send an email to someone around the world, to a change in how we think about information.
-In a short period of time we’ve gone from being amazed by the ability to send an email to someone around the world, to a change in how we think about information.
+Během krátké chvíle jsme ušli cestu od posílání e-mailů přes půlku světa až po kompletní změnu vnímání informací.
 
 
 ;How does a web browser work?
-How does a web browser work?
+Jak funguje webový prohlížeč?
 
 
 ;A web browser takes you anywhere on the internet. It retrieves information from other parts of the web and displays it on your desktop or mobile device. The information is transferred using the Hypertext Transfer Protocol, which defines how text, images and video are transmitted on the web. This information needs to be shared and displayed in a consistent format so that people using any browser, anywhere in the world can see the information.
-A web browser takes you anywhere on the internet. It retrieves information from other parts of the web and displays it on your desktop or mobile device. The information is transferred using the Hypertext Transfer Protocol, which defines how text, images and video are transmitted on the web. This information needs to be shared and displayed in a consistent format so that people using any browser, anywhere in the world can see the information.
+Webový prohlížeč vás provádí po internetu. Stahuje informace z různých částí webu a zobrazuje je na vašem počítači nebo mobilním zařízení. Text, obrázky a videa se po internetu přenášejí pomocí protokolu nazvaného Hypertext Transfer Protocol. Vše musí být dostupné ve formátu přístupném každému bez ohledu na to, jaký webový prohlížeč používá.
 
 
 ;Sadly, not all browser makers choose to interpret the format in the same way. For users, this means that a website can look and function differently. Creating consistency between browsers, so that any user can enjoy the internet, regardless of the browser they choose, is called <a href="%(standards)s">web standards</a>.
-Sadly, not all browser makers choose to interpret the format in the same way. For users, this means that a website can look and function differently. Creating consistency between browsers, so that any user can enjoy the internet, regardless of the browser they choose, is called <a href="%(standards)s">web standards</a>.
+Bohužel ne všichni autoři webových prohlížečů interpretují data stejným způsobem. Pro uživatele to znamená, že se jim stránky nemusí zobrazovat stejně. Konzistentní chování prohlížečů, aby si každý mohl internet užívat stejně, zajišťují <a href="%(standards)s">webové standardy</a>.
 
 
 ;When the web browser fetches data from an internet connected server and it then uses a piece of software called a rendering engine to translate that data into text and images. This data is written in <a href="%(html)s">Hypertext Markup Language</a> (HTML) and web browsers read this code to create what we see, hear and experience on the internet.
-When the web browser fetches data from an internet connected server and it then uses a piece of software called a rendering engine to translate that data into text and images. This data is written in <a href="%(html)s">Hypertext Markup Language</a> (HTML) and web browsers read this code to create what we see, hear and experience on the internet.
+Po stažení dat z internetového serveru použije prohlížeč součást nazvanou „vykreslovací jádro“, které je převede na text a obrázky na obrazovce. Tato data jsou psaná v jazyce <a href="%(html)s">Hypertext Markup Language</a> (HTML) a webové prohlížeče na základě jeho kódu vytváří všechno, co na internetu vidíme nebo slyšíme.
 
 
 ;<a href="%(hyperlink)s">Hyperlinks</a> allow users to follow a path to other pages or sites on the web. Every webpage, image and video has its own unique <a href="%(url)s">Uniform Resource Locator</a> (URL), which is also known as a web address. When a browser visits a server for data, the web address tells the browser where to look for each item that is described in the html, which then tells the browser where it goes on the web page.
-<a href="%(hyperlink)s">Hyperlinks</a> allow users to follow a path to other pages or sites on the web. Every webpage, image and video has its own unique <a href="%(url)s">Uniform Resource Locator</a> (URL), which is also known as a web address. When a browser visits a server for data, the web address tells the browser where to look for each item that is described in the html, which then tells the browser where it goes on the web page.
+Pomocí <a href="%(hyperlink)s">webových odkazů</a> mohou uživatelé na webu procházet mezi jednotlivými stránky. Každá stránka, obrázek nebo video mají svou unikátní adresu nazvývanou <a href="%(url)s">Uniform Resource Locator</a> (URL), známou také jako webovou adresu. Ta říká prohlížeči, kde najít HTML kód s daty webové stránky, a ten zase říká, kam je má na stránce umístit.
 
 
 ;Cookies (not the yummy kind)
-Cookies (not the yummy kind)
+Cookies (nebo také sušenky)
 
 
 ;Websites save information about you in files called <a href="%(cookies)s">cookies</a>. They are saved on your computer for the next time you visit that site. Upon your return, the website code will read that file to see that it’s you. For example, when you go to a website and the page remembers your username and password – that’s made possible by a cookie.
-Websites save information about you in files called <a href="%(cookies)s">cookies</a>. They are saved on your computer for the next time you visit that site. Upon your return, the website code will read that file to see that it’s you. For example, when you go to a website and the page remembers your username and password – that’s made possible by a cookie.
+Webové stránky mohou ukládat data do souborů zvaných <a href="%(cookies)s">cookies</a> (angl. sušenky). Ty se ukládají do vašeho počítače pro příště, až zase danou stránku navštívíte. V tu chvíli k nim má webové stránka opět přístup. Tak si mohou stránky pamatovat vaše přihlášení nebo kdo jste, a to jenom díky existenci cookies.
 
 
 ;There are also cookies that remember more detailed information about you. Perhaps your interests, your web browsing patterns, etc. This means that a site can provide you more targeted content – often in the form of ads. There are types of cookies, called <em>third-party</em> cookies, that come from sites you’re not even visiting at the time and can track you from site to site to gather information about you, which is sometimes sold to other companies. Sometimes you can block these kinds of cookies, though not all browsers allow you to.
-There are also cookies that remember more detailed information about you. Perhaps your interests, your web browsing patterns, etc. This means that a site can provide you more targeted content – often in the form of ads. There are types of cookies, called <em>third-party</em> cookies, that come from sites you’re not even visiting at the time and can track you from site to site to gather information about you, which is sometimes sold to other companies. Sometimes you can block these kinds of cookies, though not all browsers allow you to.
+Cookies mohou obsahovat i podrobnější informace, jako jsou vaše zájmy nebo jaké stránky prohlížíte. Ty vám pak mohou zobrazovat cílený obsah a reklamy. Existují také tzv. <em>cookies třetích stran</em>, které pochází od stránek, které jste ani nenavštívili, a mohou být použity k vašemu sledování a získávání podrobných informací, které mohou být potenciálně zpeněžitelné. Některé prohlížeče umožňují blokování takových cookies.
 
 
 ;When you go to a website and the page remembers your username and password – that’s made possible by a cookie.
-When you go to a website and the page remembers your username and password – that’s made possible by a cookie.
+Webové stránky si mohou pamatovat vaše přihlášení díky cookies.
 
 
 ;Understanding privacy
@@ -68,22 +68,22 @@ Porozumějte soukromí
 
 
 ;Nearly all major browsers have a private browsing setting. These exist to hide the browsing history from other users on the same computer. Many people think that private browsing or incognito mode will hide both their identity and browsing history from internet service providers, governments and advertisers. They don’t. These settings just clear the history on your system, which is helpful if you’re dealing with sensitive personal information on a shared or public computer. Firefox goes beyond that.
-Nearly all major browsers have a private browsing setting. These exist to hide the browsing history from other users on the same computer. Many people think that private browsing or incognito mode will hide both their identity and browsing history from internet service providers, governments and advertisers. They don’t. These settings just clear the history on your system, which is helpful if you’re dealing with sensitive personal information on a shared or public computer. Firefox goes beyond that.
+Téměř všechny hlavní prohlížeče mají režim anonymního prohlížení. Ten slouží k ochraně vaší historie prohlížení před ostatními uživateli stejného počítače. Mnoho lidí si ale myslí, že tento režim skryje jejich identitu také před poskytovatelem internetového připojení, reklamními společnostmi nebo vládou. To ale není pravda. Anonymní režim pouze smaže historii prohlížení z vašeho počítače. Firefox ale dělá i něco více.
 
 
 ;Firefox helps you be more private online by letting you block trackers from following you around the web.
-Firefox helps you be more private online by letting you block trackers from following you around the web.
+Firefox ochrání vaše soukromí pomocí blokování sledovacích prvků, které by vás jinak pozorovaly kdekoliv na webu.
 
 
 ;Making your web browser work for you
-Making your web browser work for you
+Přizpůsobení prohlížeče vašim potřebám
 
 
 ;Most major web browsers let users modify their experience through extensions or add-ons. Extensions are bits of software that you can add to your browser to customize it or add functionality. Extensions can do all kinds of fun and practical things like enabling new features, foreign language dictionaries, or visual appearances and themes.
-Most major web browsers let users modify their experience through extensions or add-ons. Extensions are bits of software that you can add to your browser to customize it or add functionality. Extensions can do all kinds of fun and practical things like enabling new features, foreign language dictionaries, or visual appearances and themes.
+Většina webových prohlížečů nabízí možnost přizpůsobení pomocí rozšíření a doplňků. Rozšíření jsou malé prográmky, které si můžete přidat do prohlížeče a upravit jeho fungování. Dokáží dělat spoustu věcí od přidávání nových funkcí, překladových slovníků po změnu vzhledu prohlížeče.
 
 
 ;All browser makers develop their products to display images and video as quickly and smoothly as possible making it easy for you to make the most of the web. They all work hard to make sure users have a browser that is fast, powerful and easy to use. Where they differ is why. It’s important to choose the right browser for you. Mozilla builds Firefox to ensure that users have control over their online lives and to ensure that the internet is a global, public resource, accessible to all.
-All browser makers develop their products to display images and video as quickly and smoothly as possible making it easy for you to make the most of the web. They all work hard to make sure users have a browser that is fast, powerful and easy to use. Where they differ is why. It’s important to choose the right browser for you. Mozilla builds Firefox to ensure that users have control over their online lives and to ensure that the internet is a global, public resource, accessible to all.
+Všichni autoři webových prohlížečů se snaží o co nejrychlejší zobrazování obrázků a videa, abyste je mohli snadno prohlížet. Jejich cílem je nabídnout vám prohlížeč, který je rychlý, výkonný a zároveň se snadno používá. Rozdíl je hlavně v důvodech, které k tomu mají. Proto je důležité si vybrat ten správný prohlížeč. Mozilla vyvíjí Firefox, aby zajistila uživatelům kontrolu nad jejich online životem a aby internet zůstal veřejným a celosvětově přístupným zdrojem.
 
 

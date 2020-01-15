@@ -26,7 +26,7 @@ Quelle est la différence entre 32 bits et 64 bits ?
 
 # The term "fret not" can be translated as "not to worry", or "don’t worry".
 ;Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
-Ce qu’il faut retenir : les applications 64 bits peuvent accéder à plus de mémoire et sont moins susceptibles de planter que les applications 32 bits. De même, en passant 32 à 64 bits, une fonction de sécurité appelée <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> est optimale pour vous protéger contre les pirates. Si vous utilisez Linux ou macOS, ne vous inquiétez pas, vous profitez déjà d’un Firefox optimisé pour le 64 bits.
+Ce qu’il faut retenir : les applications 64 bits peuvent accéder à plus de mémoire et sont moins susceptibles de planter que les applications 32 bits. De même, en passant de 32 à 64 bits, une fonction de sécurité appelée <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> est optimale pour vous protéger contre les pirates. Si vous utilisez Linux ou macOS, ne vous inquiétez pas, vous profitez déjà d’un Firefox optimisé pour le 64 bits.
 
 
 ;How do you get 64-bit Firefox?

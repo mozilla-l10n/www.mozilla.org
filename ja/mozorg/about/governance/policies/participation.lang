@@ -11,6 +11,11 @@
 Mozilla コミュニティ参加ガイドライン
 
 
+;Version 3.1 – Updated January 16, 2020
+Version 3.1 – Updated January 16, 2020
+
+
+# String is obsolete. Do not remove.
 ;Version 3.0 – Updated November 28, 2018
 バージョン 3.0 – 2018年11月28日更新
 
@@ -70,6 +75,10 @@ Mozilla の中心となるのは「人」です。私たちは「人」を最優
 
 ;Race and/or ethnicity
 人種あるいは民族
+
+
+;Caste
+Caste
 
 
 ;National origin
@@ -153,6 +162,11 @@ Mozilla コミュニティ外で、実際に、あるいはオンライン上で
 尊重
 
 
+;Value each other’s ideas, styles and viewpoints. We may not always agree, but disagreement is no excuse for poor manners. Be open to different possibilities and to being wrong. Be respectful in all interactions and communications, especially when debating the merits of different options. Be aware of your impact and how intense interactions may be affecting people. Be direct, constructive and positive. Take responsibility for your impact and your mistakes – if someone says they have been harmed through your words or actions, listen carefully, apologize sincerely, and correct the behavior going forward.
+Value each other’s ideas, styles and viewpoints. We may not always agree, but disagreement is no excuse for poor manners. Be open to different possibilities and to being wrong. Be respectful in all interactions and communications, especially when debating the merits of different options. Be aware of your impact and how intense interactions may be affecting people. Be direct, constructive and positive. Take responsibility for your impact and your mistakes – if someone says they have been harmed through your words or actions, listen carefully, apologize sincerely, and correct the behavior going forward.
+
+
+# String is obsolete. Do not remove.
 ;Value each other’s ideas, styles and viewpoints. We may not always agree, but disagreement is no excuse for poor manners. Be open to different possibilities and to being wrong. Be kind in all interactions and communications, especially when debating the merits of different options. Be aware of your impact and how intense interactions may be affecting people. Be direct, constructive and positive. Take responsibility for your impact and your mistakes – if someone says they have been harmed through your words or actions, listen carefully, apologize sincerely, and correct the behavior going forward.
 お互いのアイデア、スタイル、視点を大切にしましょう。常に同意する必要はありませんが、意見の相違を誤った行いの言い訳にすることはできません。異なる可能性に目を開き、間違えることにオープンでいましょう。異なるオプションのメリットを議論するときは特に、すべてのやり取りやコミュニケーションにおいて寛容でいましょう。自分の及ぼす影響を意識し、緊迫したやり取りがどのような作用を及ぼしかねないか考えましょう。ストレートかつ建設的、ポジティブでいましょう。自分の及ぼす影響や過ちに対して責任を持ちましょう。あなたの言葉や行為によって傷ついたという人がいたら、慎重に耳を傾け、真摯に謝り、今後はそのような行いを改めましょう。
 
@@ -349,6 +363,11 @@ Mozilla のスタッフは、このようなガイドラインに加えて、Moz
 参照リソース:<a href="%s">報告方法</a>
 
 
+;Questions: <a href="%s">cpg-questions@mozilla.com</a>
+Questions: <a href="%s">cpg-questions@mozilla.com</a>
+
+
+# String is obsolete. Do not remove.
 ;Questions: <a href="%s">inclusion@mozilla.com</a>
 ご質問:<a href="%s">inclusion@mozilla.com</a>
 
@@ -382,6 +401,11 @@ Mozilla イベント
 すべての Mozilla イベントには安全性に関する特定のガイドラインが指定され、イベントおよびオンラインに緊急時と乱用防止担当者が任命されます。これらの連絡先はイベント全体を通じて、印刷物およびオンライン資料にも目立つように掲載されます。イベントリーダーはイベントにおいてガイドラインについて話し、イベント登録時にこれらを確認して同意するように参加者に要請することが求められています。
 
 
+;Reports will receive an email notice of receipt. Once an incident has been investigated and a decision has been communicated to the relevant parties, all have the opportunity to appeal this decision by sending an email to <a href="%(mailto_questions)s">cpg-questions@mozilla.com</a>.
+Reports will receive an email notice of receipt. Once an incident has been investigated and a decision has been communicated to the relevant parties, all have the opportunity to appeal this decision by sending an email to <a href="%(mailto_questions)s">cpg-questions@mozilla.com</a>.
+
+
+# String is obsolete. Do not remove.
 ;Reports will receive an email notice of receipt. Once an incident has been investigated and a decision has been communicated to the relevant parties, all have the opportunity to appeal this decision by sending an email to <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>.
 報告が受領されるとメール通知が届きます。インシデントの調査が完了し、決定内容が関係者に通達された後、関係者は全員、<a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> にメールしてこの決定に異議を唱える機会が与えられます。
 
@@ -390,6 +414,11 @@ Mozilla イベント
 質問
 
 
+;Everyone is encouraged to ask questions about these guidelines. If you are organizing an event or activity, reach out for tips building inclusion for your event, activity or space. Your input is welcome and you will always get a response within 24 hours (or on the next weekday, if it is the weekend) if you reach out to <a href="%(mailto_questions)s">cpg-questions@mozilla.com</a>. Please <a href="%(changelog)s">review this change log</a> for updates to this document.
+Everyone is encouraged to ask questions about these guidelines. If you are organizing an event or activity, reach out for tips building inclusion for your event, activity or space. Your input is welcome and you will always get a response within 24 hours (or on the next weekday, if it is the weekend) if you reach out to <a href="%(mailto_questions)s">cpg-questions@mozilla.com</a>. Please <a href="%(changelog)s">review this change log</a> for updates to this document.
+
+
+# String is obsolete. Do not remove.
 ;Everyone is encouraged to ask questions about these guidelines. If you are organizing an event or activity, reach out for tips building inclusion for your event, activity or space. Your input is welcome and you will always get a response within 24 hours (or on the next weekday, if it is the weekend) if you reach out to <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>. If you wish you receive notice when we update the guidelines, drop us a line and we will add you to the updates notification list.
 これらのガイドラインについては、誰もが質問をすることが奨励されています。イベントまたは活動を主催する場合は、イベント、活動、スペースに包括性を組み込むヒントについてお問い合わせください。あなたのご意見を歓迎します。<a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> にご連絡いただいた場合、必ず 24 時間以内 (週末の場合は翌平日) に返信させていただきます。ガイドライン更新時に通知を受け取りたい方は、ご一報いただければ更新通知一覧に追加させていただきます。
 
@@ -410,6 +439,11 @@ Mozilla イベント
 本ガイドラインの修正
 
 
+;Mozilla may amend the guidelines from time to time and may also vary the procedures it sets out where appropriate in a particular case. Your agreement to comply with the guidelines will be deemed agreement to any changes to it. This policy does not form part of any Mozilla employee’s contract of employment or otherwise have contractual effect.
+Mozilla may amend the guidelines from time to time and may also vary the procedures it sets out where appropriate in a particular case. Your agreement to comply with the guidelines will be deemed agreement to any changes to it. This policy does not form part of any Mozilla employee’s contract of employment or otherwise have contractual effect.
+
+
+# String is obsolete. Do not remove.
 ;Mozilla may amend the guidelines from time to time and may also vary the procedures it sets out where appropriate in a particular case. Your agreement to comply with the guidelines will be deemed agreement to any changes to it. In case Mozilla amends the guidelines, the updated version can be found at <a href="%(guidelines)s">https://www.mozilla.org/about/governance/policies/participation/</a>. You can sign up for push updates by subscribing to <a href="%(group)s">https://groups.google.com/d/forum/mozilla-cpg</a>. This policy does not form part of any Mozilla employee’s contract of employment or otherwise have contractual effect.
 Mozilla では時折ガイドラインを改正し、特定の事例において適宜規定されている手順にも変更を加える場合があります。このガイドラインに従うことに同意した場合、ガイドラインに加えられる変更にも同意したと見なされます。Mozilla がこのガイドラインを改正した場合、更新版は <a href="%(guidelines)s">https://www.mozilla.org/about/governance/policies/participation/</a> に掲載されます。<a href="%(group)s">https://groups.google.com/d/forum/mozilla-cpg</a> に登録することで、更新に関するプッシュ通知を受け取ることができます。本ポリシーは、Mozilla 従業員の雇用契約の一部を形成するものでも、その他契約上の効力を持つものでもありません。
 

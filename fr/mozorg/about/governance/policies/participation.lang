@@ -11,6 +11,11 @@ Directives relatives à la participation communautaire
 Directives relatives à la participation communautaire de Mozilla
 
 
+;Version 3.1 – Updated January 16, 2020
+Version 3.1 – Updated January 16, 2020
+
+
+# String is obsolete. Do not remove.
 ;Version 3.0 – Updated November 28, 2018
 Version 3.0 - Mise à jour le 28 novembre 2018
 
@@ -70,6 +75,10 @@ ses aptitudes ;
 
 ;Race and/or ethnicity
 son origine ethnique ;
+
+
+;Caste
+Caste
 
 
 ;National origin
@@ -153,6 +162,11 @@ Les comportements suivants sont attendus des Mozilliens :
 Soyez respectueux
 
 
+;Value each other’s ideas, styles and viewpoints. We may not always agree, but disagreement is no excuse for poor manners. Be open to different possibilities and to being wrong. Be respectful in all interactions and communications, especially when debating the merits of different options. Be aware of your impact and how intense interactions may be affecting people. Be direct, constructive and positive. Take responsibility for your impact and your mistakes – if someone says they have been harmed through your words or actions, listen carefully, apologize sincerely, and correct the behavior going forward.
+Value each other’s ideas, styles and viewpoints. We may not always agree, but disagreement is no excuse for poor manners. Be open to different possibilities and to being wrong. Be respectful in all interactions and communications, especially when debating the merits of different options. Be aware of your impact and how intense interactions may be affecting people. Be direct, constructive and positive. Take responsibility for your impact and your mistakes – if someone says they have been harmed through your words or actions, listen carefully, apologize sincerely, and correct the behavior going forward.
+
+
+# String is obsolete. Do not remove.
 ;Value each other’s ideas, styles and viewpoints. We may not always agree, but disagreement is no excuse for poor manners. Be open to different possibilities and to being wrong. Be kind in all interactions and communications, especially when debating the merits of different options. Be aware of your impact and how intense interactions may be affecting people. Be direct, constructive and positive. Take responsibility for your impact and your mistakes – if someone says they have been harmed through your words or actions, listen carefully, apologize sincerely, and correct the behavior going forward.
 Accordez de l’importance aux idées, aux styles et au point de vue de chacun. Il se peut que nous ne soyons pas toujours d’accord, mais le désaccord n’excuse pas un mauvais comportement. Soyez ouvert à différentes possibilités et à l’éventualité d’avoir tort. Soyez aimable dans toutes vos interactions et communications, en particulier lors de discussions sur les avantages de différentes options. Soyez conscient des conséquences de vos actes et du fait que les interactions intenses peuvent affecter les autres. Soyez direct, constructif et positif. Assumez la responsabilité de vos erreurs et des répercussions de votre comportement. Si quelqu’un affirme avoir été blessé par vos mots ou vos actions, écoutez-le attentivement, excusez-vous sincèrement et modifiez votre comportement à l’avenir.
 
@@ -349,6 +363,11 @@ Après avoir reçu une description concise de votre situation, ils examineront e
 Ressources supplémentaires : <a href="%s">Comment effectuer un signalement</a>
 
 
+;Questions: <a href="%s">cpg-questions@mozilla.com</a>
+Questions: <a href="%s">cpg-questions@mozilla.com</a>
+
+
+# String is obsolete. Do not remove.
 ;Questions: <a href="%s">inclusion@mozilla.com</a>
 Questions : <a href="%s">inclusion@mozilla.com</a>
 
@@ -382,6 +401,11 @@ Les évènements Mozilla
 Tous les évènements Mozilla doivent avoir établi une directive de sécurité spécifique avec des contacts d’urgence et anti-abus pour l’évènement et l’espace en ligne. Ces contacts seront publiés de manière évidente tout au long de l’évènement ainsi que sur les documents imprimés et en ligne. Lors d’un évènement, les leaders d’évènements ont l’obligation de parler des directives et de demander aux participants de les consulter et de les accepter lorsqu’ils s’inscrivent à l’évènement.
 
 
+;Reports will receive an email notice of receipt. Once an incident has been investigated and a decision has been communicated to the relevant parties, all have the opportunity to appeal this decision by sending an email to <a href="%(mailto_questions)s">cpg-questions@mozilla.com</a>.
+Reports will receive an email notice of receipt. Once an incident has been investigated and a decision has been communicated to the relevant parties, all have the opportunity to appeal this decision by sending an email to <a href="%(mailto_questions)s">cpg-questions@mozilla.com</a>.
+
+
+# String is obsolete. Do not remove.
 ;Reports will receive an email notice of receipt. Once an incident has been investigated and a decision has been communicated to the relevant parties, all have the opportunity to appeal this decision by sending an email to <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>.
 Les rapports font l’objet d’un accusé de réception par courriel. Une fois qu’une enquête a été menée sur un incident et qu’une décision a été communiquée aux parties impliquées, toutes ont la possibilité de faire appel de cette décision en envoyant un courriel à l’adresse <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>.
 
@@ -390,6 +414,11 @@ Les rapports font l’objet d’un accusé de réception par courriel. Une fois 
 Posez des questions
 
 
+;Everyone is encouraged to ask questions about these guidelines. If you are organizing an event or activity, reach out for tips building inclusion for your event, activity or space. Your input is welcome and you will always get a response within 24 hours (or on the next weekday, if it is the weekend) if you reach out to <a href="%(mailto_questions)s">cpg-questions@mozilla.com</a>. Please <a href="%(changelog)s">review this change log</a> for updates to this document.
+Everyone is encouraged to ask questions about these guidelines. If you are organizing an event or activity, reach out for tips building inclusion for your event, activity or space. Your input is welcome and you will always get a response within 24 hours (or on the next weekday, if it is the weekend) if you reach out to <a href="%(mailto_questions)s">cpg-questions@mozilla.com</a>. Please <a href="%(changelog)s">review this change log</a> for updates to this document.
+
+
+# String is obsolete. Do not remove.
 ;Everyone is encouraged to ask questions about these guidelines. If you are organizing an event or activity, reach out for tips building inclusion for your event, activity or space. Your input is welcome and you will always get a response within 24 hours (or on the next weekday, if it is the weekend) if you reach out to <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>. If you wish you receive notice when we update the guidelines, drop us a line and we will add you to the updates notification list.
 Chacun est encouragé à poser des questions à propos des présentes directives. Si vous organisez un évènement ou une activité, demandez des conseils pour créer un environnement ouvert dans votre évènement, activité ou espace. Vos commentaires sont les bienvenus et vous recevrez toujours une réponse dans les 24 heures (ou le jour ouvré suivant si vous faites votre demande pendant le week-end), en écrivant à l’adresse <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>. Si vous souhaitez recevoir une notification lorsque nous mettons à jour les directives, écrivez-nous : nous vous ajouterons à la liste de notification des mises à jour.
 
@@ -410,6 +439,11 @@ Les présentes directives ont été adaptées (avec modifications) des Directive
 Modifications apportées à ces directives
 
 
+;Mozilla may amend the guidelines from time to time and may also vary the procedures it sets out where appropriate in a particular case. Your agreement to comply with the guidelines will be deemed agreement to any changes to it. This policy does not form part of any Mozilla employee’s contract of employment or otherwise have contractual effect.
+Mozilla may amend the guidelines from time to time and may also vary the procedures it sets out where appropriate in a particular case. Your agreement to comply with the guidelines will be deemed agreement to any changes to it. This policy does not form part of any Mozilla employee’s contract of employment or otherwise have contractual effect.
+
+
+# String is obsolete. Do not remove.
 ;Mozilla may amend the guidelines from time to time and may also vary the procedures it sets out where appropriate in a particular case. Your agreement to comply with the guidelines will be deemed agreement to any changes to it. In case Mozilla amends the guidelines, the updated version can be found at <a href="%(guidelines)s">https://www.mozilla.org/about/governance/policies/participation/</a>. You can sign up for push updates by subscribing to <a href="%(group)s">https://groups.google.com/d/forum/mozilla-cpg</a>. This policy does not form part of any Mozilla employee’s contract of employment or otherwise have contractual effect.
 Mozilla se réserve le droit de modifier périodiquement les directives et les procédures qu’elles stipulent le cas échéant en fonction des besoins. Votre acceptation à suivre ces directives sera considérée comme étendue à ces modifications. Lorsque Mozilla modifie ses directives, la version mise à jour du texte se trouve sur <a href="%(guidelines)s">https://www.mozilla.org/about/governance/policies/participation/</a>. Vous pouvez vous inscrire pour recevoir les mises à jour en vous abonnant à <a href="%(group)s">https://groups.google.com/d/forum/mozilla-cpg</a>. Cette politique ne s’inscrit pas dans les contrats de travail des employés de Mozilla et n’a aucun effet contractuel.
 

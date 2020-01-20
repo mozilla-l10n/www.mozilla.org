@@ -1,55 +1,55 @@
 # HTML page title.
 ;Firefox for Windows 64-bit
-Firefox for Windows 64-bit
+Firefox para Windows de 64 bits
 
 
 # HTML page description.
 ;Users on 64-bit Windows who download Firefox can get our 64-bit version by default. That means you get a more secure version of Firefox.
-Users on 64-bit Windows who download Firefox can get our 64-bit version by default. That means you get a more secure version of Firefox.
+Os utilizadores do Windows de 64 bits que transfiram o Firefox podem, por predefinição, obter a nossa versão de 64 bits. Isto significa que obtém uma versão mais segura do Firefox.
 
 
 ;64-bit
-64-bit
+64 bits
 
 
 ;A more secure Firefox.
-A more secure Firefox.
+Um Firefox mais seguro.
 
 
 ;Users on 64-bit Windows who download Firefox can get our 64-bit version by default. That means you get a more secure version of Firefox, one that also <a href="%(crashes)s">crashes a whole lot less</a>. How much less? In our tests so far, 64-bit Firefox reduced crashes by 39%% on machines with 4GB of RAM or more.
-Users on 64-bit Windows who download Firefox can get our 64-bit version by default. That means you get a more secure version of Firefox, one that also <a href="%(crashes)s">crashes a whole lot less</a>. How much less? In our tests so far, 64-bit Firefox reduced crashes by 39%% on machines with 4GB of RAM or more.
+Os utilizadores do Windows de 64 bits que transfiram o Firefox podem, por predefinição, obter a nossa versão de 64 bits. Isto significa que obtém uma versão mais segura do Firefox e que também <a href="%(crashes)s">falha muito menos</a>. Quanto menos? Nos nossos testes até ao momento, o Firefox de 64 bits reduziu as falhas em 39 %% em máquinas com 4GB de RAM ou mais.
 
 
 ;What’s the difference between 32-bit and 64-bit?
-What’s the difference between 32-bit and 64-bit?
+Qual é a diferença entre 32 e 64 bits?
 
 
 # The term "fret not" can be translated as "not to worry", or "don’t worry".
 ;Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
-Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
+A principal coisa a saber: as aplicações de 64 bits podem aceder a mais memória e têm menos probabilidade de falhar do que as aplicações de 32 bits. Além disso, com o salto de 32 para 64 bits, um recurso de segurança denominado por <a href=%(ASLR)s>Randomização da disposição do espaço de endereçamento (em Inglês, ASLR)</a> permite melhorar a sua proteção contra atacantes. Utilizadores do Linux e macOS, não se preocupem, pois já desfrutam de um Firefox otimizado para 64 bits.
 
 
 ;How do you get 64-bit Firefox?
-How do you get 64-bit Firefox?
+Como obtenho o Firefox de 64 bits?
 
 
 ;If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
-If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
+Se estiver a executar o Windows de 64 bits (<a href="%(version)s">pode confirmar aqui</a>), o seu Firefox pode ser já de 64 bits. <a href="%(check)s">Confirme a sua versão do Firefox</a> (na janela “Acerca do Firefox“) procure por “(32 bits)“ ou “(64 bits)“ após o número da versão:
 
 
 ;If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
-If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.
+Se for apresentado um “(32 bits)“ e estiver a executar o Firefox 56.0 ou mais antigo, a atualização para a versão mais recente do Firefox deve atualizar automaticamente para a versão 64 bits.
 
 
 ;If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
-If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
+Se for apresentado “(32 bits)” e estiver a executar o Firefox 56.0.1 ou mais recente, o seu computador pode não cumprir o requisito mínimo de memória para os 64 bits (3 GB ou mais de RAM). Pode ainda instalar manualmente o Firefox de 64 bits, se assim o entender.
 
 
 ;If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>
-If you need to run 32-bit Firefox or manually install 64-bit Firefox, you can simply download and re-run the Windows (32-bit or 64-bit) Firefox installer from the <a href="%(all)s">Firefox platforms and languages download page.</a>
+Se precisar de executar o Firefox de 32 bits ou instalar manualmente o Firefox de 64 bits, basta transferir e executar novamente o instalador do Windows (32 ou 64 bits) do Firefox a partir da <a href="%(all)s">página de transferência das plataformas e idiomas do Firefox.</a>
 
 
 ;Take control of your browser.
-Take control of your browser.
+Assuma o controlo do seu navegador.
 
 

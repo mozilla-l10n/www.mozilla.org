@@ -21,7 +21,7 @@ Firefox 浏览器与 Microsoft Edge 之间的比较
 
 
 ;Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
-Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
+在此，我们将 Firefox 浏览器与基于 Chromium 的 Microsoft Edge 在隐私、实用和跨平台方面进行比较，以便您更好地了解哪款浏览器更符合自身需求与偏好。
 
 
 ;Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
@@ -29,15 +29,15 @@ Edge 已集成至 Windows 10 平台，并在沙盒环境中运行，这意味着
 
 
 ;However, Edge saves some of your private data and sends it back to Microsoft with Windows updates. At 45 cryptically worded pages long, the privacy policy for Edge is unlikely to be read or understood by the average user.
-However, Edge saves some of your private data and sends it back to Microsoft with Windows updates. At 45 cryptically worded pages long, the privacy policy for Edge is unlikely to be read or understood by the average user.
+然而，Edge 会保存您的某些个人数据，并将其与 Windows 更新一同发送回 Microsoft。Edge 的隐私政策篇幅达 45 页，一般用户不大可能阅读或理解。
 
 
 ;At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
-At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
+我们的 Firefox %(attrs)s隐私政策</a>是公开透明的，并使用通俗的语言。实际上，我们进行了大量工作来确保它浅显易懂。我们为保护用户的安全和隐私而感到自豪，Firefox 默认情况下即启用增强型跟踪保护，可自动拦截超过 2000 种跟踪器。跟踪器是试图将您在多个网站上的活动汇总的一小段代码，用以勾勒出您的精细数据画像，损害您的隐私，所有这些都是为了更精准地推送广告。
 
 
 ;Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
-Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
+您的%(attrs)s隐私保护</a>页面会显示 Firefox 已为您拦截的跟踪器和 Cookie 数量。
 
 
 ;In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.

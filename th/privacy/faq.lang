@@ -87,7 +87,7 @@ Mozilla ไม่ใช่องค์กรทั่ว ๆ ไปอย่า�
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+Mozilla จะรวบรวมชุดข้อมูลในจำนวนจำกัดตามค่าเริ่มต้นจาก Firefox ซึ่งช่วยให้เราเข้าใจได้ว่าผู้คนใช้เบราว์เซอร์อย่างไร โดยข้อมูลดังกล่าวจะเชื่อมโยงกับตัวระบุแบบสุ่ม ไม่ใช่ชื่อหรือที่อยู่อีเมลของคุณ คุณสามารถอ่านเพิ่มเติมเกี่ยวกับสิ่งนั้นได้ใน<a href="%(privacy)s">ประกาศความเป็นส่วนตัว</a>ของเราและคุณสามารถอ่าน<a href="%(data)s">เอกสารฉบับเต็มเกี่ยวกับการรวบรวมข้อมูลดังกล่าว</a>ได้
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
@@ -96,11 +96,11 @@ Mozilla does collect a limited set of data by default from Firefox that helps us
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-That documentation is gobbledygook to me! Can you give it to me in plain English?
+เอกสารนั่นอ่านแล้วดูเข้าใจยากจังเลย! คุณช่วยอธิบายเป็นภาษาไทยแบบง่าย ๆ ได้ไหม?
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+มีข้อมูลสองประเภทที่เรารวบรวมตามค่าเริ่มต้นใน Firefox รุ่นเปิดตัวของเรา
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
@@ -108,7 +108,7 @@ There are two categories of data that we collect by default in our release versi
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
-The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
+ประการที่สองคือสิ่งที่เราเรียกว่า "ข้อมูลการโต้ตอบ" ซึ่งเป็นข้อมูลเกี่ยวกับการมีส่วนร่วมระหว่างผู้คนแต่ละคนกับ Firefox เช่น จำนวนแท็บที่เปิด สถานะค่ากำหนดของผู้ใช้ หรือจำนวนครั้งที่ใช้คุณสมบัติของเบราว์เซอร์บางอย่าง เช่น ภาพหน้าจอ หรือการแยกข้อมูล ตัวอย่างเช่น เราจะรวบรวมข้อมูลนี้เกี่ยวกับ ปุ่มย้อนกลับ ซึ่งเป็นปุ่มลูกศรที่อยู่มุมซ้ายบนของเบราว์เซอร์ซึ่งช่วยให้คุณนำทางกลับไปยังหน้าเว็บก่อนหน้าซึ่งดูว่าแต่ละคนใช้ปุ่มย้อนกลับอย่างไร แต่จะไม่ระบุว่ามีการเข้าถึงหน้าเว็บใดบ้าง
 
 
 ;Do you collect more data in pre-release versions of Firefox?
@@ -116,7 +116,7 @@ The second is what we call "interaction data." This is data about an individual'
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
-Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
+นอกจากข้อมูลที่เราอธิบายข้างต้น เราก็รับรายงานเกี่ยวกับการล่มและข้อผิดพลาดตามค่าเริ่มต้นใน Firefox รุ่นก่อนเปิดตัว
 
 
 # Links to https://support.mozilla.org/kb/shield

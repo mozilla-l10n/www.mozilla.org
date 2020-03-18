@@ -6,14 +6,29 @@
 500: Internal Server Error {ok}
 
 
+;Something went wrong
+Something went wrong
+
+
+;It’s probably just a server error and we’re working to fix it.
+It’s probably just a server error and we’re working to fix it.
+
+
+;You can also try refreshing this page or go to <a href=%(firefox)s>firefox.com</a> or <a href=%(mozilla)s>mozilla.org</a>
+You can also try refreshing this page or go to <a href=%(firefox)s>firefox.com</a> or <a href=%(mozilla)s>mozilla.org</a>
+
+
+# This string is obsolete. Do not remove.
 ;Oh Noes!
 Ох не!
 
 
+# This string is obsolete. Do not remove.
 ;An error occurred.
 Дошло је до грешке.
 
 
+# This string is obsolete. Do not remove.
 ;If you’ve found an issue with one of our websites, we’d appreciate it if you could report the problem in Bugzilla, our <a href="%(bugzilla)s">bug tracker</a>. One of our developers will take a look at it as soon as possible.
 Ако сте открили проблем са неком од наших веб страница, били би јако захвални ако бисте нас обавестили о томе на Bugzilla-и, нашем <a href="%(bugzilla)s">трагачу грешака</a>. Један од наших програмера ће бацити поглед што је пре могуће.
 

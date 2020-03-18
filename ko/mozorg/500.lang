@@ -6,14 +6,29 @@
 500: 내부 서버 오류
 
 
+;Something went wrong
+Something went wrong
+
+
+;It’s probably just a server error and we’re working to fix it.
+It’s probably just a server error and we’re working to fix it.
+
+
+;You can also try refreshing this page or go to <a href=%(firefox)s>firefox.com</a> or <a href=%(mozilla)s>mozilla.org</a>
+You can also try refreshing this page or go to <a href=%(firefox)s>firefox.com</a> or <a href=%(mozilla)s>mozilla.org</a>
+
+
+# This string is obsolete. Do not remove.
 ;Oh Noes!
 오, 이런!
 
 
+# This string is obsolete. Do not remove.
 ;An error occurred.
 오류가 발생했습니다.
 
 
+# This string is obsolete. Do not remove.
 ;If you’ve found an issue with one of our websites, we’d appreciate it if you could report the problem in Bugzilla, our <a href="%(bugzilla)s">bug tracker</a>. One of our developers will take a look at it as soon as possible.
 웹사이트의 이슈를 발견하셨다면 <a href="%(bugzilla)s">버그 트래커</a>인 Bugzilla에 올려주시면 감사하겠습니다. 가능한 빨리 개발자가 이슈를 살펴보겠습니다.
 

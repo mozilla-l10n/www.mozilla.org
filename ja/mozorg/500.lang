@@ -6,14 +6,29 @@
 500: 内部サーバーエラー
 
 
+;Something went wrong
+Something went wrong
+
+
+;It’s probably just a server error and we’re working to fix it.
+It’s probably just a server error and we’re working to fix it.
+
+
+;You can also try refreshing this page or go to <a href=%(firefox)s>firefox.com</a> or <a href=%(mozilla)s>mozilla.org</a>
+You can also try refreshing this page or go to <a href=%(firefox)s>firefox.com</a> or <a href=%(mozilla)s>mozilla.org</a>
+
+
+# This string is obsolete. Do not remove.
 ;Oh Noes!
 おっと！
 
 
+# This string is obsolete. Do not remove.
 ;An error occurred.
 問題が発生しました。
 
 
+# This string is obsolete. Do not remove.
 ;If you’ve found an issue with one of our websites, we’d appreciate it if you could report the problem in Bugzilla, our <a href="%(bugzilla)s">bug tracker</a>. One of our developers will take a look at it as soon as possible.
 Mozilla のサイト上で何か問題を見つけた場合は、私たちのバグ追跡システムである <a href="%(bugzilla)s">Bugzilla</a> で報告してもらえると助かります。それによって開発者ができるだけ早く調査に取り掛かれます。
 

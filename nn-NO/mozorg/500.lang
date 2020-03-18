@@ -6,14 +6,29 @@
 500: Intern serverfeil
 
 
+;Something went wrong
+Something went wrong
+
+
+;It’s probably just a server error and we’re working to fix it.
+It’s probably just a server error and we’re working to fix it.
+
+
+;You can also try refreshing this page or go to <a href=%(firefox)s>firefox.com</a> or <a href=%(mozilla)s>mozilla.org</a>
+You can also try refreshing this page or go to <a href=%(firefox)s>firefox.com</a> or <a href=%(mozilla)s>mozilla.org</a>
+
+
+# This string is obsolete. Do not remove.
 ;Oh Noes!
 Åh nei!
 
 
+# This string is obsolete. Do not remove.
 ;An error occurred.
 Det oppstod ein feil.
 
 
+# This string is obsolete. Do not remove.
 ;If you’ve found an issue with one of our websites, we’d appreciate it if you could report the problem in Bugzilla, our <a href="%(bugzilla)s">bug tracker</a>. One of our developers will take a look at it as soon as possible.
 Om du har funne eit problem med nokre av nettsidene våre, set vi pris på om du kunne rapportere problemet i <a href="%(bugzilla)s">feilsøkaren</a> vår, Bugzilla. Ein av utviklarane våre vil sjå på det så snart som mogleg.
 

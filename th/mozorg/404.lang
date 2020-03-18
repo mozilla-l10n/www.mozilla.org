@@ -6,26 +6,56 @@
 404: ไม่พบหน้า
 
 
+;Sorry, we can’t find that page
+Sorry, we can’t find that page
+
+
+;We’re all about a healthy internet but sometimes broken URLs happen.
+We’re all about a healthy internet but sometimes broken URLs happen.
+
+
+;Go Back
+Go Back
+
+
+;<a href="%(about)s">Learn</a> about Mozilla, the non-profit behind Firefox.
+<a href="%(about)s">Learn</a> about Mozilla, the non-profit behind Firefox.
+
+
+;<a href=%(explore)s>Explore</a> the entire family for Firefox products designed to respect your privacy.
+<a href=%(explore)s>Explore</a> the entire family for Firefox products designed to respect your privacy.
+
+
+;<a href=%(download)s>Download</a> the Firefox browser for your mobile device or desktop
+<a href=%(download)s>Download</a> the Firefox browser for your mobile device or desktop
+
+
+# This string is obsolete. Do not remove.
 ;Whoops!
 อุ๊บส์!
 
 
+# This string is obsolete. Do not remove.
 ;Did you make a left at that last URL instead of a right? No problem. Here are some tips to get you back on your way:
 ไม่พบ URLที่คุณกำลังตามหา ไม่เป็นไร นี้คือเคล็ดในการกลับไปตามทางของคุณ:
 
 
+# This string is obsolete. Do not remove.
 ;If you typed in the address, check your spelling. Could just be a typo.
 ถ้าคุณป้อนที่อยู่เว็บ ตรวจสอบการสะกดของคุณ อาจจะเกิดจากความผิดพลาดในการพิมพ์
 
 
+# This string is obsolete. Do not remove.
 ;If you’ve found an issue with one of our websites, we’d appreciate it if you could report the problem in Bugzilla, our <a href="%(bugzilla)s">bug tracker</a>. One of our developers will take a look at it as soon as possible.
 ถ้าคุณพบปัญหากับเว็บไซต์ของเรา เราจะซาบซึ้งถ้าคุณสามารถรายงานปัญหาใน Bugzilla <a href="%(bugzilla)s">bug tracker</a> หนึ่งในทีมพัฒนาของเราจะมาดูให้เร็วที่สุด
 
 
+# This string is obsolete. Do not remove.
 ;If you followed a link, it’s probably broken.
 ถ้าคุณตามลิงก์มา ลิงก์อาจจะไม่สมบูรณ์
 
 
+# This string is obsolete. Do not remove.
 ;If you’re not sure what you’re looking for, start at <a href="%(url)s">mozilla.org</a>.
 ถ้าคุณไม่แน่ใจว่าคุณกำลังมองหาอะไรอยู่ เริ่มต้นที่ <a href="%(url)s">mozilla.org</a>
 

@@ -6,26 +6,56 @@
 404: 找不到網頁
 
 
+;Sorry, we can’t find that page
+Sorry, we can’t find that page
+
+
+;We’re all about a healthy internet but sometimes broken URLs happen.
+We’re all about a healthy internet but sometimes broken URLs happen.
+
+
+;Go Back
+Go Back
+
+
+;<a href="%(about)s">Learn</a> about Mozilla, the non-profit behind Firefox.
+<a href="%(about)s">Learn</a> about Mozilla, the non-profit behind Firefox.
+
+
+;<a href=%(explore)s>Explore</a> the entire family for Firefox products designed to respect your privacy.
+<a href=%(explore)s>Explore</a> the entire family for Firefox products designed to respect your privacy.
+
+
+;<a href=%(download)s>Download</a> the Firefox browser for your mobile device or desktop
+<a href=%(download)s>Download</a> the Firefox browser for your mobile device or desktop
+
+
+# This string is obsolete. Do not remove.
 ;Whoops!
 喔喔！
 
 
+# This string is obsolete. Do not remove.
 ;Did you make a left at that last URL instead of a right? No problem. Here are some tips to get you back on your way:
 找不到原本想看的網頁嗎？沒關係，以下是一些幫助您找回東西的小秘訣：
 
 
+# This string is obsolete. Do not remove.
 ;If you typed in the address, check your spelling. Could just be a typo.
 若您一個字一個字輸入網址，請檢查有沒有拼錯，可能只是打錯字而已。
 
 
+# This string is obsolete. Do not remove.
 ;If you’ve found an issue with one of our websites, we’d appreciate it if you could report the problem in Bugzilla, our <a href="%(bugzilla)s">bug tracker</a>. One of our developers will take a look at it as soon as possible.
 若您發現了網站上的問題，方便的話請到我們的 <a href="%(bugzilla)s">問題追蹤系統 Bugzilla</a> 回報，不勝感激。我們的開發者會盡速來解決這個問題。
 
 
+# This string is obsolete. Do not remove.
 ;If you followed a link, it’s probably broken.
 若您點擊了其他網頁上的超連結，可能是該連結壞掉了。
 
 
+# This string is obsolete. Do not remove.
 ;If you’re not sure what you’re looking for, start at <a href="%(url)s">mozilla.org</a>.
 若您不確定要找的是什麼東西，請回到 <a href="%(url)s">mozilla.org</a> 再找找看。
 

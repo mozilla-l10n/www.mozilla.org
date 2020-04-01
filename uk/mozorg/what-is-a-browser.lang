@@ -45,11 +45,11 @@
 
 
 ;<a href="%(hyperlink)s">Hyperlinks</a> allow users to follow a path to other pages or sites on the web. Every webpage, image and video has its own unique <a href="%(url)s">Uniform Resource Locator</a> (URL), which is also known as a web address. When a browser visits a server for data, the web address tells the browser where to look for each item that is described in the html, which then tells the browser where it goes on the web page.
-<a href="%(hyperlink)s">Hyperlinks</a> allow users to follow a path to other pages or sites on the web. Every webpage, image and video has its own unique <a href="%(url)s">Uniform Resource Locator</a> (URL), which is also known as a web address. When a browser visits a server for data, the web address tells the browser where to look for each item that is described in the html, which then tells the browser where it goes on the web page.
+<a href="%(hyperlink)s">Гіперпосилання</a> дає можливість користувачам переходити до інших сторінок або сайтів в Інтернеті. Кожна вебсторінка, зображення та відео має свій унікальний <a href="%(url)s">Uniform Resource Locator</a> (URL), який також відомий як вебадреса. Коли браузер звертається до сервера для передачі даних, вебадреса повідомляє браузеру, де шукати кожен елемент, описаний у HTML коді, який потім повідомляє браузеру, до якої частини вебсторінки йому переходити.
 
 
 ;Cookies (not the yummy kind)
-Cookies (not the yummy kind)
+Куки
 
 
 ;Websites save information about you in files called <a href="%(cookies)s">cookies</a>. They are saved on your computer for the next time you visit that site. Upon your return, the website code will read that file to see that it’s you. For example, when you go to a website and the page remembers your username and password – that’s made possible by a cookie.

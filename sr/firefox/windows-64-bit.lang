@@ -26,15 +26,15 @@ A more secure Firefox.
 
 # The term "fret not" can be translated as "not to worry", or "don’t worry".
 ;Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
-Here’s the key thing to know: 64-bit applications can access more memory and are less likely to crash than 32-bit applications. Also, with the jump from 32 to 64 bits, a security feature called <a href=%(ASLR)s>Address Space Layout Randomization (ASLR)</a> works better to protect you from attackers. Linux and macOS users, fret not, you already enjoy a Firefox that’s optimized for 64-bit.
+Кључна ствар коју треба да знате је да 64-битни програми могу приступити већој количини меморије и мања је вероватноћа да ће се срушити него 32-битни програми. Такође, са скоком са 32 на 64 бита, сигурносна функција под називом <a href=%(ASLR)s>насумичност распореда адресног простора (Address Space Layout Randomization)</a> ради боље на вашој заштити од хакера. Ако користите Linux или macOS,  не брините, већ уживате у Firefox-у оптимизованим за 64-битни систем.
 
 
 ;How do you get 64-bit Firefox?
-How do you get 64-bit Firefox?
+Како добити 64-битни Firefox?
 
 
 ;If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
-If you’re running 64-bit Windows (<a href="%(version)s">here’s how to check</a>), your Firefox may already be 64-bit. <a href="%(check)s">Check your Firefox version</a> (in the “About Firefox” window) and look for “(32-bit)” or “(64-bit)” after the version number:
+Ако имате 64-битни Windows (<a href="%(version)s">ево како да проверите</a>), ваш Firefox можда већ јесте 64-битни. <a href="%(check)s">Проверите вашу Firefox верзију</a> (у “О Firefox-у” прозору) и потражите “(32-битна)” или “(64-битна)” после броја верзије:
 
 
 ;If you see “(32-bit)” and you are running Firefox 56.0 or older, updating to the latest Firefox version should automatically upgrade you to 64-bit.

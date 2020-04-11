@@ -91,15 +91,15 @@ Firefox 瀏覽器
 
 
 ;Firefox browser - MSI installer
-Firefox 瀏覽器 - MSI 安裝格式
+Firefox 瀏覽器 - MSI 安裝程式
 
 
 ;Firefox Extended Support Release (ESR)
-Firefox Extended Support Release (ESR)
+Firefox Extended Support Release (ESR) {ok}
 
 
 ;Firefox Extended Support Release (ESR) - MSI installer
-Firefox Extended Support Release (ESR) - MSI installer
+Firefox Extended Support Release (ESR) - MSI 安裝程式
 
 
 ;Support
@@ -148,6 +148,6 @@ Windows 32 位元
 
 # line break for visual formatting
 ;Download Firefox ESR or Rapid Release for<br> <a href="%(firefox_all)s">another language or platform.</a>
-Download Firefox ESR or Rapid Release for<br> <a href="%(firefox_all)s">another language or platform.</a>
+<a href="%(firefox_all)s">下載其他語言或平台</a>的<br>Firefox ESR 或快速發行版本。
 
 
